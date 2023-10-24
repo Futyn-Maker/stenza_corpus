@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask, render_template, request, redirect, url_for
 
 from search_db import search
@@ -22,4 +24,4 @@ def show_results():
     return render_template("results.html", query=request.args["query"], results=results)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host="0.0.0.0", port=int(os.environ.get('PORT', 5000)))
