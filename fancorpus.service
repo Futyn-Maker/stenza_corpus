@@ -1,0 +1,11 @@
+[Unit]
+Description=FanCorpus
+After=network.target
+[Service]
+User=flask_apps
+Group=www-data
+WorkingDirectory=/home/flask_apps/fancorpus/app
+Environment="PATH=/home/flask_apps/.venvs/fancorpus/bin"
+ExecStart=/home/flask_apps/.venvs/fancorpus/bin/gunicorn --workers 3 --bind unix:/home/flask_apps/fancorpus/app/app.sock -m 007 wsgi:app
+[Install]
+WantedBy=multi-user.target
