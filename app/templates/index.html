@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block title %} Главная страница {% endblock %}
+
+{% set active = 'index' %}
+
+{% block content %}
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h2>Что это?</h2>
+            <p>
+              FanCorpus &ndash; это лемматизированный и имеющий частиречную разметку корпус, собранный из текстов фанфиков по вселенной Доктора Кто.
+            </p>
+            <p>
+              Используйте поисковую строку ниже, чтобы исследовать тексты.
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <form role="form" action="/results" method="GET" class="d-flex">
+              <label for="query" class="form-label">Запрос:</label>
+              <input name="query" id="query" class="form-control me-2" type="search" placeholder="ADJ дом" />
+              <input class="btn btn-outline-success" type="submit" value="Найти" />
+            </form>
+          </div>
+        </div>
+      </div>
+{% endblock %}

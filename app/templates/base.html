@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <title>{% block title %} {% endblock %} &mdash; FanCorpus</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+  </head>
+
+  <body>
+
+    <div class="skippy visually-hidden-focusable overflow-hidden">
+      <div class="container-xl">
+        <a class="d-inline-flex p-2 m-1" href="#content">Перейти к содержимому</a>
+      </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">FanCorpus</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Показать меню">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0" aria-label="меню сайта">
+            <li class="nav-item">
+              <a {% if active == 'index' %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="/">Главная страница</a>
+            </li>
+            <li class="nav-item">
+              <a {% if active == 'help' %}class="nav-link active" aria-current="page"{% else %}class="nav-link"{% endif %} href="/help">Помощь по поиску</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main id="content" style="margin: 50px 10%">
+      <div class="page-header">
+        <h1>{{self.title()}}</h1>
+      </div>
+{% block content %} {% endblock %}
+    </main>
+
+    <footer class="py-3 my-4">
+      <p class="text-center text-muted">&copy; 2023 Алиса Лёзина, Полина Уткина, Дарья Харламова, Андрей Якубой</p>
+<a href="https://github.com/Futyn-Maker/fancorpus">Исходный код на GitHub</a>
+    </footer>
+  </body>
+</html>

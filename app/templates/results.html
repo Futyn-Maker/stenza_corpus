@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block title %} Результаты поиска для: {{query}} {% endblock %}
+
+{% block content %}
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Всего найдено предложений: {{ results|length }}</p>
+            <ul class="list-unstyled">
+              {% for sentence, metadata in results %}
+                <li class="mb-3">
+                  <article class="card mb-3">
+                    <div class="card-body">
+                      <div>{{ sentence }}</div>
+                      <div class="text-muted small">
+                        {{ metadata }}
+                      </div>
+                    </div>
+                  </article>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+{% endblock %}
