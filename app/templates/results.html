@@ -16,6 +16,7 @@
                       <div class="text-muted small">
                         <a href="{{ link }}">{{ author }} &mdash; {{ title }}</a>
                       </div>
+                      <button class="btn btn-secondary copy-btn mt-2" data-clipboard-text="{{ sentence }} [{{ author }} &mdash; {{ title }} ({{ link }})]">Скопировать пример</button>
                     </div>
                   </article>
                 </li>
@@ -24,4 +25,9 @@
           </div>
         </div>
       </div>
+
+      <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
+      <script>
+        new ClipboardJS('.copy-btn');
+      </script>
 {% endblock %}
