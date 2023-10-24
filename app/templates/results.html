@@ -8,13 +8,13 @@
           <div class="col-12">
             <p>Всего найдено предложений: {{ results|length }}</p>
             <ul class="list-unstyled">
-              {% for sentence, metadata in results %}
+              {% for sentence, author, title, link in results %}
                 <li class="mb-3">
                   <article class="card mb-3">
                     <div class="card-body">
                       <div>{{ sentence }}</div>
                       <div class="text-muted small">
-                        {{ metadata }}
+                        <a href="{{ link }}">{{ author }} &mdash; {{ title }}</a>
                       </div>
                     </div>
                   </article>
