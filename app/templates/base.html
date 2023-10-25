@@ -41,6 +41,9 @@
         <h1>{{self.title()}}</h1>
       </div>
 {% block content %} {% endblock %}
+{% if active is not defined or active != "index" %}
+      <a href="/" class="btn btn-primary text-center d-block mx-auto">Вернуться на главную</a>
+{% endif %}
     </main>
 
     <footer class="py-3 my-4">

@@ -3,6 +3,11 @@
 {% block title %} Результаты поиска для: {{query}} {% endblock %}
 
 {% block content %}
+{% if results|length == 0 %}
+      <p class="alert alert-secondary">
+        По запросу <code> {{ query }} </code> нет подходящих результатов. :(
+      </p>
+{% else %}
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -30,4 +35,5 @@
       <script>
         new ClipboardJS('.copy-btn');
       </script>
+{% endif %}
 {% endblock %}

@@ -2,7 +2,7 @@ import sqlite3
 
 from pymorphy3 import MorphAnalyzer
 
-from config import DB_NAME
+from config import DB_NAME, POS_TAGS
 
 
 morph = MorphAnalyzer()
@@ -104,7 +104,7 @@ def parse_query(query):
             # lemma+POS
             lemma, pos = token.split('+')
             parsed_tokens.append(([lemma.lower(), pos], 'lemma+POS'))
-        elif token.isupper():
+        elif token in POS_TAGS:
             # Поиск части речи
             parsed_tokens.append(([token], 'POS'))
         else:
