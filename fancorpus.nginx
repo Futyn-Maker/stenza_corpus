@@ -1,9 +1,0 @@
-server {
-    listen 80;
-    server_name fancorpus.fikl.ru;
-
-    location / {
-        include proxy_params;
-        proxy_pass http://unix:/home/flask_apps/fancorpus/app/app.sock;
-    }
-}

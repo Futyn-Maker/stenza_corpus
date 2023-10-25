@@ -1,0 +1,11 @@
+[Unit]
+Description=Stenza Corpus
+After=network.target
+[Service]
+User=flask_apps
+Group=www-data
+WorkingDirectory=/home/flask_apps/stenza_corpus/app
+Environment="PATH=/home/flask_apps/.venvs/stenza/bin"
+ExecStart=/home/flask_apps/.venvs/stenza/bin/gunicorn --workers 3 --bind unix:/home/flask_apps/stenza_corpus/app/app.sock -m 007 wsgi:app
+[Install]
+WantedBy=multi-user.target
