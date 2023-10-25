@@ -1,0 +1,837 @@
+# text = Доктор был потрясен до глубины души, когда увидел... себя?
+# sent_id = 0
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	start_char=0|end_char=6
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	start_char=7|end_char=10
+3	потрясен	потрясти	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=11|end_char=19
+4	до	до	ADP	_	_	5	case	_	start_char=20|end_char=22
+5	глубины	глубина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=23|end_char=30
+6	души	душа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=31|end_char=35
+7	,	,	PUNCT	_	_	9	punct	_	start_char=35|end_char=36
+8	когда	когда	SCONJ	_	_	9	mark	_	start_char=37|end_char=42
+9	увидел	увидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=43|end_char=49
+10	...	...	PUNCT	_	_	9	punct	_	start_char=49|end_char=52
+11	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	obj	_	start_char=53|end_char=57
+12	?	?	PUNCT	_	_	3	punct	_	start_char=57|end_char=58
+
+# text = Кого-то другого, так похожего на себя-очень-давнего, а теперь еще и... пожилого?
+# sent_id = 1
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Кого-то	кто-то	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	0	root	_	start_char=59|end_char=66
+2	другого	другой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	1	det	_	start_char=67|end_char=74
+3	,	,	PUNCT	_	_	5	punct	_	start_char=74|end_char=75
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=76|end_char=79
+5	похожего	похожий	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	acl	_	start_char=80|end_char=88
+6	на	на	ADP	_	_	7	case	_	start_char=89|end_char=91
+7	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	obl	_	start_char=92|end_char=96
+8	-	-	PUNCT	_	_	5	punct	_	start_char=96|end_char=97
+9	очень	очень	ADV	_	Degree=Pos	11	advmod	_	start_char=97|end_char=102
+10	-	-	PUNCT	_	_	11	punct	_	start_char=102|end_char=103
+11	давнего	давний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	start_char=103|end_char=110
+12	,	,	PUNCT	_	_	14	punct	_	start_char=110|end_char=111
+13	а	а	CCONJ	_	_	14	cc	_	start_char=112|end_char=113
+14	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=114|end_char=120
+15	еще	еще	ADV	_	Degree=Pos	16	advmod	_	start_char=121|end_char=124
+16	и	и	PART	_	_	18	advmod	_	start_char=125|end_char=126
+17	...	...	PUNCT	_	_	16	punct	_	start_char=126|end_char=129
+18	пожилого	пожилой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	start_char=130|end_char=138
+19	?	?	PUNCT	_	_	1	punct	_	start_char=138|end_char=139
+
+# text = Как это возможно?
+# sent_id = 2
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=140|end_char=143
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=144|end_char=147
+3	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=148|end_char=156
+4	?	?	PUNCT	_	_	3	punct	_	start_char=156|end_char=157
+
+# text = Или это случайное внешнее сходство?
+# sent_id = 3
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Или	или	CCONJ	_	_	5	cc	_	start_char=158|end_char=161
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=162|end_char=165
+3	случайное	случайный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=166|end_char=175
+4	внешнее	внешний	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=176|end_char=183
+5	сходство	сходство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=184|end_char=192
+6	?	?	PUNCT	_	_	5	punct	_	start_char=192|end_char=193
+
+# text = – Вот так вот... – будто прочитал его мысли куратор музея.
+# sent_id = 4
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	3	punct	_	start_char=195|end_char=196
+2	Вот	вот	PART	_	_	3	advmod	_	start_char=197|end_char=200
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=201|end_char=204
+4	вот	вот	PART	_	_	3	advmod	_	start_char=205|end_char=208
+5	...	...	PUNCT	_	_	3	punct	_	start_char=208|end_char=211
+6	–	–	PUNCT	_	_	8	punct	_	start_char=212|end_char=213
+7	будто	будто	SCONJ	_	_	8	mark	_	start_char=214|end_char=219
+8	прочитал	прочесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=220|end_char=228
+9	его	его	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=229|end_char=232
+10	мысли	мысль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=233|end_char=238
+11	куратор	куратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=239|end_char=246
+12	музея	музей	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	start_char=247|end_char=252
+13	.	.	PUNCT	_	_	3	punct	_	start_char=252|end_char=253
+
+# text = – Живешь-живешь, думаешь, что ты – живое биологическое существо, Доктор...
+# sent_id = 5
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	2	punct	_	start_char=254|end_char=255
+2	Живешь	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=256|end_char=262
+3	-	-	PUNCT	_	_	4	punct	_	start_char=262|end_char=263
+4	живешь	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=263|end_char=269
+5	,	,	PUNCT	_	_	6	punct	_	start_char=269|end_char=270
+6	думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=271|end_char=278
+7	,	,	PUNCT	_	_	13	punct	_	start_char=278|end_char=279
+8	что	что	SCONJ	_	_	13	mark	_	start_char=280|end_char=283
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=284|end_char=286
+10	–	–	PUNCT	_	_	13	punct	_	start_char=287|end_char=288
+11	живое	живой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=289|end_char=294
+12	биологическое	биологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=295|end_char=308
+13	существо	существо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	ccomp	_	start_char=309|end_char=317
+14	,	,	PUNCT	_	_	15	punct	_	start_char=317|end_char=318
+15	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	conj	_	start_char=319|end_char=325
+16	...	...	PUNCT	_	_	2	punct	_	start_char=325|end_char=328
+
+# text = – А разве?!..
+# sent_id = 6
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	3	punct	_	start_char=330|end_char=331
+2	А	а	CCONJ	_	_	3	cc	_	start_char=332|end_char=333
+3	разве	разве	PART	_	_	0	root	_	start_char=334|end_char=339
+4	?!..	?!..	PUNCT	_	_	3	punct	_	start_char=339|end_char=343
+
+# text = – Регенерация.
+# sent_id = 7
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	2	punct	_	start_char=345|end_char=346
+2	Регенерация	регенерация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=347|end_char=358
+3	.	.	PUNCT	_	_	2	punct	_	start_char=358|end_char=359
+
+# text = Сам подумай, возможно ли такое?
+# sent_id = 8
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	2	obl	_	start_char=360|end_char=363
+2	подумай	подумать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=364|end_char=371
+3	,	,	PUNCT	_	_	4	punct	_	start_char=371|end_char=372
+4	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	ccomp	_	start_char=373|end_char=381
+5	ли	ли	PART	_	_	4	advmod	_	start_char=382|end_char=384
+6	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=385|end_char=390
+7	?	?	PUNCT	_	_	2	punct	_	start_char=390|end_char=391
+
+# text = Не заживить ранку, не отрастить хвост, а полностью поменять свою ДНК?
+# sent_id = 9
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=392|end_char=394
+2	заживить	заживить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=395|end_char=403
+3	ранку	ранк	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=404|end_char=409
+4	,	,	PUNCT	_	_	6	punct	_	start_char=409|end_char=410
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=411|end_char=413
+6	отрастить	отрастить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	start_char=414|end_char=423
+7	хвост	хвост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=424|end_char=429
+8	,	,	PUNCT	_	_	11	punct	_	start_char=429|end_char=430
+9	а	а	CCONJ	_	_	11	cc	_	start_char=431|end_char=432
+10	полностью	полностью	ADV	_	Degree=Pos	11	advmod	_	start_char=433|end_char=442
+11	поменять	поменять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	start_char=443|end_char=451
+12	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	start_char=452|end_char=456
+13	ДНК	ДНК	NOUN	_	Abbr=Yes	11	obj	_	start_char=457|end_char=460
+14	?	?	PUNCT	_	_	2	punct	_	start_char=460|end_char=461
+
+# text = – Но мы же регенерируем!
+# sent_id = 10
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	5	punct	_	start_char=463|end_char=464
+2	Но	но	CCONJ	_	_	5	cc	_	start_char=465|end_char=467
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=468|end_char=470
+4	же	же	PART	_	_	3	advmod	_	start_char=471|end_char=473
+5	регенерируем	регенерировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=474|end_char=486
+6	!	!	PUNCT	_	_	5	punct	_	start_char=486|end_char=487
+
+# text = – Ты уверен?
+# sent_id = 11
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	3	punct	_	start_char=490|end_char=491
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=492|end_char=494
+3	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=495|end_char=501
+4	?	?	PUNCT	_	_	3	punct	_	start_char=501|end_char=502
+
+# text = – Я проходил это уже... большее количество раз, чем вы, если вы вообще – Доктор.
+# sent_id = 12
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	3	punct	_	start_char=504|end_char=505
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=506|end_char=507
+3	проходил	проходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=508|end_char=516
+4	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=517|end_char=520
+5	уже	уже	ADV	_	Degree=Pos	3	advmod	_	start_char=521|end_char=524
+6	...	...	PUNCT	_	_	8	punct	_	start_char=524|end_char=527
+7	большее	больший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=528|end_char=535
+8	количество	количество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=536|end_char=546
+9	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=547|end_char=550
+10	,	,	PUNCT	_	_	12	punct	_	start_char=550|end_char=551
+11	чем	чем	SCONJ	_	_	12	case	_	start_char=552|end_char=555
+12	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nmod	_	start_char=556|end_char=558
+13	,	,	PUNCT	_	_	18	punct	_	start_char=558|end_char=559
+14	если	если	SCONJ	_	_	18	mark	_	start_char=560|end_char=564
+15	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	18	nsubj	_	start_char=565|end_char=567
+16	вообще	вообще	ADV	_	Degree=Pos	18	advmod	_	start_char=568|end_char=574
+17	–	–	PUNCT	_	_	16	punct	_	start_char=575|end_char=576
+18	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	start_char=577|end_char=583
+19	.	.	PUNCT	_	_	3	punct	_	start_char=583|end_char=584
+
+# text = Почему я теряю время на выжившего из ума старика?! - сам себя спросил Доктор.
+# sent_id = 13
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=585|end_char=591
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=592|end_char=593
+3	теряю	терять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=594|end_char=599
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=600|end_char=605
+5	на	на	ADP	_	_	9	case	_	start_char=606|end_char=608
+6	выжившего	выжить	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	start_char=609|end_char=618
+7	из	из	ADP	_	_	8	case	_	start_char=619|end_char=621
+8	ума	ум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	start_char=622|end_char=625
+9	старика	старик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	start_char=626|end_char=633
+10	?!	?!	PUNCT	_	_	3	punct	_	start_char=633|end_char=635
+11	-	-	PUNCT	_	_	14	punct	_	start_char=636|end_char=637
+12	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	14	obl	_	start_char=638|end_char=641
+13	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	obj	_	start_char=642|end_char=646
+14	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=647|end_char=654
+15	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=655|end_char=661
+16	.	.	PUNCT	_	_	3	punct	_	start_char=661|end_char=662
+
+# text = Пожилой Доктор?
+# sent_id = 14
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Пожилой	пожилой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=664|end_char=671
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=672|end_char=678
+3	?	?	PUNCT	_	_	2	punct	_	start_char=678|end_char=679
+
+# text = Случайно похожий куратор?
+# sent_id = 15
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Случайно	случайно	ADV	_	Degree=Pos	3	advmod	_	start_char=680|end_char=688
+2	похожий	похожий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=689|end_char=696
+3	куратор	куратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=697|end_char=704
+4	?	?	PUNCT	_	_	3	punct	_	start_char=704|end_char=705
+
+# text = настойчиво вцепился в пуговицу жилетки Доктора: – И ты точно помнишь, что было каждый раз?
+# sent_id = 16
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	настойчиво	настойчиво	ADV	_	Degree=Pos	2	advmod	_	start_char=706|end_char=716
+2	вцепился	вцепиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=717|end_char=725
+3	в	в	ADP	_	_	4	case	_	start_char=726|end_char=727
+4	пуговицу	пуговица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=728|end_char=736
+5	жилетки	жилетка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=737|end_char=744
+6	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=745|end_char=752
+7	:	:	PUNCT	_	_	12	punct	_	start_char=752|end_char=753
+8	–	–	PUNCT	_	_	12	punct	_	start_char=755|end_char=756
+9	И	и	CCONJ	_	_	12	cc	_	start_char=757|end_char=758
+10	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=759|end_char=761
+11	точно	точно	ADV	_	Degree=Pos	12	advmod	_	start_char=762|end_char=767
+12	помнишь	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=768|end_char=775
+13	,	,	PUNCT	_	_	14	punct	_	start_char=775|end_char=776
+14	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	ccomp	_	start_char=777|end_char=780
+15	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=781|end_char=785
+16	каждый	каждый	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	17	det	_	start_char=786|end_char=792
+17	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	start_char=793|end_char=796
+18	?	?	PUNCT	_	_	2	punct	_	start_char=796|end_char=797
+
+# text = – Нет, конечно, мы же регенерируем, когда обычный землянин просто умер бы, а я часто был просто без сознания.
+# sent_id = 17
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	8	punct	_	start_char=799|end_char=800
+2	Нет	нет	PART	_	Polarity=Neg	8	parataxis	_	start_char=801|end_char=804
+3	,	,	PUNCT	_	_	4	punct	_	start_char=804|end_char=805
+4	конечно	конечно	ADV	_	Degree=Pos	8	parataxis	_	start_char=806|end_char=813
+5	,	,	PUNCT	_	_	4	punct	_	start_char=813|end_char=814
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=815|end_char=817
+7	же	же	PART	_	_	6	advmod	_	start_char=818|end_char=820
+8	регенерируем	регенерировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=821|end_char=833
+9	,	,	PUNCT	_	_	14	punct	_	start_char=833|end_char=834
+10	когда	когда	SCONJ	_	_	14	mark	_	start_char=835|end_char=840
+11	обычный	обычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=841|end_char=848
+12	землянин	землянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=849|end_char=857
+13	просто	просто	PART	_	_	14	advmod	_	start_char=858|end_char=864
+14	умер	умереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=865|end_char=869
+15	бы	бы	AUX	_	Mood=Cnd	14	aux	_	start_char=870|end_char=872
+16	,	,	PUNCT	_	_	23	punct	_	start_char=872|end_char=873
+17	а	а	CCONJ	_	_	23	cc	_	start_char=874|end_char=875
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	start_char=876|end_char=877
+19	часто	часто	ADV	_	Degree=Pos	23	advmod	_	start_char=878|end_char=883
+20	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	start_char=884|end_char=887
+21	просто	просто	PART	_	_	23	advmod	_	start_char=888|end_char=894
+22	без	без	ADP	_	_	23	case	_	start_char=895|end_char=898
+23	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	conj	_	start_char=899|end_char=907
+24	.	.	PUNCT	_	_	8	punct	_	start_char=907|end_char=908
+
+# text = Хотя бывало, что и в сознании.
+# sent_id = 18
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Хотя	хотя	SCONJ	_	_	2	mark	_	start_char=909|end_char=913
+2	бывало	бывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=914|end_char=920
+3	,	,	PUNCT	_	_	7	punct	_	start_char=920|end_char=921
+4	что	что	SCONJ	_	_	7	mark	_	start_char=922|end_char=925
+5	и	и	PART	_	_	7	advmod	_	start_char=926|end_char=927
+6	в	в	ADP	_	_	7	case	_	start_char=928|end_char=929
+7	сознании	сознание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	ccomp	_	start_char=930|end_char=938
+8	.	.	PUNCT	_	_	2	punct	_	start_char=938|end_char=939
+
+# text = – Мы – вы – не можете быть уверены.
+# sent_id = 19
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	4	punct	_	start_char=941|end_char=942
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=943|end_char=945
+3	–	–	PUNCT	_	_	4	punct	_	start_char=946|end_char=947
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	0	root	_	start_char=948|end_char=950
+5	–	–	PUNCT	_	_	7	punct	_	start_char=951|end_char=952
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=953|end_char=955
+7	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=956|end_char=962
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	cop	_	start_char=963|end_char=967
+9	уверены	уверенный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	7	xcomp	_	start_char=968|end_char=975
+10	.	.	PUNCT	_	_	4	punct	_	start_char=975|end_char=976
+
+# text = А я потом думал, долго-долго думал и понял.
+# sent_id = 20
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	А	а	CCONJ	_	_	4	cc	_	start_char=977|end_char=978
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=979|end_char=980
+3	потом	потом	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=981|end_char=986
+4	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=987|end_char=992
+5	,	,	PUNCT	_	_	7	punct	_	start_char=992|end_char=993
+6	долго-долго	долго-долго	ADV	_	Degree=Pos	7	advmod	_	start_char=994|end_char=1005
+7	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1006|end_char=1011
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1012|end_char=1013
+9	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1014|end_char=1019
+10	.	.	PUNCT	_	_	4	punct	_	start_char=1019|end_char=1020
+
+# text = Мы – вы – не материальные создания...
+# sent_id = 21
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=1021|end_char=1023
+2	–	–	PUNCT	_	_	1	punct	_	start_char=1024|end_char=1025
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=1026|end_char=1028
+4	–	–	PUNCT	_	_	1	punct	_	start_char=1029|end_char=1030
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1031|end_char=1033
+6	материальные	материальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	start_char=1034|end_char=1046
+7	создания	создание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=1047|end_char=1055
+8	...	...	PUNCT	_	_	7	punct	_	start_char=1055|end_char=1058
+
+# text = Молодо выглядящий Доктор тыкнул пальцем куратора, тот поморщился, доказывая материальность и свою, и пальца.
+# sent_id = 22
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Молодо	молодо	ADV	_	Degree=Pos	4	advmod	_	start_char=1060|end_char=1066
+2	выглядящий	выглядящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=1067|end_char=1077
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1078|end_char=1084
+4	тыкнул	тыкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1085|end_char=1091
+5	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	iobj	_	start_char=1092|end_char=1099
+6	куратора	куратор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=1100|end_char=1108
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1108|end_char=1109
+8	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	start_char=1110|end_char=1113
+9	поморщился	поморщиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=1114|end_char=1124
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1124|end_char=1125
+11	доказывая	доказывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=1126|end_char=1135
+12	материальность	материальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=1136|end_char=1150
+13	и	и	CCONJ	_	_	14	cc	_	start_char=1151|end_char=1152
+14	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	conj	_	start_char=1153|end_char=1157
+15	,	,	PUNCT	_	_	17	punct	_	start_char=1157|end_char=1158
+16	и	и	CCONJ	_	_	17	cc	_	start_char=1159|end_char=1160
+17	пальца	палец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	conj	_	start_char=1161|end_char=1167
+18	.	.	PUNCT	_	_	4	punct	_	start_char=1167|end_char=1168
+
+# text = – Я не похож на святого духа, не так ли? – не удержался молодой.
+# sent_id = 23
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1170|end_char=1171
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1172|end_char=1173
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1174|end_char=1176
+4	похож	похожий	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1177|end_char=1182
+5	на	на	ADP	_	_	7	case	_	start_char=1183|end_char=1185
+6	святого	святой	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1186|end_char=1193
+7	духа	дух	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=1194|end_char=1198
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1198|end_char=1199
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1200|end_char=1202
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	4	conj	_	start_char=1203|end_char=1206
+11	ли	ли	PART	_	_	10	advmod	_	start_char=1207|end_char=1209
+12	?	?	PUNCT	_	_	10	punct	_	start_char=1209|end_char=1210
+13	–	–	PUNCT	_	_	15	punct	_	start_char=1211|end_char=1212
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=1213|end_char=1215
+15	удержался	удержаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=1216|end_char=1225
+16	молодой	молодой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	obl	_	start_char=1226|end_char=1233
+17	.	.	PUNCT	_	_	4	punct	_	start_char=1233|end_char=1234
+
+# text = – Мы – вы – именно дух, – куратор пытливо, будто проверяя, как до собеседника доходит, взглянул в его глаза.
+# sent_id = 24
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1236|end_char=1237
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=1238|end_char=1240
+3	–	–	PUNCT	_	_	7	punct	_	start_char=1241|end_char=1242
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=1243|end_char=1245
+5	–	–	PUNCT	_	_	7	punct	_	start_char=1246|end_char=1247
+6	именно	именно	PART	_	_	7	advmod	_	start_char=1248|end_char=1254
+7	дух	дух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1255|end_char=1258
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1258|end_char=1259
+9	–	–	PUNCT	_	_	10	punct	_	start_char=1260|end_char=1261
+10	куратор	куратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	start_char=1262|end_char=1269
+11	пытливо	пытливо	ADV	_	Degree=Pos	10	advmod	_	start_char=1270|end_char=1277
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1277|end_char=1278
+13	будто	будто	SCONJ	_	_	14	mark	_	start_char=1279|end_char=1284
+14	проверяя	проверять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	21	advcl	_	start_char=1285|end_char=1293
+15	,	,	PUNCT	_	_	19	punct	_	start_char=1293|end_char=1294
+16	как	как	SCONJ	_	_	19	mark	_	start_char=1295|end_char=1298
+17	до	до	ADP	_	_	18	case	_	start_char=1299|end_char=1301
+18	собеседника	собеседника	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	start_char=1302|end_char=1313
+19	доходит	доходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	start_char=1314|end_char=1321
+20	,	,	PUNCT	_	_	14	punct	_	start_char=1321|end_char=1322
+21	взглянул	взглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1323|end_char=1331
+22	в	в	ADP	_	_	24	case	_	start_char=1332|end_char=1333
+23	его	его	DET	_	Poss=Yes|PronType=Prs	24	det	_	start_char=1334|end_char=1337
+24	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	21	obl	_	start_char=1338|end_char=1343
+25	.	.	PUNCT	_	_	7	punct	_	start_char=1343|end_char=1344
+
+# text = – Такое же переходящее сознание, как Нестин, однажды нашедшее себе более удобное вместилище, чем пластиковые манекены с ограниченной подвижностью.
+# sent_id = 25
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1345|end_char=1346
+2	Такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	start_char=1347|end_char=1352
+3	же	же	PART	_	_	2	advmod	_	start_char=1353|end_char=1355
+4	переходящее	переходящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=1356|end_char=1367
+5	сознание	сознание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1368|end_char=1376
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1376|end_char=1377
+7	как	как	SCONJ	_	_	8	case	_	start_char=1378|end_char=1381
+8	Нестин	Нестин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	acl	_	start_char=1382|end_char=1388
+9	,	,	PUNCT	_	_	8	punct	_	start_char=1388|end_char=1389
+10	однажды	однажды	ADV	_	Degree=Pos	11	advmod	_	start_char=1390|end_char=1397
+11	нашедшее	найти	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	start_char=1398|end_char=1406
+12	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	11	iobj	_	start_char=1407|end_char=1411
+13	более	более	ADV	_	Degree=Cmp|PronType=Tot	14	advmod	_	start_char=1412|end_char=1417
+14	удобное	удобный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=1418|end_char=1425
+15	вместилище	вместилище	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	start_char=1426|end_char=1436
+16	,	,	PUNCT	_	_	19	punct	_	start_char=1436|end_char=1437
+17	чем	чем	SCONJ	_	_	19	case	_	start_char=1438|end_char=1441
+18	пластиковые	пластиковый	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Number=Plur	19	amod	_	start_char=1442|end_char=1453
+19	манекены	манекен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	start_char=1454|end_char=1462
+20	с	с	ADP	_	_	22	case	_	start_char=1463|end_char=1464
+21	ограниченной	ограниченный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=1465|end_char=1477
+22	подвижностью	подвижность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	nmod	_	start_char=1478|end_char=1490
+23	.	.	PUNCT	_	_	5	punct	_	start_char=1490|end_char=1491
+
+# text = – Ерунда!
+# sent_id = 26
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1493|end_char=1494
+2	Ерунда	ерунда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1495|end_char=1501
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1501|end_char=1502
+
+# text = Такого не может... – попытался отмахнуться молодой, но замер на полуфразе.
+# sent_id = 27
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1503|end_char=1509
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1510|end_char=1512
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1513|end_char=1518
+4	...	...	PUNCT	_	_	3	punct	_	start_char=1518|end_char=1521
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1522|end_char=1523
+6	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1524|end_char=1533
+7	отмахнуться	отмахнуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	xcomp	_	start_char=1534|end_char=1545
+8	молодой	молодой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	xcomp	_	start_char=1546|end_char=1553
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1553|end_char=1554
+10	но	но	CCONJ	_	_	11	cc	_	start_char=1555|end_char=1557
+11	замер	замереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=1558|end_char=1563
+12	на	на	ADP	_	_	13	case	_	start_char=1564|end_char=1566
+13	полуфразе	полуфраза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	start_char=1567|end_char=1576
+14	.	.	PUNCT	_	_	3	punct	_	start_char=1576|end_char=1577
+
+# text = – Ты задумался, да?
+# sent_id = 28
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1579|end_char=1580
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=1581|end_char=1583
+3	задумался	задуматься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1584|end_char=1593
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1593|end_char=1594
+5	да	да	PART	_	_	3	parataxis	_	start_char=1595|end_char=1597
+6	?	?	PUNCT	_	_	3	punct	_	start_char=1597|end_char=1598
+
+# text = Сначала ты перестаешь чувствовать что-либо, кроме жара, свет исходит от тебя самого и застилает глаза, так что не видишь ничего вокруг, а потом вдруг раз – и ты совершенно другая личность!
+# sent_id = 29
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Сначала	сначала	ADV	_	Degree=Pos	3	advmod	_	start_char=1599|end_char=1606
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=1607|end_char=1609
+3	перестаешь	перестать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1610|end_char=1620
+4	чувствовать	чувствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1621|end_char=1632
+5	что-либо	что-либо	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	obj	_	start_char=1633|end_char=1641
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1641|end_char=1642
+7	кроме	кроме	ADP	_	_	8	case	_	start_char=1643|end_char=1648
+8	жара	жара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=1649|end_char=1653
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1653|end_char=1654
+10	свет	свет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=1655|end_char=1659
+11	исходит	исходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1660|end_char=1667
+12	от	от	ADP	_	_	13	case	_	start_char=1668|end_char=1670
+13	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	start_char=1671|end_char=1675
+14	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	13	det	_	start_char=1676|end_char=1682
+15	и	и	CCONJ	_	_	16	cc	_	start_char=1683|end_char=1684
+16	застилает	застилать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	start_char=1685|end_char=1694
+17	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	obj	_	start_char=1695|end_char=1700
+18	,	,	PUNCT	_	_	22	punct	_	start_char=1700|end_char=1701
+19	так	так	ADV	_	Degree=Pos|PronType=Dem	22	mark	_	start_char=1702|end_char=1705
+20	что	что	SCONJ	_	_	19	fixed	_	start_char=1706|end_char=1709
+21	не	не	PART	_	Polarity=Neg	22	advmod	_	start_char=1710|end_char=1712
+22	видишь	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=1713|end_char=1719
+23	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	22	obj	_	start_char=1720|end_char=1726
+24	вокруг	вокруг	ADV	_	Degree=Pos	22	advmod	_	start_char=1727|end_char=1733
+25	,	,	PUNCT	_	_	29	punct	_	start_char=1733|end_char=1734
+26	а	а	CCONJ	_	_	29	cc	_	start_char=1735|end_char=1736
+27	потом	потом	ADV	_	Degree=Pos|PronType=Dem	29	orphan	_	start_char=1737|end_char=1742
+28	вдруг	вдруг	ADV	_	Degree=Pos	29	advmod	_	start_char=1743|end_char=1748
+29	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	conj	_	start_char=1749|end_char=1752
+30	–	–	PUNCT	_	_	35	punct	_	start_char=1753|end_char=1754
+31	и	и	CCONJ	_	_	35	cc	_	start_char=1755|end_char=1756
+32	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	35	nsubj	_	start_char=1757|end_char=1759
+33	совершенно	совершенно	ADV	_	Degree=Pos	34	advmod	_	start_char=1760|end_char=1770
+34	другая	другой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	35	det	_	start_char=1771|end_char=1777
+35	личность	личность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	conj	_	start_char=1778|end_char=1786
+36	!	!	PUNCT	_	_	3	punct	_	start_char=1786|end_char=1787
+
+# text = Более того, совершенно другой организм!
+# sent_id = 30
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Более	более	ADV	_	Degree=Cmp|PronType=Tot	6	parataxis	_	start_char=1788|end_char=1793
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	obl	_	start_char=1794|end_char=1798
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1798|end_char=1799
+4	совершенно	совершенно	ADV	_	Degree=Pos	5	advmod	_	start_char=1800|end_char=1810
+5	другой	другой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	6	det	_	start_char=1811|end_char=1817
+6	организм	организм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1818|end_char=1826
+7	!	!	PUNCT	_	_	6	punct	_	start_char=1826|end_char=1827
+
+# text = – Мгновенная телепортация, одного туда – другого сюда...
+# sent_id = 31
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1829|end_char=1830
+2	Мгновенная	мгновенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=1831|end_char=1841
+3	телепортация	телепортация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1842|end_char=1854
+4	,	,	PUNCT	_	_	9	punct	_	start_char=1854|end_char=1855
+5	одного	один	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	start_char=1856|end_char=1862
+6	туда	туда	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=1863|end_char=1867
+7	–	–	PUNCT	_	_	8	punct	_	start_char=1868|end_char=1869
+8	другого	другой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	6	obl	_	start_char=1870|end_char=1877
+9	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	3	conj	_	start_char=1878|end_char=1882
+10	...	...	PUNCT	_	_	3	punct	_	start_char=1882|end_char=1885
+
+# text = Куратор словно весь осветился изнутри и одобрительно кивнул.
+# sent_id = 32
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Куратор	куратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1887|end_char=1894
+2	словно	словно	SCONJ	_	_	4	mark	_	start_char=1895|end_char=1901
+3	весь	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	4	obj	_	start_char=1902|end_char=1906
+4	осветился	осветиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1907|end_char=1916
+5	изнутри	изнутрь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1917|end_char=1924
+6	и	и	CCONJ	_	_	8	cc	_	start_char=1925|end_char=1926
+7	одобрительно	одобрительно	ADV	_	Degree=Pos	8	advmod	_	start_char=1927|end_char=1939
+8	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1940|end_char=1946
+9	.	.	PUNCT	_	_	4	punct	_	start_char=1946|end_char=1947
+
+# text = – Но тогда, если вы на самом деле я, то вы должны были умереть, – жестко припечатал молодой.
+# sent_id = 33
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	14	punct	_	start_char=1949|end_char=1950
+2	Но	но	CCONJ	_	_	14	cc	_	start_char=1951|end_char=1953
+3	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=1954|end_char=1959
+4	,	,	PUNCT	_	_	10	punct	_	start_char=1959|end_char=1960
+5	если	если	SCONJ	_	_	10	mark	_	start_char=1961|end_char=1965
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	start_char=1966|end_char=1968
+7	на	на	ADP	_	_	9	case	_	start_char=1969|end_char=1971
+8	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	9	det	_	start_char=1972|end_char=1977
+9	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	nmod	_	start_char=1978|end_char=1982
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	advcl	_	start_char=1983|end_char=1984
+11	,	,	PUNCT	_	_	10	punct	_	start_char=1984|end_char=1985
+12	то	то	SCONJ	_	_	14	mark	_	start_char=1986|end_char=1988
+13	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	14	nsubj	_	start_char=1989|end_char=1991
+14	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1992|end_char=1998
+15	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=1999|end_char=2003
+16	умереть	умереть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=2004|end_char=2011
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2011|end_char=2012
+18	–	–	PUNCT	_	_	20	punct	_	start_char=2013|end_char=2014
+19	жестко	жестко	ADV	_	Degree=Pos	20	advmod	_	start_char=2015|end_char=2021
+20	припечатал	припечатать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	parataxis	_	start_char=2022|end_char=2032
+21	молодой	молодой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	nsubj	_	start_char=2033|end_char=2040
+22	.	.	PUNCT	_	_	14	punct	_	start_char=2040|end_char=2041
+
+# text = – Регенерация.
+# sent_id = 34
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2043|end_char=2044
+2	Регенерация	регенерация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2045|end_char=2056
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2056|end_char=2057
+
+# text = Как ранки, только побольше.
+# sent_id = 35
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Как	как	SCONJ	_	_	2	mark	_	start_char=2058|end_char=2061
+2	ранки	ранк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	parataxis	_	start_char=2062|end_char=2067
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2067|end_char=2068
+4	только	только	PART	_	_	5	advmod	_	start_char=2069|end_char=2075
+5	побольше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	0	root	_	start_char=2076|end_char=2084
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2084|end_char=2085
+
+# text = Не до конца, но все же что-то было восстановлено, остальное доделали в обычной земной больнице, куда меня доставили без сознания, без памяти, с многочисленными ушибами и парой небольших переломов.
+# sent_id = 36
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2086|end_char=2088
+2	до	до	ADP	_	_	3	case	_	start_char=2089|end_char=2091
+3	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=2092|end_char=2097
+4	,	,	PUNCT	_	_	10	punct	_	start_char=2097|end_char=2098
+5	но	но	CCONJ	_	_	10	cc	_	start_char=2099|end_char=2101
+6	все	всё	ADV	_	Degree=Pos|PronType=Tot	10	advmod	_	start_char=2102|end_char=2105
+7	же	же	PART	_	_	6	advmod	_	start_char=2106|end_char=2108
+8	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	10	nsubj:pass	_	start_char=2109|end_char=2115
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	aux:pass	_	start_char=2116|end_char=2120
+10	восстановлено	восстановить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	conj	_	start_char=2121|end_char=2134
+11	,	,	PUNCT	_	_	13	punct	_	start_char=2134|end_char=2135
+12	остальное	остальной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	obj	_	start_char=2136|end_char=2145
+13	доделали	доделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2146|end_char=2154
+14	в	в	ADP	_	_	17	case	_	start_char=2155|end_char=2156
+15	обычной	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=2157|end_char=2164
+16	земной	земный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=2165|end_char=2171
+17	больнице	больница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	start_char=2172|end_char=2180
+18	,	,	PUNCT	_	_	21	punct	_	start_char=2180|end_char=2181
+19	куда	куда	ADV	_	Degree=Pos|PronType=Rel	21	advmod	_	start_char=2182|end_char=2186
+20	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	start_char=2187|end_char=2191
+21	доставили	доставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=2192|end_char=2201
+22	без	без	ADP	_	_	23	case	_	start_char=2202|end_char=2205
+23	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	start_char=2206|end_char=2214
+24	,	,	PUNCT	_	_	26	punct	_	start_char=2214|end_char=2215
+25	без	без	ADP	_	_	26	case	_	start_char=2216|end_char=2219
+26	памяти	память	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	conj	_	start_char=2220|end_char=2226
+27	,	,	PUNCT	_	_	30	punct	_	start_char=2226|end_char=2227
+28	с	с	ADP	_	_	30	case	_	start_char=2228|end_char=2229
+29	многочисленными	многочисленный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	30	amod	_	start_char=2230|end_char=2245
+30	ушибами	ушиб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	23	conj	_	start_char=2246|end_char=2253
+31	и	и	CCONJ	_	_	32	cc	_	start_char=2254|end_char=2255
+32	парой	пара	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	conj	_	start_char=2256|end_char=2261
+33	небольших	небольшой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	start_char=2262|end_char=2271
+34	переломов	перелом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	start_char=2272|end_char=2281
+35	.	.	PUNCT	_	_	3	punct	_	start_char=2281|end_char=2282
+
+# text = Там, в больнице, меня и нашел ЮНИТ, тогда я – снова, как в первый раз – узнал о Докторе.
+# sent_id = 37
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Там	там	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=2283|end_char=2286
+2	,	,	PUNCT	_	_	4	punct	_	start_char=2286|end_char=2287
+3	в	в	ADP	_	_	4	case	_	start_char=2288|end_char=2289
+4	больнице	больница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	conj	_	start_char=2290|end_char=2298
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2298|end_char=2299
+6	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=2300|end_char=2304
+7	и	и	PART	_	_	8	advmod	_	start_char=2305|end_char=2306
+8	нашел	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2307|end_char=2312
+9	ЮНИТ	юнит	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=2313|end_char=2317
+10	,	,	PUNCT	_	_	12	punct	_	start_char=2317|end_char=2318
+11	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=2319|end_char=2324
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=2325|end_char=2326
+13	–	–	PUNCT	_	_	21	punct	_	start_char=2327|end_char=2328
+14	снова	снова	ADV	_	Degree=Pos	21	advmod	_	start_char=2329|end_char=2334
+15	,	,	PUNCT	_	_	19	punct	_	start_char=2334|end_char=2335
+16	как	как	SCONJ	_	_	19	case	_	start_char=2336|end_char=2339
+17	в	в	ADP	_	_	19	case	_	start_char=2340|end_char=2341
+18	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	19	amod	_	start_char=2342|end_char=2348
+19	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obl	_	start_char=2349|end_char=2352
+20	–	–	PUNCT	_	_	19	punct	_	start_char=2353|end_char=2354
+21	узнал	узнать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=2355|end_char=2360
+22	о	о	ADP	_	_	23	case	_	start_char=2361|end_char=2362
+23	Докторе	Доктор	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	21	obl	_	start_char=2363|end_char=2370
+24	.	.	PUNCT	_	_	8	punct	_	start_char=2370|end_char=2371
+
+# text = Остальное восстановил по архивам, поверь мне, архив у них хороший.
+# sent_id = 38
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Остальное	остальной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	obj	_	start_char=2372|end_char=2381
+2	восстановил	восстановить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2382|end_char=2393
+3	по	по	ADP	_	_	4	case	_	start_char=2394|end_char=2396
+4	архивам	архив	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	obl	_	start_char=2397|end_char=2404
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2404|end_char=2405
+6	поверь	поверь	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2406|end_char=2412
+7	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	start_char=2413|end_char=2416
+8	,	,	PUNCT	_	_	12	punct	_	start_char=2416|end_char=2417
+9	архив	архив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=2418|end_char=2423
+10	у	у	ADP	_	_	11	case	_	start_char=2424|end_char=2425
+11	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	12	obl	_	start_char=2426|end_char=2429
+12	хороший	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=2430|end_char=2437
+13	.	.	PUNCT	_	_	2	punct	_	start_char=2437|end_char=2438
+
+# text = – Но тогда до того, как стать Доктором, у вас должна была быть какая-то жизнь?
+# sent_id = 39
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	13	punct	_	start_char=2440|end_char=2441
+2	Но	но	CCONJ	_	_	13	cc	_	start_char=2442|end_char=2444
+3	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=2445|end_char=2450
+4	до	до	ADP	_	_	5	case	_	start_char=2451|end_char=2453
+5	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	start_char=2454|end_char=2458
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2458|end_char=2459
+7	как	как	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=2460|end_char=2463
+8	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	acl	_	start_char=2464|end_char=2469
+9	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	xcomp	_	start_char=2470|end_char=2478
+10	,	,	PUNCT	_	_	8	punct	_	start_char=2478|end_char=2479
+11	у	у	ADP	_	_	12	case	_	start_char=2480|end_char=2481
+12	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	13	obl	_	start_char=2482|end_char=2485
+13	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=2486|end_char=2492
+14	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=2493|end_char=2497
+15	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	cop	_	start_char=2498|end_char=2502
+16	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	17	det	_	start_char=2503|end_char=2511
+17	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=2512|end_char=2517
+18	?	?	PUNCT	_	_	13	punct	_	start_char=2517|end_char=2518
+
+# text = Неужели о ней не осталось ни малейших следов?
+# sent_id = 40
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Неужели	неужели	PART	_	_	5	advmod	_	start_char=2519|end_char=2526
+2	о	о	ADP	_	_	3	case	_	start_char=2527|end_char=2528
+3	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=2529|end_char=2532
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2533|end_char=2535
+5	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2536|end_char=2544
+6	ни	ни	PART	_	Polarity=Neg	7	advmod	_	start_char=2545|end_char=2547
+7	малейших	малейший	ADJ	_	Case=Gen|Degree=Sup|Number=Plur	8	amod	_	start_char=2548|end_char=2556
+8	следов	след	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nsubj	_	start_char=2557|end_char=2563
+9	?	?	PUNCT	_	_	5	punct	_	start_char=2563|end_char=2564
+
+# text = Потом, когда вы... снова стали человеком?
+# sent_id = 41
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Потом	потом	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2565|end_char=2570
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2570|end_char=2571
+3	когда	когда	SCONJ	_	_	4	mark	_	start_char=2572|end_char=2577
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=2578|end_char=2580
+5	...	...	PUNCT	_	_	4	punct	_	start_char=2580|end_char=2583
+6	снова	снова	ADV	_	Degree=Pos	7	advmod	_	start_char=2584|end_char=2589
+7	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2590|end_char=2595
+8	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	xcomp	_	start_char=2596|end_char=2605
+9	?	?	PUNCT	_	_	7	punct	_	start_char=2605|end_char=2606
+
+# text = – Если принять во внимание весь пространственно-временной континуум, то человечество огромно.
+# sent_id = 42
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	14	punct	_	start_char=2608|end_char=2609
+2	Если	если	SCONJ	_	_	3	mark	_	start_char=2610|end_char=2614
+3	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	advcl	_	start_char=2615|end_char=2622
+4	во	во	ADP	_	_	5	case	_	start_char=2623|end_char=2625
+5	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	start_char=2626|end_char=2634
+6	весь	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	10	det	_	start_char=2635|end_char=2639
+7	пространственно	пространственно	ADV	_	Degree=Pos	9	advmod	_	start_char=2640|end_char=2655
+8	-	-	PUNCT	_	_	9	punct	_	start_char=2655|end_char=2656
+9	временной	временный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=2656|end_char=2665
+10	континуум	континуум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2666|end_char=2675
+11	,	,	PUNCT	_	_	3	punct	_	start_char=2675|end_char=2676
+12	то	то	SCONJ	_	_	14	mark	_	start_char=2677|end_char=2679
+13	человечество	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	start_char=2680|end_char=2692
+14	огромно	огромный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2693|end_char=2700
+15	.	.	PUNCT	_	_	14	punct	_	start_char=2700|end_char=2701
+
+# text = Совершенно необязательно, что это мое тело было позаимствовано у землянина двадцатого века, так же, как и твое.
+# sent_id = 43
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Совершенно	совершенно	ADV	_	Degree=Pos	2	advmod	_	start_char=2702|end_char=2712
+2	необязательно	необязательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2713|end_char=2726
+3	,	,	PUNCT	_	_	9	punct	_	start_char=2726|end_char=2727
+4	что	что	SCONJ	_	_	9	mark	_	start_char=2728|end_char=2731
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj:pass	_	start_char=2732|end_char=2735
+6	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=2736|end_char=2739
+7	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj:pass	_	start_char=2740|end_char=2744
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	start_char=2745|end_char=2749
+9	позаимствовано	позаимствовать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=2750|end_char=2764
+10	у	у	ADP	_	_	11	case	_	start_char=2765|end_char=2766
+11	землянина	землянина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=2767|end_char=2776
+12	двадцатого	двадцатый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	13	amod	_	start_char=2777|end_char=2787
+13	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	start_char=2788|end_char=2792
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2792|end_char=2793
+15	так	так	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=2794|end_char=2797
+16	же	же	PART	_	_	15	advmod	_	start_char=2798|end_char=2800
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2800|end_char=2801
+18	как	как	SCONJ	_	_	20	mark	_	start_char=2802|end_char=2805
+19	и	и	PART	_	_	20	advmod	_	start_char=2806|end_char=2807
+20	твое	твой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	15	obl	_	start_char=2808|end_char=2812
+21	.	.	PUNCT	_	_	2	punct	_	start_char=2812|end_char=2813
+
+# text = – Но тогда... где-то могут стареть те, которые раньше были другими мной?
+# sent_id = 44
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2815|end_char=2816
+2	Но	но	CCONJ	_	_	6	cc	_	start_char=2817|end_char=2819
+3	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2820|end_char=2825
+4	...	...	PUNCT	_	_	3	punct	_	start_char=2825|end_char=2828
+5	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	6	advmod	_	start_char=2829|end_char=2835
+6	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2836|end_char=2841
+7	стареть	стареть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=2842|end_char=2849
+8	те	тот	DET	_	Case=Nom|Number=Plur|PronType=Dem	7	obj	_	start_char=2850|end_char=2852
+9	,	,	PUNCT	_	_	14	punct	_	start_char=2852|end_char=2853
+10	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	14	nsubj	_	start_char=2854|end_char=2861
+11	раньше	раньше	ADV	_	Degree=Cmp	14	advmod	_	start_char=2862|end_char=2868
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=2869|end_char=2873
+13	другими	другой	DET	_	Case=Ins|Number=Plur|PronType=Tot	14	det	_	start_char=2874|end_char=2881
+14	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	8	acl:relcl	_	start_char=2882|end_char=2886
+15	?	?	PUNCT	_	_	6	punct	_	start_char=2886|end_char=2887
+
+# text = – Если ты их найдешь, то сможешь быть уверен, что я рассказал тебе правду, – кивнул куратор и вышел, оставив Доктора в галстуке-бабочке гадать, был ли когда-то этот пожилой куратор действительно
+# sent_id = 45
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	–	–	PUNCT	_	_	8	punct	_	start_char=2889|end_char=2890
+2	Если	если	SCONJ	_	_	5	mark	_	start_char=2891|end_char=2895
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2896|end_char=2898
+4	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	start_char=2899|end_char=2901
+5	найдешь	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=2902|end_char=2909
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2909|end_char=2910
+7	то	то	SCONJ	_	_	8	mark	_	start_char=2911|end_char=2913
+8	сможешь	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2914|end_char=2921
+9	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	cop	_	start_char=2922|end_char=2926
+10	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	xcomp	_	start_char=2927|end_char=2933
+11	,	,	PUNCT	_	_	14	punct	_	start_char=2933|end_char=2934
+12	что	что	SCONJ	_	_	14	mark	_	start_char=2935|end_char=2938
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=2939|end_char=2940
+14	рассказал	рассказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	start_char=2941|end_char=2950
+15	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	14	iobj	_	start_char=2951|end_char=2955
+16	правду	правда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=2956|end_char=2962
+17	,	,	PUNCT	_	_	19	punct	_	start_char=2962|end_char=2963
+18	–	–	PUNCT	_	_	19	punct	_	start_char=2964|end_char=2965
+19	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=2966|end_char=2972
+20	куратор	куратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=2973|end_char=2980
+21	и	и	CCONJ	_	_	22	cc	_	start_char=2981|end_char=2982
+22	вышел	выйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	start_char=2983|end_char=2988
+23	,	,	PUNCT	_	_	24	punct	_	start_char=2988|end_char=2989
+24	оставив	оставить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	22	advcl	_	start_char=2990|end_char=2997
+25	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	24	obj	_	start_char=2998|end_char=3005
+26	в	в	ADP	_	_	27	case	_	start_char=3006|end_char=3007
+27	галстуке	галстук	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	obl	_	start_char=3008|end_char=3016
+28	-	-	PUNCT	_	_	29	punct	_	start_char=3016|end_char=3017
+29	бабочке	бабочка	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	27	appos	_	start_char=3017|end_char=3024
+30	гадать	гадать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	start_char=3025|end_char=3031
+31	,	,	PUNCT	_	_	32	punct	_	start_char=3031|end_char=3032
+32	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	37	cop	_	start_char=3033|end_char=3036
+33	ли	ли	PART	_	_	32	advmod	_	start_char=3037|end_char=3039
+34	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	32	advmod	_	start_char=3040|end_char=3048
+35	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	37	det	_	start_char=3049|end_char=3053
+36	пожилой	пожилой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	start_char=3054|end_char=3061
+37	куратор	куратор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	30	parataxis	_	start_char=3062|end_char=3069
+38	действительно	действительно	ADV	_	Degree=Pos	37	advmod	_	start_char=3070|end_char=3083
+
+# text = Доктором, и все, им сказанное – правда, или это просто тихий сумасшедший, взятый в ЮНИТ на непыльную должность из жалости.
+# sent_id = 46
+# metadata = Название: Куратор, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c7ff00000a7d35e59733/1/Kurator
+1	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=3084|end_char=3092
+2	,	,	PUNCT	_	_	4	punct	_	start_char=3092|end_char=3093
+3	и	и	CCONJ	_	_	4	cc	_	start_char=3094|end_char=3095
+4	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	1	conj	_	start_char=3096|end_char=3099
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3099|end_char=3100
+6	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	iobj	_	start_char=3101|end_char=3103
+7	сказанное	сказать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	start_char=3104|end_char=3113
+8	–	–	PUNCT	_	_	7	punct	_	start_char=3114|end_char=3115
+9	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	parataxis	_	start_char=3116|end_char=3122
+10	,	,	PUNCT	_	_	15	punct	_	start_char=3122|end_char=3123
+11	или	или	CCONJ	_	_	15	cc	_	start_char=3124|end_char=3127
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	start_char=3128|end_char=3131
+13	просто	просто	PART	_	_	15	advmod	_	start_char=3132|end_char=3138
+14	тихий	тихий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=3139|end_char=3144
+15	сумасшедший	сумасшедший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	start_char=3145|end_char=3156
+16	,	,	PUNCT	_	_	17	punct	_	start_char=3156|end_char=3157
+17	взятый	взять	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	start_char=3158|end_char=3164
+18	в	в	ADP	_	_	19	case	_	start_char=3165|end_char=3166
+19	ЮНИТ	ЮНИТ	PROPN	_	Abbr=Yes|NameType=Com	17	obl	_	start_char=3167|end_char=3171
+20	на	на	ADP	_	_	22	case	_	start_char=3172|end_char=3174
+21	непыльную	непыльный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=3175|end_char=3184
+22	должность	должность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	start_char=3185|end_char=3194
+23	из	из	ADP	_	_	24	case	_	start_char=3195|end_char=3197
+24	жалости	жалость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	start_char=3198|end_char=3205
+25	.	.	PUNCT	_	_	1	punct	_	start_char=3205|end_char=3206
+

@@ -1,0 +1,717 @@
+# text = Я – стальная машина.
+# sent_id = 0
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	–	–	PUNCT	_	_	4	punct	_	start_char=2|end_char=3
+3	стальная	стальной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=4|end_char=12
+4	машина	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=13|end_char=19
+5	.	.	PUNCT	_	_	4	punct	_	start_char=19|end_char=20
+
+# text = Я ощущаю своими датчиками вес моего стального корпуса, я регистрирую освещение, недостаточное для людей, но достаточное для меня и похожих на меня, я понимаю, что недавно прошёл дождь.
+# sent_id = 1
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=21|end_char=22
+2	ощущаю	ощущать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=23|end_char=29
+3	своими	свой	DET	_	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	start_char=30|end_char=36
+4	датчиками	датчик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	obl	_	start_char=37|end_char=46
+5	вес	вес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=47|end_char=50
+6	моего	мой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=51|end_char=56
+7	стального	стальной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=57|end_char=66
+8	корпуса	корпус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=67|end_char=74
+9	,	,	PUNCT	_	_	11	punct	_	start_char=74|end_char=75
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=76|end_char=77
+11	регистрирую	регистрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=78|end_char=89
+12	освещение	освещение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	start_char=90|end_char=99
+13	,	,	PUNCT	_	_	14	punct	_	start_char=99|end_char=100
+14	недостаточное	недостаточный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	acl	_	start_char=101|end_char=114
+15	для	для	ADP	_	_	16	case	_	start_char=115|end_char=118
+16	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	obl	_	start_char=119|end_char=124
+17	,	,	PUNCT	_	_	19	punct	_	start_char=124|end_char=125
+18	но	но	CCONJ	_	_	19	cc	_	start_char=126|end_char=128
+19	достаточное	достаточный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	start_char=129|end_char=140
+20	для	для	ADP	_	_	21	case	_	start_char=141|end_char=144
+21	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	obl	_	start_char=145|end_char=149
+22	и	и	CCONJ	_	_	23	cc	_	start_char=150|end_char=151
+23	похожих	похожий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	conj	_	start_char=152|end_char=159
+24	на	на	ADP	_	_	25	case	_	start_char=160|end_char=162
+25	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	obl	_	start_char=163|end_char=167
+26	,	,	PUNCT	_	_	28	punct	_	start_char=167|end_char=168
+27	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	start_char=169|end_char=170
+28	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=171|end_char=178
+29	,	,	PUNCT	_	_	32	punct	_	start_char=178|end_char=179
+30	что	что	SCONJ	_	_	32	mark	_	start_char=180|end_char=183
+31	недавно	недавно	ADV	_	Degree=Pos	32	advmod	_	start_char=184|end_char=191
+32	прошёл	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	ccomp	_	start_char=192|end_char=198
+33	дождь	дождь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	start_char=199|end_char=204
+34	.	.	PUNCT	_	_	2	punct	_	start_char=204|end_char=205
+
+# text = Я слышу голоса таких, как я.
+# sent_id = 2
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=206|end_char=207
+2	слышу	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=208|end_char=213
+3	голоса	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	start_char=214|end_char=220
+4	таких	такой	DET	_	Case=Gen|Number=Plur|PronType=Dem	3	det	_	start_char=221|end_char=226
+5	,	,	PUNCT	_	_	7	punct	_	start_char=226|end_char=227
+6	как	как	SCONJ	_	_	7	case	_	start_char=228|end_char=231
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=232|end_char=233
+8	.	.	PUNCT	_	_	2	punct	_	start_char=233|end_char=234
+
+# text = Я слышу команды для таких, как я.
+# sent_id = 3
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=235|end_char=236
+2	слышу	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=237|end_char=242
+3	команды	команда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=243|end_char=250
+4	для	для	ADP	_	_	5	case	_	start_char=251|end_char=254
+5	таких	такой	DET	_	Case=Gen|Number=Plur|PronType=Dem	3	nmod	_	start_char=255|end_char=260
+6	,	,	PUNCT	_	_	8	punct	_	start_char=260|end_char=261
+7	как	как	SCONJ	_	_	8	case	_	start_char=262|end_char=265
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=266|end_char=267
+9	.	.	PUNCT	_	_	2	punct	_	start_char=267|end_char=268
+
+# text = Где-то в небе – координаты получены, маяк активирован, – летит самолёт, который необходимо уничтожить, разорвать на части, сбросить с небес на землю, чтобы его пассажиры духом воспарили к хрустальным сферам, земле обетованной, тому накопителю, а тела рухнули с небес, расплёскивая красную кровь вокруг себя, выдавливая её изо всех пор, разрывая обломками костей тонкую кожу, которую так легко ранить.
+# sent_id = 4
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	6	advmod	_	start_char=269|end_char=275
+2	в	в	ADP	_	_	3	case	_	start_char=276|end_char=277
+3	небе	небо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=278|end_char=282
+4	–	–	PUNCT	_	_	6	punct	_	start_char=283|end_char=284
+5	координаты	координата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj:pass	_	start_char=285|end_char=295
+6	получены	получить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=296|end_char=304
+7	,	,	PUNCT	_	_	9	punct	_	start_char=304|end_char=305
+8	маяк	маяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	start_char=306|end_char=310
+9	активирован	активировать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	conj	_	start_char=311|end_char=322
+10	,	,	PUNCT	_	_	12	punct	_	start_char=322|end_char=323
+11	–	–	PUNCT	_	_	12	punct	_	start_char=324|end_char=325
+12	летит	лететь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=326|end_char=331
+13	самолёт	самолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=332|end_char=339
+14	,	,	PUNCT	_	_	16	punct	_	start_char=339|end_char=340
+15	который	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	17	obj	_	start_char=341|end_char=348
+16	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	13	acl:relcl	_	start_char=349|end_char=359
+17	уничтожить	уничтожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	csubj	_	start_char=360|end_char=370
+18	,	,	PUNCT	_	_	19	punct	_	start_char=370|end_char=371
+19	разорвать	разорвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	conj	_	start_char=372|end_char=381
+20	на	на	ADP	_	_	21	case	_	start_char=382|end_char=384
+21	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	obl	_	start_char=385|end_char=390
+22	,	,	PUNCT	_	_	23	punct	_	start_char=390|end_char=391
+23	сбросить	сбросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	conj	_	start_char=392|end_char=400
+24	с	с	ADP	_	_	25	case	_	start_char=401|end_char=402
+25	небес	небо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	obl	_	start_char=403|end_char=408
+26	на	на	ADP	_	_	27	case	_	start_char=409|end_char=411
+27	землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obl	_	start_char=412|end_char=417
+28	,	,	PUNCT	_	_	33	punct	_	start_char=417|end_char=418
+29	чтобы	чтобы	SCONJ	_	Mood=Cnd	33	mark	_	start_char=419|end_char=424
+30	его	его	DET	_	Poss=Yes|PronType=Prs	31	det	_	start_char=425|end_char=428
+31	пассажиры	пассажир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	33	nsubj	_	start_char=429|end_char=438
+32	духом	дух	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	iobj	_	start_char=439|end_char=444
+33	воспарили	воспарить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	advcl	_	start_char=445|end_char=454
+34	к	к	ADP	_	_	36	case	_	start_char=455|end_char=456
+35	хрустальным	хрустальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	36	amod	_	start_char=457|end_char=468
+36	сферам	сфера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	33	obl	_	start_char=469|end_char=475
+37	,	,	PUNCT	_	_	39	punct	_	start_char=475|end_char=476
+38	земле	земля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	39	obl:agent	_	start_char=477|end_char=482
+39	обетованной	обетовать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	36	acl	_	start_char=483|end_char=494
+40	,	,	PUNCT	_	_	42	punct	_	start_char=494|end_char=495
+41	тому	тот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	42	det	_	start_char=496|end_char=500
+42	накопителю	накопитель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	36	conj	_	start_char=501|end_char=511
+43	,	,	PUNCT	_	_	46	punct	_	start_char=511|end_char=512
+44	а	а	CCONJ	_	_	46	cc	_	start_char=513|end_char=514
+45	тела	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	46	nsubj	_	start_char=515|end_char=519
+46	рухнули	рухнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	start_char=520|end_char=527
+47	с	с	ADP	_	_	48	case	_	start_char=528|end_char=529
+48	небес	небо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	46	obl	_	start_char=530|end_char=535
+49	,	,	PUNCT	_	_	50	punct	_	start_char=535|end_char=536
+50	расплёскивая	расплескивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	46	advcl	_	start_char=537|end_char=549
+51	красную	красный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	52	amod	_	start_char=550|end_char=557
+52	кровь	кровь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	50	obj	_	start_char=558|end_char=563
+53	вокруг	вокруг	ADP	_	_	54	case	_	start_char=564|end_char=570
+54	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	50	obl	_	start_char=571|end_char=575
+55	,	,	PUNCT	_	_	56	punct	_	start_char=575|end_char=576
+56	выдавливая	выдавливать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	50	conj	_	start_char=577|end_char=587
+57	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	56	obj	_	start_char=588|end_char=590
+58	изо	изо	ADP	_	_	60	case	_	start_char=591|end_char=594
+59	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	60	det	_	start_char=595|end_char=599
+60	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	56	obl	_	start_char=600|end_char=603
+61	,	,	PUNCT	_	_	62	punct	_	start_char=603|end_char=604
+62	разрывая	разрывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	56	conj	_	start_char=605|end_char=613
+63	обломками	обломка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	62	iobj	_	start_char=614|end_char=623
+64	костей	кость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	63	nmod	_	start_char=624|end_char=630
+65	тонкую	тонкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	66	amod	_	start_char=631|end_char=637
+66	кожу	кожа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	62	obj	_	start_char=638|end_char=642
+67	,	,	PUNCT	_	_	70	punct	_	start_char=642|end_char=643
+68	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	71	obj	_	start_char=644|end_char=651
+69	так	так	ADV	_	Degree=Pos|PronType=Dem	70	advmod	_	start_char=652|end_char=655
+70	легко	легкий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	66	acl:relcl	_	start_char=656|end_char=661
+71	ранить	ранить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	70	csubj	_	start_char=662|end_char=668
+72	.	.	PUNCT	_	_	6	punct	_	start_char=668|end_char=669
+
+# text = То ли дело стальной корпус.
+# sent_id = 5
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	То	то	CCONJ	_	_	5	cc	_	start_char=670|end_char=672
+2	ли	ли	PART	_	_	1	fixed	_	start_char=673|end_char=675
+3	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=676|end_char=680
+4	стальной	стальной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=681|end_char=689
+5	корпус	корпус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=690|end_char=696
+6	.	.	PUNCT	_	_	5	punct	_	start_char=696|end_char=697
+
+# text = Его выдадут им.
+# sent_id = 6
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=698|end_char=701
+2	выдадут	выдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=702|end_char=709
+3	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	iobj	_	start_char=710|end_char=712
+4	.	.	PUNCT	_	_	2	punct	_	start_char=712|end_char=713
+
+# text = Только сначала надо умереть и пройти через землю обетованную.
+# sent_id = 7
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Только	только	PART	_	_	2	advmod	_	start_char=714|end_char=720
+2	сначала	сначала	ADV	_	Degree=Pos	3	advmod	_	start_char=721|end_char=728
+3	надо	надо	VERB	_	_	0	root	_	start_char=729|end_char=733
+4	умереть	умереть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=734|end_char=741
+5	и	и	CCONJ	_	_	6	cc	_	start_char=742|end_char=743
+6	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	conj	_	start_char=744|end_char=750
+7	через	через	ADP	_	_	8	case	_	start_char=751|end_char=756
+8	землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=757|end_char=762
+9	обетованную	обетовать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	start_char=763|end_char=774
+10	.	.	PUNCT	_	_	3	punct	_	start_char=774|end_char=775
+
+# text = Через чистилище.
+# sent_id = 8
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Через	через	ADP	_	_	2	case	_	start_char=776|end_char=781
+2	чистилище	чистилище	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	root	_	start_char=782|end_char=791
+3	.	.	PUNCT	_	_	2	punct	_	start_char=791|end_char=792
+
+# text = Это там, где чистят.
+# sent_id = 9
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=793|end_char=796
+2	там	там	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=797|end_char=800
+3	,	,	PUNCT	_	_	5	punct	_	start_char=800|end_char=801
+4	где	где	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=802|end_char=805
+5	чистят	чистить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=806|end_char=812
+6	.	.	PUNCT	_	_	2	punct	_	start_char=812|end_char=813
+
+# text = Убирают память, эмоции, личность.
+# sent_id = 10
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Убирают	убирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=814|end_char=821
+2	память	память	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	start_char=822|end_char=828
+3	,	,	PUNCT	_	_	4	punct	_	start_char=828|end_char=829
+4	эмоции	эмоция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	conj	_	start_char=830|end_char=836
+5	,	,	PUNCT	_	_	6	punct	_	start_char=836|end_char=837
+6	личность	личность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	conj	_	start_char=838|end_char=846
+7	.	.	PUNCT	_	_	1	punct	_	start_char=846|end_char=847
+
+# text = Все – исключительно с твоего разрешения, даже просьбы.
+# sent_id = 11
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=848|end_char=851
+2	–	–	PUNCT	_	_	6	punct	_	start_char=852|end_char=853
+3	исключительно	исключительно	ADV	_	Degree=Pos	6	advmod	_	start_char=854|end_char=867
+4	с	с	ADP	_	_	6	case	_	start_char=868|end_char=869
+5	твоего	твой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=870|end_char=876
+6	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=877|end_char=887
+7	,	,	PUNCT	_	_	9	punct	_	start_char=887|end_char=888
+8	даже	даже	PART	_	_	9	advmod	_	start_char=889|end_char=893
+9	просьбы	просьба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	conj	_	start_char=894|end_char=901
+10	.	.	PUNCT	_	_	6	punct	_	start_char=901|end_char=902
+
+# text = Одно нажатие на мигающую надпись "удалить" – и ты свободен ото всего, кроме приказов.
+# sent_id = 12
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Одно	один	NUM	_	Case=Nom|Gender=Neut|NumForm=Word|NumType=Card|Number=Sing	2	nummod	_	start_char=903|end_char=907
+2	нажатие	нажатие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=908|end_char=915
+3	на	на	ADP	_	_	5	case	_	start_char=916|end_char=918
+4	мигающую	мигать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	start_char=919|end_char=927
+5	надпись	надпись	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	start_char=928|end_char=935
+6	"	"	PUNCT	_	_	7	punct	_	start_char=936|end_char=937
+7	удалить	удалить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	parataxis	_	start_char=937|end_char=944
+8	"	"	PUNCT	_	_	7	punct	_	start_char=944|end_char=945
+9	–	–	PUNCT	_	_	12	punct	_	start_char=946|end_char=947
+10	и	и	CCONJ	_	_	12	cc	_	start_char=948|end_char=949
+11	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=950|end_char=952
+12	свободен	свободный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	start_char=953|end_char=961
+13	ото	ото	ADP	_	_	14	case	_	start_char=962|end_char=965
+14	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	12	obl	_	start_char=966|end_char=971
+15	,	,	PUNCT	_	_	17	punct	_	start_char=971|end_char=972
+16	кроме	кроме	ADP	_	_	17	case	_	start_char=973|end_char=978
+17	приказов	приказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	obl	_	start_char=979|end_char=987
+18	.	.	PUNCT	_	_	2	punct	_	start_char=987|end_char=988
+
+# text = От боли.
+# sent_id = 13
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	От	от	ADP	_	_	2	case	_	start_char=989|end_char=991
+2	боли	боль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=992|end_char=996
+3	.	.	PUNCT	_	_	2	punct	_	start_char=996|end_char=997
+
+# text = От горьких воспоминаний.
+# sent_id = 14
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	От	от	ADP	_	_	3	case	_	start_char=998|end_char=1000
+2	горьких	горький	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	start_char=1001|end_char=1008
+3	воспоминаний	воспоминание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	0	root	_	start_char=1009|end_char=1021
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1021|end_char=1022
+
+# text = От себя.
+# sent_id = 15
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	От	от	ADP	_	_	2	case	_	start_char=1023|end_char=1025
+2	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	0	root	_	start_char=1026|end_char=1030
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1030|end_char=1031
+
+# text = Они слишком настаивали.
+# sent_id = 16
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1032|end_char=1035
+2	слишком	слишком	ADV	_	Degree=Pos	3	advmod	_	start_char=1036|end_char=1043
+3	настаивали	настаивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1044|end_char=1054
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1054|end_char=1055
+
+# text = Они раз за разом устраивали мне встречи с теми, кто был уничтожен мною.
+# sent_id = 17
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=1056|end_char=1059
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=1060|end_char=1063
+3	за	за	ADP	_	_	4	case	_	start_char=1064|end_char=1066
+4	разом	раз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	start_char=1067|end_char=1072
+5	устраивали	устраивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1073|end_char=1083
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=1084|end_char=1087
+7	встречи	встреча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=1088|end_char=1095
+8	с	с	ADP	_	_	9	case	_	start_char=1096|end_char=1097
+9	теми	тот	DET	_	Case=Ins|Number=Plur|PronType=Dem	7	nmod	_	start_char=1098|end_char=1102
+10	,	,	PUNCT	_	_	13	punct	_	start_char=1102|end_char=1103
+11	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj:pass	_	start_char=1104|end_char=1107
+12	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	aux:pass	_	start_char=1108|end_char=1111
+13	уничтожен	уничтожить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	acl:relcl	_	start_char=1112|end_char=1121
+14	мною	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	13	obl:agent	_	start_char=1122|end_char=1126
+15	.	.	PUNCT	_	_	5	punct	_	start_char=1126|end_char=1127
+
+# text = Я узнаю манипуляции, под каким бы видом они ни были.
+# sent_id = 18
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1128|end_char=1129
+2	узнаю	узнавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1130|end_char=1135
+3	манипуляции	манипуляция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=1136|end_char=1147
+4	,	,	PUNCT	_	_	11	punct	_	start_char=1147|end_char=1148
+5	под	под	ADP	_	_	8	case	_	start_char=1149|end_char=1152
+6	каким	какой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	8	det	_	start_char=1153|end_char=1158
+7	бы	бы	X	_	_	8	aux	_	start_char=1159|end_char=1161
+8	видом	вид	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	start_char=1162|end_char=1167
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=1168|end_char=1171
+10	ни	ни	PART	_	Polarity=Neg	11	advmod	_	start_char=1172|end_char=1174
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1175|end_char=1179
+12	.	.	PUNCT	_	_	2	punct	_	start_char=1179|end_char=1180
+
+# text = Наверное, мне не полагалось воскрешения.
+# sent_id = 19
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Наверное	наверное	ADV	_	Degree=Pos	5	parataxis	_	start_char=1181|end_char=1189
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1189|end_char=1190
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=1191|end_char=1194
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1195|end_char=1197
+5	полагалось	полагаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1198|end_char=1208
+6	воскрешения	воскрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nsubj	_	start_char=1209|end_char=1220
+7	.	.	PUNCT	_	_	5	punct	_	start_char=1220|end_char=1221
+
+# text = Но в любой большой организации имеются элементы хаоса.
+# sent_id = 20
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=1222|end_char=1224
+2	в	в	ADP	_	_	5	case	_	start_char=1225|end_char=1226
+3	любой	любой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	5	det	_	start_char=1227|end_char=1232
+4	большой	большой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=1233|end_char=1240
+5	организации	организация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=1241|end_char=1252
+6	имеются	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1253|end_char=1260
+7	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=1261|end_char=1269
+8	хаоса	хаос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=1270|end_char=1275
+9	.	.	PUNCT	_	_	6	punct	_	start_char=1275|end_char=1276
+
+# text = И в хаосе всеобщего перемещения в новые тела и я был отправлен.
+# sent_id = 21
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	И	и	CCONJ	_	_	3	cc	_	start_char=1277|end_char=1278
+2	в	в	ADP	_	_	3	case	_	start_char=1279|end_char=1280
+3	хаосе	хаос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=1281|end_char=1286
+4	всеобщего	всеобщий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=1287|end_char=1296
+5	перемещения	перемещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	start_char=1297|end_char=1308
+6	в	в	ADP	_	_	8	case	_	start_char=1309|end_char=1310
+7	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	start_char=1311|end_char=1316
+8	тела	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	nmod	_	start_char=1317|end_char=1321
+9	и	и	CCONJ	_	_	12	cc	_	start_char=1322|end_char=1323
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj:pass	_	start_char=1324|end_char=1325
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	aux:pass	_	start_char=1326|end_char=1329
+12	отправлен	отправить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	conj	_	start_char=1330|end_char=1339
+13	.	.	PUNCT	_	_	3	punct	_	start_char=1339|end_char=1340
+
+# text = Самолёт разгерметизирован.
+# sent_id = 22
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Самолёт	самолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	start_char=1341|end_char=1348
+2	разгерметизирован	разгерметизировать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=1349|end_char=1366
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1366|end_char=1367
+
+# text = По нему еще пытаются метаться люди.
+# sent_id = 23
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	По	по	ADP	_	_	2	case	_	start_char=1368|end_char=1370
+2	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=1371|end_char=1375
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=1376|end_char=1379
+4	пытаются	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1380|end_char=1388
+5	метаться	метаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=1389|end_char=1397
+6	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=1398|end_char=1402
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1402|end_char=1403
+
+# text = Обречённые люди.
+# sent_id = 24
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Обречённые	обречить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	start_char=1404|end_char=1414
+2	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=1415|end_char=1419
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1419|end_char=1420
+
+# text = Они уже задыхаются, у них синеют лица и разжимаются руки, они выпадают сквозь дыры в обшивке.
+# sent_id = 25
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1421|end_char=1424
+2	уже	уже	ADV	_	Degree=Pos	3	advmod	_	start_char=1425|end_char=1428
+3	задыхаются	задыхаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1429|end_char=1439
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1439|end_char=1440
+5	у	у	ADP	_	_	6	case	_	start_char=1441|end_char=1442
+6	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	obl	_	start_char=1443|end_char=1446
+7	синеют	синеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1447|end_char=1453
+8	лица	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	start_char=1454|end_char=1458
+9	и	и	CCONJ	_	_	10	cc	_	start_char=1459|end_char=1460
+10	разжимаются	разжиматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=1461|end_char=1472
+11	руки	рука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	start_char=1473|end_char=1477
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1477|end_char=1478
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=1479|end_char=1482
+14	выпадают	выпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1483|end_char=1491
+15	сквозь	сквозь	ADP	_	_	16	case	_	start_char=1492|end_char=1498
+16	дыры	дыра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obl	_	start_char=1499|end_char=1503
+17	в	в	ADP	_	_	18	case	_	start_char=1504|end_char=1505
+18	обшивке	обшивка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	start_char=1506|end_char=1513
+19	.	.	PUNCT	_	_	3	punct	_	start_char=1513|end_char=1514
+
+# text = Я прислушиваюсь к себе.
+# sent_id = 26
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1515|end_char=1516
+2	прислушиваюсь	прислушиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1517|end_char=1530
+3	к	к	ADP	_	_	4	case	_	start_char=1531|end_char=1532
+4	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	2	obl	_	start_char=1533|end_char=1537
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1537|end_char=1538
+
+# text = Я понимаю, что невозможно вместить всю многогранную и временами противоречивую человеческую личность в простую электрическую последовательность нулей и единиц, алгоритмов и операторов.
+# sent_id = 27
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1539|end_char=1540
+2	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1541|end_char=1548
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1548|end_char=1549
+4	что	что	SCONJ	_	_	5	mark	_	start_char=1550|end_char=1553
+5	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	ccomp	_	start_char=1554|end_char=1564
+6	вместить	вместить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=1565|end_char=1573
+7	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	13	det	_	start_char=1574|end_char=1577
+8	многогранную	многогранный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=1578|end_char=1590
+9	и	и	CCONJ	_	_	10	cc	_	start_char=1591|end_char=1592
+10	временами	временами	ADV	_	Degree=Pos	8	conj	_	start_char=1593|end_char=1602
+11	противоречивую	противоречивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=1603|end_char=1617
+12	человеческую	человеческий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=1618|end_char=1630
+13	личность	личность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=1631|end_char=1639
+14	в	в	ADP	_	_	17	case	_	start_char=1640|end_char=1641
+15	простую	простой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1642|end_char=1649
+16	электрическую	электрический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1650|end_char=1663
+17	последовательность	последовательность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	start_char=1664|end_char=1682
+18	нулей	нуль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	start_char=1683|end_char=1688
+19	и	и	CCONJ	_	_	20	cc	_	start_char=1689|end_char=1690
+20	единиц	единица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	conj	_	start_char=1691|end_char=1697
+21	,	,	PUNCT	_	_	22	punct	_	start_char=1697|end_char=1698
+22	алгоритмов	алгоритм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	conj	_	start_char=1699|end_char=1709
+23	и	и	CCONJ	_	_	24	cc	_	start_char=1710|end_char=1711
+24	операторов	оператор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	conj	_	start_char=1712|end_char=1722
+25	.	.	PUNCT	_	_	2	punct	_	start_char=1722|end_char=1723
+
+# text = Всю – нет.
+# sent_id = 28
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	3	nsubj	_	start_char=1724|end_char=1727
+2	–	–	PUNCT	_	_	1	punct	_	start_char=1728|end_char=1729
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=1730|end_char=1733
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1733|end_char=1734
+
+# text = Но главное – да.
+# sent_id = 29
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=1735|end_char=1737
+2	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=1738|end_char=1745
+3	–	–	PUNCT	_	_	4	punct	_	start_char=1746|end_char=1747
+4	да	да	PART	_	_	0	root	_	start_char=1748|end_char=1750
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1750|end_char=1751
+
+# text = Оно осталось.
+# sent_id = 30
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=1752|end_char=1755
+2	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1756|end_char=1764
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1764|end_char=1765
+
+# text = Для меня всегда главным был долг.
+# sent_id = 31
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Для	для	ADP	_	_	2	case	_	start_char=1766|end_char=1769
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=1770|end_char=1774
+3	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=1775|end_char=1781
+4	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=1782|end_char=1789
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=1790|end_char=1793
+6	долг	долг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1794|end_char=1798
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1798|end_char=1799
+
+# text = Не исполнение приказов, а следование тому, что я считал правильным.
+# sent_id = 32
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=1800|end_char=1802
+2	исполнение	исполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1803|end_char=1813
+3	приказов	приказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=1814|end_char=1822
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1822|end_char=1823
+5	а	а	CCONJ	_	_	6	cc	_	start_char=1824|end_char=1825
+6	следование	следование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	start_char=1826|end_char=1836
+7	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	6	nmod	_	start_char=1837|end_char=1841
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1841|end_char=1842
+9	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	11	obj	_	start_char=1843|end_char=1846
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=1847|end_char=1848
+11	считал	считать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=1849|end_char=1855
+12	правильным	правильный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	xcomp	_	start_char=1856|end_char=1866
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1866|end_char=1867
+
+# text = Я едва не пропустил момент, когда Кейт, моя Кейт, выпала из самолета.
+# sent_id = 33
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1868|end_char=1869
+2	едва	едва	ADV	_	Degree=Pos	4	advmod	_	start_char=1870|end_char=1874
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1875|end_char=1877
+4	пропустил	пропустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1878|end_char=1887
+5	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1888|end_char=1894
+6	,	,	PUNCT	_	_	13	punct	_	start_char=1894|end_char=1895
+7	когда	когда	SCONJ	_	_	13	mark	_	start_char=1896|end_char=1901
+8	Кейт	Кейт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	13	nsubj	_	start_char=1902|end_char=1906
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1906|end_char=1907
+10	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	start_char=1908|end_char=1911
+11	Кейт	Кейт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	appos	_	start_char=1912|end_char=1916
+12	,	,	PUNCT	_	_	11	punct	_	start_char=1916|end_char=1917
+13	выпала	выпасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=1918|end_char=1924
+14	из	из	ADP	_	_	15	case	_	start_char=1925|end_char=1927
+15	самолета	самолет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=1928|end_char=1936
+16	.	.	PUNCT	_	_	4	punct	_	start_char=1936|end_char=1937
+
+# text = Искусственные облака были такие густые, что она быстро стала недоступна для оптических сенсоров.
+# sent_id = 34
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Искусственные	искусственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	start_char=1938|end_char=1951
+2	облака	облако	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	start_char=1952|end_char=1958
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=1959|end_char=1963
+4	такие	такой	DET	_	Case=Nom|Number=Plur|PronType=Dem	5	det	_	start_char=1964|end_char=1969
+5	густые	густой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=1970|end_char=1976
+6	,	,	PUNCT	_	_	10	punct	_	start_char=1976|end_char=1977
+7	что	что	SCONJ	_	_	10	mark	_	start_char=1978|end_char=1981
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=1982|end_char=1985
+9	быстро	быстро	ADV	_	Degree=Pos	10	advmod	_	start_char=1986|end_char=1992
+10	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	start_char=1993|end_char=1998
+11	недоступна	недоступный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	10	xcomp	_	start_char=1999|end_char=2009
+12	для	для	ADP	_	_	14	case	_	start_char=2010|end_char=2013
+13	оптических	оптический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	start_char=2014|end_char=2024
+14	сенсоров	сенсор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	obl	_	start_char=2025|end_char=2033
+15	.	.	PUNCT	_	_	5	punct	_	start_char=2033|end_char=2034
+
+# text = Это было хорошо, никто из похожих на меня не будет следить, как падает с неба человек.
+# sent_id = 35
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2035|end_char=2038
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=2039|end_char=2043
+3	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2044|end_char=2050
+4	,	,	PUNCT	_	_	12	punct	_	start_char=2050|end_char=2051
+5	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	12	nsubj	_	start_char=2052|end_char=2057
+6	из	из	ADP	_	_	7	case	_	start_char=2058|end_char=2060
+7	похожих	похожий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	nmod	_	start_char=2061|end_char=2068
+8	на	на	ADP	_	_	9	case	_	start_char=2069|end_char=2071
+9	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obl	_	start_char=2072|end_char=2076
+10	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=2077|end_char=2079
+11	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	aux	_	start_char=2080|end_char=2085
+12	следить	следить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	start_char=2086|end_char=2093
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2093|end_char=2094
+14	как	как	SCONJ	_	_	15	mark	_	start_char=2095|end_char=2098
+15	падает	падать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	start_char=2099|end_char=2105
+16	с	с	ADP	_	_	17	case	_	start_char=2106|end_char=2107
+17	неба	небо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	start_char=2108|end_char=2112
+18	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	start_char=2113|end_char=2120
+19	.	.	PUNCT	_	_	3	punct	_	start_char=2120|end_char=2121
+
+# text = Я поймал её, замедлил наше падение, превратил его в спокойный спуск и медленно опустился с ней на руках на землю.
+# sent_id = 36
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2122|end_char=2123
+2	поймал	поймать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2124|end_char=2130
+3	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=2131|end_char=2133
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2133|end_char=2134
+5	замедлил	замедлить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2135|end_char=2143
+6	наше	наш	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=2144|end_char=2148
+7	падение	падение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=2149|end_char=2156
+8	,	,	PUNCT	_	_	9	punct	_	start_char=2156|end_char=2157
+9	превратил	превратить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2158|end_char=2167
+10	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=2168|end_char=2171
+11	в	в	ADP	_	_	13	case	_	start_char=2172|end_char=2173
+12	спокойный	спокойный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=2174|end_char=2183
+13	спуск	спуск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=2184|end_char=2189
+14	и	и	CCONJ	_	_	16	cc	_	start_char=2190|end_char=2191
+15	медленно	медленно	ADV	_	Degree=Pos	16	advmod	_	start_char=2192|end_char=2200
+16	опустился	опуститься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2201|end_char=2210
+17	с	с	ADP	_	_	18	case	_	start_char=2211|end_char=2212
+18	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=2213|end_char=2216
+19	на	на	ADP	_	_	20	case	_	start_char=2217|end_char=2219
+20	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	16	obl	_	start_char=2220|end_char=2225
+21	на	на	ADP	_	_	22	case	_	start_char=2226|end_char=2228
+22	землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	start_char=2229|end_char=2234
+23	.	.	PUNCT	_	_	2	punct	_	start_char=2234|end_char=2235
+
+# text = Сейчас она ничего не весила для меня.
+# sent_id = 37
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2236|end_char=2242
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=2243|end_char=2246
+3	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	5	obj	_	start_char=2247|end_char=2253
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2254|end_char=2256
+5	весила	весить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2257|end_char=2263
+6	для	для	ADP	_	_	7	case	_	start_char=2264|end_char=2267
+7	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=2268|end_char=2272
+8	.	.	PUNCT	_	_	5	punct	_	start_char=2272|end_char=2273
+
+# text = Как в детстве, когда она была ребенком.
+# sent_id = 38
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Как	как	SCONJ	_	_	3	mark	_	start_char=2274|end_char=2277
+2	в	в	ADP	_	_	3	case	_	start_char=2278|end_char=2279
+3	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=2280|end_char=2287
+4	,	,	PUNCT	_	_	8	punct	_	start_char=2287|end_char=2288
+5	когда	когда	SCONJ	_	_	8	mark	_	start_char=2289|end_char=2294
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=2295|end_char=2298
+7	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=2299|end_char=2303
+8	ребенком	ребенок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	acl	_	start_char=2304|end_char=2312
+9	.	.	PUNCT	_	_	3	punct	_	start_char=2312|end_char=2313
+
+# text = И когда мне часто было некогда взять её на руки.
+# sent_id = 39
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	И	и	CCONJ	_	_	6	cc	_	start_char=2314|end_char=2315
+2	когда	когда	SCONJ	_	_	6	mark	_	start_char=2316|end_char=2321
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	start_char=2322|end_char=2325
+4	часто	часто	ADV	_	Degree=Pos	6	advmod	_	start_char=2326|end_char=2331
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=2332|end_char=2336
+6	некогда	некогда	VERB	_	_	0	root	_	start_char=2337|end_char=2344
+7	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=2345|end_char=2350
+8	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=2351|end_char=2353
+9	на	на	ADP	_	_	10	case	_	start_char=2354|end_char=2356
+10	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obl	_	start_char=2357|end_char=2361
+11	.	.	PUNCT	_	_	6	punct	_	start_char=2361|end_char=2362
+
+# text = Но я даже не жалею об этом.
+# sent_id = 40
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=2363|end_char=2365
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2366|end_char=2367
+3	даже	даже	PART	_	_	5	advmod	_	start_char=2368|end_char=2372
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2373|end_char=2375
+5	жалею	жалеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2376|end_char=2381
+6	об	об	ADP	_	_	7	case	_	start_char=2382|end_char=2384
+7	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=2385|end_char=2389
+8	.	.	PUNCT	_	_	5	punct	_	start_char=2389|end_char=2390
+
+# text = Не потому, что жалость не поместилась в программу.
+# sent_id = 41
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=2391|end_char=2393
+2	потому	потому	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=2394|end_char=2400
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2400|end_char=2401
+4	что	что	SCONJ	_	_	7	mark	_	start_char=2402|end_char=2405
+5	жалость	жалость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=2406|end_char=2413
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2414|end_char=2416
+7	поместилась	поместиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	advcl	_	start_char=2417|end_char=2428
+8	в	в	ADP	_	_	9	case	_	start_char=2429|end_char=2430
+9	программу	программа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=2431|end_char=2440
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2440|end_char=2441
+
+# text = Любовь – это не обещания.
+# sent_id = 42
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Любовь	любовь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=2442|end_char=2448
+2	–	–	PUNCT	_	_	1	punct	_	start_char=2449|end_char=2450
+3	это	это	PART	_	_	5	expl	_	start_char=2451|end_char=2454
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2455|end_char=2457
+5	обещания	обещание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=2458|end_char=2466
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2466|end_char=2467
+
+# text = Доктор по-прежнему ничего не понимает.
+# sent_id = 43
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2468|end_char=2474
+2	по-прежнему	по-прежнему	ADV	_	Degree=Pos	5	advmod	_	start_char=2475|end_char=2486
+3	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	5	obj	_	start_char=2487|end_char=2493
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2494|end_char=2496
+5	понимает	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2497|end_char=2505
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2505|end_char=2506
+
+# text = Любовь – это поступки.
+# sent_id = 44
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Любовь	любовь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=2507|end_char=2513
+2	–	–	PUNCT	_	_	1	punct	_	start_char=2514|end_char=2515
+3	это	это	PART	_	_	4	expl	_	start_char=2516|end_char=2519
+4	поступки	поступок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2520|end_char=2528
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2528|end_char=2529
+
+# text = Я любил свою дочь и свою страну и защищал их как мог.
+# sent_id = 45
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2530|end_char=2531
+2	любил	любить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2532|end_char=2537
+3	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	start_char=2538|end_char=2542
+4	дочь	дочь	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=2543|end_char=2547
+5	и	и	CCONJ	_	_	7	cc	_	start_char=2548|end_char=2549
+6	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=2550|end_char=2554
+7	страну	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	conj	_	start_char=2555|end_char=2561
+8	и	и	CCONJ	_	_	9	cc	_	start_char=2562|end_char=2563
+9	защищал	защищать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2564|end_char=2571
+10	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	start_char=2572|end_char=2574
+11	как	как	SCONJ	_	_	12	mark	_	start_char=2575|end_char=2578
+12	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=2579|end_char=2582
+13	.	.	PUNCT	_	_	2	punct	_	start_char=2582|end_char=2583
+
+# text = Я продолжаю их любить.
+# sent_id = 46
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2584|end_char=2585
+2	продолжаю	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2586|end_char=2595
+3	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	start_char=2596|end_char=2598
+4	любить	любить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2599|end_char=2605
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2605|end_char=2606
+
+# text = И я лечу искать таких же, как я, которые тоже знают это.
+# sent_id = 47
+# metadata = Название: Железный Бригадир, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5515f4a700000a7d1f86dc84/1/Zheleznyj-Brigadir
+1	И	и	CCONJ	_	_	3	cc	_	start_char=2607|end_char=2608
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2609|end_char=2610
+3	лечу	лететь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2611|end_char=2615
+4	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2616|end_char=2622
+5	таких	такой	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	4	obj	_	start_char=2623|end_char=2628
+6	же	же	PART	_	_	5	advmod	_	start_char=2629|end_char=2631
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2631|end_char=2632
+8	как	как	SCONJ	_	_	9	case	_	start_char=2633|end_char=2636
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=2637|end_char=2638
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2638|end_char=2639
+11	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	13	nsubj	_	start_char=2640|end_char=2647
+12	тоже	тоже	PART	_	_	13	advmod	_	start_char=2648|end_char=2652
+13	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=2653|end_char=2658
+14	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	obj	_	start_char=2659|end_char=2662
+15	.	.	PUNCT	_	_	3	punct	_	start_char=2662|end_char=2663
+

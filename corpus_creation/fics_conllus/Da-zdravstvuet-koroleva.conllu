@@ -1,0 +1,1401 @@
+# text = Король Ирканос с оглушительным рёвом ворвался в лабораторию.
+# sent_id = 0
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=0|end_char=6
+2	Ирканос	Ирканос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=7|end_char=14
+3	с	с	ADP	_	_	5	case	_	start_char=15|end_char=16
+4	оглушительным	оглушительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=17|end_char=30
+5	рёвом	рев	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=31|end_char=36
+6	ворвался	ворваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=37|end_char=45
+7	в	в	ADP	_	_	8	case	_	start_char=46|end_char=47
+8	лабораторию	лаборатория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=48|end_char=59
+9	.	.	PUNCT	_	_	6	punct	_	start_char=59|end_char=60
+
+# text = – Защитите меня!
+# sent_id = 1
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=61|end_char=62
+2	Защитите	защить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=63|end_char=71
+3	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=72|end_char=76
+4	!	!	PUNCT	_	_	2	punct	_	start_char=76|end_char=77
+
+# text = – голосом намного ниже, чем это было раньше, приказала она, глядя на него горящими глазами.
+# sent_id = 2
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=78|end_char=79
+2	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	iobj	_	start_char=80|end_char=87
+3	намного	намного	ADV	_	Degree=Pos	4	advmod	_	start_char=88|end_char=95
+4	ниже	низкий	ADJ	_	Degree=Cmp	0	root	_	start_char=96|end_char=100
+5	,	,	PUNCT	_	_	9	punct	_	start_char=100|end_char=101
+6	чем	чем	SCONJ	_	_	9	mark	_	start_char=102|end_char=105
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=106|end_char=109
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=110|end_char=114
+9	раньше	раньше	ADV	_	Degree=Cmp	8	advmod	_	start_char=115|end_char=121
+10	,	,	PUNCT	_	_	11	punct	_	start_char=121|end_char=122
+11	приказала	приказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=123|end_char=132
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=133|end_char=136
+13	,	,	PUNCT	_	_	14	punct	_	start_char=136|end_char=137
+14	глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	advcl	_	start_char=138|end_char=143
+15	на	на	ADP	_	_	16	case	_	start_char=144|end_char=146
+16	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	start_char=147|end_char=151
+17	горящими	горящий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	18	amod	_	start_char=152|end_char=160
+18	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	iobj	_	start_char=161|end_char=168
+19	.	.	PUNCT	_	_	4	punct	_	start_char=168|end_char=169
+
+# text = Он, не задумываясь над тем, кому был отдан приказ, перестрелял там всех.
+# sent_id = 3
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=170|end_char=172
+2	,	,	PUNCT	_	_	4	punct	_	start_char=172|end_char=173
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=174|end_char=176
+4	задумываясь	задумываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	13	advcl	_	start_char=177|end_char=188
+5	над	над	ADP	_	_	6	case	_	start_char=189|end_char=192
+6	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	start_char=193|end_char=196
+7	,	,	PUNCT	_	_	10	punct	_	start_char=196|end_char=197
+8	кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	10	iobj	_	start_char=198|end_char=202
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	aux:pass	_	start_char=203|end_char=206
+10	отдан	отдать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	acl	_	start_char=207|end_char=212
+11	приказ	приказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	start_char=213|end_char=219
+12	,	,	PUNCT	_	_	4	punct	_	start_char=219|end_char=220
+13	перестрелял	перестрелять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=221|end_char=232
+14	там	там	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=233|end_char=236
+15	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	13	obj	_	start_char=237|end_char=241
+16	.	.	PUNCT	_	_	13	punct	_	start_char=241|end_char=242
+
+# text = Она в это время сидела неподвижно, как статуя, что сильно упростило дело.
+# sent_id = 4
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=243|end_char=246
+2	в	в	ADP	_	_	4	case	_	start_char=247|end_char=248
+3	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	start_char=249|end_char=252
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=253|end_char=258
+5	сидела	сидеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=259|end_char=265
+6	неподвижно	неподвижно	ADV	_	Degree=Pos	5	advmod	_	start_char=266|end_char=276
+7	,	,	PUNCT	_	_	9	punct	_	start_char=276|end_char=277
+8	как	как	SCONJ	_	_	9	case	_	start_char=278|end_char=281
+9	статуя	статуя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	obl	_	start_char=282|end_char=288
+10	,	,	PUNCT	_	_	13	punct	_	start_char=288|end_char=289
+11	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	start_char=290|end_char=293
+12	сильно	сильно	ADV	_	Degree=Pos	13	advmod	_	start_char=294|end_char=300
+13	упростило	упростить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=301|end_char=310
+14	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	start_char=311|end_char=315
+15	.	.	PUNCT	_	_	5	punct	_	start_char=315|end_char=316
+
+# text = Король бросился к своей суженой: – Моя королева!
+# sent_id = 5
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=317|end_char=323
+2	бросился	броситься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=324|end_char=332
+3	к	к	ADP	_	_	5	case	_	start_char=333|end_char=334
+4	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=335|end_char=340
+5	суженой	сужена	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	2	obl	_	start_char=341|end_char=348
+6	:	:	PUNCT	_	_	9	punct	_	start_char=348|end_char=349
+7	–	–	PUNCT	_	_	9	punct	_	start_char=350|end_char=351
+8	Моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=352|end_char=355
+9	королева	королева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	start_char=356|end_char=364
+10	!	!	PUNCT	_	_	2	punct	_	start_char=364|end_char=365
+
+# text = – он порывисто попытался обнять её.
+# sent_id = 6
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=366|end_char=367
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=368|end_char=370
+3	порывисто	порывисто	ADV	_	Degree=Pos	4	advmod	_	start_char=371|end_char=380
+4	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=381|end_char=390
+5	обнять	обнять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=391|end_char=397
+6	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=398|end_char=400
+7	.	.	PUNCT	_	_	4	punct	_	start_char=400|end_char=401
+
+# text = – Королева?
+# sent_id = 7
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=402|end_char=403
+2	Королева	королева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=404|end_char=412
+3	?	?	PUNCT	_	_	2	punct	_	start_char=412|end_char=413
+
+# text = А мы уже подписали договор, брачный контракт, или как это у вас называется?
+# sent_id = 8
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	А	а	CCONJ	_	_	4	cc	_	start_char=414|end_char=415
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=416|end_char=418
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=419|end_char=422
+4	подписали	подписать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=423|end_char=432
+5	договор	договор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=433|end_char=440
+6	,	,	PUNCT	_	_	8	punct	_	start_char=440|end_char=441
+7	брачный	брачный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=442|end_char=449
+8	контракт	контракт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	start_char=450|end_char=458
+9	,	,	PUNCT	_	_	15	punct	_	start_char=458|end_char=459
+10	или	или	CCONJ	_	_	15	cc	_	start_char=460|end_char=463
+11	как	как	ADV	_	Degree=Pos|PronType=Int	15	advmod	_	start_char=464|end_char=467
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	start_char=468|end_char=471
+13	у	у	ADP	_	_	14	case	_	start_char=472|end_char=473
+14	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	15	obl	_	start_char=474|end_char=477
+15	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=478|end_char=488
+16	?	?	PUNCT	_	_	4	punct	_	start_char=488|end_char=489
+
+# text = – она осторожно высвободилась из его объятий.
+# sent_id = 9
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=490|end_char=491
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=492|end_char=495
+3	осторожно	осторожно	ADV	_	Degree=Pos	4	advmod	_	start_char=496|end_char=505
+4	высвободилась	высвободиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=506|end_char=519
+5	из	из	ADP	_	_	7	case	_	start_char=520|end_char=522
+6	его	его	DET	_	Poss=Yes|PronType=Prs	7	det	_	start_char=523|end_char=526
+7	объятий	объятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	obl	_	start_char=527|end_char=534
+8	.	.	PUNCT	_	_	4	punct	_	start_char=534|end_char=535
+
+# text = – Перпагиллиам из Браунов, ты что, не помнишь?
+# sent_id = 10
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	10	punct	_	start_char=536|end_char=537
+2	Перпагиллиам	Перпагиллиам	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	vocative	_	start_char=538|end_char=550
+3	из	из	ADP	_	_	4	case	_	start_char=551|end_char=553
+4	Браунов	Браунов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nmod	_	start_char=554|end_char=561
+5	,	,	PUNCT	_	_	7	punct	_	start_char=561|end_char=562
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=563|end_char=565
+7	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	parataxis	_	start_char=566|end_char=569
+8	,	,	PUNCT	_	_	10	punct	_	start_char=569|end_char=570
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=571|end_char=573
+10	помнишь	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=574|end_char=581
+11	?	?	PUNCT	_	_	10	punct	_	start_char=581|end_char=582
+
+# text = – Я... – Ты лысая!
+# sent_id = 11
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=583|end_char=584
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=585|end_char=586
+3	...	...	PUNCT	_	_	2	punct	_	start_char=586|end_char=589
+4	–	–	PUNCT	_	_	6	punct	_	start_char=590|end_char=591
+5	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=592|end_char=594
+6	лысая	лысой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	parataxis	_	start_char=595|end_char=600
+7	!	!	PUNCT	_	_	2	punct	_	start_char=600|end_char=601
+
+# text = Ты – не она!
+# sent_id = 12
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=602|end_char=604
+2	–	–	PUNCT	_	_	4	punct	_	start_char=605|end_char=606
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=607|end_char=609
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=610|end_char=613
+5	!	!	PUNCT	_	_	4	punct	_	start_char=613|end_char=614
+
+# text = – внезапно озарило короля.
+# sent_id = 13
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=615|end_char=616
+2	внезапно	внезапно	ADV	_	Degree=Pos	3	advmod	_	start_char=617|end_char=625
+3	озарило	озарить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=626|end_char=633
+4	короля	король	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=634|end_char=640
+5	.	.	PUNCT	_	_	3	punct	_	start_char=640|end_char=641
+
+# text = – Ты... ты...
+# sent_id = 14
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=642|end_char=643
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	start_char=644|end_char=646
+3	...	...	PUNCT	_	_	2	punct	_	start_char=646|end_char=649
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	vocative	_	start_char=650|end_char=652
+5	...	...	PUNCT	_	_	2	punct	_	start_char=652|end_char=655
+
+# text = – Что есть она, и что вообще есть личность? – философски заметила Пери.
+# sent_id = 15
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=656|end_char=657
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=658|end_char=661
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	start_char=662|end_char=666
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=667|end_char=670
+5	,	,	PUNCT	_	_	9	punct	_	start_char=670|end_char=671
+6	и	и	CCONJ	_	_	9	cc	_	start_char=672|end_char=673
+7	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	9	nsubj	_	start_char=674|end_char=677
+8	вообще	вообще	ADV	_	Degree=Pos	9	advmod	_	start_char=678|end_char=684
+9	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=685|end_char=689
+10	личность	личность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=690|end_char=698
+11	?	?	PUNCT	_	_	3	punct	_	start_char=698|end_char=699
+12	–	–	PUNCT	_	_	14	punct	_	start_char=700|end_char=701
+13	философски	философски	ADV	_	Degree=Pos	14	advmod	_	start_char=702|end_char=712
+14	заметила	заметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=713|end_char=721
+15	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	14	nsubj	_	start_char=722|end_char=726
+16	.	.	PUNCT	_	_	2	punct	_	start_char=726|end_char=727
+
+# text = – Физически я – это она.
+# sent_id = 16
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	6	punct	_	start_char=728|end_char=729
+2	Физически	физически	ADV	_	Degree=Pos	6	advmod	_	start_char=730|end_char=739
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=740|end_char=741
+4	–	–	PUNCT	_	_	6	punct	_	start_char=742|end_char=743
+5	это	это	PART	_	_	6	expl	_	start_char=744|end_char=747
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=748|end_char=751
+7	.	.	PUNCT	_	_	6	punct	_	start_char=751|end_char=752
+
+# text = – Но операция доктора Крозье...
+# sent_id = 17
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=753|end_char=754
+2	Но	но	CCONJ	_	_	3	cc	_	start_char=755|end_char=757
+3	операция	операция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=758|end_char=766
+4	доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=767|end_char=774
+5	Крозье	Крозье	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	start_char=775|end_char=781
+6	...	...	PUNCT	_	_	3	punct	_	start_char=781|end_char=784
+
+# text = – По пересадке сознания прошла совершенно успешно.
+# sent_id = 18
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	5	punct	_	start_char=785|end_char=786
+2	По	по	ADP	_	_	3	case	_	start_char=787|end_char=789
+3	пересадке	пересадка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	obl	_	start_char=790|end_char=799
+4	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	start_char=800|end_char=808
+5	прошла	пройти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=809|end_char=815
+6	совершенно	совершенно	ADV	_	Degree=Pos	7	advmod	_	start_char=816|end_char=826
+7	успешно	успешно	ADV	_	Degree=Pos	5	advmod	_	start_char=827|end_char=834
+8	.	.	PUNCT	_	_	5	punct	_	start_char=834|end_char=835
+
+# text = Теперь у вас, дорогой король, или как она вас там называла, есть шанс получить два товара по цене одного – ум, знания и опыт меня, лорда Кива, в теле этой девочки.
+# sent_id = 19
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=836|end_char=842
+2	у	у	ADP	_	_	3	case	_	start_char=843|end_char=844
+3	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	15	obl	_	start_char=845|end_char=848
+4	,	,	PUNCT	_	_	6	punct	_	start_char=848|end_char=849
+5	дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=850|end_char=857
+6	король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=858|end_char=864
+7	,	,	PUNCT	_	_	13	punct	_	start_char=864|end_char=865
+8	или	или	CCONJ	_	_	13	cc	_	start_char=866|end_char=869
+9	как	как	SCONJ	_	_	13	mark	_	start_char=870|end_char=873
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=874|end_char=877
+11	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	13	obj	_	start_char=878|end_char=881
+12	там	там	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=882|end_char=885
+13	называла	называть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=886|end_char=894
+14	,	,	PUNCT	_	_	13	punct	_	start_char=894|end_char=895
+15	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=896|end_char=900
+16	шанс	шанс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=901|end_char=905
+17	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	acl	_	start_char=906|end_char=914
+18	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card	19	nummod:gov	_	start_char=915|end_char=918
+19	товара	товар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obj	_	start_char=919|end_char=925
+20	по	по	ADP	_	_	21	case	_	start_char=926|end_char=928
+21	цене	цена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	obl	_	start_char=929|end_char=933
+22	одного	один	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	21	appos	_	start_char=934|end_char=940
+23	–	–	PUNCT	_	_	24	punct	_	start_char=941|end_char=942
+24	ум	ум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	appos	_	start_char=943|end_char=945
+25	,	,	PUNCT	_	_	26	punct	_	start_char=945|end_char=946
+26	знания	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	conj	_	start_char=947|end_char=953
+27	и	и	CCONJ	_	_	28	cc	_	start_char=954|end_char=955
+28	опыт	опыт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	conj	_	start_char=956|end_char=960
+29	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	28	nmod	_	start_char=961|end_char=965
+30	,	,	PUNCT	_	_	31	punct	_	start_char=965|end_char=966
+31	лорда	лорд	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	conj	_	start_char=967|end_char=972
+32	Кива	Кива	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	31	nmod	_	start_char=973|end_char=977
+33	,	,	PUNCT	_	_	35	punct	_	start_char=977|end_char=978
+34	в	в	ADP	_	_	35	case	_	start_char=979|end_char=980
+35	теле	тело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	conj	_	start_char=981|end_char=985
+36	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	37	det	_	start_char=986|end_char=990
+37	девочки	девочка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	start_char=991|end_char=998
+38	.	.	PUNCT	_	_	15	punct	_	start_char=998|end_char=999
+
+# text = А то бунтовщики меня по стенкам размажут.
+# sent_id = 20
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	А	а	CCONJ	_	_	7	cc	_	start_char=1000|end_char=1001
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	fixed	_	start_char=1002|end_char=1004
+3	бунтовщики	бунтовщик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=1005|end_char=1015
+4	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=1016|end_char=1020
+5	по	по	ADP	_	_	6	case	_	start_char=1021|end_char=1023
+6	стенкам	стенка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	obl	_	start_char=1024|end_char=1031
+7	размажут	размадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1032|end_char=1040
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1040|end_char=1041
+
+# text = Тут зеркало есть?
+# sent_id = 21
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Тут	тут	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1042|end_char=1045
+2	зеркало	зеркало	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=1046|end_char=1053
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1054|end_char=1058
+4	?	?	PUNCT	_	_	3	punct	_	start_char=1058|end_char=1059
+
+# text = – Я опоздал! – трагически воздел руки король.
+# sent_id = 22
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1060|end_char=1061
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=1062|end_char=1063
+3	опоздал	опоздать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1064|end_char=1071
+4	!	!	PUNCT	_	_	3	punct	_	start_char=1071|end_char=1072
+5	–	–	PUNCT	_	_	7	punct	_	start_char=1073|end_char=1074
+6	трагически	трагически	ADV	_	Degree=Pos	7	advmod	_	start_char=1075|end_char=1085
+7	воздел	воздеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1086|end_char=1092
+8	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=1093|end_char=1097
+9	король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1098|end_char=1104
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1104|end_char=1105
+
+# text = – Будь прокляты эти...
+# sent_id = 23
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1106|end_char=1107
+2	Будь	быть	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	cop	_	start_char=1108|end_char=1112
+3	прокляты	проклятый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1113|end_char=1121
+4	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	3	nsubj	_	start_char=1122|end_char=1125
+5	...	...	PUNCT	_	_	3	punct	_	start_char=1125|end_char=1128
+
+# text = То есть вы, лорд Кив, собираетесь за меня замуж?
+# sent_id = 24
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	mark	_	start_char=1129|end_char=1131
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	start_char=1132|end_char=1136
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	start_char=1137|end_char=1139
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1139|end_char=1140
+5	лорд	лорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=1141|end_char=1145
+6	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	5	appos	_	start_char=1146|end_char=1149
+7	,	,	PUNCT	_	_	5	punct	_	start_char=1149|end_char=1150
+8	собираетесь	собираться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1151|end_char=1162
+9	за	за	ADP	_	_	10	case	_	start_char=1163|end_char=1165
+10	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	start_char=1166|end_char=1170
+11	замуж	замуж	ADV	_	Degree=Pos	8	advmod	_	start_char=1171|end_char=1176
+12	?	?	PUNCT	_	_	8	punct	_	start_char=1176|end_char=1177
+
+# text = – Да, кажется, у вас это именно так называется.
+# sent_id = 25
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	11	punct	_	start_char=1179|end_char=1180
+2	Да	да	PART	_	_	11	parataxis	_	start_char=1181|end_char=1183
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1183|end_char=1184
+4	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	parataxis	_	start_char=1185|end_char=1192
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1192|end_char=1193
+6	у	у	ADP	_	_	7	case	_	start_char=1194|end_char=1195
+7	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	11	obl	_	start_char=1196|end_char=1199
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=1200|end_char=1203
+9	именно	именно	PART	_	_	10	advmod	_	start_char=1204|end_char=1210
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=1211|end_char=1214
+11	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1215|end_char=1225
+12	.	.	PUNCT	_	_	11	punct	_	start_char=1225|end_char=1226
+
+# text = – Лорд Кив нашёл зеркало, погладил свою голову: – Она не болит!
+# sent_id = 26
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1227|end_char=1228
+2	Лорд	Лорд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1229|end_char=1233
+3	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=1234|end_char=1237
+4	нашёл	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1238|end_char=1243
+5	зеркало	зеркало	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	start_char=1244|end_char=1251
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1251|end_char=1252
+7	погладил	погладить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1253|end_char=1261
+8	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=1262|end_char=1266
+9	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=1267|end_char=1273
+10	:	:	PUNCT	_	_	14	punct	_	start_char=1273|end_char=1274
+11	–	–	PUNCT	_	_	14	punct	_	start_char=1275|end_char=1276
+12	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=1277|end_char=1280
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1281|end_char=1283
+14	болит	болеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1284|end_char=1289
+15	!	!	PUNCT	_	_	4	punct	_	start_char=1289|end_char=1290
+
+# text = Как это приятно!
+# sent_id = 27
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=1291|end_char=1294
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1295|end_char=1298
+3	приятно	приятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1299|end_char=1306
+4	!	!	PUNCT	_	_	3	punct	_	start_char=1306|end_char=1307
+
+# text = И гладить... такая тёплая, такая гладкая...
+# sent_id = 28
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	И	и	CCONJ	_	_	2	cc	_	start_char=1308|end_char=1309
+2	гладить	гладить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=1310|end_char=1317
+3	...	...	PUNCT	_	_	2	punct	_	start_char=1317|end_char=1320
+4	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=1321|end_char=1326
+5	тёплая	теплый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	parataxis	_	start_char=1327|end_char=1333
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1333|end_char=1334
+7	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	nsubj	_	start_char=1335|end_char=1340
+8	гладкая	гладкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	conj	_	start_char=1341|end_char=1348
+9	...	...	PUNCT	_	_	2	punct	_	start_char=1348|end_char=1351
+
+# text = – Но это невозможно!
+# sent_id = 29
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1352|end_char=1353
+2	Но	но	CCONJ	_	_	4	cc	_	start_char=1354|end_char=1356
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=1357|end_char=1360
+4	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1361|end_char=1371
+5	!	!	PUNCT	_	_	4	punct	_	start_char=1371|end_char=1372
+
+# text = – снова вскричал Ирканос.
+# sent_id = 30
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1373|end_char=1374
+2	снова	снова	ADV	_	Degree=Pos	3	advmod	_	start_char=1375|end_char=1380
+3	вскричал	вскричать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1381|end_char=1389
+4	Ирканос	Ирканос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	nsubj	_	start_char=1390|end_char=1397
+5	.	.	PUNCT	_	_	3	punct	_	start_char=1397|end_char=1398
+
+# text = – Почему это? – не отрываясь от зеркала, поинтересовался Кив.
+# sent_id = 31
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1399|end_char=1400
+2	Почему	почему	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=1401|end_char=1407
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=1408|end_char=1411
+4	?	?	PUNCT	_	_	3	punct	_	start_char=1411|end_char=1412
+5	–	–	PUNCT	_	_	7	punct	_	start_char=1413|end_char=1414
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1415|end_char=1417
+7	отрываясь	отрываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	11	advcl	_	start_char=1418|end_char=1427
+8	от	от	ADP	_	_	9	case	_	start_char=1428|end_char=1430
+9	зеркала	зеркала	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	start_char=1431|end_char=1438
+10	,	,	PUNCT	_	_	7	punct	_	start_char=1438|end_char=1439
+11	поинтересовался	поинтересоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1440|end_char=1455
+12	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	11	nsubj	_	start_char=1456|end_char=1459
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1459|end_char=1460
+
+# text = – Вы же хотите свою королеву?
+# sent_id = 32
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1461|end_char=1462
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=1463|end_char=1465
+3	же	же	PART	_	_	2	advmod	_	start_char=1466|end_char=1468
+4	хотите	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1469|end_char=1475
+5	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=1476|end_char=1480
+6	королеву	королева	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=1481|end_char=1489
+7	?	?	PUNCT	_	_	4	punct	_	start_char=1489|end_char=1490
+
+# text = Я буду ею, попутно я буду вашим советником по финансам.
+# sent_id = 33
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1491|end_char=1492
+2	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1493|end_char=1497
+3	ею	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	start_char=1498|end_char=1500
+4	,	,	PUNCT	_	_	9	punct	_	start_char=1500|end_char=1501
+5	попутно	попутно	ADV	_	Degree=Pos	9	advmod	_	start_char=1502|end_char=1509
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=1510|end_char=1511
+7	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	9	cop	_	start_char=1512|end_char=1516
+8	вашим	ваш	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=1517|end_char=1522
+9	советником	советник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	acl:relcl	_	start_char=1523|end_char=1533
+10	по	по	ADP	_	_	11	case	_	start_char=1534|end_char=1536
+11	финансам	финансы	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	9	nmod	_	start_char=1537|end_char=1545
+12	.	.	PUNCT	_	_	2	punct	_	start_char=1545|end_char=1546
+
+# text = Вы хотите вести войны – я буду находить вам деньги на них.
+# sent_id = 34
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=1547|end_char=1549
+2	хотите	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1550|end_char=1556
+3	вести	вести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1557|end_char=1562
+4	войны	война	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	start_char=1563|end_char=1568
+5	–	–	PUNCT	_	_	8	punct	_	start_char=1569|end_char=1570
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=1571|end_char=1572
+7	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	_	start_char=1573|end_char=1577
+8	находить	находить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	parataxis	_	start_char=1578|end_char=1586
+9	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	8	iobj	_	start_char=1587|end_char=1590
+10	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=1591|end_char=1597
+11	на	на	ADP	_	_	12	case	_	start_char=1598|end_char=1600
+12	них	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obl	_	start_char=1601|end_char=1604
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1604|end_char=1605
+
+# text = Руки.
+# sent_id = 35
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Руки	рука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=1606|end_char=1610
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1610|end_char=1611
+
+# text = Они такие длинные, теплые и гибкие.
+# sent_id = 36
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1612|end_char=1615
+2	такие	такой	DET	_	Case=Nom|Number=Plur|PronType=Dem	1	det	_	start_char=1616|end_char=1621
+3	длинные	длинный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=1622|end_char=1629
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1629|end_char=1630
+5	теплые	теплый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	conj	_	start_char=1631|end_char=1637
+6	и	и	CCONJ	_	_	7	cc	_	start_char=1638|end_char=1639
+7	гибкие	гибкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	conj	_	start_char=1640|end_char=1646
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1646|end_char=1647
+
+# text = Они всюду достают.
+# sent_id = 37
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1648|end_char=1651
+2	всюду	всюду	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=1652|end_char=1657
+3	достают	доставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1658|end_char=1665
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1665|end_char=1666
+
+# text = – Потому что вы – не она!
+# sent_id = 38
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1667|end_char=1668
+2	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	7	mark	_	start_char=1669|end_char=1675
+3	что	что	SCONJ	_	_	2	fixed	_	start_char=1676|end_char=1679
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=1680|end_char=1682
+5	–	–	PUNCT	_	_	7	punct	_	start_char=1683|end_char=1684
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1685|end_char=1687
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=1688|end_char=1691
+8	!	!	PUNCT	_	_	7	punct	_	start_char=1691|end_char=1692
+
+# text = Она рассказывала мне о любви...
+# sent_id = 39
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=1693|end_char=1696
+2	рассказывала	рассказывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1697|end_char=1709
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	start_char=1710|end_char=1713
+4	о	о	ADP	_	_	5	case	_	start_char=1714|end_char=1715
+5	любви	любовь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=1716|end_char=1721
+6	...	...	PUNCT	_	_	2	punct	_	start_char=1721|end_char=1724
+
+# text = – Вы мне перескажете, что она вам рассказывала, и я вам расскажу снова.
+# sent_id = 40
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1725|end_char=1726
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=1727|end_char=1729
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=1730|end_char=1733
+4	перескажете	пересказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1734|end_char=1745
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1745|end_char=1746
+6	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj	_	start_char=1747|end_char=1750
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=1751|end_char=1754
+8	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	iobj	_	start_char=1755|end_char=1758
+9	рассказывала	рассказывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=1759|end_char=1771
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1771|end_char=1772
+11	и	и	CCONJ	_	_	14	cc	_	start_char=1773|end_char=1774
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=1775|end_char=1776
+13	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	14	iobj	_	start_char=1777|end_char=1780
+14	расскажу	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1781|end_char=1789
+15	снова	снова	ADV	_	Degree=Pos	14	advmod	_	start_char=1790|end_char=1795
+16	.	.	PUNCT	_	_	4	punct	_	start_char=1795|end_char=1796
+
+# text = Шея...
+# sent_id = 41
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Шея	шея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1797|end_char=1800
+2	...	...	PUNCT	_	_	1	punct	_	start_char=1800|end_char=1803
+
+# text = Крепкая.
+# sent_id = 42
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Крепкая	крепкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=1804|end_char=1811
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1811|end_char=1812
+
+# text = Слушайте, будущий муж мой, а что это за выступы на груди и зачем они нужны?
+# sent_id = 43
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Слушайте	слушать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1813|end_char=1821
+2	,	,	PUNCT	_	_	4	punct	_	start_char=1821|end_char=1822
+3	будущий	будущий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1823|end_char=1830
+4	муж	муж	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	start_char=1831|end_char=1834
+5	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=1835|end_char=1838
+6	,	,	PUNCT	_	_	11	punct	_	start_char=1838|end_char=1839
+7	а	а	CCONJ	_	_	11	cc	_	start_char=1840|end_char=1841
+8	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	11	det	_	start_char=1842|end_char=1845
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=1846|end_char=1849
+10	за	за	ADP	_	_	11	case	_	start_char=1850|end_char=1852
+11	выступы	выступа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	start_char=1853|end_char=1860
+12	на	на	ADP	_	_	13	case	_	start_char=1861|end_char=1863
+13	груди	грудь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	start_char=1864|end_char=1869
+14	и	и	CCONJ	_	_	17	cc	_	start_char=1870|end_char=1871
+15	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	17	advmod	_	start_char=1872|end_char=1877
+16	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=1878|end_char=1881
+17	нужны	нужный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	11	conj	_	start_char=1882|end_char=1887
+18	?	?	PUNCT	_	_	1	punct	_	start_char=1887|end_char=1888
+
+# text = – Кив обтянул блузкой означенные выступы.
+# sent_id = 44
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1889|end_char=1890
+2	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	3	nsubj	_	start_char=1891|end_char=1894
+3	обтянул	обтянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1895|end_char=1902
+4	блузкой	блузка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	start_char=1903|end_char=1910
+5	означенные	означить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	start_char=1911|end_char=1921
+6	выступы	выступа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	start_char=1922|end_char=1929
+7	.	.	PUNCT	_	_	3	punct	_	start_char=1929|end_char=1930
+
+# text = Король Ирканос сглотнул: "выступы" оказались гораздо больше, чем можно было предположить под свободной одеждой.
+# sent_id = 45
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1931|end_char=1937
+2	Ирканос	Ирканос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=1938|end_char=1945
+3	сглотнул	сглотнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1946|end_char=1954
+4	:	:	PUNCT	_	_	8	punct	_	start_char=1954|end_char=1955
+5	"	"	PUNCT	_	_	6	punct	_	start_char=1956|end_char=1957
+6	выступы	выступа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=1957|end_char=1964
+7	"	"	PUNCT	_	_	6	punct	_	start_char=1964|end_char=1965
+8	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1966|end_char=1975
+9	гораздо	гораздо	ADV	_	Degree=Pos	10	advmod	_	start_char=1976|end_char=1983
+10	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	8	advmod	_	start_char=1984|end_char=1990
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1990|end_char=1991
+12	чем	чем	SCONJ	_	_	13	mark	_	start_char=1992|end_char=1995
+13	можно	можно	VERB	_	_	8	advcl	_	start_char=1996|end_char=2001
+14	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=2002|end_char=2006
+15	предположить	предположить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	csubj	_	start_char=2007|end_char=2019
+16	под	под	ADP	_	_	18	case	_	start_char=2020|end_char=2023
+17	свободной	свободный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=2024|end_char=2033
+18	одеждой	одежда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	start_char=2034|end_char=2041
+19	.	.	PUNCT	_	_	3	punct	_	start_char=2041|end_char=2042
+
+# text = Лорд Кив повернулся обратно к зеркалу, Ирканос встал за ним, а разница в росте на целую голову позволяла ему спокойно видеть всё, что видит лорд Кив.
+# sent_id = 46
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Лорд	Лорд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=2043|end_char=2047
+2	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=2048|end_char=2051
+3	повернулся	повернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2052|end_char=2062
+4	обратно	обратно	ADV	_	Degree=Pos	3	advmod	_	start_char=2063|end_char=2070
+5	к	к	ADP	_	_	6	case	_	start_char=2071|end_char=2072
+6	зеркалу	зеркало	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	obl	_	start_char=2073|end_char=2080
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2080|end_char=2081
+8	Ирканос	Ирканос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	nsubj	_	start_char=2082|end_char=2089
+9	встал	встать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2090|end_char=2095
+10	за	за	ADP	_	_	11	case	_	start_char=2096|end_char=2098
+11	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=2099|end_char=2102
+12	,	,	PUNCT	_	_	20	punct	_	start_char=2102|end_char=2103
+13	а	а	CCONJ	_	_	20	cc	_	start_char=2104|end_char=2105
+14	разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	start_char=2106|end_char=2113
+15	в	в	ADP	_	_	16	case	_	start_char=2114|end_char=2115
+16	росте	рост	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	nmod	_	start_char=2116|end_char=2121
+17	на	на	ADP	_	_	19	case	_	start_char=2122|end_char=2124
+18	целую	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=2125|end_char=2130
+19	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obl	_	start_char=2131|end_char=2137
+20	позволяла	позволять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2138|end_char=2147
+21	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	iobj	_	start_char=2148|end_char=2151
+22	спокойно	спокойно	ADV	_	Degree=Pos	23	advmod	_	start_char=2152|end_char=2160
+23	видеть	видеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	xcomp	_	start_char=2161|end_char=2167
+24	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	23	obj	_	start_char=2168|end_char=2171
+25	,	,	PUNCT	_	_	27	punct	_	start_char=2171|end_char=2172
+26	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	27	obj	_	start_char=2173|end_char=2176
+27	видит	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl:relcl	_	start_char=2177|end_char=2182
+28	лорд	лорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	start_char=2183|end_char=2187
+29	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	28	appos	_	start_char=2188|end_char=2191
+30	.	.	PUNCT	_	_	3	punct	_	start_char=2191|end_char=2192
+
+# text = Бывшее земноводное изучал свое новое теплокровное тело.
+# sent_id = 47
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Бывшее	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=2193|end_char=2199
+2	земноводное	земноводный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nsubj	_	start_char=2200|end_char=2211
+3	изучал	изучать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2212|end_char=2218
+4	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=2219|end_char=2223
+5	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=2224|end_char=2229
+6	теплокровное	теплокровный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=2230|end_char=2242
+7	тело	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=2243|end_char=2247
+8	.	.	PUNCT	_	_	3	punct	_	start_char=2247|end_char=2248
+
+# text = Он провел руками по выступам, и ему понравилось.
+# sent_id = 48
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2249|end_char=2251
+2	провел	провести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2252|end_char=2258
+3	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	iobj	_	start_char=2259|end_char=2265
+4	по	по	ADP	_	_	5	case	_	start_char=2266|end_char=2268
+5	выступам	выступ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	obl	_	start_char=2269|end_char=2277
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2277|end_char=2278
+7	и	и	CCONJ	_	_	9	cc	_	start_char=2279|end_char=2280
+8	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	start_char=2281|end_char=2284
+9	понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2285|end_char=2296
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2296|end_char=2297
+
+# text = Он даже сравнил это новое ощущение с поглаживанием головы – было ещё лучше.
+# sent_id = 49
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2298|end_char=2300
+2	даже	даже	PART	_	_	3	advmod	_	start_char=2301|end_char=2305
+3	сравнил	сравнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2306|end_char=2313
+4	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	start_char=2314|end_char=2317
+5	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=2318|end_char=2323
+6	ощущение	ощущение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=2324|end_char=2332
+7	с	с	ADP	_	_	8	case	_	start_char=2333|end_char=2334
+8	поглаживанием	поглаживание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	nmod	_	start_char=2335|end_char=2348
+9	головы	голова	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=2349|end_char=2355
+10	–	–	PUNCT	_	_	13	punct	_	start_char=2356|end_char=2357
+11	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=2358|end_char=2362
+12	ещё	еще	ADV	_	Degree=Pos	13	advmod	_	start_char=2363|end_char=2366
+13	лучше	хороший	ADJ	_	Degree=Cmp	3	parataxis	_	start_char=2367|end_char=2372
+14	.	.	PUNCT	_	_	3	punct	_	start_char=2372|end_char=2373
+
+# text = Только мешала какая-то конструкция, жёстко фиксирующая выступы, сдавливающая грудную клетку и мешающая дышать.
+# sent_id = 50
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Только	только	PART	_	_	2	advmod	_	start_char=2374|end_char=2380
+2	мешала	мешать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2381|end_char=2387
+3	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	start_char=2388|end_char=2396
+4	конструкция	конструкция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=2397|end_char=2408
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2408|end_char=2409
+6	жёстко	жестко	ADV	_	Degree=Pos	7	advmod	_	start_char=2410|end_char=2416
+7	фиксирующая	фиксировать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	start_char=2417|end_char=2428
+8	выступы	выступа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=2429|end_char=2436
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2436|end_char=2437
+10	сдавливающая	сдавливать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	start_char=2438|end_char=2450
+11	грудную	грудной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=2451|end_char=2458
+12	клетку	клетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=2459|end_char=2465
+13	и	и	CCONJ	_	_	14	cc	_	start_char=2466|end_char=2467
+14	мешающая	мешать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	conj	_	start_char=2468|end_char=2476
+15	дышать	дышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=2477|end_char=2483
+16	.	.	PUNCT	_	_	2	punct	_	start_char=2483|end_char=2484
+
+# text = Киву не хотелось разбираться с загадочными устройствами застёжек, поэтому он поискал что-нибудь острое, осторожно, чтобы не повредить такому теперь нежному себе, разрезал и выкинул стесняющую часть одежды.
+# sent_id = 51
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Киву	Кива	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	4	obj	_	start_char=2485|end_char=2489
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2490|end_char=2492
+3	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2493|end_char=2501
+4	разбираться	разбираться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=2502|end_char=2513
+5	с	с	ADP	_	_	7	case	_	start_char=2514|end_char=2515
+6	загадочными	загадочный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	start_char=2516|end_char=2527
+7	устройствами	устройство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	obl	_	start_char=2528|end_char=2540
+8	застёжек	застежка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	start_char=2541|end_char=2549
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2549|end_char=2550
+10	поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=2551|end_char=2558
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=2559|end_char=2561
+12	поискал	поискать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2562|end_char=2569
+13	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	12	obj	_	start_char=2570|end_char=2580
+14	острое	острый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=2581|end_char=2587
+15	,	,	PUNCT	_	_	16	punct	_	start_char=2587|end_char=2588
+16	осторожно	осторожно	ADV	_	Degree=Pos	20	advmod	_	start_char=2589|end_char=2598
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2598|end_char=2599
+18	чтобы	чтобы	SCONJ	_	Mood=Cnd	20	mark	_	start_char=2600|end_char=2605
+19	не	не	PART	_	Polarity=Neg	20	advmod	_	start_char=2606|end_char=2608
+20	повредить	повредить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	advcl	_	start_char=2609|end_char=2618
+21	такому	такой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	start_char=2619|end_char=2625
+22	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	20	advmod	_	start_char=2626|end_char=2632
+23	нежному	нежный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=2633|end_char=2640
+24	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	20	iobj	_	start_char=2641|end_char=2645
+25	,	,	PUNCT	_	_	26	punct	_	start_char=2645|end_char=2646
+26	разрезал	разрезать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2647|end_char=2655
+27	и	и	CCONJ	_	_	28	cc	_	start_char=2656|end_char=2657
+28	выкинул	выкинуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2658|end_char=2665
+29	стесняющую	стеснять	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	30	amod	_	start_char=2666|end_char=2676
+30	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obj	_	start_char=2677|end_char=2682
+31	одежды	одежда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	start_char=2683|end_char=2689
+32	.	.	PUNCT	_	_	3	punct	_	start_char=2689|end_char=2690
+
+# text = Только на миг тяжёлые упругие груди качнулись в зазеркалье перед глазами Ирканоса, но произвели совершенно гипнотический эффект.
+# sent_id = 52
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Только	только	PART	_	_	3	advmod	_	start_char=2691|end_char=2697
+2	на	на	ADP	_	_	3	case	_	start_char=2698|end_char=2700
+3	миг	миг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=2701|end_char=2704
+4	тяжёлые	тяжелый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	start_char=2705|end_char=2712
+5	упругие	упругий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	start_char=2713|end_char=2720
+6	груди	грудь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	start_char=2721|end_char=2726
+7	качнулись	качнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2727|end_char=2736
+8	в	в	ADP	_	_	9	case	_	start_char=2737|end_char=2738
+9	зазеркалье	зазеркалье	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	start_char=2739|end_char=2749
+10	перед	перед	ADP	_	_	11	case	_	start_char=2750|end_char=2755
+11	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	start_char=2756|end_char=2763
+12	Ирканоса	Ирканос	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	11	nmod	_	start_char=2764|end_char=2772
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2772|end_char=2773
+14	но	но	CCONJ	_	_	15	cc	_	start_char=2774|end_char=2776
+15	произвели	произвести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=2777|end_char=2786
+16	совершенно	совершенно	ADV	_	Degree=Pos	17	advmod	_	start_char=2787|end_char=2797
+17	гипнотический	гипнотический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=2798|end_char=2811
+18	эффект	эффект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	start_char=2812|end_char=2818
+19	.	.	PUNCT	_	_	7	punct	_	start_char=2818|end_char=2819
+
+# text = Король больше не отрывался от зеркала и прижал к себе Пери...
+# sent_id = 53
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2820|end_char=2826
+2	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	4	advmod	_	start_char=2827|end_char=2833
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2834|end_char=2836
+4	отрывался	отрываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2837|end_char=2846
+5	от	от	ADP	_	_	6	case	_	start_char=2847|end_char=2849
+6	зеркала	зеркала	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=2850|end_char=2857
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2858|end_char=2859
+8	прижал	прижать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2860|end_char=2866
+9	к	к	ADP	_	_	10	case	_	start_char=2867|end_char=2868
+10	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	8	obl	_	start_char=2869|end_char=2873
+11	Пери	Пери	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	8	obj	_	start_char=2874|end_char=2878
+12	...	...	PUNCT	_	_	4	punct	_	start_char=2878|end_char=2881
+
+# text = Кива... это.
+# sent_id = 54
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Кива	Кива	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=2882|end_char=2886
+2	...	...	PUNCT	_	_	1	punct	_	start_char=2886|end_char=2889
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=2890|end_char=2893
+4	.	.	PUNCT	_	_	1	punct	_	start_char=2893|end_char=2894
+
+# text = Кив в это время рассмотрел свои бока без грамма лишнего жира и оценил плоский живот, но снова вернулся к груди.
+# sent_id = 55
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	5	nsubj	_	start_char=2895|end_char=2898
+2	в	в	ADP	_	_	4	case	_	start_char=2899|end_char=2900
+3	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	start_char=2901|end_char=2904
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=2905|end_char=2910
+5	рассмотрел	рассмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2911|end_char=2921
+6	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=2922|end_char=2926
+7	бока	бок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=2927|end_char=2931
+8	без	без	ADP	_	_	9	case	_	start_char=2932|end_char=2935
+9	грамма	грамма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=2936|end_char=2942
+10	лишнего	лишний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=2943|end_char=2950
+11	жира	жира	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	start_char=2951|end_char=2955
+12	и	и	CCONJ	_	_	13	cc	_	start_char=2956|end_char=2957
+13	оценил	оценить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2958|end_char=2964
+14	плоский	плоский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=2965|end_char=2972
+15	живот	живот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=2973|end_char=2978
+16	,	,	PUNCT	_	_	19	punct	_	start_char=2978|end_char=2979
+17	но	но	CCONJ	_	_	19	cc	_	start_char=2980|end_char=2982
+18	снова	снова	ADV	_	Degree=Pos	19	advmod	_	start_char=2983|end_char=2988
+19	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2989|end_char=2997
+20	к	к	ADP	_	_	21	case	_	start_char=2998|end_char=2999
+21	груди	грудь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	19	obl	_	start_char=3000|end_char=3005
+22	.	.	PUNCT	_	_	5	punct	_	start_char=3005|end_char=3006
+
+# text = – Дышать так проще, но центр тяжести смещается куда-то вперед.
+# sent_id = 56
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3007|end_char=3008
+2	Дышать	дышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=3009|end_char=3015
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=3016|end_char=3019
+4	проще	простой	ADJ	_	Degree=Cmp	2	xcomp	_	start_char=3020|end_char=3025
+5	,	,	PUNCT	_	_	9	punct	_	start_char=3025|end_char=3026
+6	но	но	CCONJ	_	_	9	cc	_	start_char=3027|end_char=3029
+7	центр	центр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=3030|end_char=3035
+8	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=3036|end_char=3043
+9	смещается	смещаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=3044|end_char=3053
+10	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	11	advmod	_	start_char=3054|end_char=3061
+11	вперед	вперед	ADV	_	Degree=Pos	9	advmod	_	start_char=3062|end_char=3068
+12	.	.	PUNCT	_	_	4	punct	_	start_char=3068|end_char=3069
+
+# text = И они же будут подпрыгивать при ходьбе?
+# sent_id = 57
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	И	и	CCONJ	_	_	5	cc	_	start_char=3070|end_char=3071
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=3072|end_char=3075
+3	же	же	PART	_	_	2	advmod	_	start_char=3076|end_char=3078
+4	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux	_	start_char=3079|end_char=3084
+5	подпрыгивать	подпрыгивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=3085|end_char=3097
+6	при	при	ADP	_	_	7	case	_	start_char=3098|end_char=3101
+7	ходьбе	ходьба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=3102|end_char=3108
+8	?	?	PUNCT	_	_	5	punct	_	start_char=3108|end_char=3109
+
+# text = Король, вы так и не ответили мне...
+# sent_id = 58
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	vocative	_	start_char=3110|end_char=3116
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3116|end_char=3117
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=3118|end_char=3120
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=3121|end_char=3124
+5	и	и	PART	_	_	4	fixed	_	start_char=3125|end_char=3126
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3127|end_char=3129
+7	ответили	ответить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3130|end_char=3138
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=3139|end_char=3142
+9	...	...	PUNCT	_	_	7	punct	_	start_char=3142|end_char=3145
+
+# text = Что это мне там мешается?
+# sent_id = 59
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	start_char=3146|end_char=3149
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3150|end_char=3153
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=3154|end_char=3157
+4	там	там	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3158|end_char=3161
+5	мешается	мешаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3162|end_char=3170
+6	?	?	PUNCT	_	_	5	punct	_	start_char=3170|end_char=3171
+
+# text = – он, не оглядываясь, запустил руку за спину и нащупал на короле ещё какой-то непонятный выступ, которого там раньше не было.
+# sent_id = 60
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3172|end_char=3173
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=3174|end_char=3176
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3176|end_char=3177
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3178|end_char=3180
+5	оглядываясь	оглядываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	start_char=3181|end_char=3192
+6	,	,	PUNCT	_	_	5	punct	_	start_char=3192|end_char=3193
+7	запустил	запустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3194|end_char=3202
+8	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=3203|end_char=3207
+9	за	за	ADP	_	_	10	case	_	start_char=3208|end_char=3210
+10	спину	спина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=3211|end_char=3216
+11	и	и	CCONJ	_	_	12	cc	_	start_char=3217|end_char=3218
+12	нащупал	нащупать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3219|end_char=3226
+13	на	на	ADP	_	_	14	case	_	start_char=3227|end_char=3229
+14	короле	корол	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	start_char=3230|end_char=3236
+15	ещё	еще	ADV	_	Degree=Pos	16	advmod	_	start_char=3237|end_char=3240
+16	какой-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	18	det	_	start_char=3241|end_char=3249
+17	непонятный	непонятный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=3250|end_char=3260
+18	выступ	выступ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=3261|end_char=3267
+19	,	,	PUNCT	_	_	24	punct	_	start_char=3267|end_char=3268
+20	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	24	nsubj	_	start_char=3269|end_char=3277
+21	там	там	ADV	_	Degree=Pos|PronType=Dem	24	advmod	_	start_char=3278|end_char=3281
+22	раньше	раньше	ADV	_	Degree=Cmp	24	advmod	_	start_char=3282|end_char=3288
+23	не	не	PART	_	Polarity=Neg	24	advmod	_	start_char=3289|end_char=3291
+24	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	start_char=3292|end_char=3296
+25	.	.	PUNCT	_	_	7	punct	_	start_char=3296|end_char=3297
+
+# text = Король сдержанно охнул, когда лорд Кив сжал это.
+# sent_id = 61
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3298|end_char=3304
+2	сдержанно	сдержанно	ADV	_	Degree=Pos	3	advmod	_	start_char=3305|end_char=3314
+3	охнул	охнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3315|end_char=3320
+4	,	,	PUNCT	_	_	8	punct	_	start_char=3320|end_char=3321
+5	когда	когда	SCONJ	_	_	8	mark	_	start_char=3322|end_char=3327
+6	лорд	лорд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=3328|end_char=3332
+7	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	flat:name	_	start_char=3333|end_char=3336
+8	сжал	сжать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=3337|end_char=3341
+9	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obj	_	start_char=3342|end_char=3345
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3345|end_char=3346
+
+# text = – Это... для размножения!
+# sent_id = 62
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3347|end_char=3348
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3349|end_char=3352
+3	...	...	PUNCT	_	_	5	punct	_	start_char=3352|end_char=3355
+4	для	для	ADP	_	_	5	case	_	start_char=3356|end_char=3359
+5	размножения	размножение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=3360|end_char=3371
+6	!	!	PUNCT	_	_	5	punct	_	start_char=3371|end_char=3372
+
+# text = – едва выдохнул король.
+# sent_id = 63
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3373|end_char=3374
+2	едва	едва	ADV	_	Degree=Pos	3	advmod	_	start_char=3375|end_char=3379
+3	выдохнул	выдохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3380|end_char=3388
+4	король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3389|end_char=3395
+5	.	.	PUNCT	_	_	3	punct	_	start_char=3395|end_char=3396
+
+# text = – Да, вы же не откладываете икру, – вспомнил Кив и заглянул себе в брюки.
+# sent_id = 64
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3397|end_char=3398
+2	Да	да	PART	_	_	7	parataxis	_	start_char=3399|end_char=3401
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3401|end_char=3402
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=3403|end_char=3405
+5	же	же	PART	_	_	4	advmod	_	start_char=3406|end_char=3408
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3409|end_char=3411
+7	откладываете	откладывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3412|end_char=3424
+8	икру	икра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=3425|end_char=3429
+9	,	,	PUNCT	_	_	11	punct	_	start_char=3429|end_char=3430
+10	–	–	PUNCT	_	_	11	punct	_	start_char=3431|end_char=3432
+11	вспомнил	вспомнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=3433|end_char=3441
+12	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	nsubj	_	start_char=3442|end_char=3445
+13	и	и	CCONJ	_	_	14	cc	_	start_char=3446|end_char=3447
+14	заглянул	заглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	start_char=3448|end_char=3456
+15	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	14	iobj	_	start_char=3457|end_char=3461
+16	в	в	ADP	_	_	17	case	_	start_char=3462|end_char=3463
+17	брюки	брюки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obl	_	start_char=3464|end_char=3469
+18	.	.	PUNCT	_	_	7	punct	_	start_char=3469|end_char=3470
+
+# text = – А почему у меня такого нет?!
+# sent_id = 65
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3471|end_char=3472
+2	А	а	CCONJ	_	_	7	cc	_	start_char=3473|end_char=3474
+3	почему	почему	ADV	_	Degree=Pos|PronType=Int	7	advmod	_	start_char=3475|end_char=3481
+4	у	у	ADP	_	_	5	case	_	start_char=3482|end_char=3483
+5	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=3484|end_char=3488
+6	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=3489|end_char=3495
+7	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=3496|end_char=3499
+8	?!	?!	PUNCT	_	_	7	punct	_	start_char=3499|end_char=3501
+
+# text = – Вы же женщина, у вас и не должно быть, у вас зато есть специальное отверстие, куда это вставляется...
+# sent_id = 66
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3502|end_char=3503
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=3504|end_char=3506
+3	же	же	PART	_	_	2	advmod	_	start_char=3507|end_char=3509
+4	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3510|end_char=3517
+5	,	,	PUNCT	_	_	10	punct	_	start_char=3517|end_char=3518
+6	у	у	ADP	_	_	7	case	_	start_char=3519|end_char=3520
+7	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	10	obl	_	start_char=3521|end_char=3524
+8	и	и	CCONJ	_	_	10	cc	_	start_char=3525|end_char=3526
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=3527|end_char=3529
+10	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	conj	_	start_char=3530|end_char=3536
+11	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=3537|end_char=3541
+12	,	,	PUNCT	_	_	14	punct	_	start_char=3541|end_char=3542
+13	у	у	ADP	_	_	14	case	_	start_char=3543|end_char=3544
+14	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	4	conj	_	start_char=3545|end_char=3548
+15	зато	зато	CCONJ	_	_	16	cc	_	start_char=3549|end_char=3553
+16	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=3554|end_char=3558
+17	специальное	специальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	start_char=3559|end_char=3570
+18	отверстие	отверстие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	start_char=3571|end_char=3580
+19	,	,	PUNCT	_	_	22	punct	_	start_char=3580|end_char=3581
+20	куда	куда	ADV	_	Degree=Pos|PronType=Rel	22	advmod	_	start_char=3582|end_char=3586
+21	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	22	nsubj	_	start_char=3587|end_char=3590
+22	вставляется	вставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	acl:relcl	_	start_char=3591|end_char=3602
+23	...	...	PUNCT	_	_	4	punct	_	start_char=3602|end_char=3605
+
+# text = Бывшее земноводное посмотрело на себя в зеркало.
+# sent_id = 67
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Бывшее	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=3606|end_char=3612
+2	земноводное	земноводный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nsubj	_	start_char=3613|end_char=3624
+3	посмотрело	посмотреть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3625|end_char=3635
+4	на	на	ADP	_	_	5	case	_	start_char=3636|end_char=3638
+5	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	obl	_	start_char=3639|end_char=3643
+6	в	в	ADP	_	_	7	case	_	start_char=3644|end_char=3645
+7	зеркало	зеркало	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	start_char=3646|end_char=3653
+8	.	.	PUNCT	_	_	3	punct	_	start_char=3653|end_char=3654
+
+# text = До сих пор лорд Кив заметил только рот, нос, глаза и уши, и даже в кошмаре не мог бы представить, чтобы туда вставили такую большую штуковину.
+# sent_id = 68
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	До	до	ADP	_	_	6	advmod	_	start_char=3655|end_char=3657
+2	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	1	fixed	_	start_char=3658|end_char=3661
+3	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	fixed	_	start_char=3662|end_char=3665
+4	лорд	лорд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	start_char=3666|end_char=3670
+5	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	start_char=3671|end_char=3674
+6	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3675|end_char=3682
+7	только	только	PART	_	_	8	advmod	_	start_char=3683|end_char=3689
+8	рот	рот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=3690|end_char=3693
+9	,	,	PUNCT	_	_	10	punct	_	start_char=3693|end_char=3694
+10	нос	нос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	conj	_	start_char=3695|end_char=3698
+11	,	,	PUNCT	_	_	12	punct	_	start_char=3698|end_char=3699
+12	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	conj	_	start_char=3700|end_char=3705
+13	и	и	CCONJ	_	_	14	cc	_	start_char=3706|end_char=3707
+14	уши	ухо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	conj	_	start_char=3708|end_char=3711
+15	,	,	PUNCT	_	_	21	punct	_	start_char=3711|end_char=3712
+16	и	и	CCONJ	_	_	21	cc	_	start_char=3713|end_char=3714
+17	даже	даже	PART	_	_	19	advmod	_	start_char=3715|end_char=3719
+18	в	в	ADP	_	_	19	case	_	start_char=3720|end_char=3721
+19	кошмаре	кошмар	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	obl	_	start_char=3722|end_char=3729
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=3730|end_char=3732
+21	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=3733|end_char=3736
+22	бы	бы	AUX	_	Mood=Cnd	21	aux	_	start_char=3737|end_char=3739
+23	представить	представлять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=3740|end_char=3751
+24	,	,	PUNCT	_	_	27	punct	_	start_char=3751|end_char=3752
+25	чтобы	чтобы	SCONJ	_	Mood=Cnd	27	mark	_	start_char=3753|end_char=3758
+26	туда	туда	ADV	_	Degree=Pos|PronType=Dem	27	advmod	_	start_char=3759|end_char=3763
+27	вставили	вставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	ccomp	_	start_char=3764|end_char=3772
+28	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	start_char=3773|end_char=3778
+29	большую	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	start_char=3779|end_char=3786
+30	штуковину	штуковина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	obj	_	start_char=3787|end_char=3796
+31	.	.	PUNCT	_	_	6	punct	_	start_char=3796|end_char=3797
+
+# text = – Где?! – с ужасом спросил он.
+# sent_id = 69
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3798|end_char=3799
+2	Где	где	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=3800|end_char=3803
+3	?!	?!	PUNCT	_	_	2	punct	_	start_char=3803|end_char=3805
+4	–	–	PUNCT	_	_	7	punct	_	start_char=3806|end_char=3807
+5	с	с	ADP	_	_	6	case	_	start_char=3808|end_char=3809
+6	ужасом	ужас	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=3810|end_char=3816
+7	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3817|end_char=3824
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=3825|end_char=3827
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3827|end_char=3828
+
+# text = Король честно ответил.
+# sent_id = 70
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3829|end_char=3835
+2	честно	честно	ADV	_	Degree=Pos	3	advmod	_	start_char=3836|end_char=3842
+3	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3843|end_char=3850
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3850|end_char=3851
+
+# text = Потом указал общее направление, а когда лорд Кив всё равно не смог ничего разглядеть, взял его руку – её такую маленькую по сравнению с его ладонью – в свою и направил её в нужное место.
+# sent_id = 71
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Потом	потом	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=3852|end_char=3857
+2	указал	указать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3858|end_char=3864
+3	общее	общий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=3865|end_char=3870
+4	направление	направление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=3871|end_char=3882
+5	,	,	PUNCT	_	_	17	punct	_	start_char=3882|end_char=3883
+6	а	а	CCONJ	_	_	17	cc	_	start_char=3884|end_char=3885
+7	когда	когда	SCONJ	_	_	13	mark	_	start_char=3886|end_char=3891
+8	лорд	лорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=3892|end_char=3896
+9	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	flat:name	_	start_char=3897|end_char=3900
+10	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	13	advmod	_	start_char=3901|end_char=3904
+11	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	fixed	_	start_char=3905|end_char=3910
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=3911|end_char=3913
+13	смог	смочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=3914|end_char=3918
+14	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	15	obj	_	start_char=3919|end_char=3925
+15	разглядеть	разглядеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=3926|end_char=3936
+16	,	,	PUNCT	_	_	13	punct	_	start_char=3936|end_char=3937
+17	взял	взять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3938|end_char=3942
+18	его	его	DET	_	Poss=Yes|PronType=Prs	19	det	_	start_char=3943|end_char=3946
+19	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	start_char=3947|end_char=3951
+20	–	–	PUNCT	_	_	23	punct	_	start_char=3952|end_char=3953
+21	её	ее	DET	_	Poss=Yes|PronType=Prs	23	det	_	start_char=3954|end_char=3956
+22	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	start_char=3957|end_char=3962
+23	маленькую	маленький	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=3963|end_char=3972
+24	по	по	ADP	_	_	28	case	_	start_char=3973|end_char=3975
+25	сравнению	сравнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	24	fixed	_	start_char=3976|end_char=3985
+26	с	с	ADP	_	_	24	fixed	_	start_char=3986|end_char=3987
+27	его	его	DET	_	Poss=Yes|PronType=Prs	28	det	_	start_char=3988|end_char=3991
+28	ладонью	ладонь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	nmod	_	start_char=3992|end_char=3999
+29	–	–	PUNCT	_	_	31	punct	_	start_char=4000|end_char=4001
+30	в	в	ADP	_	_	31	case	_	start_char=4002|end_char=4003
+31	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	28	det	_	start_char=4004|end_char=4008
+32	и	и	CCONJ	_	_	33	cc	_	start_char=4009|end_char=4010
+33	направил	направить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	start_char=4011|end_char=4019
+34	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obj	_	start_char=4020|end_char=4022
+35	в	в	ADP	_	_	37	case	_	start_char=4023|end_char=4024
+36	нужное	нужный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	37	amod	_	start_char=4025|end_char=4031
+37	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	33	obl	_	start_char=4032|end_char=4037
+38	.	.	PUNCT	_	_	2	punct	_	start_char=4037|end_char=4038
+
+# text = – Ооо! – внезапно протянул лорд Кив.
+# sent_id = 72
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4039|end_char=4040
+2	Ооо	ооо	INTJ	_	_	0	root	_	start_char=4041|end_char=4044
+3	!	!	PUNCT	_	_	2	punct	_	start_char=4044|end_char=4045
+4	–	–	PUNCT	_	_	6	punct	_	start_char=4046|end_char=4047
+5	внезапно	внезапно	ADV	_	Degree=Pos	6	advmod	_	start_char=4048|end_char=4056
+6	протянул	протянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4057|end_char=4065
+7	лорд	лорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=4066|end_char=4070
+8	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	7	appos	_	start_char=4071|end_char=4074
+9	.	.	PUNCT	_	_	2	punct	_	start_char=4074|end_char=4075
+
+# text = – Кажется, я задел... задела ещё какой-то маленький выступ... ооооо!
+# sent_id = 73
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4076|end_char=4077
+2	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=4078|end_char=4085
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4085|end_char=4086
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4087|end_char=4088
+5	задел	задеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4089|end_char=4094
+6	...	...	PUNCT	_	_	7	punct	_	start_char=4094|end_char=4097
+7	задела	задеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=4098|end_char=4104
+8	ещё	еще	ADV	_	Degree=Pos	9	advmod	_	start_char=4105|end_char=4108
+9	какой-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	start_char=4109|end_char=4117
+10	маленький	маленький	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=4118|end_char=4127
+11	выступ	выступ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=4128|end_char=4134
+12	...	...	PUNCT	_	_	13	punct	_	start_char=4134|end_char=4137
+13	ооооо	мооо	INTJ	_	_	7	discourse	_	start_char=4138|end_char=4143
+14	!	!	PUNCT	_	_	5	punct	_	start_char=4143|end_char=4144
+
+# text = Это всегда так... таааак приятно?
+# sent_id = 74
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4145|end_char=4148
+2	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=4149|end_char=4155
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=4156|end_char=4159
+4	...	...	PUNCT	_	_	6	punct	_	start_char=4159|end_char=4162
+5	таааак	таааак	ADV	_	Degree=Pos	6	advmod	_	start_char=4163|end_char=4169
+6	приятно	приятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	parataxis	_	start_char=4170|end_char=4177
+7	?	?	PUNCT	_	_	3	punct	_	start_char=4177|end_char=4178
+
+# text = Странно, что вы нееее... не гладите себя постоянн-ооооооо!
+# sent_id = 75
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Странно	странный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4179|end_char=4186
+2	,	,	PUNCT	_	_	5	punct	_	start_char=4186|end_char=4187
+3	что	что	SCONJ	_	_	5	mark	_	start_char=4188|end_char=4191
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=4192|end_char=4194
+5	нееее	неей	DET	_	Case=Nom|Number=Plur|PronType=Prs	1	ccomp	_	start_char=4195|end_char=4200
+6	...	...	PUNCT	_	_	8	punct	_	start_char=4200|end_char=4203
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=4204|end_char=4206
+8	гладите	гладить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=4207|end_char=4214
+9	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	obj	_	start_char=4215|end_char=4219
+10	постоянн	постоянн	ADV	_	Degree=Pos	8	advmod	_	start_char=4220|end_char=4228
+11	-	-	PUNCT	_	_	12	punct	_	start_char=4228|end_char=4229
+12	ооооооо	оофоон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	start_char=4229|end_char=4236
+13	!	!	PUNCT	_	_	1	punct	_	start_char=4236|end_char=4237
+
+# text = Король Ирканос, оставшийся немного не при чём, сумел взять себя в руки.
+# sent_id = 76
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=4238|end_char=4244
+2	Ирканос	Ирканос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=4245|end_char=4252
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4252|end_char=4253
+4	оставшийся	остаться	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	start_char=4254|end_char=4264
+5	немного	немного	ADV	_	Degree=Pos|PronType=Tot	8	advmod	_	start_char=4265|end_char=4272
+6	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=4273|end_char=4275
+7	при	при	ADP	_	_	8	case	_	start_char=4276|end_char=4279
+8	чём	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Neg	4	obl	_	start_char=4280|end_char=4283
+9	,	,	PUNCT	_	_	4	punct	_	start_char=4283|end_char=4284
+10	сумел	суметь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4285|end_char=4290
+11	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=4291|end_char=4296
+12	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	obj	_	start_char=4297|end_char=4301
+13	в	в	ADP	_	_	14	case	_	start_char=4302|end_char=4303
+14	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obl	_	start_char=4304|end_char=4308
+15	.	.	PUNCT	_	_	10	punct	_	start_char=4308|end_char=4309
+
+# text = – Лорд Кив...
+# sent_id = 77
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4310|end_char=4311
+2	Лорд	Лорд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=4312|end_char=4316
+3	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=4317|end_char=4320
+4	...	...	PUNCT	_	_	2	punct	_	start_char=4320|end_char=4323
+
+# text = – Зовите меня дорогая королева, или как вы там её называли, можно просто Пери, мне совсем не хочется привлекать внимание бунтовщиков, то есть ваших сподвижников.
+# sent_id = 78
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4324|end_char=4325
+2	Зовите	зовить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4326|end_char=4332
+3	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=4333|end_char=4337
+4	дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=4338|end_char=4345
+5	королева	королева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=4346|end_char=4354
+6	,	,	PUNCT	_	_	12	punct	_	start_char=4354|end_char=4355
+7	или	или	CCONJ	_	_	12	cc	_	start_char=4356|end_char=4359
+8	как	как	ADV	_	Degree=Pos|PronType=Rel	12	advmod	_	start_char=4360|end_char=4363
+9	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	start_char=4364|end_char=4366
+10	там	там	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=4367|end_char=4370
+11	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=4371|end_char=4373
+12	называли	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4374|end_char=4382
+13	,	,	PUNCT	_	_	14	punct	_	start_char=4382|end_char=4383
+14	можно	можно	VERB	_	_	2	conj	_	start_char=4384|end_char=4389
+15	просто	просто	PART	_	_	16	advmod	_	start_char=4390|end_char=4396
+16	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	14	nsubj	_	start_char=4397|end_char=4401
+17	,	,	PUNCT	_	_	21	punct	_	start_char=4401|end_char=4402
+18	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	21	iobj	_	start_char=4403|end_char=4406
+19	совсем	совсем	ADV	_	Degree=Pos	20	advmod	_	start_char=4407|end_char=4413
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=4414|end_char=4416
+21	хочется	хотеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=4417|end_char=4424
+22	привлекать	привлекать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=4425|end_char=4435
+23	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obj	_	start_char=4436|end_char=4444
+24	бунтовщиков	бунтовщик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	start_char=4445|end_char=4456
+25	,	,	PUNCT	_	_	29	punct	_	start_char=4456|end_char=4457
+26	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	29	mark	_	start_char=4458|end_char=4460
+27	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	fixed	_	start_char=4461|end_char=4465
+28	ваших	ваш	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	29	det	_	start_char=4466|end_char=4471
+29	сподвижников	сподвижник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	23	conj	_	start_char=4472|end_char=4484
+30	.	.	PUNCT	_	_	2	punct	_	start_char=4484|end_char=4485
+
+# text = А вот то замечательное ощущение, оно как-то связано с размножением?
+# sent_id = 79
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	А	а	CCONJ	_	_	5	cc	_	start_char=4486|end_char=4487
+2	вот	вот	PART	_	_	5	advmod	_	start_char=4488|end_char=4491
+3	то	тот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	start_char=4492|end_char=4494
+4	замечательное	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=4495|end_char=4508
+5	ощущение	ощущение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=4509|end_char=4517
+6	,	,	PUNCT	_	_	9	punct	_	start_char=4517|end_char=4518
+7	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	start_char=4519|end_char=4522
+8	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	9	advmod	_	start_char=4523|end_char=4529
+9	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	conj	_	start_char=4530|end_char=4537
+10	с	с	ADP	_	_	11	case	_	start_char=4538|end_char=4539
+11	размножением	размножение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	obl	_	start_char=4540|end_char=4552
+12	?	?	PUNCT	_	_	5	punct	_	start_char=4552|end_char=4553
+
+# text = – Напрямую! – уверил король.
+# sent_id = 80
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4554|end_char=4555
+2	Напрямую	напрямую	ADV	_	Degree=Pos	0	root	_	start_char=4556|end_char=4564
+3	!	!	PUNCT	_	_	2	punct	_	start_char=4564|end_char=4565
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4566|end_char=4567
+5	уверил	уверить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4568|end_char=4574
+6	король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4575|end_char=4581
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4581|end_char=4582
+
+# text = – Только со мной будет ещё лучше!
+# sent_id = 81
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	7	punct	_	start_char=4583|end_char=4584
+2	Только	только	PART	_	_	4	advmod	_	start_char=4585|end_char=4591
+3	со	со	ADP	_	_	4	case	_	start_char=4592|end_char=4594
+4	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=4595|end_char=4599
+5	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	_	start_char=4600|end_char=4605
+6	ещё	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=4606|end_char=4609
+7	лучше	хороший	ADJ	_	Degree=Cmp	0	root	_	start_char=4610|end_char=4615
+8	!	!	PUNCT	_	_	7	punct	_	start_char=4615|end_char=4616
+
+# text = На миг Кив потрясённо замер.
+# sent_id = 82
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	На	на	ADP	_	_	2	case	_	start_char=4617|end_char=4619
+2	миг	миг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=4620|end_char=4623
+3	Кив	Кив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=4624|end_char=4627
+4	потрясённо	потрясенно	ADV	_	Degree=Pos	5	advmod	_	start_char=4628|end_char=4638
+5	замер	замереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4639|end_char=4644
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4644|end_char=4645
+
+# text = – Не может быть.
+# sent_id = 83
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4646|end_char=4647
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4648|end_char=4650
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4651|end_char=4656
+4	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=4657|end_char=4661
+5	.	.	PUNCT	_	_	3	punct	_	start_char=4661|end_char=4662
+
+# text = Я запишу это в наш контракт.
+# sent_id = 84
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=4663|end_char=4664
+2	запишу	записать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4665|end_char=4671
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	start_char=4672|end_char=4675
+4	в	в	ADP	_	_	6	case	_	start_char=4676|end_char=4677
+5	наш	наш	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4678|end_char=4681
+6	контракт	контракт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=4682|end_char=4690
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4690|end_char=4691
+
+# text = Кстати, вам не кажется, что я немножко многовато болтаю?
+# sent_id = 85
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Кстати	кстати	ADV	_	Degree=Pos	5	parataxis	_	start_char=4692|end_char=4698
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4698|end_char=4699
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	iobj	_	start_char=4700|end_char=4703
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4704|end_char=4706
+5	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4707|end_char=4714
+6	,	,	PUNCT	_	_	11	punct	_	start_char=4714|end_char=4715
+7	что	что	SCONJ	_	_	11	mark	_	start_char=4716|end_char=4719
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=4720|end_char=4721
+9	немножко	немножко	ADV	_	Degree=Pos	11	advmod	_	start_char=4722|end_char=4730
+10	многовато	многовато	ADV	_	Degree=Pos	11	advmod	_	start_char=4731|end_char=4740
+11	болтаю	болтать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=4741|end_char=4747
+12	?	?	PUNCT	_	_	5	punct	_	start_char=4747|end_char=4748
+
+# text = Я же не был такой.
+# sent_id = 86
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4749|end_char=4750
+2	же	же	PART	_	_	1	advmod	_	start_char=4751|end_char=4753
+3	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4754|end_char=4756
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=4757|end_char=4760
+5	такой	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	start_char=4761|end_char=4766
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4766|end_char=4767
+
+# text = Правда, говорят, когда я был в предыдущем теле, местного рыбака, то всё пытался продать рыбу, кажется, какие-то привычки остаются.
+# sent_id = 87
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	parataxis	_	start_char=4768|end_char=4774
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4774|end_char=4775
+3	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	start_char=4776|end_char=4783
+4	,	,	PUNCT	_	_	10	punct	_	start_char=4783|end_char=4784
+5	когда	когда	SCONJ	_	_	10	mark	_	start_char=4785|end_char=4790
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=4791|end_char=4792
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=4793|end_char=4796
+8	в	в	ADP	_	_	10	case	_	start_char=4797|end_char=4798
+9	предыдущем	предыдущий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	start_char=4799|end_char=4809
+10	теле	тело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	advcl	_	start_char=4810|end_char=4814
+11	,	,	PUNCT	_	_	13	punct	_	start_char=4814|end_char=4815
+12	местного	местный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=4816|end_char=4824
+13	рыбака	рыбак	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	conj	_	start_char=4825|end_char=4831
+14	,	,	PUNCT	_	_	10	punct	_	start_char=4831|end_char=4832
+15	то	то	SCONJ	_	_	17	mark	_	start_char=4833|end_char=4835
+16	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	17	nsubj	_	start_char=4836|end_char=4839
+17	пытался	пытаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4840|end_char=4847
+18	продать	продать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	start_char=4848|end_char=4855
+19	рыбу	рыба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	obj	_	start_char=4856|end_char=4860
+20	,	,	PUNCT	_	_	25	punct	_	start_char=4860|end_char=4861
+21	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	parataxis	_	start_char=4862|end_char=4869
+22	,	,	PUNCT	_	_	21	punct	_	start_char=4869|end_char=4870
+23	какие-то	какой-то	DET	_	Case=Nom|Number=Plur|PronType=Ind	24	det	_	start_char=4871|end_char=4879
+24	привычки	привычка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	25	nsubj	_	start_char=4880|end_char=4888
+25	остаются	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	conj	_	start_char=4889|end_char=4897
+26	.	.	PUNCT	_	_	17	punct	_	start_char=4897|end_char=4898
+
+# text = – Дорогая Пери, моя будущая королева...
+# sent_id = 88
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4899|end_char=4900
+2	Дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=4901|end_char=4908
+3	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	start_char=4909|end_char=4913
+4	,	,	PUNCT	_	_	7	punct	_	start_char=4913|end_char=4914
+5	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=4915|end_char=4918
+6	будущая	будущий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=4919|end_char=4926
+7	королева	королева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	start_char=4927|end_char=4935
+8	...	...	PUNCT	_	_	3	punct	_	start_char=4935|end_char=4938
+
+# text = – Наконец-то мы договорились!
+# sent_id = 89
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4939|end_char=4940
+2	Наконец	наконец	ADV	_	Degree=Pos	5	advmod	_	start_char=4941|end_char=4948
+3	-то	-то	PART	_	_	2	advmod	_	start_char=4948|end_char=4951
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=4952|end_char=4954
+5	договорились	договориться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4955|end_char=4967
+6	!	!	PUNCT	_	_	5	punct	_	start_char=4967|end_char=4968
+
+# text = Ну так идёмте, будущий король мой!
+# sent_id = 90
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	Ну	ну	PART	_	_	3	discourse	_	start_char=4969|end_char=4971
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=4972|end_char=4975
+3	идёмте	идти	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4976|end_char=4982
+4	,	,	PUNCT	_	_	6	punct	_	start_char=4982|end_char=4983
+5	будущий	будущий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=4984|end_char=4991
+6	король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=4992|end_char=4998
+7	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4999|end_char=5002
+8	!	!	PUNCT	_	_	3	punct	_	start_char=5002|end_char=5003
+
+# text = 2014 год
+# sent_id = 91
+# metadata = Название: Да здравствует королева!, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54690db600000a7de260d0f/1/Da-zdravstvuet-koroleva
+1	2014	2014	ADJ	_	NumForm=Digit|NumType=Ord	2	amod	_	start_char=5005|end_char=5009
+2	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=5010|end_char=5013
+

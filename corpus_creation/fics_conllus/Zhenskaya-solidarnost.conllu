@@ -1,0 +1,2203 @@
+# text = —Теоретически, если присоединить это сюда, тогда...
+# sent_id = 0
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	9	punct	_	start_char=0|end_char=1
+2	Теоретически	теоретически	ADV	_	Degree=Pos	9	parataxis	_	start_char=1|end_char=13
+3	,	,	PUNCT	_	_	2	punct	_	start_char=13|end_char=14
+4	если	если	SCONJ	_	_	5	mark	_	start_char=15|end_char=19
+5	присоединить	присоединить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	advcl	_	start_char=20|end_char=32
+6	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	start_char=33|end_char=36
+7	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=37|end_char=41
+8	,	,	PUNCT	_	_	5	punct	_	start_char=41|end_char=42
+9	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=43|end_char=48
+10	...	...	PUNCT	_	_	9	punct	_	start_char=48|end_char=51
+
+# text = — Доктора осыпало снопом ярких искр, а наспех соединенные кабели больно обожгли руки, — ...опять ничего не получится.
+# sent_id = 1
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=52|end_char=53
+2	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=54|end_char=61
+3	осыпало	осыпать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=62|end_char=69
+4	снопом	сноп	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=70|end_char=76
+5	ярких	яркий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=77|end_char=82
+6	искр	искр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	start_char=83|end_char=87
+7	,	,	PUNCT	_	_	13	punct	_	start_char=87|end_char=88
+8	а	а	CCONJ	_	_	13	cc	_	start_char=89|end_char=90
+9	наспех	наспех	ADV	_	Degree=Pos	13	advmod	_	start_char=91|end_char=97
+10	соединенные	соединить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	start_char=98|end_char=109
+11	кабели	кабель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	start_char=110|end_char=116
+12	больно	больно	ADV	_	Degree=Pos	13	advmod	_	start_char=117|end_char=123
+13	обожгли	обожгнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=124|end_char=131
+14	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obj	_	start_char=132|end_char=136
+15	,	,	PUNCT	_	_	21	punct	_	start_char=136|end_char=137
+16	—	—	PUNCT	_	_	21	punct	_	start_char=138|end_char=139
+17	...	...	PUNCT	_	_	21	punct	_	start_char=140|end_char=143
+18	опять	опять	ADV	_	Degree=Pos	21	advmod	_	start_char=143|end_char=148
+19	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	21	nsubj	_	start_char=149|end_char=155
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=156|end_char=158
+21	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=159|end_char=168
+22	.	.	PUNCT	_	_	3	punct	_	start_char=168|end_char=169
+
+# text = Он раздраженно затряс пальцами.
+# sent_id = 2
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=171|end_char=173
+2	раздраженно	раздраженно	ADV	_	Degree=Pos	3	advmod	_	start_char=174|end_char=185
+3	затряс	затрястись	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=186|end_char=192
+4	пальцами	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	iobj	_	start_char=193|end_char=201
+5	.	.	PUNCT	_	_	3	punct	_	start_char=201|end_char=202
+
+# text = Доктор возился с ремонтом машины времени уже битых три часа, но ничего дельного сделать так и не смог: ТАРДИС зависла в дальнем космосе, посреди пустынной галактики, и лететь куда бы то ни было отказывалась.
+# sent_id = 3
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=204|end_char=210
+2	возился	возиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=211|end_char=218
+3	с	с	ADP	_	_	4	case	_	start_char=219|end_char=220
+4	ремонтом	ремонт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=221|end_char=229
+5	машины	машина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=230|end_char=236
+6	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	start_char=237|end_char=244
+7	уже	уже	ADV	_	Degree=Pos	8	advmod	_	start_char=245|end_char=248
+8	битых	битый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	start_char=249|end_char=254
+9	три	три	NUM	_	Animacy=Inan|Case=Acc|NumForm=Word|NumType=Card	10	nummod:gov	_	start_char=255|end_char=258
+10	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=259|end_char=263
+11	,	,	PUNCT	_	_	19	punct	_	start_char=263|end_char=264
+12	но	но	CCONJ	_	_	19	cc	_	start_char=265|end_char=267
+13	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	15	obj	_	start_char=268|end_char=274
+14	дельного	дельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=275|end_char=283
+15	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	start_char=284|end_char=291
+16	так	так	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=292|end_char=295
+17	и	и	PART	_	_	16	fixed	_	start_char=296|end_char=297
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=298|end_char=300
+19	смог	смочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=301|end_char=305
+20	:	:	PUNCT	_	_	22	punct	_	start_char=305|end_char=306
+21	ТАРДИС	тардис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	start_char=307|end_char=313
+22	зависла	зависнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=314|end_char=321
+23	в	в	ADP	_	_	25	case	_	start_char=322|end_char=323
+24	дальнем	дальний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	start_char=324|end_char=331
+25	космосе	космос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	obl	_	start_char=332|end_char=339
+26	,	,	PUNCT	_	_	29	punct	_	start_char=339|end_char=340
+27	посреди	посреди	ADP	_	_	29	case	_	start_char=341|end_char=348
+28	пустынной	пустынный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	start_char=349|end_char=358
+29	галактики	галактика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	conj	_	start_char=359|end_char=368
+30	,	,	PUNCT	_	_	38	punct	_	start_char=368|end_char=369
+31	и	и	CCONJ	_	_	38	cc	_	start_char=370|end_char=371
+32	лететь	лететь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	38	xcomp	_	start_char=372|end_char=378
+33	куда	куда	ADV	_	Degree=Pos|PronType=Rel	38	advmod	_	start_char=379|end_char=383
+34	бы	бы	AUX	_	Mood=Cnd	33	fixed	_	start_char=384|end_char=386
+35	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	33	fixed	_	start_char=387|end_char=389
+36	ни	ни	PART	_	Polarity=Neg	33	fixed	_	start_char=390|end_char=392
+37	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	fixed	_	start_char=393|end_char=397
+38	отказывалась	отказываться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	22	conj	_	start_char=398|end_char=410
+39	.	.	PUNCT	_	_	2	punct	_	start_char=410|end_char=411
+
+# text = Системы начали барахлить еще на Омикрон-Лебедь: перестали отображаться введенные координаты.
+# sent_id = 4
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	start_char=413|end_char=420
+2	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=421|end_char=427
+3	барахлить	барахлить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=428|end_char=437
+4	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=438|end_char=441
+5	на	на	ADP	_	_	6	case	_	start_char=442|end_char=444
+6	Омикрон-Лебедь	Омикрон-Лебедь	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	3	obl	_	start_char=445|end_char=459
+7	:	:	PUNCT	_	_	8	punct	_	start_char=459|end_char=460
+8	перестали	перестать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=461|end_char=470
+9	отображаться	отображаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	8	xcomp	_	start_char=471|end_char=483
+10	введенные	ввести	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	start_char=484|end_char=493
+11	координаты	координата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=494|end_char=504
+12	.	.	PUNCT	_	_	2	punct	_	start_char=504|end_char=505
+
+# text = Казалось бы ерунда, но дальше - больше.
+# sent_id = 5
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=506|end_char=514
+2	бы	бы	AUX	_	Mood=Cnd	1	aux	_	start_char=515|end_char=517
+3	ерунда	ерунда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=518|end_char=524
+4	,	,	PUNCT	_	_	6	punct	_	start_char=524|end_char=525
+5	но	но	CCONJ	_	_	6	cc	_	start_char=526|end_char=528
+6	дальше	дальше	ADV	_	Degree=Cmp	3	conj	_	start_char=529|end_char=535
+7	-	-	PUNCT	_	_	8	punct	_	start_char=536|end_char=537
+8	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	6	orphan	_	start_char=538|end_char=544
+9	.	.	PUNCT	_	_	3	punct	_	start_char=544|end_char=545
+
+# text = Доставить Клару на Землю удалось лишь с третьей попытки.
+# sent_id = 6
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доставить	доставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=546|end_char=555
+2	Клару	Клару	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	1	obj	_	start_char=556|end_char=561
+3	на	на	ADP	_	_	4	case	_	start_char=562|end_char=564
+4	Землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obl	_	start_char=565|end_char=570
+5	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=571|end_char=578
+6	лишь	лишь	PART	_	_	9	advmod	_	start_char=579|end_char=583
+7	с	с	ADP	_	_	9	case	_	start_char=584|end_char=585
+8	третьей	третий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	9	amod	_	start_char=586|end_char=593
+9	попытки	попытка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	start_char=594|end_char=601
+10	.	.	PUNCT	_	_	5	punct	_	start_char=601|end_char=602
+
+# text = А на пути к Адипоуз-11 двигатели ТАРДИС разразилась суровым ворчанием и встали.
+# sent_id = 7
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	А	а	CCONJ	_	_	10	cc	_	start_char=603|end_char=604
+2	на	на	ADP	_	_	3	case	_	start_char=605|end_char=607
+3	пути	путь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	start_char=608|end_char=612
+4	к	к	ADP	_	_	5	case	_	start_char=613|end_char=614
+5	Адипоуз	Адипоуз	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	3	nmod	_	start_char=615|end_char=622
+6	-	-	PUNCT	_	_	7	punct	_	start_char=622|end_char=623
+7	11	11	ADJ	_	NumForm=Digit|NumType=Ord	5	nmod	_	start_char=623|end_char=625
+8	двигатели	двигатель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	start_char=626|end_char=635
+9	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	8	appos	_	start_char=636|end_char=642
+10	разразилась	разразиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=643|end_char=654
+11	суровым	суровый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=655|end_char=662
+12	ворчанием	ворчание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	start_char=663|end_char=672
+13	и	и	CCONJ	_	_	14	cc	_	start_char=673|end_char=674
+14	встали	встать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=675|end_char=681
+15	.	.	PUNCT	_	_	10	punct	_	start_char=681|end_char=682
+
+# text = ‎ — Это определенно временной асцилятор.
+# sent_id = 8
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	6	discourse	_	start_char=683|end_char=684
+2	—	—	PUNCT	_	_	6	punct	_	start_char=685|end_char=686
+3	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=687|end_char=690
+4	определенно	определенно	ADV	_	Degree=Pos	5	advmod	_	start_char=691|end_char=702
+5	временной	временный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=703|end_char=712
+6	асцилятор	асцилятор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=713|end_char=722
+7	.	.	PUNCT	_	_	6	punct	_	start_char=722|end_char=723
+
+# text = Потому что, если не темпоральный модулятор, то остается только он, — пробормотал Доктор, раскачиваясь на качелях, смастеренных из широких и прочных канатов и подвешенных на техническом этаже, рядом с временной колонной.
+# sent_id = 9
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	10	mark	_	start_char=724|end_char=730
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=731|end_char=734
+3	,	,	PUNCT	_	_	7	punct	_	start_char=734|end_char=735
+4	если	если	SCONJ	_	_	7	mark	_	start_char=736|end_char=740
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=741|end_char=743
+6	темпоральный	темпоральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=744|end_char=756
+7	модулятор	модулятор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	advcl	_	start_char=757|end_char=766
+8	,	,	PUNCT	_	_	7	punct	_	start_char=766|end_char=767
+9	то	то	SCONJ	_	_	10	mark	_	start_char=768|end_char=770
+10	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=771|end_char=779
+11	только	только	PART	_	_	12	advmod	_	start_char=780|end_char=786
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=787|end_char=789
+13	,	,	PUNCT	_	_	15	punct	_	start_char=789|end_char=790
+14	—	—	PUNCT	_	_	15	punct	_	start_char=791|end_char=792
+15	пробормотал	пробормотать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=793|end_char=804
+16	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=805|end_char=811
+17	,	,	PUNCT	_	_	18	punct	_	start_char=811|end_char=812
+18	раскачиваясь	раскачиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	15	advcl	_	start_char=813|end_char=825
+19	на	на	ADP	_	_	20	case	_	start_char=826|end_char=828
+20	качелях	качели	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	18	obl	_	start_char=829|end_char=836
+21	,	,	PUNCT	_	_	22	punct	_	start_char=836|end_char=837
+22	смастеренных	смастерить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	acl	_	start_char=838|end_char=850
+23	из	из	ADP	_	_	27	case	_	start_char=851|end_char=853
+24	широких	широкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	start_char=854|end_char=861
+25	и	и	CCONJ	_	_	26	cc	_	start_char=862|end_char=863
+26	прочных	прочный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	conj	_	start_char=864|end_char=871
+27	канатов	канат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	obl	_	start_char=872|end_char=879
+28	и	и	CCONJ	_	_	29	cc	_	start_char=880|end_char=881
+29	подвешенных	подвести	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	start_char=882|end_char=893
+30	на	на	ADP	_	_	32	case	_	start_char=894|end_char=896
+31	техническом	технический	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	start_char=897|end_char=908
+32	этаже	этаж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	29	obl	_	start_char=909|end_char=914
+33	,	,	PUNCT	_	_	34	punct	_	start_char=914|end_char=915
+34	рядом	рядом	ADV	_	Degree=Pos	15	conj	_	start_char=916|end_char=921
+35	с	с	ADP	_	_	37	case	_	start_char=922|end_char=923
+36	временной	временный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	start_char=924|end_char=933
+37	колонной	колонный	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	34	obl	_	start_char=934|end_char=942
+38	.	.	PUNCT	_	_	10	punct	_	start_char=942|end_char=943
+
+# text = Канаты он одолжил у шестируких акробатов пару сотен лет назад.
+# sent_id = 10
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Канаты	каната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	start_char=944|end_char=950
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=951|end_char=953
+3	одолжил	одолжить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=954|end_char=961
+4	у	у	ADP	_	_	6	case	_	start_char=962|end_char=963
+5	шестируких	шестирукий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=964|end_char=974
+6	акробатов	акробат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	start_char=975|end_char=984
+7	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=985|end_char=989
+8	сотен	сотня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	start_char=990|end_char=995
+9	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=996|end_char=999
+10	назад	назад	ADV	_	Degree=Pos	9	advmod	_	start_char=1000|end_char=1005
+11	.	.	PUNCT	_	_	3	punct	_	start_char=1005|end_char=1006
+
+# text = Обещал вернуть при встрече, но не сложилось.
+# sent_id = 11
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Обещал	обещать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1007|end_char=1013
+2	вернуть	вернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=1014|end_char=1021
+3	при	при	ADP	_	_	4	case	_	start_char=1022|end_char=1025
+4	встрече	встреча	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=1026|end_char=1033
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1033|end_char=1034
+6	но	но	CCONJ	_	_	8	cc	_	start_char=1035|end_char=1037
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1038|end_char=1040
+8	сложилось	сложиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=1041|end_char=1050
+9	.	.	PUNCT	_	_	1	punct	_	start_char=1050|end_char=1051
+
+# text = Зато теперь "подарку" нашлось достойное применение.
+# sent_id = 12
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Зато	зато	CCONJ	_	_	6	cc	_	start_char=1052|end_char=1056
+2	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=1057|end_char=1063
+3	"	"	PUNCT	_	_	4	punct	_	start_char=1064|end_char=1065
+4	подарку	подарок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	start_char=1065|end_char=1072
+5	"	"	PUNCT	_	_	4	punct	_	start_char=1072|end_char=1073
+6	нашлось	найтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1074|end_char=1081
+7	достойное	достойный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=1082|end_char=1091
+8	применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=1092|end_char=1102
+9	.	.	PUNCT	_	_	6	punct	_	start_char=1102|end_char=1103
+
+# text = Над головой, в консольной, снова зазвучала навязчивая телефонная трель.
+# sent_id = 13
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Над	над	ADP	_	_	2	case	_	start_char=1105|end_char=1108
+2	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	start_char=1109|end_char=1116
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1116|end_char=1117
+4	в	в	ADP	_	_	5	case	_	start_char=1118|end_char=1119
+5	консольной	консольный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=1120|end_char=1130
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1130|end_char=1131
+7	снова	снова	ADV	_	Degree=Pos	8	advmod	_	start_char=1132|end_char=1137
+8	зазвучала	зазвучать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1138|end_char=1147
+9	навязчивая	навязчивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=1148|end_char=1158
+10	телефонная	телефонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=1159|end_char=1169
+11	трель	трель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=1170|end_char=1175
+12	.	.	PUNCT	_	_	8	punct	_	start_char=1175|end_char=1176
+
+# text = Доктор был жутко занят и настолько же раздражен, так что с места не сдвинулся.
+# sent_id = 14
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	start_char=1177|end_char=1183
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	start_char=1184|end_char=1187
+3	жутко	жутко	ADV	_	Degree=Pos	4	advmod	_	start_char=1188|end_char=1193
+4	занят	занять	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=1194|end_char=1199
+5	и	и	CCONJ	_	_	8	cc	_	start_char=1200|end_char=1201
+6	настолько	настолько	ADV	_	Degree=Pos	8	advmod	_	start_char=1202|end_char=1211
+7	же	же	PART	_	_	6	advmod	_	start_char=1212|end_char=1214
+8	раздражен	раздражный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	start_char=1215|end_char=1224
+9	,	,	PUNCT	_	_	15	punct	_	start_char=1224|end_char=1225
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	15	mark	_	start_char=1226|end_char=1229
+11	что	что	SCONJ	_	_	10	fixed	_	start_char=1230|end_char=1233
+12	с	с	ADP	_	_	13	case	_	start_char=1234|end_char=1235
+13	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	start_char=1236|end_char=1241
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=1242|end_char=1244
+15	сдвинулся	сдвинуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	advcl	_	start_char=1245|end_char=1254
+16	.	.	PUNCT	_	_	4	punct	_	start_char=1254|end_char=1255
+
+# text = Лишь задрал голову, осуждающе косясь на панель управления сквозь полупрозрачный пол.
+# sent_id = 15
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Лишь	лишь	PART	_	_	2	advmod	_	start_char=1256|end_char=1260
+2	задрал	задрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1261|end_char=1267
+3	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=1268|end_char=1274
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1274|end_char=1275
+5	осуждающе	осуждать	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=1276|end_char=1285
+6	косясь	коситься	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	5	conj	_	start_char=1286|end_char=1292
+7	на	на	ADP	_	_	8	case	_	start_char=1293|end_char=1295
+8	панель	панель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=1296|end_char=1302
+9	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=1303|end_char=1313
+10	сквозь	сквозь	ADP	_	_	12	case	_	start_char=1314|end_char=1320
+11	полупрозрачный	полупрозрачный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=1321|end_char=1335
+12	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=1336|end_char=1339
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1339|end_char=1340
+
+# text = Признаться, терпеть становилось всё труднее.
+# sent_id = 16
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Признаться	признаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=1342|end_char=1352
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1352|end_char=1353
+3	терпеть	терпеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1354|end_char=1361
+4	становилось	становиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1362|end_char=1373
+5	всё	всё	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=1374|end_char=1377
+6	труднее	трудный	ADJ	_	Degree=Cmp	4	xcomp	_	start_char=1378|end_char=1385
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1385|end_char=1386
+
+# text = Каждые десять минут это адское устройство пробуждалось и звонило, звонило, звонило.
+# sent_id = 17
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Каждые	каждый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	3	det	_	start_char=1387|end_char=1393
+2	десять	десять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	3	nummod:gov	_	start_char=1394|end_char=1400
+3	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	obl	_	start_char=1401|end_char=1406
+4	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	start_char=1407|end_char=1410
+5	адское	адский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=1411|end_char=1417
+6	устройство	устройство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=1418|end_char=1428
+7	пробуждалось	пробуждаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1429|end_char=1441
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1442|end_char=1443
+9	звонило	звонить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1444|end_char=1451
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1451|end_char=1452
+11	звонило	звонить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1453|end_char=1460
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1460|end_char=1461
+13	звонило	звонить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1462|end_char=1469
+14	.	.	PUNCT	_	_	7	punct	_	start_char=1469|end_char=1470
+
+# text = Можно было спустится с качелей (или строительных строп? крутых штуковин для акробатов?
+# sent_id = 18
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Можно	можно	VERB	_	_	0	root	_	start_char=1472|end_char=1477
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	start_char=1478|end_char=1482
+3	спустится	спуститься	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	csubj	_	start_char=1483|end_char=1492
+4	с	с	ADP	_	_	5	case	_	start_char=1493|end_char=1494
+5	качелей	качели	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	start_char=1495|end_char=1502
+6	(	(	PUNCT	_	_	9	punct	_	start_char=1503|end_char=1504
+7	или	или	CCONJ	_	_	9	cc	_	start_char=1504|end_char=1507
+8	строительных	строительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	start_char=1508|end_char=1520
+9	строп	строп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	parataxis	_	start_char=1521|end_char=1526
+10	?	?	PUNCT	_	_	9	punct	_	start_char=1526|end_char=1527
+11	крутых	крутой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=1528|end_char=1534
+12	штуковин	штуковина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	parataxis	_	start_char=1535|end_char=1543
+13	для	для	ADP	_	_	14	case	_	start_char=1544|end_char=1547
+14	акробатов	акробат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	start_char=1548|end_char=1557
+15	?	?	PUNCT	_	_	1	punct	_	start_char=1557|end_char=1558
+
+# text = веревочных фиксаторов?
+# sent_id = 19
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	веревочных	веревочный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	start_char=1559|end_char=1569
+2	фиксаторов	фиксатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	start_char=1570|end_char=1580
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1580|end_char=1581
+
+# text = — Доктор еще не определился с терминами) и ответить на звонок, но он был не в настроении для бесед.
+# sent_id = 20
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	5	punct	_	start_char=1582|end_char=1583
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1584|end_char=1590
+3	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=1591|end_char=1594
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1595|end_char=1597
+5	определился	определиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1598|end_char=1609
+6	с	с	ADP	_	_	7	case	_	start_char=1610|end_char=1611
+7	терминами	термин	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	start_char=1612|end_char=1621
+8	)	)	PUNCT	_	_	5	punct	_	start_char=1621|end_char=1622
+9	и	и	CCONJ	_	_	10	cc	_	start_char=1623|end_char=1624
+10	ответить	ответить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	start_char=1625|end_char=1633
+11	на	на	ADP	_	_	12	case	_	start_char=1634|end_char=1636
+12	звонок	звонок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=1637|end_char=1643
+13	,	,	PUNCT	_	_	19	punct	_	start_char=1643|end_char=1644
+14	но	но	CCONJ	_	_	19	cc	_	start_char=1645|end_char=1647
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=1648|end_char=1650
+16	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	start_char=1651|end_char=1654
+17	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=1655|end_char=1657
+18	в	в	ADP	_	_	19	case	_	start_char=1658|end_char=1659
+19	настроении	настроение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	conj	_	start_char=1660|end_char=1670
+20	для	для	ADP	_	_	21	case	_	start_char=1671|end_char=1674
+21	бесед	беседа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	nmod	_	start_char=1675|end_char=1680
+22	.	.	PUNCT	_	_	5	punct	_	start_char=1680|end_char=1681
+
+# text = — Если ты, — он тыкнул пальцем во временную колонну, — не заткнешь этот рупор смерти, этот чертов магнитофон, этот...
+# sent_id = 21
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	15	punct	_	start_char=1683|end_char=1684
+2	Если	если	SCONJ	_	_	7	mark	_	start_char=1685|end_char=1689
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=1690|end_char=1692
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1692|end_char=1693
+5	—	—	PUNCT	_	_	7	punct	_	start_char=1694|end_char=1695
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=1696|end_char=1698
+7	тыкнул	тыкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=1699|end_char=1705
+8	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	iobj	_	start_char=1706|end_char=1713
+9	во	во	ADP	_	_	11	case	_	start_char=1714|end_char=1716
+10	временную	временный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=1717|end_char=1726
+11	колонну	колонна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=1727|end_char=1734
+12	,	,	PUNCT	_	_	7	punct	_	start_char=1734|end_char=1735
+13	—	—	PUNCT	_	_	7	punct	_	start_char=1736|end_char=1737
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=1738|end_char=1740
+15	заткнешь	заткнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1741|end_char=1749
+16	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	start_char=1750|end_char=1754
+17	рупор	рупор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	start_char=1755|end_char=1760
+18	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=1761|end_char=1767
+19	,	,	PUNCT	_	_	22	punct	_	start_char=1767|end_char=1768
+20	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	22	det	_	start_char=1769|end_char=1773
+21	чертов	чертов	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	start_char=1774|end_char=1780
+22	магнитофон	магнитофон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	conj	_	start_char=1781|end_char=1791
+23	,	,	PUNCT	_	_	24	punct	_	start_char=1791|end_char=1792
+24	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	22	det	_	start_char=1793|end_char=1797
+25	...	...	PUNCT	_	_	15	punct	_	start_char=1797|end_char=1800
+
+# text = Он махнул рукой, отчего качнулся угрожающе сильно и едва не влетел длинными ногами в скопление кабелей.
+# sent_id = 22
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=1802|end_char=1804
+2	махнул	махнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1805|end_char=1811
+3	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	start_char=1812|end_char=1817
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1817|end_char=1818
+5	отчего	отчего	ADV	_	Degree=Pos|PronType=Rel	6	advmod	_	start_char=1819|end_char=1825
+6	качнулся	качнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1826|end_char=1834
+7	угрожающе	угрожающе	ADV	_	Degree=Pos	6	advmod	_	start_char=1835|end_char=1844
+8	сильно	сильно	ADV	_	Degree=Pos	6	advmod	_	start_char=1845|end_char=1851
+9	и	и	CCONJ	_	_	12	cc	_	start_char=1852|end_char=1853
+10	едва	едва	ADV	_	Degree=Pos	12	advmod	_	start_char=1854|end_char=1858
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1859|end_char=1861
+12	влетел	влететь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1862|end_char=1868
+13	длинными	длинный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	amod	_	start_char=1869|end_char=1877
+14	ногами	нога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	iobj	_	start_char=1878|end_char=1884
+15	в	в	ADP	_	_	16	case	_	start_char=1885|end_char=1886
+16	скопление	скопление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obl	_	start_char=1887|end_char=1896
+17	кабелей	кабель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	start_char=1897|end_char=1904
+18	.	.	PUNCT	_	_	2	punct	_	start_char=1904|end_char=1905
+
+# text = ТАРДИС пробурчала что-то нечленораздельное и плюнула в Доктора смазочной смесью.
+# sent_id = 23
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	ТАРДИС	тардис	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1907|end_char=1913
+2	пробурчала	пробурчать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1914|end_char=1924
+3	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	start_char=1925|end_char=1931
+4	нечленораздельное	нечленораздельный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=1932|end_char=1949
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1950|end_char=1951
+6	плюнула	плюнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1952|end_char=1959
+7	в	в	ADP	_	_	8	case	_	start_char=1960|end_char=1961
+8	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=1962|end_char=1969
+9	смазочной	смазочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=1970|end_char=1979
+10	смесью	смесь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	iobj	_	start_char=1980|end_char=1986
+11	.	.	PUNCT	_	_	2	punct	_	start_char=1986|end_char=1987
+
+# text = Доктору удалось увернуться, он даже успел инстинктивно закрыть рукою галстук-бабочку и победоносно улыбнуться.
+# sent_id = 24
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	start_char=1989|end_char=1996
+2	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1997|end_char=2004
+3	увернуться	увернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	csubj	_	start_char=2005|end_char=2015
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2015|end_char=2016
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=2017|end_char=2019
+6	даже	даже	PART	_	_	7	advmod	_	start_char=2020|end_char=2024
+7	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2025|end_char=2030
+8	инстинктивно	инстинктивно	ADV	_	Degree=Pos	9	advmod	_	start_char=2031|end_char=2043
+9	закрыть	закрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=2044|end_char=2051
+10	рукою	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	iobj	_	start_char=2052|end_char=2057
+11	галстук	галстук	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=2058|end_char=2065
+12	-	-	PUNCT	_	_	13	punct	_	start_char=2065|end_char=2066
+13	бабочку	бабочка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	11	appos	_	start_char=2066|end_char=2073
+14	и	и	CCONJ	_	_	16	cc	_	start_char=2074|end_char=2075
+15	победоносно	победоносно	ADV	_	Degree=Pos	16	advmod	_	start_char=2076|end_char=2087
+16	улыбнуться	улыбнуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	conj	_	start_char=2088|end_char=2098
+17	.	.	PUNCT	_	_	2	punct	_	start_char=2098|end_char=2099
+
+# text = Вот только расслабился он слишком рано, потому что следующей порцией масла ТАРДИС запустила-таки ему в лицо.
+# sent_id = 25
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=2100|end_char=2103
+2	только	только	PART	_	_	3	advmod	_	start_char=2104|end_char=2110
+3	расслабился	расслабиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2111|end_char=2122
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2123|end_char=2125
+5	слишком	слишком	ADV	_	Degree=Pos	6	advmod	_	start_char=2126|end_char=2133
+6	рано	рано	ADV	_	Degree=Pos	3	advmod	_	start_char=2134|end_char=2138
+7	,	,	PUNCT	_	_	14	punct	_	start_char=2138|end_char=2139
+8	потому	потому	ADV	_	Degree=Pos|PronType=Dem	14	mark	_	start_char=2140|end_char=2146
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=2147|end_char=2150
+10	следующей	следующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=2151|end_char=2160
+11	порцией	порция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	obl	_	start_char=2161|end_char=2168
+12	масла	масло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	start_char=2169|end_char=2174
+13	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	14	nsubj	_	start_char=2175|end_char=2181
+14	запустила	запустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=2182|end_char=2191
+15	-	-	PUNCT	_	_	19	punct	_	start_char=2191|end_char=2192
+16	таки	таки	PART	_	_	19	advmod	_	start_char=2192|end_char=2196
+17	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	iobj	_	start_char=2197|end_char=2200
+18	в	в	ADP	_	_	19	case	_	start_char=2201|end_char=2202
+19	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	parataxis	_	start_char=2203|end_char=2207
+20	.	.	PUNCT	_	_	3	punct	_	start_char=2207|end_char=2208
+
+# text = ‎ ‎Доктор ловко крутанулся на месте, почти ушел от атаки, но зацепился ногами за свободные концы веревки, выскользнул из насиженного места и полетел вниз.
+# sent_id = 26
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	5	discourse	_	start_char=2209|end_char=2210
+2	‎	‎	SYM	_	_	5	discourse	_	start_char=2211|end_char=2212
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2212|end_char=2218
+4	ловко	ловкий	ADV	_	Degree=Pos	5	advmod	_	start_char=2219|end_char=2224
+5	крутанулся	крутануться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2225|end_char=2235
+6	на	на	ADP	_	_	7	case	_	start_char=2236|end_char=2238
+7	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=2239|end_char=2244
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2244|end_char=2245
+9	почти	почти	ADV	_	Degree=Pos	10	advmod	_	start_char=2246|end_char=2251
+10	ушел	уйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2252|end_char=2256
+11	от	от	ADP	_	_	12	case	_	start_char=2257|end_char=2259
+12	атаки	атака	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	start_char=2260|end_char=2265
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2265|end_char=2266
+14	но	но	CCONJ	_	_	15	cc	_	start_char=2267|end_char=2269
+15	зацепился	зацепиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2270|end_char=2279
+16	ногами	нога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	15	iobj	_	start_char=2280|end_char=2286
+17	за	за	ADP	_	_	19	case	_	start_char=2287|end_char=2289
+18	свободные	свободный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	start_char=2290|end_char=2299
+19	концы	конец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obl	_	start_char=2300|end_char=2305
+20	веревки	веревка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	start_char=2306|end_char=2313
+21	,	,	PUNCT	_	_	22	punct	_	start_char=2313|end_char=2314
+22	выскользнул	выскользнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2315|end_char=2326
+23	из	из	ADP	_	_	25	case	_	start_char=2327|end_char=2329
+24	насиженного	насижить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	amod	_	start_char=2330|end_char=2341
+25	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	obl	_	start_char=2342|end_char=2347
+26	и	и	CCONJ	_	_	27	cc	_	start_char=2348|end_char=2349
+27	полетел	полететь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2350|end_char=2357
+28	вниз	вниз	ADV	_	Degree=Pos	27	advmod	_	start_char=2358|end_char=2362
+29	.	.	PUNCT	_	_	5	punct	_	start_char=2362|end_char=2363
+
+# text = Когда движение прекратилось, оставалось только радоваться тому, что Клары по близости не оказалось.
+# sent_id = 27
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Когда	когда	SCONJ	_	_	3	mark	_	start_char=2365|end_char=2370
+2	движение	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=2371|end_char=2379
+3	прекратилось	прекратиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	advcl	_	start_char=2380|end_char=2392
+4	,	,	PUNCT	_	_	3	punct	_	start_char=2392|end_char=2393
+5	оставалось	оставаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2394|end_char=2404
+6	только	только	PART	_	_	7	advmod	_	start_char=2405|end_char=2411
+7	радоваться	радоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	csubj	_	start_char=2412|end_char=2422
+8	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	7	iobj	_	start_char=2423|end_char=2427
+9	,	,	PUNCT	_	_	15	punct	_	start_char=2427|end_char=2428
+10	что	что	SCONJ	_	_	15	mark	_	start_char=2429|end_char=2432
+11	Клары	Клары	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	15	nsubj	_	start_char=2433|end_char=2438
+12	по	по	ADP	_	_	13	case	_	start_char=2439|end_char=2441
+13	близости	близость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	obl	_	start_char=2442|end_char=2450
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=2451|end_char=2453
+15	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	acl	_	start_char=2454|end_char=2463
+16	.	.	PUNCT	_	_	5	punct	_	start_char=2463|end_char=2464
+
+# text = Доктор висел в позе атакующей ласточки: ноги выше головы, а пальцы с большим трудом сжимают канат за его спиной.
+# sent_id = 28
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2465|end_char=2471
+2	висел	висеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2472|end_char=2477
+3	в	в	ADP	_	_	4	case	_	start_char=2478|end_char=2479
+4	позе	поза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=2480|end_char=2484
+5	атакующей	атаковать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	start_char=2485|end_char=2494
+6	ласточки	ласточка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=2495|end_char=2503
+7	:	:	PUNCT	_	_	9	punct	_	start_char=2503|end_char=2504
+8	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	start_char=2505|end_char=2509
+9	выше	высокий	ADJ	_	Degree=Cmp	2	parataxis	_	start_char=2510|end_char=2514
+10	головы	голова	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=2515|end_char=2521
+11	,	,	PUNCT	_	_	17	punct	_	start_char=2521|end_char=2522
+12	а	а	CCONJ	_	_	17	cc	_	start_char=2523|end_char=2524
+13	пальцы	палец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	start_char=2525|end_char=2531
+14	с	с	ADP	_	_	16	case	_	start_char=2532|end_char=2533
+15	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=2534|end_char=2541
+16	трудом	труд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	start_char=2542|end_char=2548
+17	сжимают	сжимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=2549|end_char=2556
+18	канат	канат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	start_char=2557|end_char=2562
+19	за	за	ADP	_	_	21	case	_	start_char=2563|end_char=2565
+20	его	его	DET	_	Poss=Yes|PronType=Prs	21	det	_	start_char=2566|end_char=2569
+21	спиной	спина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	_	start_char=2570|end_char=2576
+22	.	.	PUNCT	_	_	2	punct	_	start_char=2576|end_char=2577
+
+# text = ‎ Он глянул вниз.
+# sent_id = 29
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	3	discourse	_	start_char=2578|end_char=2579
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2580|end_char=2582
+3	глянул	глянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2583|end_char=2589
+4	вниз	вниз	ADV	_	Degree=Pos	3	advmod	_	start_char=2590|end_char=2594
+5	.	.	PUNCT	_	_	3	punct	_	start_char=2594|end_char=2595
+
+# text = Положение хуже некуда: высоко, да и отвертка опасно высунулась из кармана брюк.
+# sent_id = 30
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=2596|end_char=2605
+2	хуже	плохой	ADJ	_	Degree=Cmp	1	amod	_	start_char=2606|end_char=2610
+3	некуда	некуда	VERB	_	Polarity=Neg	0	root	_	start_char=2611|end_char=2617
+4	:	:	PUNCT	_	_	5	punct	_	start_char=2617|end_char=2618
+5	высоко	высокий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	parataxis	_	start_char=2619|end_char=2625
+6	,	,	PUNCT	_	_	11	punct	_	start_char=2625|end_char=2626
+7	да	да	CCONJ	_	_	11	cc	_	start_char=2627|end_char=2629
+8	и	и	CCONJ	_	_	7	fixed	_	start_char=2630|end_char=2631
+9	отвертка	отвертка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=2632|end_char=2640
+10	опасно	опасный	ADV	_	Degree=Pos	11	advmod	_	start_char=2641|end_char=2647
+11	высунулась	высунуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2648|end_char=2658
+12	из	из	ADP	_	_	13	case	_	start_char=2659|end_char=2661
+13	кармана	карман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	start_char=2662|end_char=2669
+14	брюк	брюк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	start_char=2670|end_char=2674
+15	.	.	PUNCT	_	_	3	punct	_	start_char=2674|end_char=2675
+
+# text = ‎ — Эй...
+# sent_id = 31
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	3	discourse	_	start_char=2676|end_char=2677
+2	—	—	PUNCT	_	_	3	punct	_	start_char=2678|end_char=2679
+3	Эй	эй	INTJ	_	_	0	root	_	start_char=2680|end_char=2682
+4	...	...	PUNCT	_	_	3	punct	_	start_char=2682|end_char=2685
+
+# text = Тихо-тихо-тихо, — забормотал Доктор, крепче сжимая канаты и пытаясь аккуратно, очень аккуратно подтянуться.
+# sent_id = 32
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Тихо-тихо-тихо	тихо-тихо-тихый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2686|end_char=2700
+2	,	,	PUNCT	_	_	4	punct	_	start_char=2700|end_char=2701
+3	—	—	PUNCT	_	_	4	punct	_	start_char=2702|end_char=2703
+4	забормотал	забормотать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=2704|end_char=2714
+5	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2715|end_char=2721
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2721|end_char=2722
+7	крепче	крепче	ADV	_	Degree=Cmp	8	advmod	_	start_char=2723|end_char=2729
+8	сжимая	сжимать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=2730|end_char=2736
+9	канаты	каната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=2737|end_char=2743
+10	и	и	CCONJ	_	_	11	cc	_	start_char=2744|end_char=2745
+11	пытаясь	пытаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	8	conj	_	start_char=2746|end_char=2753
+12	аккуратно	аккуратно	ADV	_	Degree=Pos	11	advmod	_	start_char=2754|end_char=2763
+13	,	,	PUNCT	_	_	11	punct	_	start_char=2763|end_char=2764
+14	очень	очень	ADV	_	Degree=Pos	15	advmod	_	start_char=2765|end_char=2770
+15	аккуратно	аккуратно	ADV	_	Degree=Pos	16	advmod	_	start_char=2771|end_char=2780
+16	подтянуться	подтянуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=2781|end_char=2792
+17	.	.	PUNCT	_	_	1	punct	_	start_char=2792|end_char=2793
+
+# text = Отвертка сдвинулась на пару миллиметров.
+# sent_id = 33
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Отвертка	отвертка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=2794|end_char=2802
+2	сдвинулась	сдвинуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2803|end_char=2813
+3	на	на	ADP	_	_	4	case	_	start_char=2814|end_char=2816
+4	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=2817|end_char=2821
+5	миллиметров	миллиметр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	start_char=2822|end_char=2833
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2833|end_char=2834
+
+# text = — Куда-то собралась?
+# sent_id = 34
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2836|end_char=2837
+2	Куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	3	advmod	_	start_char=2838|end_char=2845
+3	собралась	собраться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2846|end_char=2855
+4	?	?	PUNCT	_	_	3	punct	_	start_char=2855|end_char=2856
+
+# text = — пробормотал он отвертке, неспешно перенося вес тела на одну руку, чтобы освободить вторую.
+# sent_id = 35
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2857|end_char=2858
+2	пробормотал	пробормотать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2859|end_char=2870
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2871|end_char=2873
+4	отвертке	отвертка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	start_char=2874|end_char=2882
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2882|end_char=2883
+6	неспешно	неспешно	ADV	_	Degree=Pos	7	advmod	_	start_char=2884|end_char=2892
+7	перенося	перенастись	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=2893|end_char=2901
+8	вес	вес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=2902|end_char=2905
+9	тела	тело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=2906|end_char=2910
+10	на	на	ADP	_	_	12	case	_	start_char=2911|end_char=2913
+11	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	12	nummod	_	start_char=2914|end_char=2918
+12	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=2919|end_char=2923
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2923|end_char=2924
+14	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	mark	_	start_char=2925|end_char=2930
+15	освободить	освободить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=2931|end_char=2941
+16	вторую	второй	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	15	obj	_	start_char=2942|end_char=2948
+17	.	.	PUNCT	_	_	2	punct	_	start_char=2948|end_char=2949
+
+# text = — Плохая, плохая девочка, ты же не оставишь меня в беде?
+# sent_id = 36
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	10	punct	_	start_char=2950|end_char=2951
+2	Плохая	плохой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2952|end_char=2958
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2958|end_char=2959
+4	плохая	плохой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=2960|end_char=2966
+5	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=2967|end_char=2974
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2974|end_char=2975
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=2976|end_char=2978
+8	же	же	PART	_	_	7	advmod	_	start_char=2979|end_char=2981
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=2982|end_char=2984
+10	оставишь	оставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2985|end_char=2993
+11	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	start_char=2994|end_char=2998
+12	в	в	ADP	_	_	13	case	_	start_char=2999|end_char=3000
+13	беде	беда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	start_char=3001|end_char=3005
+14	?	?	PUNCT	_	_	10	punct	_	start_char=3005|end_char=3006
+
+# text = Но отвертка определенно была иного мнения о собственной персоне, потому легко выскользнула из кармана и улетела в змеевидное скопление проводов на полу.
+# sent_id = 37
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=3008|end_char=3010
+2	отвертка	отвертка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=3011|end_char=3019
+3	определенно	определенно	ADV	_	Degree=Pos	6	advmod	_	start_char=3020|end_char=3031
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=3032|end_char=3036
+5	иного	иной	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	6	det	_	start_char=3037|end_char=3042
+6	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=3043|end_char=3049
+7	о	о	ADP	_	_	9	case	_	start_char=3050|end_char=3051
+8	собственной	собственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=3052|end_char=3063
+9	персоне	персона	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	start_char=3064|end_char=3071
+10	,	,	PUNCT	_	_	13	punct	_	start_char=3071|end_char=3072
+11	потому	потому	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=3073|end_char=3079
+12	легко	легко	ADV	_	Degree=Pos	13	advmod	_	start_char=3080|end_char=3085
+13	выскользнула	выскользнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=3086|end_char=3098
+14	из	из	ADP	_	_	15	case	_	start_char=3099|end_char=3101
+15	кармана	карман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=3102|end_char=3109
+16	и	и	CCONJ	_	_	17	cc	_	start_char=3110|end_char=3111
+17	улетела	улететь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=3112|end_char=3119
+18	в	в	ADP	_	_	20	case	_	start_char=3120|end_char=3121
+19	змеевидное	змеевидный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	start_char=3122|end_char=3132
+20	скопление	скопление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obl	_	start_char=3133|end_char=3142
+21	проводов	провод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	start_char=3143|end_char=3151
+22	на	на	ADP	_	_	23	case	_	start_char=3152|end_char=3154
+23	полу	пол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	nmod	_	start_char=3155|end_char=3159
+24	.	.	PUNCT	_	_	6	punct	_	start_char=3159|end_char=3160
+
+# text = На секунду Доктору показалось, что ТАРДИС рассмеялась.
+# sent_id = 38
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	На	на	ADP	_	_	2	case	_	start_char=3162|end_char=3164
+2	секунду	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=3165|end_char=3172
+3	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	start_char=3173|end_char=3180
+4	показалось	показаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3181|end_char=3191
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3191|end_char=3192
+6	что	что	SCONJ	_	_	8	mark	_	start_char=3193|end_char=3196
+7	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	nsubj	_	start_char=3197|end_char=3203
+8	рассмеялась	рассмеяться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	ccomp	_	start_char=3204|end_char=3215
+9	.	.	PUNCT	_	_	4	punct	_	start_char=3215|end_char=3216
+
+# text = — Смеешься?
+# sent_id = 39
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=3218|end_char=3219
+2	Смеешься	сметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3220|end_char=3228
+3	?	?	PUNCT	_	_	2	punct	_	start_char=3228|end_char=3229
+
+# text = Я — повелитель времени!
+# sent_id = 40
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3230|end_char=3231
+2	—	—	PUNCT	_	_	3	punct	_	start_char=3232|end_char=3233
+3	повелитель	повелитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3234|end_char=3244
+4	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	start_char=3245|end_char=3252
+5	!	!	PUNCT	_	_	3	punct	_	start_char=3252|end_char=3253
+
+# text = Максимум, что мне грозит — шишка на лбу.
+# sent_id = 41
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Максимум	максимум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3254|end_char=3262
+2	,	,	PUNCT	_	_	5	punct	_	start_char=3262|end_char=3263
+3	что	что	SCONJ	_	_	5	mark	_	start_char=3264|end_char=3267
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=3268|end_char=3271
+5	грозит	грозить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	start_char=3272|end_char=3278
+6	—	—	PUNCT	_	_	7	punct	_	start_char=3279|end_char=3280
+7	шишка	шишка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	start_char=3281|end_char=3286
+8	на	на	ADP	_	_	9	case	_	start_char=3287|end_char=3289
+9	лбу	леб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	start_char=3290|end_char=3293
+10	.	.	PUNCT	_	_	1	punct	_	start_char=3293|end_char=3294
+
+# text = Так что...
+# sent_id = 42
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=3295|end_char=3298
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=3299|end_char=3302
+3	...	...	PUNCT	_	_	1	punct	_	start_char=3302|end_char=3305
+
+# text = Джеронимо!
+# sent_id = 43
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Джеронимо	Джеронимо	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|NameType=Com|Number=Sing	0	root	_	start_char=3306|end_char=3315
+2	!	!	PUNCT	_	_	1	punct	_	start_char=3315|end_char=3316
+
+# text = С воинственным воплем он отпустил руки, надеясь, что искусственная гравитация сделает свое дело и...
+# sent_id = 44
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	С	с	ADP	_	_	3	case	_	start_char=3318|end_char=3319
+2	воинственным	воинственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=3320|end_char=3332
+3	воплем	воплем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	start_char=3333|end_char=3339
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3340|end_char=3342
+5	отпустил	отпустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3343|end_char=3351
+6	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=3352|end_char=3356
+7	,	,	PUNCT	_	_	8	punct	_	start_char=3356|end_char=3357
+8	надеясь	надеяться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=3358|end_char=3365
+9	,	,	PUNCT	_	_	13	punct	_	start_char=3365|end_char=3366
+10	что	что	SCONJ	_	_	13	mark	_	start_char=3367|end_char=3370
+11	искусственная	искусственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=3371|end_char=3384
+12	гравитация	гравитация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=3385|end_char=3395
+13	сделает	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	ccomp	_	start_char=3396|end_char=3403
+14	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	start_char=3404|end_char=3408
+15	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	start_char=3409|end_char=3413
+16	и	и	CCONJ	_	_	13	cc	_	start_char=3414|end_char=3415
+17	...	...	PUNCT	_	_	5	punct	_	start_char=3415|end_char=3418
+
+# text = Ничего не произошло.
+# sent_id = 45
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	3	nsubj	_	start_char=3420|end_char=3426
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3427|end_char=3429
+3	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3430|end_char=3439
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3439|end_char=3440
+
+# text = Ботинки сработали как стопор, зацепившись за веревки.
+# sent_id = 46
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Ботинки	ботинок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=3441|end_char=3448
+2	сработали	сработать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3449|end_char=3458
+3	как	как	SCONJ	_	_	4	case	_	start_char=3459|end_char=3462
+4	стопор	стопор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	obl	_	start_char=3463|end_char=3469
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3469|end_char=3470
+6	зацепившись	зацепиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=3471|end_char=3482
+7	за	за	ADP	_	_	8	case	_	start_char=3483|end_char=3485
+8	веревки	веревка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obl	_	start_char=3486|end_char=3493
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3493|end_char=3494
+
+# text = Вокруг лодыжек затянулись крепкие петли.
+# sent_id = 47
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Вокруг	вокруг	ADP	_	_	2	case	_	start_char=3495|end_char=3501
+2	лодыжек	лодыжка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	start_char=3502|end_char=3509
+3	затянулись	затянуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3510|end_char=3520
+4	крепкие	крепкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	start_char=3521|end_char=3528
+5	петли	петль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=3529|end_char=3534
+6	.	.	PUNCT	_	_	3	punct	_	start_char=3534|end_char=3535
+
+# text = Теперь Доктор был готов поспорить, что происходящее не случайность, а злонамеренная и хорошо спланированная месть ТАРДИС.
+# sent_id = 48
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=3536|end_char=3542
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=3543|end_char=3549
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	start_char=3550|end_char=3553
+4	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=3554|end_char=3559
+5	поспорить	поспорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=3560|end_char=3569
+6	,	,	PUNCT	_	_	10	punct	_	start_char=3569|end_char=3570
+7	что	что	SCONJ	_	_	10	mark	_	start_char=3571|end_char=3574
+8	происходящее	происходящие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	start_char=3575|end_char=3587
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=3588|end_char=3590
+10	случайность	случайность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	ccomp	_	start_char=3591|end_char=3602
+11	,	,	PUNCT	_	_	17	punct	_	start_char=3602|end_char=3603
+12	а	а	CCONJ	_	_	17	cc	_	start_char=3604|end_char=3605
+13	злонамеренная	злонамеренный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=3606|end_char=3619
+14	и	и	CCONJ	_	_	15	cc	_	start_char=3620|end_char=3621
+15	хорошо	хорошо	ADV	_	Degree=Pos	13	conj	_	start_char=3622|end_char=3628
+16	спланированная	спланировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	conj	_	start_char=3629|end_char=3643
+17	месть	месть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	conj	_	start_char=3644|end_char=3649
+18	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com|Number=Sing	17	nmod	_	start_char=3650|end_char=3656
+19	.	.	PUNCT	_	_	4	punct	_	start_char=3656|end_char=3657
+
+# text = ‎ — Предательница!
+# sent_id = 49
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	3	discourse	_	start_char=3658|end_char=3659
+2	—	—	PUNCT	_	_	3	punct	_	start_char=3660|end_char=3661
+3	Предательница	предательница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3662|end_char=3675
+4	!	!	PUNCT	_	_	3	punct	_	start_char=3675|end_char=3676
+
+# text = — Доктор погрозил пальцем вниз, сердцу упрямой машины, потом попытался подтянуться, чтобы схватиться за веревку снова, но единственное, на что было способно это тело — это очередной неловкий кульбит.
+# sent_id = 50
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=3677|end_char=3678
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3679|end_char=3685
+3	погрозил	погрозить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3686|end_char=3694
+4	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=3695|end_char=3702
+5	вниз	вниз	ADV	_	Degree=Pos	3	advmod	_	start_char=3703|end_char=3707
+6	,	,	PUNCT	_	_	7	punct	_	start_char=3707|end_char=3708
+7	сердцу	сердце	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	start_char=3709|end_char=3715
+8	упрямой	упрямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=3716|end_char=3723
+9	машины	машина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=3724|end_char=3730
+10	,	,	PUNCT	_	_	12	punct	_	start_char=3730|end_char=3731
+11	потом	потом	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=3732|end_char=3737
+12	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=3738|end_char=3747
+13	подтянуться	подтянуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	xcomp	_	start_char=3748|end_char=3759
+14	,	,	PUNCT	_	_	16	punct	_	start_char=3759|end_char=3760
+15	чтобы	чтобы	SCONJ	_	Mood=Cnd	16	mark	_	start_char=3761|end_char=3766
+16	схватиться	схватиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	13	advcl	_	start_char=3767|end_char=3777
+17	за	за	ADP	_	_	18	case	_	start_char=3778|end_char=3780
+18	веревку	веревка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	start_char=3781|end_char=3788
+19	снова	снова	ADV	_	Degree=Pos	16	advmod	_	start_char=3789|end_char=3794
+20	,	,	PUNCT	_	_	22	punct	_	start_char=3794|end_char=3795
+21	но	но	CCONJ	_	_	22	cc	_	start_char=3796|end_char=3798
+22	единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	34	nsubj	_	start_char=3799|end_char=3811
+23	,	,	PUNCT	_	_	27	punct	_	start_char=3811|end_char=3812
+24	на	на	ADP	_	_	25	case	_	start_char=3813|end_char=3815
+25	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	27	obl	_	start_char=3816|end_char=3819
+26	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	cop	_	start_char=3820|end_char=3824
+27	способно	способный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	22	acl:relcl	_	start_char=3825|end_char=3833
+28	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	29	det	_	start_char=3834|end_char=3837
+29	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	start_char=3838|end_char=3842
+30	—	—	PUNCT	_	_	34	punct	_	start_char=3843|end_char=3844
+31	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	34	nsubj	_	start_char=3845|end_char=3848
+32	очередной	очередной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	start_char=3849|end_char=3858
+33	неловкий	неловкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	start_char=3859|end_char=3867
+34	кульбит	кульбит	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	start_char=3868|end_char=3875
+35	.	.	PUNCT	_	_	3	punct	_	start_char=3875|end_char=3876
+
+# text = Мысленно он поблагодарил одиннадцатую регенерацию хотя бы за то, что в ходе акробатического этюда ничего себе не растянул и не сломал.
+# sent_id = 51
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Мысленно	мысленно	ADV	_	Degree=Pos	3	advmod	_	start_char=3877|end_char=3885
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3886|end_char=3888
+3	поблагодарил	поблагодарить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3889|end_char=3901
+4	одиннадцатую	одиннадцатый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=3902|end_char=3914
+5	регенерацию	регенерация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=3915|end_char=3926
+6	хотя	хотя	PART	_	_	9	advmod	_	start_char=3927|end_char=3931
+7	бы	бы	PART	_	_	6	fixed	_	start_char=3932|end_char=3934
+8	за	за	ADP	_	_	9	case	_	start_char=3935|end_char=3937
+9	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	start_char=3938|end_char=3940
+10	,	,	PUNCT	_	_	19	punct	_	start_char=3940|end_char=3941
+11	что	что	SCONJ	_	_	19	mark	_	start_char=3942|end_char=3945
+12	в	в	ADP	_	_	15	case	_	start_char=3946|end_char=3947
+13	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	fixed	_	start_char=3948|end_char=3952
+14	акробатического	акробатический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=3953|end_char=3968
+15	этюда	этюд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	start_char=3969|end_char=3974
+16	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	19	obj	_	start_char=3975|end_char=3981
+17	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	19	iobj	_	start_char=3982|end_char=3986
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=3987|end_char=3989
+19	растянул	растянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	start_char=3990|end_char=3998
+20	и	и	CCONJ	_	_	22	cc	_	start_char=3999|end_char=4000
+21	не	не	PART	_	Polarity=Neg	22	advmod	_	start_char=4001|end_char=4003
+22	сломал	сломать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	start_char=4004|end_char=4010
+23	.	.	PUNCT	_	_	3	punct	_	start_char=4010|end_char=4011
+
+# text = С каждым мгновением веревки стягивали ноги всё сильнее.
+# sent_id = 52
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	С	с	ADP	_	_	3	case	_	start_char=4013|end_char=4014
+2	каждым	каждый	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	3	det	_	start_char=4015|end_char=4021
+3	мгновением	мгновение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	start_char=4022|end_char=4032
+4	веревки	веревка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=4033|end_char=4040
+5	стягивали	стягивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4041|end_char=4050
+6	ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=4051|end_char=4055
+7	всё	всё	ADV	_	Degree=Pos|PronType=Tot	8	advmod	_	start_char=4056|end_char=4059
+8	сильнее	сильный	ADJ	_	Degree=Cmp	5	xcomp	_	start_char=4060|end_char=4067
+9	.	.	PUNCT	_	_	5	punct	_	start_char=4067|end_char=4068
+
+# text = Вялые попытки вырваться привели к тому, что Доктора по инерции закрутило и приложило затылком о временную колонну.
+# sent_id = 53
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Вялые	вялый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	start_char=4069|end_char=4074
+2	попытки	попытка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=4075|end_char=4082
+3	вырваться	вырваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=4083|end_char=4092
+4	привели	привести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4093|end_char=4100
+5	к	к	ADP	_	_	6	case	_	start_char=4101|end_char=4102
+6	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	start_char=4103|end_char=4107
+7	,	,	PUNCT	_	_	12	punct	_	start_char=4107|end_char=4108
+8	что	что	SCONJ	_	_	12	mark	_	start_char=4109|end_char=4112
+9	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	obj	_	start_char=4113|end_char=4120
+10	по	по	ADP	_	_	11	case	_	start_char=4121|end_char=4123
+11	инерции	инерция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	obl	_	start_char=4124|end_char=4131
+12	закрутило	закрутить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	start_char=4132|end_char=4141
+13	и	и	CCONJ	_	_	14	cc	_	start_char=4142|end_char=4143
+14	приложило	приложить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=4144|end_char=4153
+15	затылком	затылок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	iobj	_	start_char=4154|end_char=4162
+16	о	о	ADP	_	_	18	case	_	start_char=4163|end_char=4164
+17	временную	временный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=4165|end_char=4174
+18	колонну	колонна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	start_char=4175|end_char=4182
+19	.	.	PUNCT	_	_	4	punct	_	start_char=4182|end_char=4183
+
+# text = Раздосадованный, он скрестил руки на груди и повис вниз головой.
+# sent_id = 54
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Раздосадованный	раздосадовать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	start_char=4185|end_char=4200
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4200|end_char=4201
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4202|end_char=4204
+4	скрестил	скрестить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4205|end_char=4213
+5	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=4214|end_char=4218
+6	на	на	ADP	_	_	7	case	_	start_char=4219|end_char=4221
+7	груди	грудь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=4222|end_char=4227
+8	и	и	CCONJ	_	_	9	cc	_	start_char=4228|end_char=4229
+9	повис	повиснуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=4230|end_char=4235
+10	вниз	вниз	ADV	_	Degree=Pos	9	advmod	_	start_char=4236|end_char=4240
+11	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	start_char=4241|end_char=4248
+12	.	.	PUNCT	_	_	4	punct	_	start_char=4248|end_char=4249
+
+# text = Смерть ему виделась не очень быстрой, но смешной.
+# sent_id = 55
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=4250|end_char=4256
+2	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=4257|end_char=4260
+3	виделась	видеться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4261|end_char=4269
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4270|end_char=4272
+5	очень	очень	ADV	_	Degree=Pos	6	advmod	_	start_char=4273|end_char=4278
+6	быстрой	быстрый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	xcomp	_	start_char=4279|end_char=4286
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4286|end_char=4287
+8	но	но	CCONJ	_	_	9	cc	_	start_char=4288|end_char=4290
+9	смешной	смешной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	conj	_	start_char=4291|end_char=4298
+10	.	.	PUNCT	_	_	3	punct	_	start_char=4298|end_char=4299
+
+# text = В глубине души Доктор подозревал, что его обязательно найдут.
+# sent_id = 56
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	В	в	ADP	_	_	2	case	_	start_char=4301|end_char=4302
+2	глубине	глубина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=4303|end_char=4310
+3	души	душа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=4311|end_char=4315
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4316|end_char=4322
+5	подозревал	подозревать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4323|end_char=4333
+6	,	,	PUNCT	_	_	10	punct	_	start_char=4333|end_char=4334
+7	что	что	SCONJ	_	_	10	mark	_	start_char=4335|end_char=4338
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=4339|end_char=4342
+9	обязательно	обязательно	ADV	_	Degree=Pos	10	advmod	_	start_char=4343|end_char=4354
+10	найдут	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=4355|end_char=4361
+11	.	.	PUNCT	_	_	5	punct	_	start_char=4361|end_char=4362
+
+# text = И скорее всего живым.
+# sent_id = 57
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	И	и	CCONJ	_	_	4	cc	_	start_char=4363|end_char=4364
+2	скорее	скорее	ADV	_	Degree=Cmp	4	parataxis	_	start_char=4365|end_char=4371
+3	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	2	obl	_	start_char=4372|end_char=4377
+4	живым	живой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=4378|end_char=4383
+5	.	.	PUNCT	_	_	4	punct	_	start_char=4383|end_char=4384
+
+# text = Но учитывая, кто вероятнее всего отправится на его поиски, а потом застанет его в минуту наивысшего позора, Доктор предпочел бы не найтись никогда.
+# sent_id = 58
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Но	но	CCONJ	_	_	22	cc	_	start_char=4385|end_char=4387
+2	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	22	advcl	_	start_char=4388|end_char=4396
+3	,	,	PUNCT	_	_	7	punct	_	start_char=4396|end_char=4397
+4	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	start_char=4398|end_char=4401
+5	вероятнее	вероятно	ADV	_	Degree=Cmp	7	advmod	_	start_char=4402|end_char=4411
+6	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	5	obl	_	start_char=4412|end_char=4417
+7	отправится	отправиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	2	ccomp	_	start_char=4418|end_char=4428
+8	на	на	ADP	_	_	10	case	_	start_char=4429|end_char=4431
+9	его	его	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=4432|end_char=4435
+10	поиски	поиск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=4436|end_char=4442
+11	,	,	PUNCT	_	_	14	punct	_	start_char=4442|end_char=4443
+12	а	а	CCONJ	_	_	14	cc	_	start_char=4444|end_char=4445
+13	потом	потом	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=4446|end_char=4451
+14	застанет	застать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	conj	_	start_char=4452|end_char=4460
+15	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=4461|end_char=4464
+16	в	в	ADP	_	_	17	case	_	start_char=4465|end_char=4466
+17	минуту	минута	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	start_char=4467|end_char=4473
+18	наивысшего	наивысший	ADJ	_	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	19	amod	_	start_char=4474|end_char=4484
+19	позора	позор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	start_char=4485|end_char=4491
+20	,	,	PUNCT	_	_	2	punct	_	start_char=4491|end_char=4492
+21	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	start_char=4493|end_char=4499
+22	предпочел	предпочесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4500|end_char=4509
+23	бы	бы	AUX	_	Mood=Cnd	22	aux	_	start_char=4510|end_char=4512
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=4513|end_char=4515
+25	найтись	найтись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	22	xcomp	_	start_char=4516|end_char=4523
+26	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	25	advmod	_	start_char=4524|end_char=4531
+27	.	.	PUNCT	_	_	22	punct	_	start_char=4531|end_char=4532
+
+# text = ТАРДИС будет дрейфовать так долгие тысячелетия...
+# sent_id = 59
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	3	nsubj	_	start_char=4534|end_char=4540
+2	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	aux	_	start_char=4541|end_char=4546
+3	дрейфовать	дрейфовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=4547|end_char=4557
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=4558|end_char=4561
+5	долгие	долгий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	start_char=4562|end_char=4568
+6	тысячелетия	тысячелетие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	start_char=4569|end_char=4580
+7	...	...	PUNCT	_	_	3	punct	_	start_char=4580|end_char=4583
+
+# text = Могила в открытом космосе.
+# sent_id = 60
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Могила	могила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4584|end_char=4590
+2	в	в	ADP	_	_	4	case	_	start_char=4591|end_char=4592
+3	открытом	открытый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=4593|end_char=4601
+4	космосе	космос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	start_char=4602|end_char=4609
+5	.	.	PUNCT	_	_	1	punct	_	start_char=4609|end_char=4610
+
+# text = Звучало не так уж плохо.
+# sent_id = 61
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Звучало	звучать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4611|end_char=4618
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4619|end_char=4621
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=4622|end_char=4625
+4	уж	уж	PART	_	_	3	advmod	_	start_char=4626|end_char=4628
+5	плохо	плохо	ADV	_	Degree=Pos	1	advmod	_	start_char=4629|end_char=4634
+6	.	.	PUNCT	_	_	1	punct	_	start_char=4634|end_char=4635
+
+# text = Определенно лучше, чем последствия спасения.
+# sent_id = 62
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Определенно	определенно	ADV	_	Degree=Pos	2	advmod	_	start_char=4636|end_char=4647
+2	лучше	хороший	ADJ	_	Degree=Cmp	0	root	_	start_char=4648|end_char=4653
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4653|end_char=4654
+4	чем	чем	SCONJ	_	_	5	case	_	start_char=4655|end_char=4658
+5	последствия	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	obl	_	start_char=4659|end_char=4670
+6	спасения	спасение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	start_char=4671|end_char=4679
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4679|end_char=4680
+
+# text = Да жена будет подначивать его до конца Вселенной!
+# sent_id = 63
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Да	да	CCONJ	_	_	4	cc	_	start_char=4681|end_char=4683
+2	жена	жена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=4684|end_char=4688
+3	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	start_char=4689|end_char=4694
+4	подначивать	подначивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=4695|end_char=4706
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=4707|end_char=4710
+6	до	до	ADP	_	_	7	case	_	start_char=4711|end_char=4713
+7	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=4714|end_char=4719
+8	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	7	nmod	_	start_char=4720|end_char=4729
+9	!	!	PUNCT	_	_	4	punct	_	start_char=4729|end_char=4730
+
+# text = — Нет.
+# sent_id = 64
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=4732|end_char=4733
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=4734|end_char=4737
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4737|end_char=4738
+
+# text = Буду умирать, — решил для себя Доктор и закрыл глаза.
+# sent_id = 65
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	aux	_	start_char=4739|end_char=4743
+2	умирать	умирать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=4744|end_char=4751
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4751|end_char=4752
+4	—	—	PUNCT	_	_	5	punct	_	start_char=4753|end_char=4754
+5	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4755|end_char=4760
+6	для	для	ADP	_	_	7	case	_	start_char=4761|end_char=4764
+7	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	5	obl	_	start_char=4765|end_char=4769
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4770|end_char=4776
+9	и	и	CCONJ	_	_	10	cc	_	start_char=4777|end_char=4778
+10	закрыл	закрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=4779|end_char=4785
+11	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=4786|end_char=4791
+12	.	.	PUNCT	_	_	2	punct	_	start_char=4791|end_char=4792
+
+# text = Умирание давалось тяжело.
+# sent_id = 66
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Умирание	умирание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=4794|end_char=4802
+2	давалось	даваться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4803|end_char=4811
+3	тяжело	тяжелый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	obl	_	start_char=4812|end_char=4818
+4	.	.	PUNCT	_	_	2	punct	_	start_char=4818|end_char=4819
+
+# text = Через пару минут он заскучал, через пять — скука стала невыносимой, еще через семь
+# sent_id = 67
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Через	через	ADP	_	_	2	case	_	start_char=4820|end_char=4825
+2	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=4826|end_char=4830
+3	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	start_char=4831|end_char=4836
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4837|end_char=4839
+5	заскучал	заскучать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4840|end_char=4848
+6	,	,	PUNCT	_	_	11	punct	_	start_char=4848|end_char=4849
+7	через	через	ADP	_	_	8	case	_	start_char=4850|end_char=4855
+8	пять	пять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	11	obl	_	start_char=4856|end_char=4860
+9	—	—	PUNCT	_	_	10	punct	_	start_char=4861|end_char=4862
+10	скука	скука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	start_char=4863|end_char=4868
+11	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=4869|end_char=4874
+12	невыносимой	невыносимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	xcomp	_	start_char=4875|end_char=4886
+13	,	,	PUNCT	_	_	16	punct	_	start_char=4886|end_char=4887
+14	еще	еще	ADV	_	Degree=Pos	16	advmod	_	start_char=4888|end_char=4891
+15	через	через	ADP	_	_	16	case	_	start_char=4892|end_char=4897
+16	семь	семь	NUM	_	Case=Acc|NumForm=Word|NumType=Card	11	conj	_	start_char=4898|end_char=4902
+
+# text = — Доктор взвыл в голос.
+# sent_id = 68
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=4903|end_char=4904
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4905|end_char=4911
+3	взвыл	взвыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4912|end_char=4917
+4	в	в	ADP	_	_	5	case	_	start_char=4918|end_char=4919
+5	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=4920|end_char=4925
+6	.	.	PUNCT	_	_	3	punct	_	start_char=4925|end_char=4926
+
+# text = — Ладно.
+# sent_id = 69
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=4928|end_char=4929
+2	Ладно	ладно	PART	_	_	0	root	_	start_char=4930|end_char=4935
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4935|end_char=4936
+
+# text = Хорошо!
+# sent_id = 70
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4937|end_char=4943
+2	!	!	PUNCT	_	_	1	punct	_	start_char=4943|end_char=4944
+
+# text = Я сдаюсь.
+# sent_id = 71
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=4945|end_char=4946
+2	сдаюсь	сдаваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4947|end_char=4953
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4953|end_char=4954
+
+# text = Активировать голосовой интерфейс!
+# sent_id = 72
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Активировать	активировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=4955|end_char=4967
+2	голосовой	голосовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=4968|end_char=4977
+3	интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=4978|end_char=4987
+4	!	!	PUNCT	_	_	1	punct	_	start_char=4987|end_char=4988
+
+# text = — ‎Голосовой интерфейс активирован, — пробормотала ТАРДИС голосом Мастера.
+# sent_id = 73
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	5	punct	_	start_char=4990|end_char=4991
+2	‎	‎	SYM	_	_	5	discourse	_	start_char=4992|end_char=4993
+3	Голосовой	голосовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=4993|end_char=5002
+4	интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=5003|end_char=5012
+5	активирован	активировать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=5013|end_char=5024
+6	,	,	PUNCT	_	_	8	punct	_	start_char=5024|end_char=5025
+7	—	—	PUNCT	_	_	8	punct	_	start_char=5026|end_char=5027
+8	пробормотала	пробормотать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=5028|end_char=5040
+9	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=5041|end_char=5047
+10	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	iobj	_	start_char=5048|end_char=5055
+11	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=5056|end_char=5063
+12	.	.	PUNCT	_	_	5	punct	_	start_char=5063|end_char=5064
+
+# text = Доктор открыл один глаз и присмотрелся к расплывчатой голограмме.
+# sent_id = 74
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=5065|end_char=5071
+2	открыл	открыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5072|end_char=5078
+3	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	4	nummod	_	start_char=5079|end_char=5083
+4	глаз	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=5084|end_char=5088
+5	и	и	CCONJ	_	_	6	cc	_	start_char=5089|end_char=5090
+6	присмотрелся	присмотреться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=5091|end_char=5103
+7	к	к	ADP	_	_	9	case	_	start_char=5104|end_char=5105
+8	расплывчатой	расплывчатый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=5106|end_char=5118
+9	голограмме	голограмма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	start_char=5119|end_char=5129
+10	.	.	PUNCT	_	_	2	punct	_	start_char=5129|end_char=5130
+
+# text = В его положении казалось, что это не Доктор висит вниз головой, а Мастер стоит на потолке.
+# sent_id = 75
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	В	в	ADP	_	_	3	case	_	start_char=5131|end_char=5132
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=5133|end_char=5136
+3	положении	положение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	start_char=5137|end_char=5146
+4	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5147|end_char=5155
+5	,	,	PUNCT	_	_	10	punct	_	start_char=5155|end_char=5156
+6	что	что	SCONJ	_	_	10	mark	_	start_char=5157|end_char=5160
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=5161|end_char=5164
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=5165|end_char=5167
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=5168|end_char=5174
+10	висит	висеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=5175|end_char=5180
+11	вниз	вниз	ADV	_	Degree=Pos	10	advmod	_	start_char=5181|end_char=5185
+12	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	start_char=5186|end_char=5193
+13	,	,	PUNCT	_	_	16	punct	_	start_char=5193|end_char=5194
+14	а	а	CCONJ	_	_	16	cc	_	start_char=5195|end_char=5196
+15	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=5197|end_char=5203
+16	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	start_char=5204|end_char=5209
+17	на	на	ADP	_	_	18	case	_	start_char=5210|end_char=5212
+18	потолке	потолок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	start_char=5213|end_char=5220
+19	.	.	PUNCT	_	_	4	punct	_	start_char=5220|end_char=5221
+
+# text = — Ты издеваешься?
+# sent_id = 76
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=5223|end_char=5224
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=5225|end_char=5227
+3	издеваешься	издеваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5228|end_char=5239
+4	?	?	PUNCT	_	_	3	punct	_	start_char=5239|end_char=5240
+
+# text = Вот что я тебе сделал?!
+# sent_id = 77
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=5241|end_char=5244
+2	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=5245|end_char=5248
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=5249|end_char=5250
+4	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	start_char=5251|end_char=5255
+5	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5256|end_char=5262
+6	?!	?!	PUNCT	_	_	5	punct	_	start_char=5262|end_char=5264
+
+# text = — в сердцах рявкнул Доктор на ТАРДИС.
+# sent_id = 78
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	4	punct	_	start_char=5265|end_char=5266
+2	в	в	ADP	_	_	3	case	_	start_char=5267|end_char=5268
+3	сердцах	сердце	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	obl	_	start_char=5269|end_char=5276
+4	рявкнул	рявкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5277|end_char=5284
+5	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=5285|end_char=5291
+6	на	на	ADP	_	_	7	case	_	start_char=5292|end_char=5294
+7	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	4	obl	_	start_char=5295|end_char=5301
+8	.	.	PUNCT	_	_	4	punct	_	start_char=5301|end_char=5302
+
+# text = Та спешно заменила вид интерфейса на недовольную Роману, потом на незнакомую девочку с черными волосами, ухмыляющегося Джека Харкнесса и наконец на юную Амелию Понд.
+# sent_id = 79
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	start_char=5303|end_char=5305
+2	спешно	спешно	ADV	_	Degree=Pos	3	advmod	_	start_char=5306|end_char=5312
+3	заменила	заменить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5313|end_char=5321
+4	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=5322|end_char=5325
+5	интерфейса	интерфейса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=5326|end_char=5336
+6	на	на	ADP	_	_	8	case	_	start_char=5337|end_char=5339
+7	недовольную	недовольный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=5340|end_char=5351
+8	Роману	Роман	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	3	obl	_	start_char=5352|end_char=5358
+9	,	,	PUNCT	_	_	13	punct	_	start_char=5358|end_char=5359
+10	потом	потом	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=5360|end_char=5365
+11	на	на	ADP	_	_	13	case	_	start_char=5366|end_char=5368
+12	незнакомую	незнакомый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=5369|end_char=5379
+13	девочку	девочка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	8	conj	_	start_char=5380|end_char=5387
+14	с	с	ADP	_	_	16	case	_	start_char=5388|end_char=5389
+15	черными	черный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	start_char=5390|end_char=5397
+16	волосами	волос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	nmod	_	start_char=5398|end_char=5406
+17	,	,	PUNCT	_	_	18	punct	_	start_char=5406|end_char=5407
+18	ухмыляющегося	ухмыляються	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	acl	_	start_char=5408|end_char=5421
+19	Джека	Джека	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	18	obj	_	start_char=5422|end_char=5427
+20	Харкнесса	Харкнесс	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	19	flat:name	_	start_char=5428|end_char=5437
+21	и	и	CCONJ	_	_	25	cc	_	start_char=5438|end_char=5439
+22	наконец	наконец	ADV	_	Degree=Pos	25	advmod	_	start_char=5440|end_char=5447
+23	на	на	ADP	_	_	25	case	_	start_char=5448|end_char=5450
+24	юную	юный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=5451|end_char=5455
+25	Амелию	Амелия	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	16	conj	_	start_char=5456|end_char=5462
+26	Понд	Понд	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	25	flat:name	_	start_char=5463|end_char=5467
+27	.	.	PUNCT	_	_	3	punct	_	start_char=5467|end_char=5468
+
+# text = — ‎Отлично.
+# sent_id = 80
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=5470|end_char=5471
+2	‎	‎	SYM	_	_	3	discourse	_	start_char=5472|end_char=5473
+3	Отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5473|end_char=5480
+4	.	.	PUNCT	_	_	3	punct	_	start_char=5480|end_char=5481
+
+# text = Вижу, ты готова к переговорам.
+# sent_id = 81
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=5482|end_char=5486
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5486|end_char=5487
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=5488|end_char=5490
+4	готова	готовый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=5491|end_char=5497
+5	к	к	ADP	_	_	6	case	_	start_char=5498|end_char=5499
+6	переговорам	переговор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obl	_	start_char=5500|end_char=5511
+7	.	.	PUNCT	_	_	4	punct	_	start_char=5511|end_char=5512
+
+# text = Короче, так...
+# sent_id = 82
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Короче	короче	ADV	_	Degree=Cmp	3	parataxis	_	start_char=5513|end_char=5519
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5519|end_char=5520
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=5521|end_char=5524
+4	...	...	PUNCT	_	_	3	punct	_	start_char=5524|end_char=5527
+
+# text = Решимость таяла с каждым мгновением, Доктор насупился и попросил как можно тише: — Вызови Ривер...
+# sent_id = 83
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Решимость	решимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=5529|end_char=5538
+2	таяла	таять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5539|end_char=5544
+3	с	с	ADP	_	_	5	case	_	start_char=5545|end_char=5546
+4	каждым	каждый	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	5	det	_	start_char=5547|end_char=5553
+5	мгновением	мгновение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	start_char=5554|end_char=5564
+6	,	,	PUNCT	_	_	8	punct	_	start_char=5564|end_char=5565
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=5566|end_char=5572
+8	насупился	насупиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=5573|end_char=5582
+9	и	и	CCONJ	_	_	10	cc	_	start_char=5583|end_char=5584
+10	попросил	попросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5585|end_char=5593
+11	как	как	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=5594|end_char=5597
+12	можно	можно	VERB	_	_	11	fixed	_	start_char=5598|end_char=5603
+13	тише	тиский	ADJ	_	Degree=Cmp	10	ccomp	_	start_char=5604|end_char=5608
+14	:	:	PUNCT	_	_	16	punct	_	start_char=5608|end_char=5609
+15	—	—	PUNCT	_	_	16	punct	_	start_char=5610|end_char=5611
+16	Вызови	вызовь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	parataxis	_	start_char=5612|end_char=5618
+17	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	16	appos	_	start_char=5619|end_char=5624
+18	...	...	PUNCT	_	_	2	punct	_	start_char=5624|end_char=5627
+
+# text = Голограмма не шевельнулась.
+# sent_id = 84
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Голограмма	голограмма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=5629|end_char=5639
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=5640|end_char=5642
+3	шевельнулась	шевельнуться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5643|end_char=5655
+4	.	.	PUNCT	_	_	3	punct	_	start_char=5655|end_char=5656
+
+# text = Пришлось откашляться и повторить: — Свяжись с Ривер Сонг.
+# sent_id = 85
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5657|end_char=5665
+2	откашляться	откашляться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	csubj	_	start_char=5666|end_char=5677
+3	и	и	CCONJ	_	_	4	cc	_	start_char=5678|end_char=5679
+4	повторить	повторить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	start_char=5680|end_char=5689
+5	:	:	PUNCT	_	_	7	punct	_	start_char=5689|end_char=5690
+6	—	—	PUNCT	_	_	7	punct	_	start_char=5692|end_char=5693
+7	Свяжись	связаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	parataxis	_	start_char=5694|end_char=5701
+8	с	с	ADP	_	_	9	case	_	start_char=5702|end_char=5703
+9	Ривер	Ривер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	7	obl	_	start_char=5704|end_char=5709
+10	Сонг	Сонг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	start_char=5710|end_char=5714
+11	.	.	PUNCT	_	_	1	punct	_	start_char=5714|end_char=5715
+
+# text = Отправь сообщение: "Ты не могла бы зайти на минутку?"
+# sent_id = 86
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Отправь	отправить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5716|end_char=5723
+2	сообщение	сообщение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	start_char=5724|end_char=5733
+3	:	:	PUNCT	_	_	7	punct	_	start_char=5733|end_char=5734
+4	"	"	PUNCT	_	_	7	punct	_	start_char=5735|end_char=5736
+5	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=5736|end_char=5738
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=5739|end_char=5741
+7	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=5742|end_char=5747
+8	бы	бы	AUX	_	Mood=Cnd	7	aux	_	start_char=5748|end_char=5750
+9	зайти	зайти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=5751|end_char=5756
+10	на	на	ADP	_	_	11	case	_	start_char=5757|end_char=5759
+11	минутку	минутка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	start_char=5760|end_char=5767
+12	?	?	PUNCT	_	_	7	punct	_	start_char=5767|end_char=5768
+13	"	"	PUNCT	_	_	7	punct	_	start_char=5768|end_char=5769
+
+# text = Едва договорив, Доктор поморщился и замахал руками.
+# sent_id = 87
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Едва	едва	ADV	_	Degree=Pos	2	advmod	_	start_char=5771|end_char=5775
+2	договорив	договорить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=5776|end_char=5785
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5785|end_char=5786
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5787|end_char=5793
+5	поморщился	поморщиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5794|end_char=5804
+6	и	и	CCONJ	_	_	7	cc	_	start_char=5805|end_char=5806
+7	замахал	замахать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5807|end_char=5814
+8	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	iobj	_	start_char=5815|end_char=5821
+9	.	.	PUNCT	_	_	5	punct	_	start_char=5821|end_char=5822
+
+# text = — Нет!
+# sent_id = 88
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=5824|end_char=5825
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=5826|end_char=5829
+3	!	!	PUNCT	_	_	2	punct	_	start_char=5829|end_char=5830
+
+# text = Забудь!
+# sent_id = 89
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Забудь	забыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5831|end_char=5837
+2	!	!	PUNCT	_	_	1	punct	_	start_char=5837|end_char=5838
+
+# text = Сотри это!
+# sent_id = 90
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Сотри	сотри	ADV	_	Degree=Pos	0	root	_	start_char=5839|end_char=5844
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=5845|end_char=5848
+3	!	!	PUNCT	_	_	1	punct	_	start_char=5848|end_char=5849
+
+# text = Лучше так: «Ты тут в ТАРДИС забыла...»
+# sent_id = 91
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Лучше	лучше	ADJ	_	Degree=Cmp	0	root	_	start_char=5850|end_char=5855
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	start_char=5856|end_char=5859
+3	:	:	PUNCT	_	_	9	punct	_	start_char=5859|end_char=5860
+4	«	«	PUNCT	_	_	9	punct	_	start_char=5861|end_char=5862
+5	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=5862|end_char=5864
+6	тут	тут	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=5865|end_char=5868
+7	в	в	ADP	_	_	8	case	_	start_char=5869|end_char=5870
+8	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	9	obl	_	start_char=5871|end_char=5877
+9	забыла	забыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=5878|end_char=5884
+10	...	...	PUNCT	_	_	9	punct	_	start_char=5884|end_char=5887
+11	»	»	PUNCT	_	_	9	punct	_	start_char=5887|end_char=5888
+
+# text = Эх, не то, всё не то.
+# sent_id = 92
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Эх	эх	INTJ	_	_	4	discourse	_	start_char=5889|end_char=5891
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5891|end_char=5892
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=5893|end_char=5895
+4	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=5896|end_char=5898
+5	,	,	PUNCT	_	_	8	punct	_	start_char=5898|end_char=5899
+6	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	8	nsubj	_	start_char=5900|end_char=5903
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=5904|end_char=5906
+8	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	conj	_	start_char=5907|end_char=5909
+9	.	.	PUNCT	_	_	4	punct	_	start_char=5909|end_char=5910
+
+# text = А если она занята?
+# sent_id = 93
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	А	а	CCONJ	_	_	4	cc	_	start_char=5911|end_char=5912
+2	если	если	SCONJ	_	_	4	mark	_	start_char=5913|end_char=5917
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=5918|end_char=5921
+4	занята	занять	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=5922|end_char=5928
+5	?	?	PUNCT	_	_	4	punct	_	start_char=5928|end_char=5929
+
+# text = Или злится.
+# sent_id = 94
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Или	или	CCONJ	_	_	2	cc	_	start_char=5930|end_char=5933
+2	злится	злиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5934|end_char=5940
+3	.	.	PUNCT	_	_	2	punct	_	start_char=5940|end_char=5941
+
+# text = А на что она может злиться?
+# sent_id = 95
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	А	а	CCONJ	_	_	5	cc	_	start_char=5942|end_char=5943
+2	на	на	ADP	_	_	3	case	_	start_char=5944|end_char=5946
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	obl	_	start_char=5947|end_char=5950
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=5951|end_char=5954
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5955|end_char=5960
+6	злиться	злиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=5961|end_char=5968
+7	?	?	PUNCT	_	_	5	punct	_	start_char=5968|end_char=5969
+
+# text = «На всё, что угодно», — подсказал внутренний голос.
+# sent_id = 96
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	«	«	PUNCT	_	_	3	punct	_	start_char=5971|end_char=5972
+2	На	на	ADP	_	_	3	case	_	start_char=5972|end_char=5974
+3	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	10	obl	_	start_char=5975|end_char=5978
+4	,	,	PUNCT	_	_	6	punct	_	start_char=5978|end_char=5979
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	6	nsubj	_	start_char=5980|end_char=5983
+6	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	acl:relcl	_	start_char=5984|end_char=5990
+7	»	»	PUNCT	_	_	3	punct	_	start_char=5990|end_char=5991
+8	,	,	PUNCT	_	_	3	punct	_	start_char=5991|end_char=5992
+9	—	—	PUNCT	_	_	10	punct	_	start_char=5993|end_char=5994
+10	подсказал	подсказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5995|end_char=6004
+11	внутренний	внутренний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=6005|end_char=6015
+12	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=6016|end_char=6021
+13	.	.	PUNCT	_	_	10	punct	_	start_char=6021|end_char=6022
+
+# text = Легче от этого не стало.
+# sent_id = 97
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Легче	легче	ADV	_	Degree=Cmp	5	advmod	_	start_char=6023|end_char=6028
+2	от	от	ADP	_	_	3	case	_	start_char=6029|end_char=6031
+3	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=6032|end_char=6037
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=6038|end_char=6040
+5	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6041|end_char=6046
+6	.	.	PUNCT	_	_	5	punct	_	start_char=6046|end_char=6047
+
+# text = Оставалось признать, что без прямой просьбы о помощи не обойтись.
+# sent_id = 98
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Оставалось	оставаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6049|end_char=6059
+2	признать	признать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=6060|end_char=6068
+3	,	,	PUNCT	_	_	11	punct	_	start_char=6068|end_char=6069
+4	что	что	SCONJ	_	_	11	mark	_	start_char=6070|end_char=6073
+5	без	без	ADP	_	_	7	case	_	start_char=6074|end_char=6077
+6	прямой	прямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=6078|end_char=6084
+7	просьбы	просьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=6085|end_char=6092
+8	о	о	ADP	_	_	9	case	_	start_char=6093|end_char=6094
+9	помощи	помощь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	start_char=6095|end_char=6101
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=6102|end_char=6104
+11	обойтись	обойтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Fin|Voice=Mid	2	ccomp	_	start_char=6105|end_char=6113
+12	.	.	PUNCT	_	_	1	punct	_	start_char=6113|end_char=6114
+
+# text = — «Ривер, мне нужна помощь.
+# sent_id = 99
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	6	punct	_	start_char=6116|end_char=6117
+2	«	«	PUNCT	_	_	3	punct	_	start_char=6118|end_char=6119
+3	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	nsubj	_	start_char=6119|end_char=6124
+4	,	,	PUNCT	_	_	6	punct	_	start_char=6124|end_char=6125
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	start_char=6126|end_char=6129
+6	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=6130|end_char=6135
+7	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=6136|end_char=6142
+8	.	.	PUNCT	_	_	6	punct	_	start_char=6142|end_char=6143
+
+# text = Срочно», — продиктовал он суровым голосом и поджал губы.
+# sent_id = 100
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Срочно	срочно	ADV	_	Degree=Pos	0	root	_	start_char=6144|end_char=6150
+2	»	»	PUNCT	_	_	1	punct	_	start_char=6150|end_char=6151
+3	,	,	PUNCT	_	_	5	punct	_	start_char=6151|end_char=6152
+4	—	—	PUNCT	_	_	5	punct	_	start_char=6153|end_char=6154
+5	продиктовал	продиктовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=6155|end_char=6166
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=6167|end_char=6169
+7	суровым	суровый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=6170|end_char=6177
+8	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	iobj	_	start_char=6178|end_char=6185
+9	и	и	CCONJ	_	_	10	cc	_	start_char=6186|end_char=6187
+10	поджал	поджать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=6188|end_char=6194
+11	губы	губа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	start_char=6195|end_char=6199
+12	.	.	PUNCT	_	_	1	punct	_	start_char=6199|end_char=6200
+
+# text = Перевернутое изображение Амелии мигнуло.
+# sent_id = 101
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Перевернутое	перевернутый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=6201|end_char=6213
+2	изображение	изображение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=6214|end_char=6225
+3	Амелии	Амелия	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	2	nmod	_	start_char=6226|end_char=6232
+4	мигнуло	мигнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6233|end_char=6240
+5	.	.	PUNCT	_	_	4	punct	_	start_char=6240|end_char=6241
+
+# text = — ‎Сообщение отправлено.
+# sent_id = 102
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	4	punct	_	start_char=6243|end_char=6244
+2	‎	‎	SYM	_	_	4	discourse	_	start_char=6245|end_char=6246
+3	Сообщение	сообщение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	start_char=6246|end_char=6255
+4	отправлено	отправить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=6256|end_char=6266
+5	.	.	PUNCT	_	_	4	punct	_	start_char=6266|end_char=6267
+
+# text = Доктор вздохнул и приготовился коротать часы в одиночестве.
+# sent_id = 103
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6269|end_char=6275
+2	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6276|end_char=6284
+3	и	и	CCONJ	_	_	4	cc	_	start_char=6285|end_char=6286
+4	приготовился	приготовиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6287|end_char=6299
+5	коротать	коротать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=6300|end_char=6308
+6	часы	часы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=6309|end_char=6313
+7	в	в	ADP	_	_	8	case	_	start_char=6314|end_char=6315
+8	одиночестве	одиночество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=6316|end_char=6327
+9	.	.	PUNCT	_	_	2	punct	_	start_char=6327|end_char=6328
+
+# text = Но долго ждать не пришлось.
+# sent_id = 104
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=6329|end_char=6331
+2	долго	долго	ADV	_	Degree=Pos	3	advmod	_	start_char=6332|end_char=6337
+3	ждать	ждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=6338|end_char=6343
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=6344|end_char=6346
+5	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6347|end_char=6355
+6	.	.	PUNCT	_	_	5	punct	_	start_char=6355|end_char=6356
+
+# text = Через минуту в консольной что-то сверкнуло, и Доктор не без удовлетворения услышал, как по полу застучали каблучки.
+# sent_id = 105
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Через	через	ADP	_	_	2	case	_	start_char=6357|end_char=6362
+2	минуту	минута	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=6363|end_char=6369
+3	в	в	ADP	_	_	4	case	_	start_char=6370|end_char=6371
+4	консольной	консольный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	obl	_	start_char=6372|end_char=6382
+5	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	start_char=6383|end_char=6389
+6	сверкнуло	сверкнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6390|end_char=6399
+7	,	,	PUNCT	_	_	13	punct	_	start_char=6399|end_char=6400
+8	и	и	CCONJ	_	_	13	cc	_	start_char=6401|end_char=6402
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=6403|end_char=6409
+10	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=6410|end_char=6412
+11	без	без	ADP	_	_	12	case	_	start_char=6413|end_char=6416
+12	удовлетворения	удовлетворение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	start_char=6417|end_char=6431
+13	услышал	услышать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=6432|end_char=6439
+14	,	,	PUNCT	_	_	18	punct	_	start_char=6439|end_char=6440
+15	как	как	SCONJ	_	_	18	mark	_	start_char=6441|end_char=6444
+16	по	по	ADP	_	_	17	case	_	start_char=6445|end_char=6447
+17	полу	пол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	18	obl	_	start_char=6448|end_char=6452
+18	застучали	застучать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	start_char=6453|end_char=6462
+19	каблучки	каблучка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	start_char=6463|end_char=6471
+20	.	.	PUNCT	_	_	6	punct	_	start_char=6471|end_char=6472
+
+# text = — Значит, когда тебе нужна помощь, я должна срываться в какую-то малоизвестную галактику?
+# sent_id = 106
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	10	punct	_	start_char=6474|end_char=6475
+2	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=6476|end_char=6482
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6482|end_char=6483
+4	когда	когда	SCONJ	_	_	6	mark	_	start_char=6484|end_char=6489
+5	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	iobj	_	start_char=6490|end_char=6494
+6	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	10	advcl	_	start_char=6495|end_char=6500
+7	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=6501|end_char=6507
+8	,	,	PUNCT	_	_	6	punct	_	start_char=6507|end_char=6508
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=6509|end_char=6510
+10	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=6511|end_char=6517
+11	срываться	срываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	xcomp	_	start_char=6518|end_char=6527
+12	в	в	ADP	_	_	15	case	_	start_char=6528|end_char=6529
+13	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	start_char=6530|end_char=6538
+14	малоизвестную	малоизвестный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=6539|end_char=6552
+15	галактику	галактика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	start_char=6553|end_char=6562
+16	?	?	PUNCT	_	_	10	punct	_	start_char=6562|end_char=6563
+
+# text = А когда я звоню тебе три часа, и помощь нужна мне, то...
+# sent_id = 107
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	А	а	CCONJ	_	_	4	cc	_	start_char=6564|end_char=6565
+2	когда	когда	SCONJ	_	_	4	mark	_	start_char=6566|end_char=6571
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6572|end_char=6573
+4	звоню	звонить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6574|end_char=6579
+5	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	start_char=6580|end_char=6584
+6	три	три	NUM	_	Animacy=Inan|Case=Acc|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=6585|end_char=6588
+7	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=6589|end_char=6593
+8	,	,	PUNCT	_	_	11	punct	_	start_char=6593|end_char=6594
+9	и	и	CCONJ	_	_	11	cc	_	start_char=6595|end_char=6596
+10	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=6597|end_char=6603
+11	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	conj	_	start_char=6604|end_char=6609
+12	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	iobj	_	start_char=6610|end_char=6613
+13	,	,	PUNCT	_	_	4	punct	_	start_char=6613|end_char=6614
+14	то	то	SCONJ	_	_	11	mark	_	start_char=6615|end_char=6617
+15	...	...	PUNCT	_	_	4	punct	_	start_char=6617|end_char=6620
+
+# text = — Ривер разразилась гневной, по-видимому, заранее подготовленной тирадой, но тут же замолчала, не обнаружив Доктора в поле зрения.
+# sent_id = 108
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=6621|end_char=6622
+2	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	3	nsubj	_	start_char=6623|end_char=6628
+3	разразилась	разразиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6629|end_char=6640
+4	гневной	гневной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=6641|end_char=6648
+5	,	,	PUNCT	_	_	6	punct	_	start_char=6648|end_char=6649
+6	по-видимому	по-видимому	ADV	_	Degree=Pos	9	parataxis	_	start_char=6650|end_char=6661
+7	,	,	PUNCT	_	_	6	punct	_	start_char=6661|end_char=6662
+8	заранее	заранее	ADV	_	Degree=Pos	9	advmod	_	start_char=6663|end_char=6670
+9	подготовленной	подготовить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	start_char=6671|end_char=6685
+10	тирадой	тирада	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	start_char=6686|end_char=6693
+11	,	,	PUNCT	_	_	15	punct	_	start_char=6693|end_char=6694
+12	но	но	CCONJ	_	_	15	cc	_	start_char=6695|end_char=6697
+13	тут	тут	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=6698|end_char=6701
+14	же	же	PART	_	_	13	advmod	_	start_char=6702|end_char=6704
+15	замолчала	замолчать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=6705|end_char=6714
+16	,	,	PUNCT	_	_	18	punct	_	start_char=6714|end_char=6715
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=6716|end_char=6718
+18	обнаружив	обнаружить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	15	advcl	_	start_char=6719|end_char=6728
+19	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	start_char=6729|end_char=6736
+20	в	в	ADP	_	_	21	case	_	start_char=6737|end_char=6738
+21	поле	поле	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	start_char=6739|end_char=6743
+22	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	start_char=6744|end_char=6750
+23	.	.	PUNCT	_	_	3	punct	_	start_char=6750|end_char=6751
+
+# text = — ‎Сладкий?
+# sent_id = 109
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=6753|end_char=6754
+2	‎	‎	SYM	_	_	3	discourse	_	start_char=6755|end_char=6756
+3	Сладкий	сладкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=6756|end_char=6763
+4	?	?	PUNCT	_	_	3	punct	_	start_char=6763|end_char=6764
+
+# text = - Голос Ривер приобрел налет тревожности.
+# sent_id = 110
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	-	-	PUNCT	_	_	4	punct	_	start_char=6765|end_char=6766
+2	Голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=6767|end_char=6772
+3	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	2	appos	_	start_char=6773|end_char=6778
+4	приобрел	приобрести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6779|end_char=6787
+5	налет	налет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=6788|end_char=6793
+6	тревожности	тревожность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=6794|end_char=6805
+7	.	.	PUNCT	_	_	4	punct	_	start_char=6805|end_char=6806
+
+# text = Явно удовлетворенный ее беспокойством, Доктор позволил себе улыбнуться и поправить бабочку.
+# sent_id = 111
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Явно	явный	ADV	_	Degree=Pos	2	advmod	_	start_char=6807|end_char=6811
+2	удовлетворенный	удовлетворить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	start_char=6812|end_char=6827
+3	ее	ее	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=6828|end_char=6830
+4	беспокойством	беспокойство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	start_char=6831|end_char=6844
+5	,	,	PUNCT	_	_	2	punct	_	start_char=6844|end_char=6845
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=6846|end_char=6852
+7	позволил	позволить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6853|end_char=6861
+8	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	7	iobj	_	start_char=6862|end_char=6866
+9	улыбнуться	улыбнуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=6867|end_char=6877
+10	и	и	CCONJ	_	_	11	cc	_	start_char=6878|end_char=6879
+11	поправить	поправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	conj	_	start_char=6880|end_char=6889
+12	бабочку	бабочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=6890|end_char=6897
+13	.	.	PUNCT	_	_	7	punct	_	start_char=6897|end_char=6898
+
+# text = Ну хоть какие-то радости в жизни перед большим позором.
+# sent_id = 112
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Ну	ну	PART	_	_	4	discourse	_	start_char=6899|end_char=6901
+2	хоть	хоть	PART	_	_	3	advmod	_	start_char=6902|end_char=6906
+3	какие-то	какой-то	DET	_	Case=Nom|Number=Plur|PronType=Ind	4	det	_	start_char=6907|end_char=6915
+4	радости	радость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=6916|end_char=6923
+5	в	в	ADP	_	_	6	case	_	start_char=6924|end_char=6925
+6	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	start_char=6926|end_char=6931
+7	перед	перед	ADP	_	_	9	case	_	start_char=6932|end_char=6937
+8	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=6938|end_char=6945
+9	позором	позор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	start_char=6946|end_char=6953
+10	.	.	PUNCT	_	_	4	punct	_	start_char=6953|end_char=6954
+
+# text = — ‎Я здесь, — стараясь убрать из голоса страдание и добавить побольше самоотверженности, отозвался Доктор.
+# sent_id = 113
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	16	punct	_	start_char=6956|end_char=6957
+2	‎Я	‎я	INTJ	_	_	16	discourse	_	start_char=6958|end_char=6960
+3	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=6961|end_char=6966
+4	,	,	PUNCT	_	_	6	punct	_	start_char=6966|end_char=6967
+5	—	—	PUNCT	_	_	6	punct	_	start_char=6968|end_char=6969
+6	стараясь	стараться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	16	advcl	_	start_char=6970|end_char=6978
+7	убрать	убрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=6979|end_char=6985
+8	из	из	ADP	_	_	9	case	_	start_char=6986|end_char=6988
+9	голоса	голос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=6989|end_char=6995
+10	страдание	страдание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=6996|end_char=7005
+11	и	и	CCONJ	_	_	12	cc	_	start_char=7006|end_char=7007
+12	добавить	добавить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	start_char=7008|end_char=7016
+13	побольше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	14	nummod:gov	_	start_char=7017|end_char=7025
+14	самоотверженности	самоотверженность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obj	_	start_char=7026|end_char=7043
+15	,	,	PUNCT	_	_	6	punct	_	start_char=7043|end_char=7044
+16	отозвался	отозваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7045|end_char=7054
+17	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=7055|end_char=7061
+18	.	.	PUNCT	_	_	16	punct	_	start_char=7061|end_char=7062
+
+# text = Каблучки застучали по лестнице.
+# sent_id = 114
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Каблучки	каблучка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	start_char=7064|end_char=7072
+2	застучали	застучать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7073|end_char=7082
+3	по	по	ADP	_	_	4	case	_	start_char=7083|end_char=7085
+4	лестнице	лестница	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	obl	_	start_char=7086|end_char=7094
+5	.	.	PUNCT	_	_	2	punct	_	start_char=7094|end_char=7095
+
+# text = Доктор вздохнул, представляя, как наверное ощущали себя прокаженные, выставленные из дома и бредущие мимо толпы надсмехающихся зевак.
+# sent_id = 115
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=7096|end_char=7102
+2	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7103|end_char=7111
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7111|end_char=7112
+4	представляя	представлять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=7113|end_char=7124
+5	,	,	PUNCT	_	_	8	punct	_	start_char=7124|end_char=7125
+6	как	как	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=7126|end_char=7129
+7	наверное	наверное	ADV	_	Degree=Pos	8	advmod	_	start_char=7130|end_char=7138
+8	ощущали	ощущать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=7139|end_char=7146
+9	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	obj	_	start_char=7147|end_char=7151
+10	прокаженные	прокаженный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	nsubj	_	start_char=7152|end_char=7163
+11	,	,	PUNCT	_	_	12	punct	_	start_char=7163|end_char=7164
+12	выставленные	выставить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	conj	_	start_char=7165|end_char=7177
+13	из	из	ADP	_	_	14	case	_	start_char=7178|end_char=7180
+14	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	start_char=7181|end_char=7185
+15	и	и	CCONJ	_	_	16	cc	_	start_char=7186|end_char=7187
+16	бредущие	брести	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	start_char=7188|end_char=7196
+17	мимо	мимо	ADP	_	_	18	case	_	start_char=7197|end_char=7201
+18	толпы	толпа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	start_char=7202|end_char=7207
+19	надсмехающихся	надсмехаться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	start_char=7208|end_char=7222
+20	зевак	зевака	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	12	obj	_	start_char=7223|end_char=7228
+21	.	.	PUNCT	_	_	2	punct	_	start_char=7228|end_char=7229
+
+# text = Ривер показалась перед ним в элегантном черном платье, но почему-то с разорванным подолом, смело обнажавшим ее правое бедро.
+# sent_id = 116
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	2	nsubj	_	start_char=7231|end_char=7236
+2	показалась	показаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7237|end_char=7247
+3	перед	перед	ADP	_	_	4	case	_	start_char=7248|end_char=7253
+4	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=7254|end_char=7257
+5	в	в	ADP	_	_	8	case	_	start_char=7258|end_char=7259
+6	элегантном	элегантный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=7260|end_char=7270
+7	черном	черный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=7271|end_char=7277
+8	платье	платье	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	start_char=7278|end_char=7284
+9	,	,	PUNCT	_	_	14	punct	_	start_char=7284|end_char=7285
+10	но	но	CCONJ	_	_	14	cc	_	start_char=7286|end_char=7288
+11	почему-то	почему-то	ADV	_	Degree=Pos|PronType=Ind	14	advmod	_	start_char=7289|end_char=7298
+12	с	с	ADP	_	_	14	case	_	start_char=7299|end_char=7300
+13	разорванным	разорвать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	start_char=7301|end_char=7312
+14	подолом	подол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	conj	_	start_char=7313|end_char=7320
+15	,	,	PUNCT	_	_	17	punct	_	start_char=7320|end_char=7321
+16	смело	смело	ADV	_	Degree=Pos	17	advmod	_	start_char=7322|end_char=7327
+17	обнажавшим	обнажать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	acl	_	start_char=7328|end_char=7338
+18	ее	ее	DET	_	Poss=Yes|PronType=Prs	20	det	_	start_char=7339|end_char=7341
+19	правое	правый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	start_char=7342|end_char=7348
+20	бедро	бедро	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	start_char=7349|end_char=7354
+21	.	.	PUNCT	_	_	2	punct	_	start_char=7354|end_char=7355
+
+# text = Пару неловких секунд
+# sent_id = 117
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=7356|end_char=7360
+2	неловких	неловкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	start_char=7361|end_char=7369
+3	секунд	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	start_char=7370|end_char=7376
+
+# text = Доктор размышлял, куда лучше смотреть, и не без сожаления выбрал лицо.
+# sent_id = 118
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=7377|end_char=7383
+2	размышлял	размышлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7384|end_char=7393
+3	,	,	PUNCT	_	_	5	punct	_	start_char=7393|end_char=7394
+4	куда	куда	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=7395|end_char=7399
+5	лучше	хороший	ADJ	_	Degree=Cmp	2	ccomp	_	start_char=7400|end_char=7405
+6	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=7406|end_char=7414
+7	,	,	PUNCT	_	_	12	punct	_	start_char=7414|end_char=7415
+8	и	и	CCONJ	_	_	12	cc	_	start_char=7416|end_char=7417
+9	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=7418|end_char=7420
+10	без	без	ADP	_	_	11	case	_	start_char=7421|end_char=7424
+11	сожаления	сожаление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	start_char=7425|end_char=7434
+12	выбрал	выбрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=7435|end_char=7441
+13	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	start_char=7442|end_char=7446
+14	.	.	PUNCT	_	_	2	punct	_	start_char=7446|end_char=7447
+
+# text = ‎ А на лице Ривер сияла улыбка победителя.
+# sent_id = 119
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	6	discourse	_	start_char=7448|end_char=7449
+2	А	а	CCONJ	_	_	6	cc	_	start_char=7450|end_char=7451
+3	на	на	ADP	_	_	4	case	_	start_char=7452|end_char=7454
+4	лице	лицо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=7455|end_char=7459
+5	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	nsubj	_	start_char=7460|end_char=7465
+6	сияла	сиять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7466|end_char=7471
+7	улыбка	улыбка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=7472|end_char=7478
+8	победителя	победитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=7479|end_char=7489
+9	.	.	PUNCT	_	_	6	punct	_	start_char=7489|end_char=7490
+
+# text = — Она всё-таки провернула это!
+# sent_id = 120
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	4	punct	_	start_char=7492|end_char=7493
+2	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=7494|end_char=7497
+3	всё-таки	все-таки	ADV	_	Degree=Pos	4	advmod	_	start_char=7498|end_char=7506
+4	провернула	провернуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7507|end_char=7517
+5	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	start_char=7518|end_char=7521
+6	!	!	PUNCT	_	_	4	punct	_	start_char=7521|end_char=7522
+
+# text = Умница!
+# sent_id = 121
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Умница	умница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=7523|end_char=7529
+2	!	!	PUNCT	_	_	1	punct	_	start_char=7529|end_char=7530
+
+# text = Ривер любовно погладила свисающие с потолка кабели.
+# sent_id = 122
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	3	nsubj	_	start_char=7532|end_char=7537
+2	любовно	любовно	ADV	_	Degree=Pos	3	advmod	_	start_char=7538|end_char=7545
+3	погладила	погладить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7546|end_char=7555
+4	свисающие	свисать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	start_char=7556|end_char=7565
+5	с	с	ADP	_	_	6	case	_	start_char=7566|end_char=7567
+6	потолка	потолка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=7568|end_char=7575
+7	кабели	кабель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	start_char=7576|end_char=7582
+8	.	.	PUNCT	_	_	3	punct	_	start_char=7582|end_char=7583
+
+# text = ТАРДИС отозвалась довольным мурлыканьем.
+# sent_id = 123
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=7584|end_char=7590
+2	отозвалась	отозваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7591|end_char=7601
+3	довольным	довольный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=7602|end_char=7611
+4	мурлыканьем	мурлыканье	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=7612|end_char=7623
+5	.	.	PUNCT	_	_	2	punct	_	start_char=7623|end_char=7624
+
+# text = А это уже было обидно.
+# sent_id = 124
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	А	а	CCONJ	_	_	5	cc	_	start_char=7626|end_char=7627
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=7628|end_char=7631
+3	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=7632|end_char=7635
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=7636|end_char=7640
+5	обидно	обидный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=7641|end_char=7647
+6	.	.	PUNCT	_	_	5	punct	_	start_char=7647|end_char=7648
+
+# text = Доктор дернулся, грозя консоли пальцем, и в очередной раз приложился о колонну головой.
+# sent_id = 125
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=7650|end_char=7656
+2	дернулся	дернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7657|end_char=7665
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7665|end_char=7666
+4	грозя	грозить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=7667|end_char=7672
+5	консоли	консоль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=7673|end_char=7680
+6	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	iobj	_	start_char=7681|end_char=7688
+7	,	,	PUNCT	_	_	12	punct	_	start_char=7688|end_char=7689
+8	и	и	CCONJ	_	_	12	cc	_	start_char=7690|end_char=7691
+9	в	в	ADP	_	_	11	case	_	start_char=7692|end_char=7693
+10	очередной	очередной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=7694|end_char=7703
+11	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	start_char=7704|end_char=7707
+12	приложился	приложиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=7708|end_char=7718
+13	о	о	ADP	_	_	14	case	_	start_char=7719|end_char=7720
+14	колонну	колонна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	start_char=7721|end_char=7728
+15	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	start_char=7729|end_char=7736
+16	.	.	PUNCT	_	_	2	punct	_	start_char=7736|end_char=7737
+
+# text = Из глаз посыпались искры, он принялся спешно моргать, потирая ушибленный затылок двумя руками, благо обе были свободны.
+# sent_id = 126
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Из	из	ADP	_	_	2	case	_	start_char=7738|end_char=7740
+2	глаз	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	start_char=7741|end_char=7745
+3	посыпались	посыпаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7746|end_char=7756
+4	искры	искра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=7757|end_char=7762
+5	,	,	PUNCT	_	_	7	punct	_	start_char=7762|end_char=7763
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=7764|end_char=7766
+7	принялся	приняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=7767|end_char=7775
+8	спешно	спешно	ADV	_	Degree=Pos	9	advmod	_	start_char=7776|end_char=7782
+9	моргать	моргать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=7783|end_char=7790
+10	,	,	PUNCT	_	_	11	punct	_	start_char=7790|end_char=7791
+11	потирая	потирать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=7792|end_char=7799
+12	ушибленный	ушибить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	start_char=7800|end_char=7810
+13	затылок	затылок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=7811|end_char=7818
+14	двумя	два	NUM	_	Case=Ins|NumForm=Word|NumType=Card	15	nummod	_	start_char=7819|end_char=7824
+15	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	iobj	_	start_char=7825|end_char=7831
+16	,	,	PUNCT	_	_	20	punct	_	start_char=7831|end_char=7832
+17	благо	благо	SCONJ	_	_	20	mark	_	start_char=7833|end_char=7838
+18	обе	оба	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Sets	20	nsubj	_	start_char=7839|end_char=7842
+19	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	_	start_char=7843|end_char=7847
+20	свободны	свободный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	11	advcl	_	start_char=7848|end_char=7856
+21	.	.	PUNCT	_	_	3	punct	_	start_char=7856|end_char=7857
+
+# text = Зато, когда ему удалось окончательно прийти в себя, победоносное выражение на лице
+# sent_id = 127
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Зато	зато	CCONJ	_	_	12	cc	_	start_char=7859|end_char=7863
+2	,	,	PUNCT	_	_	5	punct	_	start_char=7863|end_char=7864
+3	когда	когда	SCONJ	_	_	5	mark	_	start_char=7865|end_char=7870
+4	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	start_char=7871|end_char=7874
+5	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	advcl	_	start_char=7875|end_char=7882
+6	окончательно	окончательно	ADV	_	Degree=Pos	7	advmod	_	start_char=7883|end_char=7895
+7	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=7896|end_char=7902
+8	в	в	ADP	_	_	9	case	_	start_char=7903|end_char=7904
+9	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obl	_	start_char=7905|end_char=7909
+10	,	,	PUNCT	_	_	5	punct	_	start_char=7909|end_char=7910
+11	победоносное	победоносный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=7911|end_char=7923
+12	выражение	выражение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=7924|end_char=7933
+13	на	на	ADP	_	_	14	case	_	start_char=7934|end_char=7936
+14	лице	лицо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	start_char=7937|end_char=7941
+
+# text = Ривер уже сменилось на обеспокоенное.
+# sent_id = 128
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	3	nsubj	_	start_char=7942|end_char=7947
+2	уже	уже	ADV	_	Degree=Pos	3	advmod	_	start_char=7948|end_char=7951
+3	сменилось	смениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7952|end_char=7961
+4	на	на	ADP	_	_	5	case	_	start_char=7962|end_char=7964
+5	обеспокоенное	обеспокоить	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	obl	_	start_char=7965|end_char=7978
+6	.	.	PUNCT	_	_	3	punct	_	start_char=7978|end_char=7979
+
+# text = Она спешно распутывала его ноги, ругаясь на малознакомом ему языке.
+# sent_id = 129
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=7980|end_char=7983
+2	спешно	спешно	ADV	_	Degree=Pos	3	advmod	_	start_char=7984|end_char=7990
+3	распутывала	распутывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7991|end_char=8002
+4	его	его	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=8003|end_char=8006
+5	ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	start_char=8007|end_char=8011
+6	,	,	PUNCT	_	_	7	punct	_	start_char=8011|end_char=8012
+7	ругаясь	ругаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	3	advcl	_	start_char=8013|end_char=8020
+8	на	на	ADP	_	_	10	case	_	start_char=8021|end_char=8023
+9	малознакомом	малознакомый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=8024|end_char=8036
+10	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=8037|end_char=8040
+11	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obj	_	start_char=8041|end_char=8046
+12	.	.	PUNCT	_	_	3	punct	_	start_char=8046|end_char=8047
+
+# text = ‎ Но не смеялась.
+# sent_id = 130
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	4	discourse	_	start_char=8048|end_char=8049
+2	Но	но	CCONJ	_	_	4	cc	_	start_char=8050|end_char=8052
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=8053|end_char=8055
+4	смеялась	смеяться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=8056|end_char=8064
+5	.	.	PUNCT	_	_	4	punct	_	start_char=8064|end_char=8065
+
+# text = Доктор довольно улыбнулся и пропустил мимо ушей просьбу ухватиться за что-нибудь.
+# sent_id = 131
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=8067|end_char=8073
+2	довольно	довольно	ADV	_	Degree=Pos	3	advmod	_	start_char=8074|end_char=8082
+3	улыбнулся	улыбнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=8083|end_char=8092
+4	и	и	CCONJ	_	_	5	cc	_	start_char=8093|end_char=8094
+5	пропустил	пропустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=8095|end_char=8104
+6	мимо	мимо	ADP	_	_	7	case	_	start_char=8105|end_char=8109
+7	ушей	ухо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	obl	_	start_char=8110|end_char=8114
+8	просьбу	просьба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=8115|end_char=8122
+9	ухватиться	ухватиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=8123|end_char=8133
+10	за	за	ADP	_	_	11	case	_	start_char=8134|end_char=8136
+11	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	9	obl	_	start_char=8137|end_char=8147
+12	.	.	PUNCT	_	_	3	punct	_	start_char=8147|end_char=8148
+
+# text = В конечном счете ухватиться он успел.
+# sent_id = 132
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	В	в	ADP	_	_	3	case	_	start_char=8149|end_char=8150
+2	конечном	конечный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=8151|end_char=8159
+3	счете	счет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	start_char=8160|end_char=8165
+4	ухватиться	ухватиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	xcomp	_	start_char=8166|end_char=8176
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=8177|end_char=8179
+6	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8180|end_char=8185
+7	.	.	PUNCT	_	_	6	punct	_	start_char=8185|end_char=8186
+
+# text = Но уже в полете и за первое, что попалось под руку.
+# sent_id = 133
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=8187|end_char=8189
+2	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=8190|end_char=8193
+3	в	в	ADP	_	_	4	case	_	start_char=8194|end_char=8195
+4	полете	полет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=8196|end_char=8202
+5	и	и	CCONJ	_	_	7	cc	_	start_char=8203|end_char=8204
+6	за	за	ADP	_	_	7	case	_	start_char=8205|end_char=8207
+7	первое	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	4	conj	_	start_char=8208|end_char=8214
+8	,	,	PUNCT	_	_	10	punct	_	start_char=8214|end_char=8215
+9	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	nsubj	_	start_char=8216|end_char=8219
+10	попалось	попасться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	start_char=8220|end_char=8228
+11	под	под	ADP	_	_	12	case	_	start_char=8229|end_char=8232
+12	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	start_char=8233|end_char=8237
+13	.	.	PUNCT	_	_	4	punct	_	start_char=8237|end_char=8238
+
+# text = А под руку попалась жена.
+# sent_id = 134
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	А	а	CCONJ	_	_	4	cc	_	start_char=8239|end_char=8240
+2	под	под	ADP	_	_	3	case	_	start_char=8241|end_char=8244
+3	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=8245|end_char=8249
+4	попалась	попасться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=8250|end_char=8258
+5	жена	жена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=8259|end_char=8263
+6	.	.	PUNCT	_	_	4	punct	_	start_char=8263|end_char=8264
+
+# text = Так что на пол они рухнули вместе: Доктор первый, Ривер на него.
+# sent_id = 135
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	6	mark	_	start_char=8265|end_char=8268
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=8269|end_char=8272
+3	на	на	ADP	_	_	4	case	_	start_char=8273|end_char=8275
+4	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=8276|end_char=8279
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=8280|end_char=8283
+6	рухнули	рухнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8284|end_char=8291
+7	вместе	вместе	ADV	_	Degree=Pos	6	advmod	_	start_char=8292|end_char=8298
+8	:	:	PUNCT	_	_	10	punct	_	start_char=8298|end_char=8299
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=8300|end_char=8306
+10	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	6	parataxis	_	start_char=8307|end_char=8313
+11	,	,	PUNCT	_	_	12	punct	_	start_char=8313|end_char=8314
+12	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	10	conj	_	start_char=8315|end_char=8320
+13	на	на	ADP	_	_	14	case	_	start_char=8321|end_char=8323
+14	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	conj	_	start_char=8324|end_char=8328
+15	.	.	PUNCT	_	_	6	punct	_	start_char=8328|end_char=8329
+
+# text = ‎ Хоть Доктор и успел сгруппироваться в полете, оказавшись на полу, всё равно взвыл от боли...
+# sent_id = 136
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	‎	‎	SYM	_	_	16	discourse	_	start_char=8330|end_char=8331
+2	Хоть	хоть	SCONJ	_	_	5	mark	_	start_char=8332|end_char=8336
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=8337|end_char=8343
+4	и	и	CCONJ	_	_	5	cc	_	start_char=8344|end_char=8345
+5	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=8346|end_char=8351
+6	сгруппироваться	сгруппироваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=8352|end_char=8367
+7	в	в	ADP	_	_	8	case	_	start_char=8368|end_char=8369
+8	полете	полет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	start_char=8370|end_char=8376
+9	,	,	PUNCT	_	_	10	punct	_	start_char=8376|end_char=8377
+10	оказавшись	оказаться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=8378|end_char=8388
+11	на	на	ADP	_	_	12	case	_	start_char=8389|end_char=8391
+12	полу	пол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	start_char=8392|end_char=8396
+13	,	,	PUNCT	_	_	10	punct	_	start_char=8396|end_char=8397
+14	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	16	advmod	_	start_char=8398|end_char=8401
+15	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	fixed	_	start_char=8402|end_char=8407
+16	взвыл	взвыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8408|end_char=8413
+17	от	от	ADP	_	_	18	case	_	start_char=8414|end_char=8416
+18	боли	боль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	start_char=8417|end_char=8421
+19	...	...	PUNCT	_	_	16	punct	_	start_char=8421|end_char=8424
+
+# text = Не в спине, на которую пришелся основной удар, а в паху, куда Ривер ненамеренно попала коленом.
+# sent_id = 137
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=8425|end_char=8427
+2	в	в	ADP	_	_	3	case	_	start_char=8428|end_char=8429
+3	спине	спина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=8430|end_char=8435
+4	,	,	PUNCT	_	_	7	punct	_	start_char=8435|end_char=8436
+5	на	на	ADP	_	_	6	case	_	start_char=8437|end_char=8439
+6	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	7	obl	_	start_char=8440|end_char=8447
+7	пришелся	прийтись	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	acl:relcl	_	start_char=8448|end_char=8456
+8	основной	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=8457|end_char=8465
+9	удар	удар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=8466|end_char=8470
+10	,	,	PUNCT	_	_	13	punct	_	start_char=8470|end_char=8471
+11	а	а	CCONJ	_	_	13	cc	_	start_char=8472|end_char=8473
+12	в	в	ADP	_	_	13	case	_	start_char=8474|end_char=8475
+13	паху	паха	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	conj	_	start_char=8476|end_char=8480
+14	,	,	PUNCT	_	_	18	punct	_	start_char=8480|end_char=8481
+15	куда	куда	ADV	_	Degree=Pos|PronType=Rel	18	advmod	_	start_char=8482|end_char=8486
+16	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	18	nsubj	_	start_char=8487|end_char=8492
+17	ненамеренно	ненамеренно	ADV	_	Degree=Pos	18	advmod	_	start_char=8493|end_char=8504
+18	попала	попасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	start_char=8505|end_char=8511
+19	коленом	колено	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	iobj	_	start_char=8512|end_char=8519
+20	.	.	PUNCT	_	_	3	punct	_	start_char=8519|end_char=8520
+
+# text = — Жив? — виновато прошептала та.
+# sent_id = 138
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=8522|end_char=8523
+2	Жив	живой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=8524|end_char=8527
+3	?	?	PUNCT	_	_	2	punct	_	start_char=8527|end_char=8528
+4	—	—	PUNCT	_	_	5	punct	_	start_char=8529|end_char=8530
+5	виновато	виноватый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	parataxis	_	start_char=8531|end_char=8539
+6	прошептала	прошептать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	csubj	_	start_char=8540|end_char=8550
+7	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	start_char=8551|end_char=8553
+8	.	.	PUNCT	_	_	2	punct	_	start_char=8553|end_char=8554
+
+# text = — Поч-ти... — прохрипел Доктор в ответ, корчась на полу.
+# sent_id = 139
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=8556|end_char=8557
+2	Поч-ти	поч-ти	INTJ	_	_	0	root	_	start_char=8558|end_char=8564
+3	...	...	PUNCT	_	_	2	punct	_	start_char=8564|end_char=8567
+4	—	—	PUNCT	_	_	5	punct	_	start_char=8568|end_char=8569
+5	прохрипел	прохрипеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=8570|end_char=8579
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=8580|end_char=8586
+7	в	в	ADP	_	_	8	case	_	start_char=8587|end_char=8588
+8	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=8589|end_char=8594
+9	,	,	PUNCT	_	_	10	punct	_	start_char=8594|end_char=8595
+10	корчась	корчаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=8596|end_char=8603
+11	на	на	ADP	_	_	12	case	_	start_char=8604|end_char=8606
+12	полу	пол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	start_char=8607|end_char=8611
+13	.	.	PUNCT	_	_	2	punct	_	start_char=8611|end_char=8612
+
+# text = ТАРДИС деликатно кашлянула и тут же запустила двигатели.
+# sent_id = 140
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	ТАРДИС	тардис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=8614|end_char=8620
+2	деликатно	деликатно	ADV	_	Degree=Pos	3	advmod	_	start_char=8621|end_char=8630
+3	кашлянула	кашлянуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8631|end_char=8640
+4	и	и	CCONJ	_	_	7	cc	_	start_char=8641|end_char=8642
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=8643|end_char=8646
+6	же	же	PART	_	_	5	advmod	_	start_char=8647|end_char=8649
+7	запустила	запустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=8650|end_char=8659
+8	двигатели	двигатель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=8660|end_char=8669
+9	.	.	PUNCT	_	_	3	punct	_	start_char=8669|end_char=8670
+
+# text = — И что это было?!
+# sent_id = 141
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	3	punct	_	start_char=8672|end_char=8673
+2	И	и	CCONJ	_	_	3	cc	_	start_char=8674|end_char=8675
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=8676|end_char=8679
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=8680|end_char=8683
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=8684|end_char=8688
+6	?!	?!	PUNCT	_	_	3	punct	_	start_char=8688|end_char=8690
+
+# text = — прокричал Доктор, бросая несчастный взгляд на засветившуюся вновь временную колонну.
+# sent_id = 142
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	2	punct	_	start_char=8691|end_char=8692
+2	прокричал	прокричать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8693|end_char=8702
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=8703|end_char=8709
+4	,	,	PUNCT	_	_	5	punct	_	start_char=8709|end_char=8710
+5	бросая	бросать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=8711|end_char=8717
+6	несчастный	несчастный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=8718|end_char=8728
+7	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=8729|end_char=8735
+8	на	на	ADP	_	_	12	case	_	start_char=8736|end_char=8738
+9	засветившуюся	засветиться	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	start_char=8739|end_char=8752
+10	вновь	вновь	ADV	_	Degree=Pos	9	advmod	_	start_char=8753|end_char=8758
+11	временную	временный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=8759|end_char=8768
+12	колонну	колонна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=8769|end_char=8776
+13	.	.	PUNCT	_	_	2	punct	_	start_char=8776|end_char=8777
+
+# text = — ‎Женская солидарность, дорогой, — ответила за ТАРДИС
+# sent_id = 143
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	—	—	PUNCT	_	_	4	punct	_	start_char=8779|end_char=8780
+2	‎	‎	SYM	_	_	4	discourse	_	start_char=8781|end_char=8782
+3	Женская	женский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=8782|end_char=8789
+4	солидарность	солидарность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=8790|end_char=8802
+5	,	,	PUNCT	_	_	6	punct	_	start_char=8802|end_char=8803
+6	дорогой	дорогой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=8804|end_char=8811
+7	,	,	PUNCT	_	_	9	punct	_	start_char=8811|end_char=8812
+8	—	—	PUNCT	_	_	9	punct	_	start_char=8813|end_char=8814
+9	ответила	ответить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=8815|end_char=8823
+10	за	за	ADP	_	_	11	case	_	start_char=8824|end_char=8826
+11	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	9	obl	_	start_char=8827|end_char=8833
+
+# text = Ривер и лукаво улыбнулась.
+# sent_id = 144
+# metadata = Название: Женская солидарность, автор: tigryonok-u, ссылка: https://ru.fanfiktion.net/s/5bfa6b48000016a338dde953/1/Zhenskaya-solidarnost
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	4	nsubj	_	start_char=8834|end_char=8839
+2	и	и	CCONJ	_	_	3	cc	_	start_char=8840|end_char=8841
+3	лукаво	лукаво	ADV	_	Degree=Pos	1	conj	_	start_char=8842|end_char=8848
+4	улыбнулась	улыбнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=8849|end_char=8859
+5	.	.	PUNCT	_	_	4	punct	_	start_char=8859|end_char=8860
+

@@ -1,0 +1,540 @@
+# text = - Хэлло, Патрик!
+# sent_id = 0
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	-	-	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Хэлло	Хэлло	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=2|end_char=7
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7|end_char=8
+4	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	conj	_	start_char=9|end_char=15
+5	!	!	PUNCT	_	_	2	punct	_	start_char=15|end_char=16
+
+# text = Как жизнь?!
+# sent_id = 1
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=17|end_char=20
+2	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	start_char=21|end_char=26
+3	?!	?!	PUNCT	_	_	1	punct	_	start_char=26|end_char=28
+
+# text = Пара странных херувимчиков дружелюбно зависла над святым.
+# sent_id = 2
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Пара	пара	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=29|end_char=33
+2	странных	странный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	start_char=34|end_char=42
+3	херувимчиков	херувимчик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	start_char=43|end_char=55
+4	дружелюбно	дружелюбно	ADV	_	Degree=Pos	5	advmod	_	start_char=56|end_char=66
+5	зависла	зависнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=67|end_char=74
+6	над	над	ADP	_	_	7	case	_	start_char=75|end_char=78
+7	святым	святой	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	start_char=79|end_char=85
+8	.	.	PUNCT	_	_	5	punct	_	start_char=85|end_char=86
+
+# text = Первое время святой Патрик робел при появлении этих странных жужжащих созданий, и то и дело бросался перечитывать откровения Иезекииля.
+# sent_id = 3
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Первое	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	2	amod	_	start_char=87|end_char=93
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=94|end_char=99
+3	святой	святой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=100|end_char=106
+4	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=107|end_char=113
+5	робел	рабесть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=114|end_char=119
+6	при	при	ADP	_	_	7	case	_	start_char=120|end_char=123
+7	появлении	появление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=124|end_char=133
+8	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	11	det	_	start_char=134|end_char=138
+9	странных	странный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	start_char=139|end_char=147
+10	жужжащих	жужжащий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	start_char=148|end_char=156
+11	созданий	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	start_char=157|end_char=165
+12	,	,	PUNCT	_	_	17	punct	_	start_char=165|end_char=166
+13	и	и	CCONJ	_	_	17	cc	_	start_char=167|end_char=168
+14	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	advmod	_	start_char=169|end_char=171
+15	и	и	PART	_	_	14	fixed	_	start_char=172|end_char=173
+16	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	start_char=174|end_char=178
+17	бросался	бросаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=179|end_char=187
+18	перечитывать	перечитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	start_char=188|end_char=200
+19	откровения	откровение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	obj	_	start_char=201|end_char=211
+20	Иезекииля	Иезекииля	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	19	nmod	_	start_char=212|end_char=221
+21	.	.	PUNCT	_	_	5	punct	_	start_char=221|end_char=222
+
+# text = Описания сбивали его с толку, и он махал на них рукой.
+# sent_id = 4
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Описания	описание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	start_char=223|end_char=231
+2	сбивали	сбивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=232|end_char=239
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=240|end_char=243
+4	с	с	ADP	_	_	5	case	_	start_char=244|end_char=245
+5	толку	толк	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	2	obl	_	start_char=246|end_char=251
+6	,	,	PUNCT	_	_	9	punct	_	start_char=251|end_char=252
+7	и	и	CCONJ	_	_	9	cc	_	start_char=253|end_char=254
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=255|end_char=257
+9	махал	махать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=258|end_char=263
+10	на	на	ADP	_	_	11	case	_	start_char=264|end_char=266
+11	них	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obl	_	start_char=267|end_char=270
+12	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	iobj	_	start_char=271|end_char=276
+13	.	.	PUNCT	_	_	2	punct	_	start_char=276|end_char=277
+
+# text = Он твердо знал, что в херувимах (?) было что-то человеческое, крыльев он не видел, но слышал воздушный скрежет, что могло говорить о том, что крылья их незримы.
+# sent_id = 5
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=278|end_char=280
+2	твердо	твердо	ADV	_	Degree=Pos	3	advmod	_	start_char=281|end_char=287
+3	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=288|end_char=292
+4	,	,	PUNCT	_	_	7	punct	_	start_char=292|end_char=293
+5	что	что	SCONJ	_	_	7	mark	_	start_char=294|end_char=297
+6	в	в	ADP	_	_	7	case	_	start_char=298|end_char=299
+7	херувимах	херувим	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	ccomp	_	start_char=300|end_char=309
+8	(?	(?	PUNCT	_	_	7	punct	_	start_char=310|end_char=312
+9	)	)	PUNCT	_	_	7	punct	_	start_char=312|end_char=313
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=314|end_char=318
+11	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	10	nsubj	_	start_char=319|end_char=325
+12	человеческое	человеческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	start_char=326|end_char=338
+13	,	,	PUNCT	_	_	17	punct	_	start_char=338|end_char=339
+14	крыльев	крыло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	obj	_	start_char=340|end_char=347
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=348|end_char=350
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=351|end_char=353
+17	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=354|end_char=359
+18	,	,	PUNCT	_	_	20	punct	_	start_char=359|end_char=360
+19	но	но	CCONJ	_	_	20	cc	_	start_char=361|end_char=363
+20	слышал	слышать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=364|end_char=370
+21	воздушный	воздушный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	start_char=371|end_char=380
+22	скрежет	скрежет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	start_char=381|end_char=388
+23	,	,	PUNCT	_	_	25	punct	_	start_char=388|end_char=389
+24	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	25	nsubj	_	start_char=390|end_char=393
+25	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=394|end_char=399
+26	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=400|end_char=408
+27	о	о	ADP	_	_	28	case	_	start_char=409|end_char=410
+28	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	26	obl	_	start_char=411|end_char=414
+29	,	,	PUNCT	_	_	33	punct	_	start_char=414|end_char=415
+30	что	что	SCONJ	_	_	33	mark	_	start_char=416|end_char=419
+31	крылья	крыло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	33	nsubj	_	start_char=420|end_char=426
+32	их	их	DET	_	Poss=Yes|PronType=Prs	31	det	_	start_char=427|end_char=429
+33	незримы	незримый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	28	acl	_	start_char=430|end_char=437
+34	.	.	PUNCT	_	_	3	punct	_	start_char=437|end_char=438
+
+# text = Бегающие по металлическим шарам огоньки делали их несомненно "исполненными очей".
+# sent_id = 6
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Бегающие	бегать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	start_char=439|end_char=447
+2	по	по	ADP	_	_	4	case	_	start_char=448|end_char=450
+3	металлическим	металлический	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	amod	_	start_char=451|end_char=464
+4	шарам	шара	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	1	obl	_	start_char=465|end_char=470
+5	огоньки	огонька	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=471|end_char=478
+6	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=479|end_char=485
+7	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	start_char=486|end_char=488
+8	несомненно	несомненно	ADV	_	Degree=Pos	10	advmod	_	start_char=489|end_char=499
+9	"	"	PUNCT	_	_	10	punct	_	start_char=500|end_char=501
+10	исполненными	исполнить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	start_char=501|end_char=513
+11	очей	око	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	obj	_	start_char=514|end_char=518
+12	"	"	PUNCT	_	_	10	punct	_	start_char=518|end_char=519
+13	.	.	PUNCT	_	_	6	punct	_	start_char=519|end_char=520
+
+# text = Ободья и колеса?
+# sent_id = 7
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Ободья	ободь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=521|end_char=527
+2	и	и	CCONJ	_	_	3	cc	_	start_char=528|end_char=529
+3	колеса	колесо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	conj	_	start_char=530|end_char=536
+4	?	?	PUNCT	_	_	1	punct	_	start_char=536|end_char=537
+
+# text = Но сами они были шарами, боевыми и страшными, подобными и льву, и орлу парящему, и волу многосильному, но умеющими говорить по-человечески.
+# sent_id = 8
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=538|end_char=540
+2	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	3	det	_	start_char=541|end_char=545
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=546|end_char=549
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=550|end_char=554
+5	шарами	шар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	0	root	_	start_char=555|end_char=561
+6	,	,	PUNCT	_	_	7	punct	_	start_char=561|end_char=562
+7	боевыми	боевой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	conj	_	start_char=563|end_char=570
+8	и	и	CCONJ	_	_	9	cc	_	start_char=571|end_char=572
+9	страшными	страшный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	conj	_	start_char=573|end_char=582
+10	,	,	PUNCT	_	_	11	punct	_	start_char=582|end_char=583
+11	подобными	подобный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	conj	_	start_char=584|end_char=593
+12	и	и	CCONJ	_	_	13	cc	_	start_char=594|end_char=595
+13	льву	лев	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	conj	_	start_char=596|end_char=600
+14	,	,	PUNCT	_	_	17	punct	_	start_char=600|end_char=601
+15	и	и	CCONJ	_	_	17	cc	_	start_char=602|end_char=603
+16	орлу	орласть	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	17	iobj	_	start_char=604|end_char=608
+17	парящему	парить	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	start_char=609|end_char=617
+18	,	,	PUNCT	_	_	20	punct	_	start_char=617|end_char=618
+19	и	и	CCONJ	_	_	20	cc	_	start_char=619|end_char=620
+20	волу	вол	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	17	iobj	_	start_char=621|end_char=625
+21	многосильному	многосильный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	start_char=626|end_char=639
+22	,	,	PUNCT	_	_	24	punct	_	start_char=639|end_char=640
+23	но	но	CCONJ	_	_	24	cc	_	start_char=641|end_char=643
+24	умеющими	уметь	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	21	conj	_	start_char=644|end_char=652
+25	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	start_char=653|end_char=661
+26	по-человечески	по-человечески	ADV	_	Degree=Pos	25	advmod	_	start_char=662|end_char=676
+27	.	.	PUNCT	_	_	5	punct	_	start_char=676|end_char=677
+
+# text = А еще они все время славили своего Мастера-Повелителя.
+# sent_id = 9
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	А	а	CCONJ	_	_	6	cc	_	start_char=678|end_char=679
+2	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=680|end_char=683
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=684|end_char=687
+4	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	start_char=688|end_char=691
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	start_char=692|end_char=697
+6	славили	славить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=698|end_char=705
+7	своего	свой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=706|end_char=712
+8	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=713|end_char=720
+9	-	-	PUNCT	_	_	10	punct	_	start_char=720|end_char=721
+10	Повелителя	повелитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	appos	_	start_char=721|end_char=731
+11	.	.	PUNCT	_	_	6	punct	_	start_char=731|end_char=732
+
+# text = О личности которого, Патрик понимал, не могло быть двух мнений.
+# sent_id = 10
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	О	о	ADP	_	_	2	case	_	start_char=733|end_char=734
+2	личности	личность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	start_char=735|end_char=743
+3	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	2	nmod	_	start_char=744|end_char=752
+4	,	,	PUNCT	_	_	6	punct	_	start_char=752|end_char=753
+5	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	start_char=754|end_char=760
+6	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=761|end_char=768
+7	,	,	PUNCT	_	_	6	punct	_	start_char=768|end_char=769
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=770|end_char=772
+9	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=773|end_char=778
+10	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	cop	_	start_char=779|end_char=783
+11	двух	два	NUM	_	Case=Gen|NumForm=Word|NumType=Card	12	nummod	_	start_char=784|end_char=788
+12	мнений	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nsubj	_	start_char=789|end_char=795
+13	.	.	PUNCT	_	_	9	punct	_	start_char=795|end_char=796
+
+# text = Ангелы несомненно служили ему и славе его, и пусть дела их и настроения были непостижимы, как и положено ангельским, Патрик все же не боялся их, как люди, обладающие меньшей верой, и херувимы по-своему привязались к нему и были благосклонны.
+# sent_id = 11
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Ангелы	ангел	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=797|end_char=803
+2	несомненно	несомненно	ADV	_	Degree=Pos	3	advmod	_	start_char=804|end_char=814
+3	служили	служить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=815|end_char=822
+4	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=823|end_char=826
+5	и	и	CCONJ	_	_	6	cc	_	start_char=827|end_char=828
+6	славе	слава	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	start_char=829|end_char=834
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=835|end_char=838
+8	,	,	PUNCT	_	_	16	punct	_	start_char=838|end_char=839
+9	и	и	CCONJ	_	_	16	cc	_	start_char=840|end_char=841
+10	пусть	пусть	PART	_	_	16	advmod	_	start_char=842|end_char=847
+11	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	start_char=848|end_char=852
+12	их	их	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=853|end_char=855
+13	и	и	CCONJ	_	_	14	cc	_	start_char=856|end_char=857
+14	настроения	настроение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	conj	_	start_char=858|end_char=868
+15	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	start_char=869|end_char=873
+16	непостижимы	непостижимый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	conj	_	start_char=874|end_char=885
+17	,	,	PUNCT	_	_	20	punct	_	start_char=885|end_char=886
+18	как	как	SCONJ	_	_	20	mark	_	start_char=887|end_char=890
+19	и	и	PART	_	_	20	advmod	_	start_char=891|end_char=892
+20	положено	положенный	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	16	advcl	_	start_char=893|end_char=901
+21	ангельским	ангельский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	xcomp	_	start_char=902|end_char=912
+22	,	,	PUNCT	_	_	20	punct	_	start_char=912|end_char=913
+23	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	27	nsubj	_	start_char=914|end_char=920
+24	все	всё	ADV	_	Degree=Pos|PronType=Tot	27	advmod	_	start_char=921|end_char=924
+25	же	же	PART	_	_	24	fixed	_	start_char=925|end_char=927
+26	не	не	PART	_	Polarity=Neg	27	advmod	_	start_char=928|end_char=930
+27	боялся	бояться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=931|end_char=937
+28	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	27	obj	_	start_char=938|end_char=940
+29	,	,	PUNCT	_	_	31	punct	_	start_char=940|end_char=941
+30	как	как	SCONJ	_	_	31	case	_	start_char=942|end_char=945
+31	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	27	obl	_	start_char=946|end_char=950
+32	,	,	PUNCT	_	_	33	punct	_	start_char=950|end_char=951
+33	обладающие	обладать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	31	acl	_	start_char=952|end_char=962
+34	меньшей	меньший	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	start_char=963|end_char=970
+35	верой	вера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	33	iobj	_	start_char=971|end_char=976
+36	,	,	PUNCT	_	_	40	punct	_	start_char=976|end_char=977
+37	и	и	CCONJ	_	_	40	cc	_	start_char=978|end_char=979
+38	херувимы	херувим	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	40	nsubj	_	start_char=980|end_char=988
+39	по-своему	по-своему	ADV	_	Degree=Pos	40	advmod	_	start_char=989|end_char=998
+40	привязались	привязаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	27	conj	_	start_char=999|end_char=1010
+41	к	к	ADP	_	_	42	case	_	start_char=1011|end_char=1012
+42	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	obl	_	start_char=1013|end_char=1017
+43	и	и	CCONJ	_	_	45	cc	_	start_char=1018|end_char=1019
+44	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	45	cop	_	start_char=1020|end_char=1024
+45	благосклонны	благосклонный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	40	conj	_	start_char=1025|end_char=1037
+46	.	.	PUNCT	_	_	3	punct	_	start_char=1037|end_char=1038
+
+# text = Он иногда даже читал им проповеди, называя Господа так, как принято у них - Мастером, и херувимы внимали ему с жадностью и восторгом.
+# sent_id = 12
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1039|end_char=1041
+2	иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=1042|end_char=1048
+3	даже	даже	PART	_	_	4	advmod	_	start_char=1049|end_char=1053
+4	читал	читать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1054|end_char=1059
+5	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	iobj	_	start_char=1060|end_char=1062
+6	проповеди	проповедь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=1063|end_char=1072
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1072|end_char=1073
+8	называя	называть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=1074|end_char=1081
+9	Господа	господин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=1082|end_char=1089
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=1090|end_char=1093
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1093|end_char=1094
+12	как	как	SCONJ	_	_	13	mark	_	start_char=1095|end_char=1098
+13	принято	принять	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	ccomp	_	start_char=1099|end_char=1106
+14	у	у	ADP	_	_	15	case	_	start_char=1107|end_char=1108
+15	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	obl	_	start_char=1109|end_char=1112
+16	-	-	PUNCT	_	_	17	punct	_	start_char=1113|end_char=1114
+17	Мастером	мастер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	13	obl	_	start_char=1115|end_char=1123
+18	,	,	PUNCT	_	_	21	punct	_	start_char=1123|end_char=1124
+19	и	и	CCONJ	_	_	21	cc	_	start_char=1125|end_char=1126
+20	херувимы	херувим	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	start_char=1127|end_char=1135
+21	внимали	внимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1136|end_char=1143
+22	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	iobj	_	start_char=1144|end_char=1147
+23	с	с	ADP	_	_	24	case	_	start_char=1148|end_char=1149
+24	жадностью	жадность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	obl	_	start_char=1150|end_char=1159
+25	и	и	CCONJ	_	_	26	cc	_	start_char=1160|end_char=1161
+26	восторгом	восторг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	conj	_	start_char=1162|end_char=1171
+27	.	.	PUNCT	_	_	4	punct	_	start_char=1171|end_char=1172
+
+# text = - Хорошо, братья-ангелы!
+# sent_id = 13
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1173|end_char=1174
+2	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1175|end_char=1181
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1181|end_char=1182
+4	братья	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	vocative	_	start_char=1183|end_char=1189
+5	-	-	PUNCT	_	_	6	punct	_	start_char=1189|end_char=1190
+6	ангелы	ангел	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	appos	_	start_char=1190|end_char=1196
+7	!	!	PUNCT	_	_	2	punct	_	start_char=1196|end_char=1197
+
+# text = - отвечал Патрик, не без внутреннего благочестивого трепета и с восхищением.
+# sent_id = 14
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1198|end_char=1199
+2	отвечал	отвечать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1200|end_char=1207
+3	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1208|end_char=1214
+4	,	,	PUNCT	_	_	9	punct	_	start_char=1214|end_char=1215
+5	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1216|end_char=1218
+6	без	без	ADP	_	_	9	case	_	start_char=1219|end_char=1222
+7	внутреннего	внутренний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1223|end_char=1234
+8	благочестивого	благочестивый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1235|end_char=1249
+9	трепета	трепет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=1250|end_char=1257
+10	и	и	CCONJ	_	_	12	cc	_	start_char=1258|end_char=1259
+11	с	с	ADP	_	_	12	case	_	start_char=1260|end_char=1261
+12	восхищением	восхищение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	conj	_	start_char=1262|end_char=1273
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1273|end_char=1274
+
+# text = - Совсем хорошо.
+# sent_id = 15
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1275|end_char=1276
+2	Совсем	совсем	ADV	_	Degree=Pos	3	advmod	_	start_char=1277|end_char=1283
+3	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1284|end_char=1290
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1290|end_char=1291
+
+# text = Все созданное прекрасно на этой земле... кроме змей, наверное, - он вспомнил, как испугался сегодня утром в погребе, чуть не наступив на змею.
+# sent_id = 16
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	det	_	start_char=1292|end_char=1295
+2	созданное	создать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	start_char=1296|end_char=1305
+3	прекрасно	прекрасно	ADV	_	Degree=Pos	2	advmod	_	start_char=1306|end_char=1315
+4	на	на	ADP	_	_	6	case	_	start_char=1316|end_char=1318
+5	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=1319|end_char=1323
+6	земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=1324|end_char=1329
+7	...	...	PUNCT	_	_	15	punct	_	start_char=1329|end_char=1332
+8	кроме	кроме	ADP	_	_	9	case	_	start_char=1333|end_char=1338
+9	змей	змей	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	15	obl	_	start_char=1339|end_char=1343
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1343|end_char=1344
+11	наверное	наверное	ADV	_	Degree=Pos	15	parataxis	_	start_char=1345|end_char=1353
+12	,	,	PUNCT	_	_	11	punct	_	start_char=1353|end_char=1354
+13	-	-	PUNCT	_	_	2	punct	_	start_char=1355|end_char=1356
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=1357|end_char=1359
+15	вспомнил	вспомнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1360|end_char=1368
+16	,	,	PUNCT	_	_	18	punct	_	start_char=1368|end_char=1369
+17	как	как	SCONJ	_	_	18	mark	_	start_char=1370|end_char=1373
+18	испугался	испугаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	15	ccomp	_	start_char=1374|end_char=1383
+19	сегодня	сегодня	ADV	_	Degree=Pos	18	advmod	_	start_char=1384|end_char=1391
+20	утром	утро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	obl	_	start_char=1392|end_char=1397
+21	в	в	ADP	_	_	22	case	_	start_char=1398|end_char=1399
+22	погребе	погреба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	start_char=1400|end_char=1407
+23	,	,	PUNCT	_	_	26	punct	_	start_char=1407|end_char=1408
+24	чуть	чуть	ADV	_	Degree=Pos	25	advmod	_	start_char=1409|end_char=1413
+25	не	не	PART	_	Polarity=Neg	26	advmod	_	start_char=1414|end_char=1416
+26	наступив	наступить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	18	advcl	_	start_char=1417|end_char=1425
+27	на	на	ADP	_	_	28	case	_	start_char=1426|end_char=1428
+28	змею	змею	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obl	_	start_char=1429|end_char=1433
+29	.	.	PUNCT	_	_	15	punct	_	start_char=1433|end_char=1434
+
+# text = - Бедная Ирландия, если бы кто ее избавил от этих гадов...
+# sent_id = 17
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1435|end_char=1436
+2	Бедная	бедный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=1437|end_char=1443
+3	Ирландия	Ирландия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	0	root	_	start_char=1444|end_char=1452
+4	,	,	PUNCT	_	_	9	punct	_	start_char=1452|end_char=1453
+5	если	если	SCONJ	_	_	9	mark	_	start_char=1454|end_char=1458
+6	бы	бы	AUX	_	Mood=Cnd	9	aux	_	start_char=1459|end_char=1461
+7	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	start_char=1462|end_char=1465
+8	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=1466|end_char=1468
+9	избавил	избавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=1469|end_char=1476
+10	от	от	ADP	_	_	12	case	_	start_char=1477|end_char=1479
+11	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	12	det	_	start_char=1480|end_char=1484
+12	гадов	гад	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	start_char=1485|end_char=1490
+13	...	...	PUNCT	_	_	3	punct	_	start_char=1490|end_char=1493
+
+# text = Что-то неуловимо свистнуло, и херувимы заинтересованно закружились ближе.
+# sent_id = 18
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	nsubj	_	start_char=1494|end_char=1500
+2	неуловимо	неуловимо	ADV	_	Degree=Pos	3	advmod	_	start_char=1501|end_char=1510
+3	свистнуло	свистнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1511|end_char=1520
+4	,	,	PUNCT	_	_	8	punct	_	start_char=1520|end_char=1521
+5	и	и	CCONJ	_	_	8	cc	_	start_char=1522|end_char=1523
+6	херувимы	херувим	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=1524|end_char=1532
+7	заинтересованно	заинтересованно	ADV	_	Degree=Pos	8	advmod	_	start_char=1533|end_char=1548
+8	закружились	закружиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=1549|end_char=1560
+9	ближе	близко	ADV	_	Degree=Cmp	8	advmod	_	start_char=1561|end_char=1566
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1566|end_char=1567
+
+# text = - Не вопрос, братишка Патрик!
+# sent_id = 19
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1568|end_char=1569
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1570|end_char=1572
+3	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1573|end_char=1579
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1579|end_char=1580
+5	братишка	братишка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=1581|end_char=1589
+6	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	flat:name	_	start_char=1590|end_char=1596
+7	!	!	PUNCT	_	_	3	punct	_	start_char=1596|end_char=1597
+
+# text = Забудь про змей!.. - и со смехом ангелы куда-то умчались.
+# sent_id = 20
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Забудь	забыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1598|end_char=1604
+2	про	про	ADP	_	_	3	case	_	start_char=1605|end_char=1608
+3	змей	змей	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	start_char=1609|end_char=1613
+4	!..	!..	PUNCT	_	_	11	punct	_	start_char=1613|end_char=1616
+5	-	-	PUNCT	_	_	11	punct	_	start_char=1617|end_char=1618
+6	и	и	CCONJ	_	_	11	cc	_	start_char=1619|end_char=1620
+7	со	со	ADP	_	_	8	case	_	start_char=1621|end_char=1623
+8	смехом	смех	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	start_char=1624|end_char=1630
+9	ангелы	ангел	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	start_char=1631|end_char=1637
+10	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	11	advmod	_	start_char=1638|end_char=1645
+11	умчались	умчаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=1646|end_char=1654
+12	.	.	PUNCT	_	_	1	punct	_	start_char=1654|end_char=1655
+
+# text = Патрик пожал плечами.
+# sent_id = 21
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1656|end_char=1662
+2	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1663|end_char=1668
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	iobj	_	start_char=1669|end_char=1676
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1676|end_char=1677
+
+# text = Иногда их смех казался ему каким-то жестоким.
+# sent_id = 22
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=1678|end_char=1684
+2	их	их	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=1685|end_char=1687
+3	смех	смех	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1688|end_char=1692
+4	казался	казаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1693|end_char=1700
+5	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=1701|end_char=1704
+6	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	start_char=1705|end_char=1713
+7	жестоким	жестокий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	xcomp	_	start_char=1714|end_char=1722
+8	.	.	PUNCT	_	_	4	punct	_	start_char=1722|end_char=1723
+
+# text = Но ведь то были обитатели не Земли, а вышних сфер, свободные от плоти и многого человеческого.
+# sent_id = 23
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=1724|end_char=1726
+2	ведь	ведь	PART	_	_	5	advmod	_	start_char=1727|end_char=1731
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	start_char=1732|end_char=1734
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=1735|end_char=1739
+5	обитатели	обитатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=1740|end_char=1749
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1750|end_char=1752
+7	Земли	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=1753|end_char=1758
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1758|end_char=1759
+9	а	а	CCONJ	_	_	11	cc	_	start_char=1760|end_char=1761
+10	вышних	выснуть	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	start_char=1762|end_char=1768
+11	сфер	сфер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	conj	_	start_char=1769|end_char=1773
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1773|end_char=1774
+13	свободные	свободный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	acl	_	start_char=1775|end_char=1784
+14	от	от	ADP	_	_	15	case	_	start_char=1785|end_char=1787
+15	плоти	плоть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	start_char=1788|end_char=1793
+16	и	и	CCONJ	_	_	17	cc	_	start_char=1794|end_char=1795
+17	многого	многое	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	18	det	_	start_char=1796|end_char=1803
+18	человеческого	человеческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	start_char=1804|end_char=1817
+19	.	.	PUNCT	_	_	5	punct	_	start_char=1817|end_char=1818
+
+# text = Наверное Патрик понимал, почему Бог однажды сотворил все же человека, несмотря на то, что это такая слабая тварь.
+# sent_id = 24
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Наверное	наверное	ADV	_	Degree=Pos	3	parataxis	_	start_char=1819|end_char=1827
+2	Патрик	Патрик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1828|end_char=1834
+3	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1835|end_char=1842
+4	,	,	PUNCT	_	_	8	punct	_	start_char=1842|end_char=1843
+5	почему	почему	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=1844|end_char=1850
+6	Бог	бог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=1851|end_char=1854
+7	однажды	однажды	ADV	_	Degree=Pos	8	advmod	_	start_char=1855|end_char=1862
+8	сотворил	сотворить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=1863|end_char=1871
+9	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	11	det	_	start_char=1872|end_char=1875
+10	же	же	PART	_	_	9	advmod	_	start_char=1876|end_char=1878
+11	человека	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=1879|end_char=1887
+12	,	,	PUNCT	_	_	15	punct	_	start_char=1887|end_char=1888
+13	несмотря	несмотря	ADV	_	Degree=Pos	15	case	_	start_char=1889|end_char=1897
+14	на	на	ADP	_	_	13	fixed	_	start_char=1898|end_char=1900
+15	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	start_char=1901|end_char=1903
+16	,	,	PUNCT	_	_	21	punct	_	start_char=1903|end_char=1904
+17	что	что	SCONJ	_	_	21	mark	_	start_char=1905|end_char=1908
+18	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	nsubj	_	start_char=1909|end_char=1912
+19	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	start_char=1913|end_char=1918
+20	слабая	слабый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	start_char=1919|end_char=1925
+21	тварь	тварь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	acl	_	start_char=1926|end_char=1931
+22	.	.	PUNCT	_	_	3	punct	_	start_char=1931|end_char=1932
+
+# text = Но конечно, он тактично никогда не говорил об этом ангелам.
+# sent_id = 25
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Но	но	CCONJ	_	_	8	cc	_	start_char=1933|end_char=1935
+2	конечно	конечно	ADV	_	Degree=Pos	8	parataxis	_	start_char=1936|end_char=1943
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1943|end_char=1944
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=1945|end_char=1947
+5	тактично	тактично	ADV	_	Degree=Pos	8	advmod	_	start_char=1948|end_char=1956
+6	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	8	advmod	_	start_char=1957|end_char=1964
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1965|end_char=1967
+8	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1968|end_char=1975
+9	об	об	ADP	_	_	10	case	_	start_char=1976|end_char=1978
+10	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	start_char=1979|end_char=1983
+11	ангелам	ангел	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	start_char=1984|end_char=1991
+12	.	.	PUNCT	_	_	8	punct	_	start_char=1991|end_char=1992
+
+# text = И они были благодарны и не подвели его.
+# sent_id = 26
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	И	и	CCONJ	_	_	4	cc	_	start_char=1993|end_char=1994
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=1995|end_char=1998
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=1999|end_char=2003
+4	благодарны	благодарный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=2004|end_char=2014
+5	и	и	CCONJ	_	_	7	cc	_	start_char=2015|end_char=2016
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2017|end_char=2019
+7	подвели	подвести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2020|end_char=2027
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=2028|end_char=2031
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2031|end_char=2032
+
+# text = Несколько дней по всей Ирландии странно пахло гарью, и то и дело находились изрубленные змеи, но затем змеи пропали из Ирландии начисто.
+# sent_id = 27
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	2	nummod:gov	_	start_char=2033|end_char=2042
+2	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	start_char=2043|end_char=2047
+3	по	по	ADP	_	_	5	case	_	start_char=2048|end_char=2050
+4	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	5	det	_	start_char=2051|end_char=2055
+5	Ирландии	Ирландия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	7	obl	_	start_char=2056|end_char=2064
+6	странно	странно	ADV	_	Degree=Pos	7	advmod	_	start_char=2065|end_char=2072
+7	пахло	пахнуть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2073|end_char=2078
+8	гарью	гарь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	iobj	_	start_char=2079|end_char=2084
+9	,	,	PUNCT	_	_	14	punct	_	start_char=2084|end_char=2085
+10	и	и	CCONJ	_	_	14	cc	_	start_char=2086|end_char=2087
+11	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	fixed	_	start_char=2088|end_char=2090
+12	и	и	PART	_	_	13	advmod	_	start_char=2091|end_char=2092
+13	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	start_char=2093|end_char=2097
+14	находились	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	start_char=2098|end_char=2108
+15	изрубленные	изрубить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	start_char=2109|end_char=2120
+16	змеи	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	start_char=2121|end_char=2125
+17	,	,	PUNCT	_	_	21	punct	_	start_char=2125|end_char=2126
+18	но	но	CCONJ	_	_	21	cc	_	start_char=2127|end_char=2129
+19	затем	затем	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=2130|end_char=2135
+20	змеи	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	21	nsubj	_	start_char=2136|end_char=2140
+21	пропали	пропасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=2141|end_char=2148
+22	из	из	ADP	_	_	23	case	_	start_char=2149|end_char=2151
+23	Ирландии	Ирландия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	21	obl	_	start_char=2152|end_char=2160
+24	начисто	начисто	ADV	_	Degree=Pos	21	advmod	_	start_char=2161|end_char=2168
+25	.	.	PUNCT	_	_	7	punct	_	start_char=2168|end_char=2169
+
+# text = Благодаря благочестию одного святого.
+# sent_id = 28
+# metadata = Название: Токлафаны и святой Патрик, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54731a7200000a7f7bf3cde/1/Toklafany-i-svyatoj-Patrik
+1	Благодаря	благодаря	ADP	_	_	2	case	_	start_char=2170|end_char=2179
+2	благочестию	благочестие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	0	root	_	start_char=2180|end_char=2191
+3	одного	один	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	start_char=2192|end_char=2198
+4	святого	святой	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=2199|end_char=2206
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2206|end_char=2207
+

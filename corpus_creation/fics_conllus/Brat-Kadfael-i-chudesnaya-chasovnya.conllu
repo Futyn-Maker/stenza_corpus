@@ -1,0 +1,2276 @@
+# text = С человека, к которому позвали бенедиктинца брата Кадфаэля для последнего причастия, заживо содрали кожу.
+# sent_id = 0
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	С	с	ADP	_	_	2	case	_	start_char=0|end_char=1
+2	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	start_char=2|end_char=10
+3	,	,	PUNCT	_	_	6	punct	_	start_char=10|end_char=11
+4	к	к	ADP	_	_	5	case	_	start_char=12|end_char=13
+5	которому	который	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	6	obl	_	start_char=14|end_char=22
+6	позвали	позвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=23|end_char=30
+7	бенедиктинца	бенедиктинца	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=31|end_char=43
+8	брата	брат	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=44|end_char=49
+9	Кадфаэля	Кадфаэля	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	8	flat:name	_	start_char=50|end_char=58
+10	для	для	ADP	_	_	12	case	_	start_char=59|end_char=62
+11	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=63|end_char=73
+12	причастия	причастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	start_char=74|end_char=83
+13	,	,	PUNCT	_	_	6	punct	_	start_char=83|end_char=84
+14	заживо	заживо	ADV	_	Degree=Pos	15	advmod	_	start_char=85|end_char=91
+15	содрали	содрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=92|end_char=99
+16	кожу	кожа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=100|end_char=104
+17	.	.	PUNCT	_	_	15	punct	_	start_char=104|end_char=105
+
+# text = – Было ли это необходимо? – сокрушенно спросил брат Кадфаэль по дороге сэра Хью Берингара, шерифа Шропширского.
+# sent_id = 1
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=106|end_char=107
+2	Было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=108|end_char=112
+3	ли	ли	PART	_	_	5	advmod	_	start_char=113|end_char=115
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=116|end_char=119
+5	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=120|end_char=130
+6	?	?	PUNCT	_	_	5	punct	_	start_char=130|end_char=131
+7	–	–	PUNCT	_	_	9	punct	_	start_char=132|end_char=133
+8	сокрушенно	сокрушенно	ADV	_	Degree=Pos	9	advmod	_	start_char=134|end_char=144
+9	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=145|end_char=152
+10	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=153|end_char=157
+11	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	appos	_	start_char=158|end_char=166
+12	по	по	ADP	_	_	13	case	_	start_char=167|end_char=169
+13	дороге	дорога	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	obl	_	start_char=170|end_char=176
+14	сэра	Сэра	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	13	nmod	_	start_char=177|end_char=181
+15	Хью	Хью	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	14	flat:name	_	start_char=182|end_char=185
+16	Берингара	Берингар	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	15	flat:name	_	start_char=186|end_char=195
+17	,	,	PUNCT	_	_	18	punct	_	start_char=195|end_char=196
+18	шерифа	шерифа	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	conj	_	start_char=197|end_char=203
+19	Шропширского	Шропширский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	18	flat:name	_	start_char=204|end_char=216
+20	.	.	PUNCT	_	_	5	punct	_	start_char=216|end_char=217
+
+# text = – Неужели вы находите подобный поступок христианским?
+# sent_id = 2
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=218|end_char=219
+2	Неужели	неужели	PART	_	_	4	advmod	_	start_char=220|end_char=227
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=228|end_char=230
+4	находите	находить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=231|end_char=239
+5	подобный	подобный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=240|end_char=248
+6	поступок	поступок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=249|end_char=257
+7	христианским	христианский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=258|end_char=270
+8	?	?	PUNCT	_	_	4	punct	_	start_char=270|end_char=271
+
+# text = Хью Берингар хмурился, не слишком расположенный поначалу к беседе, но, поразмыслив, счел, что совет именно брата
+# sent_id = 3
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Хью	Хью	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=272|end_char=275
+2	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=276|end_char=284
+3	хмурился	хмуриться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=285|end_char=293
+4	,	,	PUNCT	_	_	7	punct	_	start_char=293|end_char=294
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=295|end_char=297
+6	слишком	слишком	ADV	_	Degree=Pos	7	advmod	_	start_char=298|end_char=305
+7	расположенный	расположить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	start_char=306|end_char=319
+8	поначалу	поначалу	ADV	_	Degree=Pos	7	advmod	_	start_char=320|end_char=328
+9	к	к	ADP	_	_	10	case	_	start_char=329|end_char=330
+10	беседе	беседа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	obl	_	start_char=331|end_char=337
+11	,	,	PUNCT	_	_	16	punct	_	start_char=337|end_char=338
+12	но	но	CCONJ	_	_	16	cc	_	start_char=339|end_char=341
+13	,	,	PUNCT	_	_	14	punct	_	start_char=341|end_char=342
+14	поразмыслив	поразмыслить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	16	advcl	_	start_char=343|end_char=354
+15	,	,	PUNCT	_	_	14	punct	_	start_char=354|end_char=355
+16	счел	счеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=356|end_char=360
+17	,	,	PUNCT	_	_	21	punct	_	start_char=360|end_char=361
+18	что	что	SCONJ	_	_	21	mark	_	start_char=362|end_char=365
+19	совет	совет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	ccomp	_	start_char=366|end_char=371
+20	именно	именно	PART	_	_	21	advmod	_	start_char=372|end_char=378
+21	брата	брат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	start_char=379|end_char=384
+
+# text = Кадфаэля будет для него не лишним.
+# sent_id = 4
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Кадфаэля	Кадфаэля	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	nsubj	_	start_char=385|end_char=393
+2	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=394|end_char=399
+3	для	для	ADP	_	_	4	case	_	start_char=400|end_char=403
+4	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=404|end_char=408
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=409|end_char=411
+6	лишним	лишний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=412|end_char=418
+7	.	.	PUNCT	_	_	6	punct	_	start_char=418|end_char=419
+
+# text = – Дело тут не в том, насколько наш поступок был христианским, а в том, насколько дьявольским и опасным могло быть то, что его вызвало.
+# sent_id = 5
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=420|end_char=421
+2	Дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=422|end_char=426
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=427|end_char=430
+4	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=431|end_char=433
+5	в	в	ADP	_	_	6	case	_	start_char=434|end_char=435
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=436|end_char=439
+7	,	,	PUNCT	_	_	12	punct	_	start_char=439|end_char=440
+8	насколько	насколько	SCONJ	_	_	12	mark	_	start_char=441|end_char=450
+9	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	start_char=451|end_char=454
+10	поступок	поступок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=455|end_char=463
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=464|end_char=467
+12	христианским	христианский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	acl	_	start_char=468|end_char=480
+13	,	,	PUNCT	_	_	16	punct	_	start_char=480|end_char=481
+14	а	а	CCONJ	_	_	16	cc	_	start_char=482|end_char=483
+15	в	в	ADP	_	_	16	case	_	start_char=484|end_char=485
+16	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	12	conj	_	start_char=486|end_char=489
+17	,	,	PUNCT	_	_	22	punct	_	start_char=489|end_char=490
+18	насколько	насколько	SCONJ	_	_	22	mark	_	start_char=491|end_char=500
+19	дьявольским	дьявольский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	22	xcomp	_	start_char=501|end_char=512
+20	и	и	CCONJ	_	_	21	cc	_	start_char=513|end_char=514
+21	опасным	опасный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	conj	_	start_char=515|end_char=522
+22	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	acl	_	start_char=523|end_char=528
+23	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	cop	_	start_char=529|end_char=533
+24	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	22	nsubj	_	start_char=534|end_char=536
+25	,	,	PUNCT	_	_	28	punct	_	start_char=536|end_char=537
+26	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	28	nsubj	_	start_char=538|end_char=541
+27	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obj	_	start_char=542|end_char=545
+28	вызвало	вызвать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	_	start_char=546|end_char=553
+29	.	.	PUNCT	_	_	6	punct	_	start_char=553|end_char=554
+
+# text = Аббат не говорил вам о чудесном появлении часовни в здешних местах?
+# sent_id = 6
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Аббат	аббат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=555|end_char=560
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=561|end_char=563
+3	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=564|end_char=571
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	start_char=572|end_char=575
+5	о	о	ADP	_	_	7	case	_	start_char=576|end_char=577
+6	чудесном	чудесный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=578|end_char=586
+7	появлении	появление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	start_char=587|end_char=596
+8	часовни	часовня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=597|end_char=604
+9	в	в	ADP	_	_	11	case	_	start_char=605|end_char=606
+10	здешних	здешний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	_	start_char=607|end_char=614
+11	местах	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	7	nmod	_	start_char=615|end_char=621
+12	?	?	PUNCT	_	_	3	punct	_	start_char=621|end_char=622
+
+# text = Часовни, каковая, как будто бы, простояла здесь не менее сотни лет, а между тем еще третьего дня ничего на ее месте не было, кроме старой пашни.
+# sent_id = 7
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Часовни	часовня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	start_char=623|end_char=630
+2	,	,	PUNCT	_	_	1	punct	_	start_char=630|end_char=631
+3	каковая	каковой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	start_char=632|end_char=639
+4	,	,	PUNCT	_	_	3	punct	_	start_char=639|end_char=640
+5	как	как	SCONJ	_	_	9	mark	_	start_char=641|end_char=644
+6	будто	будто	PART	_	_	5	fixed	_	start_char=645|end_char=650
+7	бы	бы	PART	_	_	5	fixed	_	start_char=651|end_char=653
+8	,	,	PUNCT	_	_	5	punct	_	start_char=653|end_char=654
+9	простояла	простоять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=655|end_char=664
+10	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=665|end_char=670
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=671|end_char=673
+12	менее	менее	ADV	_	Degree=Cmp|PronType=Tot	13	advmod	_	start_char=674|end_char=679
+13	сотни	сотня	NUM	_	Case=Acc|NumForm=Word|NumType=Card	14	nummod:gov	_	start_char=680|end_char=685
+14	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	start_char=686|end_char=689
+15	,	,	PUNCT	_	_	27	punct	_	start_char=689|end_char=690
+16	а	а	CCONJ	_	_	27	cc	_	start_char=691|end_char=692
+17	между	между	ADP	_	_	18	case	_	start_char=693|end_char=698
+18	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	27	obl	_	start_char=699|end_char=702
+19	еще	еще	ADV	_	Degree=Pos	20	advmod	_	start_char=703|end_char=706
+20	третьего	третий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	21	amod	_	start_char=707|end_char=715
+21	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	obl	_	start_char=716|end_char=719
+22	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	27	nsubj	_	start_char=720|end_char=726
+23	на	на	ADP	_	_	25	case	_	start_char=727|end_char=729
+24	ее	ее	DET	_	Poss=Yes|PronType=Prs	25	det	_	start_char=730|end_char=732
+25	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	obl	_	start_char=733|end_char=738
+26	не	не	PART	_	Polarity=Neg	27	advmod	_	start_char=739|end_char=741
+27	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=742|end_char=746
+28	,	,	PUNCT	_	_	31	punct	_	start_char=746|end_char=747
+29	кроме	кроме	ADP	_	_	31	case	_	start_char=748|end_char=753
+30	старой	старый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	start_char=754|end_char=760
+31	пашни	пашня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	obl	_	start_char=761|end_char=766
+32	.	.	PUNCT	_	_	9	punct	_	start_char=766|end_char=767
+
+# text = Брат Кадфаэль посмотрел на шерифа снисходительно.
+# sent_id = 8
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=768|end_char=772
+2	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=773|end_char=781
+3	посмотрел	посмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=782|end_char=791
+4	на	на	ADP	_	_	5	case	_	start_char=792|end_char=794
+5	шерифа	шерифа	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=795|end_char=801
+6	снисходительно	снисходительно	ADV	_	Degree=Pos	3	advmod	_	start_char=802|end_char=816
+7	.	.	PUNCT	_	_	3	punct	_	start_char=816|end_char=817
+
+# text = – Кто же не слышал о появлении часовни в здешних местах?
+# sent_id = 9
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=818|end_char=819
+2	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	start_char=820|end_char=823
+3	же	же	PART	_	_	2	advmod	_	start_char=824|end_char=826
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=827|end_char=829
+5	слышал	слышать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=830|end_char=836
+6	о	о	ADP	_	_	7	case	_	start_char=837|end_char=838
+7	появлении	появление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=839|end_char=848
+8	часовни	часовня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=849|end_char=856
+9	в	в	ADP	_	_	11	case	_	start_char=857|end_char=858
+10	здешних	здешний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	_	start_char=859|end_char=866
+11	местах	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	7	nmod	_	start_char=867|end_char=873
+12	?	?	PUNCT	_	_	5	punct	_	start_char=873|end_char=874
+
+# text = Все сороки трещат только об этом.
+# sent_id = 10
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	start_char=875|end_char=878
+2	сороки	сорок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=879|end_char=885
+3	трещат	трещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=886|end_char=892
+4	только	только	PART	_	_	6	advmod	_	start_char=893|end_char=899
+5	об	об	ADP	_	_	6	case	_	start_char=900|end_char=902
+6	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	start_char=903|end_char=907
+7	.	.	PUNCT	_	_	3	punct	_	start_char=907|end_char=908
+
+# text = И как тот несчастный, к которому мы идем, связан с появлением этой часовни?
+# sent_id = 11
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	И	и	CCONJ	_	_	11	cc	_	start_char=909|end_char=910
+2	как	как	ADV	_	Degree=Pos|PronType=Int	11	advmod	_	start_char=911|end_char=914
+3	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=915|end_char=918
+4	несчастный	несчастный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	nsubj:pass	_	start_char=919|end_char=929
+5	,	,	PUNCT	_	_	9	punct	_	start_char=929|end_char=930
+6	к	к	ADP	_	_	7	case	_	start_char=931|end_char=932
+7	которому	который	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	9	obl	_	start_char=933|end_char=941
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=942|end_char=944
+9	идем	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=945|end_char=949
+10	,	,	PUNCT	_	_	9	punct	_	start_char=949|end_char=950
+11	связан	связать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=951|end_char=957
+12	с	с	ADP	_	_	13	case	_	start_char=958|end_char=959
+13	появлением	появление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	start_char=960|end_char=970
+14	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	start_char=971|end_char=975
+15	часовни	часовня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=976|end_char=983
+16	?	?	PUNCT	_	_	11	punct	_	start_char=983|end_char=984
+
+# text = Ведь именно поэтому отец настоятель послал меня.
+# sent_id = 12
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Ведь	ведь	PART	_	_	6	advmod	_	start_char=985|end_char=989
+2	именно	именно	PART	_	_	3	advmod	_	start_char=990|end_char=996
+3	поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=997|end_char=1004
+4	отец	отец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1005|end_char=1009
+5	настоятель	настоятель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	start_char=1010|end_char=1020
+6	послал	послать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1021|end_char=1027
+7	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=1028|end_char=1032
+8	.	.	PUNCT	_	_	6	punct	_	start_char=1032|end_char=1033
+
+# text = Последнее причастие – не совсем моя обязанность.
+# sent_id = 13
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Последнее	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=1034|end_char=1043
+2	причастие	причастие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=1044|end_char=1053
+3	–	–	PUNCT	_	_	2	punct	_	start_char=1054|end_char=1055
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1056|end_char=1058
+5	совсем	совсем	ADV	_	Degree=Pos	6	advmod	_	start_char=1059|end_char=1065
+6	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=1066|end_char=1069
+7	обязанность	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1070|end_char=1081
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1081|end_char=1082
+
+# text = – Вы как всегда проницательны, брат Кадфаэль.
+# sent_id = 14
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1083|end_char=1084
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=1085|end_char=1087
+3	как	как	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=1088|end_char=1091
+4	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=1092|end_char=1098
+5	проницательны	проницательный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1099|end_char=1112
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1112|end_char=1113
+7	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	vocative	_	start_char=1114|end_char=1118
+8	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=1119|end_char=1127
+9	.	.	PUNCT	_	_	5	punct	_	start_char=1127|end_char=1128
+
+# text = Разумеется, именно поэтому выбор пал на вас.
+# sent_id = 15
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=1129|end_char=1139
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1139|end_char=1140
+3	именно	именно	PART	_	_	4	advmod	_	start_char=1141|end_char=1147
+4	поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=1148|end_char=1155
+5	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1156|end_char=1161
+6	пал	пасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1162|end_char=1165
+7	на	на	ADP	_	_	8	case	_	start_char=1166|end_char=1168
+8	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	6	obl	_	start_char=1169|end_char=1172
+9	.	.	PUNCT	_	_	6	punct	_	start_char=1172|end_char=1173
+
+# text = Из-за вашей проницательности.
+# sent_id = 16
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Из-за	из-за	ADP	_	_	3	case	_	start_char=1174|end_char=1179
+2	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=1180|end_char=1185
+3	проницательности	проницательность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=1186|end_char=1202
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1202|end_char=1203
+
+# text = Расследование архиепископа из-за этого нашумевшего дела может принести нам кучу неприятностей, если только мы сами не разберемся в том, что происходит.
+# sent_id = 17
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Расследование	расследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=1204|end_char=1217
+2	архиепископа	архиепископа	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	start_char=1218|end_char=1230
+3	из-за	из-за	ADP	_	_	6	case	_	start_char=1231|end_char=1236
+4	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	start_char=1237|end_char=1242
+5	нашумевшего	нашуметь	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	start_char=1243|end_char=1254
+6	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	start_char=1255|end_char=1259
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1260|end_char=1265
+8	принести	принести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=1266|end_char=1274
+9	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	iobj	_	start_char=1275|end_char=1278
+10	кучу	куча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=1279|end_char=1283
+11	неприятностей	неприятность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	start_char=1284|end_char=1297
+12	,	,	PUNCT	_	_	18	punct	_	start_char=1297|end_char=1298
+13	если	если	SCONJ	_	_	18	mark	_	start_char=1299|end_char=1303
+14	только	только	PART	_	_	15	advmod	_	start_char=1304|end_char=1310
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	start_char=1311|end_char=1313
+16	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	15	acl	_	start_char=1314|end_char=1318
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=1319|end_char=1321
+18	разберемся	разберться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	7	advcl	_	start_char=1322|end_char=1332
+19	в	в	ADP	_	_	20	case	_	start_char=1333|end_char=1334
+20	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	18	obl	_	start_char=1335|end_char=1338
+21	,	,	PUNCT	_	_	23	punct	_	start_char=1338|end_char=1339
+22	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	23	nsubj	_	start_char=1340|end_char=1343
+23	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl	_	start_char=1344|end_char=1354
+24	.	.	PUNCT	_	_	7	punct	_	start_char=1354|end_char=1355
+
+# text = Король Стафан, находящийся ныне неподалеку от наших краев, намерен завтра посетить чудесную часовню.
+# sent_id = 18
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Король	король	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=1356|end_char=1362
+2	Стафан	Стафан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	start_char=1363|end_char=1369
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1369|end_char=1370
+4	находящийся	находиться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	start_char=1371|end_char=1382
+5	ныне	ныне	ADV	_	Degree=Pos	6	advmod	_	start_char=1383|end_char=1387
+6	неподалеку	неподалеку	ADV	_	Degree=Pos	4	advmod	_	start_char=1388|end_char=1398
+7	от	от	ADP	_	_	9	case	_	start_char=1399|end_char=1401
+8	наших	наш	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	9	det	_	start_char=1402|end_char=1407
+9	краев	край	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	start_char=1408|end_char=1413
+10	,	,	PUNCT	_	_	4	punct	_	start_char=1413|end_char=1414
+11	намерен	намерен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1415|end_char=1422
+12	завтра	завтра	ADV	_	Degree=Pos	13	advmod	_	start_char=1423|end_char=1429
+13	посетить	посетить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=1430|end_char=1438
+14	чудесную	чудесный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=1439|end_char=1447
+15	часовню	часовня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=1448|end_char=1455
+16	.	.	PUNCT	_	_	11	punct	_	start_char=1455|end_char=1456
+
+# text = Как вы знаете, бессмысленная жестокость также не входит в круг моих обычных обязанностей, как в круг ваших – последнее причастие для грешника.
+# sent_id = 19
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Как	как	ADV	_	Degree=Pos|PronType=Rel	3	advmod	_	start_char=1457|end_char=1460
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=1461|end_char=1463
+3	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=1464|end_char=1470
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1470|end_char=1471
+5	бессмысленная	бессмысленный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=1472|end_char=1485
+6	жестокость	жестокость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=1486|end_char=1496
+7	также	также	ADV	_	Degree=Pos	9	advmod	_	start_char=1497|end_char=1502
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1503|end_char=1505
+9	входит	входить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1506|end_char=1512
+10	в	в	ADP	_	_	11	case	_	start_char=1513|end_char=1514
+11	круг	круг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=1515|end_char=1519
+12	моих	мой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	14	det	_	start_char=1520|end_char=1524
+13	обычных	обычный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	start_char=1525|end_char=1532
+14	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	start_char=1533|end_char=1545
+15	,	,	PUNCT	_	_	18	punct	_	start_char=1545|end_char=1546
+16	как	как	SCONJ	_	_	18	case	_	start_char=1547|end_char=1550
+17	в	в	ADP	_	_	18	case	_	start_char=1551|end_char=1552
+18	круг	круг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=1553|end_char=1557
+19	ваших	ваш	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	18	nmod	_	start_char=1558|end_char=1563
+20	–	–	PUNCT	_	_	22	punct	_	start_char=1564|end_char=1565
+21	последнее	последний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	start_char=1566|end_char=1575
+22	причастие	причастие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	appos	_	start_char=1576|end_char=1585
+23	для	для	ADP	_	_	24	case	_	start_char=1586|end_char=1589
+24	грешника	грешник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	start_char=1590|end_char=1598
+25	.	.	PUNCT	_	_	9	punct	_	start_char=1598|end_char=1599
+
+# text = – Но отчего же мы так медлим? – вопросил брат Кадфаэль.
+# sent_id = 20
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1600|end_char=1601
+2	Но	но	CCONJ	_	_	7	cc	_	start_char=1602|end_char=1604
+3	отчего	отчего	ADV	_	Degree=Pos|PronType=Int	7	advmod	_	start_char=1605|end_char=1611
+4	же	же	PART	_	_	3	advmod	_	start_char=1612|end_char=1614
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=1615|end_char=1617
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1618|end_char=1621
+7	медлим	медлить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1622|end_char=1628
+8	?	?	PUNCT	_	_	7	punct	_	start_char=1628|end_char=1629
+9	–	–	PUNCT	_	_	10	punct	_	start_char=1630|end_char=1631
+10	вопросил	вопросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1632|end_char=1640
+11	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=1641|end_char=1645
+12	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	appos	_	start_char=1646|end_char=1654
+13	.	.	PUNCT	_	_	7	punct	_	start_char=1654|end_char=1655
+
+# text = – Ведь жизнь несчастного висит на волоске после всего того, что с ним сотворили.
+# sent_id = 21
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1656|end_char=1657
+2	Ведь	ведь	SCONJ	_	_	5	mark	_	start_char=1658|end_char=1662
+3	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=1663|end_char=1668
+4	несчастного	несчастный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=1669|end_char=1680
+5	висит	висеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1681|end_char=1686
+6	на	на	ADP	_	_	7	case	_	start_char=1687|end_char=1689
+7	волоске	волоска	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=1690|end_char=1697
+8	после	после	ADP	_	_	10	case	_	start_char=1698|end_char=1703
+9	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	10	det	_	start_char=1704|end_char=1709
+10	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=1710|end_char=1714
+11	,	,	PUNCT	_	_	15	punct	_	start_char=1714|end_char=1715
+12	что	что	SCONJ	_	_	15	mark	_	start_char=1716|end_char=1719
+13	с	с	ADP	_	_	14	case	_	start_char=1720|end_char=1721
+14	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	start_char=1722|end_char=1725
+15	сотворили	сотворить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	start_char=1726|end_char=1735
+16	.	.	PUNCT	_	_	5	punct	_	start_char=1735|end_char=1736
+
+# text = Или вы желаете вовсе не последнего причастия, а только расследования?
+# sent_id = 22
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Или	или	CCONJ	_	_	3	cc	_	start_char=1737|end_char=1740
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=1741|end_char=1743
+3	желаете	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1744|end_char=1751
+4	вовсе	вовсе	ADV	_	Degree=Pos	6	advmod	_	start_char=1752|end_char=1757
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1758|end_char=1760
+6	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=1761|end_char=1771
+7	причастия	причастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obj	_	start_char=1772|end_char=1781
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1781|end_char=1782
+9	а	а	CCONJ	_	_	11	cc	_	start_char=1783|end_char=1784
+10	только	только	PART	_	_	11	advmod	_	start_char=1785|end_char=1791
+11	расследования	расследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	conj	_	start_char=1792|end_char=1805
+12	?	?	PUNCT	_	_	3	punct	_	start_char=1805|end_char=1806
+
+# text = Моего расследования?
+# sent_id = 23
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Моего	мой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	start_char=1807|end_char=1812
+2	расследования	расследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=1813|end_char=1826
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1826|end_char=1827
+
+# text = Вы желаете что-то найти, или желаете что-то скрыть?
+# sent_id = 24
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=1828|end_char=1830
+2	желаете	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1831|end_char=1838
+3	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	obj	_	start_char=1839|end_char=1845
+4	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1846|end_char=1851
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1851|end_char=1852
+6	или	или	CCONJ	_	_	7	cc	_	start_char=1853|end_char=1856
+7	желаете	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1857|end_char=1864
+8	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	9	obj	_	start_char=1865|end_char=1871
+9	скрыть	скрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=1872|end_char=1878
+10	?	?	PUNCT	_	_	2	punct	_	start_char=1878|end_char=1879
+
+# text = – Не ведаю, чего именно желаю, брат Кадфаэль, – задумчиво произнес шериф Берингар.
+# sent_id = 25
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1880|end_char=1881
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1882|end_char=1884
+3	ведаю	ведать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1885|end_char=1890
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1890|end_char=1891
+5	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	start_char=1892|end_char=1896
+6	именно	именно	PART	_	_	7	advmod	_	start_char=1897|end_char=1903
+7	желаю	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=1904|end_char=1909
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1909|end_char=1910
+9	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	vocative	_	start_char=1911|end_char=1915
+10	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	appos	_	start_char=1916|end_char=1924
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1924|end_char=1925
+12	–	–	PUNCT	_	_	14	punct	_	start_char=1926|end_char=1927
+13	задумчиво	задумчиво	ADV	_	Degree=Pos	14	advmod	_	start_char=1928|end_char=1937
+14	произнес	произнести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1938|end_char=1946
+15	шериф	шериф	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=1947|end_char=1952
+16	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	15	appos	_	start_char=1953|end_char=1961
+17	.	.	PUNCT	_	_	3	punct	_	start_char=1961|end_char=1962
+
+# text = – Может быть, чуда, может быть, объяснения чуда, в чем вы так преуспевающи.
+# sent_id = 26
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	10	punct	_	start_char=1963|end_char=1964
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=1965|end_char=1970
+3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1971|end_char=1975
+4	,	,	PUNCT	_	_	2	punct	_	start_char=1975|end_char=1976
+5	чуда	чудо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nsubj	_	start_char=1977|end_char=1981
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1981|end_char=1982
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=1983|end_char=1988
+8	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=1989|end_char=1993
+9	,	,	PUNCT	_	_	7	punct	_	start_char=1993|end_char=1994
+10	объяснения	объяснение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=1995|end_char=2005
+11	чуда	чудо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	start_char=2006|end_char=2010
+12	,	,	PUNCT	_	_	17	punct	_	start_char=2010|end_char=2011
+13	в	в	ADP	_	_	14	case	_	start_char=2012|end_char=2013
+14	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	17	obl	_	start_char=2014|end_char=2017
+15	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	17	nsubj	_	start_char=2018|end_char=2020
+16	так	так	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=2021|end_char=2024
+17	преуспевающи	преуспевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=2025|end_char=2037
+18	.	.	PUNCT	_	_	10	punct	_	start_char=2037|end_char=2038
+
+# text = Могу сказать вам также еще только одно: несчастный грешник навлек на себя столько страданий еще и по той причине, что они его мало трогают.
+# sent_id = 27
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2039|end_char=2043
+2	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2044|end_char=2051
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	iobj	_	start_char=2052|end_char=2055
+4	также	также	ADV	_	Degree=Pos	2	advmod	_	start_char=2056|end_char=2061
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=2062|end_char=2065
+6	только	только	PART	_	_	7	advmod	_	start_char=2066|end_char=2072
+7	одно	один	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	start_char=2073|end_char=2077
+8	:	:	PUNCT	_	_	11	punct	_	start_char=2077|end_char=2078
+9	несчастный	несчастный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=2079|end_char=2089
+10	грешник	грешник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=2090|end_char=2097
+11	навлек	навлечь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=2098|end_char=2104
+12	на	на	ADP	_	_	13	case	_	start_char=2105|end_char=2107
+13	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	obl	_	start_char=2108|end_char=2112
+14	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	15	nummod:gov	_	start_char=2113|end_char=2120
+15	страданий	страдание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	obj	_	start_char=2121|end_char=2130
+16	еще	еще	ADV	_	Degree=Pos	20	advmod	_	start_char=2131|end_char=2134
+17	и	и	PART	_	_	20	advmod	_	start_char=2135|end_char=2136
+18	по	по	ADP	_	_	20	case	_	start_char=2137|end_char=2139
+19	той	тот	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	start_char=2140|end_char=2143
+20	причине	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	obl	_	start_char=2144|end_char=2151
+21	,	,	PUNCT	_	_	26	punct	_	start_char=2151|end_char=2152
+22	что	что	SCONJ	_	_	26	mark	_	start_char=2153|end_char=2156
+23	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	start_char=2157|end_char=2160
+24	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obj	_	start_char=2161|end_char=2164
+25	мало	мало	ADV	_	Degree=Pos|PronType=Tot	26	advmod	_	start_char=2165|end_char=2169
+26	трогают	трогать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl	_	start_char=2170|end_char=2177
+27	.	.	PUNCT	_	_	1	punct	_	start_char=2177|end_char=2178
+
+# text = Именно потому в нем есть что-то дьявольское.
+# sent_id = 28
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Именно	именно	PART	_	_	2	advmod	_	start_char=2179|end_char=2185
+2	потому	потому	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2186|end_char=2192
+3	в	в	ADP	_	_	4	case	_	start_char=2193|end_char=2194
+4	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=2195|end_char=2198
+5	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	start_char=2199|end_char=2203
+6	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	nsubj	_	start_char=2204|end_char=2210
+7	дьявольское	дьявольский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=2211|end_char=2222
+8	.	.	PUNCT	_	_	4	punct	_	start_char=2222|end_char=2223
+
+# text = Думаю, он все же умирает, но мы располагаем некоторым временем, оттого спешка наша не чрезмерна…
+# sent_id = 29
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2224|end_char=2229
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2229|end_char=2230
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=2231|end_char=2233
+4	все	всё	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=2234|end_char=2237
+5	же	же	PART	_	_	4	fixed	_	start_char=2238|end_char=2240
+6	умирает	умирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2241|end_char=2248
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2248|end_char=2249
+8	но	но	CCONJ	_	_	10	cc	_	start_char=2250|end_char=2252
+9	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=2253|end_char=2255
+10	располагаем	располагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2256|end_char=2267
+11	некоторым	некоторый	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	12	det	_	start_char=2268|end_char=2277
+12	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	start_char=2278|end_char=2286
+13	,	,	PUNCT	_	_	18	punct	_	start_char=2286|end_char=2287
+14	оттого	оттого	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=2288|end_char=2294
+15	спешка	спешка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	start_char=2295|end_char=2301
+16	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=2302|end_char=2306
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=2307|end_char=2309
+18	чрезмерна	чрезмерный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	6	conj	_	start_char=2310|end_char=2319
+19	…	…	PUNCT	_	_	6	punct	_	start_char=2319|end_char=2320
+
+# text = – Хорошо, тогда могу я узнать, в чем он так провинился, что внушил вам столь великий страх?
+# sent_id = 30
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2321|end_char=2322
+2	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2323|end_char=2329
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2329|end_char=2330
+4	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2331|end_char=2336
+5	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2337|end_char=2341
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2342|end_char=2343
+7	узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=2344|end_char=2350
+8	,	,	PUNCT	_	_	13	punct	_	start_char=2350|end_char=2351
+9	в	в	ADP	_	_	10	case	_	start_char=2352|end_char=2353
+10	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	start_char=2354|end_char=2357
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=2358|end_char=2360
+12	так	так	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=2361|end_char=2364
+13	провинился	провиниться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	ccomp	_	start_char=2365|end_char=2375
+14	,	,	PUNCT	_	_	16	punct	_	start_char=2375|end_char=2376
+15	что	что	SCONJ	_	_	16	mark	_	start_char=2377|end_char=2380
+16	внушил	внушить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	start_char=2381|end_char=2387
+17	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	16	iobj	_	start_char=2388|end_char=2391
+18	столь	столь	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=2392|end_char=2397
+19	великий	великий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	start_char=2398|end_char=2405
+20	страх	страх	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	start_char=2406|end_char=2411
+21	?	?	PUNCT	_	_	2	punct	_	start_char=2411|end_char=2412
+
+# text = И какое отношение он имеет к чудесно явившейся в поле часовне?
+# sent_id = 31
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	И	и	CCONJ	_	_	5	cc	_	start_char=2413|end_char=2414
+2	какое	какой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	det	_	start_char=2415|end_char=2420
+3	отношение	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=2421|end_char=2430
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=2431|end_char=2433
+5	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2434|end_char=2439
+6	к	к	ADP	_	_	11	case	_	start_char=2440|end_char=2441
+7	чудесно	чудесно	ADV	_	Degree=Pos	8	advmod	_	start_char=2442|end_char=2449
+8	явившейся	явиться	VERB	_	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	start_char=2450|end_char=2459
+9	в	в	ADP	_	_	10	case	_	start_char=2460|end_char=2461
+10	поле	поле	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	start_char=2462|end_char=2466
+11	часовне	часовня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=2467|end_char=2474
+12	?	?	PUNCT	_	_	5	punct	_	start_char=2474|end_char=2475
+
+# text = Берингар засопел, нахмурился еще мрачнее и наконец отрывисто сказал: – Начнем не с начала.
+# sent_id = 32
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	2	nsubj	_	start_char=2476|end_char=2484
+2	засопел	засопеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2485|end_char=2492
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2492|end_char=2493
+4	нахмурился	нахмуриться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2494|end_char=2504
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=2505|end_char=2508
+6	мрачнее	мрачно	ADV	_	Degree=Cmp	4	advmod	_	start_char=2509|end_char=2516
+7	и	и	CCONJ	_	_	10	cc	_	start_char=2517|end_char=2518
+8	наконец	наконец	ADV	_	Degree=Pos	10	advmod	_	start_char=2519|end_char=2526
+9	отрывисто	отрывисто	ADV	_	Degree=Pos	10	advmod	_	start_char=2527|end_char=2536
+10	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2537|end_char=2543
+11	:	:	PUNCT	_	_	13	punct	_	start_char=2543|end_char=2544
+12	–	–	PUNCT	_	_	13	punct	_	start_char=2545|end_char=2546
+13	Начнем	начь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=2547|end_char=2553
+14	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=2554|end_char=2556
+15	с	с	ADP	_	_	16	case	_	start_char=2557|end_char=2558
+16	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	start_char=2559|end_char=2565
+17	.	.	PUNCT	_	_	2	punct	_	start_char=2565|end_char=2566
+
+# text = Но этот человек – не человек.
+# sent_id = 33
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=2567|end_char=2569
+2	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=2570|end_char=2574
+3	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2575|end_char=2582
+4	–	–	PUNCT	_	_	3	punct	_	start_char=2583|end_char=2584
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2585|end_char=2587
+6	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2588|end_char=2595
+7	.	.	PUNCT	_	_	6	punct	_	start_char=2595|end_char=2596
+
+# text = Мы знаем, что у него два сердца.
+# sent_id = 34
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=2597|end_char=2599
+2	знаем	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2600|end_char=2605
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2605|end_char=2606
+4	что	что	SCONJ	_	_	6	mark	_	start_char=2607|end_char=2610
+5	у	у	ADP	_	_	6	case	_	start_char=2611|end_char=2612
+6	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	ccomp	_	start_char=2613|end_char=2617
+7	два	два	NUM	_	Case=Nom|Gender=Neut|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=2618|end_char=2621
+8	сердца	сердце	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nsubj	_	start_char=2622|end_char=2628
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2628|end_char=2629
+
+# text = – Надеюсь, вам не пришлось для этого вскрывать ему грудную клетку?
+# sent_id = 35
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2630|end_char=2631
+2	Надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=2632|end_char=2639
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2639|end_char=2640
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	start_char=2641|end_char=2644
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2645|end_char=2647
+6	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2648|end_char=2656
+7	для	для	ADP	_	_	8	case	_	start_char=2657|end_char=2660
+8	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	start_char=2661|end_char=2666
+9	вскрывать	вскрывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=2667|end_char=2676
+10	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	start_char=2677|end_char=2680
+11	грудную	грудной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=2681|end_char=2688
+12	клетку	клетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=2689|end_char=2695
+13	?	?	PUNCT	_	_	6	punct	_	start_char=2695|end_char=2696
+
+# text = – иронично уточнил брат Кадфаэль.
+# sent_id = 36
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2697|end_char=2698
+2	иронично	иронично	ADV	_	Degree=Pos	3	advmod	_	start_char=2699|end_char=2707
+3	уточнил	уточнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2708|end_char=2715
+4	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2716|end_char=2720
+5	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	appos	_	start_char=2721|end_char=2729
+6	.	.	PUNCT	_	_	3	punct	_	start_char=2729|end_char=2730
+
+# text = Хью Берингар медленно кивнул.
+# sent_id = 37
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Хью	Хью	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=2731|end_char=2734
+2	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=2735|end_char=2743
+3	медленно	медленно	ADV	_	Degree=Pos	4	advmod	_	start_char=2744|end_char=2752
+4	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2753|end_char=2759
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2759|end_char=2760
+
+# text = – Да, мы… привскрыли.
+# sent_id = 38
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2761|end_char=2762
+2	Да	да	PART	_	_	6	parataxis	_	start_char=2763|end_char=2765
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2765|end_char=2766
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=2767|end_char=2769
+5	…	…	PUNCT	_	_	2	punct	_	start_char=2769|end_char=2770
+6	привскрыли	привскрыть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2771|end_char=2781
+7	.	.	PUNCT	_	_	6	punct	_	start_char=2781|end_char=2782
+
+# text = Ибо пульс его был весьма странен.
+# sent_id = 39
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Ибо	ибо	SCONJ	_	_	6	mark	_	start_char=2783|end_char=2786
+2	пульс	пульс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2787|end_char=2792
+3	его	его	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=2793|end_char=2796
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=2797|end_char=2800
+5	весьма	весьма	ADV	_	Degree=Pos	6	advmod	_	start_char=2801|end_char=2807
+6	странен	странный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2808|end_char=2815
+7	.	.	PUNCT	_	_	6	punct	_	start_char=2815|end_char=2816
+
+# text = Мы знаем определенно, что у него два сердца.
+# sent_id = 40
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=2817|end_char=2819
+2	знаем	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2820|end_char=2825
+3	определенно	определенно	ADV	_	Degree=Pos	2	advmod	_	start_char=2826|end_char=2837
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2837|end_char=2838
+5	что	что	SCONJ	_	_	7	mark	_	start_char=2839|end_char=2842
+6	у	у	ADP	_	_	7	case	_	start_char=2843|end_char=2844
+7	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	advcl	_	start_char=2845|end_char=2849
+8	два	два	NUM	_	Case=Nom|Gender=Neut|NumForm=Word|NumType=Card	9	nummod:gov	_	start_char=2850|end_char=2853
+9	сердца	сердце	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nsubj	_	start_char=2854|end_char=2860
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2860|end_char=2861
+
+# text = – И он все еще жив, – отметил брат Кадфаэль.
+# sent_id = 41
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2862|end_char=2863
+2	И	и	CCONJ	_	_	6	cc	_	start_char=2864|end_char=2865
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=2866|end_char=2868
+4	все	всё	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=2869|end_char=2872
+5	еще	еще	ADV	_	Degree=Pos	4	fixed	_	start_char=2873|end_char=2876
+6	жив	живой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2877|end_char=2880
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2880|end_char=2881
+8	–	–	PUNCT	_	_	9	punct	_	start_char=2882|end_char=2883
+9	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2884|end_char=2891
+10	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=2892|end_char=2896
+11	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	appos	_	start_char=2897|end_char=2905
+12	.	.	PUNCT	_	_	6	punct	_	start_char=2905|end_char=2906
+
+# text = – Да, похоже, вы меня убедите в том, что это не совсем человек.
+# sent_id = 42
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	8	punct	_	start_char=2907|end_char=2908
+2	Да	да	PART	_	_	8	parataxis	_	start_char=2909|end_char=2911
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2911|end_char=2912
+4	похоже	похоже	ADV	_	Degree=Pos	8	parataxis	_	start_char=2913|end_char=2919
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2919|end_char=2920
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	start_char=2921|end_char=2923
+7	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=2924|end_char=2928
+8	убедите	убедать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2929|end_char=2936
+9	в	в	ADP	_	_	10	case	_	start_char=2937|end_char=2938
+10	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	start_char=2939|end_char=2942
+11	,	,	PUNCT	_	_	16	punct	_	start_char=2942|end_char=2943
+12	что	что	SCONJ	_	_	16	mark	_	start_char=2944|end_char=2947
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nsubj	_	start_char=2948|end_char=2951
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=2952|end_char=2954
+15	совсем	совсем	ADV	_	Degree=Pos	16	advmod	_	start_char=2955|end_char=2961
+16	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	acl	_	start_char=2962|end_char=2969
+17	.	.	PUNCT	_	_	8	punct	_	start_char=2969|end_char=2970
+
+# text = Однако в моих странствиях я видел людей с двумя головами, с четырьмя руками, или сросшихся какими-либо частями тела – и они были всего лишь людьми, недужными, несущими свой крест.
+# sent_id = 43
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Однако	однако	CCONJ	_	_	6	cc	_	start_char=2971|end_char=2977
+2	в	в	ADP	_	_	4	case	_	start_char=2978|end_char=2979
+3	моих	мой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	start_char=2980|end_char=2984
+4	странствиях	странствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	obl	_	start_char=2985|end_char=2996
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=2997|end_char=2998
+6	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2999|end_char=3004
+7	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	start_char=3005|end_char=3010
+8	с	с	ADP	_	_	10	case	_	start_char=3011|end_char=3012
+9	двумя	два	NUM	_	Case=Ins|NumForm=Word|NumType=Card	10	nummod	_	start_char=3013|end_char=3018
+10	головами	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	obl	_	start_char=3019|end_char=3027
+11	,	,	PUNCT	_	_	14	punct	_	start_char=3027|end_char=3028
+12	с	с	ADP	_	_	14	case	_	start_char=3029|end_char=3030
+13	четырьмя	четыре	NUM	_	Case=Ins|NumForm=Word|NumType=Card	14	nummod	_	start_char=3031|end_char=3039
+14	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	conj	_	start_char=3040|end_char=3046
+15	,	,	PUNCT	_	_	17	punct	_	start_char=3046|end_char=3047
+16	или	или	CCONJ	_	_	17	cc	_	start_char=3048|end_char=3051
+17	сросшихся	сроситься	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	start_char=3052|end_char=3061
+18	какими-либо	какой--ибо	DET	_	Case=Ins|Number=Plur|PronType=Ind	19	det	_	start_char=3062|end_char=3073
+19	частями	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	17	obl:agent	_	start_char=3074|end_char=3081
+20	тела	тело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	start_char=3082|end_char=3086
+21	–	–	PUNCT	_	_	27	punct	_	start_char=3087|end_char=3088
+22	и	и	CCONJ	_	_	27	cc	_	start_char=3089|end_char=3090
+23	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	start_char=3091|end_char=3094
+24	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	27	cop	_	start_char=3095|end_char=3099
+25	всего	всего	PART	_	_	26	advmod	_	start_char=3100|end_char=3105
+26	лишь	лишь	PART	_	_	27	advmod	_	start_char=3106|end_char=3110
+27	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	conj	_	start_char=3111|end_char=3117
+28	,	,	PUNCT	_	_	29	punct	_	start_char=3117|end_char=3118
+29	недужными	недужный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	27	amod	_	start_char=3119|end_char=3128
+30	,	,	PUNCT	_	_	31	punct	_	start_char=3128|end_char=3129
+31	несущими	несовить	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	29	conj	_	start_char=3130|end_char=3138
+32	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	33	det	_	start_char=3139|end_char=3143
+33	крест	крест	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	obj	_	start_char=3144|end_char=3149
+34	.	.	PUNCT	_	_	6	punct	_	start_char=3149|end_char=3150
+
+# text = – Его кровь имеет необычный оранжевый оттенок.
+# sent_id = 44
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3151|end_char=3152
+2	Его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=3153|end_char=3156
+3	кровь	кровь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=3157|end_char=3162
+4	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3163|end_char=3168
+5	необычный	необычный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=3169|end_char=3178
+6	оранжевый	оранжевый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=3179|end_char=3188
+7	оттенок	оттенок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=3189|end_char=3196
+8	.	.	PUNCT	_	_	4	punct	_	start_char=3196|end_char=3197
+
+# text = – Гм.
+# sent_id = 45
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3198|end_char=3199
+2	Гм	гм	INTJ	_	Abbr=Yes	0	root	_	start_char=3200|end_char=3202
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3202|end_char=3203
+
+# text = – Его тело холодно, как у змеи, и внутри оно холоднее, чем снаружи.
+# sent_id = 46
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3204|end_char=3205
+2	Его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=3206|end_char=3209
+3	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=3210|end_char=3214
+4	холодно	холодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3215|end_char=3222
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3222|end_char=3223
+6	как	как	SCONJ	_	_	8	mark	_	start_char=3224|end_char=3227
+7	у	у	ADP	_	_	8	case	_	start_char=3228|end_char=3229
+8	змеи	змея	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=3230|end_char=3234
+9	,	,	PUNCT	_	_	13	punct	_	start_char=3234|end_char=3235
+10	и	и	CCONJ	_	_	13	cc	_	start_char=3236|end_char=3237
+11	внутри	внутри	ADV	_	Degree=Pos	13	advmod	_	start_char=3238|end_char=3244
+12	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=3245|end_char=3248
+13	холоднее	холодный	ADJ	_	Degree=Cmp	4	conj	_	start_char=3249|end_char=3257
+14	,	,	PUNCT	_	_	16	punct	_	start_char=3257|end_char=3258
+15	чем	чем	SCONJ	_	_	16	mark	_	start_char=3259|end_char=3262
+16	снаружи	снаружи	ADV	_	Degree=Pos	13	advcl	_	start_char=3263|end_char=3270
+17	.	.	PUNCT	_	_	4	punct	_	start_char=3270|end_char=3271
+
+# text = – Гм…
+# sent_id = 47
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3272|end_char=3273
+2	Гм	гм	INTJ	_	_	0	root	_	start_char=3274|end_char=3276
+3	…	…	PUNCT	_	_	2	punct	_	start_char=3276|end_char=3277
+
+# text = – Поверьте, брат Кадфаль, мне совершенно не до шуток.
+# sent_id = 48
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3278|end_char=3279
+2	Поверьте	поверить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3280|end_char=3288
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3288|end_char=3289
+4	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=3290|end_char=3294
+5	Кадфаль	Кадфаль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	flat:name	_	start_char=3295|end_char=3302
+6	,	,	PUNCT	_	_	11	punct	_	start_char=3302|end_char=3303
+7	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	iobj	_	start_char=3304|end_char=3307
+8	совершенно	совершенно	ADV	_	Degree=Pos	9	advmod	_	start_char=3308|end_char=3318
+9	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=3319|end_char=3321
+10	до	до	ADP	_	_	11	case	_	start_char=3322|end_char=3324
+11	шуток	шутка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	parataxis	_	start_char=3325|end_char=3330
+12	.	.	PUNCT	_	_	2	punct	_	start_char=3330|end_char=3331
+
+# text = Кроме того, он обладал некими предметами…
+# sent_id = 49
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Кроме	кроме	ADP	_	_	2	case	_	start_char=3332|end_char=3337
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	parataxis	_	start_char=3338|end_char=3342
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3342|end_char=3343
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3344|end_char=3346
+5	обладал	обладать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3347|end_char=3354
+6	некими	некий	DET	_	Case=Ins|Number=Plur|PronType=Ind	7	det	_	start_char=3355|end_char=3361
+7	предметами	предмет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	start_char=3362|end_char=3372
+8	…	…	PUNCT	_	_	5	punct	_	start_char=3372|end_char=3373
+
+# text = – Которые, очевидно, ему не помогли.
+# sent_id = 50
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	8	punct	_	start_char=3374|end_char=3375
+2	Которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	start_char=3376|end_char=3383
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3383|end_char=3384
+4	очевидно	очевидный	ADV	_	Degree=Pos	8	parataxis	_	start_char=3385|end_char=3393
+5	,	,	PUNCT	_	_	4	punct	_	start_char=3393|end_char=3394
+6	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	start_char=3395|end_char=3398
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=3399|end_char=3401
+8	помогли	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3402|end_char=3409
+9	.	.	PUNCT	_	_	8	punct	_	start_char=3409|end_char=3410
+
+# text = – Обладает странными знаниями и говорит чертовски странные вещи!
+# sent_id = 51
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3411|end_char=3412
+2	Обладает	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3413|end_char=3421
+3	странными	странный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	start_char=3422|end_char=3431
+4	знаниями	знание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	obl	_	start_char=3432|end_char=3440
+5	и	и	CCONJ	_	_	6	cc	_	start_char=3441|end_char=3442
+6	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3443|end_char=3450
+7	чертовски	чертовски	ADV	_	Degree=Pos	8	advmod	_	start_char=3451|end_char=3460
+8	странные	странный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	start_char=3461|end_char=3469
+9	вещи	вещь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	start_char=3470|end_char=3474
+10	!	!	PUNCT	_	_	2	punct	_	start_char=3474|end_char=3475
+
+# text = – А, он говорит странные вещи!
+# sent_id = 52
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3476|end_char=3477
+2	А	а	CCONJ	_	_	5	cc	_	start_char=3478|end_char=3479
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3479|end_char=3480
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3481|end_char=3483
+5	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3484|end_char=3491
+6	странные	странный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	start_char=3492|end_char=3500
+7	вещи	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=3501|end_char=3505
+8	!	!	PUNCT	_	_	5	punct	_	start_char=3505|end_char=3506
+
+# text = Так бы сразу и сказали – это многое объясняет.
+# sent_id = 53
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3507|end_char=3510
+2	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=3511|end_char=3513
+3	сразу	сразу	ADV	_	Degree=Pos	5	advmod	_	start_char=3514|end_char=3519
+4	и	и	PART	_	_	5	advmod	_	start_char=3520|end_char=3521
+5	сказали	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3522|end_char=3529
+6	–	–	PUNCT	_	_	9	punct	_	start_char=3530|end_char=3531
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=3532|end_char=3535
+8	многое	многое	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	9	nsubj	_	start_char=3536|end_char=3542
+9	объясняет	объяснять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=3543|end_char=3552
+10	.	.	PUNCT	_	_	5	punct	_	start_char=3552|end_char=3553
+
+# text = Шериф Берингар насупился.
+# sent_id = 54
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Шериф	Шериф	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=3554|end_char=3559
+2	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=3560|end_char=3568
+3	насупился	насупиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3569|end_char=3578
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3578|end_char=3579
+
+# text = – Побеседуйте с ним, отпустите грехи, если это в ваших силах и в его интересах, и вы поймете все, что казалось нам пугающим и смущающим наши души.
+# sent_id = 55
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3580|end_char=3581
+2	Побеседуйте	побеседовать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3582|end_char=3593
+3	с	с	ADP	_	_	4	case	_	start_char=3594|end_char=3595
+4	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=3596|end_char=3599
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3599|end_char=3600
+6	отпустите	отпустить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3601|end_char=3610
+7	грехи	грех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	start_char=3611|end_char=3616
+8	,	,	PUNCT	_	_	13	punct	_	start_char=3616|end_char=3617
+9	если	если	SCONJ	_	_	13	mark	_	start_char=3618|end_char=3622
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	start_char=3623|end_char=3626
+11	в	в	ADP	_	_	13	case	_	start_char=3627|end_char=3628
+12	ваших	ваш	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs	13	det	_	start_char=3629|end_char=3634
+13	силах	сила	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	advcl	_	start_char=3635|end_char=3640
+14	и	и	CCONJ	_	_	17	cc	_	start_char=3641|end_char=3642
+15	в	в	ADP	_	_	17	case	_	start_char=3643|end_char=3644
+16	его	его	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=3645|end_char=3648
+17	интересах	интерес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	conj	_	start_char=3649|end_char=3658
+18	,	,	PUNCT	_	_	21	punct	_	start_char=3658|end_char=3659
+19	и	и	CCONJ	_	_	21	cc	_	start_char=3660|end_char=3661
+20	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	21	nsubj	_	start_char=3662|end_char=3664
+21	поймете	понять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3665|end_char=3672
+22	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	21	obj	_	start_char=3673|end_char=3676
+23	,	,	PUNCT	_	_	25	punct	_	start_char=3676|end_char=3677
+24	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	25	nsubj	_	start_char=3678|end_char=3681
+25	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	22	acl:relcl	_	start_char=3682|end_char=3690
+26	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	25	iobj	_	start_char=3691|end_char=3694
+27	пугающим	пугающий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	25	xcomp	_	start_char=3695|end_char=3703
+28	и	и	CCONJ	_	_	29	cc	_	start_char=3704|end_char=3705
+29	смущающим	смущать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	27	conj	_	start_char=3706|end_char=3715
+30	наши	наш	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	31	det	_	start_char=3716|end_char=3720
+31	души	душа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	29	obj	_	start_char=3721|end_char=3725
+32	.	.	PUNCT	_	_	2	punct	_	start_char=3725|end_char=3726
+
+# text = – Аминь, – согласился брат Кадфаэль.
+# sent_id = 56
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3727|end_char=3728
+2	Аминь	аминь	INTJ	_	_	0	root	_	start_char=3729|end_char=3734
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3734|end_char=3735
+4	–	–	PUNCT	_	_	5	punct	_	start_char=3736|end_char=3737
+5	согласился	согласиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=3738|end_char=3748
+6	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=3749|end_char=3753
+7	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	appos	_	start_char=3754|end_char=3762
+8	.	.	PUNCT	_	_	2	punct	_	start_char=3762|end_char=3763
+
+# text = – Введите же меня в сию обитель скорби.
+# sent_id = 57
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3764|end_char=3765
+2	Введите	ввести	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3766|end_char=3773
+3	же	же	PART	_	_	2	advmod	_	start_char=3774|end_char=3776
+4	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=3777|end_char=3781
+5	в	в	ADP	_	_	7	case	_	start_char=3782|end_char=3783
+6	сию	сей	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=3784|end_char=3787
+7	обитель	обитель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=3788|end_char=3795
+8	скорби	скорбь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=3796|end_char=3802
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3802|end_char=3803
+
+# text = Запах подземелья был, как водится, удушлив и затхл, и полон самыми неприятными миазмами.
+# sent_id = 58
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Запах	запах	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3805|end_char=3810
+2	подземелья	подземелье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	start_char=3811|end_char=3821
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3822|end_char=3825
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3825|end_char=3826
+5	как	как	SCONJ	_	_	6	mark	_	start_char=3827|end_char=3830
+6	водится	водиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	start_char=3831|end_char=3838
+7	,	,	PUNCT	_	_	8	punct	_	start_char=3838|end_char=3839
+8	удушлив	удушлить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=3840|end_char=3847
+9	и	и	CCONJ	_	_	10	cc	_	start_char=3848|end_char=3849
+10	затхл	зать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=3850|end_char=3855
+11	,	,	PUNCT	_	_	13	punct	_	start_char=3855|end_char=3856
+12	и	и	CCONJ	_	_	13	cc	_	start_char=3857|end_char=3858
+13	полон	полный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	conj	_	start_char=3859|end_char=3864
+14	самыми	самый	DET	_	Case=Ins|Number=Plur|PronType=Emp	15	det	_	start_char=3865|end_char=3871
+15	неприятными	неприятный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	start_char=3872|end_char=3883
+16	миазмами	миазм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	obl	_	start_char=3884|end_char=3892
+17	.	.	PUNCT	_	_	3	punct	_	start_char=3892|end_char=3893
+
+# text = Но улавливалось в нем что-то еще, крайне тревожащее нюх своей чужеродностью.
+# sent_id = 59
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=3894|end_char=3896
+2	улавливалось	улавливаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3897|end_char=3909
+3	в	в	ADP	_	_	4	case	_	start_char=3910|end_char=3911
+4	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=3912|end_char=3915
+5	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	2	nsubj	_	start_char=3916|end_char=3922
+6	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=3923|end_char=3926
+7	,	,	PUNCT	_	_	9	punct	_	start_char=3926|end_char=3927
+8	крайне	крайне	ADV	_	Degree=Pos	9	advmod	_	start_char=3928|end_char=3934
+9	тревожащее	тревожать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	start_char=3935|end_char=3945
+10	нюх	нюх	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=3946|end_char=3949
+11	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=3950|end_char=3955
+12	чужеродностью	чужеродность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	iobj	_	start_char=3956|end_char=3969
+13	.	.	PUNCT	_	_	2	punct	_	start_char=3969|end_char=3970
+
+# text = Или напротив?
+# sent_id = 60
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Или	или	CCONJ	_	_	2	cc	_	start_char=3971|end_char=3974
+2	напротив	напротив	ADV	_	Degree=Pos	0	root	_	start_char=3975|end_char=3983
+3	?	?	PUNCT	_	_	2	punct	_	start_char=3983|end_char=3984
+
+# text = Вовсе не чужеродностью?
+# sent_id = 61
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Вовсе	вовсе	ADV	_	Degree=Pos	3	advmod	_	start_char=3985|end_char=3990
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3991|end_char=3993
+3	чужеродностью	чужеродность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=3994|end_char=4007
+4	?	?	PUNCT	_	_	3	punct	_	start_char=4007|end_char=4008
+
+# text = Берингар остановился в дверях.
+# sent_id = 62
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	2	nsubj	_	start_char=4009|end_char=4017
+2	остановился	остановиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4018|end_char=4029
+3	в	в	ADP	_	_	4	case	_	start_char=4030|end_char=4031
+4	дверях	дверь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	obl	_	start_char=4032|end_char=4038
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4038|end_char=4039
+
+# text = Кадфаэль прошел немного вперед в недра каменного мешка, где на голых деревянных досках лежало нечто еще дышащее – надсадно и хрипло; колеблющееся и трепещущее; покрытое корками подсыхающей крови, из-под которых сочилась свежая, стекающая повсюду тонкими струйками, капающая с шершавого занозистого ложа на каменный пол; и, кроме того, все еще скованное цепями.
+# sent_id = 63
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=4040|end_char=4048
+2	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4049|end_char=4055
+3	немного	немного	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=4056|end_char=4063
+4	вперед	вперед	ADV	_	Degree=Pos	2	advmod	_	start_char=4064|end_char=4070
+5	в	в	ADP	_	_	6	case	_	start_char=4071|end_char=4072
+6	недра	недр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obl	_	start_char=4073|end_char=4078
+7	каменного	каменный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4079|end_char=4088
+8	мешка	мешка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=4089|end_char=4094
+9	,	,	PUNCT	_	_	15	punct	_	start_char=4094|end_char=4095
+10	где	где	ADV	_	Degree=Pos|PronType=Rel	15	advmod	_	start_char=4096|end_char=4099
+11	на	на	ADP	_	_	14	case	_	start_char=4100|end_char=4102
+12	голых	голый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	start_char=4103|end_char=4108
+13	деревянных	деревянный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	start_char=4109|end_char=4119
+14	досках	доска	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	obl	_	start_char=4120|end_char=4126
+15	лежало	лежать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=4127|end_char=4133
+16	нечто	нечто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	15	nsubj	_	start_char=4134|end_char=4139
+17	еще	еще	ADV	_	Degree=Pos	18	advmod	_	start_char=4140|end_char=4143
+18	дышащее	дышать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	start_char=4144|end_char=4151
+19	–	–	PUNCT	_	_	20	punct	_	start_char=4152|end_char=4153
+20	надсадно	надсадный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	18	parataxis	_	start_char=4154|end_char=4162
+21	и	и	CCONJ	_	_	22	cc	_	start_char=4163|end_char=4164
+22	хрипло	хриплый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	20	conj	_	start_char=4165|end_char=4171
+23	;	;	PUNCT	_	_	24	punct	_	start_char=4171|end_char=4172
+24	колеблющееся	колебиться	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	20	conj	_	start_char=4173|end_char=4185
+25	и	и	CCONJ	_	_	26	cc	_	start_char=4186|end_char=4187
+26	трепещущее	трепетать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	24	conj	_	start_char=4188|end_char=4198
+27	;	;	PUNCT	_	_	28	punct	_	start_char=4198|end_char=4199
+28	покрытое	покрыть	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	conj	_	start_char=4200|end_char=4208
+29	корками	корка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	28	obl:agent	_	start_char=4209|end_char=4216
+30	подсыхающей	подсыхать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	31	amod	_	start_char=4217|end_char=4228
+31	крови	кровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	start_char=4229|end_char=4234
+32	,	,	PUNCT	_	_	35	punct	_	start_char=4234|end_char=4235
+33	из-под	из-под	ADP	_	_	34	case	_	start_char=4236|end_char=4242
+34	которых	который	PRON	_	Case=Gen|Number=Plur|PronType=Rel	35	obl	_	start_char=4243|end_char=4250
+35	сочилась	сочиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	31	acl:relcl	_	start_char=4251|end_char=4259
+36	свежая	свежий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	35	nsubj	_	start_char=4260|end_char=4266
+37	,	,	PUNCT	_	_	38	punct	_	start_char=4266|end_char=4267
+38	стекающая	стекать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	36	conj	_	start_char=4268|end_char=4277
+39	повсюду	повсюду	ADV	_	Degree=Pos	38	advmod	_	start_char=4278|end_char=4285
+40	тонкими	тонкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	41	amod	_	start_char=4286|end_char=4293
+41	струйками	струйка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	38	iobj	_	start_char=4294|end_char=4303
+42	,	,	PUNCT	_	_	43	punct	_	start_char=4303|end_char=4304
+43	капающая	капать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	36	conj	_	start_char=4305|end_char=4313
+44	с	с	ADP	_	_	47	case	_	start_char=4314|end_char=4315
+45	шершавого	шершавый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	start_char=4316|end_char=4325
+46	занозистого	занозистый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	start_char=4326|end_char=4337
+47	ложа	ложе	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	obl	_	start_char=4338|end_char=4342
+48	на	на	ADP	_	_	50	case	_	start_char=4343|end_char=4345
+49	каменный	каменный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	start_char=4346|end_char=4354
+50	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	43	obl	_	start_char=4355|end_char=4358
+51	;	;	PUNCT	_	_	59	punct	_	start_char=4358|end_char=4359
+52	и	и	CCONJ	_	_	59	cc	_	start_char=4360|end_char=4361
+53	,	,	PUNCT	_	_	59	punct	_	start_char=4361|end_char=4362
+54	кроме	кроме	ADP	_	_	55	case	_	start_char=4363|end_char=4368
+55	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	59	parataxis	_	start_char=4369|end_char=4373
+56	,	,	PUNCT	_	_	55	punct	_	start_char=4373|end_char=4374
+57	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	59	nsubj	_	start_char=4375|end_char=4378
+58	еще	еще	ADV	_	Degree=Pos	59	advmod	_	start_char=4379|end_char=4382
+59	скованное	сковать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	43	conj	_	start_char=4383|end_char=4392
+60	цепями	цепь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	59	obl:agent	_	start_char=4393|end_char=4399
+61	.	.	PUNCT	_	_	2	punct	_	start_char=4399|end_char=4400
+
+# text = Брат Кадфаэль изумленно оглянулся.
+# sent_id = 64
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4401|end_char=4405
+2	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	start_char=4406|end_char=4414
+3	изумленно	изумленно	ADV	_	Degree=Pos	4	advmod	_	start_char=4415|end_char=4424
+4	оглянулся	оглянуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4425|end_char=4434
+5	.	.	PUNCT	_	_	4	punct	_	start_char=4434|end_char=4435
+
+# text = Шериф Берингар лишь пожал плечами.
+# sent_id = 65
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Шериф	Шериф	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=4436|end_char=4441
+2	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=4442|end_char=4450
+3	лишь	лишь	PART	_	_	4	advmod	_	start_char=4451|end_char=4455
+4	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4456|end_char=4461
+5	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	iobj	_	start_char=4462|end_char=4469
+6	.	.	PUNCT	_	_	4	punct	_	start_char=4469|end_char=4470
+
+# text = Это создание все еще могло быть чем-то опасно?
+# sent_id = 66
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	start_char=4471|end_char=4474
+2	создание	создание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=4475|end_char=4483
+3	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	nsubj	_	start_char=4484|end_char=4487
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=4488|end_char=4491
+5	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4492|end_char=4497
+6	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	start_char=4498|end_char=4502
+7	чем-то	что-то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	8	obl	_	start_char=4503|end_char=4509
+8	опасно	опасный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	xcomp	_	start_char=4510|end_char=4516
+9	?	?	PUNCT	_	_	5	punct	_	start_char=4516|end_char=4517
+
+# text = Как бы то ни было, из цепей в таком состоянии ему едва ли вырваться, иначе оно давно бы это сделало.
+# sent_id = 67
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Как	как	ADV	_	Degree=Pos|PronType=Rel	15	parataxis	_	start_char=4518|end_char=4521
+2	бы	бы	AUX	_	Mood=Cnd	1	fixed	_	start_char=4522|end_char=4524
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	fixed	_	start_char=4525|end_char=4527
+4	ни	ни	PART	_	Polarity=Neg	1	fixed	_	start_char=4528|end_char=4530
+5	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	fixed	_	start_char=4531|end_char=4535
+6	,	,	PUNCT	_	_	1	punct	_	start_char=4535|end_char=4536
+7	из	из	ADP	_	_	8	case	_	start_char=4537|end_char=4539
+8	цепей	цепь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	obl	_	start_char=4540|end_char=4545
+9	в	в	ADP	_	_	11	case	_	start_char=4546|end_char=4547
+10	таком	такой	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	start_char=4548|end_char=4553
+11	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	start_char=4554|end_char=4563
+12	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	start_char=4564|end_char=4567
+13	едва	едва	ADV	_	Degree=Pos	15	advmod	_	start_char=4568|end_char=4572
+14	ли	ли	PART	_	_	13	fixed	_	start_char=4573|end_char=4575
+15	вырваться	вырваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	start_char=4576|end_char=4585
+16	,	,	PUNCT	_	_	22	punct	_	start_char=4585|end_char=4586
+17	иначе	иначе	CCONJ	_	_	22	cc	_	start_char=4587|end_char=4592
+18	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=4593|end_char=4596
+19	давно	давно	ADV	_	Degree=Pos	22	advmod	_	start_char=4597|end_char=4602
+20	бы	бы	AUX	_	Mood=Cnd	22	aux	_	start_char=4603|end_char=4605
+21	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	22	nsubj	_	start_char=4606|end_char=4609
+22	сделало	сделать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	start_char=4610|end_char=4617
+23	.	.	PUNCT	_	_	15	punct	_	start_char=4617|end_char=4618
+
+# text = – Оставьте нас, – сказал брат Кадфаэль.
+# sent_id = 68
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4619|end_char=4620
+2	Оставьте	оставить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4621|end_char=4629
+3	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	start_char=4630|end_char=4633
+4	,	,	PUNCT	_	_	6	punct	_	start_char=4633|end_char=4634
+5	–	–	PUNCT	_	_	6	punct	_	start_char=4635|end_char=4636
+6	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4637|end_char=4643
+7	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=4644|end_char=4648
+8	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=4649|end_char=4657
+9	.	.	PUNCT	_	_	2	punct	_	start_char=4657|end_char=4658
+
+# text = – Таинство должно совершиться в тишине и без посторонних глаз и ушей.
+# sent_id = 69
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4659|end_char=4660
+2	Таинство	таинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=4661|end_char=4669
+3	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4670|end_char=4676
+4	совершиться	совершиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=4677|end_char=4688
+5	в	в	ADP	_	_	6	case	_	start_char=4689|end_char=4690
+6	тишине	тишина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=4691|end_char=4697
+7	и	и	CCONJ	_	_	10	cc	_	start_char=4698|end_char=4699
+8	без	без	ADP	_	_	10	case	_	start_char=4700|end_char=4703
+9	посторонних	посторонний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	start_char=4704|end_char=4715
+10	глаз	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	conj	_	start_char=4716|end_char=4720
+11	и	и	CCONJ	_	_	12	cc	_	start_char=4721|end_char=4722
+12	ушей	ухо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	conj	_	start_char=4723|end_char=4727
+13	.	.	PUNCT	_	_	3	punct	_	start_char=4727|end_char=4728
+
+# text = Берингар кивнул и исчез в зияющем чернотой проеме, закрыв за собой тяжелую окованную железом дверь.
+# sent_id = 70
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Берингар	Берингар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	2	nsubj	_	start_char=4729|end_char=4737
+2	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4738|end_char=4744
+3	и	и	CCONJ	_	_	4	cc	_	start_char=4745|end_char=4746
+4	исчез	исчезнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4747|end_char=4752
+5	в	в	ADP	_	_	8	case	_	start_char=4753|end_char=4754
+6	зияющем	зиять	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	amod	_	start_char=4755|end_char=4762
+7	чернотой	чернотой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4763|end_char=4771
+8	проеме	проем	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=4772|end_char=4778
+9	,	,	PUNCT	_	_	10	punct	_	start_char=4778|end_char=4779
+10	закрыв	закрыть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=4780|end_char=4786
+11	за	за	ADP	_	_	12	case	_	start_char=4787|end_char=4789
+12	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	10	obl	_	start_char=4790|end_char=4795
+13	тяжелую	тяжелый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=4796|end_char=4803
+14	окованную	оковать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	start_char=4804|end_char=4813
+15	железом	железо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	iobj	_	start_char=4814|end_char=4821
+16	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=4822|end_char=4827
+17	.	.	PUNCT	_	_	2	punct	_	start_char=4827|end_char=4828
+
+# text = – «Брат Кадфаэль»? – послышался свистящий шепот в тишине подземелья, не просто шепот – снабженный насмешкой.
+# sent_id = 71
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4829|end_char=4830
+2	«	«	PUNCT	_	_	3	punct	_	start_char=4831|end_char=4832
+3	Брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4832|end_char=4836
+4	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	appos	_	start_char=4837|end_char=4845
+5	»	»	PUNCT	_	_	3	punct	_	start_char=4845|end_char=4846
+6	?	?	PUNCT	_	_	3	punct	_	start_char=4846|end_char=4847
+7	–	–	PUNCT	_	_	8	punct	_	start_char=4848|end_char=4849
+8	послышался	послышаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=4850|end_char=4860
+9	свистящий	свистить	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	amod	_	start_char=4861|end_char=4870
+10	шепот	шепот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4871|end_char=4876
+11	в	в	ADP	_	_	12	case	_	start_char=4877|end_char=4878
+12	тишине	тишина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	start_char=4879|end_char=4885
+13	подземелья	подземелье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	start_char=4886|end_char=4896
+14	,	,	PUNCT	_	_	17	punct	_	start_char=4896|end_char=4897
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=4898|end_char=4900
+16	просто	просто	PART	_	_	17	advmod	_	start_char=4901|end_char=4907
+17	шепот	шепот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	start_char=4908|end_char=4913
+18	–	–	PUNCT	_	_	19	punct	_	start_char=4914|end_char=4915
+19	снабженный	снабжить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	start_char=4916|end_char=4926
+20	насмешкой	насмешка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	iobj	_	start_char=4927|end_char=4936
+21	.	.	PUNCT	_	_	3	punct	_	start_char=4936|end_char=4937
+
+# text = Это существо не только еще жило, ему было почти все равно, что происходит, оно преследовало некую собственную цель.
+# sent_id = 72
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	start_char=4938|end_char=4941
+2	существо	существо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=4942|end_char=4950
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4951|end_char=4953
+4	только	только	PART	_	_	6	advmod	_	start_char=4954|end_char=4960
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=4961|end_char=4964
+6	жило	жить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4965|end_char=4969
+7	,	,	PUNCT	_	_	11	punct	_	start_char=4969|end_char=4970
+8	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=4971|end_char=4974
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	start_char=4975|end_char=4979
+10	почти	почти	ADV	_	Degree=Pos	11	advmod	_	start_char=4980|end_char=4985
+11	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	conj	_	start_char=4986|end_char=4989
+12	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	fixed	_	start_char=4990|end_char=4995
+13	,	,	PUNCT	_	_	15	punct	_	start_char=4995|end_char=4996
+14	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	15	nsubj	_	start_char=4997|end_char=5000
+15	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	start_char=5001|end_char=5011
+16	,	,	PUNCT	_	_	18	punct	_	start_char=5011|end_char=5012
+17	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=5013|end_char=5016
+18	преследовало	преследовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=5017|end_char=5029
+19	некую	некий	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	21	det	_	start_char=5030|end_char=5035
+20	собственную	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	start_char=5036|end_char=5047
+21	цель	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	obj	_	start_char=5048|end_char=5052
+22	.	.	PUNCT	_	_	6	punct	_	start_char=5052|end_char=5053
+
+# text = – Что ты знаешь обо мне? – спросил брат Кадфаль.
+# sent_id = 73
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5054|end_char=5055
+2	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obj	_	start_char=5056|end_char=5059
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=5060|end_char=5062
+4	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5063|end_char=5069
+5	обо	обо	ADP	_	_	6	case	_	start_char=5070|end_char=5073
+6	мне	я	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=5074|end_char=5077
+7	?	?	PUNCT	_	_	4	punct	_	start_char=5077|end_char=5078
+8	–	–	PUNCT	_	_	9	punct	_	start_char=5079|end_char=5080
+9	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=5081|end_char=5088
+10	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=5089|end_char=5093
+11	Кадфаль	Кадфаль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	appos	_	start_char=5094|end_char=5101
+12	.	.	PUNCT	_	_	4	punct	_	start_char=5101|end_char=5102
+
+# text = – Все, – существо в буквальном смысле из крови и плоти испустило тихий безумный смешок.
+# sent_id = 74
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5103|end_char=5104
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=5105|end_char=5108
+3	,	,	PUNCT	_	_	13	punct	_	start_char=5108|end_char=5109
+4	–	–	PUNCT	_	_	13	punct	_	start_char=5110|end_char=5111
+5	существо	существо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	start_char=5112|end_char=5120
+6	в	в	ADP	_	_	8	case	_	start_char=5121|end_char=5122
+7	буквальном	буквальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=5123|end_char=5133
+8	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	start_char=5134|end_char=5140
+9	из	из	ADP	_	_	10	case	_	start_char=5141|end_char=5143
+10	крови	кровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=5144|end_char=5149
+11	и	и	CCONJ	_	_	12	cc	_	start_char=5150|end_char=5151
+12	плоти	плоть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	conj	_	start_char=5152|end_char=5157
+13	испустило	испустить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=5158|end_char=5167
+14	тихий	тихий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=5168|end_char=5173
+15	безумный	безумный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=5174|end_char=5182
+16	смешок	смешок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=5183|end_char=5189
+17	.	.	PUNCT	_	_	2	punct	_	start_char=5189|end_char=5190
+
+# text = – Разве не забавно, что нечто повлекло тебя укрыться именно здесь, в Англии, в монастыре, в двенадцатом веке…
+# sent_id = 75
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5191|end_char=5192
+2	Разве	разве	PART	_	_	4	advmod	_	start_char=5193|end_char=5198
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=5199|end_char=5201
+4	забавно	забавный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5202|end_char=5209
+5	,	,	PUNCT	_	_	8	punct	_	start_char=5209|end_char=5210
+6	что	что	SCONJ	_	_	8	mark	_	start_char=5211|end_char=5214
+7	нечто	нечто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	8	nsubj	_	start_char=5215|end_char=5220
+8	повлекло	повлечь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=5221|end_char=5229
+9	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obj	_	start_char=5230|end_char=5234
+10	укрыться	укрыться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	start_char=5235|end_char=5243
+11	именно	именно	PART	_	_	12	advmod	_	start_char=5244|end_char=5250
+12	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=5251|end_char=5256
+13	,	,	PUNCT	_	_	15	punct	_	start_char=5256|end_char=5257
+14	в	в	ADP	_	_	15	case	_	start_char=5258|end_char=5259
+15	Англии	Англия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	12	conj	_	start_char=5260|end_char=5266
+16	,	,	PUNCT	_	_	18	punct	_	start_char=5266|end_char=5267
+17	в	в	ADP	_	_	18	case	_	start_char=5268|end_char=5269
+18	монастыре	монастыра	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	conj	_	start_char=5270|end_char=5279
+19	,	,	PUNCT	_	_	22	punct	_	start_char=5279|end_char=5280
+20	в	в	ADP	_	_	22	case	_	start_char=5281|end_char=5282
+21	двенадцатом	двенадцатый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	22	amod	_	start_char=5283|end_char=5294
+22	веке	век	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	conj	_	start_char=5295|end_char=5299
+23	…	…	PUNCT	_	_	4	punct	_	start_char=5299|end_char=5300
+
+# text = – Чем же так примечателен двенадцатый век? – спросил брат Кадфаэль.
+# sent_id = 76
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5301|end_char=5302
+2	Чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Int	5	obl	_	start_char=5303|end_char=5306
+3	же	же	PART	_	_	2	advmod	_	start_char=5307|end_char=5309
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=5310|end_char=5313
+5	примечателен	примечательный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=5314|end_char=5326
+6	двенадцатый	двенадцатый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	7	amod	_	start_char=5327|end_char=5338
+7	век	век	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5339|end_char=5342
+8	?	?	PUNCT	_	_	5	punct	_	start_char=5342|end_char=5343
+9	–	–	PUNCT	_	_	10	punct	_	start_char=5344|end_char=5345
+10	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=5346|end_char=5353
+11	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=5354|end_char=5358
+12	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	appos	_	start_char=5359|end_char=5367
+13	.	.	PUNCT	_	_	5	punct	_	start_char=5367|end_char=5368
+
+# text = – Кроме того, что это время нашей жизни?
+# sent_id = 77
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5369|end_char=5370
+2	Кроме	кроме	ADP	_	_	3	case	_	start_char=5371|end_char=5376
+3	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=5377|end_char=5381
+4	,	,	PUNCT	_	_	5	punct	_	start_char=5381|end_char=5382
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	acl	_	start_char=5383|end_char=5386
+6	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	start_char=5387|end_char=5390
+7	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=5391|end_char=5396
+8	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=5397|end_char=5402
+9	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=5403|end_char=5408
+10	?	?	PUNCT	_	_	3	punct	_	start_char=5408|end_char=5409
+
+# text = – О, не скромничай!
+# sent_id = 78
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5410|end_char=5411
+2	О	о	INTJ	_	_	5	discourse	_	start_char=5412|end_char=5413
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5413|end_char=5414
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=5415|end_char=5417
+5	скромничай	скромничать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5418|end_char=5428
+6	!	!	PUNCT	_	_	5	punct	_	start_char=5428|end_char=5429
+
+# text = – существо зашлось в кашле от очередного неудачного смешка.
+# sent_id = 79
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5430|end_char=5431
+2	существо	существо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=5432|end_char=5440
+3	зашлось	зайтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5441|end_char=5448
+4	в	в	ADP	_	_	5	case	_	start_char=5449|end_char=5450
+5	кашле	кашла	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=5451|end_char=5456
+6	от	от	ADP	_	_	9	case	_	start_char=5457|end_char=5459
+7	очередного	очередной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=5460|end_char=5470
+8	неудачного	неудачный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=5471|end_char=5481
+9	смешка	смешка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	start_char=5482|end_char=5488
+10	.	.	PUNCT	_	_	3	punct	_	start_char=5488|end_char=5489
+
+# text = Монах разглядывал его чуть прищурившись, оценивая степень и безумия, и повреждений.
+# sent_id = 80
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Монах	монах	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=5490|end_char=5495
+2	разглядывал	разглядывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5496|end_char=5507
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=5508|end_char=5511
+4	чуть	чуть	ADV	_	Degree=Pos	5	advmod	_	start_char=5512|end_char=5516
+5	прищурившись	прищуриться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=5517|end_char=5529
+6	,	,	PUNCT	_	_	7	punct	_	start_char=5529|end_char=5530
+7	оценивая	оценивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	conj	_	start_char=5531|end_char=5539
+8	степень	степень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=5540|end_char=5547
+9	и	и	CCONJ	_	_	10	cc	_	start_char=5548|end_char=5549
+10	безумия	безумие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	start_char=5550|end_char=5557
+11	,	,	PUNCT	_	_	13	punct	_	start_char=5557|end_char=5558
+12	и	и	CCONJ	_	_	13	cc	_	start_char=5559|end_char=5560
+13	повреждений	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	conj	_	start_char=5561|end_char=5572
+14	.	.	PUNCT	_	_	2	punct	_	start_char=5572|end_char=5573
+
+# text = – Пусть это почти на целую сотню лет отстоит от времени, в которое ты был помещен когда-то, забывший собственную личность на целое воплощение, потерянную регенерацию, но похоже, ты вспомнил, раз решил спрятаться именно здесь.
+# sent_id = 81
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	9	punct	_	start_char=5574|end_char=5575
+2	Пусть	пусть	SCONJ	_	_	9	mark	_	start_char=5576|end_char=5581
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=5582|end_char=5585
+4	почти	почти	ADV	_	Degree=Pos	7	advmod	_	start_char=5586|end_char=5591
+5	на	на	ADP	_	_	7	case	_	start_char=5592|end_char=5594
+6	целую	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=5595|end_char=5600
+7	сотню	сотня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	start_char=5601|end_char=5606
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	start_char=5607|end_char=5610
+9	отстоит	отстоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5611|end_char=5618
+10	от	от	ADP	_	_	11	case	_	start_char=5619|end_char=5621
+11	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	start_char=5622|end_char=5629
+12	,	,	PUNCT	_	_	17	punct	_	start_char=5629|end_char=5630
+13	в	в	ADP	_	_	14	case	_	start_char=5631|end_char=5632
+14	которое	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	17	obl	_	start_char=5633|end_char=5640
+15	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj:pass	_	start_char=5641|end_char=5643
+16	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	aux:pass	_	start_char=5644|end_char=5647
+17	помещен	поместить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	acl:relcl	_	start_char=5648|end_char=5655
+18	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	17	advmod	_	start_char=5656|end_char=5664
+19	,	,	PUNCT	_	_	20	punct	_	start_char=5664|end_char=5665
+20	забывший	забыть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	17	conj	_	start_char=5666|end_char=5674
+21	собственную	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=5675|end_char=5686
+22	личность	личность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	start_char=5687|end_char=5695
+23	на	на	ADP	_	_	25	case	_	start_char=5696|end_char=5698
+24	целое	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	start_char=5699|end_char=5704
+25	воплощение	воплощение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obl	_	start_char=5705|end_char=5715
+26	,	,	PUNCT	_	_	28	punct	_	start_char=5715|end_char=5716
+27	потерянную	потерять	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	amod	_	start_char=5717|end_char=5727
+28	регенерацию	регенерация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	conj	_	start_char=5728|end_char=5739
+29	,	,	PUNCT	_	_	34	punct	_	start_char=5739|end_char=5740
+30	но	но	CCONJ	_	_	34	cc	_	start_char=5741|end_char=5743
+31	похоже	похоже	ADV	_	Degree=Pos	34	parataxis	_	start_char=5744|end_char=5750
+32	,	,	PUNCT	_	_	31	punct	_	start_char=5750|end_char=5751
+33	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	34	nsubj	_	start_char=5752|end_char=5754
+34	вспомнил	вспомнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=5755|end_char=5763
+35	,	,	PUNCT	_	_	37	punct	_	start_char=5763|end_char=5764
+36	раз	раз	SCONJ	_	_	37	mark	_	start_char=5765|end_char=5768
+37	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	advcl	_	start_char=5769|end_char=5774
+38	спрятаться	спрятаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	37	xcomp	_	start_char=5775|end_char=5785
+39	именно	именно	PART	_	_	40	advmod	_	start_char=5786|end_char=5792
+40	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	38	advmod	_	start_char=5793|end_char=5798
+41	.	.	PUNCT	_	_	9	punct	_	start_char=5798|end_char=5799
+
+# text = Думал, ты можешь убежать от войны и укрыться тут, рассказывая сказки о своих невероятных познаниях, почерпнутых из ветхих книг и путешествий в экзотические страны, в крестовом походе?..
+# sent_id = 82
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5800|end_char=5805
+2	,	,	PUNCT	_	_	4	punct	_	start_char=5805|end_char=5806
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=5807|end_char=5809
+4	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=5810|end_char=5816
+5	убежать	убежать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=5817|end_char=5824
+6	от	от	ADP	_	_	7	case	_	start_char=5825|end_char=5827
+7	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	start_char=5828|end_char=5833
+8	и	и	CCONJ	_	_	9	cc	_	start_char=5834|end_char=5835
+9	укрыться	укрыться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	conj	_	start_char=5836|end_char=5844
+10	тут	тут	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=5845|end_char=5848
+11	,	,	PUNCT	_	_	12	punct	_	start_char=5848|end_char=5849
+12	рассказывая	рассказывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=5850|end_char=5861
+13	сказки	сказка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	start_char=5862|end_char=5868
+14	о	о	ADP	_	_	17	case	_	start_char=5869|end_char=5870
+15	своих	свой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	start_char=5871|end_char=5876
+16	невероятных	невероятный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	amod	_	start_char=5877|end_char=5888
+17	познаниях	познание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	13	nmod	_	start_char=5889|end_char=5898
+18	,	,	PUNCT	_	_	19	punct	_	start_char=5898|end_char=5899
+19	почерпнутых	почерпнуть	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	start_char=5900|end_char=5911
+20	из	из	ADP	_	_	22	case	_	start_char=5912|end_char=5914
+21	ветхих	ветхий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	start_char=5915|end_char=5921
+22	книг	книга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	obl	_	start_char=5922|end_char=5926
+23	и	и	CCONJ	_	_	24	cc	_	start_char=5927|end_char=5928
+24	путешествий	путешествие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	conj	_	start_char=5929|end_char=5940
+25	в	в	ADP	_	_	27	case	_	start_char=5941|end_char=5942
+26	экзотические	экзотический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	27	amod	_	start_char=5943|end_char=5955
+27	страны	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	obl	_	start_char=5956|end_char=5962
+28	,	,	PUNCT	_	_	31	punct	_	start_char=5962|end_char=5963
+29	в	в	ADP	_	_	31	case	_	start_char=5964|end_char=5965
+30	крестовом	крестовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	start_char=5966|end_char=5975
+31	походе	поход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	conj	_	start_char=5976|end_char=5982
+32	?..	?..	PUNCT	_	_	1	punct	_	start_char=5982|end_char=5985
+
+# text = Брат Кадфаэль мягко усмехнулся.
+# sent_id = 83
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=5986|end_char=5990
+2	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	start_char=5991|end_char=5999
+3	мягко	мягко	ADV	_	Degree=Pos	4	advmod	_	start_char=6000|end_char=6005
+4	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6006|end_char=6016
+5	.	.	PUNCT	_	_	4	punct	_	start_char=6016|end_char=6017
+
+# text = Правда, мягкость вышла странной – мягкая усмешка тигра, знающего, что добыча уже не ускользнет.
+# sent_id = 84
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	start_char=6018|end_char=6024
+2	,	,	PUNCT	_	_	1	punct	_	start_char=6024|end_char=6025
+3	мягкость	мягкость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=6026|end_char=6034
+4	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6035|end_char=6040
+5	странной	странный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	xcomp	_	start_char=6041|end_char=6049
+6	–	–	PUNCT	_	_	8	punct	_	start_char=6050|end_char=6051
+7	мягкая	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	obl	_	start_char=6052|end_char=6058
+8	усмешка	усмечкать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=6059|end_char=6066
+9	тигра	тигр	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=6067|end_char=6072
+10	,	,	PUNCT	_	_	11	punct	_	start_char=6072|end_char=6073
+11	знающего	знать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	start_char=6074|end_char=6082
+12	,	,	PUNCT	_	_	17	punct	_	start_char=6082|end_char=6083
+13	что	что	SCONJ	_	_	17	mark	_	start_char=6084|end_char=6087
+14	добыча	добыч	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	start_char=6088|end_char=6094
+15	уже	уже	ADV	_	Degree=Pos	17	advmod	_	start_char=6095|end_char=6098
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=6099|end_char=6101
+17	ускользнет	ускользнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	ccomp	_	start_char=6102|end_char=6112
+18	.	.	PUNCT	_	_	4	punct	_	start_char=6112|end_char=6113
+
+# text = – А разве я не был в крестовом походе?
+# sent_id = 85
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	9	punct	_	start_char=6114|end_char=6115
+2	А	а	CCONJ	_	_	9	cc	_	start_char=6116|end_char=6117
+3	разве	разве	PART	_	_	9	advmod	_	start_char=6118|end_char=6123
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=6124|end_char=6125
+5	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=6126|end_char=6128
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=6129|end_char=6132
+7	в	в	ADP	_	_	9	case	_	start_char=6133|end_char=6134
+8	крестовом	крестовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=6135|end_char=6144
+9	походе	поход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=6145|end_char=6151
+10	?	?	PUNCT	_	_	9	punct	_	start_char=6151|end_char=6152
+
+# text = Крестовый поход, Временная война – какая разница?
+# sent_id = 86
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Крестовый	крестовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=6153|end_char=6162
+2	поход	поход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6163|end_char=6168
+3	,	,	PUNCT	_	_	5	punct	_	start_char=6168|end_char=6169
+4	Временная	временный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=6170|end_char=6179
+5	война	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=6180|end_char=6185
+6	–	–	PUNCT	_	_	8	punct	_	start_char=6186|end_char=6187
+7	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	8	det	_	start_char=6188|end_char=6193
+8	разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=6194|end_char=6201
+9	?	?	PUNCT	_	_	2	punct	_	start_char=6201|end_char=6202
+
+# text = Он наклонился над умирающим, разглядывая его безо всякого сожаления.
+# sent_id = 87
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=6203|end_char=6205
+2	наклонился	наклониться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6206|end_char=6216
+3	над	над	ADP	_	_	4	case	_	start_char=6217|end_char=6220
+4	умирающим	умирать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	obl	_	start_char=6221|end_char=6230
+5	,	,	PUNCT	_	_	6	punct	_	start_char=6230|end_char=6231
+6	разглядывая	разглядывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=6232|end_char=6243
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=6244|end_char=6247
+8	безо	безо	ADP	_	_	10	case	_	start_char=6248|end_char=6252
+9	всякого	всякий	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	10	det	_	start_char=6253|end_char=6260
+10	сожаления	сожаление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	start_char=6261|end_char=6270
+11	.	.	PUNCT	_	_	2	punct	_	start_char=6270|end_char=6271
+
+# text = – Разница в том, что с нашей войны не сбежать никому!
+# sent_id = 88
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=6272|end_char=6273
+2	Разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=6274|end_char=6281
+3	в	в	ADP	_	_	4	case	_	start_char=6282|end_char=6283
+4	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=6284|end_char=6287
+5	,	,	PUNCT	_	_	11	punct	_	start_char=6287|end_char=6288
+6	что	что	SCONJ	_	_	11	mark	_	start_char=6289|end_char=6292
+7	с	с	ADP	_	_	9	case	_	start_char=6293|end_char=6294
+8	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=6295|end_char=6300
+9	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=6301|end_char=6306
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=6307|end_char=6309
+11	сбежать	сбежать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	acl	_	start_char=6310|end_char=6317
+12	никому	никто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	11	iobj	_	start_char=6318|end_char=6324
+13	!	!	PUNCT	_	_	4	punct	_	start_char=6324|end_char=6325
+
+# text = – Глаза незнакомца бешено сверкали во мраке, в отблесках коптящего низкий свод факела.
+# sent_id = 89
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=6326|end_char=6327
+2	Глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=6328|end_char=6333
+3	незнакомца	незнакомца	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=6334|end_char=6344
+4	бешено	бешено	ADV	_	Degree=Pos	5	advmod	_	start_char=6345|end_char=6351
+5	сверкали	сверкать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6352|end_char=6360
+6	во	во	ADP	_	_	7	case	_	start_char=6361|end_char=6363
+7	мраке	мрак	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=6364|end_char=6369
+8	,	,	PUNCT	_	_	11	punct	_	start_char=6369|end_char=6370
+9	в	в	ADP	_	_	10	case	_	start_char=6371|end_char=6372
+10	отблесках	отблеска	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	obl	_	start_char=6373|end_char=6382
+11	коптящего	копстить	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	start_char=6383|end_char=6392
+12	низкий	низкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=6393|end_char=6399
+13	свод	свод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=6400|end_char=6404
+14	факела	факел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	start_char=6405|end_char=6411
+15	.	.	PUNCT	_	_	5	punct	_	start_char=6411|end_char=6412
+
+# text = – Где бы ты ни скрылся, мы найдем тебя!
+# sent_id = 90
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	9	punct	_	start_char=6413|end_char=6414
+2	Где	где	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=6415|end_char=6418
+3	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=6419|end_char=6421
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=6422|end_char=6424
+5	ни	ни	PART	_	Polarity=Neg	6	advmod	_	start_char=6425|end_char=6427
+6	скрылся	скрыться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	start_char=6428|end_char=6435
+7	,	,	PUNCT	_	_	6	punct	_	start_char=6435|end_char=6436
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=6437|end_char=6439
+9	найдем	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6440|end_char=6446
+10	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	obj	_	start_char=6447|end_char=6451
+11	!	!	PUNCT	_	_	9	punct	_	start_char=6451|end_char=6452
+
+# text = Никому никогда не удастся дезертировать!
+# sent_id = 91
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Никому	никто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	4	iobj	_	start_char=6453|end_char=6459
+2	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	4	advmod	_	start_char=6460|end_char=6467
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=6468|end_char=6470
+4	удастся	удаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6471|end_char=6478
+5	дезертировать	дезертировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=6479|end_char=6492
+6	!	!	PUNCT	_	_	4	punct	_	start_char=6492|end_char=6493
+
+# text = – Неужели? – небрежно обронил «Кадфаэль».
+# sent_id = 92
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6494|end_char=6495
+2	Неужели	неужели	PART	_	_	0	root	_	start_char=6496|end_char=6503
+3	?	?	PUNCT	_	_	2	punct	_	start_char=6503|end_char=6504
+4	–	–	PUNCT	_	_	6	punct	_	start_char=6505|end_char=6506
+5	небрежно	небрежно	ADV	_	Degree=Pos	6	advmod	_	start_char=6507|end_char=6515
+6	обронил	обронить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=6516|end_char=6523
+7	«	«	PUNCT	_	_	8	punct	_	start_char=6524|end_char=6525
+8	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	nsubj	_	start_char=6525|end_char=6533
+9	»	»	PUNCT	_	_	8	punct	_	start_char=6533|end_char=6534
+10	.	.	PUNCT	_	_	2	punct	_	start_char=6534|end_char=6535
+
+# text = – Значит, следуя принципу «никому не убежать», ты сам сбежал под предлогом поиска дезертиров.
+# sent_id = 93
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	14	punct	_	start_char=6536|end_char=6537
+2	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	start_char=6538|end_char=6544
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6544|end_char=6545
+4	следуя	следуть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	advcl	_	start_char=6546|end_char=6552
+5	принципу	принцип	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	start_char=6553|end_char=6561
+6	«	«	PUNCT	_	_	9	punct	_	start_char=6562|end_char=6563
+7	никому	никто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	9	iobj	_	start_char=6563|end_char=6569
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=6570|end_char=6572
+9	убежать	убежать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	appos	_	start_char=6573|end_char=6580
+10	»	»	PUNCT	_	_	9	punct	_	start_char=6580|end_char=6581
+11	,	,	PUNCT	_	_	4	punct	_	start_char=6581|end_char=6582
+12	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	start_char=6583|end_char=6585
+13	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	12	acl	_	start_char=6586|end_char=6589
+14	сбежал	сбежать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6590|end_char=6596
+15	под	под	ADP	_	_	16	case	_	start_char=6597|end_char=6600
+16	предлогом	предлог	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	start_char=6601|end_char=6610
+17	поиска	поиск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	start_char=6611|end_char=6617
+18	дезертиров	дезертир	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	start_char=6618|end_char=6628
+19	.	.	PUNCT	_	_	14	punct	_	start_char=6628|end_char=6629
+
+# text = Ты без подсказки догадался, где найти меня?
+# sent_id = 94
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=6630|end_char=6632
+2	без	без	ADP	_	_	3	case	_	start_char=6633|end_char=6636
+3	подсказки	подсказка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=6637|end_char=6646
+4	догадался	догадаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6647|end_char=6656
+5	,	,	PUNCT	_	_	7	punct	_	start_char=6656|end_char=6657
+6	где	где	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=6658|end_char=6661
+7	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	ccomp	_	start_char=6662|end_char=6667
+8	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=6668|end_char=6672
+9	?	?	PUNCT	_	_	4	punct	_	start_char=6672|end_char=6673
+
+# text = – Да, я догадался!..
+# sent_id = 95
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=6675|end_char=6676
+2	Да	да	PART	_	_	5	parataxis	_	start_char=6677|end_char=6679
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6679|end_char=6680
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=6681|end_char=6682
+5	догадался	догадаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6683|end_char=6692
+6	!..	!..	PUNCT	_	_	5	punct	_	start_char=6692|end_char=6695
+
+# text = – Это прекрасно!
+# sent_id = 96
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6696|end_char=6697
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=6698|end_char=6701
+3	прекрасно	прекрасный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6702|end_char=6711
+4	!	!	PUNCT	_	_	3	punct	_	start_char=6711|end_char=6712
+
+# text = – почти прошептал «Кадфаэль», и в глазах его засветилось ответное жестокое безумие.
+# sent_id = 97
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6713|end_char=6714
+2	почти	почти	ADV	_	Degree=Pos	3	advmod	_	start_char=6715|end_char=6720
+3	прошептал	прошептать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6721|end_char=6730
+4	«	«	PUNCT	_	_	5	punct	_	start_char=6731|end_char=6732
+5	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	3	nsubj	_	start_char=6732|end_char=6740
+6	»	»	PUNCT	_	_	5	punct	_	start_char=6740|end_char=6741
+7	,	,	PUNCT	_	_	12	punct	_	start_char=6741|end_char=6742
+8	и	и	CCONJ	_	_	12	cc	_	start_char=6743|end_char=6744
+9	в	в	ADP	_	_	10	case	_	start_char=6745|end_char=6746
+10	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	12	obl	_	start_char=6747|end_char=6753
+11	его	его	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=6754|end_char=6757
+12	засветилось	засветиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=6758|end_char=6769
+13	ответное	ответный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=6770|end_char=6778
+14	жестокое	жестокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=6779|end_char=6787
+15	безумие	безумие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	start_char=6788|end_char=6795
+16	.	.	PUNCT	_	_	3	punct	_	start_char=6795|end_char=6796
+
+# text = – Ты вычислил это время и место, потому что знал о нем.
+# sent_id = 98
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6797|end_char=6798
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=6799|end_char=6801
+3	вычислил	вычислить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6802|end_char=6810
+4	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	start_char=6811|end_char=6814
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=6815|end_char=6820
+6	и	и	CCONJ	_	_	7	cc	_	start_char=6821|end_char=6822
+7	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	conj	_	start_char=6823|end_char=6828
+8	,	,	PUNCT	_	_	11	punct	_	start_char=6828|end_char=6829
+9	потому	потому	ADV	_	Degree=Pos|PronType=Dem	11	mark	_	start_char=6830|end_char=6836
+10	что	что	SCONJ	_	_	9	fixed	_	start_char=6837|end_char=6840
+11	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=6841|end_char=6845
+12	о	о	ADP	_	_	13	case	_	start_char=6846|end_char=6847
+13	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=6848|end_char=6851
+14	.	.	PUNCT	_	_	3	punct	_	start_char=6851|end_char=6852
+
+# text = Был ли ты среди тех, кто когда-то отправил меня сюда?
+# sent_id = 99
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6853|end_char=6856
+2	ли	ли	PART	_	_	1	advmod	_	start_char=6857|end_char=6859
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	start_char=6860|end_char=6862
+4	среди	среди	ADP	_	_	5	case	_	start_char=6863|end_char=6868
+5	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	1	obl	_	start_char=6869|end_char=6872
+6	,	,	PUNCT	_	_	9	punct	_	start_char=6872|end_char=6873
+7	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	start_char=6874|end_char=6877
+8	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	9	advmod	_	start_char=6878|end_char=6886
+9	отправил	отправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=6887|end_char=6895
+10	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	start_char=6896|end_char=6900
+11	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=6901|end_char=6905
+12	?	?	PUNCT	_	_	1	punct	_	start_char=6905|end_char=6906
+
+# text = Существо рассмеялось.
+# sent_id = 100
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Существо	существо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=6907|end_char=6915
+2	рассмеялось	рассмеяться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6916|end_char=6927
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6927|end_char=6928
+
+# text = – Я всегда тебя выслежу, где бы ты ни был!
+# sent_id = 101
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=6929|end_char=6930
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=6931|end_char=6932
+3	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=6933|end_char=6939
+4	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	start_char=6940|end_char=6944
+5	выслежу	выследать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6945|end_char=6952
+6	,	,	PUNCT	_	_	11	punct	_	start_char=6952|end_char=6953
+7	где	где	ADV	_	Degree=Pos|PronType=Rel	11	advmod	_	start_char=6954|end_char=6957
+8	бы	бы	AUX	_	Mood=Cnd	7	aux	_	start_char=6958|end_char=6960
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=6961|end_char=6963
+10	ни	ни	PART	_	Polarity=Neg	11	advmod	_	start_char=6964|end_char=6966
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=6967|end_char=6970
+12	!	!	PUNCT	_	_	5	punct	_	start_char=6970|end_char=6971
+
+# text = Мне не впервой!
+# sent_id = 102
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=6972|end_char=6975
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=6976|end_char=6978
+3	впервой	впервый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6979|end_char=6986
+4	!	!	PUNCT	_	_	3	punct	_	start_char=6986|end_char=6987
+
+# text = – Я догадывался, – почти ласково шепнул «Кадфаэль», – что однажды ты это сделаешь!
+# sent_id = 103
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6988|end_char=6989
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=6990|end_char=6991
+3	догадывался	догадываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6992|end_char=7003
+4	,	,	PUNCT	_	_	8	punct	_	start_char=7003|end_char=7004
+5	–	–	PUNCT	_	_	8	punct	_	start_char=7005|end_char=7006
+6	почти	почти	ADV	_	Degree=Pos	7	advmod	_	start_char=7007|end_char=7012
+7	ласково	ласково	ADV	_	Degree=Pos	8	advmod	_	start_char=7013|end_char=7020
+8	шепнул	шепнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=7021|end_char=7027
+9	«	«	PUNCT	_	_	10	punct	_	start_char=7028|end_char=7029
+10	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=7029|end_char=7037
+11	»	»	PUNCT	_	_	10	punct	_	start_char=7037|end_char=7038
+12	,	,	PUNCT	_	_	18	punct	_	start_char=7038|end_char=7039
+13	–	–	PUNCT	_	_	18	punct	_	start_char=7040|end_char=7041
+14	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	18	nsubj	_	start_char=7042|end_char=7045
+15	однажды	однажды	ADV	_	Degree=Pos	18	advmod	_	start_char=7046|end_char=7053
+16	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	start_char=7054|end_char=7056
+17	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	18	obj	_	start_char=7057|end_char=7060
+18	сделаешь	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=7061|end_char=7069
+19	!	!	PUNCT	_	_	3	punct	_	start_char=7069|end_char=7070
+
+# text = Именно поэтому мои люди знали, что делать – как встретить тебя.
+# sent_id = 104
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Именно	именно	PART	_	_	2	advmod	_	start_char=7071|end_char=7077
+2	поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=7078|end_char=7085
+3	мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	start_char=7086|end_char=7089
+4	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=7090|end_char=7094
+5	знали	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7095|end_char=7100
+6	,	,	PUNCT	_	_	8	punct	_	start_char=7100|end_char=7101
+7	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	start_char=7102|end_char=7105
+8	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	start_char=7106|end_char=7112
+9	–	–	PUNCT	_	_	11	punct	_	start_char=7113|end_char=7114
+10	как	как	ADV	_	Degree=Pos|PronType=Int	11	advmod	_	start_char=7115|end_char=7118
+11	встретить	встретить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	parataxis	_	start_char=7119|end_char=7128
+12	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	11	obj	_	start_char=7129|end_char=7133
+13	.	.	PUNCT	_	_	5	punct	_	start_char=7133|end_char=7134
+
+# text = То, что они сделали – не случайность.
+# sent_id = 105
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=7135|end_char=7137
+2	,	,	PUNCT	_	_	5	punct	_	start_char=7137|end_char=7138
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	start_char=7139|end_char=7142
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=7143|end_char=7146
+5	сделали	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=7147|end_char=7154
+6	–	–	PUNCT	_	_	1	punct	_	start_char=7155|end_char=7156
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=7157|end_char=7159
+8	случайность	случайность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=7160|end_char=7171
+9	.	.	PUNCT	_	_	8	punct	_	start_char=7171|end_char=7172
+
+# text = Они сами не знают о том, что исполняют мою волю.
+# sent_id = 106
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=7173|end_char=7176
+2	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	1	acl	_	start_char=7177|end_char=7181
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=7182|end_char=7184
+4	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7185|end_char=7190
+5	о	о	ADP	_	_	6	case	_	start_char=7191|end_char=7192
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	start_char=7193|end_char=7196
+7	,	,	PUNCT	_	_	9	punct	_	start_char=7196|end_char=7197
+8	что	что	SCONJ	_	_	9	mark	_	start_char=7198|end_char=7201
+9	исполняют	исполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	start_char=7202|end_char=7211
+10	мою	мой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	start_char=7212|end_char=7215
+11	волю	воля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=7216|end_char=7220
+12	.	.	PUNCT	_	_	4	punct	_	start_char=7220|end_char=7221
+
+# text = Понятия не имеют, чем тебя опоили, отчего теперь ты не можешь лгать и не очень-то осознаешь, что умираешь.
+# sent_id = 107
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Понятия	понятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	start_char=7222|end_char=7229
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=7230|end_char=7232
+3	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7233|end_char=7238
+4	,	,	PUNCT	_	_	7	punct	_	start_char=7238|end_char=7239
+5	чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	7	iobj	_	start_char=7240|end_char=7243
+6	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	_	start_char=7244|end_char=7248
+7	опоили	опоить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=7249|end_char=7255
+8	,	,	PUNCT	_	_	13	punct	_	start_char=7255|end_char=7256
+9	отчего	отчего	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=7257|end_char=7263
+10	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=7264|end_char=7270
+11	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=7271|end_char=7273
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=7274|end_char=7276
+13	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=7277|end_char=7283
+14	лгать	лгать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=7284|end_char=7289
+15	и	и	CCONJ	_	_	19	cc	_	start_char=7290|end_char=7291
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=7292|end_char=7294
+17	очень	очень	ADV	_	Degree=Pos	19	advmod	_	start_char=7295|end_char=7300
+18	-то	-то	PART	_	_	17	advmod	_	start_char=7300|end_char=7303
+19	осознаешь	осознать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=7304|end_char=7313
+20	,	,	PUNCT	_	_	22	punct	_	start_char=7313|end_char=7314
+21	что	что	SCONJ	_	_	22	mark	_	start_char=7315|end_char=7318
+22	умираешь	умирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	start_char=7319|end_char=7327
+23	.	.	PUNCT	_	_	3	punct	_	start_char=7327|end_char=7328
+
+# text = Наверное, это слишком милосердно с моей стороны, было бы, пожалуй, неплохо оставить все как есть, чтобы понемногу все осозналось, все почувствовалось…
+# sent_id = 108
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Наверное	наверное	ADV	_	Degree=Pos	5	parataxis	_	start_char=7329|end_char=7337
+2	,	,	PUNCT	_	_	1	punct	_	start_char=7337|end_char=7338
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=7339|end_char=7342
+4	слишком	слишком	ADV	_	Degree=Pos	5	advmod	_	start_char=7343|end_char=7350
+5	милосердно	милосердный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=7351|end_char=7361
+6	с	с	ADP	_	_	8	case	_	start_char=7362|end_char=7363
+7	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=7364|end_char=7368
+8	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	start_char=7369|end_char=7376
+9	,	,	PUNCT	_	_	15	punct	_	start_char=7376|end_char=7377
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	start_char=7378|end_char=7382
+11	бы	бы	AUX	_	Mood=Cnd	15	aux	_	start_char=7383|end_char=7385
+12	,	,	PUNCT	_	_	13	punct	_	start_char=7385|end_char=7386
+13	пожалуй	пожалуй	ADV	_	Degree=Pos	15	parataxis	_	start_char=7387|end_char=7394
+14	,	,	PUNCT	_	_	13	punct	_	start_char=7394|end_char=7395
+15	неплохо	неплохой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	start_char=7396|end_char=7403
+16	оставить	оставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	csubj	_	start_char=7404|end_char=7412
+17	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	16	obj	_	start_char=7413|end_char=7416
+18	как	как	ADV	_	Degree=Pos|PronType=Rel	19	advmod	_	start_char=7417|end_char=7420
+19	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=7421|end_char=7425
+20	,	,	PUNCT	_	_	24	punct	_	start_char=7425|end_char=7426
+21	чтобы	чтобы	SCONJ	_	Mood=Cnd	24	mark	_	start_char=7427|end_char=7432
+22	понемногу	понемногу	ADV	_	Degree=Pos	24	advmod	_	start_char=7433|end_char=7442
+23	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	24	nsubj	_	start_char=7443|end_char=7446
+24	осозналось	осознаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	19	advcl	_	start_char=7447|end_char=7457
+25	,	,	PUNCT	_	_	27	punct	_	start_char=7457|end_char=7458
+26	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	27	nsubj	_	start_char=7459|end_char=7462
+27	почувствовалось	почувствоваться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	24	conj	_	start_char=7463|end_char=7478
+28	…	…	PUNCT	_	_	5	punct	_	start_char=7478|end_char=7479
+
+# text = «Брат Кадфаэль» вытащил из скрытых под рясой ножен кинжал – «наследие крестовых походов».
+# sent_id = 109
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	«	«	PUNCT	_	_	2	punct	_	start_char=7480|end_char=7481
+2	Брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=7481|end_char=7485
+3	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	start_char=7486|end_char=7494
+4	»	»	PUNCT	_	_	2	punct	_	start_char=7494|end_char=7495
+5	вытащил	вытащить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7496|end_char=7503
+6	из	из	ADP	_	_	10	case	_	start_char=7504|end_char=7506
+7	скрытых	скрыть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	start_char=7507|end_char=7514
+8	под	под	ADP	_	_	9	case	_	start_char=7515|end_char=7518
+9	рясой	ряса	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	start_char=7519|end_char=7524
+10	ножен	ножня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=7525|end_char=7530
+11	кинжал	кинжал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=7531|end_char=7537
+12	–	–	PUNCT	_	_	14	punct	_	start_char=7538|end_char=7539
+13	«	«	PUNCT	_	_	14	punct	_	start_char=7540|end_char=7541
+14	наследие	наследие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	parataxis	_	start_char=7541|end_char=7549
+15	крестовых	крестовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	start_char=7550|end_char=7559
+16	походов	поход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	start_char=7560|end_char=7567
+17	»	»	PUNCT	_	_	14	punct	_	start_char=7567|end_char=7568
+18	.	.	PUNCT	_	_	5	punct	_	start_char=7568|end_char=7569
+
+# text = – Но если нашел ты, найдут и другие.
+# sent_id = 110
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=7571|end_char=7572
+2	Но	но	CCONJ	_	_	7	cc	_	start_char=7573|end_char=7575
+3	если	если	SCONJ	_	_	4	mark	_	start_char=7576|end_char=7580
+4	нашел	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=7581|end_char=7586
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=7587|end_char=7589
+6	,	,	PUNCT	_	_	4	punct	_	start_char=7589|end_char=7590
+7	найдут	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=7591|end_char=7597
+8	и	и	CCONJ	_	_	9	cc	_	start_char=7598|end_char=7599
+9	другие	другой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	7	conj	_	start_char=7600|end_char=7606
+10	.	.	PUNCT	_	_	7	punct	_	start_char=7606|end_char=7607
+
+# text = Никакого неаутентичного оружия.
+# sent_id = 111
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Никакого	никакой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	3	det	_	start_char=7608|end_char=7616
+2	неаутентичного	неаутентичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=7617|end_char=7631
+3	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=7632|end_char=7638
+4	.	.	PUNCT	_	_	3	punct	_	start_char=7638|end_char=7639
+
+# text = Лучше поменьше оставлять следов.
+# sent_id = 112
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Лучше	лучше	ADJ	_	Degree=Cmp	0	root	_	start_char=7640|end_char=7645
+2	поменьше	мало	ADJ	_	Degree=Cmp	3	advmod	_	start_char=7646|end_char=7654
+3	оставлять	оставлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=7655|end_char=7664
+4	следов	след	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	obj	_	start_char=7665|end_char=7671
+5	.	.	PUNCT	_	_	1	punct	_	start_char=7671|end_char=7672
+
+# text = Приходится быть осторожным.
+# sent_id = 113
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Приходится	приходиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7673|end_char=7683
+2	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	cop	_	start_char=7684|end_char=7688
+3	осторожным	осторожный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	1	csubj	_	start_char=7689|end_char=7699
+4	.	.	PUNCT	_	_	1	punct	_	start_char=7699|end_char=7700
+
+# text = «Кадфаэль» присмотрелся к «привскрытой» в двух местах грудной клетке, и всадил клинок сперва в одну рану, затем, когда над умирающим таймлордом – его соотечественником – начало клубиться золотистое облако, в другую.
+# sent_id = 114
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	«	«	PUNCT	_	_	2	punct	_	start_char=7701|end_char=7702
+2	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=7702|end_char=7710
+3	»	»	PUNCT	_	_	2	punct	_	start_char=7710|end_char=7711
+4	присмотрелся	присмотреться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7712|end_char=7724
+5	к	к	ADP	_	_	7	case	_	start_char=7725|end_char=7726
+6	«	«	PUNCT	_	_	7	punct	_	start_char=7727|end_char=7728
+7	привскрытой	привскрытый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	obl	_	start_char=7728|end_char=7739
+8	»	»	PUNCT	_	_	7	punct	_	start_char=7739|end_char=7740
+9	в	в	ADP	_	_	11	case	_	start_char=7741|end_char=7742
+10	двух	два	NUM	_	Case=Loc|NumForm=Word|NumType=Card	11	nummod	_	start_char=7743|end_char=7747
+11	местах	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	obl	_	start_char=7748|end_char=7754
+12	грудной	грудной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=7755|end_char=7762
+13	клетке	клетка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	start_char=7763|end_char=7769
+14	,	,	PUNCT	_	_	16	punct	_	start_char=7769|end_char=7770
+15	и	и	CCONJ	_	_	16	cc	_	start_char=7771|end_char=7772
+16	всадил	всадить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=7773|end_char=7779
+17	клинок	клинок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	start_char=7780|end_char=7786
+18	сперва	сперва	ADV	_	Degree=Pos	16	advmod	_	start_char=7787|end_char=7793
+19	в	в	ADP	_	_	21	case	_	start_char=7794|end_char=7795
+20	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	21	nummod	_	start_char=7796|end_char=7800
+21	рану	рана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	start_char=7801|end_char=7805
+22	,	,	PUNCT	_	_	33	punct	_	start_char=7805|end_char=7806
+23	затем	затем	ADV	_	Degree=Pos|PronType=Dem	33	advmod	_	start_char=7807|end_char=7812
+24	,	,	PUNCT	_	_	33	punct	_	start_char=7812|end_char=7813
+25	когда	когда	SCONJ	_	_	31	mark	_	start_char=7814|end_char=7819
+26	над	над	ADP	_	_	28	case	_	start_char=7820|end_char=7823
+27	умирающим	умирать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	28	amod	_	start_char=7824|end_char=7833
+28	таймлордом	таймлорд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	obl	_	start_char=7834|end_char=7844
+29	–	–	PUNCT	_	_	31	punct	_	start_char=7845|end_char=7846
+30	его	его	DET	_	Poss=Yes|PronType=Prs	31	det	_	start_char=7847|end_char=7850
+31	соотечественником	соотечественник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	28	conj	_	start_char=7851|end_char=7868
+32	–	–	PUNCT	_	_	31	punct	_	start_char=7869|end_char=7870
+33	начало	начало	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	start_char=7871|end_char=7877
+34	клубиться	клубиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	33	xcomp	_	start_char=7878|end_char=7887
+35	золотистое	золотистый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	start_char=7888|end_char=7898
+36	облако	облако	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	33	nsubj	_	start_char=7899|end_char=7905
+37	,	,	PUNCT	_	_	39	punct	_	start_char=7905|end_char=7906
+38	в	в	ADP	_	_	39	case	_	start_char=7907|end_char=7908
+39	другую	другой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	36	conj	_	start_char=7909|end_char=7915
+40	.	.	PUNCT	_	_	4	punct	_	start_char=7915|end_char=7916
+
+# text = – Регенерации не будет, – сухо заключил «Кадфаэль».
+# sent_id = 115
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=7917|end_char=7918
+2	Регенерации	регенерация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nsubj	_	start_char=7919|end_char=7930
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=7931|end_char=7933
+4	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=7934|end_char=7939
+5	,	,	PUNCT	_	_	8	punct	_	start_char=7939|end_char=7940
+6	–	–	PUNCT	_	_	8	punct	_	start_char=7941|end_char=7942
+7	сухо	сухо	ADV	_	Degree=Pos	8	advmod	_	start_char=7943|end_char=7947
+8	заключил	заключить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=7948|end_char=7956
+9	«	«	PUNCT	_	_	10	punct	_	start_char=7957|end_char=7958
+10	Кадфаэль	Кадфаэль	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	8	nsubj	_	start_char=7958|end_char=7966
+11	»	»	PUNCT	_	_	10	punct	_	start_char=7966|end_char=7967
+12	.	.	PUNCT	_	_	4	punct	_	start_char=7967|end_char=7968
+
+# text = – Так заканчиваются войны.
+# sent_id = 116
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=7969|end_char=7970
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=7971|end_char=7974
+3	заканчиваются	заканчиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7975|end_char=7988
+4	войны	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=7989|end_char=7994
+5	.	.	PUNCT	_	_	3	punct	_	start_char=7994|end_char=7995
+
+# text = Не вытирая клинок, он спрятал кинжал, который больше никогда ему не понадобится, в ножны и, подойдя к двери, коротко в нее постучал.
+# sent_id = 117
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=7996|end_char=7998
+2	вытирая	вытирать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=7999|end_char=8006
+3	клинок	клинок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=8007|end_char=8013
+4	,	,	PUNCT	_	_	2	punct	_	start_char=8013|end_char=8014
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=8015|end_char=8017
+6	спрятал	спрятать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8018|end_char=8025
+7	кинжал	кинжал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=8026|end_char=8032
+8	,	,	PUNCT	_	_	14	punct	_	start_char=8032|end_char=8033
+9	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	start_char=8034|end_char=8041
+10	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	14	advmod	_	start_char=8042|end_char=8048
+11	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	14	advmod	_	start_char=8049|end_char=8056
+12	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	start_char=8057|end_char=8060
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=8061|end_char=8063
+14	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	start_char=8064|end_char=8075
+15	,	,	PUNCT	_	_	17	punct	_	start_char=8075|end_char=8076
+16	в	в	ADP	_	_	17	case	_	start_char=8077|end_char=8078
+17	ножны	ножны	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	27	obl	_	start_char=8079|end_char=8084
+18	и	и	CCONJ	_	_	27	cc	_	start_char=8085|end_char=8086
+19	,	,	PUNCT	_	_	20	punct	_	start_char=8086|end_char=8087
+20	подойдя	подойти	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	27	advcl	_	start_char=8088|end_char=8095
+21	к	к	ADP	_	_	22	case	_	start_char=8096|end_char=8097
+22	двери	дверь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	20	obl	_	start_char=8098|end_char=8103
+23	,	,	PUNCT	_	_	20	punct	_	start_char=8103|end_char=8104
+24	коротко	коротко	ADV	_	Degree=Pos	27	advmod	_	start_char=8105|end_char=8112
+25	в	в	ADP	_	_	26	case	_	start_char=8113|end_char=8114
+26	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obl	_	start_char=8115|end_char=8118
+27	постучал	постучать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=8119|end_char=8127
+28	.	.	PUNCT	_	_	6	punct	_	start_char=8127|end_char=8128
+
+# text = Еще немного погодя, перебрав и изучив вместе с Хью Берингаром загадочные вещи умершего, он забрал их и отправился прямиком к стоявшей в поле «чудесной часовне», предусмотрительно оцепленной людьми шерифа, не подпускавших пока толпы алчущих чуда паломников.
+# sent_id = 118
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Еще	еще	ADV	_	Degree=Pos	2	advmod	_	start_char=8129|end_char=8132
+2	немного	немного	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=8133|end_char=8140
+3	погодя	погодить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	17	advcl	_	start_char=8141|end_char=8147
+4	,	,	PUNCT	_	_	5	punct	_	start_char=8147|end_char=8148
+5	перебрав	перебрать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	3	conj	_	start_char=8149|end_char=8157
+6	и	и	CCONJ	_	_	7	cc	_	start_char=8158|end_char=8159
+7	изучив	изучить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	conj	_	start_char=8160|end_char=8166
+8	вместе	вместе	ADV	_	Degree=Pos	7	advmod	_	start_char=8167|end_char=8173
+9	с	с	ADP	_	_	10	case	_	start_char=8174|end_char=8175
+10	Хью	Хью	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	8	obl	_	start_char=8176|end_char=8179
+11	Берингаром	Берингар	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	7	iobj	_	start_char=8180|end_char=8190
+12	загадочные	загадочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	start_char=8191|end_char=8201
+13	вещи	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=8202|end_char=8206
+14	умершего	умерший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=8207|end_char=8215
+15	,	,	PUNCT	_	_	3	punct	_	start_char=8215|end_char=8216
+16	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=8217|end_char=8219
+17	забрал	забрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8220|end_char=8226
+18	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	start_char=8227|end_char=8229
+19	и	и	CCONJ	_	_	20	cc	_	start_char=8230|end_char=8231
+20	отправился	отправиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	17	conj	_	start_char=8232|end_char=8242
+21	прямиком	прямиком	ADV	_	Degree=Pos	20	advmod	_	start_char=8243|end_char=8251
+22	к	к	ADP	_	_	25	case	_	start_char=8252|end_char=8253
+23	стоявшей	стоять	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	20	xcomp	_	start_char=8254|end_char=8262
+24	в	в	ADP	_	_	25	case	_	start_char=8263|end_char=8264
+25	поле	поле	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	start_char=8265|end_char=8269
+26	«	«	PUNCT	_	_	28	punct	_	start_char=8270|end_char=8271
+27	чудесной	чудесный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	start_char=8271|end_char=8279
+28	часовне	часовня	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	23	obl	_	start_char=8280|end_char=8287
+29	»	»	PUNCT	_	_	28	punct	_	start_char=8287|end_char=8288
+30	,	,	PUNCT	_	_	32	punct	_	start_char=8288|end_char=8289
+31	предусмотрительно	предусмотрительно	ADV	_	Degree=Pos	32	advmod	_	start_char=8290|end_char=8307
+32	оцепленной	оцепить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	start_char=8308|end_char=8318
+33	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	32	obl:agent	_	start_char=8319|end_char=8325
+34	шерифа	шерифа	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	start_char=8326|end_char=8332
+35	,	,	PUNCT	_	_	37	punct	_	start_char=8332|end_char=8333
+36	не	не	PART	_	Polarity=Neg	37	advmod	_	start_char=8334|end_char=8336
+37	подпускавших	подпускать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	34	acl	_	start_char=8337|end_char=8349
+38	пока	пока	ADV	_	Degree=Pos	37	advmod	_	start_char=8350|end_char=8354
+39	толпы	толпа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	37	obj	_	start_char=8355|end_char=8360
+40	алчущих	алчущий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	41	amod	_	start_char=8361|end_char=8368
+41	чуда	чудо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	nmod	_	start_char=8369|end_char=8373
+42	паломников	паломник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	41	nmod	_	start_char=8374|end_char=8384
+43	.	.	PUNCT	_	_	17	punct	_	start_char=8384|end_char=8385
+
+# text = Открыв дверь чужой ТАРДИС чужим ключом, он, насвистывая, сбросил грудой забранные вещи у двери и подошел к консоли.
+# sent_id = 119
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Открыв	открыть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	12	advcl	_	start_char=8386|end_char=8392
+2	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	start_char=8393|end_char=8398
+3	чужой	чужой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=8399|end_char=8404
+4	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|NameType=Giv|Number=Sing	2	nmod	_	start_char=8405|end_char=8411
+5	чужим	чужой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=8412|end_char=8417
+6	ключом	ключ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	start_char=8418|end_char=8424
+7	,	,	PUNCT	_	_	1	punct	_	start_char=8424|end_char=8425
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=8426|end_char=8428
+9	,	,	PUNCT	_	_	10	punct	_	start_char=8428|end_char=8429
+10	насвистывая	насвистывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	advcl	_	start_char=8430|end_char=8441
+11	,	,	PUNCT	_	_	10	punct	_	start_char=8441|end_char=8442
+12	сбросил	сбросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8443|end_char=8450
+13	грудой	груда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	iobj	_	start_char=8451|end_char=8457
+14	забранные	забрать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	15	amod	_	start_char=8458|end_char=8467
+15	вещи	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	start_char=8468|end_char=8472
+16	у	у	ADP	_	_	17	case	_	start_char=8473|end_char=8474
+17	двери	дверь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	start_char=8475|end_char=8480
+18	и	и	CCONJ	_	_	19	cc	_	start_char=8481|end_char=8482
+19	подошел	подойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=8483|end_char=8490
+20	к	к	ADP	_	_	21	case	_	start_char=8491|end_char=8492
+21	консоли	консоль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	19	obl	_	start_char=8493|end_char=8500
+22	.	.	PUNCT	_	_	12	punct	_	start_char=8500|end_char=8501
+
+# text = Смена ТАРДИС определенно еще лучше поможет замести следы.
+# sent_id = 120
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Смена	смена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=8502|end_char=8507
+2	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	1	nmod	_	start_char=8508|end_char=8514
+3	определенно	определенно	ADV	_	Degree=Pos	6	advmod	_	start_char=8515|end_char=8526
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=8527|end_char=8530
+5	лучше	хорошо	ADV	_	Degree=Cmp	6	advmod	_	start_char=8531|end_char=8536
+6	поможет	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=8537|end_char=8544
+7	замести	замести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=8545|end_char=8552
+8	следы	след	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=8553|end_char=8558
+9	.	.	PUNCT	_	_	6	punct	_	start_char=8558|end_char=8559
+
+# text = Но все же едва ли слишком хорошо, одержимость участников войны превосходила всякое вероятие и их собственные возможности.
+# sent_id = 121
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Но	но	CCONJ	_	_	7	cc	_	start_char=8560|end_char=8562
+2	все	все	PART	_	_	7	advmod	_	start_char=8563|end_char=8566
+3	же	же	PART	_	_	2	fixed	_	start_char=8567|end_char=8569
+4	едва	едва	ADV	_	Degree=Pos	7	advmod	_	start_char=8570|end_char=8574
+5	ли	ли	PART	_	_	4	fixed	_	start_char=8575|end_char=8577
+6	слишком	слишком	ADV	_	Degree=Pos	7	advmod	_	start_char=8578|end_char=8585
+7	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=8586|end_char=8592
+8	,	,	PUNCT	_	_	12	punct	_	start_char=8592|end_char=8593
+9	одержимость	одержимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	start_char=8594|end_char=8605
+10	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	start_char=8606|end_char=8616
+11	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=8617|end_char=8622
+12	превосходила	превосходить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=8623|end_char=8635
+13	всякое	всякий	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	14	det	_	start_char=8636|end_char=8642
+14	вероятие	вероятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	start_char=8643|end_char=8651
+15	и	и	CCONJ	_	_	18	cc	_	start_char=8652|end_char=8653
+16	их	их	DET	_	Poss=Yes|PronType=Prs	18	det	_	start_char=8654|end_char=8656
+17	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	18	amod	_	start_char=8657|end_char=8668
+18	возможности	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	conj	_	start_char=8669|end_char=8680
+19	.	.	PUNCT	_	_	12	punct	_	start_char=8680|end_char=8681
+
+# text = Может быть, придется принять более радикальные и странные меры.
+# sent_id = 122
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=8682|end_char=8687
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=8688|end_char=8692
+3	,	,	PUNCT	_	_	1	punct	_	start_char=8692|end_char=8693
+4	придется	прийтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=8694|end_char=8702
+5	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=8703|end_char=8710
+6	более	более	ADV	_	Degree=Cmp|PronType=Tot	7	advmod	_	start_char=8711|end_char=8716
+7	радикальные	радикальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	start_char=8717|end_char=8728
+8	и	и	CCONJ	_	_	9	cc	_	start_char=8729|end_char=8730
+9	странные	странный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	conj	_	start_char=8731|end_char=8739
+10	меры	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=8740|end_char=8744
+11	.	.	PUNCT	_	_	4	punct	_	start_char=8744|end_char=8745
+
+# text = Например, воспользоваться временным искажением личности – это наверняка должно сбить преследователей с толку.
+# sent_id = 123
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Например	например	ADV	_	Degree=Pos	3	parataxis	_	start_char=8746|end_char=8754
+2	,	,	PUNCT	_	_	1	punct	_	start_char=8754|end_char=8755
+3	воспользоваться	воспользоваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	10	advcl	_	start_char=8756|end_char=8771
+4	временным	временный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=8772|end_char=8781
+5	искажением	искажение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	iobj	_	start_char=8782|end_char=8792
+6	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=8793|end_char=8801
+7	–	–	PUNCT	_	_	3	punct	_	start_char=8802|end_char=8803
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=8804|end_char=8807
+9	наверняка	наверняка	ADV	_	Degree=Pos	10	advmod	_	start_char=8808|end_char=8817
+10	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=8818|end_char=8824
+11	сбить	сбить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=8825|end_char=8830
+12	преследователей	преследователь	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	start_char=8831|end_char=8846
+13	с	с	ADP	_	_	14	case	_	start_char=8847|end_char=8848
+14	толку	толк	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	11	obl	_	start_char=8849|end_char=8854
+15	.	.	PUNCT	_	_	3	punct	_	start_char=8854|end_char=8855
+
+# text = А что касается места и времени…
+# sent_id = 124
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	А	а	CCONJ	_	_	3	cc	_	start_char=8856|end_char=8857
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	start_char=8858|end_char=8861
+3	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=8862|end_char=8870
+4	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obj	_	start_char=8871|end_char=8876
+5	и	и	CCONJ	_	_	6	cc	_	start_char=8877|end_char=8878
+6	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	start_char=8879|end_char=8886
+7	…	…	PUNCT	_	_	3	punct	_	start_char=8886|end_char=8887
+
+# text = Почему бы по-настоящему не «пережить всех» – в самом конце Вселенной?!
+# sent_id = 125
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=8888|end_char=8894
+2	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=8895|end_char=8897
+3	по-настоящему	по-настоящему	ADV	_	Degree=Pos	6	advmod	_	start_char=8898|end_char=8911
+4	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=8912|end_char=8914
+5	«	«	PUNCT	_	_	6	punct	_	start_char=8915|end_char=8916
+6	пережить	пережить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=8916|end_char=8924
+7	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	6	obj	_	start_char=8925|end_char=8929
+8	»	»	PUNCT	_	_	6	punct	_	start_char=8929|end_char=8930
+9	–	–	PUNCT	_	_	12	punct	_	start_char=8931|end_char=8932
+10	в	в	ADP	_	_	12	case	_	start_char=8933|end_char=8934
+11	самом	самый	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Emp	12	det	_	start_char=8935|end_char=8940
+12	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	start_char=8941|end_char=8946
+13	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	12	nmod	_	start_char=8947|end_char=8956
+14	?!	?!	PUNCT	_	_	6	punct	_	start_char=8956|end_char=8958
+
+# text = Одно то, что этот конец существует помимо
+# sent_id = 126
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Одно	один	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	start_char=8959|end_char=8963
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=8964|end_char=8966
+3	,	,	PUNCT	_	_	7	punct	_	start_char=8966|end_char=8967
+4	что	что	SCONJ	_	_	7	mark	_	start_char=8968|end_char=8971
+5	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	start_char=8972|end_char=8976
+6	конец	конец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=8977|end_char=8982
+7	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	start_char=8983|end_char=8993
+8	помимо	помимо	ADP	_	_	7	advmod	_	start_char=8994|end_char=9000
+
+# text = Временной войны, а не вместе с нею, докажет то, как она бессмысленна.
+# sent_id = 127
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	Временной	временный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=9001|end_char=9010
+2	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obj	_	start_char=9011|end_char=9016
+3	,	,	PUNCT	_	_	6	punct	_	start_char=9016|end_char=9017
+4	а	а	CCONJ	_	_	6	cc	_	start_char=9018|end_char=9019
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=9020|end_char=9022
+6	вместе	вместе	ADV	_	Degree=Pos	2	conj	_	start_char=9023|end_char=9029
+7	с	с	ADP	_	_	8	case	_	start_char=9030|end_char=9031
+8	нею	они	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=9032|end_char=9035
+9	,	,	PUNCT	_	_	2	punct	_	start_char=9035|end_char=9036
+10	докажет	доказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=9037|end_char=9044
+11	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obj	_	start_char=9045|end_char=9047
+12	,	,	PUNCT	_	_	15	punct	_	start_char=9047|end_char=9048
+13	как	как	ADV	_	Degree=Pos|PronType=Rel	15	advmod	_	start_char=9049|end_char=9052
+14	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=9053|end_char=9056
+15	бессмысленна	бессмысленный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	11	acl	_	start_char=9057|end_char=9069
+16	.	.	PUNCT	_	_	10	punct	_	start_char=9069|end_char=9070
+
+# text = 2013
+# sent_id = 128
+# metadata = Название: Брат Кадфаэль и чудесная часовня, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54535b2f00000a7f1b4f28e7/1/Brat-Kadfael-i-chudesnaya-chasovnya
+1	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	0	root	_	start_char=9072|end_char=9076
+

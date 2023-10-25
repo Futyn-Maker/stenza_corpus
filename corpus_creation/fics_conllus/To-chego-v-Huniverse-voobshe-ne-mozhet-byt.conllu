@@ -1,0 +1,1520 @@
+# text = – Итак, господа и дама, – самый импозантный Мастер чуть склонился в сторону единственной дамы, – у нас тема спецквеста тотал!
+# sent_id = 0
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	13	punct	_	start_char=0|end_char=1
+2	Итак	итак	ADV	_	Degree=Pos	13	advmod	_	start_char=2|end_char=6
+3	,	,	PUNCT	_	_	4	punct	_	start_char=6|end_char=7
+4	господа	господин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	parataxis	_	start_char=8|end_char=15
+5	и	и	CCONJ	_	_	6	cc	_	start_char=16|end_char=17
+6	дама	дама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	start_char=18|end_char=22
+7	,	,	PUNCT	_	_	4	punct	_	start_char=22|end_char=23
+8	–	–	PUNCT	_	_	2	punct	_	start_char=24|end_char=25
+9	самый	самый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	10	det	_	start_char=26|end_char=31
+10	импозантный	импозантный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=32|end_char=43
+11	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=44|end_char=50
+12	чуть	чуть	ADV	_	Degree=Pos	13	advmod	_	start_char=51|end_char=55
+13	склонился	склониться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=56|end_char=65
+14	в	в	ADP	_	_	15	case	_	start_char=66|end_char=67
+15	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	start_char=68|end_char=75
+16	единственной	единственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=76|end_char=88
+17	дамы	дама	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	start_char=89|end_char=93
+18	,	,	PUNCT	_	_	24	punct	_	start_char=93|end_char=94
+19	–	–	PUNCT	_	_	24	punct	_	start_char=95|end_char=96
+20	у	у	ADP	_	_	21	case	_	start_char=97|end_char=98
+21	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	24	obl	_	start_char=99|end_char=102
+22	тема	тема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	start_char=103|end_char=107
+23	спецквеста	спецквест	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	start_char=108|end_char=118
+24	тотал	тотать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	parataxis	_	start_char=119|end_char=124
+25	!	!	PUNCT	_	_	13	punct	_	start_char=124|end_char=125
+
+# text = АУ.
+# sent_id = 1
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	АУ	АУ	NOUN	_	Abbr=Yes	0	root	_	start_char=125|end_char=127
+2	.	.	PUNCT	_	_	1	punct	_	start_char=127|end_char=128
+
+# text = То есть что-то такое, что вот прямо совсем быть не может в нашей вселенной.
+# sent_id = 2
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	mark	_	start_char=129|end_char=131
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	start_char=132|end_char=136
+3	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	start_char=137|end_char=143
+4	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=144|end_char=149
+5	,	,	PUNCT	_	_	12	punct	_	start_char=149|end_char=150
+6	что	что	SCONJ	_	_	12	mark	_	start_char=151|end_char=154
+7	вот	вот	PART	_	_	9	advmod	_	start_char=155|end_char=158
+8	прямо	прямо	PART	_	_	9	advmod	_	start_char=159|end_char=164
+9	совсем	совсем	ADV	_	Degree=Pos	12	advmod	_	start_char=165|end_char=171
+10	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=172|end_char=176
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=177|end_char=179
+12	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	start_char=180|end_char=185
+13	в	в	ADP	_	_	15	case	_	start_char=186|end_char=187
+14	нашей	наш	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=188|end_char=193
+15	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	start_char=194|end_char=203
+16	.	.	PUNCT	_	_	3	punct	_	start_char=203|end_char=204
+
+# text = – А у нас разве может чего-то не быть? – озадачился молодящийся Мастер с бородкой.
+# sent_id = 3
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	6	punct	_	start_char=205|end_char=206
+2	А	а	CCONJ	_	_	6	cc	_	start_char=207|end_char=208
+3	у	у	ADP	_	_	4	case	_	start_char=209|end_char=210
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	obl	_	start_char=211|end_char=214
+5	разве	разве	PART	_	_	6	advmod	_	start_char=215|end_char=220
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=221|end_char=226
+7	чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	9	obj	_	start_char=227|end_char=234
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=235|end_char=237
+9	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=238|end_char=242
+10	?	?	PUNCT	_	_	6	punct	_	start_char=242|end_char=243
+11	–	–	PUNCT	_	_	12	punct	_	start_char=244|end_char=245
+12	озадачился	озадачиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=246|end_char=256
+13	молодящийся	молодящийся	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=257|end_char=268
+14	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=269|end_char=275
+15	с	с	ADP	_	_	16	case	_	start_char=276|end_char=277
+16	бородкой	бородка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	start_char=278|end_char=286
+17	.	.	PUNCT	_	_	6	punct	_	start_char=286|end_char=287
+
+# text = – Вообще приведите пример, что там обычно у людей бывает.
+# sent_id = 4
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=288|end_char=289
+2	Вообще	вообще	ADV	_	Degree=Pos	3	advmod	_	start_char=290|end_char=296
+3	приведите	приведеть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=297|end_char=306
+4	пример	пример	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=307|end_char=313
+5	,	,	PUNCT	_	_	11	punct	_	start_char=313|end_char=314
+6	что	что	SCONJ	_	_	11	mark	_	start_char=315|end_char=318
+7	там	там	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=319|end_char=322
+8	обычно	обычно	ADV	_	Degree=Pos	11	advmod	_	start_char=323|end_char=329
+9	у	у	ADP	_	_	10	case	_	start_char=330|end_char=331
+10	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	obl	_	start_char=332|end_char=337
+11	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	start_char=338|end_char=344
+12	.	.	PUNCT	_	_	3	punct	_	start_char=344|end_char=345
+
+# text = – Ну, скажем, гендерсвоп, когда герой оказывается другого пола.
+# sent_id = 5
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	6	punct	_	start_char=346|end_char=347
+2	Ну	ну	PART	_	_	6	discourse	_	start_char=348|end_char=350
+3	,	,	PUNCT	_	_	4	punct	_	start_char=350|end_char=351
+4	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=352|end_char=358
+5	,	,	PUNCT	_	_	4	punct	_	start_char=358|end_char=359
+6	гендерсвоп	гендерсвоп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=360|end_char=370
+7	,	,	PUNCT	_	_	10	punct	_	start_char=370|end_char=371
+8	когда	когда	SCONJ	_	_	10	mark	_	start_char=372|end_char=377
+9	герой	герой	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=378|end_char=383
+10	оказывается	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	advcl	_	start_char=384|end_char=395
+11	другого	другой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	12	det	_	start_char=396|end_char=403
+12	пола	пол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obj	_	start_char=404|end_char=408
+13	.	.	PUNCT	_	_	6	punct	_	start_char=408|end_char=409
+
+# text = Мисси, сидевшая в дальнем углу и следившая за кем-то с помощью уличных камер наблюдения, сеть которых она давно взломала, только многозначительно хмыкнула.
+# sent_id = 6
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	25	nsubj	_	start_char=410|end_char=415
+2	,	,	PUNCT	_	_	3	punct	_	start_char=415|end_char=416
+3	сидевшая	сидеть	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	start_char=417|end_char=425
+4	в	в	ADP	_	_	6	case	_	start_char=426|end_char=427
+5	дальнем	дальний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=428|end_char=435
+6	углу	угол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=436|end_char=440
+7	и	и	CCONJ	_	_	8	cc	_	start_char=441|end_char=442
+8	следившая	следить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	start_char=443|end_char=452
+9	за	за	ADP	_	_	10	case	_	start_char=453|end_char=455
+10	кем-то	кто-то	PRON	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	8	obl	_	start_char=456|end_char=462
+11	с	с	ADP	_	_	14	case	_	start_char=463|end_char=464
+12	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	fixed	_	start_char=465|end_char=472
+13	уличных	уличный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	start_char=473|end_char=480
+14	камер	камера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	start_char=481|end_char=486
+15	наблюдения	наблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	start_char=487|end_char=497
+16	,	,	PUNCT	_	_	21	punct	_	start_char=497|end_char=498
+17	сеть	сеть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	start_char=499|end_char=503
+18	которых	который	PRON	_	Case=Gen|Number=Plur|PronType=Rel	17	nmod	_	start_char=504|end_char=511
+19	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=512|end_char=515
+20	давно	давно	ADV	_	Degree=Pos	21	advmod	_	start_char=516|end_char=521
+21	взломала	взломать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=522|end_char=530
+22	,	,	PUNCT	_	_	3	punct	_	start_char=530|end_char=531
+23	только	только	PART	_	_	24	advmod	_	start_char=532|end_char=538
+24	многозначительно	многозначительно	ADV	_	Degree=Pos	25	advmod	_	start_char=539|end_char=555
+25	хмыкнула	хмыкнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=556|end_char=564
+26	.	.	PUNCT	_	_	25	punct	_	start_char=564|end_char=565
+
+# text = – А еще можете это моей Доктору рассказать, она посмеется, – оторвался от протирания далекодетекторов еще один Мастер.
+# sent_id = 7
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=566|end_char=567
+2	А	а	CCONJ	_	_	4	cc	_	start_char=568|end_char=569
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=570|end_char=573
+4	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=574|end_char=580
+5	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obj	_	start_char=581|end_char=584
+6	моей	мой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=585|end_char=589
+7	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	start_char=590|end_char=597
+8	рассказать	рассказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=598|end_char=608
+9	,	,	PUNCT	_	_	11	punct	_	start_char=608|end_char=609
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=610|end_char=613
+11	посмеется	посметься	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=614|end_char=623
+12	,	,	PUNCT	_	_	14	punct	_	start_char=623|end_char=624
+13	–	–	PUNCT	_	_	14	punct	_	start_char=625|end_char=626
+14	оторвался	оторваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=627|end_char=636
+15	от	от	ADP	_	_	16	case	_	start_char=637|end_char=639
+16	протирания	протирание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	start_char=640|end_char=650
+17	далекодетекторов	далекодетектор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	start_char=651|end_char=667
+18	еще	еще	ADV	_	Degree=Pos	19	advmod	_	start_char=668|end_char=671
+19	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	det	_	start_char=672|end_char=676
+20	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=677|end_char=683
+21	.	.	PUNCT	_	_	4	punct	_	start_char=683|end_char=684
+
+# text = – Тогда животными.
+# sent_id = 8
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=685|end_char=686
+2	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=687|end_char=692
+3	животными	животное	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	0	root	_	start_char=693|end_char=702
+4	.	.	PUNCT	_	_	3	punct	_	start_char=702|end_char=703
+
+# text = – Я едва не начал мяукать с этими гепардами, – пожаловался молодящийся Мастер.
+# sent_id = 9
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	5	punct	_	start_char=704|end_char=705
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=706|end_char=707
+3	едва	едва	ADV	_	Degree=Pos	5	advmod	_	start_char=708|end_char=712
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=713|end_char=715
+5	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=716|end_char=721
+6	мяукать	мяукать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=722|end_char=729
+7	с	с	ADP	_	_	9	case	_	start_char=730|end_char=731
+8	этими	этот	DET	_	Case=Ins|Number=Plur|PronType=Dem	9	det	_	start_char=732|end_char=737
+9	гепардами	гепарда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	6	obl	_	start_char=738|end_char=747
+10	,	,	PUNCT	_	_	12	punct	_	start_char=747|end_char=748
+11	–	–	PUNCT	_	_	12	punct	_	start_char=749|end_char=750
+12	пожаловался	пожаловаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=751|end_char=762
+13	молодящийся	молодящийся	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=763|end_char=774
+14	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=775|end_char=781
+15	.	.	PUNCT	_	_	5	punct	_	start_char=781|end_char=782
+
+# text = – Что?
+# sent_id = 10
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=783|end_char=784
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=785|end_char=788
+3	?	?	PUNCT	_	_	2	punct	_	start_char=788|end_char=789
+
+# text = Что вы меня так гипнотизируете, как змей – свою жертву?
+# sent_id = 11
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=790|end_char=793
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=794|end_char=796
+3	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	start_char=797|end_char=801
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=802|end_char=805
+5	гипнотизируете	гипнотизировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=806|end_char=820
+6	,	,	PUNCT	_	_	8	punct	_	start_char=820|end_char=821
+7	как	как	SCONJ	_	_	8	case	_	start_char=822|end_char=825
+8	змей	змей	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	obl	_	start_char=826|end_char=830
+9	–	–	PUNCT	_	_	11	punct	_	start_char=831|end_char=832
+10	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	start_char=833|end_char=837
+11	жертву	жертва	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	start_char=838|end_char=844
+12	?	?	PUNCT	_	_	5	punct	_	start_char=844|end_char=845
+
+# text = Мастер в церемониальной алой мантии вздрогнул и отвернулся.
+# sent_id = 12
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=846|end_char=852
+2	в	в	ADP	_	_	5	case	_	start_char=853|end_char=854
+3	церемониальной	церемониальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=855|end_char=869
+4	алой	алой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=870|end_char=874
+5	мантии	мантия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	start_char=875|end_char=881
+6	вздрогнул	вздрогнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=882|end_char=891
+7	и	и	CCONJ	_	_	8	cc	_	start_char=892|end_char=893
+8	отвернулся	отвернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=894|end_char=904
+9	.	.	PUNCT	_	_	6	punct	_	start_char=904|end_char=905
+
+# text = – Ничего, привычка.
+# sent_id = 13
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=906|end_char=907
+2	Ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=908|end_char=914
+3	,	,	PUNCT	_	_	4	punct	_	start_char=914|end_char=915
+4	привычка	привычка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=916|end_char=924
+5	.	.	PUNCT	_	_	2	punct	_	start_char=924|end_char=925
+
+# text = Что-нибудь еще?
+# sent_id = 14
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	start_char=926|end_char=936
+2	еще	еще	ADV	_	Degree=Pos	1	advmod	_	start_char=937|end_char=940
+3	?	?	PUNCT	_	_	1	punct	_	start_char=940|end_char=941
+
+# text = – Апокалипсис.
+# sent_id = 15
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=942|end_char=943
+2	Апокалипсис	апокалипсис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=944|end_char=955
+3	.	.	PUNCT	_	_	2	punct	_	start_char=955|end_char=956
+
+# text = – Конец Вселенной – куда уж апокалиптичней!
+# sent_id = 16
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=957|end_char=958
+2	Конец	конец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=959|end_char=964
+3	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	2	nmod	_	start_char=965|end_char=974
+4	–	–	PUNCT	_	_	7	punct	_	start_char=975|end_char=976
+5	куда	куда	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=977|end_char=981
+6	уж	уж	PART	_	_	5	advmod	_	start_char=982|end_char=984
+7	апокалиптичней	апокалиптичный	ADJ	_	Degree=Cmp	2	parataxis	_	start_char=985|end_char=999
+8	!	!	PUNCT	_	_	2	punct	_	start_char=999|end_char=1000
+
+# text = – махнул белым рукавом рубашки Мастер, пытавшийся что-то рассчитать на подвернувшемся рабочем компьютере.
+# sent_id = 17
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1001|end_char=1002
+2	махнул	махнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1003|end_char=1009
+3	белым	белый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1010|end_char=1015
+4	рукавом	рукав	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=1016|end_char=1023
+5	рубашки	рубашка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=1024|end_char=1031
+6	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1032|end_char=1038
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1038|end_char=1039
+8	пытавшийся	пытаться	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	start_char=1040|end_char=1050
+9	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	10	obj	_	start_char=1051|end_char=1057
+10	рассчитать	рассчитать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=1058|end_char=1068
+11	на	на	ADP	_	_	14	case	_	start_char=1069|end_char=1071
+12	подвернувшемся	подвернуться	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	start_char=1072|end_char=1086
+13	рабочем	рабочий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=1087|end_char=1094
+14	компьютере	компьютер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	start_char=1095|end_char=1105
+15	.	.	PUNCT	_	_	2	punct	_	start_char=1105|end_char=1106
+
+# text = – Зомбиапокалипсис.
+# sent_id = 18
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1107|end_char=1108
+2	Зомбиапокалипсис	зомбиапокалипсис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1109|end_char=1125
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1125|end_char=1126
+
+# text = – Хм.
+# sent_id = 19
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1127|end_char=1128
+2	Хм	хм	INTJ	_	_	0	root	_	start_char=1129|end_char=1131
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1131|end_char=1132
+
+# text = Ну, один зомби у нас все же был...
+# sent_id = 20
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Ну	ну	PART	_	_	9	parataxis	_	start_char=1133|end_char=1135
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1135|end_char=1136
+3	один	один	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	4	nummod	_	start_char=1137|end_char=1141
+4	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=1142|end_char=1147
+5	у	у	ADP	_	_	6	case	_	start_char=1148|end_char=1149
+6	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	obl	_	start_char=1150|end_char=1153
+7	все	всё	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	start_char=1154|end_char=1157
+8	же	же	PART	_	_	7	advmod	_	start_char=1158|end_char=1160
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1161|end_char=1164
+10	...	...	PUNCT	_	_	9	punct	_	start_char=1164|end_char=1167
+
+# text = – Протестую, я не зомби!
+# sent_id = 21
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1168|end_char=1169
+2	Протестую	протестовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1170|end_char=1179
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1179|end_char=1180
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1181|end_char=1182
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1183|end_char=1185
+6	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	2	parataxis	_	start_char=1186|end_char=1191
+7	!	!	PUNCT	_	_	2	punct	_	start_char=1191|end_char=1192
+
+# text = Нельзя судить таймлорда только на основании его внешности!
+# sent_id = 22
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Нельзя	нельзя	VERB	_	_	0	root	_	start_char=1193|end_char=1199
+2	судить	судить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=1200|end_char=1206
+3	таймлорда	таймлорд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=1207|end_char=1216
+4	только	только	PART	_	_	6	advmod	_	start_char=1217|end_char=1223
+5	на	на	ADP	_	_	6	case	_	start_char=1224|end_char=1226
+6	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	start_char=1227|end_char=1236
+7	его	его	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=1237|end_char=1240
+8	внешности	внешность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=1241|end_char=1250
+9	!	!	PUNCT	_	_	1	punct	_	start_char=1250|end_char=1251
+
+# text = – возмутился Мастер, напоминающий не просто зомби, а зомби в полуразложившимся виде.
+# sent_id = 23
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1252|end_char=1253
+2	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1254|end_char=1264
+3	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1265|end_char=1271
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1271|end_char=1272
+5	напоминающий	напоминать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	start_char=1273|end_char=1285
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1286|end_char=1288
+7	просто	просто	PART	_	_	8	advmod	_	start_char=1289|end_char=1295
+8	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	5	xcomp	_	start_char=1296|end_char=1301
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1301|end_char=1302
+10	а	а	CCONJ	_	_	11	cc	_	start_char=1303|end_char=1304
+11	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	8	conj	_	start_char=1305|end_char=1310
+12	в	в	ADP	_	_	14	case	_	start_char=1311|end_char=1312
+13	полуразложившимся	полуразложиться	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	amod	_	start_char=1313|end_char=1330
+14	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	start_char=1331|end_char=1335
+15	.	.	PUNCT	_	_	2	punct	_	start_char=1335|end_char=1336
+
+# text = – Один зомби зомбиапокалипсиса не сделает.
+# sent_id = 24
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1337|end_char=1338
+2	Один	один	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	3	nummod	_	start_char=1339|end_char=1343
+3	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1344|end_char=1349
+4	зомбиапокалипсиса	зомбиапокалипсиса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=1350|end_char=1367
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1368|end_char=1370
+6	сделает	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1371|end_char=1378
+7	.	.	PUNCT	_	_	6	punct	_	start_char=1378|end_char=1379
+
+# text = Вот если бы их было много...
+# sent_id = 25
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вот	вот	PART	_	_	6	advmod	_	start_char=1380|end_char=1383
+2	если	если	SCONJ	_	_	6	mark	_	start_char=1384|end_char=1388
+3	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=1389|end_char=1391
+4	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	start_char=1392|end_char=1394
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1395|end_char=1399
+6	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=1400|end_char=1405
+7	...	...	PUNCT	_	_	6	punct	_	start_char=1405|end_char=1408
+
+# text = – Откуда взять столько?
+# sent_id = 26
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1409|end_char=1410
+2	Откуда	откуда	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=1411|end_char=1417
+3	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1418|end_char=1423
+4	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	3	obj	_	start_char=1424|end_char=1431
+5	?	?	PUNCT	_	_	3	punct	_	start_char=1431|end_char=1432
+
+# text = – Поймите, коллега, при написании такого тотального АУ никого не волнует обоснуй.
+# sent_id = 27
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1433|end_char=1434
+2	Поймите	понять	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1435|end_char=1442
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1442|end_char=1443
+4	коллега	коллега	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	vocative	_	start_char=1444|end_char=1451
+5	,	,	PUNCT	_	_	13	punct	_	start_char=1451|end_char=1452
+6	при	при	ADP	_	_	7	case	_	start_char=1453|end_char=1456
+7	написании	написание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	start_char=1457|end_char=1466
+8	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=1467|end_char=1473
+9	тотального	тотальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=1474|end_char=1484
+10	АУ	АУ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=1485|end_char=1487
+11	никого	никто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	13	obj	_	start_char=1488|end_char=1494
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1495|end_char=1497
+13	волнует	волновать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1498|end_char=1505
+14	обоснуй	обоснуй	ADV	_	Degree=Pos	13	advmod	_	start_char=1506|end_char=1513
+15	.	.	PUNCT	_	_	2	punct	_	start_char=1513|end_char=1514
+
+# text = Вот оно есть – и все, как данность.
+# sent_id = 28
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вот	вот	PART	_	_	3	advmod	_	start_char=1515|end_char=1518
+2	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1519|end_char=1522
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1523|end_char=1527
+4	–	–	PUNCT	_	_	6	punct	_	start_char=1528|end_char=1529
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1530|end_char=1531
+6	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	conj	_	start_char=1532|end_char=1535
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1535|end_char=1536
+8	как	как	SCONJ	_	_	9	case	_	start_char=1537|end_char=1540
+9	данность	данность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	acl	_	start_char=1541|end_char=1549
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1549|end_char=1550
+
+# text = Может быть, смоделируем?
+# sent_id = 29
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1551|end_char=1556
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=1557|end_char=1561
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1561|end_char=1562
+4	смоделируем	смоделировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1563|end_char=1574
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1574|end_char=1575
+
+# text = Импозантный Мастер и молодящийся Мастер, как самые молодые и энергичные, отобрали компьютер у Мастера в белой рубашке, который начал возмущаться, что не успел сохранить расчеты ракеты до Утопии.
+# sent_id = 30
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Импозантный	импозантный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=1576|end_char=1587
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=1588|end_char=1594
+3	и	и	CCONJ	_	_	5	cc	_	start_char=1595|end_char=1596
+4	молодящийся	молодящийся	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1597|end_char=1608
+5	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=1609|end_char=1615
+6	,	,	PUNCT	_	_	9	punct	_	start_char=1615|end_char=1616
+7	как	как	SCONJ	_	_	9	mark	_	start_char=1617|end_char=1620
+8	самые	самый	DET	_	Case=Nom|Number=Plur|PronType=Emp	9	det	_	start_char=1621|end_char=1626
+9	молодые	молодой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	acl	_	start_char=1627|end_char=1634
+10	и	и	CCONJ	_	_	11	cc	_	start_char=1635|end_char=1636
+11	энергичные	энергичный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	conj	_	start_char=1637|end_char=1647
+12	,	,	PUNCT	_	_	9	punct	_	start_char=1647|end_char=1648
+13	отобрали	отобрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1649|end_char=1657
+14	компьютер	компьютер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=1658|end_char=1667
+15	у	у	ADP	_	_	16	case	_	start_char=1668|end_char=1669
+16	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=1670|end_char=1677
+17	в	в	ADP	_	_	19	case	_	start_char=1678|end_char=1679
+18	белой	белый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=1680|end_char=1685
+19	рубашке	рубашка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	start_char=1686|end_char=1693
+20	,	,	PUNCT	_	_	22	punct	_	start_char=1693|end_char=1694
+21	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	22	nsubj	_	start_char=1695|end_char=1702
+22	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	acl:relcl	_	start_char=1703|end_char=1708
+23	возмущаться	возмущаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	22	xcomp	_	start_char=1709|end_char=1720
+24	,	,	PUNCT	_	_	27	punct	_	start_char=1720|end_char=1721
+25	что	что	SCONJ	_	_	27	mark	_	start_char=1722|end_char=1725
+26	не	не	PART	_	Polarity=Neg	27	advmod	_	start_char=1726|end_char=1728
+27	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	ccomp	_	start_char=1729|end_char=1734
+28	сохранить	сохранить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	27	xcomp	_	start_char=1735|end_char=1744
+29	расчеты	расчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	28	obj	_	start_char=1745|end_char=1752
+30	ракеты	ракета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	start_char=1753|end_char=1759
+31	до	до	ADP	_	_	32	case	_	start_char=1760|end_char=1762
+32	Утопии	Утопия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	28	obl	_	start_char=1763|end_char=1769
+33	.	.	PUNCT	_	_	13	punct	_	start_char=1769|end_char=1770
+
+# text = – Утопии не бывает, – махнули на него рукой.
+# sent_id = 31
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1771|end_char=1772
+2	Утопии	утопия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nsubj	_	start_char=1773|end_char=1779
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1780|end_char=1782
+4	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1783|end_char=1789
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1789|end_char=1790
+6	–	–	PUNCT	_	_	7	punct	_	start_char=1791|end_char=1792
+7	махнули	махнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1793|end_char=1800
+8	на	на	ADP	_	_	9	case	_	start_char=1801|end_char=1803
+9	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=1804|end_char=1808
+10	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	iobj	_	start_char=1809|end_char=1814
+11	.	.	PUNCT	_	_	4	punct	_	start_char=1814|end_char=1815
+
+# text = – Итак, берем зомби.
+# sent_id = 32
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1816|end_char=1817
+2	Итак	итак	ADV	_	Degree=Pos	4	advmod	_	start_char=1818|end_char=1822
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1822|end_char=1823
+4	берем	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1824|end_char=1829
+5	зомби	зомбь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=1830|end_char=1835
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1835|end_char=1836
+
+# text = – И превращаем в меня все человечество!
+# sent_id = 33
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1837|end_char=1838
+2	И	и	CCONJ	_	_	3	cc	_	start_char=1839|end_char=1840
+3	превращаем	превращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1841|end_char=1851
+4	в	в	ADP	_	_	5	case	_	start_char=1852|end_char=1853
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=1854|end_char=1858
+6	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	start_char=1859|end_char=1862
+7	человечество	человечество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=1863|end_char=1875
+8	!	!	PUNCT	_	_	3	punct	_	start_char=1875|end_char=1876
+
+# text = – предложил что-то жующий блондинистый Мастер.
+# sent_id = 34
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1877|end_char=1878
+2	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1879|end_char=1888
+3	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	start_char=1889|end_char=1895
+4	жующий	жевать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	start_char=1896|end_char=1902
+5	блондинистый	блондинистый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1903|end_char=1915
+6	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1916|end_char=1922
+7	.	.	PUNCT	_	_	2	punct	_	start_char=1922|end_char=1923
+
+# text = – Замечательная идея!
+# sent_id = 35
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1924|end_char=1925
+2	Замечательная	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=1926|end_char=1939
+3	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1940|end_char=1944
+4	!	!	PUNCT	_	_	3	punct	_	start_char=1944|end_char=1945
+
+# text = – воодушевились два Мастера, быстро вводя новые данные.
+# sent_id = 36
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1946|end_char=1947
+2	воодушевились	воодушевиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1948|end_char=1961
+3	два	два	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	4	nummod:gov	_	start_char=1962|end_char=1965
+4	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1966|end_char=1973
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1973|end_char=1974
+6	быстро	быстро	ADV	_	Degree=Pos	7	advmod	_	start_char=1975|end_char=1981
+7	вводя	вводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=1982|end_char=1987
+8	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	start_char=1988|end_char=1993
+9	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	obj	_	start_char=1994|end_char=2000
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2000|end_char=2001
+
+# text = Через несколько секунд с голографической модели на них смотрела толпа полуразложившихся зомби с большими голубыми глазами навыкате.
+# sent_id = 37
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Через	через	ADP	_	_	3	case	_	start_char=2002|end_char=2007
+2	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	3	nummod:gov	_	start_char=2008|end_char=2017
+3	секунд	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	start_char=2018|end_char=2024
+4	с	с	ADP	_	_	6	case	_	start_char=2025|end_char=2026
+5	голографической	голографический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=2027|end_char=2042
+6	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=2043|end_char=2049
+7	на	на	ADP	_	_	8	case	_	start_char=2050|end_char=2052
+8	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	9	obl	_	start_char=2053|end_char=2056
+9	смотрела	смотреть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2057|end_char=2065
+10	толпа	толпа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=2066|end_char=2071
+11	полуразложившихся	полуразложиться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	12	amod	_	start_char=2072|end_char=2089
+12	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	start_char=2090|end_char=2095
+13	с	с	ADP	_	_	16	case	_	start_char=2096|end_char=2097
+14	большими	большой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	start_char=2098|end_char=2106
+15	голубыми	голубой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	start_char=2107|end_char=2115
+16	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	start_char=2116|end_char=2123
+17	навыкате	навыкить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	9	conj	_	start_char=2124|end_char=2132
+18	.	.	PUNCT	_	_	9	punct	_	start_char=2132|end_char=2133
+
+# text = Глаза почему-то не разлагались.
+# sent_id = 38
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=2134|end_char=2139
+2	почему-то	почему-то	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=2140|end_char=2149
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2150|end_char=2152
+4	разлагались	разлагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2153|end_char=2164
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2164|end_char=2165
+
+# text = – И... что дальше?
+# sent_id = 39
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2166|end_char=2167
+2	И	и	CCONJ	_	_	5	cc	_	start_char=2168|end_char=2169
+3	...	...	PUNCT	_	_	4	punct	_	start_char=2169|end_char=2172
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	start_char=2173|end_char=2176
+5	дальше	дальше	ADV	_	Degree=Cmp	0	root	_	start_char=2177|end_char=2183
+6	?	?	PUNCT	_	_	5	punct	_	start_char=2183|end_char=2184
+
+# text = У одного зомби отвалилась рука.
+# sent_id = 40
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	У	у	ADP	_	_	3	case	_	start_char=2185|end_char=2186
+2	одного	один	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	start_char=2187|end_char=2193
+3	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=2194|end_char=2199
+4	отвалилась	отвалиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2200|end_char=2210
+5	рука	рука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=2211|end_char=2215
+6	.	.	PUNCT	_	_	4	punct	_	start_char=2215|end_char=2216
+
+# text = Еще у одного – голова.
+# sent_id = 41
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=2217|end_char=2220
+2	у	у	ADP	_	_	3	case	_	start_char=2221|end_char=2222
+3	одного	один	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	0	root	_	start_char=2223|end_char=2229
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2230|end_char=2231
+5	голова	голова	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=2232|end_char=2238
+6	.	.	PUNCT	_	_	3	punct	_	start_char=2238|end_char=2239
+
+# text = Катиться ей в такой толпе особо было некуда, так что она осталась лежать под ногами и хлопать голубыми глазами.
+# sent_id = 42
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Катиться	катиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	8	csubj	_	start_char=2240|end_char=2248
+2	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	iobj	_	start_char=2249|end_char=2251
+3	в	в	ADP	_	_	5	case	_	start_char=2252|end_char=2253
+4	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=2254|end_char=2259
+5	толпе	толпа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	start_char=2260|end_char=2265
+6	особо	особо	ADV	_	Degree=Pos	8	advmod	_	start_char=2266|end_char=2271
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=2272|end_char=2276
+8	некуда	некуда	VERB	_	Polarity=Neg	0	root	_	start_char=2277|end_char=2283
+9	,	,	PUNCT	_	_	13	punct	_	start_char=2283|end_char=2284
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	13	mark	_	start_char=2285|end_char=2288
+11	что	что	SCONJ	_	_	10	fixed	_	start_char=2289|end_char=2292
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=2293|end_char=2296
+13	осталась	остаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	advcl	_	start_char=2297|end_char=2305
+14	лежать	лежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=2306|end_char=2312
+15	под	под	ADP	_	_	16	case	_	start_char=2313|end_char=2316
+16	ногами	нога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	14	obl	_	start_char=2317|end_char=2323
+17	и	и	CCONJ	_	_	18	cc	_	start_char=2324|end_char=2325
+18	хлопать	хлопать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	conj	_	start_char=2326|end_char=2333
+19	голубыми	голубой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	20	amod	_	start_char=2334|end_char=2342
+20	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	18	iobj	_	start_char=2343|end_char=2350
+21	.	.	PUNCT	_	_	8	punct	_	start_char=2350|end_char=2351
+
+# text = – А дальше они должны начать искать себе новое тело.
+# sent_id = 43
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2352|end_char=2353
+2	А	а	CCONJ	_	_	5	cc	_	start_char=2354|end_char=2355
+3	дальше	дальше	ADV	_	Degree=Cmp	5	advmod	_	start_char=2356|end_char=2362
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=2363|end_char=2366
+5	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=2367|end_char=2373
+6	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=2374|end_char=2380
+7	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=2381|end_char=2387
+8	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	7	iobj	_	start_char=2388|end_char=2392
+9	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	start_char=2393|end_char=2398
+10	тело	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=2399|end_char=2403
+11	.	.	PUNCT	_	_	5	punct	_	start_char=2403|end_char=2404
+
+# text = – Все?
+# sent_id = 44
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2405|end_char=2406
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=2407|end_char=2410
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2410|end_char=2411
+
+# text = – Все.
+# sent_id = 45
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2412|end_char=2413
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=2414|end_char=2417
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2417|end_char=2418
+
+# text = – Но ТАРДИС у них только одна.
+# sent_id = 46
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	7	punct	_	start_char=2419|end_char=2420
+2	Но	но	CCONJ	_	_	7	cc	_	start_char=2421|end_char=2423
+3	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	start_char=2424|end_char=2430
+4	у	у	ADP	_	_	5	case	_	start_char=2431|end_char=2432
+5	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	obl	_	start_char=2433|end_char=2436
+6	только	только	PART	_	_	7	advmod	_	start_char=2437|end_char=2443
+7	одна	один	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	0	root	_	start_char=2444|end_char=2448
+8	.	.	PUNCT	_	_	5	punct	_	start_char=2448|end_char=2449
+
+# text = Зомби как по команде все развернулись в сторону, где возвышались над ними напольные часы, и бросились к ним.
+# sent_id = 47
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Зомби	зомбь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	start_char=2450|end_char=2455
+2	как	как	SCONJ	_	_	4	case	_	start_char=2456|end_char=2459
+3	по	по	ADP	_	_	4	case	_	start_char=2460|end_char=2462
+4	команде	команда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	start_char=2463|end_char=2470
+5	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	6	nsubj	_	start_char=2471|end_char=2474
+6	развернулись	развернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2475|end_char=2487
+7	в	в	ADP	_	_	8	case	_	start_char=2488|end_char=2489
+8	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=2490|end_char=2497
+9	,	,	PUNCT	_	_	11	punct	_	start_char=2497|end_char=2498
+10	где	где	ADV	_	Degree=Pos|PronType=Rel	11	advmod	_	start_char=2499|end_char=2502
+11	возвышались	возвышаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	8	acl:relcl	_	start_char=2503|end_char=2514
+12	над	над	ADP	_	_	13	case	_	start_char=2515|end_char=2518
+13	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	11	obl	_	start_char=2519|end_char=2523
+14	напольные	напольный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	start_char=2524|end_char=2533
+15	часы	часы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	start_char=2534|end_char=2538
+16	,	,	PUNCT	_	_	18	punct	_	start_char=2538|end_char=2539
+17	и	и	CCONJ	_	_	18	cc	_	start_char=2540|end_char=2541
+18	бросились	броситься	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=2542|end_char=2551
+19	к	к	ADP	_	_	20	case	_	start_char=2552|end_char=2553
+20	ним	он	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	obl	_	start_char=2554|end_char=2557
+21	.	.	PUNCT	_	_	6	punct	_	start_char=2557|end_char=2558
+
+# text = Закономерно возникла давка, в стороны полетели руки, ноги и головы, кого-то затоптали – был бы человек, было бы до смерти, а так просто осложнили существование, пробив пятками грудную клетку и отфутболив в сторону содержимое брюшной полости.
+# sent_id = 48
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Закономерно	закономерно	ADV	_	Degree=Pos	2	advmod	_	start_char=2559|end_char=2570
+2	возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2571|end_char=2579
+3	давка	давка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=2580|end_char=2585
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2585|end_char=2586
+5	в	в	ADP	_	_	6	case	_	start_char=2587|end_char=2588
+6	стороны	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=2589|end_char=2596
+7	полетели	полететь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2597|end_char=2605
+8	руки	рука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	start_char=2606|end_char=2610
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2610|end_char=2611
+10	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	conj	_	start_char=2612|end_char=2616
+11	и	и	CCONJ	_	_	12	cc	_	start_char=2617|end_char=2618
+12	головы	голова	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	conj	_	start_char=2619|end_char=2625
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2625|end_char=2626
+14	кого-то	кто-то	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	15	obj	_	start_char=2627|end_char=2634
+15	затоптали	затоптать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2635|end_char=2644
+16	–	–	PUNCT	_	_	17	punct	_	start_char=2645|end_char=2646
+17	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2647|end_char=2650
+18	бы	бы	AUX	_	Mood=Cnd	17	aux	_	start_char=2651|end_char=2653
+19	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	start_char=2654|end_char=2661
+20	,	,	PUNCT	_	_	24	punct	_	start_char=2661|end_char=2662
+21	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	cop	_	start_char=2663|end_char=2667
+22	бы	бы	AUX	_	Mood=Cnd	24	aux	_	start_char=2668|end_char=2670
+23	до	до	ADP	_	_	24	case	_	start_char=2671|end_char=2673
+24	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	conj	_	start_char=2674|end_char=2680
+25	,	,	PUNCT	_	_	29	punct	_	start_char=2680|end_char=2681
+26	а	а	CCONJ	_	_	29	cc	_	start_char=2682|end_char=2683
+27	так	так	ADV	_	Degree=Pos|PronType=Dem	29	advmod	_	start_char=2684|end_char=2687
+28	просто	просто	PART	_	_	29	advmod	_	start_char=2688|end_char=2694
+29	осложнили	осложнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2695|end_char=2704
+30	существование	существование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	29	obj	_	start_char=2705|end_char=2718
+31	,	,	PUNCT	_	_	32	punct	_	start_char=2718|end_char=2719
+32	пробив	пробить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	29	advcl	_	start_char=2720|end_char=2726
+33	пятками	пятка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	32	iobj	_	start_char=2727|end_char=2734
+34	грудную	грудной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	start_char=2735|end_char=2742
+35	клетку	клетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	obj	_	start_char=2743|end_char=2749
+36	и	и	CCONJ	_	_	37	cc	_	start_char=2750|end_char=2751
+37	отфутболив	отфутболить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	32	conj	_	start_char=2752|end_char=2762
+38	в	в	ADP	_	_	39	case	_	start_char=2763|end_char=2764
+39	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	37	obl	_	start_char=2765|end_char=2772
+40	содержимое	содержимое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	obj	_	start_char=2773|end_char=2783
+41	брюшной	брюшной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	start_char=2784|end_char=2791
+42	полости	полость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	start_char=2792|end_char=2799
+43	.	.	PUNCT	_	_	2	punct	_	start_char=2799|end_char=2800
+
+# text = По мере того, как ближайшие к ТАРДИС зомби перемалывались, разбирались на части и отбрасывались назад, сзади напирали свежие и еще относительно целые.
+# sent_id = 49
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	По	по	ADP	_	_	3	case	_	start_char=2801|end_char=2803
+2	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	fixed	_	start_char=2804|end_char=2808
+3	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	12	obl	_	start_char=2809|end_char=2813
+4	,	,	PUNCT	_	_	10	punct	_	start_char=2813|end_char=2814
+5	как	как	SCONJ	_	_	10	mark	_	start_char=2815|end_char=2818
+6	ближайшие	ближайший	ADJ	_	Case=Nom|Degree=Sup|Number=Plur	9	acl	_	start_char=2819|end_char=2828
+7	к	к	ADP	_	_	8	case	_	start_char=2829|end_char=2830
+8	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	6	obl	_	start_char=2831|end_char=2837
+9	зомби	зомбь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	start_char=2838|end_char=2843
+10	перемалывались	перемалываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	acl	_	start_char=2844|end_char=2858
+11	,	,	PUNCT	_	_	10	punct	_	start_char=2858|end_char=2859
+12	разбирались	разбираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2860|end_char=2871
+13	на	на	ADP	_	_	14	case	_	start_char=2872|end_char=2874
+14	части	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obl	_	start_char=2875|end_char=2880
+15	и	и	CCONJ	_	_	16	cc	_	start_char=2881|end_char=2882
+16	отбрасывались	отбрасываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	start_char=2883|end_char=2896
+17	назад	назад	ADV	_	Degree=Pos	16	advmod	_	start_char=2897|end_char=2902
+18	,	,	PUNCT	_	_	20	punct	_	start_char=2902|end_char=2903
+19	сзади	сзади	ADV	_	Degree=Pos	20	advmod	_	start_char=2904|end_char=2909
+20	напирали	напирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=2910|end_char=2918
+21	свежие	свежий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	obj	_	start_char=2919|end_char=2925
+22	и	и	CCONJ	_	_	25	cc	_	start_char=2926|end_char=2927
+23	еще	еще	ADV	_	Degree=Pos	24	advmod	_	start_char=2928|end_char=2931
+24	относительно	относительно	ADV	_	Degree=Pos	25	advmod	_	start_char=2932|end_char=2944
+25	целые	целый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	conj	_	start_char=2945|end_char=2950
+26	.	.	PUNCT	_	_	12	punct	_	start_char=2950|end_char=2951
+
+# text = – Тупиковый вариант.
+# sent_id = 50
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2952|end_char=2953
+2	Тупиковый	тупиковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=2954|end_char=2963
+3	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2964|end_char=2971
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2971|end_char=2972
+
+# text = – Согласен.
+# sent_id = 51
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2973|end_char=2974
+2	Согласен	согласить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=2975|end_char=2983
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2983|end_char=2984
+
+# text = И неэстетичный.
+# sent_id = 52
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	И	и	CCONJ	_	_	2	cc	_	start_char=2985|end_char=2986
+2	неэстетичный	неэстетичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=2987|end_char=2999
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2999|end_char=3000
+
+# text = – Импозантный Мастер выпустил в сторону модели клуб сигарного дыма и выключил ее.
+# sent_id = 53
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3001|end_char=3002
+2	Импозантный	импозантный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=3003|end_char=3014
+3	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=3015|end_char=3021
+4	выпустил	выпустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3022|end_char=3030
+5	в	в	ADP	_	_	6	case	_	start_char=3031|end_char=3032
+6	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=3033|end_char=3040
+7	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=3041|end_char=3047
+8	клуб	клуб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=3048|end_char=3052
+9	сигарного	сигарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=3053|end_char=3062
+10	дыма	дым	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=3063|end_char=3067
+11	и	и	CCONJ	_	_	12	cc	_	start_char=3068|end_char=3069
+12	выключил	выключить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=3070|end_char=3078
+13	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=3079|end_char=3081
+14	.	.	PUNCT	_	_	4	punct	_	start_char=3081|end_char=3082
+
+# text = – Может быть, что-нибудь менее глобальное?
+# sent_id = 54
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3083|end_char=3084
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=3085|end_char=3090
+3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=3091|end_char=3095
+4	,	,	PUNCT	_	_	2	punct	_	start_char=3095|end_char=3096
+5	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	start_char=3097|end_char=3107
+6	менее	менее	ADV	_	Degree=Cmp|PronType=Tot	7	advmod	_	start_char=3108|end_char=3113
+7	глобальное	глобальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=3114|end_char=3124
+8	?	?	PUNCT	_	_	5	punct	_	start_char=3124|end_char=3125
+
+# text = – Кому интересно что-нибудь менее глобальное?
+# sent_id = 55
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3126|end_char=3127
+2	Кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Int	3	iobj	_	start_char=3128|end_char=3132
+3	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3133|end_char=3142
+4	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	nsubj	_	start_char=3143|end_char=3153
+5	менее	менее	ADV	_	Degree=Cmp|PronType=Tot	6	advmod	_	start_char=3154|end_char=3159
+6	глобальное	глобальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=3160|end_char=3170
+7	?	?	PUNCT	_	_	3	punct	_	start_char=3170|end_char=3171
+
+# text = – поморщился моложавый Мастер.
+# sent_id = 56
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3172|end_char=3173
+2	поморщился	поморщиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3174|end_char=3184
+3	моложавый	моложавый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=3185|end_char=3194
+4	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3195|end_char=3201
+5	.	.	PUNCT	_	_	2	punct	_	start_char=3201|end_char=3202
+
+# text = – Что может быть лучше захвата вселенной!
+# sent_id = 57
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3203|end_char=3204
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=3205|end_char=3208
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3209|end_char=3214
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	cop	_	start_char=3215|end_char=3219
+5	лучше	хороший	ADJ	_	Degree=Cmp	3	xcomp	_	start_char=3220|end_char=3225
+6	захвата	захват	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=3226|end_char=3233
+7	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=3234|end_char=3243
+8	!	!	PUNCT	_	_	3	punct	_	start_char=3243|end_char=3244
+
+# text = Ну хотя бы Земли.
+# sent_id = 58
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Ну	ну	PART	_	_	4	parataxis	_	start_char=3245|end_char=3247
+2	хотя	хотя	PART	_	_	4	advmod	_	start_char=3248|end_char=3252
+3	бы	бы	PART	_	_	2	fixed	_	start_char=3253|end_char=3255
+4	Земли	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=3256|end_char=3261
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3261|end_char=3262
+
+# text = – Не знаю.
+# sent_id = 59
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3263|end_char=3264
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3265|end_char=3267
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3268|end_char=3272
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3272|end_char=3273
+
+# text = Давайте посмотрим дальше по списку... так.
+# sent_id = 60
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3274|end_char=3281
+2	посмотрим	посмотреть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=3282|end_char=3291
+3	дальше	дальше	ADV	_	Degree=Cmp	2	advmod	_	start_char=3292|end_char=3298
+4	по	по	ADP	_	_	5	case	_	start_char=3299|end_char=3301
+5	списку	список	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	start_char=3302|end_char=3308
+6	...	...	PUNCT	_	_	7	punct	_	start_char=3308|end_char=3311
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	2	parataxis	_	start_char=3312|end_char=3315
+8	.	.	PUNCT	_	_	1	punct	_	start_char=3315|end_char=3316
+
+# text = Историческое.
+# sent_id = 61
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Историческое	исторический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=3317|end_char=3329
+2	.	.	PUNCT	_	_	1	punct	_	start_char=3329|end_char=3330
+
+# text = Или фэнтези!
+# sent_id = 62
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Или	или	CCONJ	_	_	2	cc	_	start_char=3331|end_char=3334
+2	фэнтези	фэнтези	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3335|end_char=3342
+3	!	!	PUNCT	_	_	2	punct	_	start_char=3342|end_char=3343
+
+# text = АУ.
+# sent_id = 63
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	АУ	АУ	NOUN	_	Abbr=Yes	0	root	_	start_char=3343|end_char=3345
+2	.	.	PUNCT	_	_	1	punct	_	start_char=3345|end_char=3346
+
+# text = – Вот, помню, мы как-то раз с Пятым Доктором при дворе короля Иоанна, который считал нас демонами...
+# sent_id = 64
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3347|end_char=3348
+2	Вот	вот	PART	_	_	4	advmod	_	start_char=3349|end_char=3352
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3352|end_char=3353
+4	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3354|end_char=3359
+5	,	,	PUNCT	_	_	4	punct	_	start_char=3359|end_char=3360
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=3361|end_char=3363
+7	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	11	advmod	_	start_char=3364|end_char=3370
+8	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=3371|end_char=3374
+9	с	с	ADP	_	_	11	case	_	start_char=3375|end_char=3376
+10	Пятым	пятый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=3377|end_char=3382
+11	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	start_char=3383|end_char=3391
+12	при	при	ADP	_	_	13	case	_	start_char=3392|end_char=3395
+13	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	start_char=3396|end_char=3401
+14	короля	король	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	start_char=3402|end_char=3408
+15	Иоанна	Иоанн	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	14	nmod	_	start_char=3409|end_char=3415
+16	,	,	PUNCT	_	_	18	punct	_	start_char=3415|end_char=3416
+17	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	start_char=3417|end_char=3424
+18	считал	считать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=3425|end_char=3431
+19	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	18	obj	_	start_char=3432|end_char=3435
+20	демонами	демон	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	18	xcomp	_	start_char=3436|end_char=3444
+21	...	...	PUNCT	_	_	11	punct	_	start_char=3444|end_char=3447
+
+# text = – Понятно.
+# sent_id = 65
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3448|end_char=3449
+2	Понятно	понятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3450|end_char=3457
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3457|end_char=3458
+
+# text = Колледж!
+# sent_id = 66
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Колледж	колледж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3459|end_char=3466
+2	!	!	PUNCT	_	_	1	punct	_	start_char=3466|end_char=3467
+
+# text = АУ.
+# sent_id = 67
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	АУ	АУ	NOUN	_	Abbr=Yes	0	root	_	start_char=3467|end_char=3469
+2	.	.	PUNCT	_	_	1	punct	_	start_char=3469|end_char=3470
+
+# text = – Да что мы, не учились, что ли? – удивились все.
+# sent_id = 68
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	9	punct	_	start_char=3471|end_char=3472
+2	Да	да	CCONJ	_	_	9	cc	_	start_char=3473|end_char=3475
+3	что	что	SCONJ	_	_	2	fixed	_	start_char=3476|end_char=3479
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=3480|end_char=3482
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3482|end_char=3483
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3484|end_char=3486
+7	учились	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	start_char=3487|end_char=3494
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3494|end_char=3495
+9	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=3496|end_char=3499
+10	ли	ли	PART	_	_	9	advmod	_	start_char=3500|end_char=3502
+11	?	?	PUNCT	_	_	9	punct	_	start_char=3502|end_char=3503
+12	–	–	PUNCT	_	_	13	punct	_	start_char=3504|end_char=3505
+13	удивились	удивиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=3506|end_char=3515
+14	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	13	nsubj	_	start_char=3516|end_char=3519
+15	.	.	PUNCT	_	_	9	punct	_	start_char=3519|end_char=3520
+
+# text = – Только вместо колледжа Академия была, но велика ли разница.
+# sent_id = 69
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3521|end_char=3522
+2	Только	только	PART	_	_	4	advmod	_	start_char=3523|end_char=3529
+3	вместо	вместо	ADP	_	_	4	case	_	start_char=3530|end_char=3536
+4	колледжа	колледж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	start_char=3537|end_char=3545
+5	Академия	академия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=3546|end_char=3554
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3555|end_char=3559
+7	,	,	PUNCT	_	_	9	punct	_	start_char=3559|end_char=3560
+8	но	но	CCONJ	_	_	9	cc	_	start_char=3561|end_char=3563
+9	велика	большой	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	6	conj	_	start_char=3564|end_char=3570
+10	ли	ли	PART	_	_	9	advmod	_	start_char=3571|end_char=3573
+11	разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=3574|end_char=3581
+12	.	.	PUNCT	_	_	6	punct	_	start_char=3581|end_char=3582
+
+# text = – Ну не скажите.
+# sent_id = 70
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3583|end_char=3584
+2	Ну	ну	PART	_	_	4	discourse	_	start_char=3585|end_char=3587
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3588|end_char=3590
+4	скажите	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3591|end_char=3598
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3598|end_char=3599
+
+# text = Вот, скажем, есть, видимо, какая-то особенная разновидность – Хогвартс!
+# sent_id = 71
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вот	вот	PART	_	_	5	advmod	_	start_char=3600|end_char=3603
+2	,	,	PUNCT	_	_	3	punct	_	start_char=3603|end_char=3604
+3	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=3605|end_char=3611
+4	,	,	PUNCT	_	_	3	punct	_	start_char=3611|end_char=3612
+5	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3613|end_char=3617
+6	,	,	PUNCT	_	_	7	punct	_	start_char=3617|end_char=3618
+7	видимо	видимо	ADV	_	Degree=Pos	11	parataxis	_	start_char=3619|end_char=3625
+8	,	,	PUNCT	_	_	7	punct	_	start_char=3625|end_char=3626
+9	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	start_char=3627|end_char=3635
+10	особенная	особенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=3636|end_char=3645
+11	разновидность	разновидность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=3646|end_char=3659
+12	–	–	PUNCT	_	_	13	punct	_	start_char=3660|end_char=3661
+13	Хогвартс	Хогвартс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	appos	_	start_char=3662|end_char=3670
+14	!	!	PUNCT	_	_	5	punct	_	start_char=3670|end_char=3671
+
+# text = АУ.
+# sent_id = 72
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	АУ	АУ	NOUN	_	Abbr=Yes	0	root	_	start_char=3671|end_char=3673
+2	.	.	PUNCT	_	_	1	punct	_	start_char=3673|end_char=3674
+
+# text = Насколько я знаю, это школа волшебства и магии из детской книжки.
+# sent_id = 73
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Насколько	насколько	ADV	_	Degree=Pos	3	advmod	_	start_char=3675|end_char=3684
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3685|end_char=3686
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3687|end_char=3691
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3691|end_char=3692
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=3693|end_char=3696
+6	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	start_char=3697|end_char=3702
+7	волшебства	волшебство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=3703|end_char=3713
+8	и	и	CCONJ	_	_	9	cc	_	start_char=3714|end_char=3715
+9	магии	магия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	start_char=3716|end_char=3721
+10	из	из	ADP	_	_	12	case	_	start_char=3722|end_char=3724
+11	детской	детский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=3725|end_char=3732
+12	книжки	книжка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=3733|end_char=3739
+13	.	.	PUNCT	_	_	3	punct	_	start_char=3739|end_char=3740
+
+# text = Вот ты, – Мастер подошел к единственному среди них ребенку, – ты бы что в такой школе делал?
+# sent_id = 74
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вот	вот	PART	_	_	0	root	_	start_char=3741|end_char=3744
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	start_char=3745|end_char=3747
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3747|end_char=3748
+4	–	–	PUNCT	_	_	6	punct	_	start_char=3749|end_char=3750
+5	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=3751|end_char=3757
+6	подошел	подойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=3758|end_char=3765
+7	к	к	ADP	_	_	8	case	_	start_char=3766|end_char=3767
+8	единственному	единственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	obl	_	start_char=3768|end_char=3781
+9	среди	среди	ADP	_	_	10	case	_	start_char=3782|end_char=3787
+10	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	nmod	_	start_char=3788|end_char=3791
+11	ребенку	ребенок	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	start_char=3792|end_char=3799
+12	,	,	PUNCT	_	_	20	punct	_	start_char=3799|end_char=3800
+13	–	–	PUNCT	_	_	20	punct	_	start_char=3801|end_char=3802
+14	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	start_char=3803|end_char=3805
+15	бы	бы	AUX	_	Mood=Cnd	20	aux	_	start_char=3806|end_char=3808
+16	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	20	obj	_	start_char=3809|end_char=3812
+17	в	в	ADP	_	_	19	case	_	start_char=3813|end_char=3814
+18	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	start_char=3815|end_char=3820
+19	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	obl	_	start_char=3821|end_char=3826
+20	делал	делать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=3827|end_char=3832
+21	?	?	PUNCT	_	_	1	punct	_	start_char=3832|end_char=3833
+
+# text = – Не знаю, – смутился он.
+# sent_id = 75
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3834|end_char=3835
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3836|end_char=3838
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3839|end_char=3843
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3843|end_char=3844
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3845|end_char=3846
+6	смутился	смутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=3847|end_char=3855
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3856|end_char=3858
+8	.	.	PUNCT	_	_	3	punct	_	start_char=3858|end_char=3859
+
+# text = – Наверное, учился бы изо всех сил...
+# sent_id = 76
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3860|end_char=3861
+2	Наверное	наверное	ADV	_	Degree=Pos	4	parataxis	_	start_char=3862|end_char=3870
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3870|end_char=3871
+4	учился	учиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3872|end_char=3878
+5	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=3879|end_char=3881
+6	изо	изо	ADP	_	_	8	case	_	start_char=3882|end_char=3885
+7	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	8	det	_	start_char=3886|end_char=3890
+8	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	start_char=3891|end_char=3894
+9	...	...	PUNCT	_	_	4	punct	_	start_char=3894|end_char=3897
+
+# text = Вел бы дневник...
+# sent_id = 77
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вел	вести	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3898|end_char=3901
+2	бы	бы	AUX	_	Mood=Cnd	1	aux	_	start_char=3902|end_char=3904
+3	дневник	дневник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=3905|end_char=3912
+4	...	...	PUNCT	_	_	1	punct	_	start_char=3912|end_char=3915
+
+# text = А в свободное время составлял анаграммы из букв своего имени.
+# sent_id = 78
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	А	а	CCONJ	_	_	5	cc	_	start_char=3916|end_char=3917
+2	в	в	ADP	_	_	4	case	_	start_char=3918|end_char=3919
+3	свободное	свободный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=3920|end_char=3929
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=3930|end_char=3935
+5	составлял	составлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3936|end_char=3945
+6	анаграммы	анаграмма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=3946|end_char=3955
+7	из	из	ADP	_	_	8	case	_	start_char=3956|end_char=3958
+8	букв	буква	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	start_char=3959|end_char=3963
+9	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	start_char=3964|end_char=3970
+10	имени	имя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=3971|end_char=3976
+11	.	.	PUNCT	_	_	5	punct	_	start_char=3976|end_char=3977
+
+# text = – Какой милый ребенок!
+# sent_id = 79
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3978|end_char=3979
+2	Какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	det	_	start_char=3980|end_char=3985
+3	милый	милый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=3986|end_char=3991
+4	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3992|end_char=3999
+5	!	!	PUNCT	_	_	4	punct	_	start_char=3999|end_char=4000
+
+# text = – умилился импозантный Мастер.
+# sent_id = 80
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4001|end_char=4002
+2	умилился	умилиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4003|end_char=4011
+3	импозантный	импозантный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=4012|end_char=4023
+4	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4024|end_char=4030
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4030|end_char=4031
+
+# text = – Был, – бросила Мисси и снова с головой ушла в свой планшет.
+# sent_id = 81
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4032|end_char=4033
+2	Был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4034|end_char=4037
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4037|end_char=4038
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4039|end_char=4040
+5	бросила	бросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4041|end_char=4048
+6	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	nsubj	_	start_char=4049|end_char=4054
+7	и	и	CCONJ	_	_	11	cc	_	start_char=4055|end_char=4056
+8	снова	снова	ADV	_	Degree=Pos	11	advmod	_	start_char=4057|end_char=4062
+9	с	с	ADP	_	_	10	case	_	start_char=4063|end_char=4064
+10	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	start_char=4065|end_char=4072
+11	ушла	уйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=4073|end_char=4077
+12	в	в	ADP	_	_	14	case	_	start_char=4078|end_char=4079
+13	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=4080|end_char=4084
+14	планшет	планшет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=4085|end_char=4092
+15	.	.	PUNCT	_	_	2	punct	_	start_char=4092|end_char=4093
+
+# text = Импозантный Мастер метнул на нее испепеляющий взгляд.
+# sent_id = 82
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Импозантный	импозантный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=4094|end_char=4105
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4106|end_char=4112
+3	метнул	метнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4113|end_char=4119
+4	на	на	ADP	_	_	5	case	_	start_char=4120|end_char=4122
+5	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=4123|end_char=4126
+6	испепеляющий	испепелять	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	amod	_	start_char=4127|end_char=4139
+7	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=4140|end_char=4146
+8	.	.	PUNCT	_	_	3	punct	_	start_char=4146|end_char=4147
+
+# text = – Если уж мы заговорили о литературе – а как бы мы могли вписаться в какой-нибудь фольклор?
+# sent_id = 83
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4148|end_char=4149
+2	Если	если	SCONJ	_	_	5	mark	_	start_char=4150|end_char=4154
+3	уж	уж	PART	_	_	5	advmod	_	start_char=4155|end_char=4157
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=4158|end_char=4160
+5	заговорили	заговорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=4161|end_char=4171
+6	о	о	ADP	_	_	7	case	_	start_char=4172|end_char=4173
+7	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=4174|end_char=4184
+8	–	–	PUNCT	_	_	5	punct	_	start_char=4185|end_char=4186
+9	а	а	CCONJ	_	_	13	cc	_	start_char=4187|end_char=4188
+10	как	как	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=4189|end_char=4192
+11	бы	бы	AUX	_	Mood=Cnd	13	aux	_	start_char=4193|end_char=4195
+12	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=4196|end_char=4198
+13	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4199|end_char=4204
+14	вписаться	вписаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	13	xcomp	_	start_char=4205|end_char=4214
+15	в	в	ADP	_	_	17	case	_	start_char=4215|end_char=4216
+16	какой-нибудь	какой-нибудь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	17	det	_	start_char=4217|end_char=4229
+17	фольклор	фольклор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	start_char=4230|end_char=4238
+18	?	?	PUNCT	_	_	13	punct	_	start_char=4238|end_char=4239
+
+# text = В тридевятом царстве, в тридесятом государстве...
+# sent_id = 84
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	В	в	ADP	_	_	3	case	_	start_char=4240|end_char=4241
+2	тридевятом	тридевятый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=4242|end_char=4252
+3	царстве	царство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=4253|end_char=4260
+4	,	,	PUNCT	_	_	7	punct	_	start_char=4260|end_char=4261
+5	в	в	ADP	_	_	7	case	_	start_char=4262|end_char=4263
+6	тридесятом	тридесятый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=4264|end_char=4274
+7	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	conj	_	start_char=4275|end_char=4286
+8	...	...	PUNCT	_	_	3	punct	_	start_char=4286|end_char=4289
+
+# text = –
+# sent_id = 85
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	0	root	_	start_char=4290|end_char=4291
+
+# text = А как вы думаете, коллега, почему главный антагонист этих сказок носит имя Кощей? – потряс моложавый Мастер книжкой с картинками.
+# sent_id = 86
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	А	а	CCONJ	_	_	4	cc	_	start_char=4292|end_char=4293
+2	как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=4294|end_char=4297
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=4298|end_char=4300
+4	думаете	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4301|end_char=4308
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4308|end_char=4309
+6	коллега	коллега	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	start_char=4310|end_char=4317
+7	,	,	PUNCT	_	_	13	punct	_	start_char=4317|end_char=4318
+8	почему	почему	ADV	_	Degree=Pos|PronType=Int	13	advmod	_	start_char=4319|end_char=4325
+9	главный	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=4326|end_char=4333
+10	антагонист	антагонист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=4334|end_char=4344
+11	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	12	det	_	start_char=4345|end_char=4349
+12	сказок	сказка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	start_char=4350|end_char=4356
+13	носит	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4357|end_char=4362
+14	имя	имя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	start_char=4363|end_char=4366
+15	Кощей	Коща	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	14	appos	_	start_char=4367|end_char=4372
+16	?	?	PUNCT	_	_	13	punct	_	start_char=4372|end_char=4373
+17	–	–	PUNCT	_	_	18	punct	_	start_char=4374|end_char=4375
+18	потряс	потрясти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4376|end_char=4382
+19	моложавый	моложавый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	start_char=4383|end_char=4392
+20	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	start_char=4393|end_char=4399
+21	книжкой	книжка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	20	nmod	_	start_char=4400|end_char=4407
+22	с	с	ADP	_	_	23	case	_	start_char=4408|end_char=4409
+23	картинками	картинка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	21	nmod	_	start_char=4410|end_char=4420
+24	.	.	PUNCT	_	_	4	punct	_	start_char=4420|end_char=4421
+
+# text = – Как же с нами сложно-то...
+# sent_id = 87
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4422|end_char=4423
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=4424|end_char=4427
+3	же	же	PART	_	_	2	advmod	_	start_char=4428|end_char=4430
+4	с	с	ADP	_	_	5	case	_	start_char=4431|end_char=4432
+5	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	6	nmod	_	start_char=4433|end_char=4437
+6	сложно-то	сложно-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=4438|end_char=4447
+7	...	...	PUNCT	_	_	6	punct	_	start_char=4447|end_char=4450
+
+# text = –
+# sent_id = 88
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	0	root	_	start_char=4451|end_char=4452
+
+# text = С нами как раз просто, мы все можем, все умеем, и бываем везде!
+# sent_id = 89
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	С	с	ADP	_	_	2	case	_	start_char=4453|end_char=4454
+2	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	9	obl	_	start_char=4455|end_char=4459
+3	как	как	SCONJ	_	_	5	advmod	_	start_char=4460|end_char=4463
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	fixed	_	start_char=4464|end_char=4467
+5	просто	просто	PART	_	_	9	advmod	_	start_char=4468|end_char=4474
+6	,	,	PUNCT	_	_	9	punct	_	start_char=4474|end_char=4475
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=4476|end_char=4478
+8	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	7	det	_	start_char=4479|end_char=4482
+9	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4483|end_char=4488
+10	,	,	PUNCT	_	_	12	punct	_	start_char=4488|end_char=4489
+11	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	12	nsubj	_	start_char=4490|end_char=4493
+12	умеем	уметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=4494|end_char=4499
+13	,	,	PUNCT	_	_	15	punct	_	start_char=4499|end_char=4500
+14	и	и	CCONJ	_	_	15	cc	_	start_char=4501|end_char=4502
+15	бываем	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=4503|end_char=4509
+16	везде	везде	ADV	_	Degree=Pos|PronType=Tot	15	advmod	_	start_char=4510|end_char=4515
+17	!	!	PUNCT	_	_	9	punct	_	start_char=4515|end_char=4516
+
+# text = – К вопросу о все можем – есть вариант смены профессии.
+# sent_id = 90
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4517|end_char=4518
+2	К	к	ADP	_	_	3	case	_	start_char=4519|end_char=4520
+3	вопросу	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=4521|end_char=4528
+4	о	о	ADP	_	_	5	case	_	start_char=4529|end_char=4530
+5	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	6	obl	_	start_char=4531|end_char=4534
+6	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4535|end_char=4540
+7	–	–	PUNCT	_	_	8	punct	_	start_char=4541|end_char=4542
+8	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=4543|end_char=4547
+9	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4548|end_char=4555
+10	смены	смена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=4556|end_char=4561
+11	профессии	профессия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=4562|end_char=4571
+12	.	.	PUNCT	_	_	6	punct	_	start_char=4571|end_char=4572
+
+# text = Мы – завоеватели мира, но могли бы быть... не знаю... доктором!
+# sent_id = 91
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=4573|end_char=4575
+2	–	–	PUNCT	_	_	3	punct	_	start_char=4576|end_char=4577
+3	завоеватели	завоеватель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=4578|end_char=4589
+4	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=4590|end_char=4594
+5	,	,	PUNCT	_	_	7	punct	_	start_char=4594|end_char=4595
+6	но	но	CCONJ	_	_	7	cc	_	start_char=4596|end_char=4598
+7	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4599|end_char=4604
+8	бы	бы	AUX	_	Mood=Cnd	7	aux	_	start_char=4605|end_char=4607
+9	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=4608|end_char=4612
+10	...	...	PUNCT	_	_	7	punct	_	start_char=4612|end_char=4615
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=4616|end_char=4618
+12	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=4619|end_char=4623
+13	...	...	PUNCT	_	_	14	punct	_	start_char=4623|end_char=4626
+14	доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	xcomp	_	start_char=4627|end_char=4635
+15	!	!	PUNCT	_	_	12	punct	_	start_char=4635|end_char=4636
+
+# text = – Доктором или доктором? – уточнил лысый Мастер.
+# sent_id = 92
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4637|end_char=4638
+2	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=4639|end_char=4647
+3	или	или	CCONJ	_	_	4	cc	_	start_char=4648|end_char=4651
+4	доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	conj	_	start_char=4652|end_char=4660
+5	?	?	PUNCT	_	_	2	punct	_	start_char=4660|end_char=4661
+6	–	–	PUNCT	_	_	7	punct	_	start_char=4662|end_char=4663
+7	уточнил	уточнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4664|end_char=4671
+8	лысый	лысый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=4672|end_char=4677
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=4678|end_char=4684
+10	.	.	PUNCT	_	_	2	punct	_	start_char=4684|end_char=4685
+
+# text = – Доктором.
+# sent_id = 93
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4686|end_char=4687
+2	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=4688|end_char=4696
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4696|end_char=4697
+
+# text = В смысле врачом!
+# sent_id = 94
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	В	в	ADP	_	_	2	case	_	start_char=4698|end_char=4699
+2	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	start_char=4700|end_char=4706
+3	врачом	врач	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=4707|end_char=4713
+4	!	!	PUNCT	_	_	3	punct	_	start_char=4713|end_char=4714
+
+# text = Доктором, в смысле добрым таймлордом – разве ж мы никогда не были?
+# sent_id = 95
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=4715|end_char=4723
+2	,	,	PUNCT	_	_	6	punct	_	start_char=4723|end_char=4724
+3	в	в	ADP	_	_	4	case	_	start_char=4725|end_char=4726
+4	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	start_char=4727|end_char=4733
+5	добрым	добрый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=4734|end_char=4740
+6	таймлордом	таймлорд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	start_char=4741|end_char=4751
+7	–	–	PUNCT	_	_	13	punct	_	start_char=4752|end_char=4753
+8	разве	разве	PART	_	_	13	advmod	_	start_char=4754|end_char=4759
+9	ж	ж	PART	_	_	8	advmod	_	start_char=4760|end_char=4761
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=4762|end_char=4764
+11	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	13	advmod	_	start_char=4765|end_char=4772
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=4773|end_char=4775
+13	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=4776|end_char=4780
+14	?	?	PUNCT	_	_	1	punct	_	start_char=4780|end_char=4781
+
+# text = – Добрым нет, а Доктором вообще-то да.
+# sent_id = 96
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4782|end_char=4783
+2	Добрым	добрый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	3	iobj	_	start_char=4784|end_char=4790
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=4791|end_char=4794
+4	,	,	PUNCT	_	_	10	punct	_	start_char=4794|end_char=4795
+5	а	а	CCONJ	_	_	10	cc	_	start_char=4796|end_char=4797
+6	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	10	iobj	_	start_char=4798|end_char=4806
+7	вообще	вообще	ADV	_	Degree=Pos	10	advmod	_	start_char=4807|end_char=4813
+8	-	-	PUNCT	_	_	9	punct	_	start_char=4813|end_char=4814
+9	то	то	PART	_	_	7	advmod	_	start_char=4814|end_char=4816
+10	да	да	PART	_	_	3	conj	_	start_char=4817|end_char=4819
+11	.	.	PUNCT	_	_	3	punct	_	start_char=4819|end_char=4820
+
+# text = И врачом, заметим, тоже.
+# sent_id = 97
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	И	и	CCONJ	_	_	2	cc	_	start_char=4821|end_char=4822
+2	врачом	врач	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=4823|end_char=4829
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4829|end_char=4830
+4	заметим	заметить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4831|end_char=4838
+5	,	,	PUNCT	_	_	4	punct	_	start_char=4838|end_char=4839
+6	тоже	тоже	PART	_	_	2	advmod	_	start_char=4840|end_char=4844
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4844|end_char=4845
+
+# text = Вы не жалуетесь на зрение? – лысый Мастер пристально взглянул на импозантного.
+# sent_id = 98
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=4846|end_char=4848
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4849|end_char=4851
+3	жалуетесь	жаловаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4852|end_char=4861
+4	на	на	ADP	_	_	5	case	_	start_char=4862|end_char=4864
+5	зрение	зрение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	start_char=4865|end_char=4871
+6	?	?	PUNCT	_	_	3	punct	_	start_char=4871|end_char=4872
+7	–	–	PUNCT	_	_	11	punct	_	start_char=4873|end_char=4874
+8	лысый	лысый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=4875|end_char=4880
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=4881|end_char=4887
+10	пристально	пристально	ADV	_	Degree=Pos	11	advmod	_	start_char=4888|end_char=4898
+11	взглянул	взглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=4899|end_char=4907
+12	на	на	ADP	_	_	13	case	_	start_char=4908|end_char=4910
+13	импозантного	импозантный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	obl	_	start_char=4911|end_char=4923
+14	.	.	PUNCT	_	_	3	punct	_	start_char=4923|end_char=4924
+
+# text = – В вашем возрасте...
+# sent_id = 99
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4925|end_char=4926
+2	В	в	ADP	_	_	4	case	_	start_char=4927|end_char=4928
+3	вашем	ваш	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=4929|end_char=4934
+4	возрасте	возраст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=4935|end_char=4943
+5	...	...	PUNCT	_	_	4	punct	_	start_char=4943|end_char=4946
+
+# text = – Не будем касаться моего возраста, и я отлично вижу!.. – ледяным тоном и клубом сигарного дыма остудил лысого импозантный Мастер.
+# sent_id = 100
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4947|end_char=4948
+2	Не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4949|end_char=4951
+3	будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	start_char=4952|end_char=4957
+4	касаться	касаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	start_char=4958|end_char=4966
+5	моего	мой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4967|end_char=4972
+6	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obj	_	start_char=4973|end_char=4981
+7	,	,	PUNCT	_	_	11	punct	_	start_char=4981|end_char=4982
+8	и	и	CCONJ	_	_	11	cc	_	start_char=4983|end_char=4984
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=4985|end_char=4986
+10	отлично	отлично	ADV	_	Degree=Pos	11	advmod	_	start_char=4987|end_char=4994
+11	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=4995|end_char=4999
+12	!..	!..	PUNCT	_	_	20	punct	_	start_char=4999|end_char=5002
+13	–	–	PUNCT	_	_	20	punct	_	start_char=5003|end_char=5004
+14	ледяным	ледяной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=5005|end_char=5012
+15	тоном	тон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	obl	_	start_char=5013|end_char=5018
+16	и	и	CCONJ	_	_	17	cc	_	start_char=5019|end_char=5020
+17	клубом	клуб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	conj	_	start_char=5021|end_char=5027
+18	сигарного	сигарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=5028|end_char=5037
+19	дыма	дым	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	start_char=5038|end_char=5042
+20	остудил	остудить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=5043|end_char=5050
+21	лысого	лысовой	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	start_char=5051|end_char=5057
+22	импозантный	импозантный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	start_char=5058|end_char=5069
+23	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	start_char=5070|end_char=5076
+24	.	.	PUNCT	_	_	4	punct	_	start_char=5076|end_char=5077
+
+# text = – Так... ну что бы еще...
+# sent_id = 101
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5078|end_char=5079
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=5080|end_char=5083
+3	...	...	PUNCT	_	_	2	punct	_	start_char=5083|end_char=5086
+4	ну	ну	PART	_	_	7	discourse	_	start_char=5087|end_char=5089
+5	что	что	SCONJ	_	Mood=Cnd|Typo=Yes	7	mark	_	start_char=5090|end_char=5093
+6	бы	бы	X	_	_	7	orphan	_	start_char=5094|end_char=5096
+7	еще	еще	ADV	_	Degree=Pos	2	advmod	_	start_char=5097|end_char=5100
+8	...	...	PUNCT	_	_	2	punct	_	start_char=5100|end_char=5103
+
+# text = Вот политическое АУ...
+# sent_id = 102
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вот	вот	PART	_	_	0	root	_	start_char=5104|end_char=5107
+2	политическое	политический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=5108|end_char=5120
+3	АУ	АУ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	start_char=5121|end_char=5123
+4	...	...	PUNCT	_	_	1	punct	_	start_char=5123|end_char=5126
+
+# text = – Коллеги!
+# sent_id = 103
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5127|end_char=5128
+2	Коллеги	коллега	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=5129|end_char=5136
+3	!	!	PUNCT	_	_	2	punct	_	start_char=5136|end_char=5137
+
+# text = – постучал четыре раза по столу Мастер при галстуке.
+# sent_id = 104
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5138|end_char=5139
+2	постучал	постучать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5140|end_char=5148
+3	четыре	четыре	NUM	_	Animacy=Inan|Case=Acc|NumForm=Word|NumType=Card	4	nummod:gov	_	start_char=5149|end_char=5155
+4	раза	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=5156|end_char=5160
+5	по	по	ADP	_	_	6	case	_	start_char=5161|end_char=5163
+6	столу	стол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	start_char=5164|end_char=5169
+7	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=5170|end_char=5176
+8	при	при	ADP	_	_	9	case	_	start_char=5177|end_char=5180
+9	галстуке	галстук	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	start_char=5181|end_char=5189
+10	.	.	PUNCT	_	_	2	punct	_	start_char=5189|end_char=5190
+
+# text = – А не пора уже за что-нибудь проголосовать?
+# sent_id = 105
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5191|end_char=5192
+2	А	а	CCONJ	_	_	4	cc	_	start_char=5193|end_char=5194
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=5195|end_char=5197
+4	пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=5198|end_char=5202
+5	уже	уже	ADV	_	Degree=Pos	7	advmod	_	start_char=5203|end_char=5206
+6	за	за	ADP	_	_	7	case	_	start_char=5207|end_char=5209
+7	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	8	obl	_	start_char=5210|end_char=5220
+8	проголосовать	проголосовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=5221|end_char=5234
+9	?	?	PUNCT	_	_	4	punct	_	start_char=5234|end_char=5235
+
+# text = Вообще, решительнее надо действовать!
+# sent_id = 106
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Вообще	вообще	ADV	_	Degree=Pos	4	parataxis	_	start_char=5236|end_char=5242
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5242|end_char=5243
+3	решительнее	решительно	ADV	_	Degree=Cmp	4	advmod	_	start_char=5244|end_char=5255
+4	надо	надо	VERB	_	_	0	root	_	start_char=5256|end_char=5260
+5	действовать	действовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=5261|end_char=5272
+6	!	!	PUNCT	_	_	4	punct	_	start_char=5272|end_char=5273
+
+# text = – Вы совершенно правы, коллега.
+# sent_id = 107
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5274|end_char=5275
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=5276|end_char=5278
+3	совершенно	совершенно	ADV	_	Degree=Pos	4	advmod	_	start_char=5279|end_char=5289
+4	правы	правый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=5290|end_char=5295
+5	,	,	PUNCT	_	_	6	punct	_	start_char=5295|end_char=5296
+6	коллега	коллега	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	start_char=5297|end_char=5304
+7	.	.	PUNCT	_	_	4	punct	_	start_char=5304|end_char=5305
+
+# text = Давайте решительно признаем, что мы неспособны придумать никакое тотал!
+# sent_id = 108
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	Давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5306|end_char=5313
+2	решительно	решительно	ADV	_	Degree=Pos	3	advmod	_	start_char=5314|end_char=5324
+3	признаем	признать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=5325|end_char=5333
+4	,	,	PUNCT	_	_	7	punct	_	start_char=5333|end_char=5334
+5	что	что	SCONJ	_	_	7	mark	_	start_char=5335|end_char=5338
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=5339|end_char=5341
+7	неспособны	неспособный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	ccomp	_	start_char=5342|end_char=5352
+8	придумать	придумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=5353|end_char=5362
+9	никакое	никакой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	10	det	_	start_char=5363|end_char=5370
+10	тотал	тотал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=5371|end_char=5376
+11	!	!	PUNCT	_	_	1	punct	_	start_char=5376|end_char=5377
+
+# text = АУ, потому что все у нас было, и спокойно пойдем завоевывать Вселенную!
+# sent_id = 109
+# metadata = Название: То, чего в Хуниверсе вообще не может быть, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5524647800000a7db6dc708/1/To-chego-v-Huniverse-voobshe-ne-mozhet-byt
+1	АУ	АУ	NOUN	_	Abbr=Yes	0	root	_	start_char=5377|end_char=5379
+2	,	,	PUNCT	_	_	8	punct	_	start_char=5379|end_char=5380
+3	потому	потому	ADV	_	Degree=Pos|PronType=Dem	8	mark	_	start_char=5381|end_char=5387
+4	что	что	SCONJ	_	_	3	fixed	_	start_char=5388|end_char=5391
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	8	nsubj	_	start_char=5392|end_char=5395
+6	у	у	ADP	_	_	7	case	_	start_char=5396|end_char=5397
+7	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	obl	_	start_char=5398|end_char=5401
+8	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=5402|end_char=5406
+9	,	,	PUNCT	_	_	12	punct	_	start_char=5406|end_char=5407
+10	и	и	CCONJ	_	_	12	cc	_	start_char=5408|end_char=5409
+11	спокойно	спокойно	ADV	_	Degree=Pos	12	advmod	_	start_char=5410|end_char=5418
+12	пойдем	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	conj	_	start_char=5419|end_char=5425
+13	завоевывать	завоевывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=5426|end_char=5437
+14	Вселенную	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=5438|end_char=5447
+15	!	!	PUNCT	_	_	1	punct	_	start_char=5447|end_char=5448
+

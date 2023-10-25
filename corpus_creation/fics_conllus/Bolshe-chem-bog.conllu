@@ -1,0 +1,542 @@
+# text = Смотреть на чёрную дыру было не только страшно, но и любопытно.
+# sent_id = 0
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	start_char=0|end_char=8
+2	на	на	ADP	_	_	4	case	_	start_char=9|end_char=11
+3	чёрную	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=12|end_char=18
+4	дыру	дыра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obl	_	start_char=19|end_char=23
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=24|end_char=28
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=29|end_char=31
+7	только	только	PART	_	_	8	advmod	_	start_char=32|end_char=38
+8	страшно	страшный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=39|end_char=46
+9	,	,	PUNCT	_	_	12	punct	_	start_char=46|end_char=47
+10	но	но	CCONJ	_	_	12	cc	_	start_char=48|end_char=50
+11	и	и	PART	_	_	10	fixed	_	start_char=51|end_char=52
+12	любопытно	любопытный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	conj	_	start_char=53|end_char=62
+13	.	.	PUNCT	_	_	8	punct	_	start_char=62|end_char=63
+
+# text = Омега давно не вспоминал это чувство, но сейчас, точнее, с некоторого недавнего момента и теперь уже навсегда часть его сознания принадлежала Доктору.
+# sent_id = 1
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Омега	Омег	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=64|end_char=69
+2	давно	давно	ADV	_	Degree=Pos	4	advmod	_	start_char=70|end_char=75
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=76|end_char=78
+4	вспоминал	вспоминать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=79|end_char=88
+5	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	start_char=89|end_char=92
+6	чувство	чувство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	start_char=93|end_char=100
+7	,	,	PUNCT	_	_	24	punct	_	start_char=100|end_char=101
+8	но	но	CCONJ	_	_	24	cc	_	start_char=102|end_char=104
+9	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	24	advmod	_	start_char=105|end_char=111
+10	,	,	PUNCT	_	_	11	punct	_	start_char=111|end_char=112
+11	точнее	точнее	ADV	_	Degree=Cmp	16	parataxis	_	start_char=113|end_char=119
+12	,	,	PUNCT	_	_	11	punct	_	start_char=119|end_char=120
+13	с	с	ADP	_	_	16	case	_	start_char=121|end_char=122
+14	некоторого	некоторый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	start_char=123|end_char=133
+15	недавнего	недавний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=134|end_char=143
+16	момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	conj	_	start_char=144|end_char=151
+17	и	и	CCONJ	_	_	24	cc	_	start_char=152|end_char=153
+18	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	24	advmod	_	start_char=154|end_char=160
+19	уже	уже	ADV	_	Degree=Pos	20	advmod	_	start_char=161|end_char=164
+20	навсегда	навсегда	ADV	_	Degree=Pos|PronType=Tot	24	advmod	_	start_char=165|end_char=173
+21	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	start_char=174|end_char=179
+22	его	его	DET	_	Poss=Yes|PronType=Prs	23	det	_	start_char=180|end_char=183
+23	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	start_char=184|end_char=192
+24	принадлежала	принадлежать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=193|end_char=205
+25	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	24	iobj	_	start_char=206|end_char=213
+26	.	.	PUNCT	_	_	4	punct	_	start_char=213|end_char=214
+
+# text = Хотя это неправильное определение, а его, как учёного, коробили неправильные определения.
+# sent_id = 2
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Хотя	хотя	SCONJ	_	_	4	mark	_	start_char=215|end_char=219
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=220|end_char=223
+3	неправильное	неправильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=224|end_char=236
+4	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=237|end_char=248
+5	,	,	PUNCT	_	_	12	punct	_	start_char=248|end_char=249
+6	а	а	CCONJ	_	_	12	cc	_	start_char=250|end_char=251
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=252|end_char=255
+8	,	,	PUNCT	_	_	10	punct	_	start_char=255|end_char=256
+9	как	как	SCONJ	_	_	10	case	_	start_char=257|end_char=260
+10	учёного	ученый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	start_char=261|end_char=268
+11	,	,	PUNCT	_	_	10	punct	_	start_char=268|end_char=269
+12	коробили	коробить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=270|end_char=278
+13	неправильные	неправильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	start_char=279|end_char=291
+14	определения	определение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	12	obj	_	start_char=292|end_char=303
+15	.	.	PUNCT	_	_	4	punct	_	start_char=303|end_char=304
+
+# text = Часть его сознания была Доктором, и это не было конфликтом или раздвоением личности, именно сейчас он ощущал себя наиболее целым и цельным, и одновременно с этим мог посмотреть другим, свежим взглядом, так, как это сделал бы Доктор.
+# sent_id = 3
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=305|end_char=310
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=311|end_char=314
+3	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	start_char=315|end_char=323
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=324|end_char=328
+5	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=329|end_char=337
+6	,	,	PUNCT	_	_	11	punct	_	start_char=337|end_char=338
+7	и	и	CCONJ	_	_	11	cc	_	start_char=339|end_char=340
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=341|end_char=344
+9	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=345|end_char=347
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	start_char=348|end_char=352
+11	конфликтом	конфликт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	conj	_	start_char=353|end_char=363
+12	или	или	CCONJ	_	_	13	cc	_	start_char=364|end_char=367
+13	раздвоением	раздвоение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	conj	_	start_char=368|end_char=379
+14	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=380|end_char=388
+15	,	,	PUNCT	_	_	19	punct	_	start_char=388|end_char=389
+16	именно	именно	PART	_	_	17	advmod	_	start_char=390|end_char=396
+17	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=397|end_char=403
+18	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=404|end_char=406
+19	ощущал	ощущать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=407|end_char=413
+20	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	19	obj	_	start_char=414|end_char=418
+21	наиболее	наиболее	ADV	_	Degree=Pos	22	advmod	_	start_char=419|end_char=427
+22	целым	целый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	xcomp	_	start_char=428|end_char=433
+23	и	и	CCONJ	_	_	24	cc	_	start_char=434|end_char=435
+24	цельным	цельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	conj	_	start_char=436|end_char=443
+25	,	,	PUNCT	_	_	30	punct	_	start_char=443|end_char=444
+26	и	и	CCONJ	_	_	30	cc	_	start_char=445|end_char=446
+27	одновременно	одновременно	ADV	_	Degree=Pos	30	advmod	_	start_char=447|end_char=459
+28	с	с	ADP	_	_	29	case	_	start_char=460|end_char=461
+29	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	30	obl	_	start_char=462|end_char=466
+30	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=467|end_char=470
+31	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	xcomp	_	start_char=471|end_char=481
+32	другим	другой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	35	det	_	start_char=482|end_char=488
+33	,	,	PUNCT	_	_	34	punct	_	start_char=488|end_char=489
+34	свежим	свежий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	start_char=490|end_char=496
+35	взглядом	взгляд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	31	iobj	_	start_char=497|end_char=505
+36	,	,	PUNCT	_	_	37	punct	_	start_char=505|end_char=506
+37	так	так	ADV	_	Degree=Pos|PronType=Dem	30	advmod	_	start_char=507|end_char=510
+38	,	,	PUNCT	_	_	41	punct	_	start_char=510|end_char=511
+39	как	как	SCONJ	_	_	41	mark	_	start_char=512|end_char=515
+40	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	41	obj	_	start_char=516|end_char=519
+41	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	37	advcl	_	start_char=520|end_char=526
+42	бы	бы	AUX	_	Mood=Cnd	41	aux	_	start_char=527|end_char=529
+43	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	start_char=530|end_char=536
+44	.	.	PUNCT	_	_	5	punct	_	start_char=536|end_char=537
+
+# text = Это давало возможность испытать давно забытые чувства и ощущения.
+# sent_id = 4
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=538|end_char=541
+2	давало	давать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=542|end_char=548
+3	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=549|end_char=560
+4	испытать	испытать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	acl	_	start_char=561|end_char=569
+5	давно	давно	ADV	_	Degree=Pos	6	advmod	_	start_char=570|end_char=575
+6	забытые	забыть	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	start_char=576|end_char=583
+7	чувства	чувство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	start_char=584|end_char=591
+8	и	и	CCONJ	_	_	9	cc	_	start_char=592|end_char=593
+9	ощущения	ощущение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	conj	_	start_char=594|end_char=602
+10	.	.	PUNCT	_	_	2	punct	_	start_char=602|end_char=603
+
+# text = Сейчас одна часть сознания Омеги стремилась в чёрную дыру, как обычные смертные стремятся домой, а другой части было жгуче интересно, каково это – прыгнуть туда, откуда, по всеобщему мнению, никто никогда не возвращается, падение куда будет самой изощрённой во Вселенной формой самоубийства.
+# sent_id = 5
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=604|end_char=610
+2	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	start_char=611|end_char=615
+3	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=616|end_char=621
+4	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	start_char=622|end_char=630
+5	Омеги	Омега	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	4	nmod	_	start_char=631|end_char=636
+6	стремилась	стремиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=637|end_char=647
+7	в	в	ADP	_	_	9	case	_	start_char=648|end_char=649
+8	чёрную	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=650|end_char=656
+9	дыру	дыра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=657|end_char=661
+10	,	,	PUNCT	_	_	14	punct	_	start_char=661|end_char=662
+11	как	как	SCONJ	_	_	14	mark	_	start_char=663|end_char=666
+12	обычные	обычный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	start_char=667|end_char=674
+13	смертные	смертный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	nsubj	_	start_char=675|end_char=683
+14	стремятся	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	advcl	_	start_char=684|end_char=693
+15	домой	домой	ADV	_	Degree=Pos	14	advmod	_	start_char=694|end_char=699
+16	,	,	PUNCT	_	_	22	punct	_	start_char=699|end_char=700
+17	а	а	CCONJ	_	_	22	cc	_	start_char=701|end_char=702
+18	другой	другой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	19	det	_	start_char=703|end_char=709
+19	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	obl	_	start_char=710|end_char=715
+20	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	cop	_	start_char=716|end_char=720
+21	жгуче	кгото	ADV	_	Degree=Pos	22	advmod	_	start_char=721|end_char=726
+22	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	conj	_	start_char=727|end_char=736
+23	,	,	PUNCT	_	_	24	punct	_	start_char=736|end_char=737
+24	каково	каков	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	22	ccomp	_	start_char=738|end_char=744
+25	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	24	nsubj	_	start_char=745|end_char=748
+26	–	–	PUNCT	_	_	27	punct	_	start_char=749|end_char=750
+27	прыгнуть	прыгнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	csubj	_	start_char=751|end_char=759
+28	туда	туда	ADV	_	Degree=Pos|PronType=Dem	27	advmod	_	start_char=760|end_char=764
+29	,	,	PUNCT	_	_	39	punct	_	start_char=764|end_char=765
+30	откуда	откуда	ADV	_	Degree=Pos|PronType=Rel	39	advmod	_	start_char=766|end_char=772
+31	,	,	PUNCT	_	_	34	punct	_	start_char=772|end_char=773
+32	по	по	ADP	_	_	34	case	_	start_char=774|end_char=776
+33	всеобщему	всеобщий	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	start_char=777|end_char=786
+34	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	39	parataxis	_	start_char=787|end_char=793
+35	,	,	PUNCT	_	_	34	punct	_	start_char=793|end_char=794
+36	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	39	nsubj	_	start_char=795|end_char=800
+37	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	39	advmod	_	start_char=801|end_char=808
+38	не	не	PART	_	Polarity=Neg	39	advmod	_	start_char=809|end_char=811
+39	возвращается	возвращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	acl	_	start_char=812|end_char=824
+40	,	,	PUNCT	_	_	45	punct	_	start_char=824|end_char=825
+41	падение	падение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	45	nsubj	_	start_char=826|end_char=833
+42	куда	куда	ADV	_	Degree=Pos|PronType=Rel	45	advmod	_	start_char=834|end_char=838
+43	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	45	cop	_	start_char=839|end_char=844
+44	самой	сам	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Emp	45	obl	_	start_char=845|end_char=850
+45	изощрённой	изощрить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	39	conj	_	start_char=851|end_char=861
+46	во	во	ADP	_	_	47	case	_	start_char=862|end_char=864
+47	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	45	obl	_	start_char=865|end_char=874
+48	формой	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	45	obl	_	start_char=875|end_char=881
+49	самоубийства	самоубийство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	48	nmod	_	start_char=882|end_char=894
+50	.	.	PUNCT	_	_	6	punct	_	start_char=894|end_char=895
+
+# text = Каково это – лететь через район приливной гравитации, чувствуя, что на ноги действует большая сила притяжения, чем на голову; как сначала ноги, потом весь растягиваешься в тонкую "макаронину", и только потом в таком виде долетаешь до горизонта событий, на котором остаёшься навсегда – для внешнего наблюдателя, – а сам преодолеваешь его и попадаешь за горизонт...
+# sent_id = 6
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Каково	каков	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	start_char=896|end_char=902
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=903|end_char=906
+3	–	–	PUNCT	_	_	4	punct	_	start_char=907|end_char=908
+4	лететь	лететь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	parataxis	_	start_char=909|end_char=915
+5	через	через	ADP	_	_	6	case	_	start_char=916|end_char=921
+6	район	район	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=922|end_char=927
+7	приливной	приливный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=928|end_char=937
+8	гравитации	гравитация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=938|end_char=948
+9	,	,	PUNCT	_	_	10	punct	_	start_char=948|end_char=949
+10	чувствуя	чувствовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=950|end_char=958
+11	,	,	PUNCT	_	_	15	punct	_	start_char=958|end_char=959
+12	что	что	SCONJ	_	_	15	mark	_	start_char=960|end_char=963
+13	на	на	ADP	_	_	14	case	_	start_char=964|end_char=966
+14	ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	obl	_	start_char=967|end_char=971
+15	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	start_char=972|end_char=981
+16	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=982|end_char=989
+17	сила	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=990|end_char=994
+18	притяжения	притяжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	start_char=995|end_char=1005
+19	,	,	PUNCT	_	_	22	punct	_	start_char=1005|end_char=1006
+20	чем	чем	SCONJ	_	_	22	case	_	start_char=1007|end_char=1010
+21	на	на	ADP	_	_	22	case	_	start_char=1011|end_char=1013
+22	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	start_char=1014|end_char=1020
+23	;	;	PUNCT	_	_	30	punct	_	start_char=1020|end_char=1021
+24	как	как	SCONJ	_	_	25	mark	_	start_char=1022|end_char=1025
+25	сначала	сначала	ADV	_	Degree=Pos	30	advcl	_	start_char=1026|end_char=1033
+26	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	25	nsubj	_	start_char=1034|end_char=1038
+27	,	,	PUNCT	_	_	25	punct	_	start_char=1038|end_char=1039
+28	потом	потом	ADV	_	Degree=Pos|PronType=Dem	30	advmod	_	start_char=1040|end_char=1045
+29	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	30	nsubj	_	start_char=1046|end_char=1050
+30	растягиваешься	растягиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	15	conj	_	start_char=1051|end_char=1065
+31	в	в	ADP	_	_	34	case	_	start_char=1066|end_char=1067
+32	тонкую	тонкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	start_char=1068|end_char=1074
+33	"	"	PUNCT	_	_	34	punct	_	start_char=1075|end_char=1076
+34	макаронину	макаронин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	obl	_	start_char=1076|end_char=1086
+35	"	"	PUNCT	_	_	34	punct	_	start_char=1086|end_char=1087
+36	,	,	PUNCT	_	_	43	punct	_	start_char=1087|end_char=1088
+37	и	и	CCONJ	_	_	43	cc	_	start_char=1089|end_char=1090
+38	только	только	PART	_	_	39	advmod	_	start_char=1091|end_char=1097
+39	потом	потом	ADV	_	Degree=Pos|PronType=Dem	43	advmod	_	start_char=1098|end_char=1103
+40	в	в	ADP	_	_	42	case	_	start_char=1104|end_char=1105
+41	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	42	det	_	start_char=1106|end_char=1111
+42	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	43	obl	_	start_char=1112|end_char=1116
+43	долетаешь	долетать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	30	conj	_	start_char=1117|end_char=1126
+44	до	до	ADP	_	_	45	case	_	start_char=1127|end_char=1129
+45	горизонта	горизонт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	obl	_	start_char=1130|end_char=1139
+46	событий	событие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	45	nmod	_	start_char=1140|end_char=1147
+47	,	,	PUNCT	_	_	50	punct	_	start_char=1147|end_char=1148
+48	на	на	ADP	_	_	49	case	_	start_char=1149|end_char=1151
+49	котором	который	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	50	obl	_	start_char=1152|end_char=1159
+50	остаёшься	оставаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	46	acl:relcl	_	start_char=1160|end_char=1169
+51	навсегда	навсегда	ADV	_	Degree=Pos|PronType=Tot	50	advmod	_	start_char=1170|end_char=1178
+52	–	–	PUNCT	_	_	55	punct	_	start_char=1179|end_char=1180
+53	для	для	ADP	_	_	55	case	_	start_char=1181|end_char=1184
+54	внешнего	внешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	55	amod	_	start_char=1185|end_char=1193
+55	наблюдателя	наблюдатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	50	obl	_	start_char=1194|end_char=1205
+56	,	,	PUNCT	_	_	60	punct	_	start_char=1205|end_char=1206
+57	–	–	PUNCT	_	_	60	punct	_	start_char=1207|end_char=1208
+58	а	а	CCONJ	_	_	60	cc	_	start_char=1209|end_char=1210
+59	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	60	obl	_	start_char=1211|end_char=1214
+60	преодолеваешь	преодолевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	50	conj	_	start_char=1215|end_char=1228
+61	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	60	obj	_	start_char=1229|end_char=1232
+62	и	и	CCONJ	_	_	63	cc	_	start_char=1233|end_char=1234
+63	попадаешь	попадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	60	conj	_	start_char=1235|end_char=1244
+64	за	за	ADP	_	_	65	case	_	start_char=1245|end_char=1247
+65	горизонт	горизонт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	63	obl	_	start_char=1248|end_char=1256
+66	...	...	PUNCT	_	_	1	punct	_	start_char=1256|end_char=1259
+
+# text = Откроется ли снова ему его мир, мир антиматерии?
+# sent_id = 7
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Откроется	открыться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1260|end_char=1269
+2	ли	ли	PART	_	_	1	advmod	_	start_char=1270|end_char=1272
+3	снова	снова	ADV	_	Degree=Pos	1	advmod	_	start_char=1273|end_char=1278
+4	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	start_char=1279|end_char=1282
+5	его	его	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=1283|end_char=1286
+6	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=1287|end_char=1290
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1290|end_char=1291
+8	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	start_char=1292|end_char=1295
+9	антиматерии	антиматерий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1296|end_char=1307
+10	?	?	PUNCT	_	_	1	punct	_	start_char=1307|end_char=1308
+
+# text = Нет, для начала, конечно, сохранит ли он своё – их с Доктором – сознание?
+# sent_id = 8
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Нет	нет	PART	_	Polarity=Neg	8	parataxis	_	start_char=1309|end_char=1312
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1312|end_char=1313
+3	для	для	ADP	_	_	4	case	_	start_char=1314|end_char=1317
+4	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	start_char=1318|end_char=1324
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1324|end_char=1325
+6	конечно	конечно	ADV	_	Degree=Pos	8	parataxis	_	start_char=1326|end_char=1333
+7	,	,	PUNCT	_	_	6	punct	_	start_char=1333|end_char=1334
+8	сохранит	сохранить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1335|end_char=1343
+9	ли	ли	PART	_	_	8	advmod	_	start_char=1344|end_char=1346
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=1347|end_char=1349
+11	своё	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	obj	_	start_char=1350|end_char=1354
+12	–	–	PUNCT	_	_	15	punct	_	start_char=1355|end_char=1356
+13	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	start_char=1357|end_char=1359
+14	с	с	ADP	_	_	15	case	_	start_char=1360|end_char=1361
+15	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	8	obl	_	start_char=1362|end_char=1370
+16	–	–	PUNCT	_	_	17	punct	_	start_char=1371|end_char=1372
+17	сознание	сознание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	start_char=1373|end_char=1381
+18	?	?	PUNCT	_	_	8	punct	_	start_char=1381|end_char=1382
+
+# text = Удержит ли Синтию?
+# sent_id = 9
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Удержит	удержать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1383|end_char=1390
+2	ли	ли	PART	_	_	1	advmod	_	start_char=1391|end_char=1393
+3	Синтию	Синтия	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	1	obj	_	start_char=1394|end_char=1400
+4	?	?	PUNCT	_	_	1	punct	_	start_char=1400|end_char=1401
+
+# text = А уж потом – станет ли снова Омега тем, кем был, богом этого мира?
+# sent_id = 10
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	А	а	CCONJ	_	_	5	cc	_	start_char=1402|end_char=1403
+2	уж	уж	PART	_	_	3	advmod	_	start_char=1404|end_char=1406
+3	потом	потом	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1407|end_char=1412
+4	–	–	PUNCT	_	_	3	punct	_	start_char=1413|end_char=1414
+5	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1415|end_char=1421
+6	ли	ли	PART	_	_	5	advmod	_	start_char=1422|end_char=1424
+7	снова	снова	ADV	_	Degree=Pos	5	advmod	_	start_char=1425|end_char=1430
+8	Омега	Омег	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=1431|end_char=1436
+9	тем	тот	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	5	iobj	_	start_char=1437|end_char=1440
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1440|end_char=1441
+11	кем	кто	PRON	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	9	acl:relcl	_	start_char=1442|end_char=1445
+12	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	start_char=1446|end_char=1449
+13	,	,	PUNCT	_	_	14	punct	_	start_char=1449|end_char=1450
+14	богом	бог	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	conj	_	start_char=1451|end_char=1456
+15	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	start_char=1457|end_char=1462
+16	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=1463|end_char=1467
+17	?	?	PUNCT	_	_	5	punct	_	start_char=1467|end_char=1468
+
+# text = Омега почувствовал, как покоробило ту часть, что была Доктором, сравнение себя с богом.
+# sent_id = 11
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Омега	Омег	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1469|end_char=1474
+2	почувствовал	почувствовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1475|end_char=1487
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1487|end_char=1488
+4	как	как	SCONJ	_	_	5	mark	_	start_char=1489|end_char=1492
+5	покоробило	покоробить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1493|end_char=1503
+6	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=1504|end_char=1506
+7	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=1507|end_char=1512
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1512|end_char=1513
+9	что	что	SCONJ	_	_	11	mark	_	start_char=1514|end_char=1517
+10	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	start_char=1518|end_char=1522
+11	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	acl	_	start_char=1523|end_char=1531
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1531|end_char=1532
+13	сравнение	сравнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	conj	_	start_char=1533|end_char=1542
+14	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	13	nmod	_	start_char=1543|end_char=1547
+15	с	с	ADP	_	_	16	case	_	start_char=1548|end_char=1549
+16	богом	бог	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	13	nmod	_	start_char=1550|end_char=1555
+17	.	.	PUNCT	_	_	2	punct	_	start_char=1555|end_char=1556
+
+# text = Действительно, это не то слово.
+# sent_id = 12
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Действительно	действительно	ADV	_	Degree=Pos	6	parataxis	_	start_char=1557|end_char=1570
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1570|end_char=1571
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1572|end_char=1575
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1576|end_char=1578
+5	то	тот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	start_char=1579|end_char=1581
+6	слово	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1582|end_char=1587
+7	.	.	PUNCT	_	_	6	punct	_	start_char=1587|end_char=1588
+
+# text = Богом обычно называли то, что управляет жизнями или смертями смертных.
+# sent_id = 13
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Богом	бог	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=1589|end_char=1594
+2	обычно	обычно	ADV	_	Degree=Pos	3	advmod	_	start_char=1595|end_char=1601
+3	называли	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1602|end_char=1610
+4	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=1611|end_char=1613
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1613|end_char=1614
+6	что	что	SCONJ	_	_	7	mark	_	start_char=1615|end_char=1618
+7	управляет	управлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	start_char=1619|end_char=1628
+8	жизнями	жизнь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	iobj	_	start_char=1629|end_char=1636
+9	или	или	CCONJ	_	_	10	cc	_	start_char=1637|end_char=1640
+10	смертями	смерть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	8	conj	_	start_char=1641|end_char=1649
+11	смертных	смертный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	nmod	_	start_char=1650|end_char=1658
+12	.	.	PUNCT	_	_	3	punct	_	start_char=1658|end_char=1659
+
+# text = А он будет больше, чем бог – он будет главным физическим законом своей Вселенной, её константами и переменными, её процессом.
+# sent_id = 14
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	А	а	CCONJ	_	_	4	cc	_	start_char=1660|end_char=1661
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1662|end_char=1664
+3	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	cop	_	start_char=1665|end_char=1670
+4	больше	большой	ADJ	_	Degree=Cmp	0	root	_	start_char=1671|end_char=1677
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1677|end_char=1678
+6	чем	чем	SCONJ	_	_	7	case	_	start_char=1679|end_char=1682
+7	бог	бог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	obl	_	start_char=1683|end_char=1686
+8	–	–	PUNCT	_	_	7	punct	_	start_char=1687|end_char=1688
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=1689|end_char=1691
+10	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	cop	_	start_char=1692|end_char=1697
+11	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=1698|end_char=1705
+12	физическим	физический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=1706|end_char=1716
+13	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	parataxis	_	start_char=1717|end_char=1724
+14	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	start_char=1725|end_char=1730
+15	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=1731|end_char=1740
+16	,	,	PUNCT	_	_	18	punct	_	start_char=1740|end_char=1741
+17	её	ее	DET	_	Poss=Yes|PronType=Prs	18	det	_	start_char=1742|end_char=1744
+18	константами	констант	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	15	conj	_	start_char=1745|end_char=1756
+19	и	и	CCONJ	_	_	20	cc	_	start_char=1757|end_char=1758
+20	переменными	переменный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	18	conj	_	start_char=1759|end_char=1770
+21	,	,	PUNCT	_	_	23	punct	_	start_char=1770|end_char=1771
+22	её	ее	DET	_	Poss=Yes|PronType=Prs	23	det	_	start_char=1772|end_char=1774
+23	процессом	процесс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	conj	_	start_char=1775|end_char=1784
+24	.	.	PUNCT	_	_	13	punct	_	start_char=1784|end_char=1785
+
+# text = Вот ещё для чего ему нужна была Синтия – ему нужен наблюдатель, чтобы из всех бесчисленных возможных состояний всех частиц его мира зафиксировать одно, которое и даст начало всему.
+# sent_id = 15
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=1786|end_char=1789
+2	ещё	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=1790|end_char=1793
+3	для	для	ADP	_	_	4	case	_	start_char=1794|end_char=1797
+4	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	6	obl	_	start_char=1798|end_char=1802
+5	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=1803|end_char=1806
+6	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=1807|end_char=1812
+7	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1813|end_char=1817
+8	Синтия	Синтия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=1818|end_char=1824
+9	–	–	PUNCT	_	_	11	punct	_	start_char=1825|end_char=1826
+10	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=1827|end_char=1830
+11	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	parataxis	_	start_char=1831|end_char=1836
+12	наблюдатель	наблюдатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=1837|end_char=1848
+13	,	,	PUNCT	_	_	24	punct	_	start_char=1848|end_char=1849
+14	чтобы	чтобы	SCONJ	_	Mood=Cnd	24	mark	_	start_char=1850|end_char=1855
+15	из	из	ADP	_	_	19	case	_	start_char=1856|end_char=1858
+16	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	19	det	_	start_char=1859|end_char=1863
+17	бесчисленных	бесчисленный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	start_char=1864|end_char=1876
+18	возможных	возможный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	start_char=1877|end_char=1886
+19	состояний	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	obl	_	start_char=1887|end_char=1896
+20	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	21	det	_	start_char=1897|end_char=1901
+21	частиц	частица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	nmod	_	start_char=1902|end_char=1908
+22	его	его	DET	_	Poss=Yes|PronType=Prs	23	det	_	start_char=1909|end_char=1912
+23	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	start_char=1913|end_char=1917
+24	зафиксировать	зафиксировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	advcl	_	start_char=1918|end_char=1931
+25	одно	один	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	24	obj	_	start_char=1932|end_char=1936
+26	,	,	PUNCT	_	_	29	punct	_	start_char=1936|end_char=1937
+27	которое	который	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	29	nsubj	_	start_char=1938|end_char=1945
+28	и	и	PART	_	_	29	advmod	_	start_char=1946|end_char=1947
+29	даст	дать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	25	acl:relcl	_	start_char=1948|end_char=1952
+30	начало	начало	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	29	obj	_	start_char=1953|end_char=1959
+31	всему	всё	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	29	iobj	_	start_char=1960|end_char=1965
+32	.	.	PUNCT	_	_	6	punct	_	start_char=1965|end_char=1966
+
+# text = Огромный корабль вместе с ними величественно преодолел границу.
+# sent_id = 16
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Огромный	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=1967|end_char=1975
+2	корабль	корабль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1976|end_char=1983
+3	вместе	вместе	ADV	_	Degree=Pos	7	advmod	_	start_char=1984|end_char=1990
+4	с	с	ADP	_	_	5	case	_	start_char=1991|end_char=1992
+5	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	3	obl	_	start_char=1993|end_char=1997
+6	величественно	величественный	ADV	_	Degree=Pos	7	advmod	_	start_char=1998|end_char=2011
+7	преодолел	преодолеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2012|end_char=2021
+8	границу	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=2022|end_char=2029
+9	.	.	PUNCT	_	_	7	punct	_	start_char=2029|end_char=2030
+
+# text = Они ничего не почувствовали, только вокруг стало ослепительно светло, всем тем светом, который не мог вырваться за пределы чёрной дыры.
+# sent_id = 17
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=2031|end_char=2034
+2	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	4	obj	_	start_char=2035|end_char=2041
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2042|end_char=2044
+4	почувствовали	почувствовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2045|end_char=2058
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2058|end_char=2059
+6	только	только	CCONJ	_	_	8	cc	_	start_char=2060|end_char=2066
+7	вокруг	вокруг	ADV	_	Degree=Pos	8	advmod	_	start_char=2067|end_char=2073
+8	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2074|end_char=2079
+9	ослепительно	ослепительно	ADV	_	Degree=Pos	10	advmod	_	start_char=2080|end_char=2092
+10	светло	светлый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	xcomp	_	start_char=2093|end_char=2099
+11	,	,	PUNCT	_	_	14	punct	_	start_char=2099|end_char=2100
+12	всем	весь	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	14	det	_	start_char=2101|end_char=2105
+13	тем	тот	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	start_char=2106|end_char=2109
+14	светом	свет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	conj	_	start_char=2110|end_char=2116
+15	,	,	PUNCT	_	_	18	punct	_	start_char=2116|end_char=2117
+16	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	start_char=2118|end_char=2125
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=2126|end_char=2128
+18	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=2129|end_char=2132
+19	вырваться	вырваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	18	xcomp	_	start_char=2133|end_char=2142
+20	за	за	ADP	_	_	21	case	_	start_char=2143|end_char=2145
+21	пределы	предел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	obl	_	start_char=2146|end_char=2153
+22	чёрной	черный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	start_char=2154|end_char=2160
+23	дыры	дыра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	start_char=2161|end_char=2165
+24	.	.	PUNCT	_	_	4	punct	_	start_char=2165|end_char=2166
+
+# text = Да, энтропия тут вступила в свои права, разрушив всё, что было построено им ранее.
+# sent_id = 18
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Да	да	PART	_	_	5	parataxis	_	start_char=2167|end_char=2169
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2169|end_char=2170
+3	энтропия	энтропия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=2171|end_char=2179
+4	тут	тут	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2180|end_char=2183
+5	вступила	вступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2184|end_char=2192
+6	в	в	ADP	_	_	8	case	_	start_char=2193|end_char=2194
+7	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=2195|end_char=2199
+8	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obl	_	start_char=2200|end_char=2205
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2205|end_char=2206
+10	разрушив	разрушить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=2207|end_char=2215
+11	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	10	obj	_	start_char=2216|end_char=2219
+12	,	,	PUNCT	_	_	15	punct	_	start_char=2219|end_char=2220
+13	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	15	nsubj:pass	_	start_char=2221|end_char=2224
+14	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	aux:pass	_	start_char=2225|end_char=2229
+15	построено	построить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	acl:relcl	_	start_char=2230|end_char=2239
+16	им	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	15	iobj	_	start_char=2240|end_char=2242
+17	ранее	ранее	ADV	_	Degree=Cmp	15	advmod	_	start_char=2243|end_char=2248
+18	.	.	PUNCT	_	_	5	punct	_	start_char=2248|end_char=2249
+
+# text = – Смотри внимательно, Синтия, смотри всюду, во все глаза!
+# sent_id = 19
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2250|end_char=2251
+2	Смотри	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2252|end_char=2258
+3	внимательно	внимательно	ADV	_	Degree=Pos	2	advmod	_	start_char=2259|end_char=2270
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2270|end_char=2271
+5	Синтия	Синтия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	vocative	_	start_char=2272|end_char=2278
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2278|end_char=2279
+7	смотри	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2280|end_char=2286
+8	всюду	всюду	ADV	_	Degree=Pos|PronType=Tot	7	advmod	_	start_char=2287|end_char=2292
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2292|end_char=2293
+10	во	во	ADP	_	_	12	case	_	start_char=2294|end_char=2296
+11	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	12	det	_	start_char=2297|end_char=2300
+12	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=2301|end_char=2306
+13	!	!	PUNCT	_	_	2	punct	_	start_char=2306|end_char=2307
+
+# text = – Я ничего не вижу, слишком светло, – жалобно произнесла Синтия.
+# sent_id = 20
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2308|end_char=2309
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2310|end_char=2311
+3	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	5	obj	_	start_char=2312|end_char=2318
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2319|end_char=2321
+5	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2322|end_char=2326
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2326|end_char=2327
+7	слишком	слишком	ADV	_	Degree=Pos	8	advmod	_	start_char=2328|end_char=2335
+8	светло	светлый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	start_char=2336|end_char=2342
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2342|end_char=2343
+10	–	–	PUNCT	_	_	12	punct	_	start_char=2344|end_char=2345
+11	жалобно	жалобно	ADV	_	Degree=Pos	12	advmod	_	start_char=2346|end_char=2353
+12	произнесла	произнести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2354|end_char=2364
+13	Синтия	Синтия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	12	nsubj	_	start_char=2365|end_char=2371
+14	.	.	PUNCT	_	_	5	punct	_	start_char=2371|end_char=2372
+
+# text = Омега ободряюще сжал ей руку: – Да будет тьма!
+# sent_id = 21
+# metadata = Название: Больше, чем бог, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5465370900000a7d1a207913/1/Bolshe-chem-bog
+1	Омега	омег	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2373|end_char=2378
+2	ободряюще	ободряюще	ADV	_	Degree=Pos	3	advmod	_	start_char=2379|end_char=2388
+3	сжал	сжать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2389|end_char=2393
+4	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=2394|end_char=2396
+5	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=2397|end_char=2401
+6	:	:	PUNCT	_	_	9	punct	_	start_char=2401|end_char=2402
+7	–	–	PUNCT	_	_	9	punct	_	start_char=2403|end_char=2404
+8	Да	да	CCONJ	_	_	9	cc	_	start_char=2405|end_char=2407
+9	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2408|end_char=2413
+10	тьма	тьма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=2414|end_char=2418
+11	!	!	PUNCT	_	_	3	punct	_	start_char=2418|end_char=2419
+

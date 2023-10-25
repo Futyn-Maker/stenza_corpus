@@ -1,0 +1,684 @@
+# text = Здесь было темно.
+# sent_id = 0
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=0|end_char=5
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=6|end_char=10
+3	темно	темно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=11|end_char=16
+4	.	.	PUNCT	_	_	3	punct	_	start_char=16|end_char=17
+
+# text = Темно и тихо, так тихо, как только может быть в определенным образом изолированном пространстве.
+# sent_id = 1
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Темно	темный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=18|end_char=23
+2	и	и	CCONJ	_	_	3	cc	_	start_char=24|end_char=25
+3	тихо	тихий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	conj	_	start_char=26|end_char=30
+4	,	,	PUNCT	_	_	6	punct	_	start_char=30|end_char=31
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=32|end_char=35
+6	тихо	тихий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	conj	_	start_char=36|end_char=40
+7	,	,	PUNCT	_	_	10	punct	_	start_char=40|end_char=41
+8	как	как	SCONJ	_	_	10	mark	_	start_char=42|end_char=45
+9	только	только	PART	_	_	10	advmod	_	start_char=46|end_char=52
+10	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=53|end_char=58
+11	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	cop	_	start_char=59|end_char=63
+12	в	в	ADP	_	_	14	case	_	start_char=64|end_char=65
+13	определенным	определенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=66|end_char=78
+14	образом	образ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	start_char=79|end_char=86
+15	изолированном	изолированный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	start_char=87|end_char=100
+16	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	xcomp	_	start_char=101|end_char=113
+17	.	.	PUNCT	_	_	1	punct	_	start_char=113|end_char=114
+
+# text = На всякий случай он сделал и это.
+# sent_id = 2
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	На	на	ADP	_	_	3	case	_	start_char=115|end_char=117
+2	всякий	всякий	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	3	det	_	start_char=118|end_char=124
+3	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=125|end_char=131
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=132|end_char=134
+5	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=135|end_char=141
+6	и	и	CCONJ	_	_	7	cc	_	start_char=142|end_char=143
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	start_char=144|end_char=147
+8	.	.	PUNCT	_	_	5	punct	_	start_char=147|end_char=148
+
+# text = Он, мой враг, разрушитель моих планов, мое проклятие и моя надежда на возвращение к нормальной жизни, мое будущее новое тело.
+# sent_id = 3
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	start_char=149|end_char=151
+2	,	,	PUNCT	_	_	4	punct	_	start_char=151|end_char=152
+3	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=153|end_char=156
+4	враг	враг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=157|end_char=161
+5	,	,	PUNCT	_	_	6	punct	_	start_char=161|end_char=162
+6	разрушитель	разрушитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=163|end_char=174
+7	моих	мой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	8	det	_	start_char=175|end_char=179
+8	планов	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=180|end_char=186
+9	,	,	PUNCT	_	_	11	punct	_	start_char=186|end_char=187
+10	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	start_char=188|end_char=191
+11	проклятие	проклятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	start_char=192|end_char=201
+12	и	и	CCONJ	_	_	14	cc	_	start_char=202|end_char=203
+13	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	start_char=204|end_char=207
+14	надежда	надежда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	start_char=208|end_char=215
+15	на	на	ADP	_	_	16	case	_	start_char=216|end_char=218
+16	возвращение	возвращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	nmod	_	start_char=219|end_char=230
+17	к	к	ADP	_	_	19	case	_	start_char=231|end_char=232
+18	нормальной	нормальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=233|end_char=243
+19	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	nmod	_	start_char=244|end_char=249
+20	,	,	PUNCT	_	_	24	punct	_	start_char=249|end_char=250
+21	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	start_char=251|end_char=254
+22	будущее	будущее	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	start_char=255|end_char=262
+23	новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	start_char=263|end_char=268
+24	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=269|end_char=273
+25	.	.	PUNCT	_	_	24	punct	_	start_char=273|end_char=274
+
+# text = Неважно, куда я дену его сознание.
+# sent_id = 4
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=275|end_char=282
+2	,	,	PUNCT	_	_	5	punct	_	start_char=282|end_char=283
+3	куда	куда	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=284|end_char=288
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=289|end_char=290
+5	дену	деть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	start_char=291|end_char=295
+6	его	его	DET	_	Poss=Yes|PronType=Prs	7	det	_	start_char=296|end_char=299
+7	сознание	сознание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=300|end_char=308
+8	.	.	PUNCT	_	_	1	punct	_	start_char=308|end_char=309
+
+# text = Точнее, важно, ибо на сей раз я не намерен давать ему ни малейшего шанса, ни единой поблажки, ни нанопериода форы - с Доктором должно быть покончено раз и навсегда.
+# sent_id = 5
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Точнее	точный	ADV	_	Degree=Cmp	3	parataxis	_	start_char=310|end_char=316
+2	,	,	PUNCT	_	_	1	punct	_	start_char=316|end_char=317
+3	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=318|end_char=323
+4	,	,	PUNCT	_	_	11	punct	_	start_char=323|end_char=324
+5	ибо	ибо	SCONJ	_	_	11	mark	_	start_char=325|end_char=328
+6	на	на	ADP	_	_	8	case	_	start_char=329|end_char=331
+7	сей	сей	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=332|end_char=335
+8	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=336|end_char=339
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=340|end_char=341
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=342|end_char=344
+11	намерен	намерен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	advcl	_	start_char=345|end_char=352
+12	давать	давать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=353|end_char=359
+13	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	start_char=360|end_char=363
+14	ни	ни	CCONJ	_	Polarity=Neg	16	cc	_	start_char=364|end_char=366
+15	малейшего	малейший	ADJ	_	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	16	amod	_	start_char=367|end_char=376
+16	шанса	шанс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obj	_	start_char=377|end_char=382
+17	,	,	PUNCT	_	_	20	punct	_	start_char=382|end_char=383
+18	ни	ни	CCONJ	_	Polarity=Neg	20	cc	_	start_char=384|end_char=386
+19	единой	единый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	start_char=387|end_char=393
+20	поблажки	поблажка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	start_char=394|end_char=402
+21	,	,	PUNCT	_	_	23	punct	_	start_char=402|end_char=403
+22	ни	ни	CCONJ	_	Polarity=Neg	23	cc	_	start_char=404|end_char=406
+23	нанопериода	нанопериод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	conj	_	start_char=407|end_char=418
+24	форы	фора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	start_char=419|end_char=423
+25	-	-	PUNCT	_	_	28	punct	_	start_char=424|end_char=425
+26	с	с	ADP	_	_	27	case	_	start_char=426|end_char=427
+27	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Prs|Number=Sing	28	obl	_	start_char=428|end_char=436
+28	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	parataxis	_	start_char=437|end_char=443
+29	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	30	aux:pass	_	start_char=444|end_char=448
+30	покончено	покончить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	28	xcomp	_	start_char=449|end_char=458
+31	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	obl	_	start_char=459|end_char=462
+32	и	и	CCONJ	_	_	33	cc	_	start_char=463|end_char=464
+33	навсегда	навсегда	ADV	_	Degree=Pos|PronType=Tot	31	conj	_	start_char=465|end_char=473
+34	.	.	PUNCT	_	_	3	punct	_	start_char=473|end_char=474
+
+# text = На его любимой Земле вот-вот грядет наступление нового тысячелетия - так вот, это будет начало целой эры, эры Мастера!
+# sent_id = 6
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	На	на	ADP	_	_	4	case	_	start_char=475|end_char=477
+2	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=478|end_char=481
+3	любимой	любимый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=482|end_char=489
+4	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=490|end_char=495
+5	вот-вот	вот-вот	ADV	_	Degree=Pos	6	advmod	_	start_char=496|end_char=503
+6	грядет	грясти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=504|end_char=510
+7	наступление	наступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=511|end_char=522
+8	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=523|end_char=529
+9	тысячелетия	тысячелетие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=530|end_char=541
+10	-	-	PUNCT	_	_	16	punct	_	start_char=542|end_char=543
+11	так	так	ADV	_	Degree=Pos|PronType=Dem	16	parataxis	_	start_char=544|end_char=547
+12	вот	вот	PART	_	_	16	parataxis	_	start_char=548|end_char=551
+13	,	,	PUNCT	_	_	12	punct	_	start_char=551|end_char=552
+14	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nsubj	_	start_char=553|end_char=556
+15	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	cop	_	start_char=557|end_char=562
+16	начало	начало	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	parataxis	_	start_char=563|end_char=569
+17	целой	целый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=570|end_char=575
+18	эры	эро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	start_char=576|end_char=579
+19	,	,	PUNCT	_	_	21	punct	_	start_char=579|end_char=580
+20	эры	эро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	start_char=581|end_char=584
+21	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	conj	_	start_char=585|end_char=592
+22	!	!	PUNCT	_	_	6	punct	_	start_char=592|end_char=593
+
+# text = Только надо найти слабое место этого сосуда, а если его нет - то сделать!
+# sent_id = 7
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Только	только	PART	_	_	2	advmod	_	start_char=594|end_char=600
+2	надо	надо	VERB	_	_	0	root	_	start_char=601|end_char=605
+3	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=606|end_char=611
+4	слабое	слабый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=612|end_char=618
+5	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=619|end_char=624
+6	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=625|end_char=630
+7	сосуда	сосуд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=631|end_char=637
+8	,	,	PUNCT	_	_	15	punct	_	start_char=637|end_char=638
+9	а	а	CCONJ	_	_	15	cc	_	start_char=639|end_char=640
+10	если	если	SCONJ	_	_	12	mark	_	start_char=641|end_char=645
+11	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=646|end_char=649
+12	нет	нет	VERB	_	Polarity=Neg	15	advcl	_	start_char=650|end_char=653
+13	-	-	PUNCT	_	_	12	punct	_	start_char=654|end_char=655
+14	то	то	SCONJ	_	_	15	mark	_	start_char=656|end_char=658
+15	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	start_char=659|end_char=666
+16	!	!	PUNCT	_	_	2	punct	_	start_char=666|end_char=667
+
+# text = Смертный прах - если это мой прах!
+# sent_id = 8
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Смертный	смертный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=668|end_char=676
+2	прах	прах	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=677|end_char=681
+3	-	-	PUNCT	_	_	7	punct	_	start_char=682|end_char=683
+4	если	если	SCONJ	_	_	7	mark	_	start_char=684|end_char=688
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=689|end_char=692
+6	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=693|end_char=696
+7	прах	прах	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	acl	_	start_char=697|end_char=701
+8	!	!	PUNCT	_	_	2	punct	_	start_char=701|end_char=702
+
+# text = - не так безобиден, как можно себе представить.
+# sent_id = 9
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	-	-	PUNCT	_	_	4	punct	_	start_char=703|end_char=704
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=705|end_char=707
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=708|end_char=711
+4	безобиден	безобидный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=712|end_char=721
+5	,	,	PUNCT	_	_	7	punct	_	start_char=721|end_char=722
+6	как	как	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=723|end_char=726
+7	можно	можно	VERB	_	_	4	conj	_	start_char=727|end_char=732
+8	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	9	iobj	_	start_char=733|end_char=737
+9	представить	представлять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=738|end_char=749
+10	.	.	PUNCT	_	_	4	punct	_	start_char=749|end_char=750
+
+# text = Если его направляет сильная воля - а моя воля сильна, сильна как никогда, сильнее тем более, что ее не обременяет живая плоть - эта воля может многое.
+# sent_id = 10
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Если	если	SCONJ	_	_	3	mark	_	start_char=751|end_char=755
+2	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=756|end_char=759
+3	направляет	направлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	start_char=760|end_char=770
+4	сильная	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=771|end_char=778
+5	воля	воле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=779|end_char=783
+6	-	-	PUNCT	_	_	3	punct	_	start_char=784|end_char=785
+7	а	а	CCONJ	_	_	10	cc	_	start_char=786|end_char=787
+8	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=788|end_char=791
+9	воля	воле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=792|end_char=796
+10	сильна	сильный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	conj	_	start_char=797|end_char=803
+11	,	,	PUNCT	_	_	12	punct	_	start_char=803|end_char=804
+12	сильна	сильный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	10	conj	_	start_char=805|end_char=811
+13	как	как	SCONJ	_	_	14	case	_	start_char=812|end_char=815
+14	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	12	advmod	_	start_char=816|end_char=823
+15	,	,	PUNCT	_	_	16	punct	_	start_char=823|end_char=824
+16	сильнее	сильный	ADJ	_	Degree=Cmp	12	conj	_	start_char=825|end_char=832
+17	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	16	advmod	_	start_char=833|end_char=836
+18	более	более	ADV	_	Degree=Cmp|PronType=Tot	17	fixed	_	start_char=837|end_char=842
+19	,	,	PUNCT	_	_	23	punct	_	start_char=842|end_char=843
+20	что	что	SCONJ	_	_	23	mark	_	start_char=844|end_char=847
+21	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=848|end_char=850
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=851|end_char=853
+23	обременяет	обременять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	start_char=854|end_char=864
+24	живая	живой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=865|end_char=870
+25	плоть	плоть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	start_char=871|end_char=876
+26	-	-	PUNCT	_	_	29	punct	_	start_char=877|end_char=878
+27	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	start_char=879|end_char=882
+28	воля	воле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	start_char=883|end_char=887
+29	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=888|end_char=893
+30	многое	многое	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	29	obj	_	start_char=894|end_char=900
+31	.	.	PUNCT	_	_	29	punct	_	start_char=900|end_char=901
+
+# text = Тысячи частиц праха, в нескончаемой круговерти раз за разом бьющие в одну точку сосуда, якобы моей последней усыпальницы - и что-то треснуло.
+# sent_id = 11
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Тысячи	тысяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=902|end_char=908
+2	частиц	частица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	start_char=909|end_char=915
+3	праха	прах	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=916|end_char=921
+4	,	,	PUNCT	_	_	11	punct	_	start_char=921|end_char=922
+5	в	в	ADP	_	_	7	case	_	start_char=923|end_char=924
+6	нескончаемой	нескончаемый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=925|end_char=937
+7	круговерти	круговерти	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	start_char=938|end_char=948
+8	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=949|end_char=952
+9	за	за	ADP	_	_	10	case	_	start_char=953|end_char=955
+10	разом	раз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	start_char=956|end_char=961
+11	бьющие	бить	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	start_char=962|end_char=968
+12	в	в	ADP	_	_	14	case	_	start_char=969|end_char=970
+13	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	14	nummod	_	start_char=971|end_char=975
+14	точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	start_char=976|end_char=981
+15	сосуда	сосуд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=982|end_char=988
+16	,	,	PUNCT	_	_	20	punct	_	start_char=988|end_char=989
+17	якобы	якобы	PART	_	_	20	advmod	_	start_char=990|end_char=995
+18	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	start_char=996|end_char=1000
+19	последней	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	start_char=1001|end_char=1010
+20	усыпальницы	усыпальница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	conj	_	start_char=1011|end_char=1022
+21	-	-	PUNCT	_	_	24	punct	_	start_char=1023|end_char=1024
+22	и	и	CCONJ	_	_	24	cc	_	start_char=1025|end_char=1026
+23	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	24	nsubj	_	start_char=1027|end_char=1033
+24	треснуло	треснуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	start_char=1034|end_char=1042
+25	.	.	PUNCT	_	_	1	punct	_	start_char=1042|end_char=1043
+
+# text = Я, полу-видимый, полу-невидимый, состоящий из капли пепла и самой моей сути - я выхожу обратно на мировые подмостки.
+# sent_id = 12
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=1044|end_char=1045
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1045|end_char=1046
+3	полу-видимый	полу-видимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	acl	_	start_char=1047|end_char=1059
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1059|end_char=1060
+5	полу-невидимый	полу-невидимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	start_char=1061|end_char=1075
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1075|end_char=1076
+7	состоящий	состоять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	start_char=1077|end_char=1086
+8	из	из	ADP	_	_	9	case	_	start_char=1087|end_char=1089
+9	капли	капля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	start_char=1090|end_char=1095
+10	пепла	пепло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	start_char=1096|end_char=1101
+11	и	и	CCONJ	_	_	14	cc	_	start_char=1102|end_char=1103
+12	самой	сам	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Emp	14	det	_	start_char=1104|end_char=1109
+13	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	start_char=1110|end_char=1114
+14	сути	суть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	conj	_	start_char=1115|end_char=1119
+15	-	-	PUNCT	_	_	7	punct	_	start_char=1120|end_char=1121
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=1122|end_char=1123
+17	выхожу	выходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1124|end_char=1130
+18	обратно	обратно	ADV	_	Degree=Pos	17	advmod	_	start_char=1131|end_char=1138
+19	на	на	ADP	_	_	21	case	_	start_char=1139|end_char=1141
+20	мировые	мировой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	start_char=1142|end_char=1149
+21	подмостки	подмосток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	17	obl	_	start_char=1150|end_char=1159
+22	.	.	PUNCT	_	_	17	punct	_	start_char=1159|end_char=1160
+
+# text = Спектакль под названием "Мироздание" никогда не будет идти без меня.
+# sent_id = 13
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Спектакль	спектакль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=1161|end_char=1170
+2	под	под	ADP	_	_	3	case	_	start_char=1171|end_char=1174
+3	названием	название	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	nmod	_	start_char=1175|end_char=1184
+4	"	"	PUNCT	_	_	5	punct	_	start_char=1185|end_char=1186
+5	Мироздание	мироздание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	appos	_	start_char=1186|end_char=1196
+6	"	"	PUNCT	_	_	5	punct	_	start_char=1196|end_char=1197
+7	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	10	advmod	_	start_char=1198|end_char=1205
+8	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1206|end_char=1208
+9	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	aux	_	start_char=1209|end_char=1214
+10	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=1215|end_char=1219
+11	без	без	ADP	_	_	12	case	_	start_char=1220|end_char=1223
+12	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	obl	_	start_char=1224|end_char=1228
+13	.	.	PUNCT	_	_	10	punct	_	start_char=1228|end_char=1229
+
+# text = Да, сейчас я - невидимое чудовище, красноглазое, почти прозрачное, от близости которого встают атавистичные волоски на руках приматов - о, своим инстинктом, идущим от древнейшего рептильного отдела мозга, они более разумны, чем ложными построениями логических лобных долей, призванные защитить обладателя от столкновения с реальностью, не укладывающейся в рамки их "обычного" узкого мирка.
+# sent_id = 14
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Да	да	PART	_	_	7	parataxis	_	start_char=1230|end_char=1232
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1232|end_char=1233
+3	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1234|end_char=1240
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=1241|end_char=1242
+5	-	-	PUNCT	_	_	7	punct	_	start_char=1243|end_char=1244
+6	невидимое	невидимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=1245|end_char=1254
+7	чудовище	чудовище	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1255|end_char=1263
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1263|end_char=1264
+9	красноглазое	красноглазый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	conj	_	start_char=1265|end_char=1277
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1277|end_char=1278
+11	почти	почти	ADV	_	Degree=Pos	12	advmod	_	start_char=1279|end_char=1284
+12	прозрачное	прозрачный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	conj	_	start_char=1285|end_char=1295
+13	,	,	PUNCT	_	_	17	punct	_	start_char=1295|end_char=1296
+14	от	от	ADP	_	_	15	case	_	start_char=1297|end_char=1299
+15	близости	близость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	start_char=1300|end_char=1308
+16	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	15	nmod	_	start_char=1309|end_char=1317
+17	встают	вставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=1318|end_char=1324
+18	атавистичные	атавистичный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	start_char=1325|end_char=1337
+19	волоски	волоска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	start_char=1338|end_char=1345
+20	на	на	ADP	_	_	21	case	_	start_char=1346|end_char=1348
+21	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	nmod	_	start_char=1349|end_char=1354
+22	приматов	примат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	start_char=1355|end_char=1363
+23	-	-	PUNCT	_	_	27	punct	_	start_char=1364|end_char=1365
+24	о	о	INTJ	_	_	27	discourse	_	start_char=1366|end_char=1367
+25	,	,	PUNCT	_	_	24	punct	_	start_char=1367|end_char=1368
+26	своим	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	27	det	_	start_char=1369|end_char=1374
+27	инстинктом	инстинкт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	38	iobj	_	start_char=1375|end_char=1385
+28	,	,	PUNCT	_	_	29	punct	_	start_char=1385|end_char=1386
+29	идущим	идти	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	acl	_	start_char=1387|end_char=1393
+30	от	от	ADP	_	_	33	case	_	start_char=1394|end_char=1396
+31	древнейшего	древнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	start_char=1397|end_char=1408
+32	рептильного	рептильный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	start_char=1409|end_char=1420
+33	отдела	отдел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	obl	_	start_char=1421|end_char=1427
+34	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	start_char=1428|end_char=1433
+35	,	,	PUNCT	_	_	29	punct	_	start_char=1433|end_char=1434
+36	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	start_char=1435|end_char=1438
+37	более	более	ADV	_	Degree=Cmp|PronType=Tot	38	advmod	_	start_char=1439|end_char=1444
+38	разумны	разумный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	7	conj	_	start_char=1445|end_char=1452
+39	,	,	PUNCT	_	_	42	punct	_	start_char=1452|end_char=1453
+40	чем	чем	SCONJ	_	_	42	case	_	start_char=1454|end_char=1457
+41	ложными	ложный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	42	amod	_	start_char=1458|end_char=1465
+42	построениями	построение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	38	obl	_	start_char=1466|end_char=1478
+43	логических	логический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	45	amod	_	start_char=1479|end_char=1489
+44	лобных	лобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	45	amod	_	start_char=1490|end_char=1496
+45	долей	доль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	42	nmod	_	start_char=1497|end_char=1502
+46	,	,	PUNCT	_	_	47	punct	_	start_char=1502|end_char=1503
+47	призванные	призвать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	42	acl	_	start_char=1504|end_char=1514
+48	защитить	защитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	47	xcomp	_	start_char=1515|end_char=1523
+49	обладателя	обладатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	48	obj	_	start_char=1524|end_char=1534
+50	от	от	ADP	_	_	51	case	_	start_char=1535|end_char=1537
+51	столкновения	столкновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	start_char=1538|end_char=1550
+52	с	с	ADP	_	_	53	case	_	start_char=1551|end_char=1552
+53	реальностью	реальность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	51	nmod	_	start_char=1553|end_char=1564
+54	,	,	PUNCT	_	_	56	punct	_	start_char=1564|end_char=1565
+55	не	не	PART	_	Polarity=Neg	56	advmod	_	start_char=1566|end_char=1568
+56	укладывающейся	укладываться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	53	acl	_	start_char=1569|end_char=1583
+57	в	в	ADP	_	_	58	case	_	start_char=1584|end_char=1585
+58	рамки	рамка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	56	obl	_	start_char=1586|end_char=1591
+59	их	их	DET	_	Poss=Yes|PronType=Prs	64	det	_	start_char=1592|end_char=1594
+60	"	"	PUNCT	_	_	61	punct	_	start_char=1595|end_char=1596
+61	обычного	обычный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	64	amod	_	start_char=1596|end_char=1604
+62	"	"	PUNCT	_	_	61	punct	_	start_char=1604|end_char=1605
+63	узкого	узкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	64	amod	_	start_char=1606|end_char=1612
+64	мирка	мирка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	58	nmod	_	start_char=1613|end_char=1618
+65	.	.	PUNCT	_	_	7	punct	_	start_char=1618|end_char=1619
+
+# text = Тяжело в материальном мире быть почти духовным созданием, но я выбрал себе временное пристанище.
+# sent_id = 15
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Тяжело	тяжелый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1620|end_char=1626
+2	в	в	ADP	_	_	4	case	_	start_char=1627|end_char=1628
+3	материальном	материальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1629|end_char=1641
+4	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	start_char=1642|end_char=1646
+5	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	cop	_	start_char=1647|end_char=1651
+6	почти	почти	ADV	_	Degree=Pos	7	advmod	_	start_char=1652|end_char=1657
+7	духовным	духовный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=1658|end_char=1666
+8	созданием	создание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	csubj	_	start_char=1667|end_char=1676
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1676|end_char=1677
+10	но	но	CCONJ	_	_	12	cc	_	start_char=1678|end_char=1680
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=1681|end_char=1682
+12	выбрал	выбрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1683|end_char=1689
+13	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	12	iobj	_	start_char=1690|end_char=1694
+14	временное	временный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=1695|end_char=1704
+15	пристанище	пристанищ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	start_char=1705|end_char=1715
+16	.	.	PUNCT	_	_	1	punct	_	start_char=1715|end_char=1716
+
+# text = Я дожидаюсь, когда он ляжет спать, когда его организм отключит большинство сторожевых систем - а тогда с ним справляюсь голыми руками, пусть рук у меня пока и нет, как и ног.
+# sent_id = 16
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1717|end_char=1718
+2	дожидаюсь	дожидаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1719|end_char=1728
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1728|end_char=1729
+4	когда	когда	SCONJ	_	_	6	mark	_	start_char=1730|end_char=1735
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1736|end_char=1738
+6	ляжет	лечь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=1739|end_char=1744
+7	спать	спать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=1745|end_char=1750
+8	,	,	PUNCT	_	_	12	punct	_	start_char=1750|end_char=1751
+9	когда	когда	SCONJ	_	_	12	mark	_	start_char=1752|end_char=1757
+10	его	его	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=1758|end_char=1761
+11	организм	организм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=1762|end_char=1770
+12	отключит	отключить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=1771|end_char=1779
+13	большинство	большинство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	start_char=1780|end_char=1791
+14	сторожевых	сторожевой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	start_char=1792|end_char=1802
+15	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	start_char=1803|end_char=1809
+16	-	-	PUNCT	_	_	21	punct	_	start_char=1810|end_char=1811
+17	а	а	CCONJ	_	_	21	cc	_	start_char=1812|end_char=1813
+18	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=1814|end_char=1819
+19	с	с	ADP	_	_	20	case	_	start_char=1820|end_char=1821
+20	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	start_char=1822|end_char=1825
+21	справляюсь	справляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1826|end_char=1836
+22	голыми	голый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	23	amod	_	start_char=1837|end_char=1843
+23	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	21	iobj	_	start_char=1844|end_char=1850
+24	,	,	PUNCT	_	_	31	punct	_	start_char=1850|end_char=1851
+25	пусть	пусть	SCONJ	_	_	31	mark	_	start_char=1852|end_char=1857
+26	рук	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	31	nsubj	_	start_char=1858|end_char=1861
+27	у	у	ADP	_	_	28	case	_	start_char=1862|end_char=1863
+28	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	31	obl	_	start_char=1864|end_char=1868
+29	пока	пока	ADV	_	Degree=Pos	31	advmod	_	start_char=1869|end_char=1873
+30	и	и	PART	_	_	31	advmod	_	start_char=1874|end_char=1875
+31	нет	нет	VERB	_	Polarity=Neg	21	advcl	_	start_char=1876|end_char=1879
+32	,	,	PUNCT	_	_	35	punct	_	start_char=1879|end_char=1880
+33	как	как	SCONJ	_	_	35	case	_	start_char=1881|end_char=1884
+34	и	и	PART	_	_	35	advmod	_	start_char=1885|end_char=1886
+35	ног	нога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	31	obl	_	start_char=1887|end_char=1890
+36	.	.	PUNCT	_	_	2	punct	_	start_char=1890|end_char=1891
+
+# text = В этом преимущество змеи - я заскочил к нему в рот, протиснулся по пищеводу, несмотря на его спазмы в попытке вытолкнуть инородное нечто обратно, для начала просто заблокировал главные нервные узлы, чтобы организм перестал дергаться, и нанес главный удар - в мозг.
+# sent_id = 17
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	В	в	ADP	_	_	2	case	_	start_char=1892|end_char=1893
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	start_char=1894|end_char=1898
+3	преимущество	преимущество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=1899|end_char=1911
+4	змеи	змея	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=1912|end_char=1916
+5	-	-	PUNCT	_	_	7	punct	_	start_char=1917|end_char=1918
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=1919|end_char=1920
+7	заскочил	заскочить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1921|end_char=1929
+8	к	к	ADP	_	_	9	case	_	start_char=1930|end_char=1931
+9	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=1932|end_char=1936
+10	в	в	ADP	_	_	11	case	_	start_char=1937|end_char=1938
+11	рот	рот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=1939|end_char=1942
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1942|end_char=1943
+13	протиснулся	протиснуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	start_char=1944|end_char=1955
+14	по	по	ADP	_	_	15	case	_	start_char=1956|end_char=1958
+15	пищеводу	пищевод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	obl	_	start_char=1959|end_char=1967
+16	,	,	PUNCT	_	_	20	punct	_	start_char=1967|end_char=1968
+17	несмотря	несмотря	ADV	_	Degree=Pos	20	case	_	start_char=1969|end_char=1977
+18	на	на	ADP	_	_	17	fixed	_	start_char=1978|end_char=1980
+19	его	его	DET	_	Poss=Yes|PronType=Prs	20	det	_	start_char=1981|end_char=1984
+20	спазмы	спазм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obl	_	start_char=1985|end_char=1991
+21	в	в	ADP	_	_	22	case	_	start_char=1992|end_char=1993
+22	попытке	попытка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	nmod	_	start_char=1994|end_char=2001
+23	вытолкнуть	вытолкнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	acl	_	start_char=2002|end_char=2012
+24	инородное	инородный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	start_char=2013|end_char=2022
+25	нечто	нечто	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	23	obj	_	start_char=2023|end_char=2028
+26	обратно	обратно	ADV	_	Degree=Pos	23	advmod	_	start_char=2029|end_char=2036
+27	,	,	PUNCT	_	_	31	punct	_	start_char=2036|end_char=2037
+28	для	для	ADP	_	_	29	case	_	start_char=2038|end_char=2041
+29	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	obl	_	start_char=2042|end_char=2048
+30	просто	просто	PART	_	_	31	advmod	_	start_char=2049|end_char=2055
+31	заблокировал	заблокировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=2056|end_char=2068
+32	главные	главный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	34	amod	_	start_char=2069|end_char=2076
+33	нервные	нервный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	34	amod	_	start_char=2077|end_char=2084
+34	узлы	узла	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	31	obj	_	start_char=2085|end_char=2089
+35	,	,	PUNCT	_	_	38	punct	_	start_char=2089|end_char=2090
+36	чтобы	чтобы	SCONJ	_	Mood=Cnd	38	mark	_	start_char=2091|end_char=2096
+37	организм	организм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	start_char=2097|end_char=2105
+38	перестал	перестать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	advcl	_	start_char=2106|end_char=2114
+39	дергаться	дергаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	38	xcomp	_	start_char=2115|end_char=2124
+40	,	,	PUNCT	_	_	42	punct	_	start_char=2124|end_char=2125
+41	и	и	CCONJ	_	_	42	cc	_	start_char=2126|end_char=2127
+42	нанес	нанестись	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=2128|end_char=2133
+43	главный	главный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	start_char=2134|end_char=2141
+44	удар	удар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	42	obj	_	start_char=2142|end_char=2146
+45	-	-	PUNCT	_	_	47	punct	_	start_char=2147|end_char=2148
+46	в	в	ADP	_	_	47	case	_	start_char=2149|end_char=2150
+47	мозг	мозг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	42	obl	_	start_char=2151|end_char=2155
+48	.	.	PUNCT	_	_	7	punct	_	start_char=2155|end_char=2156
+
+# text = Прежняя личность мгновенно была уничтожена.
+# sent_id = 18
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Прежняя	прежний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=2157|end_char=2164
+2	личность	личность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	start_char=2165|end_char=2173
+3	мгновенно	мгновенно	ADV	_	Degree=Pos	5	advmod	_	start_char=2174|end_char=2183
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	start_char=2184|end_char=2188
+5	уничтожена	уничтожить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=2189|end_char=2199
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2199|end_char=2200
+
+# text = Все, с этой секунды можете считать, что этот медбрат мертв, а то, что будет ходить, действовать и разговаривать - буду уже я, и только я!
+# sent_id = 19
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=2201|end_char=2204
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2204|end_char=2205
+3	с	с	ADP	_	_	5	case	_	start_char=2206|end_char=2207
+4	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=2208|end_char=2212
+5	секунды	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=2213|end_char=2220
+6	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2221|end_char=2227
+7	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=2228|end_char=2235
+8	,	,	PUNCT	_	_	12	punct	_	start_char=2235|end_char=2236
+9	что	что	SCONJ	_	_	12	mark	_	start_char=2237|end_char=2240
+10	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	start_char=2241|end_char=2245
+11	медбрат	медбрат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=2246|end_char=2253
+12	мертв	мертвый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	ccomp	_	start_char=2254|end_char=2259
+13	,	,	PUNCT	_	_	27	punct	_	start_char=2259|end_char=2260
+14	а	а	CCONJ	_	_	27	cc	_	start_char=2261|end_char=2262
+15	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	27	nsubj	_	start_char=2263|end_char=2265
+16	,	,	PUNCT	_	_	19	punct	_	start_char=2265|end_char=2266
+17	что	что	SCONJ	_	_	19	mark	_	start_char=2267|end_char=2270
+18	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	aux	_	start_char=2271|end_char=2276
+19	ходить	ходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	acl	_	start_char=2277|end_char=2283
+20	,	,	PUNCT	_	_	21	punct	_	start_char=2283|end_char=2284
+21	действовать	действовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	conj	_	start_char=2285|end_char=2296
+22	и	и	CCONJ	_	_	23	cc	_	start_char=2297|end_char=2298
+23	разговаривать	разговаривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	conj	_	start_char=2299|end_char=2312
+24	-	-	PUNCT	_	_	27	punct	_	start_char=2313|end_char=2314
+25	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	27	cop	_	start_char=2315|end_char=2319
+26	уже	уже	ADV	_	Degree=Pos	27	advmod	_	start_char=2320|end_char=2323
+27	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	conj	_	start_char=2324|end_char=2325
+28	,	,	PUNCT	_	_	31	punct	_	start_char=2325|end_char=2326
+29	и	и	CCONJ	_	_	31	cc	_	start_char=2327|end_char=2328
+30	только	только	PART	_	_	31	advmod	_	start_char=2329|end_char=2335
+31	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	conj	_	start_char=2336|end_char=2337
+32	!	!	PUNCT	_	_	6	punct	_	start_char=2337|end_char=2338
+
+# text = Я восстановил контроль мозга над телом.
+# sent_id = 20
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2339|end_char=2340
+2	восстановил	восстановить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2341|end_char=2352
+3	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=2353|end_char=2361
+4	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=2362|end_char=2367
+5	над	над	ADP	_	_	6	case	_	start_char=2368|end_char=2371
+6	телом	тело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	nmod	_	start_char=2372|end_char=2377
+7	.	.	PUNCT	_	_	2	punct	_	start_char=2377|end_char=2378
+
+# text = Оно судорожно вдохнуло, сердце вновь забилось ровно, кровь исправно продолжила циркуляцию.
+# sent_id = 21
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2379|end_char=2382
+2	судорожно	судорожно	ADV	_	Degree=Pos	3	advmod	_	start_char=2383|end_char=2392
+3	вдохнуло	вдохнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2393|end_char=2401
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2401|end_char=2402
+5	сердце	сердце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=2403|end_char=2409
+6	вновь	вновь	ADV	_	Degree=Pos	7	advmod	_	start_char=2410|end_char=2415
+7	забилось	забиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=2416|end_char=2424
+8	ровно	равный	ADV	_	Degree=Pos	7	advmod	_	start_char=2425|end_char=2430
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2430|end_char=2431
+10	кровь	кровь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	start_char=2432|end_char=2437
+11	исправно	исправно	ADV	_	Degree=Pos	12	advmod	_	start_char=2438|end_char=2446
+12	продолжила	продолжить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2447|end_char=2457
+13	циркуляцию	циркуляция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=2458|end_char=2468
+14	.	.	PUNCT	_	_	3	punct	_	start_char=2468|end_char=2469
+
+# text = Теперь мне понадобится некоторое время для более тонкой подстройки к этому организму.
+# sent_id = 22
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2470|end_char=2476
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=2477|end_char=2480
+3	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2481|end_char=2492
+4	некоторое	некоторый	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	det	_	start_char=2493|end_char=2502
+5	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=2503|end_char=2508
+6	для	для	ADP	_	_	9	case	_	start_char=2509|end_char=2512
+7	более	более	ADV	_	Degree=Cmp|PronType=Tot	8	advmod	_	start_char=2513|end_char=2518
+8	тонкой	тонкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=2519|end_char=2525
+9	подстройки	подстройка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=2526|end_char=2536
+10	к	к	ADP	_	_	12	case	_	start_char=2537|end_char=2538
+11	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	start_char=2539|end_char=2544
+12	организму	организм	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	start_char=2545|end_char=2554
+13	.	.	PUNCT	_	_	3	punct	_	start_char=2554|end_char=2555
+
+# text = Управление основными процессами жизнедеятельности... двигательные процессы... я шевелю пальцами, я могу поднять руку, у меня появились ноги!
+# sent_id = 23
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	start_char=2556|end_char=2566
+2	основными	основной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	3	amod	_	start_char=2567|end_char=2576
+3	процессами	процесс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	start_char=2577|end_char=2587
+4	жизнедеятельности	жизнедеятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=2588|end_char=2605
+5	...	...	PUNCT	_	_	7	punct	_	start_char=2605|end_char=2608
+6	двигательные	двигательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	start_char=2609|end_char=2621
+7	процессы	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	start_char=2622|end_char=2630
+8	...	...	PUNCT	_	_	10	punct	_	start_char=2630|end_char=2633
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=2634|end_char=2635
+10	шевелю	шевелить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2636|end_char=2642
+11	пальцами	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	iobj	_	start_char=2643|end_char=2651
+12	,	,	PUNCT	_	_	14	punct	_	start_char=2651|end_char=2652
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=2653|end_char=2654
+14	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	start_char=2655|end_char=2659
+15	поднять	поднять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=2660|end_char=2667
+16	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=2668|end_char=2672
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2672|end_char=2673
+18	у	у	ADP	_	_	19	case	_	start_char=2674|end_char=2675
+19	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	20	obl	_	start_char=2676|end_char=2680
+20	появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=2681|end_char=2690
+21	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	start_char=2691|end_char=2695
+22	!	!	PUNCT	_	_	10	punct	_	start_char=2695|end_char=2696
+
+# text = Отлично.
+# sent_id = 24
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2697|end_char=2704
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2704|end_char=2705
+
+# text = Речь.
+# sent_id = 25
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2706|end_char=2710
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2710|end_char=2711
+
+# text = Память.
+# sent_id = 26
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Память	память	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2712|end_char=2718
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2718|end_char=2719
+
+# text = Все старое - вон, я здесь не для того, чтобы вливаться в этот мир, а чтобы покорить его.
+# sent_id = 27
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nsubj	_	start_char=2720|end_char=2723
+2	старое	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=2724|end_char=2730
+3	-	-	PUNCT	_	_	10	punct	_	start_char=2731|end_char=2732
+4	вон	вон	PART	_	_	2	parataxis	_	start_char=2733|end_char=2736
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2736|end_char=2737
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=2738|end_char=2739
+7	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=2740|end_char=2745
+8	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=2746|end_char=2748
+9	для	для	ADP	_	_	10	case	_	start_char=2749|end_char=2752
+10	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	2	conj	_	start_char=2753|end_char=2757
+11	,	,	PUNCT	_	_	13	punct	_	start_char=2757|end_char=2758
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	13	mark	_	start_char=2759|end_char=2764
+13	вливаться	вливаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	acl	_	start_char=2765|end_char=2774
+14	в	в	ADP	_	_	16	case	_	start_char=2775|end_char=2776
+15	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	start_char=2777|end_char=2781
+16	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	start_char=2782|end_char=2785
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2785|end_char=2786
+18	а	а	CCONJ	_	_	20	cc	_	start_char=2787|end_char=2788
+19	чтобы	чтобы	SCONJ	_	Mood=Cnd	20	mark	_	start_char=2789|end_char=2794
+20	покорить	покорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	conj	_	start_char=2795|end_char=2803
+21	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	start_char=2804|end_char=2807
+22	.	.	PUNCT	_	_	2	punct	_	start_char=2807|end_char=2808
+
+# text = Органы чувств - как их мало у людей!
+# sent_id = 28
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Органы	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2809|end_char=2815
+2	чувств	чувство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	start_char=2816|end_char=2822
+3	-	-	PUNCT	_	_	6	punct	_	start_char=2823|end_char=2824
+4	как	как	SCONJ	_	_	6	mark	_	start_char=2825|end_char=2828
+5	их	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=2829|end_char=2831
+6	мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	1	parataxis	_	start_char=2832|end_char=2836
+7	у	у	ADP	_	_	8	case	_	start_char=2837|end_char=2838
+8	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	start_char=2839|end_char=2844
+9	!	!	PUNCT	_	_	1	punct	_	start_char=2844|end_char=2845
+
+# text = Кажется, с основным закончено.
+# sent_id = 29
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=2846|end_char=2853
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2853|end_char=2854
+3	с	с	ADP	_	_	4	case	_	start_char=2855|end_char=2856
+4	основным	основной	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	obl	_	start_char=2857|end_char=2865
+5	закончено	закончить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=2866|end_char=2875
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2875|end_char=2876
+
+# text = Теперь есть смысл дать телу отдохнуть до утра - потом меня ждут великие дела.
+# sent_id = 30
+# metadata = Название: Змея отращивает ноги, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e20100000a7d21edeae9/1/Zmeya-otrashivaet-nogi
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=2877|end_char=2883
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2884|end_char=2888
+3	смысл	смысл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2889|end_char=2894
+4	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	acl	_	start_char=2895|end_char=2899
+5	телу	тело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	start_char=2900|end_char=2904
+6	отдохнуть	отдохнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=2905|end_char=2914
+7	до	до	ADP	_	_	8	case	_	start_char=2915|end_char=2917
+8	утра	утро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	start_char=2918|end_char=2922
+9	-	-	PUNCT	_	_	12	punct	_	start_char=2923|end_char=2924
+10	потом	потом	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=2925|end_char=2930
+11	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	start_char=2931|end_char=2935
+12	ждут	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2936|end_char=2940
+13	великие	великий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	start_char=2941|end_char=2948
+14	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	start_char=2949|end_char=2953
+15	.	.	PUNCT	_	_	2	punct	_	start_char=2953|end_char=2954
+

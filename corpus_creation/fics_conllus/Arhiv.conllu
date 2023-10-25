@@ -1,0 +1,1775 @@
+# text = Вселенная любила Доктора.
+# sent_id = 0
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=0|end_char=9
+2	любила	любить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=10|end_char=16
+3	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=17|end_char=24
+4	.	.	PUNCT	_	_	2	punct	_	start_char=24|end_char=25
+
+# text = Он это знал, он это всегда чувствовал.
+# sent_id = 1
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=26|end_char=28
+2	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=29|end_char=32
+3	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=33|end_char=37
+4	,	,	PUNCT	_	_	8	punct	_	start_char=37|end_char=38
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=39|end_char=41
+6	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obj	_	start_char=42|end_char=45
+7	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	8	advmod	_	start_char=46|end_char=52
+8	чувствовал	чувствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=53|end_char=63
+9	.	.	PUNCT	_	_	3	punct	_	start_char=63|end_char=64
+
+# text = Раньше.
+# sent_id = 2
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Раньше	раньше	ADV	_	Degree=Cmp	0	root	_	start_char=65|end_char=71
+2	.	.	PUNCT	_	_	1	punct	_	start_char=71|end_char=72
+
+# text = Сейчас что-то неуловимо изменилось, он не мог понять и сформулировать, что именно.
+# sent_id = 3
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=73|end_char=79
+2	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	nsubj	_	start_char=80|end_char=86
+3	неуловимо	неуловимо	ADV	_	Degree=Pos	4	advmod	_	start_char=87|end_char=96
+4	изменилось	измениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=97|end_char=107
+5	,	,	PUNCT	_	_	8	punct	_	start_char=107|end_char=108
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=109|end_char=111
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=112|end_char=114
+8	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=115|end_char=118
+9	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=119|end_char=125
+10	и	и	CCONJ	_	_	11	cc	_	start_char=126|end_char=127
+11	сформулировать	сформулировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	conj	_	start_char=128|end_char=142
+12	,	,	PUNCT	_	_	13	punct	_	start_char=142|end_char=143
+13	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	11	ccomp	_	start_char=144|end_char=147
+14	именно	именно	PART	_	_	13	advmod	_	start_char=148|end_char=154
+15	.	.	PUNCT	_	_	4	punct	_	start_char=154|end_char=155
+
+# text = Но похоже, что было какое-то место, которое можно было считать эпицентром распространяющейся нелюбви, и Доктор, долго ходя вокруг да около, наконец решил, что пора бы и посмотреть поближе – может, это явление имеет еще и персонификацию?..
+# sent_id = 4
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=156|end_char=158
+2	похоже	похожий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=159|end_char=165
+3	,	,	PUNCT	_	_	5	punct	_	start_char=165|end_char=166
+4	что	что	SCONJ	_	_	5	mark	_	start_char=167|end_char=170
+5	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=171|end_char=175
+6	какое-то	какой-то	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	det	_	start_char=176|end_char=184
+7	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=185|end_char=190
+8	,	,	PUNCT	_	_	10	punct	_	start_char=190|end_char=191
+9	которое	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	12	obj	_	start_char=192|end_char=199
+10	можно	можно	VERB	_	_	7	acl:relcl	_	start_char=200|end_char=205
+11	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=206|end_char=210
+12	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=211|end_char=218
+13	эпицентром	эпицентр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	xcomp	_	start_char=219|end_char=229
+14	распространяющейся	распространяться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	amod	_	start_char=230|end_char=248
+15	нелюбви	нелюбовь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=249|end_char=256
+16	,	,	PUNCT	_	_	27	punct	_	start_char=256|end_char=257
+17	и	и	CCONJ	_	_	27	cc	_	start_char=258|end_char=259
+18	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	start_char=260|end_char=266
+19	,	,	PUNCT	_	_	21	punct	_	start_char=266|end_char=267
+20	долго	долго	ADV	_	Degree=Pos	21	advmod	_	start_char=268|end_char=273
+21	ходя	ходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	27	advcl	_	start_char=274|end_char=278
+22	вокруг	вокруг	ADV	_	Degree=Pos	21	advmod	_	start_char=279|end_char=285
+23	да	да	CCONJ	_	_	24	cc	_	start_char=286|end_char=288
+24	около	около	ADP	_	_	21	conj	_	start_char=289|end_char=294
+25	,	,	PUNCT	_	_	21	punct	_	start_char=294|end_char=295
+26	наконец	наконец	ADV	_	Degree=Pos	27	advmod	_	start_char=296|end_char=303
+27	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=304|end_char=309
+28	,	,	PUNCT	_	_	30	punct	_	start_char=309|end_char=310
+29	что	что	SCONJ	_	_	30	mark	_	start_char=311|end_char=314
+30	пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	ccomp	_	start_char=315|end_char=319
+31	бы	бы	AUX	_	Mood=Cnd	30	aux	_	start_char=320|end_char=322
+32	и	и	CCONJ	_	_	33	cc	_	start_char=323|end_char=324
+33	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	csubj	_	start_char=325|end_char=335
+34	поближе	близко	ADV	_	Degree=Cmp	33	advmod	_	start_char=336|end_char=343
+35	–	–	PUNCT	_	_	40	punct	_	start_char=344|end_char=345
+36	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	parataxis	_	start_char=346|end_char=351
+37	,	,	PUNCT	_	_	36	punct	_	start_char=351|end_char=352
+38	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	39	det	_	start_char=353|end_char=356
+39	явление	явление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	40	nsubj	_	start_char=357|end_char=364
+40	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	parataxis	_	start_char=365|end_char=370
+41	еще	еще	ADV	_	Degree=Pos	43	advmod	_	start_char=371|end_char=374
+42	и	и	PART	_	_	43	advmod	_	start_char=375|end_char=376
+43	персонификацию	персонификация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	40	obj	_	start_char=377|end_char=391
+44	?..	?..	PUNCT	_	_	2	punct	_	start_char=391|end_char=394
+
+# text = Он не уловил мгновения, когда ТАРДИС вышла из вортекса и дематериализовалась.
+# sent_id = 5
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=395|end_char=397
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=398|end_char=400
+3	уловил	уловить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=401|end_char=407
+4	мгновения	мгновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obj	_	start_char=408|end_char=417
+5	,	,	PUNCT	_	_	8	punct	_	start_char=417|end_char=418
+6	когда	когда	SCONJ	_	_	8	mark	_	start_char=419|end_char=424
+7	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	nsubj	_	start_char=425|end_char=431
+8	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=432|end_char=437
+9	из	из	ADP	_	_	10	case	_	start_char=438|end_char=440
+10	вортекса	вортекс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	start_char=441|end_char=449
+11	и	и	CCONJ	_	_	12	cc	_	start_char=450|end_char=451
+12	дематериализовалась	дематериализоваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=452|end_char=471
+13	.	.	PUNCT	_	_	3	punct	_	start_char=471|end_char=472
+
+# text = Не было ни традиционного финального толчка, ни вопля тормозов, просто ротор остановился, и дверь открылась.
+# sent_id = 6
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=473|end_char=475
+2	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=476|end_char=480
+3	ни	ни	CCONJ	_	Polarity=Neg	6	cc	_	start_char=481|end_char=483
+4	традиционного	традиционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=484|end_char=497
+5	финального	финальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=498|end_char=508
+6	толчка	толчка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nsubj	_	start_char=509|end_char=515
+7	,	,	PUNCT	_	_	9	punct	_	start_char=515|end_char=516
+8	ни	ни	CCONJ	_	Polarity=Neg	9	cc	_	start_char=517|end_char=519
+9	вопля	вопль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	conj	_	start_char=520|end_char=525
+10	тормозов	тормоз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	start_char=526|end_char=534
+11	,	,	PUNCT	_	_	14	punct	_	start_char=534|end_char=535
+12	просто	просто	PART	_	_	14	advmod	_	start_char=536|end_char=542
+13	ротор	ротор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=543|end_char=548
+14	остановился	остановиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=549|end_char=560
+15	,	,	PUNCT	_	_	18	punct	_	start_char=560|end_char=561
+16	и	и	CCONJ	_	_	18	cc	_	start_char=562|end_char=563
+17	дверь	дверь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	start_char=564|end_char=569
+18	открылась	открыться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=570|end_char=579
+19	.	.	PUNCT	_	_	2	punct	_	start_char=579|end_char=580
+
+# text = Доктор осторожно выглянул наружу.
+# sent_id = 7
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=581|end_char=587
+2	осторожно	осторожно	ADV	_	Degree=Pos	3	advmod	_	start_char=588|end_char=597
+3	выглянул	выглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=598|end_char=606
+4	наружу	наружу	ADV	_	Degree=Pos	3	advmod	_	start_char=607|end_char=613
+5	.	.	PUNCT	_	_	3	punct	_	start_char=613|end_char=614
+
+# text = Более скучного места он еще не встречал за все свои прожитые жизни.
+# sent_id = 8
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Более	более	ADV	_	Degree=Cmp|PronType=Tot	2	advmod	_	start_char=615|end_char=620
+2	скучного	скучный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=621|end_char=629
+3	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obj	_	start_char=630|end_char=635
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=636|end_char=638
+5	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=639|end_char=642
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=643|end_char=645
+7	встречал	встречать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=646|end_char=654
+8	за	за	ADP	_	_	12	case	_	start_char=655|end_char=657
+9	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	12	det	_	start_char=658|end_char=661
+10	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=662|end_char=666
+11	прожитые	прожитый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	start_char=667|end_char=675
+12	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obl	_	start_char=676|end_char=681
+13	.	.	PUNCT	_	_	7	punct	_	start_char=681|end_char=682
+
+# text = Одинаковые серые металлические стеллажи ровными рядами уходили вдаль, докуда хватало глаз.
+# sent_id = 9
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Одинаковые	одинаковый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=683|end_char=693
+2	серые	серый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=694|end_char=699
+3	металлические	металлический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=700|end_char=713
+4	стеллажи	стеллаж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=714|end_char=722
+5	ровными	ровный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	start_char=723|end_char=730
+6	рядами	ряд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	start_char=731|end_char=737
+7	уходили	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=738|end_char=745
+8	вдаль	вдаль	ADV	_	Degree=Pos	7	advmod	_	start_char=746|end_char=751
+9	,	,	PUNCT	_	_	11	punct	_	start_char=751|end_char=752
+10	докуда	докуда	ADV	_	Degree=Pos|PronType=Rel	11	advmod	_	start_char=753|end_char=759
+11	хватало	хватать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=760|end_char=767
+12	глаз	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nsubj	_	start_char=768|end_char=772
+13	.	.	PUNCT	_	_	7	punct	_	start_char=772|end_char=773
+
+# text = На них стояли одинаковые же серые папки, ровно заполненные одинаковыми листами.
+# sent_id = 10
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	На	на	ADP	_	_	2	case	_	start_char=774|end_char=776
+2	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	3	obl	_	start_char=777|end_char=780
+3	стояли	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=781|end_char=787
+4	одинаковые	одинаковый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	start_char=788|end_char=798
+5	же	же	PART	_	_	4	advmod	_	start_char=799|end_char=801
+6	серые	серый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	start_char=802|end_char=807
+7	папки	папка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=808|end_char=813
+8	,	,	PUNCT	_	_	10	punct	_	start_char=813|end_char=814
+9	ровно	равный	ADV	_	Degree=Pos	10	advmod	_	start_char=815|end_char=820
+10	заполненные	заполнить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	start_char=821|end_char=832
+11	одинаковыми	одинаковый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	start_char=833|end_char=844
+12	листами	лист	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	iobj	_	start_char=845|end_char=852
+13	.	.	PUNCT	_	_	3	punct	_	start_char=852|end_char=853
+
+# text = На листах одинаковым шрифтом были напечатаны какие-то вещи...
+# sent_id = 11
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	На	на	ADP	_	_	2	case	_	start_char=854|end_char=856
+2	листах	лист	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	obl	_	start_char=857|end_char=863
+3	одинаковым	одинаковый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=864|end_char=874
+4	шрифтом	шрифт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	start_char=875|end_char=882
+5	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	start_char=883|end_char=887
+6	напечатаны	напечатать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=888|end_char=898
+7	какие-то	какой-то	DET	_	Case=Nom|Number=Plur|PronType=Ind	8	det	_	start_char=899|end_char=907
+8	вещи	вещь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj:pass	_	start_char=908|end_char=912
+9	...	...	PUNCT	_	_	6	punct	_	start_char=912|end_char=915
+
+# text = – Тётушка милостивая... – пробормотал Доктор, успев прочитать несколько строк.
+# sent_id = 12
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=916|end_char=917
+2	Тётушка	тетушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=918|end_char=925
+3	милостивая	милостивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=926|end_char=936
+4	...	...	PUNCT	_	_	2	punct	_	start_char=936|end_char=939
+5	–	–	PUNCT	_	_	6	punct	_	start_char=940|end_char=941
+6	пробормотал	пробормотать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=942|end_char=953
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=954|end_char=960
+8	,	,	PUNCT	_	_	9	punct	_	start_char=960|end_char=961
+9	успев	успеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=962|end_char=967
+10	прочитать	прочесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=968|end_char=977
+11	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	12	nummod:gov	_	start_char=978|end_char=987
+12	строк	строка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	obj	_	start_char=988|end_char=993
+13	.	.	PUNCT	_	_	2	punct	_	start_char=993|end_char=994
+
+# text = Чувствовал он себя как-то странно, даже глаза вели себя странно – то ему хотелось надеть очки, то он прекрасно видел всё и так, но смысл написанного всё равно не укладывался у него в голове: "Ветер от ударной волны ласково шевелил светлые волосы
+# sent_id = 13
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Чувствовал	чувствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=995|end_char=1005
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	start_char=1006|end_char=1008
+3	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	obj	_	start_char=1009|end_char=1013
+4	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=1014|end_char=1020
+5	странно	странный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	advmod	_	start_char=1021|end_char=1028
+6	,	,	PUNCT	_	_	9	punct	_	start_char=1028|end_char=1029
+7	даже	даже	PART	_	_	8	advmod	_	start_char=1030|end_char=1034
+8	глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	start_char=1035|end_char=1040
+9	вели	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1041|end_char=1045
+10	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	9	obj	_	start_char=1046|end_char=1050
+11	странно	странно	ADV	_	Degree=Pos	9	advmod	_	start_char=1051|end_char=1058
+12	–	–	PUNCT	_	_	15	punct	_	start_char=1059|end_char=1060
+13	то	то	SCONJ	_	_	15	mark	_	start_char=1061|end_char=1063
+14	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	start_char=1064|end_char=1067
+15	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=1068|end_char=1076
+16	надеть	надеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=1077|end_char=1083
+17	очки	очки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	obj	_	start_char=1084|end_char=1088
+18	,	,	PUNCT	_	_	22	punct	_	start_char=1088|end_char=1089
+19	то	то	SCONJ	_	_	22	cc	_	start_char=1090|end_char=1092
+20	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=1093|end_char=1095
+21	прекрасно	прекрасно	ADV	_	Degree=Pos	22	advmod	_	start_char=1096|end_char=1105
+22	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1106|end_char=1111
+23	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	22	obj	_	start_char=1112|end_char=1115
+24	и	и	CCONJ	_	_	25	cc	_	start_char=1116|end_char=1117
+25	так	так	ADV	_	Degree=Pos|PronType=Dem	22	advmod	_	start_char=1118|end_char=1121
+26	,	,	PUNCT	_	_	33	punct	_	start_char=1121|end_char=1122
+27	но	но	CCONJ	_	_	33	cc	_	start_char=1123|end_char=1125
+28	смысл	смысл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	start_char=1126|end_char=1131
+29	написанного	написать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	start_char=1132|end_char=1143
+30	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	33	advmod	_	start_char=1144|end_char=1147
+31	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	30	fixed	_	start_char=1148|end_char=1153
+32	не	не	PART	_	Polarity=Neg	33	advmod	_	start_char=1154|end_char=1156
+33	укладывался	укладываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=1157|end_char=1168
+34	у	у	ADP	_	_	35	case	_	start_char=1169|end_char=1170
+35	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	obl	_	start_char=1171|end_char=1175
+36	в	в	ADP	_	_	37	case	_	start_char=1176|end_char=1177
+37	голове	голова	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	obl	_	start_char=1178|end_char=1184
+38	:	:	PUNCT	_	_	45	punct	_	start_char=1184|end_char=1185
+39	"	"	PUNCT	_	_	45	punct	_	start_char=1186|end_char=1187
+40	Ветер	ветер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	nsubj	_	start_char=1187|end_char=1192
+41	от	от	ADP	_	_	43	case	_	start_char=1193|end_char=1195
+42	ударной	ударный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	start_char=1196|end_char=1203
+43	волны	волна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	obl	_	start_char=1204|end_char=1209
+44	ласково	ласково	ADV	_	Degree=Pos	45	advmod	_	start_char=1210|end_char=1217
+45	шевелил	шевелить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	parataxis	_	start_char=1218|end_char=1225
+46	светлые	светлый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	47	amod	_	start_char=1226|end_char=1233
+47	волосы	волос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	45	obj	_	start_char=1234|end_char=1240
+
+# text = Джо, забрасывал их ей на глаза, которые влажно блестели.
+# sent_id = 14
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1241|end_char=1244
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1244|end_char=1245
+3	забрасывал	забрасывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1246|end_char=1256
+4	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=1257|end_char=1259
+5	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=1260|end_char=1262
+6	на	на	ADP	_	_	7	case	_	start_char=1263|end_char=1265
+7	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obl	_	start_char=1266|end_char=1271
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1271|end_char=1272
+9	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	start_char=1273|end_char=1280
+10	влажно	влажно	ADV	_	Degree=Pos	11	advmod	_	start_char=1281|end_char=1287
+11	блестели	блестеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=1288|end_char=1296
+12	.	.	PUNCT	_	_	3	punct	_	start_char=1296|end_char=1297
+
+# text = Она в этот момент смотрела не на воронку, оставшуюся на месте штаба ЮНИТа, даже не на фуражку Майкла Йейтса у себя в руках – всё, что от него осталось, с пятнами свежей крови и сероватыми комочками слизи, прилипшими к ткани после взрыва его головы под смертельным разрядом из оружия Мастера, – она смотрела туда, куда умчался угнанный Мастером вертолёт.
+# sent_id = 15
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1298|end_char=1301
+2	в	в	ADP	_	_	4	case	_	start_char=1302|end_char=1303
+3	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=1304|end_char=1308
+4	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=1309|end_char=1315
+5	смотрела	смотреть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1316|end_char=1324
+6	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1325|end_char=1327
+7	на	на	ADP	_	_	8	case	_	start_char=1328|end_char=1330
+8	воронку	воронок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=1331|end_char=1338
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1338|end_char=1339
+10	оставшуюся	остаться	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	start_char=1340|end_char=1350
+11	на	на	ADP	_	_	12	case	_	start_char=1351|end_char=1353
+12	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	start_char=1354|end_char=1359
+13	штаба	штаб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=1360|end_char=1365
+14	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	13	nmod	_	start_char=1366|end_char=1371
+15	,	,	PUNCT	_	_	19	punct	_	start_char=1371|end_char=1372
+16	даже	даже	PART	_	_	19	advmod	_	start_char=1373|end_char=1377
+17	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=1378|end_char=1380
+18	на	на	ADP	_	_	19	case	_	start_char=1381|end_char=1383
+19	фуражку	фуражка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	conj	_	start_char=1384|end_char=1391
+20	Майкла	Майкл	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	19	nmod	_	start_char=1392|end_char=1398
+21	Йейтса	Йейтс	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	20	flat:name	_	start_char=1399|end_char=1405
+22	у	у	ADP	_	_	23	case	_	start_char=1406|end_char=1407
+23	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	19	nmod	_	start_char=1408|end_char=1412
+24	в	в	ADP	_	_	25	case	_	start_char=1413|end_char=1414
+25	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	nmod	_	start_char=1415|end_char=1420
+26	–	–	PUNCT	_	_	19	punct	_	start_char=1421|end_char=1422
+27	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	19	nsubj	_	start_char=1423|end_char=1426
+28	,	,	PUNCT	_	_	32	punct	_	start_char=1426|end_char=1427
+29	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	32	nsubj	_	start_char=1428|end_char=1431
+30	от	от	ADP	_	_	31	case	_	start_char=1432|end_char=1434
+31	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obl	_	start_char=1435|end_char=1439
+32	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	27	acl:relcl	_	start_char=1440|end_char=1448
+33	,	,	PUNCT	_	_	35	punct	_	start_char=1448|end_char=1449
+34	с	с	ADP	_	_	35	case	_	start_char=1450|end_char=1451
+35	пятнами	пятно	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	32	obl	_	start_char=1452|end_char=1459
+36	свежей	свежий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	start_char=1460|end_char=1466
+37	крови	кровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	start_char=1467|end_char=1472
+38	и	и	CCONJ	_	_	40	cc	_	start_char=1473|end_char=1474
+39	сероватыми	сероватый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	40	amod	_	start_char=1475|end_char=1485
+40	комочками	комочка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	35	conj	_	start_char=1486|end_char=1495
+41	слизи	слизь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	start_char=1496|end_char=1501
+42	,	,	PUNCT	_	_	43	punct	_	start_char=1501|end_char=1502
+43	прилипшими	прилипнуть	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	35	acl	_	start_char=1503|end_char=1513
+44	к	к	ADP	_	_	45	case	_	start_char=1514|end_char=1515
+45	ткани	ткань	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	43	obl	_	start_char=1516|end_char=1521
+46	после	после	ADP	_	_	47	case	_	start_char=1522|end_char=1527
+47	взрыва	взрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	obl	_	start_char=1528|end_char=1534
+48	его	его	DET	_	Poss=Yes|PronType=Prs	49	det	_	start_char=1535|end_char=1538
+49	головы	голова	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	47	nmod	_	start_char=1539|end_char=1545
+50	под	под	ADP	_	_	52	case	_	start_char=1546|end_char=1549
+51	смертельным	смертельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	start_char=1550|end_char=1561
+52	разрядом	разряд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	43	obl	_	start_char=1562|end_char=1570
+53	из	из	ADP	_	_	54	case	_	start_char=1571|end_char=1573
+54	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	52	nmod	_	start_char=1574|end_char=1580
+55	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	54	nmod	_	start_char=1581|end_char=1588
+56	,	,	PUNCT	_	_	59	punct	_	start_char=1588|end_char=1589
+57	–	–	PUNCT	_	_	59	punct	_	start_char=1590|end_char=1591
+58	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	59	nsubj	_	start_char=1592|end_char=1595
+59	смотрела	смотреть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=1596|end_char=1604
+60	туда	туда	ADV	_	Degree=Pos|PronType=Dem	59	advmod	_	start_char=1605|end_char=1609
+61	,	,	PUNCT	_	_	63	punct	_	start_char=1609|end_char=1610
+62	куда	куда	ADV	_	Degree=Pos|PronType=Rel	63	advmod	_	start_char=1611|end_char=1615
+63	умчался	умчаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	60	acl:relcl	_	start_char=1616|end_char=1623
+64	угнанный	угнать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	66	acl	_	start_char=1624|end_char=1632
+65	Мастером	мастер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	63	obl:agent	_	start_char=1633|end_char=1641
+66	вертолёт	вертолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	63	nsubj	_	start_char=1642|end_char=1650
+67	.	.	PUNCT	_	_	5	punct	_	start_char=1650|end_char=1651
+
+# text = – Доктор, вы же специально его отпустили? – спросила она.
+# sent_id = 16
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	8	punct	_	start_char=1652|end_char=1653
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	vocative	_	start_char=1654|end_char=1660
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1660|end_char=1661
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	start_char=1662|end_char=1664
+5	же	же	PART	_	_	4	advmod	_	start_char=1665|end_char=1667
+6	специально	специально	ADV	_	Degree=Pos	8	advmod	_	start_char=1668|end_char=1678
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=1679|end_char=1682
+8	отпустили	отпустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1683|end_char=1692
+9	?	?	PUNCT	_	_	8	punct	_	start_char=1692|end_char=1693
+10	–	–	PUNCT	_	_	11	punct	_	start_char=1694|end_char=1695
+11	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=1696|end_char=1704
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=1705|end_char=1708
+13	.	.	PUNCT	_	_	8	punct	_	start_char=1708|end_char=1709
+
+# text = – И он ещё вернётся?
+# sent_id = 17
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1710|end_char=1711
+2	И	и	CCONJ	_	_	5	cc	_	start_char=1712|end_char=1713
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1714|end_char=1716
+4	ещё	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=1717|end_char=1720
+5	вернётся	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1721|end_char=1729
+6	?	?	PUNCT	_	_	5	punct	_	start_char=1729|end_char=1730
+
+# text = – Что ты, Джо, как я мог!..
+# sent_id = 18
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1731|end_char=1732
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1733|end_char=1736
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=1737|end_char=1739
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1739|end_char=1740
+5	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	vocative	_	start_char=1741|end_char=1744
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1744|end_char=1745
+7	как	как	SCONJ	_	_	9	mark	_	start_char=1746|end_char=1749
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=1750|end_char=1751
+9	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=1752|end_char=1755
+10	!..	!..	PUNCT	_	_	2	punct	_	start_char=1755|end_char=1758
+
+# text = – Доктор, но он же ваш друг!
+# sent_id = 19
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1759|end_char=1760
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1761|end_char=1767
+3	,	,	PUNCT	_	_	8	punct	_	start_char=1767|end_char=1768
+4	но	но	CCONJ	_	_	8	cc	_	start_char=1769|end_char=1771
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=1772|end_char=1774
+6	же	же	PART	_	_	5	advmod	_	start_char=1775|end_char=1777
+7	ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=1778|end_char=1781
+8	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=1782|end_char=1786
+9	!	!	PUNCT	_	_	2	punct	_	start_char=1786|end_char=1787
+
+# text = – Джо, я не должен был... но я не мог иначе, он... он больше, чем друг...
+# sent_id = 20
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1788|end_char=1789
+2	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	vocative	_	start_char=1790|end_char=1793
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1793|end_char=1794
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1795|end_char=1796
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1797|end_char=1799
+6	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1800|end_char=1806
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	xcomp	_	start_char=1807|end_char=1810
+8	...	...	PUNCT	_	_	12	punct	_	start_char=1810|end_char=1813
+9	но	но	CCONJ	_	_	12	cc	_	start_char=1814|end_char=1816
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=1817|end_char=1818
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1819|end_char=1821
+12	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=1822|end_char=1825
+13	иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	12	advmod	_	start_char=1826|end_char=1831
+14	,	,	PUNCT	_	_	15	punct	_	start_char=1831|end_char=1832
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=1833|end_char=1835
+16	...	...	PUNCT	_	_	18	punct	_	start_char=1835|end_char=1838
+17	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=1839|end_char=1841
+18	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	6	parataxis	_	start_char=1842|end_char=1848
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1848|end_char=1849
+20	чем	чем	SCONJ	_	_	21	case	_	start_char=1850|end_char=1853
+21	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	obl	_	start_char=1854|end_char=1858
+22	...	...	PUNCT	_	_	6	punct	_	start_char=1858|end_char=1861
+
+# text = –
+# sent_id = 21
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	0	root	_	start_char=1862|end_char=1863
+
+# text = Я знала это! – пылко воскликнула Джо".
+# sent_id = 22
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1864|end_char=1865
+2	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1866|end_char=1871
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	start_char=1872|end_char=1875
+4	!	!	PUNCT	_	_	2	punct	_	start_char=1875|end_char=1876
+5	–	–	PUNCT	_	_	7	punct	_	start_char=1877|end_char=1878
+6	пылко	пылко	ADV	_	Degree=Pos	7	advmod	_	start_char=1879|end_char=1884
+7	воскликнула	воскликнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1885|end_char=1896
+8	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=1897|end_char=1900
+9	"	"	PUNCT	_	_	7	punct	_	start_char=1900|end_char=1901
+10	.	.	PUNCT	_	_	2	punct	_	start_char=1901|end_char=1902
+
+# text = – Нонсенс!
+# sent_id = 23
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1903|end_char=1904
+2	Нонсенс	нонсенс	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1905|end_char=1912
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1912|end_char=1913
+
+# text = Бред! – теперь уже пылко воскликнул Доктор.
+# sent_id = 24
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Бред	бред	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1914|end_char=1918
+2	!	!	PUNCT	_	_	1	punct	_	start_char=1918|end_char=1919
+3	–	–	PUNCT	_	_	7	punct	_	start_char=1920|end_char=1921
+4	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1922|end_char=1928
+5	уже	уже	ADV	_	Degree=Pos	6	advmod	_	start_char=1929|end_char=1932
+6	пылко	пылко	ADV	_	Degree=Pos	7	advmod	_	start_char=1933|end_char=1938
+7	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=1939|end_char=1949
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1950|end_char=1956
+9	.	.	PUNCT	_	_	1	punct	_	start_char=1956|end_char=1957
+
+# text = – Во-первых, такого не было, во-вторых, такого никогда не было, в-третьих, такого не могло быть!
+# sent_id = 25
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1958|end_char=1959
+2	Во-первых	во-первых	ADV	_	Degree=Pos	6	parataxis	_	start_char=1960|end_char=1969
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1969|end_char=1970
+4	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1971|end_char=1977
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1978|end_char=1980
+6	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1981|end_char=1985
+7	,	,	PUNCT	_	_	13	punct	_	start_char=1985|end_char=1986
+8	во-вторых	во-вторых	ADV	_	Degree=Pos	13	parataxis	_	start_char=1987|end_char=1996
+9	,	,	PUNCT	_	_	8	punct	_	start_char=1996|end_char=1997
+10	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	nsubj	_	start_char=1998|end_char=2004
+11	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	13	advmod	_	start_char=2005|end_char=2012
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=2013|end_char=2015
+13	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2016|end_char=2020
+14	,	,	PUNCT	_	_	19	punct	_	start_char=2020|end_char=2021
+15	в-третьих	в-третьих	ADV	_	Degree=Pos	19	parataxis	_	start_char=2022|end_char=2031
+16	,	,	PUNCT	_	_	15	punct	_	start_char=2031|end_char=2032
+17	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	19	nsubj	_	start_char=2033|end_char=2039
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=2040|end_char=2042
+19	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2043|end_char=2048
+20	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	start_char=2049|end_char=2053
+21	!	!	PUNCT	_	_	6	punct	_	start_char=2053|end_char=2054
+
+# text = Кто выдумал эту феерическую чушь?!
+# sent_id = 26
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	start_char=2055|end_char=2058
+2	выдумал	выдумать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2059|end_char=2066
+3	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=2067|end_char=2070
+4	феерическую	феерический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2071|end_char=2082
+5	чушь	чушь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=2083|end_char=2087
+6	?!	?!	PUNCT	_	_	2	punct	_	start_char=2087|end_char=2089
+
+# text = – Твои поклонники, дорогой друг, – произнес знакомый голос.
+# sent_id = 27
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2090|end_char=2091
+2	Твои	твой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	3	det	_	start_char=2092|end_char=2096
+3	поклонники	поклонник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=2097|end_char=2107
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2107|end_char=2108
+5	дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=2109|end_char=2116
+6	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2117|end_char=2121
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2121|end_char=2122
+8	–	–	PUNCT	_	_	9	punct	_	start_char=2123|end_char=2124
+9	произнес	произнести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2125|end_char=2133
+10	знакомый	знакомый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=2134|end_char=2142
+11	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=2143|end_char=2148
+12	.	.	PUNCT	_	_	6	punct	_	start_char=2148|end_char=2149
+
+# text = – Мастер?
+# sent_id = 28
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2150|end_char=2151
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2152|end_char=2158
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2158|end_char=2159
+
+# text = – Доктор.
+# sent_id = 29
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2160|end_char=2161
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2162|end_char=2168
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2168|end_char=2169
+
+# text = – Я подозревал, что за всем этим можешь стоять ты.
+# sent_id = 30
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2170|end_char=2171
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2172|end_char=2173
+3	подозревал	подозревать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2174|end_char=2184
+4	,	,	PUNCT	_	_	9	punct	_	start_char=2184|end_char=2185
+5	что	что	SCONJ	_	_	9	mark	_	start_char=2186|end_char=2189
+6	за	за	ADP	_	_	8	case	_	start_char=2190|end_char=2192
+7	всем	весь	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	8	det	_	start_char=2193|end_char=2197
+8	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	start_char=2198|end_char=2202
+9	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2203|end_char=2209
+10	стоять	стоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=2210|end_char=2216
+11	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=2217|end_char=2219
+12	.	.	PUNCT	_	_	3	punct	_	start_char=2219|end_char=2220
+
+# text = Ха, у тебя тут все серое, прямо как в твоей старой унылой ТАРДИС!
+# sent_id = 31
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Ха	Ха	INTJ	_	_	7	discourse	_	start_char=2221|end_char=2223
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2223|end_char=2224
+3	у	у	ADP	_	_	4	case	_	start_char=2225|end_char=2226
+4	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	obl	_	start_char=2227|end_char=2231
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2232|end_char=2235
+6	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	start_char=2236|end_char=2239
+7	серое	серый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=2240|end_char=2245
+8	,	,	PUNCT	_	_	15	punct	_	start_char=2245|end_char=2246
+9	прямо	прямо	PART	_	_	15	advmod	_	start_char=2247|end_char=2252
+10	как	как	SCONJ	_	_	15	case	_	start_char=2253|end_char=2256
+11	в	в	ADP	_	_	15	case	_	start_char=2257|end_char=2258
+12	твоей	твой	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=2259|end_char=2264
+13	старой	старый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=2265|end_char=2271
+14	унылой	унылый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=2272|end_char=2278
+15	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Com|Number=Sing	7	obl	_	start_char=2279|end_char=2285
+16	!	!	PUNCT	_	_	7	punct	_	start_char=2285|end_char=2286
+
+# text = – Это только интерфейс.
+# sent_id = 32
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2287|end_char=2288
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2289|end_char=2292
+3	только	только	PART	_	_	4	advmod	_	start_char=2293|end_char=2299
+4	интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2300|end_char=2309
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2309|end_char=2310
+
+# text = Я могу сделать это место выглядящим как угодно, хоть как классическая библиотека, хоть как самый современный банк данных.
+# sent_id = 33
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2311|end_char=2312
+2	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2313|end_char=2317
+3	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2318|end_char=2325
+4	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	start_char=2326|end_char=2329
+5	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=2330|end_char=2335
+6	выглядящим	выглядеть	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	xcomp	_	start_char=2336|end_char=2346
+7	как	как	SCONJ	_	_	8	case	_	start_char=2347|end_char=2350
+8	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	obl	_	start_char=2351|end_char=2357
+9	,	,	PUNCT	_	_	13	punct	_	start_char=2357|end_char=2358
+10	хоть	хоть	SCONJ	_	_	13	mark	_	start_char=2359|end_char=2363
+11	как	как	SCONJ	_	_	13	case	_	start_char=2364|end_char=2367
+12	классическая	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=2368|end_char=2380
+13	библиотека	библиотека	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	obl	_	start_char=2381|end_char=2391
+14	,	,	PUNCT	_	_	19	punct	_	start_char=2391|end_char=2392
+15	хоть	хоть	SCONJ	_	_	19	mark	_	start_char=2393|end_char=2397
+16	как	как	SCONJ	_	_	19	case	_	start_char=2398|end_char=2401
+17	самый	самый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	18	det	_	start_char=2402|end_char=2407
+18	современный	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=2408|end_char=2419
+19	банк	банк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	acl	_	start_char=2420|end_char=2424
+20	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	start_char=2425|end_char=2431
+21	.	.	PUNCT	_	_	2	punct	_	start_char=2431|end_char=2432
+
+# text = Могу даже организовать воспроизведение каждого файла в виде полной голопроекции, со всеми вкусовыми, тактильными, обонятельными и прочими ощущениями.
+# sent_id = 34
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2433|end_char=2437
+2	даже	даже	PART	_	_	3	advmod	_	start_char=2438|end_char=2442
+3	организовать	организовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2443|end_char=2455
+4	воспроизведение	воспроизведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=2456|end_char=2471
+5	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	6	det	_	start_char=2472|end_char=2479
+6	файла	файло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=2480|end_char=2485
+7	в	в	ADP	_	_	10	case	_	start_char=2486|end_char=2487
+8	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	fixed	_	start_char=2488|end_char=2492
+9	полной	полный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=2493|end_char=2499
+10	голопроекции	голопроекция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=2500|end_char=2512
+11	,	,	PUNCT	_	_	21	punct	_	start_char=2512|end_char=2513
+12	со	со	ADP	_	_	21	case	_	start_char=2514|end_char=2516
+13	всеми	весь	DET	_	Case=Ins|Number=Plur|PronType=Tot	21	det	_	start_char=2517|end_char=2522
+14	вкусовыми	вкусовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	amod	_	start_char=2523|end_char=2532
+15	,	,	PUNCT	_	_	16	punct	_	start_char=2532|end_char=2533
+16	тактильными	тактильный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	conj	_	start_char=2534|end_char=2545
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2545|end_char=2546
+18	обонятельными	обонятельный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	conj	_	start_char=2547|end_char=2560
+19	и	и	CCONJ	_	_	20	cc	_	start_char=2561|end_char=2562
+20	прочими	прочий	DET	_	Case=Ins|Number=Plur|PronType=Tot	14	conj	_	start_char=2563|end_char=2570
+21	ощущениями	ощущение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	10	conj	_	start_char=2571|end_char=2581
+22	.	.	PUNCT	_	_	1	punct	_	start_char=2581|end_char=2582
+
+# text = Хочешь?
+# sent_id = 35
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2583|end_char=2589
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2589|end_char=2590
+
+# text = – Нет, – содрогнулся Доктор.
+# sent_id = 36
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2591|end_char=2592
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2593|end_char=2596
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2596|end_char=2597
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2598|end_char=2599
+5	содрогнулся	содрогнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=2600|end_char=2611
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2612|end_char=2618
+7	.	.	PUNCT	_	_	2	punct	_	start_char=2618|end_char=2619
+
+# text = – Как ты можешь отказываться, это же работа твоего любимого человечества!
+# sent_id = 37
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2620|end_char=2621
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=2622|end_char=2625
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=2626|end_char=2628
+4	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2629|end_char=2635
+5	отказываться	отказываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=2636|end_char=2648
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2648|end_char=2649
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=2650|end_char=2653
+8	же	же	PART	_	_	7	advmod	_	start_char=2654|end_char=2656
+9	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	start_char=2657|end_char=2663
+10	твоего	твой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	start_char=2664|end_char=2670
+11	любимого	любимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=2671|end_char=2679
+12	человечества	человечество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	start_char=2680|end_char=2692
+13	!	!	PUNCT	_	_	4	punct	_	start_char=2692|end_char=2693
+
+# text = – язвительно рассмеялся Мастер.
+# sent_id = 38
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2694|end_char=2695
+2	язвительно	язвительно	ADV	_	Degree=Pos	3	advmod	_	start_char=2696|end_char=2706
+3	рассмеялся	рассмеяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2707|end_char=2717
+4	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2718|end_char=2724
+5	.	.	PUNCT	_	_	3	punct	_	start_char=2724|end_char=2725
+
+# text = – Но что это?
+# sent_id = 39
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2726|end_char=2727
+2	Но	но	CCONJ	_	_	3	cc	_	start_char=2728|end_char=2730
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2731|end_char=2734
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2735|end_char=2738
+5	?	?	PUNCT	_	_	3	punct	_	start_char=2738|end_char=2739
+
+# text = Зачем это?
+# sent_id = 40
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Зачем	зачем	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=2740|end_char=2745
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=2746|end_char=2749
+3	?	?	PUNCT	_	_	1	punct	_	start_char=2749|end_char=2750
+
+# text = – Это то, что думают и пишут о тебе, Доктор.
+# sent_id = 41
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2751|end_char=2752
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2753|end_char=2756
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=2757|end_char=2759
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2759|end_char=2760
+5	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	_	start_char=2761|end_char=2764
+6	думают	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=2765|end_char=2771
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2772|end_char=2773
+8	пишут	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2774|end_char=2779
+9	о	о	ADP	_	_	10	case	_	start_char=2780|end_char=2781
+10	тебе	ты	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	8	obl	_	start_char=2782|end_char=2786
+11	,	,	PUNCT	_	_	12	punct	_	start_char=2786|end_char=2787
+12	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	start_char=2788|end_char=2794
+13	.	.	PUNCT	_	_	3	punct	_	start_char=2794|end_char=2795
+
+# text = Избранное.
+# sent_id = 42
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Избранное	избранный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=2796|end_char=2805
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2805|end_char=2806
+
+# text = Сначала я старался, по крупицам собирал всё написанное, а потом будто начала действовать гравитация, и написанное стало притягивать написанное.
+# sent_id = 43
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Сначала	сначала	ADV	_	Degree=Pos	3	advmod	_	start_char=2807|end_char=2814
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2815|end_char=2816
+3	старался	стараться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2817|end_char=2825
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2825|end_char=2826
+5	по	по	ADP	_	_	6	case	_	start_char=2827|end_char=2829
+6	крупицам	крупица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	obl	_	start_char=2830|end_char=2838
+7	собирал	собирать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2839|end_char=2846
+8	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	start_char=2847|end_char=2850
+9	написанное	написать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	start_char=2851|end_char=2861
+10	,	,	PUNCT	_	_	14	punct	_	start_char=2861|end_char=2862
+11	а	а	CCONJ	_	_	14	cc	_	start_char=2863|end_char=2864
+12	потом	потом	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=2865|end_char=2870
+13	будто	будто	PART	_	_	12	fixed	_	start_char=2871|end_char=2876
+14	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2877|end_char=2883
+15	действовать	действовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=2884|end_char=2895
+16	гравитация	гравитация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=2896|end_char=2906
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2906|end_char=2907
+18	и	и	CCONJ	_	_	20	cc	_	start_char=2908|end_char=2909
+19	написанное	написать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	nsubj	_	start_char=2910|end_char=2920
+20	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2921|end_char=2926
+21	притягивать	притягивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	xcomp	_	start_char=2927|end_char=2938
+22	написанное	написать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	obj	_	start_char=2939|end_char=2949
+23	.	.	PUNCT	_	_	3	punct	_	start_char=2949|end_char=2950
+
+# text = Так что сейчас новое само поступает, только успевай знакомится и решать, оставить или нет.
+# sent_id = 44
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	6	mark	_	start_char=2951|end_char=2954
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=2955|end_char=2958
+3	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2959|end_char=2965
+4	новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=2966|end_char=2971
+5	само	сам	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	6	obl	_	start_char=2972|end_char=2976
+6	поступает	поступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2977|end_char=2986
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2986|end_char=2987
+8	только	только	CCONJ	_	_	9	cc	_	start_char=2988|end_char=2994
+9	успевай	успевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2995|end_char=3002
+10	знакомится	знакомиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=3003|end_char=3013
+11	и	и	CCONJ	_	_	12	cc	_	start_char=3014|end_char=3015
+12	решать	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	conj	_	start_char=3016|end_char=3022
+13	,	,	PUNCT	_	_	14	punct	_	start_char=3022|end_char=3023
+14	оставить	оставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	conj	_	start_char=3024|end_char=3032
+15	или	или	CCONJ	_	_	16	cc	_	start_char=3033|end_char=3036
+16	нет	нет	VERB	_	Polarity=Neg	6	conj	_	start_char=3037|end_char=3040
+17	.	.	PUNCT	_	_	6	punct	_	start_char=3040|end_char=3041
+
+# text = – Ты же не будешь заниматься ничем, что не сулит тебе завоевания Вселенной...
+# sent_id = 45
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3042|end_char=3043
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=3044|end_char=3046
+3	же	же	PART	_	_	2	advmod	_	start_char=3047|end_char=3049
+4	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=3050|end_char=3052
+5	будешь	быть	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	_	start_char=3053|end_char=3059
+6	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	start_char=3060|end_char=3070
+7	ничем	ничто	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Neg	6	iobj	_	start_char=3071|end_char=3076
+8	,	,	PUNCT	_	_	11	punct	_	start_char=3076|end_char=3077
+9	что	что	SCONJ	_	_	11	mark	_	start_char=3078|end_char=3081
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=3082|end_char=3084
+11	сулит	сулить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=3085|end_char=3090
+12	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	11	iobj	_	start_char=3091|end_char=3095
+13	завоевания	завоевание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	start_char=3096|end_char=3106
+14	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	13	nmod	_	start_char=3107|end_char=3116
+15	...	...	PUNCT	_	_	6	punct	_	start_char=3116|end_char=3119
+
+# text = Как же это может помочь?
+# sent_id = 46
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=3120|end_char=3123
+2	же	же	PART	_	_	1	advmod	_	start_char=3124|end_char=3126
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=3127|end_char=3130
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3131|end_char=3136
+5	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=3137|end_char=3143
+6	?	?	PUNCT	_	_	4	punct	_	start_char=3143|end_char=3144
+
+# text = Доктор достал с ближайшей полки другую папку.
+# sent_id = 47
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3145|end_char=3151
+2	достал	достать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3152|end_char=3158
+3	с	с	ADP	_	_	5	case	_	start_char=3159|end_char=3160
+4	ближайшей	ближайший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=3161|end_char=3170
+5	полки	полк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	start_char=3171|end_char=3176
+6	другую	другой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	start_char=3177|end_char=3183
+7	папку	папка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=3184|end_char=3189
+8	.	.	PUNCT	_	_	2	punct	_	start_char=3189|end_char=3190
+
+# text = – Читай вслух, – предложил Мастер.
+# sent_id = 48
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3191|end_char=3192
+2	Читай	читать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3193|end_char=3198
+3	вслух	вслух	ADV	_	Degree=Pos	2	advmod	_	start_char=3199|end_char=3204
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3204|end_char=3205
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3206|end_char=3207
+6	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3208|end_char=3217
+7	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=3218|end_char=3224
+8	.	.	PUNCT	_	_	2	punct	_	start_char=3224|end_char=3225
+
+# text = – Слишком многое стояло между ними: война, и предательство, и год моральных пыток, но сейчас они чувствовали только то, что связывало их все эти годы, объединяло, не давая разойтись, как двум кораблям в космическом океане.
+# sent_id = 49
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3226|end_char=3227
+2	Слишком	слишком	ADV	_	Degree=Pos	4	advmod	_	start_char=3228|end_char=3235
+3	многое	многое	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=3236|end_char=3242
+4	стояло	стоять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3243|end_char=3249
+5	между	между	ADP	_	_	6	case	_	start_char=3250|end_char=3255
+6	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=3256|end_char=3260
+7	:	:	PUNCT	_	_	8	punct	_	start_char=3260|end_char=3261
+8	война	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	start_char=3262|end_char=3267
+9	,	,	PUNCT	_	_	11	punct	_	start_char=3267|end_char=3268
+10	и	и	CCONJ	_	_	11	cc	_	start_char=3269|end_char=3270
+11	предательство	предательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	start_char=3271|end_char=3284
+12	,	,	PUNCT	_	_	14	punct	_	start_char=3284|end_char=3285
+13	и	и	CCONJ	_	_	14	cc	_	start_char=3286|end_char=3287
+14	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	start_char=3288|end_char=3291
+15	моральных	моральный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	start_char=3292|end_char=3301
+16	пыток	пыток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	start_char=3302|end_char=3307
+17	,	,	PUNCT	_	_	21	punct	_	start_char=3307|end_char=3308
+18	но	но	CCONJ	_	_	21	cc	_	start_char=3309|end_char=3311
+19	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=3312|end_char=3318
+20	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=3319|end_char=3322
+21	чувствовали	чувствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=3323|end_char=3334
+22	только	только	PART	_	_	23	advmod	_	start_char=3335|end_char=3341
+23	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	21	obj	_	start_char=3342|end_char=3344
+24	,	,	PUNCT	_	_	26	punct	_	start_char=3344|end_char=3345
+25	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	26	nsubj	_	start_char=3346|end_char=3349
+26	связывало	связывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	acl:relcl	_	start_char=3350|end_char=3359
+27	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	26	obj	_	start_char=3360|end_char=3362
+28	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	30	det	_	start_char=3363|end_char=3366
+29	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	30	det	_	start_char=3367|end_char=3370
+30	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	26	obl	_	start_char=3371|end_char=3375
+31	,	,	PUNCT	_	_	32	punct	_	start_char=3375|end_char=3376
+32	объединяло	объединять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	conj	_	start_char=3377|end_char=3387
+33	,	,	PUNCT	_	_	35	punct	_	start_char=3387|end_char=3388
+34	не	не	PART	_	Polarity=Neg	35	advmod	_	start_char=3389|end_char=3391
+35	давая	давать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	32	advcl	_	start_char=3392|end_char=3397
+36	разойтись	разойтись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	35	xcomp	_	start_char=3398|end_char=3407
+37	,	,	PUNCT	_	_	40	punct	_	start_char=3407|end_char=3408
+38	как	как	SCONJ	_	_	40	case	_	start_char=3409|end_char=3412
+39	двум	два	NUM	_	Case=Dat|NumForm=Word|NumType=Card	40	nummod	_	start_char=3413|end_char=3417
+40	кораблям	корабль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	36	obl	_	start_char=3418|end_char=3426
+41	в	в	ADP	_	_	43	case	_	start_char=3427|end_char=3428
+42	космическом	космический	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	start_char=3429|end_char=3440
+43	океане	океан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	40	nmod	_	start_char=3441|end_char=3447
+44	.	.	PUNCT	_	_	4	punct	_	start_char=3447|end_char=3448
+
+# text = "Регенерируй", – шепнул Доктор.
+# sent_id = 50
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	"	"	PUNCT	_	_	2	punct	_	start_char=3449|end_char=3450
+2	Регенерируй	регенерировать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3450|end_char=3461
+3	"	"	PUNCT	_	_	2	punct	_	start_char=3461|end_char=3462
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3462|end_char=3463
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3464|end_char=3465
+6	шепнул	шепнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3466|end_char=3472
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=3473|end_char=3479
+8	.	.	PUNCT	_	_	2	punct	_	start_char=3479|end_char=3480
+
+# text = "Разве мне есть, зачем жить?" – возразил лежащий на его руках Мастер.
+# sent_id = 51
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	"	"	PUNCT	_	_	4	punct	_	start_char=3481|end_char=3482
+2	Разве	разве	PART	_	_	4	advmod	_	start_char=3482|end_char=3487
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=3488|end_char=3491
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3492|end_char=3496
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3496|end_char=3497
+6	зачем	зачем	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=3498|end_char=3503
+7	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=3504|end_char=3508
+8	?	?	PUNCT	_	_	7	punct	_	start_char=3508|end_char=3509
+9	"	"	PUNCT	_	_	4	punct	_	start_char=3509|end_char=3510
+10	–	–	PUNCT	_	_	11	punct	_	start_char=3511|end_char=3512
+11	возразил	возразить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=3513|end_char=3521
+12	лежащий	лежать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	start_char=3522|end_char=3529
+13	на	на	ADP	_	_	15	case	_	start_char=3530|end_char=3532
+14	его	его	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=3533|end_char=3536
+15	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	obl	_	start_char=3537|end_char=3542
+16	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=3543|end_char=3549
+17	.	.	PUNCT	_	_	4	punct	_	start_char=3549|end_char=3550
+
+# text = "Есть", – ответил Доктор, цел...
+# sent_id = 52
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	"	"	PUNCT	_	_	2	punct	_	start_char=3551|end_char=3552
+2	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3552|end_char=3556
+3	"	"	PUNCT	_	_	2	punct	_	start_char=3556|end_char=3557
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3557|end_char=3558
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3559|end_char=3560
+6	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3561|end_char=3568
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=3569|end_char=3575
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3575|end_char=3576
+9	цел	цело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	start_char=3577|end_char=3580
+10	...	...	PUNCT	_	_	2	punct	_	start_char=3580|end_char=3583
+
+# text = – Не стесняйся, Доктор! – подбодрил Мастер.
+# sent_id = 53
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3584|end_char=3585
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3586|end_char=3588
+3	стесняйся	стесняться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3589|end_char=3598
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3598|end_char=3599
+5	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=3600|end_char=3606
+6	!	!	PUNCT	_	_	3	punct	_	start_char=3606|end_char=3607
+7	–	–	PUNCT	_	_	8	punct	_	start_char=3608|end_char=3609
+8	подбодрил	подбодрить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3610|end_char=3619
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=3620|end_char=3626
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3626|end_char=3627
+
+# text = – Это еще далеко не самое горячее.
+# sent_id = 54
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3628|end_char=3629
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=3630|end_char=3633
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=3634|end_char=3637
+4	далеко	далеко	ADV	_	Degree=Pos	7	advmod	_	start_char=3638|end_char=3644
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=3645|end_char=3647
+6	самое	самый	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	7	det	_	start_char=3648|end_char=3653
+7	горячее	горячее	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=3654|end_char=3661
+8	.	.	PUNCT	_	_	7	punct	_	start_char=3661|end_char=3662
+
+# text = – ...целуя сухие прохладные губы Мастера, – продолжил читать Доктор.
+# sent_id = 55
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	10	punct	_	start_char=3663|end_char=3664
+2	...	...	PUNCT	_	_	10	punct	_	start_char=3665|end_char=3668
+3	целуя	целуть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	start_char=3668|end_char=3673
+4	сухие	сухой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	start_char=3674|end_char=3679
+5	прохладные	прохладный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	start_char=3680|end_char=3690
+6	губы	губа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	start_char=3691|end_char=3695
+7	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=3696|end_char=3703
+8	,	,	PUNCT	_	_	3	punct	_	start_char=3703|end_char=3704
+9	–	–	PUNCT	_	_	3	punct	_	start_char=3705|end_char=3706
+10	продолжил	продолжить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3707|end_char=3716
+11	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=3717|end_char=3723
+12	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=3724|end_char=3730
+13	.	.	PUNCT	_	_	10	punct	_	start_char=3730|end_char=3731
+
+# text = – Золотое сияние окутало их обоих, перенесло в Машину Парадоксов.
+# sent_id = 56
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3732|end_char=3733
+2	Золотое	золотой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=3734|end_char=3741
+3	сияние	сияние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=3742|end_char=3748
+4	окутало	окутать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3749|end_char=3756
+5	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	start_char=3757|end_char=3759
+6	обоих	оба	NUM	_	Animacy=Anim|Case=Acc|Gender=Masc|NumForm=Word|NumType=Sets	4	obj	_	start_char=3760|end_char=3765
+7	,	,	PUNCT	_	_	8	punct	_	start_char=3765|end_char=3766
+8	перенесло	перенести	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=3767|end_char=3776
+9	в	в	ADP	_	_	10	case	_	start_char=3777|end_char=3778
+10	Машину	машина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=3779|end_char=3785
+11	Парадоксов	парадоксыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	start_char=3786|end_char=3796
+12	.	.	PUNCT	_	_	4	punct	_	start_char=3796|end_char=3797
+
+# text = Они оба купались в энергии обновления, им обоим было это нужно, так же, как чувствовать руки друг друга на плечах, спине и упругих ягод...
+# sent_id = 57
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=3798|end_char=3801
+2	оба	оба	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Sets	1	nummod:gov	_	start_char=3802|end_char=3805
+3	купались	купаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3806|end_char=3814
+4	в	в	ADP	_	_	5	case	_	start_char=3815|end_char=3816
+5	энергии	энергия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=3817|end_char=3824
+6	обновления	обновление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	start_char=3825|end_char=3835
+7	,	,	PUNCT	_	_	12	punct	_	start_char=3835|end_char=3836
+8	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	12	iobj	_	start_char=3837|end_char=3839
+9	обоим	оба	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	12	iobj	_	start_char=3840|end_char=3845
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=3846|end_char=3850
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	start_char=3851|end_char=3854
+12	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	conj	_	start_char=3855|end_char=3860
+13	,	,	PUNCT	_	_	14	punct	_	start_char=3860|end_char=3861
+14	так	так	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=3862|end_char=3865
+15	же	же	PART	_	_	14	advmod	_	start_char=3866|end_char=3868
+16	,	,	PUNCT	_	_	18	punct	_	start_char=3868|end_char=3869
+17	как	как	ADV	_	Degree=Pos|PronType=Rel	18	advmod	_	start_char=3870|end_char=3873
+18	чувствовать	чувствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	advcl	_	start_char=3874|end_char=3885
+19	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obj	_	start_char=3886|end_char=3890
+20	друг	друг	PRON	_	Case=Nom|PronType=Rcp	18	obl	_	start_char=3891|end_char=3895
+21	друга	друг	PRON	_	Case=Gen|PronType=Rcp	20	fixed	_	start_char=3896|end_char=3901
+22	на	на	ADP	_	_	23	case	_	start_char=3902|end_char=3904
+23	плечах	плечо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	18	obl	_	start_char=3905|end_char=3911
+24	,	,	PUNCT	_	_	25	punct	_	start_char=3911|end_char=3912
+25	спине	спина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	conj	_	start_char=3913|end_char=3918
+26	и	и	CCONJ	_	_	28	cc	_	start_char=3919|end_char=3920
+27	упругих	упругий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	28	amod	_	start_char=3921|end_char=3928
+28	ягод	ягода	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	23	conj	_	start_char=3929|end_char=3933
+29	...	...	PUNCT	_	_	3	punct	_	start_char=3933|end_char=3936
+
+# text = Сияющий Мастер прижал Доктора к консоли, расстегнул на нём... и взял в руку его твёрдый... осторожно вводить... энергия окутывала, будто смаз...
+# sent_id = 58
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Сияющий	сияющий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=3937|end_char=3944
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3945|end_char=3951
+3	прижал	прижать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3952|end_char=3958
+4	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=3959|end_char=3966
+5	к	к	ADP	_	_	6	case	_	start_char=3967|end_char=3968
+6	консоли	консоль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	obl	_	start_char=3969|end_char=3976
+7	,	,	PUNCT	_	_	8	punct	_	start_char=3976|end_char=3977
+8	расстегнул	расстегнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3978|end_char=3988
+9	на	на	ADP	_	_	10	case	_	start_char=3989|end_char=3991
+10	нём	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=3992|end_char=3995
+11	...	...	PUNCT	_	_	13	punct	_	start_char=3995|end_char=3998
+12	и	и	CCONJ	_	_	13	cc	_	start_char=3999|end_char=4000
+13	взял	взять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4001|end_char=4005
+14	в	в	ADP	_	_	15	case	_	start_char=4006|end_char=4007
+15	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	start_char=4008|end_char=4012
+16	его	его	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=4013|end_char=4016
+17	твёрдый	твердый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	obj	_	start_char=4017|end_char=4024
+18	...	...	PUNCT	_	_	20	punct	_	start_char=4024|end_char=4027
+19	осторожно	осторожно	ADV	_	Degree=Pos	20	advmod	_	start_char=4028|end_char=4037
+20	вводить	вводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	parataxis	_	start_char=4038|end_char=4045
+21	...	...	PUNCT	_	_	20	punct	_	start_char=4045|end_char=4048
+22	энергия	энергия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	start_char=4049|end_char=4056
+23	окутывала	окутывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=4057|end_char=4066
+24	,	,	PUNCT	_	_	26	punct	_	start_char=4066|end_char=4067
+25	будто	будто	SCONJ	_	_	26	case	_	start_char=4068|end_char=4073
+26	смаз	смаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	obl	_	start_char=4074|end_char=4078
+27	...	...	PUNCT	_	_	3	punct	_	start_char=4078|end_char=4081
+
+# text = Это совершенно возмутительно, да-с!
+# sent_id = 59
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4082|end_char=4085
+2	совершенно	совершенно	ADV	_	Degree=Pos	3	advmod	_	start_char=4086|end_char=4096
+3	возмутительно	возмутительный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4097|end_char=4110
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4110|end_char=4111
+5	да-с	да-с	INTJ	_	_	3	discourse	_	start_char=4112|end_char=4116
+6	!	!	PUNCT	_	_	3	punct	_	start_char=4116|end_char=4117
+
+# text = – Ты хочешь запретить людям самовыражаться?
+# sent_id = 60
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4118|end_char=4119
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=4120|end_char=4122
+3	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4123|end_char=4129
+4	запретить	запретить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=4130|end_char=4139
+5	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	start_char=4140|end_char=4145
+6	самовыражаться	самовыражаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=4146|end_char=4160
+7	?	?	PUNCT	_	_	3	punct	_	start_char=4160|end_char=4161
+
+# text = Доктор, я тебя не узнаю!
+# sent_id = 61
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	start_char=4162|end_char=4168
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4168|end_char=4169
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=4170|end_char=4171
+4	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	start_char=4172|end_char=4176
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=4177|end_char=4179
+6	узнаю	узнавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4180|end_char=4185
+7	!	!	PUNCT	_	_	6	punct	_	start_char=4185|end_char=4186
+
+# text = – Должна быть граница между свободой самовыражения и попытками искажения действительности!
+# sent_id = 62
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4187|end_char=4188
+2	Должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=4189|end_char=4195
+3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	cop	_	start_char=4196|end_char=4200
+4	граница	граница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=4201|end_char=4208
+5	между	между	ADP	_	_	6	case	_	start_char=4209|end_char=4214
+6	свободой	свобода	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	start_char=4215|end_char=4223
+7	самовыражения	самовыражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=4224|end_char=4237
+8	и	и	CCONJ	_	_	9	cc	_	start_char=4238|end_char=4239
+9	попытками	попытка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	conj	_	start_char=4240|end_char=4249
+10	искажения	искажение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	start_char=4250|end_char=4259
+11	действительности	действительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=4260|end_char=4276
+12	!	!	PUNCT	_	_	2	punct	_	start_char=4276|end_char=4277
+
+# text = Творчество вообще должно нести в мир что-то светлое, доброе, делать людей чище и лучше!
+# sent_id = 63
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Творчество	творчество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	start_char=4278|end_char=4288
+2	вообще	вообще	ADV	_	Degree=Pos	3	advmod	_	start_char=4289|end_char=4295
+3	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4296|end_char=4302
+4	нести	нести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=4303|end_char=4308
+5	в	в	ADP	_	_	6	case	_	start_char=4309|end_char=4310
+6	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=4311|end_char=4314
+7	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	obj	_	start_char=4315|end_char=4321
+8	светлое	светлый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=4322|end_char=4329
+9	,	,	PUNCT	_	_	10	punct	_	start_char=4329|end_char=4330
+10	доброе	добрый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	conj	_	start_char=4331|end_char=4337
+11	,	,	PUNCT	_	_	12	punct	_	start_char=4337|end_char=4338
+12	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=4339|end_char=4345
+13	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	12	obj	_	start_char=4346|end_char=4351
+14	чище	чистый	ADJ	_	Degree=Cmp	3	conj	_	start_char=4352|end_char=4356
+15	и	и	CCONJ	_	_	16	cc	_	start_char=4357|end_char=4358
+16	лучше	хороший	ADJ	_	Degree=Cmp	14	conj	_	start_char=4359|end_char=4364
+17	!	!	PUNCT	_	_	3	punct	_	start_char=4364|end_char=4365
+
+# text = Вот за что надо бороться!
+# sent_id = 64
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Вот	вот	PART	_	_	3	advmod	_	start_char=4366|end_char=4369
+2	за	за	ADP	_	_	3	case	_	start_char=4370|end_char=4372
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obl	_	start_char=4373|end_char=4376
+4	надо	надо	VERB	_	_	0	root	_	start_char=4377|end_char=4381
+5	бороться	бороться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	csubj	_	start_char=4382|end_char=4390
+6	!	!	PUNCT	_	_	4	punct	_	start_char=4390|end_char=4391
+
+# text = – О, мой дорогой Доктор, таким ты мне даже нравишься!
+# sent_id = 65
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4392|end_char=4393
+2	О	о	INTJ	_	_	6	discourse	_	start_char=4394|end_char=4395
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4395|end_char=4396
+4	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4397|end_char=4400
+5	дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=4401|end_char=4408
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4409|end_char=4415
+7	,	,	PUNCT	_	_	12	punct	_	start_char=4415|end_char=4416
+8	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	start_char=4417|end_char=4422
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=4423|end_char=4425
+10	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	12	iobj	_	start_char=4426|end_char=4429
+11	даже	даже	PART	_	_	12	advmod	_	start_char=4430|end_char=4434
+12	нравишься	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=4435|end_char=4444
+13	!	!	PUNCT	_	_	6	punct	_	start_char=4444|end_char=4445
+
+# text = Предлагаю тебе рассортировать этот архив, оставив только самые лучше творения!
+# sent_id = 66
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Предлагаю	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4446|end_char=4455
+2	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	iobj	_	start_char=4456|end_char=4460
+3	рассортировать	рассортировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=4461|end_char=4475
+4	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	start_char=4476|end_char=4480
+5	архив	архив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=4481|end_char=4486
+6	,	,	PUNCT	_	_	7	punct	_	start_char=4486|end_char=4487
+7	оставив	оставить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=4488|end_char=4495
+8	только	только	PART	_	_	9	advmod	_	start_char=4496|end_char=4502
+9	самые	самый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Emp	10	det	_	start_char=4503|end_char=4508
+10	лучше	хороший	ADJ	_	Degree=Cmp	7	xcomp	_	start_char=4509|end_char=4514
+11	творения	творение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	obl	_	start_char=4515|end_char=4523
+12	!	!	PUNCT	_	_	1	punct	_	start_char=4523|end_char=4524
+
+# text = В твоём понимании, конечно – добрые, светлые, и что ты там хотел ещё по списку.
+# sent_id = 67
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	В	в	ADP	_	_	3	case	_	start_char=4525|end_char=4526
+2	твоём	твой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=4527|end_char=4532
+3	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	start_char=4533|end_char=4542
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4542|end_char=4543
+5	конечно	конечно	ADV	_	Degree=Pos	7	parataxis	_	start_char=4544|end_char=4551
+6	–	–	PUNCT	_	_	5	punct	_	start_char=4552|end_char=4553
+7	добрые	добрый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=4554|end_char=4560
+8	,	,	PUNCT	_	_	9	punct	_	start_char=4560|end_char=4561
+9	светлые	светлый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	conj	_	start_char=4562|end_char=4569
+10	,	,	PUNCT	_	_	15	punct	_	start_char=4569|end_char=4570
+11	и	и	CCONJ	_	_	15	cc	_	start_char=4571|end_char=4572
+12	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	15	obj	_	start_char=4573|end_char=4576
+13	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=4577|end_char=4579
+14	там	там	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=4580|end_char=4583
+15	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=4584|end_char=4589
+16	ещё	еще	ADV	_	Degree=Pos	18	advmod	_	start_char=4590|end_char=4593
+17	по	по	ADP	_	_	18	case	_	start_char=4594|end_char=4596
+18	списку	список	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	15	obl	_	start_char=4597|end_char=4603
+19	.	.	PUNCT	_	_	7	punct	_	start_char=4603|end_char=4604
+
+# text = Приходи ко мне, прямо по этой указательной линии.
+# sent_id = 68
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Приходи	приходить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4605|end_char=4612
+2	ко	ко	ADP	_	_	3	case	_	start_char=4613|end_char=4615
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	obl	_	start_char=4616|end_char=4619
+4	,	,	PUNCT	_	_	9	punct	_	start_char=4619|end_char=4620
+5	прямо	прямо	PART	_	_	9	advmod	_	start_char=4621|end_char=4626
+6	по	по	ADP	_	_	9	case	_	start_char=4627|end_char=4629
+7	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=4630|end_char=4634
+8	указательной	указательный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=4635|end_char=4647
+9	линии	линия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	obl	_	start_char=4648|end_char=4653
+10	.	.	PUNCT	_	_	1	punct	_	start_char=4653|end_char=4654
+
+# text = Вдоль шкафов загорелась подсветка в виде стрелок.
+# sent_id = 69
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Вдоль	вдоль	ADP	_	_	2	case	_	start_char=4655|end_char=4660
+2	шкафов	шкаф	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	start_char=4661|end_char=4667
+3	загорелась	загореться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4668|end_char=4678
+4	подсветка	подсветка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=4679|end_char=4688
+5	в	в	ADP	_	_	7	case	_	start_char=4689|end_char=4690
+6	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	fixed	_	start_char=4691|end_char=4695
+7	стрелок	стрелок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=4696|end_char=4703
+8	.	.	PUNCT	_	_	3	punct	_	start_char=4703|end_char=4704
+
+# text = – Да! – согласился Доктор.
+# sent_id = 70
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4705|end_char=4706
+2	Да	да	PART	_	_	0	root	_	start_char=4707|end_char=4709
+3	!	!	PUNCT	_	_	2	punct	_	start_char=4709|end_char=4710
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4711|end_char=4712
+5	согласился	согласиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=4713|end_char=4723
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4724|end_char=4730
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4730|end_char=4731
+
+# text = – Я иду!
+# sent_id = 71
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4732|end_char=4733
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4734|end_char=4735
+3	иду	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4736|end_char=4739
+4	!	!	PUNCT	_	_	3	punct	_	start_char=4739|end_char=4740
+
+# text = Ему в руки лёг упавший откуда-то листочек.
+# sent_id = 72
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=4741|end_char=4744
+2	в	в	ADP	_	_	3	case	_	start_char=4745|end_char=4746
+3	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obl	_	start_char=4747|end_char=4751
+4	лёг	лечь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4752|end_char=4755
+5	упавший	упасть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	start_char=4756|end_char=4763
+6	откуда-то	откуда-то	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=4764|end_char=4773
+7	листочек	листочек	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4774|end_char=4782
+8	.	.	PUNCT	_	_	4	punct	_	start_char=4782|end_char=4783
+
+# text = "Доктор, опираясь подбородком на зонт, пристально смотрел из-под кустистых бровей.
+# sent_id = 73
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	"	"	PUNCT	_	_	10	punct	_	start_char=4784|end_char=4785
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=4785|end_char=4791
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4791|end_char=4792
+4	опираясь	опираться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	10	advcl	_	start_char=4793|end_char=4801
+5	подбородком	подбородок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	iobj	_	start_char=4802|end_char=4813
+6	на	на	ADP	_	_	7	case	_	start_char=4814|end_char=4816
+7	зонт	зонт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=4817|end_char=4821
+8	,	,	PUNCT	_	_	4	punct	_	start_char=4821|end_char=4822
+9	пристально	пристально	ADV	_	Degree=Pos	10	advmod	_	start_char=4823|end_char=4833
+10	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4834|end_char=4841
+11	из-под	из-под	ADP	_	_	13	case	_	start_char=4842|end_char=4848
+12	кустистых	кустистый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	start_char=4849|end_char=4858
+13	бровей	бровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	obl	_	start_char=4859|end_char=4865
+14	.	.	PUNCT	_	_	10	punct	_	start_char=4865|end_char=4866
+
+# text = – Эйс, я просил тебя дать мне Нитро-девять.
+# sent_id = 74
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4867|end_char=4868
+2	Эйс	Эйс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	vocative	_	start_char=4869|end_char=4872
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4872|end_char=4873
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4874|end_char=4875
+5	просил	просить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4876|end_char=4882
+6	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	start_char=4883|end_char=4887
+7	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=4888|end_char=4892
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=4893|end_char=4896
+9	Нитро-девять	нитро-девять	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=4897|end_char=4909
+10	.	.	PUNCT	_	_	5	punct	_	start_char=4909|end_char=4910
+
+# text = – Но Доктор, ты же сам говорил, и в Академии в нас вдалбливали, что нельзя вмешиваться во время!
+# sent_id = 75
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	8	punct	_	start_char=4911|end_char=4912
+2	Но	но	CCONJ	_	_	8	cc	_	start_char=4913|end_char=4915
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4916|end_char=4922
+4	,	,	PUNCT	_	_	3	punct	_	start_char=4922|end_char=4923
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=4924|end_char=4926
+6	же	же	PART	_	_	5	advmod	_	start_char=4927|end_char=4929
+7	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	5	acl	_	start_char=4930|end_char=4933
+8	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4934|end_char=4941
+9	,	,	PUNCT	_	_	15	punct	_	start_char=4941|end_char=4942
+10	и	и	CCONJ	_	_	15	cc	_	start_char=4943|end_char=4944
+11	в	в	ADP	_	_	12	case	_	start_char=4945|end_char=4946
+12	Академии	академия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	start_char=4947|end_char=4955
+13	в	в	ADP	_	_	14	case	_	start_char=4956|end_char=4957
+14	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	15	obl	_	start_char=4958|end_char=4961
+15	вдалбливали	вдалбливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=4962|end_char=4973
+16	,	,	PUNCT	_	_	18	punct	_	start_char=4973|end_char=4974
+17	что	что	SCONJ	_	_	18	mark	_	start_char=4975|end_char=4978
+18	нельзя	нельзя	VERB	_	_	15	ccomp	_	start_char=4979|end_char=4985
+19	вмешиваться	вмешиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	18	csubj	_	start_char=4986|end_char=4997
+20	во	во	ADP	_	_	21	case	_	start_char=4998|end_char=5000
+21	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obl	_	start_char=5001|end_char=5006
+22	!	!	PUNCT	_	_	8	punct	_	start_char=5006|end_char=5007
+
+# text = Если мы сейчас и здесь вернём короля Артура, вся история Англии пойдёт по-другому!
+# sent_id = 76
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Если	если	SCONJ	_	_	6	mark	_	start_char=5008|end_char=5012
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=5013|end_char=5015
+3	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=5016|end_char=5022
+4	и	и	PART	_	_	5	advmod	_	start_char=5023|end_char=5024
+5	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=5025|end_char=5030
+6	вернём	вернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=5031|end_char=5037
+7	короля	король	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=5038|end_char=5044
+8	Артура	Артура	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=5045|end_char=5051
+9	,	,	PUNCT	_	_	6	punct	_	start_char=5051|end_char=5052
+10	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	11	det	_	start_char=5053|end_char=5056
+11	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=5057|end_char=5064
+12	Англии	Англия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	11	nmod	_	start_char=5065|end_char=5071
+13	пойдёт	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=5072|end_char=5078
+14	по-другому	по-другому	ADV	_	Degree=Pos	13	advmod	_	start_char=5079|end_char=5089
+15	!	!	PUNCT	_	_	13	punct	_	start_char=5089|end_char=5090
+
+# text = – Эйс, я тут таймлорд, и я лучше понимаю, что делать.
+# sent_id = 77
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=5091|end_char=5092
+2	Эйс	Эйс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	vocative	_	start_char=5093|end_char=5096
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5096|end_char=5097
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=5098|end_char=5099
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=5100|end_char=5103
+6	таймлорд	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=5104|end_char=5112
+7	,	,	PUNCT	_	_	11	punct	_	start_char=5112|end_char=5113
+8	и	и	CCONJ	_	_	11	cc	_	start_char=5114|end_char=5115
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=5116|end_char=5117
+10	лучше	хорошо	ADV	_	Degree=Cmp	11	advmod	_	start_char=5118|end_char=5123
+11	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=5124|end_char=5131
+12	,	,	PUNCT	_	_	14	punct	_	start_char=5131|end_char=5132
+13	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	14	obj	_	start_char=5133|end_char=5136
+14	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	ccomp	_	start_char=5137|end_char=5143
+15	.	.	PUNCT	_	_	6	punct	_	start_char=5143|end_char=5144
+
+# text = – Нет, Доктор, я...
+# sent_id = 78
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5145|end_char=5146
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=5147|end_char=5150
+3	,	,	PUNCT	_	_	4	punct	_	start_char=5150|end_char=5151
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=5152|end_char=5158
+5	,	,	PUNCT	_	_	4	punct	_	start_char=5158|end_char=5159
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	start_char=5160|end_char=5161
+7	...	...	PUNCT	_	_	2	punct	_	start_char=5161|end_char=5164
+
+# text = – Сдавайся, Доктор, или твоя спутница умрёт!
+# sent_id = 79
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5165|end_char=5166
+2	Сдавайся	сдаваться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5167|end_char=5175
+3	,	,	PUNCT	_	_	4	punct	_	start_char=5175|end_char=5176
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=5177|end_char=5183
+5	,	,	PUNCT	_	_	9	punct	_	start_char=5183|end_char=5184
+6	или	или	CCONJ	_	_	9	cc	_	start_char=5185|end_char=5188
+7	твоя	твой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=5189|end_char=5193
+8	спутница	спутница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	start_char=5194|end_char=5202
+9	умрёт	умереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5203|end_char=5208
+10	!	!	PUNCT	_	_	2	punct	_	start_char=5208|end_char=5209
+
+# text = – внезапно ворвались рыцари Морганы.
+# sent_id = 80
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5210|end_char=5211
+2	внезапно	внезапно	ADV	_	Degree=Pos	3	advmod	_	start_char=5212|end_char=5220
+3	ворвались	ворваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5221|end_char=5230
+4	рыцари	рыцарь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=5231|end_char=5237
+5	Морганы	Морган	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Plur	4	appos	_	start_char=5238|end_char=5245
+6	.	.	PUNCT	_	_	3	punct	_	start_char=5245|end_char=5246
+
+# text = – Пусть умирает.
+# sent_id = 81
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5247|end_char=5248
+2	Пусть	пусть	PART	_	_	3	advmod	_	start_char=5249|end_char=5254
+3	умирает	умирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5255|end_char=5262
+4	.	.	PUNCT	_	_	3	punct	_	start_char=5262|end_char=5263
+
+# text = Совершенно бесполезная девчонка, – равнодушно отозвался Доктор, отступая к потайному ходу".
+# sent_id = 82
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Совершенно	совершенно	ADV	_	Degree=Pos	2	advmod	_	start_char=5264|end_char=5274
+2	бесполезная	бесполезный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=5275|end_char=5286
+3	девчонка	девчонка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=5287|end_char=5295
+4	,	,	PUNCT	_	_	7	punct	_	start_char=5295|end_char=5296
+5	–	–	PUNCT	_	_	7	punct	_	start_char=5297|end_char=5298
+6	равнодушно	равнодушно	ADV	_	Degree=Pos	7	advmod	_	start_char=5299|end_char=5309
+7	отозвался	отозваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=5310|end_char=5319
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=5320|end_char=5326
+9	,	,	PUNCT	_	_	10	punct	_	start_char=5326|end_char=5327
+10	отступая	отступать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=5328|end_char=5336
+11	к	к	ADP	_	_	13	case	_	start_char=5337|end_char=5338
+12	потайному	потайный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=5339|end_char=5348
+13	ходу	ход	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	obl	_	start_char=5349|end_char=5353
+14	"	"	PUNCT	_	_	7	punct	_	start_char=5353|end_char=5354
+15	.	.	PUNCT	_	_	3	punct	_	start_char=5354|end_char=5355
+
+# text = Доктор споткнулся на ходу, на миг замер, покрутил листочек в руках и осторожно положил его на пол.
+# sent_id = 83
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=5356|end_char=5362
+2	споткнулся	споткнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5363|end_char=5373
+3	на	на	ADP	_	_	4	case	_	start_char=5374|end_char=5376
+4	ходу	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=5377|end_char=5381
+5	,	,	PUNCT	_	_	8	punct	_	start_char=5381|end_char=5382
+6	на	на	ADP	_	_	7	case	_	start_char=5383|end_char=5385
+7	миг	миг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=5386|end_char=5389
+8	замер	замереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5390|end_char=5395
+9	,	,	PUNCT	_	_	10	punct	_	start_char=5395|end_char=5396
+10	покрутил	покрутить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5397|end_char=5405
+11	листочек	листочек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=5406|end_char=5414
+12	в	в	ADP	_	_	13	case	_	start_char=5415|end_char=5416
+13	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	obl	_	start_char=5417|end_char=5422
+14	и	и	CCONJ	_	_	16	cc	_	start_char=5423|end_char=5424
+15	осторожно	осторожно	ADV	_	Degree=Pos	16	advmod	_	start_char=5425|end_char=5434
+16	положил	положить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5435|end_char=5442
+17	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=5443|end_char=5446
+18	на	на	ADP	_	_	19	case	_	start_char=5447|end_char=5449
+19	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	start_char=5450|end_char=5453
+20	.	.	PUNCT	_	_	2	punct	_	start_char=5453|end_char=5454
+
+# text = Мигающую стрелку из-под листка почти не было заметно.
+# sent_id = 84
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Мигающую	мигающий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=5455|end_char=5463
+2	стрелку	стрелка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=5464|end_char=5471
+3	из-под	из-под	ADP	_	_	4	case	_	start_char=5472|end_char=5478
+4	листка	листка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=5479|end_char=5485
+5	почти	почти	ADV	_	Degree=Pos	6	advmod	_	start_char=5486|end_char=5491
+6	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=5492|end_char=5494
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=5495|end_char=5499
+8	заметно	заметный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5500|end_char=5507
+9	.	.	PUNCT	_	_	8	punct	_	start_char=5507|end_char=5508
+
+# text = – Ну что же ты медлишь, Доктор? – поторопил его Мастер.
+# sent_id = 85
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=5509|end_char=5510
+2	Ну	ну	PART	_	_	6	discourse	_	start_char=5511|end_char=5513
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	start_char=5514|end_char=5517
+4	же	же	PART	_	_	3	advmod	_	start_char=5518|end_char=5520
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=5521|end_char=5523
+6	медлишь	медлить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5524|end_char=5531
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5531|end_char=5532
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	start_char=5533|end_char=5539
+9	?	?	PUNCT	_	_	8	punct	_	start_char=5539|end_char=5540
+10	–	–	PUNCT	_	_	11	punct	_	start_char=5541|end_char=5542
+11	поторопил	поторопить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=5543|end_char=5552
+12	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=5553|end_char=5556
+13	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=5557|end_char=5563
+14	.	.	PUNCT	_	_	6	punct	_	start_char=5563|end_char=5564
+
+# text = – Зачем куда-то спешить или вообще идти там, где всё управляется мысленно?
+# sent_id = 86
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5565|end_char=5566
+2	Зачем	зачем	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=5567|end_char=5572
+3	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=5573|end_char=5580
+4	спешить	спешить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=5581|end_char=5588
+5	или	или	CCONJ	_	_	7	cc	_	start_char=5589|end_char=5592
+6	вообще	вообще	ADV	_	Degree=Pos	7	advmod	_	start_char=5593|end_char=5599
+7	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=5600|end_char=5604
+8	там	там	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=5605|end_char=5608
+9	,	,	PUNCT	_	_	12	punct	_	start_char=5608|end_char=5609
+10	где	где	ADV	_	Degree=Pos|PronType=Rel	12	advmod	_	start_char=5610|end_char=5613
+11	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	12	nsubj	_	start_char=5614|end_char=5617
+12	управляется	управляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	acl:relcl	_	start_char=5618|end_char=5629
+13	мысленно	мысленно	ADV	_	Degree=Pos	12	advmod	_	start_char=5630|end_char=5638
+14	?	?	PUNCT	_	_	4	punct	_	start_char=5638|end_char=5639
+
+# text = Ты умён, Мастер, тебе удалось использовать против меня силу моей ТАРДИС.
+# sent_id = 87
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=5640|end_char=5642
+2	умён	умендый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=5643|end_char=5647
+3	,	,	PUNCT	_	_	4	punct	_	start_char=5647|end_char=5648
+4	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=5649|end_char=5655
+5	,	,	PUNCT	_	_	4	punct	_	start_char=5655|end_char=5656
+6	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	iobj	_	start_char=5657|end_char=5661
+7	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=5662|end_char=5669
+8	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=5670|end_char=5682
+9	против	против	ADP	_	_	10	case	_	start_char=5683|end_char=5689
+10	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	obl	_	start_char=5690|end_char=5694
+11	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=5695|end_char=5699
+12	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	start_char=5700|end_char=5704
+13	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Com|Number=Sing	11	nmod	_	start_char=5705|end_char=5711
+14	.	.	PUNCT	_	_	2	punct	_	start_char=5711|end_char=5712
+
+# text = – Доктор вернулся обратно к своей машине времени и закрыл за собой дверь.
+# sent_id = 88
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5713|end_char=5714
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=5715|end_char=5721
+3	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5722|end_char=5730
+4	обратно	обратно	ADV	_	Degree=Pos	3	advmod	_	start_char=5731|end_char=5738
+5	к	к	ADP	_	_	7	case	_	start_char=5739|end_char=5740
+6	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=5741|end_char=5746
+7	машине	машина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	obl	_	start_char=5747|end_char=5753
+8	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=5754|end_char=5761
+9	и	и	CCONJ	_	_	10	cc	_	start_char=5762|end_char=5763
+10	закрыл	закрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5764|end_char=5770
+11	за	за	ADP	_	_	12	case	_	start_char=5771|end_char=5773
+12	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	10	obl	_	start_char=5774|end_char=5779
+13	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=5780|end_char=5785
+14	.	.	PUNCT	_	_	3	punct	_	start_char=5785|end_char=5786
+
+# text = – Ты смог как-то выжить даже в Оке Гармонии.
+# sent_id = 89
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5787|end_char=5788
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=5789|end_char=5791
+3	смог	смочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5792|end_char=5796
+4	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=5797|end_char=5803
+5	выжить	выжить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=5804|end_char=5810
+6	даже	даже	PART	_	_	8	advmod	_	start_char=5811|end_char=5815
+7	в	в	ADP	_	_	8	case	_	start_char=5816|end_char=5817
+8	Оке	Ока	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	5	obl	_	start_char=5818|end_char=5821
+9	Гармонии	гармония	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	start_char=5822|end_char=5830
+10	.	.	PUNCT	_	_	3	punct	_	start_char=5830|end_char=5831
+
+# text = Впрочем, даже в чёрной дыре информация не пропадает, а ты не раз уже становился едва ли большим, чем информация, ты умеешь это делать.
+# sent_id = 90
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Впрочем	впрочем	ADV	_	Degree=Pos	9	parataxis	_	start_char=5832|end_char=5839
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5839|end_char=5840
+3	даже	даже	PART	_	_	6	advmod	_	start_char=5841|end_char=5845
+4	в	в	ADP	_	_	6	case	_	start_char=5846|end_char=5847
+5	чёрной	черный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=5848|end_char=5854
+6	дыре	дыра	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	start_char=5855|end_char=5859
+7	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=5860|end_char=5870
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=5871|end_char=5873
+9	пропадает	падать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5874|end_char=5883
+10	,	,	PUNCT	_	_	16	punct	_	start_char=5883|end_char=5884
+11	а	а	CCONJ	_	_	16	cc	_	start_char=5885|end_char=5886
+12	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	start_char=5887|end_char=5889
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=5890|end_char=5892
+14	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	start_char=5893|end_char=5896
+15	уже	уже	ADV	_	Degree=Pos	16	advmod	_	start_char=5897|end_char=5900
+16	становился	становиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=5901|end_char=5911
+17	едва	едва	ADV	_	Degree=Pos	19	advmod	_	start_char=5912|end_char=5916
+18	ли	ли	PART	_	_	17	advmod	_	start_char=5917|end_char=5919
+19	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	xcomp	_	start_char=5920|end_char=5927
+20	,	,	PUNCT	_	_	22	punct	_	start_char=5927|end_char=5928
+21	чем	чем	SCONJ	_	_	22	case	_	start_char=5929|end_char=5932
+22	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	obl	_	start_char=5933|end_char=5943
+23	,	,	PUNCT	_	_	25	punct	_	start_char=5943|end_char=5944
+24	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	nsubj	_	start_char=5945|end_char=5947
+25	умеешь	уметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=5948|end_char=5954
+26	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	27	obj	_	start_char=5955|end_char=5958
+27	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=5959|end_char=5965
+28	.	.	PUNCT	_	_	9	punct	_	start_char=5965|end_char=5966
+
+# text = Ты добился отклика от телепатического интерфейса, настроил его на то, чтобы показать мне иллюзию...
+# sent_id = 91
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=5967|end_char=5969
+2	добился	добиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5970|end_char=5977
+3	отклика	отклика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obj	_	start_char=5978|end_char=5985
+4	от	от	ADP	_	_	6	case	_	start_char=5986|end_char=5988
+5	телепатического	телепатический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=5989|end_char=6004
+6	интерфейса	интерфейса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=6005|end_char=6015
+7	,	,	PUNCT	_	_	8	punct	_	start_char=6015|end_char=6016
+8	настроил	настроить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6017|end_char=6025
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=6026|end_char=6029
+10	на	на	ADP	_	_	11	case	_	start_char=6030|end_char=6032
+11	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	start_char=6033|end_char=6035
+12	,	,	PUNCT	_	_	14	punct	_	start_char=6035|end_char=6036
+13	чтобы	чтобы	SCONJ	_	Mood=Cnd	14	mark	_	start_char=6037|end_char=6042
+14	показать	показать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	acl	_	start_char=6043|end_char=6051
+15	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	14	iobj	_	start_char=6052|end_char=6055
+16	иллюзию	иллюзия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=6056|end_char=6063
+17	...	...	PUNCT	_	_	2	punct	_	start_char=6063|end_char=6066
+
+# text = – Все тексты – не иллюзия, они настоящие!
+# sent_id = 92
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	6	punct	_	start_char=6067|end_char=6068
+2	Все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	_	start_char=6069|end_char=6072
+3	тексты	текст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=6073|end_char=6079
+4	–	–	PUNCT	_	_	6	punct	_	start_char=6080|end_char=6081
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=6082|end_char=6084
+6	иллюзия	иллюзия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=6085|end_char=6092
+7	,	,	PUNCT	_	_	9	punct	_	start_char=6092|end_char=6093
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=6094|end_char=6097
+9	настоящие	настоящий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	start_char=6098|end_char=6107
+10	!	!	PUNCT	_	_	6	punct	_	start_char=6107|end_char=6108
+
+# text = Их пишут, так думают!
+# sent_id = 93
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=6109|end_char=6111
+2	пишут	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6112|end_char=6117
+3	,	,	PUNCT	_	_	5	punct	_	start_char=6117|end_char=6118
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=6119|end_char=6122
+5	думают	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6123|end_char=6129
+6	!	!	PUNCT	_	_	2	punct	_	start_char=6129|end_char=6130
+
+# text = – Возможно.
+# sent_id = 94
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6131|end_char=6132
+2	Возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6133|end_char=6141
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6141|end_char=6142
+
+# text = Но ты знаешь, что там – не я, не обо мне.
+# sent_id = 95
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=6143|end_char=6145
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=6146|end_char=6148
+3	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6149|end_char=6155
+4	,	,	PUNCT	_	_	9	punct	_	start_char=6155|end_char=6156
+5	что	что	SCONJ	_	_	9	mark	_	start_char=6157|end_char=6160
+6	там	там	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=6161|end_char=6164
+7	–	–	PUNCT	_	_	9	punct	_	start_char=6165|end_char=6166
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=6167|end_char=6169
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	ccomp	_	start_char=6170|end_char=6171
+10	,	,	PUNCT	_	_	13	punct	_	start_char=6171|end_char=6172
+11	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=6173|end_char=6175
+12	обо	обо	ADP	_	_	13	case	_	start_char=6176|end_char=6179
+13	мне	я	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	9	conj	_	start_char=6180|end_char=6183
+14	.	.	PUNCT	_	_	3	punct	_	start_char=6183|end_char=6184
+
+# text = Это проекции понятных авторам чувств и эмоций на кого-то понравившегося им.
+# sent_id = 96
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=6185|end_char=6188
+2	проекции	проекция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=6189|end_char=6197
+3	понятных	понятный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=6198|end_char=6206
+4	авторам	автор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	start_char=6207|end_char=6214
+5	чувств	чувство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	start_char=6215|end_char=6221
+6	и	и	CCONJ	_	_	7	cc	_	start_char=6222|end_char=6223
+7	эмоций	эмоция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	conj	_	start_char=6224|end_char=6230
+8	на	на	ADP	_	_	9	case	_	start_char=6231|end_char=6233
+9	кого-то	кто-то	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	7	nmod	_	start_char=6234|end_char=6241
+10	понравившегося	понравиться	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	start_char=6242|end_char=6256
+11	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	iobj	_	start_char=6257|end_char=6259
+12	.	.	PUNCT	_	_	2	punct	_	start_char=6259|end_char=6260
+
+# text = Всегда хочется соединить всё, что нравится, но не всегда плюс на плюс даёт плюс.
+# sent_id = 97
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	2	advmod	_	start_char=6261|end_char=6267
+2	хочется	хотеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6268|end_char=6275
+3	соединить	соединить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=6276|end_char=6285
+4	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	3	obj	_	start_char=6286|end_char=6289
+5	,	,	PUNCT	_	_	7	punct	_	start_char=6289|end_char=6290
+6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	start_char=6291|end_char=6294
+7	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	start_char=6295|end_char=6303
+8	,	,	PUNCT	_	_	15	punct	_	start_char=6303|end_char=6304
+9	но	но	CCONJ	_	_	15	cc	_	start_char=6305|end_char=6307
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=6308|end_char=6310
+11	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	15	advmod	_	start_char=6311|end_char=6317
+12	плюс	плюс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=6318|end_char=6322
+13	на	на	ADP	_	_	14	case	_	start_char=6323|end_char=6325
+14	плюс	плюс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=6326|end_char=6330
+15	даёт	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6331|end_char=6335
+16	плюс	плюс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	start_char=6336|end_char=6340
+17	.	.	PUNCT	_	_	2	punct	_	start_char=6340|end_char=6341
+
+# text = И только с помощью телепатического передатчика эти рассказы стали достаточно влиять на людей, чтобы уже их массовое сознание начинало менять реальность.
+# sent_id = 98
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	И	и	CCONJ	_	_	9	cc	_	start_char=6342|end_char=6343
+2	только	только	PART	_	_	6	advmod	_	start_char=6344|end_char=6350
+3	с	с	ADP	_	_	6	case	_	start_char=6351|end_char=6352
+4	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	fixed	_	start_char=6353|end_char=6360
+5	телепатического	телепатический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=6361|end_char=6376
+6	передатчика	передатчик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=6377|end_char=6388
+7	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	8	det	_	start_char=6389|end_char=6392
+8	рассказы	рассказа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	start_char=6393|end_char=6401
+9	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6402|end_char=6407
+10	достаточно	достаточно	ADV	_	Degree=Pos	11	advmod	_	start_char=6408|end_char=6418
+11	влиять	влиять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=6419|end_char=6425
+12	на	на	ADP	_	_	13	case	_	start_char=6426|end_char=6428
+13	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	start_char=6429|end_char=6434
+14	,	,	PUNCT	_	_	20	punct	_	start_char=6434|end_char=6435
+15	чтобы	чтобы	SCONJ	_	Mood=Cnd	20	mark	_	start_char=6436|end_char=6441
+16	уже	уже	ADV	_	Degree=Pos	17	advmod	_	start_char=6442|end_char=6445
+17	их	их	DET	_	Poss=Yes|PronType=Prs	19	det	_	start_char=6446|end_char=6448
+18	массовое	массовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=6449|end_char=6457
+19	сознание	сознание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	start_char=6458|end_char=6466
+20	начинало	начинать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=6467|end_char=6475
+21	менять	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	xcomp	_	start_char=6476|end_char=6482
+22	реальность	реальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	start_char=6483|end_char=6493
+23	.	.	PUNCT	_	_	9	punct	_	start_char=6493|end_char=6494
+
+# text = И ты хотел запереть меня в этой реальности, чтобы я вечно копался в этой... этих...
+# sent_id = 99
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	И	и	CCONJ	_	_	3	cc	_	start_char=6495|end_char=6496
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=6497|end_char=6499
+3	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6500|end_char=6505
+4	запереть	запереть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=6506|end_char=6514
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=6515|end_char=6519
+6	в	в	ADP	_	_	8	case	_	start_char=6520|end_char=6521
+7	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=6522|end_char=6526
+8	реальности	реальность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=6527|end_char=6537
+9	,	,	PUNCT	_	_	13	punct	_	start_char=6537|end_char=6538
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	13	mark	_	start_char=6539|end_char=6544
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=6545|end_char=6546
+12	вечно	вечно	ADV	_	Degree=Pos	13	advmod	_	start_char=6547|end_char=6552
+13	копался	копаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	advcl	_	start_char=6553|end_char=6560
+14	в	в	ADP	_	_	15	case	_	start_char=6561|end_char=6562
+15	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	13	obl	_	start_char=6563|end_char=6567
+16	...	...	PUNCT	_	_	15	punct	_	start_char=6567|end_char=6570
+17	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	15	det	_	start_char=6571|end_char=6575
+18	...	...	PUNCT	_	_	3	punct	_	start_char=6575|end_char=6578
+
+# text = Извини, Мастер, но у тебя ничего не получилось.
+# sent_id = 100
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Извини	извинить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=6579|end_char=6585
+2	,	,	PUNCT	_	_	3	punct	_	start_char=6585|end_char=6586
+3	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	start_char=6587|end_char=6593
+4	,	,	PUNCT	_	_	10	punct	_	start_char=6593|end_char=6594
+5	но	но	CCONJ	_	_	10	cc	_	start_char=6595|end_char=6597
+6	у	у	ADP	_	_	7	case	_	start_char=6598|end_char=6599
+7	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	obl	_	start_char=6600|end_char=6604
+8	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	10	nsubj	_	start_char=6605|end_char=6611
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=6612|end_char=6614
+10	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=6615|end_char=6625
+11	.	.	PUNCT	_	_	1	punct	_	start_char=6625|end_char=6626
+
+# text = Доктор решительно стукнул извлечённой из ящика с инструментами кувалдой по консоли под красное дерево с медными рычажками, отключая телепатический интерфейс.
+# sent_id = 101
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=6627|end_char=6633
+2	решительно	решительно	ADV	_	Degree=Pos	3	advmod	_	start_char=6634|end_char=6644
+3	стукнул	стукнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6645|end_char=6652
+4	извлечённой	извлетить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	start_char=6653|end_char=6664
+5	из	из	ADP	_	_	6	case	_	start_char=6665|end_char=6667
+6	ящика	ящика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=6668|end_char=6673
+7	с	с	ADP	_	_	8	case	_	start_char=6674|end_char=6675
+8	инструментами	инструмент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	start_char=6676|end_char=6689
+9	кувалдой	кувалда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	iobj	_	start_char=6690|end_char=6698
+10	по	по	ADP	_	_	11	case	_	start_char=6699|end_char=6701
+11	консоли	консоль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	start_char=6702|end_char=6709
+12	под	под	ADP	_	_	14	case	_	start_char=6710|end_char=6713
+13	красное	красный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=6714|end_char=6721
+14	дерево	дерево	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	nmod	_	start_char=6722|end_char=6728
+15	с	с	ADP	_	_	17	case	_	start_char=6729|end_char=6730
+16	медными	медный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	start_char=6731|end_char=6738
+17	рычажками	рычажка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	14	nmod	_	start_char=6739|end_char=6748
+18	,	,	PUNCT	_	_	19	punct	_	start_char=6748|end_char=6749
+19	отключая	отключать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=6750|end_char=6758
+20	телепатический	телепатический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	start_char=6759|end_char=6773
+21	интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	start_char=6774|end_char=6783
+22	.	.	PUNCT	_	_	3	punct	_	start_char=6783|end_char=6784
+
+# text = Когда-нибудь он непременно включит его снова, но до того времени надо завернуть на Галлифрей и сбросить в Матрицу сознание его "заклятого друга".
+# sent_id = 102
+# metadata = Название: Архив, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/55230a2400000a7dc55b8d6/1/Arhiv
+1	Когда-нибудь	когда-нибудь	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=6785|end_char=6797
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=6798|end_char=6800
+3	непременно	непременно	ADV	_	Degree=Pos	4	advmod	_	start_char=6801|end_char=6811
+4	включит	включить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6812|end_char=6819
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=6820|end_char=6823
+6	снова	снова	ADV	_	Degree=Pos	4	advmod	_	start_char=6824|end_char=6829
+7	,	,	PUNCT	_	_	12	punct	_	start_char=6829|end_char=6830
+8	но	но	CCONJ	_	_	12	cc	_	start_char=6831|end_char=6833
+9	до	до	ADP	_	_	11	case	_	start_char=6834|end_char=6836
+10	того	тот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	start_char=6837|end_char=6841
+11	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	start_char=6842|end_char=6849
+12	надо	надо	VERB	_	_	4	conj	_	start_char=6850|end_char=6854
+13	завернуть	завернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	csubj	_	start_char=6855|end_char=6864
+14	на	на	ADP	_	_	15	case	_	start_char=6865|end_char=6867
+15	Галлифрей	Галлифрей	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	13	obl	_	start_char=6868|end_char=6877
+16	и	и	CCONJ	_	_	17	cc	_	start_char=6878|end_char=6879
+17	сбросить	сбросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	conj	_	start_char=6880|end_char=6888
+18	в	в	ADP	_	_	19	case	_	start_char=6889|end_char=6890
+19	Матрицу	Матрица	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	17	obl	_	start_char=6891|end_char=6898
+20	сознание	сознание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	start_char=6899|end_char=6907
+21	его	его	DET	_	Poss=Yes|PronType=Prs	24	det	_	start_char=6908|end_char=6911
+22	"	"	PUNCT	_	_	24	punct	_	start_char=6912|end_char=6913
+23	заклятого	заклятый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=6913|end_char=6922
+24	друга	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	start_char=6923|end_char=6928
+25	"	"	PUNCT	_	_	24	punct	_	start_char=6928|end_char=6929
+26	.	.	PUNCT	_	_	4	punct	_	start_char=6929|end_char=6930
+

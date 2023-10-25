@@ -1,0 +1,892 @@
+# text = Цикл замкнулся.
+# sent_id = 0
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Цикл	цикл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=0|end_char=4
+2	замкнулся	замкнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5|end_char=14
+3	.	.	PUNCT	_	_	2	punct	_	start_char=14|end_char=15
+
+# text = Лорд-президент яростно стукнул по столу кулаком: – Я не умру!
+# sent_id = 1
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Лорд	Лорд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=16|end_char=20
+2	-	-	PUNCT	_	_	3	punct	_	start_char=20|end_char=21
+3	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	start_char=21|end_char=30
+4	яростно	яростно	ADV	_	Degree=Pos	5	advmod	_	start_char=31|end_char=38
+5	стукнул	стукнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=39|end_char=46
+6	по	по	ADP	_	_	7	case	_	start_char=47|end_char=49
+7	столу	стол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	obl	_	start_char=50|end_char=55
+8	кулаком	кулак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	iobj	_	start_char=56|end_char=63
+9	:	:	PUNCT	_	_	13	punct	_	start_char=63|end_char=64
+10	–	–	PUNCT	_	_	13	punct	_	start_char=65|end_char=66
+11	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=67|end_char=68
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=69|end_char=71
+13	умру	умереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=72|end_char=76
+14	!	!	PUNCT	_	_	5	punct	_	start_char=76|end_char=77
+
+# text = – взревел он.
+# sent_id = 2
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=78|end_char=79
+2	взревел	взревести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=80|end_char=87
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=88|end_char=90
+4	.	.	PUNCT	_	_	2	punct	_	start_char=90|end_char=91
+
+# text = – Никогда… никогда не умру, никогда не умру…
+# sent_id = 3
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	10	punct	_	start_char=92|end_char=93
+2	Никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	10	advmod	_	start_char=94|end_char=101
+3	…	…	PUNCT	_	_	6	punct	_	start_char=101|end_char=102
+4	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	6	advmod	_	start_char=103|end_char=110
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=111|end_char=113
+6	умру	умереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=114|end_char=118
+7	,	,	PUNCT	_	_	6	punct	_	start_char=118|end_char=119
+8	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	10	advmod	_	start_char=120|end_char=127
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=128|end_char=130
+10	умру	умереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=131|end_char=135
+11	…	…	PUNCT	_	_	10	punct	_	start_char=135|end_char=136
+
+# text = – Он чувствовал, что его закоротило, но не мог остановиться.
+# sent_id = 4
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=137|end_char=138
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=139|end_char=141
+3	чувствовал	чувствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=142|end_char=152
+4	,	,	PUNCT	_	_	7	punct	_	start_char=152|end_char=153
+5	что	что	SCONJ	_	_	7	mark	_	start_char=154|end_char=157
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=158|end_char=161
+7	закоротило	закоротить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=162|end_char=172
+8	,	,	PUNCT	_	_	11	punct	_	start_char=172|end_char=173
+9	но	но	CCONJ	_	_	11	cc	_	start_char=174|end_char=176
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=177|end_char=179
+11	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=180|end_char=183
+12	остановиться	остановиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	start_char=184|end_char=196
+13	.	.	PUNCT	_	_	3	punct	_	start_char=196|end_char=197
+
+# text = Члены Совета смущенно прятали глаза и деликатно откашливались.
+# sent_id = 5
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=198|end_char=203
+2	Совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	start_char=204|end_char=210
+3	смущенно	смущенно	ADV	_	Degree=Pos	4	advmod	_	start_char=211|end_char=219
+4	прятали	прятать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=220|end_char=227
+5	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=228|end_char=233
+6	и	и	CCONJ	_	_	8	cc	_	start_char=234|end_char=235
+7	деликатно	деликатно	ADV	_	Degree=Pos	8	advmod	_	start_char=236|end_char=245
+8	откашливались	откашливаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=246|end_char=259
+9	.	.	PUNCT	_	_	4	punct	_	start_char=259|end_char=260
+
+# text = – Оппортунисты! – выплюнул Рассилон.
+# sent_id = 6
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=261|end_char=262
+2	Оппортунисты	оппортунист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=263|end_char=275
+3	!	!	PUNCT	_	_	2	punct	_	start_char=275|end_char=276
+4	–	–	PUNCT	_	_	5	punct	_	start_char=277|end_char=278
+5	выплюнул	выплюнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=279|end_char=287
+6	Рассилон	Рассилон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=288|end_char=296
+7	.	.	PUNCT	_	_	2	punct	_	start_char=296|end_char=297
+
+# text = – Самодовольное лицемерное сообщество жирных предателей!
+# sent_id = 7
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=298|end_char=299
+2	Самодовольное	самодовольный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=300|end_char=313
+3	лицемерное	лицемерный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=314|end_char=324
+4	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=325|end_char=335
+5	жирных	жирный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=336|end_char=342
+6	предателей	предатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	start_char=343|end_char=353
+7	!	!	PUNCT	_	_	4	punct	_	start_char=353|end_char=354
+
+# text = – он сел на место, вытащил из-под стола респиратор и нацепил себе на нос.
+# sent_id = 8
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=355|end_char=356
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=357|end_char=359
+3	сел	сесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=360|end_char=363
+4	на	на	ADP	_	_	5	case	_	start_char=364|end_char=366
+5	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	start_char=367|end_char=372
+6	,	,	PUNCT	_	_	7	punct	_	start_char=372|end_char=373
+7	вытащил	вытащить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=374|end_char=381
+8	из-под	из-под	ADP	_	_	9	case	_	start_char=382|end_char=388
+9	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=389|end_char=394
+10	респиратор	респиратор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=395|end_char=405
+11	и	и	CCONJ	_	_	12	cc	_	start_char=406|end_char=407
+12	нацепил	нацепить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=408|end_char=415
+13	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	12	iobj	_	start_char=416|end_char=420
+14	на	на	ADP	_	_	15	case	_	start_char=421|end_char=423
+15	нос	нос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	start_char=424|end_char=427
+16	.	.	PUNCT	_	_	3	punct	_	start_char=427|end_char=428
+
+# text = – Что это? – зачарованно спросили сразу несколько членов Совета.
+# sent_id = 9
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=429|end_char=430
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=431|end_char=434
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=435|end_char=438
+4	?	?	PUNCT	_	_	2	punct	_	start_char=438|end_char=439
+5	–	–	PUNCT	_	_	7	punct	_	start_char=440|end_char=441
+6	зачарованно	зачарованно	ADV	_	Degree=Pos	7	advmod	_	start_char=442|end_char=453
+7	спросили	спросить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=454|end_char=462
+8	сразу	сразу	ADV	_	Degree=Pos	9	advmod	_	start_char=463|end_char=468
+9	несколько	несколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	10	nummod:gov	_	start_char=469|end_char=478
+10	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nsubj	_	start_char=479|end_char=485
+11	Совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=486|end_char=492
+12	.	.	PUNCT	_	_	2	punct	_	start_char=492|end_char=493
+
+# text = – Это респиратор! – прогундел Рассилон.
+# sent_id = 10
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=494|end_char=495
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=496|end_char=499
+3	респиратор	респиратор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=500|end_char=510
+4	!	!	PUNCT	_	_	3	punct	_	start_char=510|end_char=511
+5	–	–	PUNCT	_	_	6	punct	_	start_char=512|end_char=513
+6	прогундел	прогундел	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	start_char=514|end_char=523
+7	Рассилон	Рассилон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	appos	_	start_char=524|end_char=532
+8	.	.	PUNCT	_	_	3	punct	_	start_char=532|end_char=533
+
+# text = – Что?..
+# sent_id = 11
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=534|end_char=535
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=536|end_char=539
+3	?..	?..	PUNCT	_	_	2	punct	_	start_char=539|end_char=542
+
+# text = – Респиратор! – рявкнул Рассилон, приподняв маску.
+# sent_id = 12
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=543|end_char=544
+2	Респиратор	респиратор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=545|end_char=555
+3	!	!	PUNCT	_	_	2	punct	_	start_char=555|end_char=556
+4	–	–	PUNCT	_	_	5	punct	_	start_char=557|end_char=558
+5	рявкнул	рявкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=559|end_char=566
+6	Рассилон	Рассилон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=567|end_char=575
+7	,	,	PUNCT	_	_	8	punct	_	start_char=575|end_char=576
+8	приподняв	приподнять	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=577|end_char=586
+9	маску	маска	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=587|end_char=592
+10	.	.	PUNCT	_	_	2	punct	_	start_char=592|end_char=593
+
+# text = – А что делает этот артефакт?
+# sent_id = 13
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=594|end_char=595
+2	А	а	CCONJ	_	_	4	cc	_	start_char=596|end_char=597
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obj	_	start_char=598|end_char=601
+4	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=602|end_char=608
+5	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	start_char=609|end_char=613
+6	артефакт	артефакт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=614|end_char=622
+7	?	?	PUNCT	_	_	4	punct	_	start_char=622|end_char=623
+
+# text = Зачем он вам?..
+# sent_id = 14
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Зачем	зачем	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=624|end_char=629
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	start_char=630|end_char=632
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	iobj	_	start_char=633|end_char=636
+4	?..	?..	PUNCT	_	_	1	punct	_	start_char=636|end_char=639
+
+# text = – Из-за газа.
+# sent_id = 15
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=640|end_char=641
+2	Из-за	из-за	ADP	_	_	3	case	_	start_char=642|end_char=647
+3	газа	газ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=648|end_char=652
+4	.	.	PUNCT	_	_	3	punct	_	start_char=652|end_char=653
+
+# text = – Какого газа?
+# sent_id = 16
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=654|end_char=655
+2	Какого	какой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	3	det	_	start_char=656|end_char=662
+3	газа	газ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=663|end_char=667
+4	?	?	PUNCT	_	_	3	punct	_	start_char=667|end_char=668
+
+# text = – Этого!..
+# sent_id = 17
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=669|end_char=670
+2	Этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=671|end_char=676
+3	!..	!..	PUNCT	_	_	2	punct	_	start_char=676|end_char=679
+
+# text = Лорд-президент надежно натянул маску на нос и с интересом пронаблюдал действие отравляющего газа на всех присутствующих.
+# sent_id = 18
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Лорд	Лорд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=680|end_char=684
+2	-	-	PUNCT	_	_	3	punct	_	start_char=684|end_char=685
+3	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	start_char=685|end_char=694
+4	надежно	надежно	ADV	_	Degree=Pos	5	advmod	_	start_char=695|end_char=702
+5	натянул	натянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=703|end_char=710
+6	маску	маска	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=711|end_char=716
+7	на	на	ADP	_	_	8	case	_	start_char=717|end_char=719
+8	нос	нос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=720|end_char=723
+9	и	и	CCONJ	_	_	12	cc	_	start_char=724|end_char=725
+10	с	с	ADP	_	_	11	case	_	start_char=726|end_char=727
+11	интересом	интерес	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	start_char=728|end_char=737
+12	пронаблюдал	пронаблюдать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=738|end_char=749
+13	действие	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	start_char=750|end_char=758
+14	отравляющего	отравляющий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=759|end_char=771
+15	газа	газ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	start_char=772|end_char=776
+16	на	на	ADP	_	_	18	case	_	start_char=777|end_char=779
+17	всех	весь	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	18	det	_	start_char=780|end_char=784
+18	присутствующих	присутствовать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	obl	_	start_char=785|end_char=799
+19	.	.	PUNCT	_	_	5	punct	_	start_char=799|end_char=800
+
+# text = С тех пор, как Мастер всадил в него весь заряд своей артронной энергии, лорд-президент вообще не был уверен, кто он такой и что здесь делает, но его что-то тянуло чудить…
+# sent_id = 19
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	С	с	ADP	_	_	22	advmod	_	start_char=801|end_char=802
+2	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	1	fixed	_	start_char=803|end_char=806
+3	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	fixed	_	start_char=807|end_char=810
+4	,	,	PUNCT	_	_	7	punct	_	start_char=810|end_char=811
+5	как	как	SCONJ	_	_	7	mark	_	start_char=812|end_char=815
+6	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=816|end_char=822
+7	всадил	всадить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	start_char=823|end_char=829
+8	в	в	ADP	_	_	9	case	_	start_char=830|end_char=831
+9	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=832|end_char=836
+10	весь	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	11	det	_	start_char=837|end_char=841
+11	заряд	заряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=842|end_char=847
+12	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=848|end_char=853
+13	артронной	артронный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=854|end_char=863
+14	энергии	энергия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=864|end_char=871
+15	,	,	PUNCT	_	_	7	punct	_	start_char=871|end_char=872
+16	лорд	лорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	start_char=873|end_char=877
+17	-	-	PUNCT	_	_	18	punct	_	start_char=877|end_char=878
+18	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	appos	_	start_char=878|end_char=887
+19	вообще	вообще	ADV	_	Degree=Pos	22	advmod	_	start_char=888|end_char=894
+20	не	не	PART	_	Polarity=Neg	22	advmod	_	start_char=895|end_char=897
+21	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	cop	_	start_char=898|end_char=901
+22	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=902|end_char=908
+23	,	,	PUNCT	_	_	24	punct	_	start_char=908|end_char=909
+24	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	22	ccomp	_	start_char=910|end_char=913
+25	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=914|end_char=916
+26	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	start_char=917|end_char=922
+27	и	и	CCONJ	_	_	30	cc	_	start_char=923|end_char=924
+28	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	30	obj	_	start_char=925|end_char=928
+29	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	30	advmod	_	start_char=929|end_char=934
+30	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	conj	_	start_char=935|end_char=941
+31	,	,	PUNCT	_	_	35	punct	_	start_char=941|end_char=942
+32	но	но	CCONJ	_	_	35	cc	_	start_char=943|end_char=945
+33	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	obj	_	start_char=946|end_char=949
+34	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	35	nsubj	_	start_char=950|end_char=956
+35	тянуло	тянуть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	conj	_	start_char=957|end_char=963
+36	чудить	чудить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	35	xcomp	_	start_char=964|end_char=970
+37	…	…	PUNCT	_	_	22	punct	_	start_char=970|end_char=971
+
+# text = Цикл замкнулся.
+# sent_id = 20
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Цикл	цикл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=973|end_char=977
+2	замкнулся	замкнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=978|end_char=987
+3	.	.	PUNCT	_	_	2	punct	_	start_char=987|end_char=988
+
+# text = – Мне нужна свежая чашка!
+# sent_id = 21
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=989|end_char=990
+2	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=991|end_char=994
+3	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=995|end_char=1000
+4	свежая	свежий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=1001|end_char=1007
+5	чашка	чашка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=1008|end_char=1013
+6	!	!	PUNCT	_	_	3	punct	_	start_char=1013|end_char=1014
+
+# text = – пролепетал полноватый член Совета.
+# sent_id = 22
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1015|end_char=1016
+2	пролепетал	пролепетать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1017|end_char=1027
+3	полноватый	полноватый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1028|end_char=1038
+4	член	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1039|end_char=1043
+5	Совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=1044|end_char=1050
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1050|end_char=1051
+
+# text = – Давайте пересядем!..
+# sent_id = 23
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1052|end_char=1053
+2	Давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1054|end_char=1061
+3	пересядем	пересять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1062|end_char=1071
+4	!..	!..	PUNCT	_	_	2	punct	_	start_char=1071|end_char=1074
+
+# text = Члены Совета чинно поднялись и пересели по кругу.
+# sent_id = 24
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=1075|end_char=1080
+2	Совета	совет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	start_char=1081|end_char=1087
+3	чинно	чинно	ADV	_	Degree=Pos	4	advmod	_	start_char=1088|end_char=1093
+4	поднялись	подняться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1094|end_char=1103
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1104|end_char=1105
+6	пересели	пересести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1106|end_char=1114
+7	по	по	ADP	_	_	8	case	_	start_char=1115|end_char=1117
+8	кругу	круг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=1118|end_char=1123
+9	.	.	PUNCT	_	_	4	punct	_	start_char=1123|end_char=1124
+
+# text = – А давайте проверим – может ли Пророчица жить в чайнике?!.. – оживилась статная седовласая леди.
+# sent_id = 25
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1125|end_char=1126
+2	А	а	CCONJ	_	_	3	cc	_	start_char=1127|end_char=1128
+3	давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1129|end_char=1136
+4	проверим	проверить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1137|end_char=1145
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1146|end_char=1147
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=1148|end_char=1153
+7	ли	ли	PART	_	_	6	advmod	_	start_char=1154|end_char=1156
+8	Пророчица	пророчица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1157|end_char=1166
+9	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=1167|end_char=1171
+10	в	в	ADP	_	_	11	case	_	start_char=1172|end_char=1173
+11	чайнике	чайник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	start_char=1174|end_char=1181
+12	?!..	?!..	PUNCT	_	_	6	punct	_	start_char=1181|end_char=1185
+13	–	–	PUNCT	_	_	14	punct	_	start_char=1186|end_char=1187
+14	оживилась	оживиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1188|end_char=1197
+15	статная	статный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1198|end_char=1205
+16	седовласая	седовласой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1206|end_char=1216
+17	леди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=1217|end_char=1221
+18	.	.	PUNCT	_	_	3	punct	_	start_char=1221|end_char=1222
+
+# text = Несмотря на возмущенные крики
+# sent_id = 26
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Несмотря	несмотря	ADV	_	Degree=Pos	4	case	_	start_char=1223|end_char=1231
+2	на	на	ADP	_	_	1	fixed	_	start_char=1232|end_char=1234
+3	возмущенные	возмустить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	start_char=1235|end_char=1246
+4	крики	крик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	0	root	_	start_char=1247|end_char=1252
+
+# text = Пророчицы, степенные таймлорды повскакивали с мест и принялись увлеченно запихивать ее в вычурный серебряный чайник.
+# sent_id = 27
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Пророчицы	пророчица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=1253|end_char=1262
+2	,	,	PUNCT	_	_	4	punct	_	start_char=1262|end_char=1263
+3	степенные	степенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=1264|end_char=1273
+4	таймлорды	таймлорд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	start_char=1274|end_char=1283
+5	повскакивали	повскакивать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1284|end_char=1296
+6	с	с	ADP	_	_	7	case	_	start_char=1297|end_char=1298
+7	мест	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	obl	_	start_char=1299|end_char=1303
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1304|end_char=1305
+9	принялись	приняться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=1306|end_char=1315
+10	увлеченно	увлеченно	ADV	_	Degree=Pos	11	advmod	_	start_char=1316|end_char=1325
+11	запихивать	запихивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=1326|end_char=1336
+12	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=1337|end_char=1339
+13	в	в	ADP	_	_	16	case	_	start_char=1340|end_char=1341
+14	вычурный	вычурный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=1342|end_char=1350
+15	серебряный	серебряный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=1351|end_char=1361
+16	чайник	чайник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=1362|end_char=1368
+17	.	.	PUNCT	_	_	5	punct	_	start_char=1368|end_char=1369
+
+# text = Через носик.
+# sent_id = 28
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Через	через	ADP	_	_	2	case	_	start_char=1370|end_char=1375
+2	носик	носик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	start_char=1376|end_char=1381
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1381|end_char=1382
+
+# text = – Это же галлифрейский чайник!
+# sent_id = 29
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1383|end_char=1384
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1385|end_char=1388
+3	же	же	PART	_	_	2	advmod	_	start_char=1389|end_char=1391
+4	галлифрейский	галлифрейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1392|end_char=1405
+5	чайник	чайник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1406|end_char=1412
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1412|end_char=1413
+
+# text = – одобрительно приговаривала статная леди.
+# sent_id = 30
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1414|end_char=1415
+2	одобрительно	одобрительно	ADV	_	Degree=Pos	3	advmod	_	start_char=1416|end_char=1428
+3	приговаривала	приговаривать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1429|end_char=1442
+4	статная	статный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=1443|end_char=1450
+5	леди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=1451|end_char=1455
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1455|end_char=1456
+
+# text = – Он больше внутри!
+# sent_id = 31
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1457|end_char=1458
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1459|end_char=1461
+3	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	4	advmod	_	start_char=1462|end_char=1468
+4	внутри	внутри	ADV	_	Degree=Pos	0	root	_	start_char=1469|end_char=1475
+5	!	!	PUNCT	_	_	4	punct	_	start_char=1475|end_char=1476
+
+# text = Чайник водрузили на стол и с любопытством на него уставились.
+# sent_id = 32
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Чайник	чайник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=1477|end_char=1483
+2	водрузили	водрузить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1484|end_char=1493
+3	на	на	ADP	_	_	4	case	_	start_char=1494|end_char=1496
+4	стол	стол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1497|end_char=1501
+5	и	и	CCONJ	_	_	10	cc	_	start_char=1502|end_char=1503
+6	с	с	ADP	_	_	7	case	_	start_char=1504|end_char=1505
+7	любопытством	любопытство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	start_char=1506|end_char=1518
+8	на	на	ADP	_	_	9	case	_	start_char=1519|end_char=1521
+9	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=1522|end_char=1526
+10	уставились	уставиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1527|end_char=1537
+11	.	.	PUNCT	_	_	2	punct	_	start_char=1537|end_char=1538
+
+# text = Изнутри доносились гневные постукивания ногтем: раз-два-три-четыре, раз-два-три-четыре…
+# sent_id = 33
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Изнутри	изнутрь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1539|end_char=1546
+2	доносились	доноситься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1547|end_char=1557
+3	гневные	гневной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=1558|end_char=1565
+4	постукивания	постукивание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	start_char=1566|end_char=1578
+5	ногтем	ногт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	iobj	_	start_char=1579|end_char=1585
+6	:	:	PUNCT	_	_	7	punct	_	start_char=1585|end_char=1586
+7	раз-два	раз-два	NUM	_	Case=Nom|NumForm=Word|NumType=Card	2	parataxis	_	start_char=1587|end_char=1594
+8	-	-	PUNCT	_	_	9	punct	_	start_char=1594|end_char=1595
+9	три-четыре	три-четырь	NUM	_	Case=Nom|NumForm=Word|NumType=Card	7	nmod	_	start_char=1595|end_char=1605
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1605|end_char=1606
+11	раз-два	раз-два	NUM	_	Case=Nom|NumForm=Word|NumType=Card	14	nsubj	_	start_char=1607|end_char=1614
+12	-	-	PUNCT	_	_	13	punct	_	start_char=1614|end_char=1615
+13	три	три	NUM	_	Case=Nom|NumForm=Word|NumType=Card	11	nmod	_	start_char=1615|end_char=1618
+14	-четыре	-четыре	SYM	_	_	7	conj	_	start_char=1618|end_char=1625
+15	…	…	PUNCT	_	_	2	punct	_	start_char=1625|end_char=1626
+
+# text = – А вот и музыка!
+# sent_id = 34
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1627|end_char=1628
+2	А	а	CCONJ	_	_	5	cc	_	start_char=1629|end_char=1630
+3	вот	вот	PART	_	_	5	advmod	_	start_char=1631|end_char=1634
+4	и	и	PART	_	_	5	advmod	_	start_char=1635|end_char=1636
+5	музыка	музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1637|end_char=1643
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1643|end_char=1644
+
+# text = – добродушно хохотнул полноватый таймлорд.
+# sent_id = 35
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1645|end_char=1646
+2	добродушно	добродушно	ADV	_	Degree=Pos	3	advmod	_	start_char=1647|end_char=1657
+3	хохотнул	хохотнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1658|end_char=1666
+4	полноватый	полноватый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1667|end_char=1677
+5	таймлорд	таймлорд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1678|end_char=1686
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1686|end_char=1687
+
+# text = Цикл замкнулся.
+# sent_id = 36
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Цикл	цикл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1689|end_char=1693
+2	замкнулся	замкнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1694|end_char=1703
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1703|end_char=1704
+
+# text = – У кого планшет для спиритического сеанса?
+# sent_id = 37
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1705|end_char=1706
+2	У	у	ADP	_	_	3	case	_	start_char=1707|end_char=1708
+3	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=1709|end_char=1713
+4	планшет	планшет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1714|end_char=1721
+5	для	для	ADP	_	_	7	case	_	start_char=1722|end_char=1725
+6	спиритического	спиритический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1726|end_char=1740
+7	сеанса	сеанс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=1741|end_char=1747
+8	?	?	PUNCT	_	_	3	punct	_	start_char=1747|end_char=1748
+
+# text = Если здесь есть какие-нибудь духи, стукните четыре раза!
+# sent_id = 38
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Если	если	SCONJ	_	_	3	mark	_	start_char=1749|end_char=1753
+2	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1754|end_char=1759
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=1760|end_char=1764
+4	какие-нибудь	какой-нибудь	DET	_	Case=Nom|Number=Plur|PronType=Ind	5	det	_	start_char=1765|end_char=1777
+5	духи	дух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=1778|end_char=1782
+6	,	,	PUNCT	_	_	3	punct	_	start_char=1782|end_char=1783
+7	стукните	стукнуть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1784|end_char=1792
+8	четыре	четыре	NUM	_	Animacy=Inan|Case=Acc|NumForm=Word|NumType=Card	9	nummod:gov	_	start_char=1793|end_char=1799
+9	раза	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=1800|end_char=1804
+10	!	!	PUNCT	_	_	7	punct	_	start_char=1804|end_char=1805
+
+# text = – О!..
+# sent_id = 39
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1806|end_char=1807
+2	О	о	INTJ	_	_	0	root	_	start_char=1808|end_char=1809
+3	!..	!..	PUNCT	_	_	2	punct	_	start_char=1809|end_char=1812
+
+# text = Стучит!
+# sent_id = 40
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Стучит	стучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1813|end_char=1819
+2	!	!	PUNCT	_	_	1	punct	_	start_char=1819|end_char=1820
+
+# text = А мы все – техническое развитие, техническое развитие…
+# sent_id = 41
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	А	а	CCONJ	_	_	6	cc	_	start_char=1821|end_char=1822
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=1823|end_char=1825
+3	все	всё	PRON	_	Animacy=Inan|Case=Nom|Number=Plur|PronType=Tot	6	nsubj	_	start_char=1826|end_char=1829
+4	–	–	PUNCT	_	_	6	punct	_	start_char=1830|end_char=1831
+5	техническое	технический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=1832|end_char=1843
+6	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1844|end_char=1852
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1852|end_char=1853
+8	техническое	технический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=1854|end_char=1865
+9	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	start_char=1866|end_char=1874
+10	…	…	PUNCT	_	_	6	punct	_	start_char=1874|end_char=1875
+
+# text = – Да нет, технический прогресс – это тупик, мы давно знали…
+# sent_id = 42
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	9	punct	_	start_char=1876|end_char=1877
+2	Да	да	CCONJ	_	_	9	cc	_	start_char=1878|end_char=1880
+3	нет	нет	PART	_	Polarity=Neg	9	parataxis	_	start_char=1881|end_char=1884
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1884|end_char=1885
+5	технический	технический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1886|end_char=1897
+6	прогресс	прогресс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=1898|end_char=1906
+7	–	–	PUNCT	_	_	9	punct	_	start_char=1907|end_char=1908
+8	это	это	PART	_	_	9	expl	_	start_char=1909|end_char=1912
+9	тупик	тупик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1913|end_char=1918
+10	,	,	PUNCT	_	_	13	punct	_	start_char=1918|end_char=1919
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=1920|end_char=1922
+12	давно	давно	ADV	_	Degree=Pos	13	advmod	_	start_char=1923|end_char=1928
+13	знали	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1929|end_char=1934
+14	…	…	PUNCT	_	_	9	punct	_	start_char=1934|end_char=1935
+
+# text = – Дух, поговори с нами!
+# sent_id = 43
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1936|end_char=1937
+2	Дух	дух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	start_char=1938|end_char=1941
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1941|end_char=1942
+4	поговори	поговорить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1943|end_char=1951
+5	с	с	ADP	_	_	6	case	_	start_char=1952|end_char=1953
+6	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	4	obl	_	start_char=1954|end_char=1958
+7	!	!	PUNCT	_	_	4	punct	_	start_char=1958|end_char=1959
+
+# text = – завывая, воззвала Пророчица.
+# sent_id = 44
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1960|end_char=1961
+2	завывая	завывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=1962|end_char=1969
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1969|end_char=1970
+4	воззвала	воззвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1971|end_char=1979
+5	Пророчица	Пророчица	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1980|end_char=1989
+6	.	.	PUNCT	_	_	4	punct	_	start_char=1989|end_char=1990
+
+# text = – На какую букву начинается твое имя?
+# sent_id = 45
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1991|end_char=1992
+2	На	на	ADP	_	_	4	case	_	start_char=1993|end_char=1995
+3	какую	какой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	4	det	_	start_char=1996|end_char=2001
+4	букву	буква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=2002|end_char=2007
+5	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2008|end_char=2018
+6	твое	твой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=2019|end_char=2023
+7	имя	имя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=2024|end_char=2027
+8	?	?	PUNCT	_	_	5	punct	_	start_char=2027|end_char=2028
+
+# text = – Омега… – проговорил тот, кто держал планшет, скользящий по расчерченному циклическими письменами пергаменту.
+# sent_id = 46
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2029|end_char=2030
+2	Омега	омег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2031|end_char=2036
+3	…	…	PUNCT	_	_	2	punct	_	start_char=2036|end_char=2037
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2038|end_char=2039
+5	проговорил	проговорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2040|end_char=2050
+6	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2051|end_char=2054
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2054|end_char=2055
+8	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	start_char=2056|end_char=2059
+9	держал	держать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=2060|end_char=2066
+10	планшет	планшет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=2067|end_char=2074
+11	,	,	PUNCT	_	_	12	punct	_	start_char=2074|end_char=2075
+12	скользящий	скользить	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	start_char=2076|end_char=2086
+13	по	по	ADP	_	_	16	case	_	start_char=2087|end_char=2089
+14	расчерченному	расчертить	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	start_char=2090|end_char=2103
+15	циклическими	циклический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	start_char=2104|end_char=2116
+16	письменами	письмен	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	obl	_	start_char=2117|end_char=2127
+17	пергаменту	пергамент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	start_char=2128|end_char=2138
+18	.	.	PUNCT	_	_	2	punct	_	start_char=2138|end_char=2139
+
+# text = – Дальше?..
+# sent_id = 47
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2140|end_char=2141
+2	Дальше	дальше	ADV	_	Degree=Cmp	0	root	_	start_char=2142|end_char=2148
+3	?..	?..	PUNCT	_	_	2	punct	_	start_char=2148|end_char=2151
+
+# text = – Опять «омега».
+# sent_id = 48
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2152|end_char=2153
+2	Опять	опять	ADV	_	Degree=Pos	4	advmod	_	start_char=2154|end_char=2159
+3	«	«	PUNCT	_	_	4	punct	_	start_char=2160|end_char=2161
+4	омега	омег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2161|end_char=2166
+5	»	»	PUNCT	_	_	4	punct	_	start_char=2166|end_char=2167
+6	.	.	PUNCT	_	_	4	punct	_	start_char=2167|end_char=2168
+
+# text = – Что, просто «омега»?
+# sent_id = 49
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2169|end_char=2170
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2171|end_char=2174
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2174|end_char=2175
+4	просто	просто	PART	_	_	6	advmod	_	start_char=2176|end_char=2182
+5	«	«	PUNCT	_	_	6	punct	_	start_char=2183|end_char=2184
+6	омега	омег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=2184|end_char=2189
+7	»	»	PUNCT	_	_	6	punct	_	start_char=2189|end_char=2190
+8	?	?	PUNCT	_	_	2	punct	_	start_char=2190|end_char=2191
+
+# text = – А-а!
+# sent_id = 50
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2192|end_char=2193
+2	А-а	а-а	INTJ	_	_	0	root	_	start_char=2194|end_char=2197
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2197|end_char=2198
+
+# text = Это Омега!
+# sent_id = 51
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=2199|end_char=2202
+2	Омега	омег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2203|end_char=2208
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2208|end_char=2209
+
+# text = Что ты хочешь нам сказать, мудрейший из древних?..
+# sent_id = 52
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=2210|end_char=2213
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=2214|end_char=2216
+3	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2217|end_char=2223
+4	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	5	iobj	_	start_char=2224|end_char=2227
+5	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2228|end_char=2235
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2235|end_char=2236
+7	мудрейший	мудрейший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	parataxis	_	start_char=2237|end_char=2246
+8	из	из	ADP	_	_	9	case	_	start_char=2247|end_char=2249
+9	древних	древний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	nmod	_	start_char=2250|end_char=2257
+10	?..	?..	PUNCT	_	_	3	punct	_	start_char=2257|end_char=2260
+
+# text = – Кто назвал его мудрейшим из древних при живом мне?..
+# sent_id = 53
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2261|end_char=2262
+2	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	start_char=2263|end_char=2266
+3	назвал	назвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2267|end_char=2273
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=2274|end_char=2277
+5	мудрейшим	мудрейший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	_	start_char=2278|end_char=2287
+6	из	из	ADP	_	_	7	case	_	start_char=2288|end_char=2290
+7	древних	древний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	nmod	_	start_char=2291|end_char=2298
+8	при	при	ADP	_	_	10	case	_	start_char=2299|end_char=2302
+9	живом	живой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=2303|end_char=2308
+10	мне	я	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=2309|end_char=2312
+11	?..	?..	PUNCT	_	_	3	punct	_	start_char=2312|end_char=2315
+
+# text = – «Альфа и омега – это тупик…»
+# sent_id = 54
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	8	punct	_	start_char=2316|end_char=2317
+2	«	«	PUNCT	_	_	8	punct	_	start_char=2318|end_char=2319
+3	Альфа	Альфа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=2319|end_char=2324
+4	и	и	CCONJ	_	_	5	cc	_	start_char=2325|end_char=2326
+5	омега	омег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	start_char=2327|end_char=2332
+6	–	–	PUNCT	_	_	3	punct	_	start_char=2333|end_char=2334
+7	это	это	PART	_	_	8	expl	_	start_char=2335|end_char=2338
+8	тупик	тупик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2339|end_char=2344
+9	…	…	PUNCT	_	_	8	punct	_	start_char=2344|end_char=2345
+10	»	»	PUNCT	_	_	8	punct	_	start_char=2345|end_char=2346
+
+# text = Чего?..
+# sent_id = 55
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2347|end_char=2351
+2	?..	?..	PUNCT	_	_	1	punct	_	start_char=2351|end_char=2354
+
+# text = – Неправильно читаешь!
+# sent_id = 56
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2356|end_char=2357
+2	Неправильно	неправильно	ADV	_	Degree=Pos	3	advmod	_	start_char=2358|end_char=2369
+3	читаешь	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2370|end_char=2377
+4	!	!	PUNCT	_	_	3	punct	_	start_char=2377|end_char=2378
+
+# text = «Альфа и омега – это пузырь…» – Да ёж твою налево, Омега!
+# sent_id = 57
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	«	«	PUNCT	_	_	7	punct	_	start_char=2379|end_char=2380
+2	Альфа	Альфа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=2380|end_char=2385
+3	и	и	CCONJ	_	_	4	cc	_	start_char=2386|end_char=2387
+4	омега	омег	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=2388|end_char=2393
+5	–	–	PUNCT	_	_	2	punct	_	start_char=2394|end_char=2395
+6	это	это	PART	_	_	7	expl	_	start_char=2396|end_char=2399
+7	пузырь	пузырь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2400|end_char=2406
+8	…	…	PUNCT	_	_	7	punct	_	start_char=2406|end_char=2407
+9	»	»	PUNCT	_	_	7	punct	_	start_char=2407|end_char=2408
+10	–	–	PUNCT	_	_	12	punct	_	start_char=2409|end_char=2410
+11	Да	да	CCONJ	_	_	12	cc	_	start_char=2411|end_char=2413
+12	ёж	еж	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	start_char=2414|end_char=2416
+13	твою	твой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	start_char=2417|end_char=2421
+14	налево	налево	ADV	_	Degree=Pos	12	advmod	_	start_char=2422|end_char=2428
+15	,	,	PUNCT	_	_	16	punct	_	start_char=2428|end_char=2429
+16	Омега	Омег	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	12	conj	_	start_char=2430|end_char=2435
+17	!	!	PUNCT	_	_	7	punct	_	start_char=2435|end_char=2436
+
+# text = Сам ты – Черная дыра!..
+# sent_id = 58
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	2	det	_	start_char=2437|end_char=2440
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2441|end_char=2443
+3	–	–	PUNCT	_	_	5	punct	_	start_char=2444|end_char=2445
+4	Черная	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2446|end_char=2452
+5	дыра	дыра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2453|end_char=2457
+6	!..	!..	PUNCT	_	_	5	punct	_	start_char=2457|end_char=2460
+
+# text = Что он отвечает?..
+# sent_id = 59
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	start_char=2461|end_char=2464
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2465|end_char=2467
+3	отвечает	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2468|end_char=2476
+4	?..	?..	PUNCT	_	_	3	punct	_	start_char=2476|end_char=2479
+
+# text = – Что он – сверхплотная точка и излучение Хокинга.
+# sent_id = 60
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2480|end_char=2481
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2482|end_char=2485
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2486|end_char=2488
+4	–	–	PUNCT	_	_	6	punct	_	start_char=2489|end_char=2490
+5	сверхплотная	сверхплотный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=2491|end_char=2503
+6	точка	точка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	start_char=2504|end_char=2509
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2510|end_char=2511
+8	излучение	излучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	start_char=2512|end_char=2521
+9	Хокинга	Хокинг	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	8	nmod	_	start_char=2522|end_char=2529
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2529|end_char=2530
+
+# text = Цикл замкнулся.
+# sent_id = 61
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Цикл	цикл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2532|end_char=2536
+2	замкнулся	замкнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2537|end_char=2546
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2546|end_char=2547
+
+# text = – А давайте перевыберем лорда-президента? – предложил Рассилон, и поднял вверх перчатку аннигиляции.
+# sent_id = 62
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2548|end_char=2549
+2	А	а	CCONJ	_	_	3	cc	_	start_char=2550|end_char=2551
+3	давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2552|end_char=2559
+4	перевыберем	перевыберить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2560|end_char=2571
+5	лорда	лорд	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=2572|end_char=2577
+6	-	-	PUNCT	_	_	7	punct	_	start_char=2577|end_char=2578
+7	президента	президент	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	appos	_	start_char=2578|end_char=2588
+8	?	?	PUNCT	_	_	4	punct	_	start_char=2588|end_char=2589
+9	–	–	PUNCT	_	_	10	punct	_	start_char=2590|end_char=2591
+10	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2592|end_char=2601
+11	Рассилон	Рассилон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	10	nsubj	_	start_char=2602|end_char=2610
+12	,	,	PUNCT	_	_	14	punct	_	start_char=2610|end_char=2611
+13	и	и	CCONJ	_	_	14	cc	_	start_char=2612|end_char=2613
+14	поднял	поднять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=2614|end_char=2620
+15	вверх	вверх	ADV	_	Degree=Pos	14	advmod	_	start_char=2621|end_char=2626
+16	перчатку	перчатка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=2627|end_char=2635
+17	аннигиляции	аннигиляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	start_char=2636|end_char=2647
+18	.	.	PUNCT	_	_	3	punct	_	start_char=2647|end_char=2648
+
+# text = – Кто «за»?
+# sent_id = 63
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2649|end_char=2650
+2	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=2651|end_char=2654
+3	«	«	PUNCT	_	_	4	punct	_	start_char=2655|end_char=2656
+4	за	за	ADP	_	_	2	parataxis	_	start_char=2656|end_char=2658
+5	»	»	PUNCT	_	_	4	punct	_	start_char=2658|end_char=2659
+6	?	?	PUNCT	_	_	2	punct	_	start_char=2659|end_char=2660
+
+# text = За столом воцарилась испуганная тишина.
+# sent_id = 64
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	За	за	ADP	_	_	2	case	_	start_char=2661|end_char=2663
+2	столом	стол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	start_char=2664|end_char=2670
+3	воцарилась	воцариться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2671|end_char=2681
+4	испуганная	испуганный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2682|end_char=2692
+5	тишина	тишина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=2693|end_char=2699
+6	.	.	PUNCT	_	_	3	punct	_	start_char=2699|end_char=2700
+
+# text = – Ну, я рад, что у вас есть хоть какое-то собственное мнение, – удовлетворенно кивнул Рассилон, опуская перчатку.
+# sent_id = 65
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2701|end_char=2702
+2	Ну	ну	PART	_	_	5	discourse	_	start_char=2703|end_char=2705
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2705|end_char=2706
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2707|end_char=2708
+5	рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2709|end_char=2712
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2712|end_char=2713
+7	что	что	SCONJ	_	_	9	mark	_	start_char=2714|end_char=2717
+8	у	у	ADP	_	_	9	case	_	start_char=2718|end_char=2719
+9	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	ccomp	_	start_char=2720|end_char=2723
+10	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	start_char=2724|end_char=2728
+11	хоть	хоть	PART	_	_	12	advmod	_	start_char=2729|end_char=2733
+12	какое-то	какой-то	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	14	det	_	start_char=2734|end_char=2742
+13	собственное	собственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=2743|end_char=2754
+14	мнение	мнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	start_char=2755|end_char=2761
+15	,	,	PUNCT	_	_	18	punct	_	start_char=2761|end_char=2762
+16	–	–	PUNCT	_	_	18	punct	_	start_char=2763|end_char=2764
+17	удовлетворенно	удовлетворенно	ADV	_	Degree=Pos	18	advmod	_	start_char=2765|end_char=2779
+18	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2780|end_char=2786
+19	Рассилон	Рассилон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	18	nsubj	_	start_char=2787|end_char=2795
+20	,	,	PUNCT	_	_	21	punct	_	start_char=2795|end_char=2796
+21	опуская	опускать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	18	advcl	_	start_char=2797|end_char=2804
+22	перчатку	перчатка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	start_char=2805|end_char=2813
+23	.	.	PUNCT	_	_	5	punct	_	start_char=2813|end_char=2814
+
+# text = – Принято!..
+# sent_id = 66
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2815|end_char=2816
+2	Принято	принять	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=2817|end_char=2824
+3	!..	!..	PUNCT	_	_	2	punct	_	start_char=2824|end_char=2827
+
+# text = Цикл замкнулся.
+# sent_id = 67
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Цикл	цикл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2829|end_char=2833
+2	замкнулся	замкнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2834|end_char=2843
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2843|end_char=2844
+
+# text = Гибель Галлифрея, разумеется, была трагедией.
+# sent_id = 68
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Гибель	гибель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=2845|end_char=2851
+2	Галлифрея	Галлифрей	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	1	nmod	_	start_char=2852|end_char=2861
+3	,	,	PUNCT	_	_	1	punct	_	start_char=2861|end_char=2862
+4	разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=2863|end_char=2873
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2873|end_char=2874
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=2875|end_char=2879
+7	трагедией	трагедия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=2880|end_char=2889
+8	.	.	PUNCT	_	_	7	punct	_	start_char=2889|end_char=2890
+
+# text = Но, повторяясь в многомерной временной петле во всех вариантах квантовой вероятности, начинаясь как трагедия, она неизбежно заканчивалась как фарс.
+# sent_id = 69
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Но	но	CCONJ	_	_	20	cc	_	start_char=2891|end_char=2893
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2893|end_char=2894
+3	повторяясь	повторяться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	20	advcl	_	start_char=2895|end_char=2905
+4	в	в	ADP	_	_	7	case	_	start_char=2906|end_char=2907
+5	многомерной	многомерной	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2908|end_char=2919
+6	временной	временный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2920|end_char=2929
+7	петле	петла	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=2930|end_char=2935
+8	во	во	ADP	_	_	10	case	_	start_char=2936|end_char=2938
+9	всех	весь	DET	_	Case=Loc|Number=Plur|PronType=Tot	10	det	_	start_char=2939|end_char=2943
+10	вариантах	вариант	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	obl	_	start_char=2944|end_char=2953
+11	квантовой	квантовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=2954|end_char=2963
+12	вероятности	вероятность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=2964|end_char=2975
+13	,	,	PUNCT	_	_	3	punct	_	start_char=2975|end_char=2976
+14	начинаясь	начинаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	20	advcl	_	start_char=2977|end_char=2986
+15	как	как	SCONJ	_	_	16	case	_	start_char=2987|end_char=2990
+16	трагедия	трагедия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	obl	_	start_char=2991|end_char=2999
+17	,	,	PUNCT	_	_	3	punct	_	start_char=2999|end_char=3000
+18	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=3001|end_char=3004
+19	неизбежно	неизбежно	ADV	_	Degree=Pos	20	advmod	_	start_char=3005|end_char=3014
+20	заканчивалась	заканчиваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3015|end_char=3028
+21	как	как	SCONJ	_	_	22	case	_	start_char=3029|end_char=3032
+22	фарс	фарс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	obl	_	start_char=3033|end_char=3037
+23	.	.	PUNCT	_	_	20	punct	_	start_char=3037|end_char=3038
+
+# text = Постоянно колеблясь, вибрируя, как фундаментальная струна.
+# sent_id = 70
+# metadata = Название: Фарс и трагедия, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54627c4900000a7f2a1a787c/1/Fars-i-tragediya
+1	Постоянно	постоянно	ADV	_	Degree=Pos	2	advmod	_	start_char=3039|end_char=3048
+2	колеблясь	колебоваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	0	root	_	start_char=3049|end_char=3058
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3058|end_char=3059
+4	вибрируя	вибрируть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=3060|end_char=3068
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3068|end_char=3069
+6	как	как	SCONJ	_	_	8	case	_	start_char=3070|end_char=3073
+7	фундаментальная	фундаментальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=3074|end_char=3089
+8	струна	струна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	obl	_	start_char=3090|end_char=3096
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3096|end_char=3097
+

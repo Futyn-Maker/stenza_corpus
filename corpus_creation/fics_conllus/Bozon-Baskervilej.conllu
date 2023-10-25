@@ -1,0 +1,2152 @@
+# text = – Что это, Бэрримор? – удивленно спросил сэр Генри.
+# sent_id = 0
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2|end_char=5
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=6|end_char=9
+4	,	,	PUNCT	_	_	5	punct	_	start_char=9|end_char=10
+5	Бэрримор	Бэрримор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	vocative	_	start_char=11|end_char=19
+6	?	?	PUNCT	_	_	2	punct	_	start_char=19|end_char=20
+7	–	–	PUNCT	_	_	9	punct	_	start_char=21|end_char=22
+8	удивленно	удивленно	ADV	_	Degree=Pos	9	advmod	_	start_char=23|end_char=32
+9	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=33|end_char=40
+10	сэр	СДР	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=41|end_char=44
+11	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	appos	_	start_char=45|end_char=50
+12	.	.	PUNCT	_	_	2	punct	_	start_char=50|end_char=51
+
+# text = – Бозон Хиггса, сэр! – торжественно отвечал дворецкий, сняв серебряную крышку с блюда.
+# sent_id = 1
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=52|end_char=53
+2	Бозон	Бозон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=54|end_char=59
+3	Хиггса	Хиггс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=60|end_char=66
+4	,	,	PUNCT	_	_	5	punct	_	start_char=66|end_char=67
+5	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=68|end_char=71
+6	!	!	PUNCT	_	_	2	punct	_	start_char=71|end_char=72
+7	–	–	PUNCT	_	_	9	punct	_	start_char=73|end_char=74
+8	торжественно	торжественный	ADV	_	Degree=Pos	9	advmod	_	start_char=75|end_char=87
+9	отвечал	отвечать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=88|end_char=95
+10	дворецкий	дворецкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	nsubj	_	start_char=96|end_char=105
+11	,	,	PUNCT	_	_	12	punct	_	start_char=105|end_char=106
+12	сняв	снять	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=107|end_char=111
+13	серебряную	серебряной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=112|end_char=122
+14	крышку	крышка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=123|end_char=129
+15	с	с	ADP	_	_	16	case	_	start_char=130|end_char=131
+16	блюда	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	start_char=132|end_char=137
+17	.	.	PUNCT	_	_	2	punct	_	start_char=137|end_char=138
+
+# text = Несколько часов назад ТАРДИС приземлилась в Девоншире, в самом сердце торфяных болот.
+# sent_id = 2
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	2	nummod:gov	_	start_char=140|end_char=149
+2	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	start_char=150|end_char=155
+3	назад	назад	ADV	_	Degree=Pos	2	advmod	_	start_char=156|end_char=161
+4	ТАРДИС	ТАРДИС	PROPN	_	Case=Nom|Gender=Fem|NameType=Com|Number=Sing	5	nsubj	_	start_char=162|end_char=168
+5	приземлилась	приземлиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=169|end_char=181
+6	в	в	ADP	_	_	7	case	_	start_char=182|end_char=183
+7	Девоншире	Девоншир	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	5	obl	_	start_char=184|end_char=193
+8	,	,	PUNCT	_	_	11	punct	_	start_char=193|end_char=194
+9	в	в	ADP	_	_	11	case	_	start_char=195|end_char=196
+10	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	11	det	_	start_char=197|end_char=202
+11	сердце	сердце	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=203|end_char=209
+12	торфяных	торфяный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	start_char=210|end_char=218
+13	болот	болото	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	start_char=219|end_char=224
+14	.	.	PUNCT	_	_	5	punct	_	start_char=224|end_char=225
+
+# text = Доктор открыл дверь, беспечно ступил за порог на устойчивую кочку, увидел необычную бабочку, кинулся за ней с лупой в руках, а когда, напреследовавшись с исследовательскими целями вдоволь, оглянулся, то увидел, что ТАРДИС по самую, посверкивающую болотным огоньком при дневном свете, маковку-маячок, засосало в трясину.
+# sent_id = 3
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=226|end_char=232
+2	открыл	открыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=233|end_char=239
+3	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=240|end_char=245
+4	,	,	PUNCT	_	_	6	punct	_	start_char=245|end_char=246
+5	беспечно	беспечно	ADV	_	Degree=Pos	6	advmod	_	start_char=247|end_char=255
+6	ступил	ступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=256|end_char=262
+7	за	за	ADP	_	_	8	case	_	start_char=263|end_char=265
+8	порог	порог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=266|end_char=271
+9	на	на	ADP	_	_	11	case	_	start_char=272|end_char=274
+10	устойчивую	устойчивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=275|end_char=285
+11	кочку	кочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=286|end_char=291
+12	,	,	PUNCT	_	_	13	punct	_	start_char=291|end_char=292
+13	увидел	увидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=293|end_char=299
+14	необычную	необычный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=300|end_char=309
+15	бабочку	бабочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=310|end_char=317
+16	,	,	PUNCT	_	_	17	punct	_	start_char=317|end_char=318
+17	кинулся	кинуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=319|end_char=326
+18	за	за	ADP	_	_	19	case	_	start_char=327|end_char=329
+19	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	start_char=330|end_char=333
+20	с	с	ADP	_	_	21	case	_	start_char=334|end_char=335
+21	лупой	лупа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	_	start_char=336|end_char=341
+22	в	в	ADP	_	_	23	case	_	start_char=342|end_char=343
+23	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	obl	_	start_char=344|end_char=349
+24	,	,	PUNCT	_	_	37	punct	_	start_char=349|end_char=350
+25	а	а	CCONJ	_	_	37	cc	_	start_char=351|end_char=352
+26	когда	когда	SCONJ	_	_	28	mark	_	start_char=353|end_char=358
+27	,	,	PUNCT	_	_	28	punct	_	start_char=358|end_char=359
+28	напреследовавшись	напреследоваться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	34	advcl	_	start_char=360|end_char=377
+29	с	с	ADP	_	_	31	case	_	start_char=378|end_char=379
+30	исследовательскими	исследовательский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	31	amod	_	start_char=380|end_char=398
+31	целями	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	28	obl	_	start_char=399|end_char=405
+32	вдоволь	вдоволь	ADV	_	Degree=Pos	28	advmod	_	start_char=406|end_char=413
+33	,	,	PUNCT	_	_	28	punct	_	start_char=413|end_char=414
+34	оглянулся	оглянуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=415|end_char=424
+35	,	,	PUNCT	_	_	37	punct	_	start_char=424|end_char=425
+36	то	то	SCONJ	_	_	37	mark	_	start_char=426|end_char=428
+37	увидел	увидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=429|end_char=435
+38	,	,	PUNCT	_	_	55	punct	_	start_char=435|end_char=436
+39	что	что	SCONJ	_	_	55	mark	_	start_char=437|end_char=440
+40	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	55	nsubj	_	start_char=441|end_char=447
+41	по	по	ADP	_	_	46	case	_	start_char=448|end_char=450
+42	самую	самый	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Emp	44	obl	_	start_char=451|end_char=456
+43	,	,	PUNCT	_	_	44	punct	_	start_char=456|end_char=457
+44	посверкивающую	посверкивать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	40	acl	_	start_char=458|end_char=472
+45	болотным	болотный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	46	amod	_	start_char=473|end_char=481
+46	огоньком	огоньки	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	44	obl:agent	_	start_char=482|end_char=490
+47	при	при	ADP	_	_	49	case	_	start_char=491|end_char=494
+48	дневном	дневный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	49	amod	_	start_char=495|end_char=502
+49	свете	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	44	obl	_	start_char=503|end_char=508
+50	,	,	PUNCT	_	_	51	punct	_	start_char=508|end_char=509
+51	маковку	маковка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	55	obj	_	start_char=510|end_char=517
+52	-	-	PUNCT	_	_	53	punct	_	start_char=517|end_char=518
+53	маячок	маячка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	51	appos	_	start_char=518|end_char=524
+54	,	,	PUNCT	_	_	44	punct	_	start_char=524|end_char=525
+55	засосало	засосать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	37	ccomp	_	start_char=526|end_char=534
+56	в	в	ADP	_	_	57	case	_	start_char=535|end_char=536
+57	трясину	трясина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	55	obl	_	start_char=537|end_char=544
+58	.	.	PUNCT	_	_	2	punct	_	start_char=544|end_char=545
+
+# text = – Какая незадача!..
+# sent_id = 4
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=546|end_char=547
+2	Какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	3	det	_	start_char=548|end_char=553
+3	незадача	незадача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=554|end_char=562
+4	!..	!..	PUNCT	_	_	3	punct	_	start_char=562|end_char=565
+
+# text = Но дело было поправимо, и Доктор принялся рыться в карманах, пока с ужасом не обнаружил, что оставил телефонную трубку в ТАРДИС.
+# sent_id = 5
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=567|end_char=569
+2	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=570|end_char=574
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=575|end_char=579
+4	поправимо	поправимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=580|end_char=589
+5	,	,	PUNCT	_	_	8	punct	_	start_char=589|end_char=590
+6	и	и	CCONJ	_	_	8	cc	_	start_char=591|end_char=592
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=593|end_char=599
+8	принялся	приняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=600|end_char=608
+9	рыться	рыться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	8	xcomp	_	start_char=609|end_char=615
+10	в	в	ADP	_	_	11	case	_	start_char=616|end_char=617
+11	карманах	карман	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	start_char=618|end_char=626
+12	,	,	PUNCT	_	_	17	punct	_	start_char=626|end_char=627
+13	пока	пока	SCONJ	_	_	17	mark	_	start_char=628|end_char=632
+14	с	с	ADP	_	_	15	case	_	start_char=633|end_char=634
+15	ужасом	ужас	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	start_char=635|end_char=641
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=642|end_char=644
+17	обнаружил	обнаружить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=645|end_char=654
+18	,	,	PUNCT	_	_	20	punct	_	start_char=654|end_char=655
+19	что	что	SCONJ	_	_	20	mark	_	start_char=656|end_char=659
+20	оставил	оставить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	ccomp	_	start_char=660|end_char=667
+21	телефонную	телефонный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=668|end_char=678
+22	трубку	трубка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	start_char=679|end_char=685
+23	в	в	ADP	_	_	24	case	_	start_char=686|end_char=687
+24	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	20	obl	_	start_char=688|end_char=694
+25	.	.	PUNCT	_	_	4	punct	_	start_char=694|end_char=695
+
+# text = Никакой связи!
+# sent_id = 6
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Никакой	никакой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Neg	2	det	_	start_char=696|end_char=703
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=704|end_char=709
+3	!	!	PUNCT	_	_	2	punct	_	start_char=709|end_char=710
+
+# text = А Мастеру, конечно, совершенно все равно, раз он не может покинуть ТАРДИС.
+# sent_id = 7
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	А	а	CCONJ	_	_	7	cc	_	start_char=711|end_char=712
+2	Мастеру	мастер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	start_char=713|end_char=720
+3	,	,	PUNCT	_	_	4	punct	_	start_char=720|end_char=721
+4	конечно	конечно	ADV	_	Degree=Pos	7	parataxis	_	start_char=722|end_char=729
+5	,	,	PUNCT	_	_	4	punct	_	start_char=729|end_char=730
+6	совершенно	совершенно	ADV	_	Degree=Pos	7	advmod	_	start_char=731|end_char=741
+7	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=742|end_char=745
+8	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	fixed	_	start_char=746|end_char=751
+9	,	,	PUNCT	_	_	13	punct	_	start_char=751|end_char=752
+10	раз	раз	SCONJ	_	_	13	mark	_	start_char=753|end_char=756
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=757|end_char=759
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=760|end_char=762
+13	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=763|end_char=768
+14	покинуть	покинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=769|end_char=777
+15	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	14	obj	_	start_char=778|end_char=784
+16	.	.	PUNCT	_	_	7	punct	_	start_char=784|end_char=785
+
+# text = В его голову андроида просто и не придет проверять, где он находится, пока не пройдет значительное время, которое покажется ему странным для невозвращения спутника…
+# sent_id = 8
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	В	в	ADP	_	_	3	case	_	start_char=786|end_char=787
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=788|end_char=791
+3	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=792|end_char=798
+4	андроида	андроид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nsubj	_	start_char=799|end_char=807
+5	просто	просто	PART	_	_	8	advmod	_	start_char=808|end_char=814
+6	и	и	PART	_	_	8	advmod	_	start_char=815|end_char=816
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=817|end_char=819
+8	придет	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=820|end_char=826
+9	проверять	проверять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=827|end_char=836
+10	,	,	PUNCT	_	_	13	punct	_	start_char=836|end_char=837
+11	где	где	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=838|end_char=841
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=842|end_char=844
+13	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	ccomp	_	start_char=845|end_char=854
+14	,	,	PUNCT	_	_	17	punct	_	start_char=854|end_char=855
+15	пока	пока	SCONJ	_	_	17	mark	_	start_char=856|end_char=860
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=861|end_char=863
+17	пройдет	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=864|end_char=871
+18	значительное	значительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=872|end_char=884
+19	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	start_char=885|end_char=890
+20	,	,	PUNCT	_	_	22	punct	_	start_char=890|end_char=891
+21	которое	который	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	22	nsubj	_	start_char=892|end_char=899
+22	покажется	показаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	19	acl:relcl	_	start_char=900|end_char=909
+23	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	iobj	_	start_char=910|end_char=913
+24	странным	странный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	22	xcomp	_	start_char=914|end_char=922
+25	для	для	ADP	_	_	26	case	_	start_char=923|end_char=926
+26	невозвращения	невозвращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	obl	_	start_char=927|end_char=940
+27	спутника	спутник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	start_char=941|end_char=949
+28	…	…	PUNCT	_	_	8	punct	_	start_char=949|end_char=950
+
+# text = Вообще-то, по-хорошему, Доктор считал спутником его, но тот считал себя существом более стабильным, к тому же все время находящимся на месте, тогда как Доктор прыгал вокруг ТАРДИС по планетам на разных орбитах.
+# sent_id = 9
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Вообще	вообще	ADV	_	Degree=Pos	8	advmod	_	start_char=951|end_char=957
+2	-	-	PUNCT	_	_	3	punct	_	start_char=957|end_char=958
+3	то	то	PART	_	_	1	advmod	_	start_char=958|end_char=960
+4	,	,	PUNCT	_	_	5	punct	_	start_char=960|end_char=961
+5	по-хорошему	по-хорошему	ADV	_	Degree=Pos	8	parataxis	_	start_char=962|end_char=973
+6	,	,	PUNCT	_	_	5	punct	_	start_char=973|end_char=974
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=975|end_char=981
+8	считал	считать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=982|end_char=988
+9	спутником	спутник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	xcomp	_	start_char=989|end_char=998
+10	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=999|end_char=1002
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1002|end_char=1003
+12	но	но	CCONJ	_	_	14	cc	_	start_char=1004|end_char=1006
+13	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	start_char=1007|end_char=1010
+14	считал	считать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=1011|end_char=1017
+15	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	obj	_	start_char=1018|end_char=1022
+16	существом	существо	NOUN	_	Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing	14	xcomp	_	start_char=1023|end_char=1032
+17	более	более	ADV	_	Degree=Cmp|PronType=Tot	18	advmod	_	start_char=1033|end_char=1038
+18	стабильным	стабильный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	xcomp	_	start_char=1039|end_char=1049
+19	,	,	PUNCT	_	_	25	punct	_	start_char=1049|end_char=1050
+20	к	к	ADP	_	_	21	case	_	start_char=1051|end_char=1052
+21	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	25	obl	_	start_char=1053|end_char=1057
+22	же	же	PART	_	_	21	advmod	_	start_char=1058|end_char=1060
+23	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	24	det	_	start_char=1061|end_char=1064
+24	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	obl	_	start_char=1065|end_char=1070
+25	находящимся	находиться	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	conj	_	start_char=1071|end_char=1082
+26	на	на	ADP	_	_	27	case	_	start_char=1083|end_char=1085
+27	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	obl	_	start_char=1086|end_char=1091
+28	,	,	PUNCT	_	_	32	punct	_	start_char=1091|end_char=1092
+29	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	32	advmod	_	start_char=1093|end_char=1098
+30	как	как	SCONJ	_	_	29	fixed	_	start_char=1099|end_char=1102
+31	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	start_char=1103|end_char=1109
+32	прыгал	прыгать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=1110|end_char=1116
+33	вокруг	вокруг	ADP	_	_	34	case	_	start_char=1117|end_char=1123
+34	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	32	obl	_	start_char=1124|end_char=1130
+35	по	по	ADP	_	_	36	case	_	start_char=1131|end_char=1133
+36	планетам	планета	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	32	obl	_	start_char=1134|end_char=1142
+37	на	на	ADP	_	_	39	case	_	start_char=1143|end_char=1145
+38	разных	разный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	39	amod	_	start_char=1146|end_char=1152
+39	орбитах	орбит	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	32	obl	_	start_char=1153|end_char=1160
+40	.	.	PUNCT	_	_	8	punct	_	start_char=1160|end_char=1161
+
+# text = Так что все было относительно.
+# sent_id = 10
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	mark	_	start_char=1162|end_char=1165
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=1166|end_char=1169
+3	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=1170|end_char=1173
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1174|end_char=1178
+5	относительно	относительно	ADV	_	Degree=Pos	4	advmod	_	start_char=1179|end_char=1191
+6	.	.	PUNCT	_	_	4	punct	_	start_char=1191|end_char=1192
+
+# text = Доктор решил, что самым простым способом будет найти какое-нибудь жилье и внешние средства связи.
+# sent_id = 11
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1193|end_char=1199
+2	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1200|end_char=1205
+3	,	,	PUNCT	_	_	7	punct	_	start_char=1205|end_char=1206
+4	что	что	SCONJ	_	_	7	mark	_	start_char=1207|end_char=1210
+5	самым	самый	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Emp	6	det	_	start_char=1211|end_char=1216
+6	простым	простой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1217|end_char=1224
+7	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	ccomp	_	start_char=1225|end_char=1233
+8	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	_	start_char=1234|end_char=1239
+9	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=1240|end_char=1245
+10	какое-нибудь	какой-нибудь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	11	det	_	start_char=1246|end_char=1258
+11	жилье	жилье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	start_char=1259|end_char=1264
+12	и	и	CCONJ	_	_	14	cc	_	start_char=1265|end_char=1266
+13	внешние	внешний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	start_char=1267|end_char=1274
+14	средства	средство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	conj	_	start_char=1275|end_char=1283
+15	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	start_char=1284|end_char=1289
+16	.	.	PUNCT	_	_	2	punct	_	start_char=1289|end_char=1290
+
+# text = Увидев более-менее приличную тропинку и что-то похожее на солидный жилой комплекс впереди, он отправился дальше на поиски приключений, знакомиться с местными жителями.
+# sent_id = 12
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Увидев	увидеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	17	advcl	_	start_char=1291|end_char=1297
+2	более	более	ADV	_	Degree=Cmp|PronType=Tot	5	advmod	_	start_char=1298|end_char=1303
+3	-	-	PUNCT	_	_	4	punct	_	start_char=1303|end_char=1304
+4	менее	менее	ADV	_	Degree=Cmp|PronType=Tot	2	conj	_	start_char=1304|end_char=1309
+5	приличную	приличный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=1310|end_char=1319
+6	тропинку	тропинка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	start_char=1320|end_char=1328
+7	и	и	CCONJ	_	_	8	cc	_	start_char=1329|end_char=1330
+8	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	conj	_	start_char=1331|end_char=1337
+9	похожее	похожий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	acl	_	start_char=1338|end_char=1345
+10	на	на	ADP	_	_	13	case	_	start_char=1346|end_char=1348
+11	солидный	солидный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=1349|end_char=1357
+12	жилой	жилой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=1358|end_char=1363
+13	комплекс	комплекс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	start_char=1364|end_char=1372
+14	впереди	впереди	ADV	_	Degree=Pos	9	advmod	_	start_char=1373|end_char=1380
+15	,	,	PUNCT	_	_	1	punct	_	start_char=1380|end_char=1381
+16	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=1382|end_char=1384
+17	отправился	отправиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1385|end_char=1395
+18	дальше	дальше	ADV	_	Degree=Cmp	17	advmod	_	start_char=1396|end_char=1402
+19	на	на	ADP	_	_	20	case	_	start_char=1403|end_char=1405
+20	поиски	поиск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obl	_	start_char=1406|end_char=1412
+21	приключений	приключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	start_char=1413|end_char=1424
+22	,	,	PUNCT	_	_	23	punct	_	start_char=1424|end_char=1425
+23	знакомиться	знакомиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	17	conj	_	start_char=1426|end_char=1437
+24	с	с	ADP	_	_	26	case	_	start_char=1438|end_char=1439
+25	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	start_char=1440|end_char=1448
+26	жителями	житель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	23	obl	_	start_char=1449|end_char=1457
+27	.	.	PUNCT	_	_	17	punct	_	start_char=1457|end_char=1458
+
+# text = Приближаясь к огромным кованым воротам, Доктор увидел группу из нескольких человек, что-то озабоченно обсуждавших.
+# sent_id = 13
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Приближаясь	приближаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	8	advcl	_	start_char=1459|end_char=1470
+2	к	к	ADP	_	_	5	case	_	start_char=1471|end_char=1472
+3	огромным	огромный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	5	amod	_	start_char=1473|end_char=1481
+4	кованым	кованый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	5	amod	_	start_char=1482|end_char=1489
+5	воротам	ворота	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	1	obl	_	start_char=1490|end_char=1497
+6	,	,	PUNCT	_	_	1	punct	_	start_char=1497|end_char=1498
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=1499|end_char=1505
+8	увидел	увидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1506|end_char=1512
+9	группу	группа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=1513|end_char=1519
+10	из	из	ADP	_	_	12	case	_	start_char=1520|end_char=1522
+11	нескольких	несколько	NUM	_	Case=Gen|NumForm=Word|NumType=Card	12	nummod	_	start_char=1523|end_char=1533
+12	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	start_char=1534|end_char=1541
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1541|end_char=1542
+14	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	16	nsubj	_	start_char=1543|end_char=1549
+15	озабоченно	озабоченно	ADV	_	Degree=Pos	16	advmod	_	start_char=1550|end_char=1560
+16	обсуждавших	обсуждать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	start_char=1561|end_char=1572
+17	.	.	PUNCT	_	_	8	punct	_	start_char=1572|end_char=1573
+
+# text = В руке одного из них была двустволка, а на шее болтался полевой бинокль.
+# sent_id = 14
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	В	в	ADP	_	_	2	case	_	start_char=1574|end_char=1575
+2	руке	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=1576|end_char=1580
+3	одного	один	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	2	nmod	_	start_char=1581|end_char=1587
+4	из	из	ADP	_	_	5	case	_	start_char=1588|end_char=1590
+5	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	nmod	_	start_char=1591|end_char=1594
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=1595|end_char=1599
+7	двустволка	двустволка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1600|end_char=1610
+8	,	,	PUNCT	_	_	12	punct	_	start_char=1610|end_char=1611
+9	а	а	CCONJ	_	_	12	cc	_	start_char=1612|end_char=1613
+10	на	на	ADP	_	_	11	case	_	start_char=1614|end_char=1616
+11	шее	шея	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	start_char=1617|end_char=1620
+12	болтался	болтаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1621|end_char=1629
+13	полевой	полевой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=1630|end_char=1637
+14	бинокль	бинокль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=1638|end_char=1645
+15	.	.	PUNCT	_	_	2	punct	_	start_char=1645|end_char=1646
+
+# text = – Здравствуйте, местные жители! – воскликнул Доктор.
+# sent_id = 15
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1647|end_char=1648
+2	Здравствуйте	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1649|end_char=1661
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1661|end_char=1662
+4	местные	местный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	start_char=1663|end_char=1670
+5	жители	житель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	vocative	_	start_char=1671|end_char=1677
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1677|end_char=1678
+7	–	–	PUNCT	_	_	8	punct	_	start_char=1679|end_char=1680
+8	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1681|end_char=1691
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=1692|end_char=1698
+10	.	.	PUNCT	_	_	2	punct	_	start_char=1698|end_char=1699
+
+# text = – Обитатели сих благословенных краев.
+# sent_id = 16
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1700|end_char=1701
+2	Обитатели	обитатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=1702|end_char=1711
+3	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	5	det	_	start_char=1712|end_char=1715
+4	благословенных	благословенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	start_char=1716|end_char=1730
+5	краев	край	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=1731|end_char=1736
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1736|end_char=1737
+
+# text = Я – Доктор…
+# sent_id = 17
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=1738|end_char=1739
+2	–	–	PUNCT	_	_	3	punct	_	start_char=1740|end_char=1741
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	start_char=1742|end_char=1748
+4	…	…	PUNCT	_	_	1	punct	_	start_char=1748|end_char=1749
+
+# text = Люди, которых он увидел, немедленно поспешили ему навстречу.
+# sent_id = 18
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=1750|end_char=1754
+2	,	,	PUNCT	_	_	5	punct	_	start_char=1754|end_char=1755
+3	которых	который	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Rel	5	obj	_	start_char=1756|end_char=1763
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1764|end_char=1766
+5	увидел	увидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=1767|end_char=1773
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1773|end_char=1774
+7	немедленно	немедленно	ADV	_	Degree=Pos	8	advmod	_	start_char=1775|end_char=1785
+8	поспешили	поспешить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1786|end_char=1795
+9	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	start_char=1796|end_char=1799
+10	навстречу	навстречу	ADV	_	Degree=Pos	8	advmod	_	start_char=1800|end_char=1809
+11	.	.	PUNCT	_	_	8	punct	_	start_char=1809|end_char=1810
+
+# text = Несмотря на двустволку, он бы даже отметил, что поспешили радостно.
+# sent_id = 19
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Несмотря	несмотря	ADV	_	Degree=Pos	3	case	_	start_char=1811|end_char=1819
+2	на	на	ADP	_	_	1	fixed	_	start_char=1820|end_char=1822
+3	двустволку	двустволка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=1823|end_char=1833
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1833|end_char=1834
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=1835|end_char=1837
+6	бы	бы	AUX	_	Mood=Cnd	8	aux	_	start_char=1838|end_char=1840
+7	даже	даже	PART	_	_	8	advmod	_	start_char=1841|end_char=1845
+8	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1846|end_char=1853
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1853|end_char=1854
+10	что	что	SCONJ	_	_	11	mark	_	start_char=1855|end_char=1858
+11	поспешили	поспешить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	start_char=1859|end_char=1868
+12	радостно	радостно	ADV	_	Degree=Pos	11	advmod	_	start_char=1869|end_char=1877
+13	.	.	PUNCT	_	_	8	punct	_	start_char=1877|end_char=1878
+
+# text = – Доктор Уот!.. – начал было тот, что с двустволкой.
+# sent_id = 20
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1879|end_char=1880
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1881|end_char=1887
+3	Уот	Уот	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	start_char=1888|end_char=1891
+4	!..	!..	PUNCT	_	_	2	punct	_	start_char=1891|end_char=1894
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1895|end_char=1896
+6	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1897|end_char=1902
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1903|end_char=1907
+8	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1908|end_char=1911
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1911|end_char=1912
+10	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj	_	start_char=1913|end_char=1916
+11	с	с	ADP	_	_	12	case	_	start_char=1917|end_char=1918
+12	двустволкой	двустволка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	acl:relcl	_	start_char=1919|end_char=1930
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1930|end_char=1931
+
+# text = – Простите!
+# sent_id = 21
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1932|end_char=1933
+2	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1934|end_char=1942
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1942|end_char=1943
+
+# text = – возмутился Доктор.
+# sent_id = 22
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1944|end_char=1945
+2	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1946|end_char=1956
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1957|end_char=1963
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1963|end_char=1964
+
+# text = – Меня нередко называли Доктор Кто, но не Доктор Что!..
+# sent_id = 23
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1965|end_char=1966
+2	Меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=1967|end_char=1971
+3	нередко	нередко	ADV	_	Degree=Pos	4	advmod	_	start_char=1972|end_char=1979
+4	называли	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1980|end_char=1988
+5	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1989|end_char=1995
+6	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	appos	_	start_char=1996|end_char=1999
+7	,	,	PUNCT	_	_	10	punct	_	start_char=1999|end_char=2000
+8	но	но	CCONJ	_	_	10	cc	_	start_char=2001|end_char=2003
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=2004|end_char=2006
+10	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	start_char=2007|end_char=2013
+11	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	det	_	start_char=2014|end_char=2017
+12	!..	!..	PUNCT	_	_	4	punct	_	start_char=2017|end_char=2020
+
+# text = – Ха-ха, простите, Доктор, славная шутка!
+# sent_id = 24
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	9	punct	_	start_char=2021|end_char=2022
+2	Ха-ха	ха-ха	INTJ	_	_	9	discourse	_	start_char=2023|end_char=2028
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2028|end_char=2029
+4	простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=2030|end_char=2038
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2038|end_char=2039
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	vocative	_	start_char=2040|end_char=2046
+7	,	,	PUNCT	_	_	6	punct	_	start_char=2046|end_char=2047
+8	славная	славный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=2048|end_char=2055
+9	шутка	шутка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2056|end_char=2061
+10	!	!	PUNCT	_	_	9	punct	_	start_char=2061|end_char=2062
+
+# text = Мы поняли, вы не хотите, чтобы прозвучали какие-то имена.
+# sent_id = 25
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=2063|end_char=2065
+2	поняли	понять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2066|end_char=2072
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2072|end_char=2073
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	start_char=2074|end_char=2076
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2077|end_char=2079
+6	хотите	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2080|end_char=2086
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2086|end_char=2087
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	9	mark	_	start_char=2088|end_char=2093
+9	прозвучали	прозвучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=2094|end_char=2104
+10	какие-то	какой-то	DET	_	Case=Nom|Number=Plur|PronType=Ind	11	det	_	start_char=2105|end_char=2113
+11	имена	имя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	start_char=2114|end_char=2119
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2119|end_char=2120
+
+# text = – И понизив голос, прибавил: – А мы уж думали, что вы отказались от этого дела.
+# sent_id = 26
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2121|end_char=2122
+2	И	и	CCONJ	_	_	6	cc	_	start_char=2123|end_char=2124
+3	понизив	понизить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=2125|end_char=2132
+4	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2133|end_char=2138
+5	,	,	PUNCT	_	_	3	punct	_	start_char=2138|end_char=2139
+6	прибавил	прибавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2140|end_char=2148
+7	:	:	PUNCT	_	_	12	punct	_	start_char=2148|end_char=2149
+8	–	–	PUNCT	_	_	12	punct	_	start_char=2150|end_char=2151
+9	А	а	CCONJ	_	_	12	cc	_	start_char=2152|end_char=2153
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=2154|end_char=2156
+11	уж	уж	PART	_	_	12	advmod	_	start_char=2157|end_char=2159
+12	думали	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2160|end_char=2166
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2166|end_char=2167
+14	что	что	SCONJ	_	_	16	mark	_	start_char=2168|end_char=2171
+15	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	start_char=2172|end_char=2174
+16	отказались	отказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	ccomp	_	start_char=2175|end_char=2185
+17	от	от	ADP	_	_	19	case	_	start_char=2186|end_char=2188
+18	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	19	det	_	start_char=2189|end_char=2194
+19	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	start_char=2195|end_char=2199
+20	.	.	PUNCT	_	_	6	punct	_	start_char=2199|end_char=2200
+
+# text = Представьте только, на почте нам заявили, что подобного адреса на Бейкер-стрит не существует!
+# sent_id = 27
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Представьте	представить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2201|end_char=2212
+2	только	только	PART	_	_	1	advmod	_	start_char=2213|end_char=2219
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2219|end_char=2220
+4	на	на	ADP	_	_	5	case	_	start_char=2221|end_char=2223
+5	почте	почта	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	start_char=2224|end_char=2229
+6	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	start_char=2230|end_char=2233
+7	заявили	заявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=2234|end_char=2241
+8	,	,	PUNCT	_	_	17	punct	_	start_char=2241|end_char=2242
+9	что	что	SCONJ	_	_	17	mark	_	start_char=2243|end_char=2246
+10	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=2247|end_char=2256
+11	адреса	адрес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nsubj	_	start_char=2257|end_char=2263
+12	на	на	ADP	_	_	13	case	_	start_char=2264|end_char=2266
+13	Бейкер	Бейкер	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	11	nmod	_	start_char=2267|end_char=2273
+14	-	-	PUNCT	_	_	15	punct	_	start_char=2273|end_char=2274
+15	стрит	Стрит	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	13	appos	_	start_char=2274|end_char=2279
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=2280|end_char=2282
+17	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	start_char=2283|end_char=2293
+18	!	!	PUNCT	_	_	1	punct	_	start_char=2293|end_char=2294
+
+# text = Но вы всё же прибыли, да еще инкогнито!
+# sent_id = 28
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=2295|end_char=2297
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=2298|end_char=2300
+3	всё	всё	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=2301|end_char=2304
+4	же	же	PART	_	_	3	advmod	_	start_char=2305|end_char=2307
+5	прибыли	прибыль	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2308|end_char=2315
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2315|end_char=2316
+7	да	да	CCONJ	_	_	9	cc	_	start_char=2317|end_char=2319
+8	еще	еще	ADV	_	Degree=Pos	9	advmod	_	start_char=2320|end_char=2323
+9	инкогнито	инкогнитый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	start_char=2324|end_char=2333
+10	!	!	PUNCT	_	_	5	punct	_	start_char=2333|end_char=2334
+
+# text = – Да, я все же прибыл, – подтвердил Доктор.
+# sent_id = 29
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	7	punct	_	start_char=2335|end_char=2336
+2	Да	да	PART	_	_	7	parataxis	_	start_char=2337|end_char=2339
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2339|end_char=2340
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=2341|end_char=2342
+5	все	всё	ADV	_	Degree=Pos|PronType=Tot	7	advmod	_	start_char=2343|end_char=2346
+6	же	же	PART	_	_	5	fixed	_	start_char=2347|end_char=2349
+7	прибыл	прибыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2350|end_char=2356
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2356|end_char=2357
+9	–	–	PUNCT	_	_	10	punct	_	start_char=2358|end_char=2359
+10	подтвердил	подтвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=2360|end_char=2370
+11	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=2371|end_char=2377
+12	.	.	PUNCT	_	_	7	punct	_	start_char=2377|end_char=2378
+
+# text = – Скажите, пожалуйста, у вас есть телефон?
+# sent_id = 30
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2379|end_char=2380
+2	Скажите	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2381|end_char=2388
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2388|end_char=2389
+4	пожалуйста	пожалуйста	PART	_	_	2	discourse	_	start_char=2390|end_char=2400
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2400|end_char=2401
+6	у	у	ADP	_	_	7	case	_	start_char=2402|end_char=2403
+7	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	parataxis	_	start_char=2404|end_char=2407
+8	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2408|end_char=2412
+9	телефон	телефон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=2413|end_char=2420
+10	?	?	PUNCT	_	_	2	punct	_	start_char=2420|end_char=2421
+
+# text = – Простите, сэр?..
+# sent_id = 31
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2422|end_char=2423
+2	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2424|end_char=2432
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2432|end_char=2433
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=2434|end_char=2437
+5	?..	?..	PUNCT	_	_	2	punct	_	start_char=2437|end_char=2440
+
+# text = – Это такое средство связи…
+# sent_id = 32
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2441|end_char=2442
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2443|end_char=2446
+3	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	start_char=2447|end_char=2452
+4	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2453|end_char=2461
+5	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=2462|end_char=2467
+6	…	…	PUNCT	_	_	4	punct	_	start_char=2467|end_char=2468
+
+# text = – А!
+# sent_id = 33
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2469|end_char=2470
+2	А	а	INTJ	_	_	0	root	_	start_char=2471|end_char=2472
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2472|end_char=2473
+
+# text = Телеграф есть на ближайшей станции, всего в нескольких милях отсюда!
+# sent_id = 34
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Телеграф	телеграф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2474|end_char=2482
+2	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	start_char=2483|end_char=2487
+3	на	на	ADP	_	_	5	case	_	start_char=2488|end_char=2490
+4	ближайшей	ближайший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2491|end_char=2500
+5	станции	станция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=2501|end_char=2508
+6	,	,	PUNCT	_	_	10	punct	_	start_char=2508|end_char=2509
+7	всего	всего	ADV	_	Degree=Pos|PronType=Tot	10	advmod	_	start_char=2510|end_char=2515
+8	в	в	ADP	_	_	10	case	_	start_char=2516|end_char=2517
+9	нескольких	несколько	NUM	_	Case=Loc|NumForm=Word|NumType=Card	10	nummod	_	start_char=2518|end_char=2528
+10	милях	мильх	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	conj	_	start_char=2529|end_char=2534
+11	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=2535|end_char=2541
+12	!	!	PUNCT	_	_	5	punct	_	start_char=2541|end_char=2542
+
+# text = Но я намерен в течение года провести телеграф и электричество прямо в дом.
+# sent_id = 35
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=2543|end_char=2545
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2546|end_char=2547
+3	намерен	намерен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2548|end_char=2555
+4	в	в	ADP	_	_	6	case	_	start_char=2556|end_char=2557
+5	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	fixed	_	start_char=2558|end_char=2565
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=2566|end_char=2570
+7	провести	провести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2571|end_char=2579
+8	телеграф	телеграф	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=2580|end_char=2588
+9	и	и	CCONJ	_	_	10	cc	_	start_char=2589|end_char=2590
+10	электричество	электричество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	conj	_	start_char=2591|end_char=2604
+11	прямо	прямо	PART	_	_	13	advmod	_	start_char=2605|end_char=2610
+12	в	в	ADP	_	_	13	case	_	start_char=2611|end_char=2612
+13	дом	дом	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=2613|end_char=2616
+14	.	.	PUNCT	_	_	3	punct	_	start_char=2616|end_char=2617
+
+# text = Позвольте представиться, я новый владелец поместья, Генри Баскервиль.
+# sent_id = 36
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Позвольте	позволить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2618|end_char=2627
+2	представиться	представиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	xcomp	_	start_char=2628|end_char=2641
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2641|end_char=2642
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=2643|end_char=2644
+5	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=2645|end_char=2650
+6	владелец	владелец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=2651|end_char=2659
+7	поместья	поместье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=2660|end_char=2668
+8	,	,	PUNCT	_	_	9	punct	_	start_char=2668|end_char=2669
+9	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	conj	_	start_char=2670|end_char=2675
+10	Баскервиль	Баскервиль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	start_char=2676|end_char=2686
+11	.	.	PUNCT	_	_	1	punct	_	start_char=2686|end_char=2687
+
+# text = – Новый владелец поместья так и лучился гордостью и энтузиазмом.
+# sent_id = 37
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	7	punct	_	start_char=2688|end_char=2689
+2	Новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=2690|end_char=2695
+3	владелец	владелец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=2696|end_char=2704
+4	поместья	поместье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	start_char=2705|end_char=2713
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2714|end_char=2717
+6	и	и	PART	_	_	5	fixed	_	start_char=2718|end_char=2719
+7	лучился	лучиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2720|end_char=2727
+8	гордостью	гордость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	iobj	_	start_char=2728|end_char=2737
+9	и	и	CCONJ	_	_	10	cc	_	start_char=2738|end_char=2739
+10	энтузиазмом	энтузиазм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	conj	_	start_char=2740|end_char=2751
+11	.	.	PUNCT	_	_	7	punct	_	start_char=2751|end_char=2752
+
+# text = – Рад за вас, – несколько приуныл Доктор.
+# sent_id = 38
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2753|end_char=2754
+2	Рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2755|end_char=2758
+3	за	за	ADP	_	_	4	case	_	start_char=2759|end_char=2761
+4	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	2	obl	_	start_char=2762|end_char=2765
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2765|end_char=2766
+6	–	–	PUNCT	_	_	8	punct	_	start_char=2767|end_char=2768
+7	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	obj	_	start_char=2769|end_char=2778
+8	приуныл	приуныть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2779|end_char=2786
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=2787|end_char=2793
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2793|end_char=2794
+
+# text = – А нет ли у вас случайно в доме какой-нибудь научной лаборатории, или, на худой конец, алхимической?
+# sent_id = 39
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2795|end_char=2796
+2	А	а	CCONJ	_	_	3	cc	_	start_char=2797|end_char=2798
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=2799|end_char=2802
+4	ли	ли	PART	_	_	3	advmod	_	start_char=2803|end_char=2805
+5	у	у	ADP	_	_	6	case	_	start_char=2806|end_char=2807
+6	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	obl	_	start_char=2808|end_char=2811
+7	случайно	случайно	ADV	_	Degree=Pos	3	advmod	_	start_char=2812|end_char=2820
+8	в	в	ADP	_	_	9	case	_	start_char=2821|end_char=2822
+9	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=2823|end_char=2827
+10	какой-нибудь	какой-нибудь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	start_char=2828|end_char=2840
+11	научной	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=2841|end_char=2848
+12	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=2849|end_char=2860
+13	,	,	PUNCT	_	_	20	punct	_	start_char=2860|end_char=2861
+14	или	или	CCONJ	_	_	20	cc	_	start_char=2862|end_char=2865
+15	,	,	PUNCT	_	_	18	punct	_	start_char=2865|end_char=2866
+16	на	на	ADP	_	_	18	case	_	start_char=2867|end_char=2869
+17	худой	худой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=2870|end_char=2875
+18	конец	конец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	conj	_	start_char=2876|end_char=2881
+19	,	,	PUNCT	_	_	20	punct	_	start_char=2881|end_char=2882
+20	алхимической	алхимический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=2883|end_char=2895
+21	?	?	PUNCT	_	_	3	punct	_	start_char=2895|end_char=2896
+
+# text = – Как вы догадались? – восхитился сэр Генри.
+# sent_id = 40
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2897|end_char=2898
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=2899|end_char=2902
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=2903|end_char=2905
+4	догадались	догадаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2906|end_char=2916
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2916|end_char=2917
+6	–	–	PUNCT	_	_	7	punct	_	start_char=2918|end_char=2919
+7	восхитился	восхититься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2920|end_char=2930
+8	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=2931|end_char=2934
+9	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	appos	_	start_char=2935|end_char=2940
+10	.	.	PUNCT	_	_	4	punct	_	start_char=2940|end_char=2941
+
+# text = – Конечно, есть!
+# sent_id = 41
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2942|end_char=2943
+2	Конечно	конечно	ADV	_	Degree=Pos	4	parataxis	_	start_char=2944|end_char=2951
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2951|end_char=2952
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2953|end_char=2957
+5	!	!	PUNCT	_	_	4	punct	_	start_char=2957|end_char=2958
+
+# text = Проходите, пожалуйста.
+# sent_id = 42
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Проходите	проходить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2959|end_char=2968
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2968|end_char=2969
+3	пожалуйста	пожалуйста	PART	_	_	1	discourse	_	start_char=2970|end_char=2980
+4	.	.	PUNCT	_	_	1	punct	_	start_char=2980|end_char=2981
+
+# text = Но может быть, сперва вы хотели бы умыться, перекусить, или хотя бы выпить стаканчик бренди с дороги?
+# sent_id = 43
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Но	но	CCONJ	_	_	7	cc	_	start_char=2982|end_char=2984
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=2985|end_char=2990
+3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2991|end_char=2995
+4	,	,	PUNCT	_	_	2	punct	_	start_char=2995|end_char=2996
+5	сперва	сперва	ADV	_	Degree=Pos	7	advmod	_	start_char=2997|end_char=3003
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=3004|end_char=3006
+7	хотели	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3007|end_char=3013
+8	бы	бы	AUX	_	Mood=Cnd	7	aux	_	start_char=3014|end_char=3016
+9	умыться	умыться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=3017|end_char=3024
+10	,	,	PUNCT	_	_	11	punct	_	start_char=3024|end_char=3025
+11	перекусить	перекусить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	conj	_	start_char=3026|end_char=3036
+12	,	,	PUNCT	_	_	16	punct	_	start_char=3036|end_char=3037
+13	или	или	CCONJ	_	_	16	cc	_	start_char=3038|end_char=3041
+14	хотя	хотя	PART	_	_	16	advmod	_	start_char=3042|end_char=3046
+15	бы	бы	PART	_	_	14	fixed	_	start_char=3047|end_char=3049
+16	выпить	выпить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	conj	_	start_char=3050|end_char=3056
+17	стаканчик	стаканчик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	start_char=3057|end_char=3066
+18	бренди	бренди	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	start_char=3067|end_char=3073
+19	с	с	ADP	_	_	20	case	_	start_char=3074|end_char=3075
+20	дороги	дорога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	start_char=3076|end_char=3082
+21	?	?	PUNCT	_	_	7	punct	_	start_char=3082|end_char=3083
+
+# text = – Благодарю за любезное предложение, я сперва осмотрю лабораторию.
+# sent_id = 44
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3084|end_char=3085
+2	Благодарю	благодарить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3086|end_char=3095
+3	за	за	ADP	_	_	5	case	_	start_char=3096|end_char=3098
+4	любезное	любезный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=3099|end_char=3107
+5	предложение	предложение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	start_char=3108|end_char=3119
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3119|end_char=3120
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=3121|end_char=3122
+8	сперва	сперва	ADV	_	Degree=Pos	9	advmod	_	start_char=3123|end_char=3129
+9	осмотрю	осмотреть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3130|end_char=3137
+10	лабораторию	лаборатория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=3138|end_char=3149
+11	.	.	PUNCT	_	_	2	punct	_	start_char=3149|end_char=3150
+
+# text = – Как мы вам благодарны!
+# sent_id = 45
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3151|end_char=3152
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=3153|end_char=3156
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=3157|end_char=3159
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	iobj	_	start_char=3160|end_char=3163
+5	благодарны	благодарный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=3164|end_char=3174
+6	!	!	PUNCT	_	_	5	punct	_	start_char=3174|end_char=3175
+
+# text = – восхитился сэр Генри.
+# sent_id = 46
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3176|end_char=3177
+2	восхитился	восхититься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3178|end_char=3188
+3	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3189|end_char=3192
+4	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	appos	_	start_char=3193|end_char=3198
+5	.	.	PUNCT	_	_	2	punct	_	start_char=3198|end_char=3199
+
+# text = – Я вас провожу… простите, я еще могу заблудиться в доме, он мне вновинку.
+# sent_id = 47
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3200|end_char=3201
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=3202|end_char=3203
+3	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	obj	_	start_char=3204|end_char=3207
+4	провожу	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3208|end_char=3215
+5	…	…	PUNCT	_	_	6	punct	_	start_char=3215|end_char=3216
+6	простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=3217|end_char=3225
+7	,	,	PUNCT	_	_	10	punct	_	start_char=3225|end_char=3226
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=3227|end_char=3228
+9	еще	еще	ADV	_	Degree=Pos	10	advmod	_	start_char=3229|end_char=3232
+10	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=3233|end_char=3237
+11	заблудиться	заблудиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	10	xcomp	_	start_char=3238|end_char=3249
+12	в	в	ADP	_	_	13	case	_	start_char=3250|end_char=3251
+13	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	start_char=3252|end_char=3256
+14	,	,	PUNCT	_	_	17	punct	_	start_char=3256|end_char=3257
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=3258|end_char=3260
+16	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	iobj	_	start_char=3261|end_char=3264
+17	вновинку	вновинкать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=3265|end_char=3273
+18	.	.	PUNCT	_	_	4	punct	_	start_char=3273|end_char=3274
+
+# text = Бэрримор, отведите нас в лабораторию дяди.
+# sent_id = 48
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Бэрримор	Бэрримор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	vocative	_	start_char=3275|end_char=3283
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3283|end_char=3284
+3	отведите	отведить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3285|end_char=3293
+4	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	start_char=3294|end_char=3297
+5	в	в	ADP	_	_	6	case	_	start_char=3298|end_char=3299
+6	лабораторию	лаборатория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=3300|end_char=3311
+7	дяди	дядя	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=3312|end_char=3316
+8	.	.	PUNCT	_	_	3	punct	_	start_char=3316|end_char=3317
+
+# text = Доктор застыл на пороге лаборатории.
+# sent_id = 49
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3319|end_char=3325
+2	застыл	застыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3326|end_char=3332
+3	на	на	ADP	_	_	4	case	_	start_char=3333|end_char=3335
+4	пороге	порог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=3336|end_char=3342
+5	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=3343|end_char=3354
+6	.	.	PUNCT	_	_	2	punct	_	start_char=3354|end_char=3355
+
+# text = – Боги!
+# sent_id = 50
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3356|end_char=3357
+2	Боги	бог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=3358|end_char=3362
+3	!	!	PUNCT	_	_	2	punct	_	start_char=3362|end_char=3363
+
+# text = Что это?!
+# sent_id = 51
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=3364|end_char=3367
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=3368|end_char=3371
+3	?!	?!	PUNCT	_	_	1	punct	_	start_char=3371|end_char=3373
+
+# text = – Время от времени
+# sent_id = 52
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3374|end_char=3375
+2	Время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3376|end_char=3381
+3	от	от	ADP	_	_	4	case	_	start_char=3382|end_char=3384
+4	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	start_char=3385|end_char=3392
+
+# text = Доктор употреблял избитые человеческие междометия.
+# sent_id = 53
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3393|end_char=3399
+2	употреблял	употреблять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3400|end_char=3410
+3	избитые	избитый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	start_char=3411|end_char=3418
+4	человеческие	человеческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	start_char=3419|end_char=3431
+5	междометия	междометие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obj	_	start_char=3432|end_char=3442
+6	.	.	PUNCT	_	_	2	punct	_	start_char=3442|end_char=3443
+
+# text = – Ничего страшного!
+# sent_id = 54
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3444|end_char=3445
+2	Ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=3446|end_char=3452
+3	страшного	страшный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=3453|end_char=3462
+4	!	!	PUNCT	_	_	2	punct	_	start_char=3462|end_char=3463
+
+# text = – успокаивающе забегал по комнате сэр Генри, среди впечатляющих колб, генераторов и огромного стола с креплениями.
+# sent_id = 55
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3464|end_char=3465
+2	успокаивающе	успокаивающе	ADV	_	Degree=Pos	3	advmod	_	start_char=3466|end_char=3478
+3	забегал	забегать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3479|end_char=3486
+4	по	по	ADP	_	_	5	case	_	start_char=3487|end_char=3489
+5	комнате	комната	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	obl	_	start_char=3490|end_char=3497
+6	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3498|end_char=3501
+7	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	appos	_	start_char=3502|end_char=3507
+8	,	,	PUNCT	_	_	11	punct	_	start_char=3507|end_char=3508
+9	среди	среди	ADP	_	_	11	case	_	start_char=3509|end_char=3514
+10	впечатляющих	впечатляющий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	start_char=3515|end_char=3527
+11	колб	колб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	start_char=3528|end_char=3532
+12	,	,	PUNCT	_	_	13	punct	_	start_char=3532|end_char=3533
+13	генераторов	генератор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	conj	_	start_char=3534|end_char=3545
+14	и	и	CCONJ	_	_	16	cc	_	start_char=3546|end_char=3547
+15	огромного	огромный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=3548|end_char=3557
+16	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	conj	_	start_char=3558|end_char=3563
+17	с	с	ADP	_	_	18	case	_	start_char=3564|end_char=3565
+18	креплениями	крепление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	16	nmod	_	start_char=3566|end_char=3577
+19	.	.	PUNCT	_	_	3	punct	_	start_char=3577|end_char=3578
+
+# text = – Понимаете, дядя был очень эксцентричный старый джентльмен, он пытался вступить в контакт с древними жителями гримпенских болот с помощью теории животного электричества!
+# sent_id = 56
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3579|end_char=3580
+2	Понимаете	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3581|end_char=3590
+3	,	,	PUNCT	_	_	9	punct	_	start_char=3590|end_char=3591
+4	дядя	дядя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=3592|end_char=3596
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=3597|end_char=3600
+6	очень	очень	ADV	_	Degree=Pos	7	advmod	_	start_char=3601|end_char=3606
+7	эксцентричный	эксцентричный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=3607|end_char=3620
+8	старый	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=3621|end_char=3627
+9	джентльмен	джентльмен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	start_char=3628|end_char=3638
+10	,	,	PUNCT	_	_	12	punct	_	start_char=3638|end_char=3639
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=3640|end_char=3642
+12	пытался	пытаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=3643|end_char=3650
+13	вступить	вступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=3651|end_char=3659
+14	в	в	ADP	_	_	15	case	_	start_char=3660|end_char=3661
+15	контакт	контакт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	start_char=3662|end_char=3669
+16	с	с	ADP	_	_	18	case	_	start_char=3670|end_char=3671
+17	древними	древний	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	18	amod	_	start_char=3672|end_char=3680
+18	жителями	житель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	15	nmod	_	start_char=3681|end_char=3689
+19	гримпенских	гримпенский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	start_char=3690|end_char=3701
+20	болот	болото	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	start_char=3702|end_char=3707
+21	с	с	ADP	_	_	23	case	_	start_char=3708|end_char=3709
+22	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	fixed	_	start_char=3710|end_char=3717
+23	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	start_char=3718|end_char=3724
+24	животного	животный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	start_char=3725|end_char=3734
+25	электричества	электричество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	start_char=3735|end_char=3748
+26	!	!	PUNCT	_	_	2	punct	_	start_char=3748|end_char=3749
+
+# text = Знаете, тела, попавшие в торф, удивительно долго и хорошо сохраняются.
+# sent_id = 57
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	parataxis	_	start_char=3750|end_char=3756
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3756|end_char=3757
+3	тела	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	nsubj	_	start_char=3758|end_char=3762
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3762|end_char=3763
+5	попавшие	попасть	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	start_char=3764|end_char=3772
+6	в	в	ADP	_	_	7	case	_	start_char=3773|end_char=3774
+7	торф	торф	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=3775|end_char=3779
+8	,	,	PUNCT	_	_	5	punct	_	start_char=3779|end_char=3780
+9	удивительно	удивительный	ADV	_	Degree=Pos	10	advmod	_	start_char=3781|end_char=3792
+10	долго	долго	ADV	_	Degree=Pos	13	advmod	_	start_char=3793|end_char=3798
+11	и	и	CCONJ	_	_	12	cc	_	start_char=3799|end_char=3800
+12	хорошо	хорошо	ADV	_	Degree=Pos	10	conj	_	start_char=3801|end_char=3807
+13	сохраняются	сохраняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3808|end_char=3819
+14	.	.	PUNCT	_	_	13	punct	_	start_char=3819|end_char=3820
+
+# text = Дяде казалось, что он может оживить эти древние тела хоть ненадолго, насытив их электричеством, спросить про их времена, но увы, его эксперименты ничем не закончились.
+# sent_id = 58
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Дяде	дяд	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	start_char=3821|end_char=3825
+2	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3826|end_char=3834
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3834|end_char=3835
+4	что	что	SCONJ	_	_	6	mark	_	start_char=3836|end_char=3839
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3840|end_char=3842
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=3843|end_char=3848
+7	оживить	оживить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=3849|end_char=3856
+8	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	10	det	_	start_char=3857|end_char=3860
+9	древние	древний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	start_char=3861|end_char=3868
+10	тела	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	obj	_	start_char=3869|end_char=3873
+11	хоть	хоть	SCONJ	_	_	12	mark	_	start_char=3874|end_char=3878
+12	ненадолго	ненадолго	ADV	_	Degree=Pos	7	advmod	_	start_char=3879|end_char=3888
+13	,	,	PUNCT	_	_	14	punct	_	start_char=3888|end_char=3889
+14	насытив	насытить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=3890|end_char=3897
+15	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	start_char=3898|end_char=3900
+16	электричеством	электричество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	iobj	_	start_char=3901|end_char=3915
+17	,	,	PUNCT	_	_	18	punct	_	start_char=3915|end_char=3916
+18	спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	start_char=3917|end_char=3925
+19	про	про	ADP	_	_	21	case	_	start_char=3926|end_char=3929
+20	их	их	DET	_	Poss=Yes|PronType=Prs	21	det	_	start_char=3930|end_char=3932
+21	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	obl	_	start_char=3933|end_char=3940
+22	,	,	PUNCT	_	_	30	punct	_	start_char=3940|end_char=3941
+23	но	но	CCONJ	_	_	30	cc	_	start_char=3942|end_char=3944
+24	увы	увы	INTJ	_	_	30	discourse	_	start_char=3945|end_char=3948
+25	,	,	PUNCT	_	_	24	punct	_	start_char=3948|end_char=3949
+26	его	его	DET	_	Poss=Yes|PronType=Prs	27	det	_	start_char=3950|end_char=3953
+27	эксперименты	эксперимент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	30	nsubj	_	start_char=3954|end_char=3966
+28	ничем	ничто	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Neg	30	iobj	_	start_char=3967|end_char=3972
+29	не	не	PART	_	Polarity=Neg	30	advmod	_	start_char=3973|end_char=3975
+30	закончились	закончиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=3976|end_char=3987
+31	.	.	PUNCT	_	_	2	punct	_	start_char=3987|end_char=3988
+
+# text = – Понятно, – кивнул Доктор.
+# sent_id = 59
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3989|end_char=3990
+2	Понятно	понятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3991|end_char=3998
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3998|end_char=3999
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4000|end_char=4001
+5	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4002|end_char=4008
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4009|end_char=4015
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4015|end_char=4016
+
+# text = – Но тут есть генераторы!
+# sent_id = 60
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4017|end_char=4018
+2	Но	но	CCONJ	_	_	4	cc	_	start_char=4019|end_char=4021
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4022|end_char=4025
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4026|end_char=4030
+5	генераторы	генератор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=4031|end_char=4041
+6	!	!	PUNCT	_	_	4	punct	_	start_char=4041|end_char=4042
+
+# text = Это же прекрасно!
+# sent_id = 61
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4043|end_char=4046
+2	же	же	PART	_	_	1	advmod	_	start_char=4047|end_char=4049
+3	прекрасно	прекрасный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4050|end_char=4059
+4	!	!	PUNCT	_	_	3	punct	_	start_char=4059|end_char=4060
+
+# text = Я этого не ожидал!
+# sent_id = 62
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4061|end_char=4062
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	start_char=4063|end_char=4068
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4069|end_char=4071
+4	ожидал	ожидать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4072|end_char=4078
+5	!	!	PUNCT	_	_	4	punct	_	start_char=4078|end_char=4079
+
+# text = Кажется, тут есть все, мне необходимое!
+# sent_id = 63
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=4080|end_char=4087
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4087|end_char=4088
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4089|end_char=4092
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4093|end_char=4097
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=4098|end_char=4101
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4101|end_char=4102
+7	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	start_char=4103|end_char=4106
+8	необходимое	необходимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	conj	_	start_char=4107|end_char=4118
+9	!	!	PUNCT	_	_	4	punct	_	start_char=4118|end_char=4119
+
+# text = – Мы очень рады!
+# sent_id = 64
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4120|end_char=4121
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=4122|end_char=4124
+3	очень	очень	ADV	_	Degree=Pos	4	advmod	_	start_char=4125|end_char=4130
+4	рады	рад	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=4131|end_char=4135
+5	!	!	PUNCT	_	_	4	punct	_	start_char=4135|end_char=4136
+
+# text = – воскликнул сэр Генри.
+# sent_id = 65
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4137|end_char=4138
+2	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4139|end_char=4149
+3	сэр	СДР	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=4150|end_char=4153
+4	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	flat:name	_	start_char=4154|end_char=4159
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4159|end_char=4160
+
+# text = – Вы полагаете, что вся разгадка кроется здесь?
+# sent_id = 66
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4161|end_char=4162
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=4163|end_char=4165
+3	полагаете	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4166|end_char=4175
+4	,	,	PUNCT	_	_	8	punct	_	start_char=4175|end_char=4176
+5	что	что	SCONJ	_	_	8	mark	_	start_char=4177|end_char=4180
+6	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	start_char=4181|end_char=4184
+7	разгадка	разгадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=4185|end_char=4193
+8	кроется	кроться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=4194|end_char=4201
+9	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=4202|end_char=4207
+10	?	?	PUNCT	_	_	3	punct	_	start_char=4207|end_char=4208
+
+# text = – Я очень надеюсь, что вы расскажете мне – разгадка чего?
+# sent_id = 67
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4209|end_char=4210
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4211|end_char=4212
+3	очень	очень	ADV	_	Degree=Pos	4	advmod	_	start_char=4213|end_char=4218
+4	надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4219|end_char=4226
+5	,	,	PUNCT	_	_	8	punct	_	start_char=4226|end_char=4227
+6	что	что	SCONJ	_	_	8	mark	_	start_char=4228|end_char=4231
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	start_char=4232|end_char=4234
+8	расскажете	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=4235|end_char=4245
+9	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	start_char=4246|end_char=4249
+10	–	–	PUNCT	_	_	11	punct	_	start_char=4250|end_char=4251
+11	разгадка	разгадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	start_char=4252|end_char=4260
+12	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	11	nmod	_	start_char=4261|end_char=4265
+13	?	?	PUNCT	_	_	4	punct	_	start_char=4265|end_char=4266
+
+# text = – Разгадка внезапной смерти дяди.
+# sent_id = 68
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4267|end_char=4268
+2	Разгадка	разгадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4269|end_char=4277
+3	внезапной	внезапной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=4278|end_char=4287
+4	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=4288|end_char=4294
+5	дяди	дядя	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=4295|end_char=4299
+6	.	.	PUNCT	_	_	2	punct	_	start_char=4299|end_char=4300
+
+# text = Видите ли, он умер в этой лаборатории, и доктор
+# sent_id = 69
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4301|end_char=4307
+2	ли	ли	PART	_	_	1	advmod	_	start_char=4308|end_char=4310
+3	,	,	PUNCT	_	_	1	punct	_	start_char=4310|end_char=4311
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4312|end_char=4314
+5	умер	умереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=4315|end_char=4319
+6	в	в	ADP	_	_	8	case	_	start_char=4320|end_char=4321
+7	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=4322|end_char=4326
+8	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=4327|end_char=4338
+9	,	,	PUNCT	_	_	11	punct	_	start_char=4338|end_char=4339
+10	и	и	CCONJ	_	_	11	cc	_	start_char=4340|end_char=4341
+11	доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	start_char=4342|end_char=4348
+
+# text = Мортимер уверяет, что не было никаких к тому причин, у дяди было отменное здоровье.
+# sent_id = 70
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Мортимер	Мортимер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	_	start_char=4349|end_char=4357
+2	уверяет	уверять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4358|end_char=4365
+3	,	,	PUNCT	_	_	6	punct	_	start_char=4365|end_char=4366
+4	что	что	SCONJ	_	_	6	mark	_	start_char=4367|end_char=4370
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=4371|end_char=4373
+6	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=4374|end_char=4378
+7	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	6	nsubj	_	start_char=4379|end_char=4386
+8	к	к	ADP	_	_	9	case	_	start_char=4387|end_char=4388
+9	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	start_char=4389|end_char=4393
+10	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	start_char=4394|end_char=4400
+11	,	,	PUNCT	_	_	13	punct	_	start_char=4400|end_char=4401
+12	у	у	ADP	_	_	13	case	_	start_char=4402|end_char=4403
+13	дяди	дядя	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	start_char=4404|end_char=4408
+14	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=4409|end_char=4413
+15	отменное	отменный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	start_char=4414|end_char=4422
+16	здоровье	здоровье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	start_char=4423|end_char=4431
+17	.	.	PUNCT	_	_	2	punct	_	start_char=4431|end_char=4432
+
+# text = Никаких причин, кроме ожогов на руках…
+# sent_id = 71
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	2	det	_	start_char=4433|end_char=4440
+2	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	0	root	_	start_char=4441|end_char=4447
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4447|end_char=4448
+4	кроме	кроме	ADP	_	_	5	case	_	start_char=4449|end_char=4454
+5	ожогов	ожог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=4455|end_char=4461
+6	на	на	ADP	_	_	7	case	_	start_char=4462|end_char=4464
+7	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	nmod	_	start_char=4465|end_char=4470
+8	…	…	PUNCT	_	_	2	punct	_	start_char=4470|end_char=4471
+
+# text = – Ожогов на руках?
+# sent_id = 72
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4472|end_char=4473
+2	Ожогов	ожог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	start_char=4474|end_char=4480
+3	на	на	ADP	_	_	4	case	_	start_char=4481|end_char=4483
+4	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	nmod	_	start_char=4484|end_char=4489
+5	?	?	PUNCT	_	_	2	punct	_	start_char=4489|end_char=4490
+
+# text = – Доктор расхохотался, разглядывая генератор.
+# sent_id = 73
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4491|end_char=4492
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4493|end_char=4499
+3	расхохотался	расхохотаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4500|end_char=4512
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4512|end_char=4513
+5	разглядывая	разглядывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=4514|end_char=4525
+6	генератор	генератор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=4526|end_char=4535
+7	.	.	PUNCT	_	_	3	punct	_	start_char=4535|end_char=4536
+
+# text = – Ваш доктор Мортимер – солидный старый джентльмен, старающийся держаться как можно дальше от прогресса?
+# sent_id = 74
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	8	punct	_	start_char=4537|end_char=4538
+2	Ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=4539|end_char=4542
+3	доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4543|end_char=4549
+4	Мортимер	Мортимер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	appos	_	start_char=4550|end_char=4558
+5	–	–	PUNCT	_	_	8	punct	_	start_char=4559|end_char=4560
+6	солидный	солидный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4561|end_char=4569
+7	старый	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4570|end_char=4576
+8	джентльмен	джентльмен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4577|end_char=4587
+9	,	,	PUNCT	_	_	10	punct	_	start_char=4587|end_char=4588
+10	старающийся	стараться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	start_char=4589|end_char=4600
+11	держаться	держаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	xcomp	_	start_char=4601|end_char=4610
+12	как	как	ADV	_	Degree=Pos|PronType=Rel	14	advmod	_	start_char=4611|end_char=4614
+13	можно	можно	VERB	_	_	12	fixed	_	start_char=4615|end_char=4620
+14	дальше	дальше	ADV	_	Degree=Cmp	11	advmod	_	start_char=4621|end_char=4627
+15	от	от	ADP	_	_	16	case	_	start_char=4628|end_char=4630
+16	прогресса	прогресса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	start_char=4631|end_char=4640
+17	?	?	PUNCT	_	_	8	punct	_	start_char=4640|end_char=4641
+
+# text = – Как вы догадались? – удивился сэр Генри.
+# sent_id = 75
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4642|end_char=4643
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=4644|end_char=4647
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=4648|end_char=4650
+4	догадались	догадаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4651|end_char=4661
+5	?	?	PUNCT	_	_	4	punct	_	start_char=4661|end_char=4662
+6	–	–	PUNCT	_	_	7	punct	_	start_char=4663|end_char=4664
+7	удивился	удивиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=4665|end_char=4673
+8	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=4674|end_char=4677
+9	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	appos	_	start_char=4678|end_char=4683
+10	.	.	PUNCT	_	_	4	punct	_	start_char=4683|end_char=4684
+
+# text = – Это элементарно.
+# sent_id = 76
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4685|end_char=4686
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4687|end_char=4690
+3	элементарно	элементарно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4691|end_char=4702
+4	.	.	PUNCT	_	_	3	punct	_	start_char=4702|end_char=4703
+
+# text = Только он мог не распознать поражение электрическим током.
+# sent_id = 77
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Только	только	PART	_	_	2	advmod	_	start_char=4704|end_char=4710
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4711|end_char=4713
+3	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4714|end_char=4717
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4718|end_char=4720
+5	распознать	распознать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=4721|end_char=4731
+6	поражение	поражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=4732|end_char=4741
+7	электрическим	электрический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4742|end_char=4755
+8	током	ток	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	start_char=4756|end_char=4761
+9	.	.	PUNCT	_	_	3	punct	_	start_char=4761|end_char=4762
+
+# text = – Да что вы говорите?..
+# sent_id = 78
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4763|end_char=4764
+2	Да	да	CCONJ	_	_	5	cc	_	start_char=4765|end_char=4767
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=4768|end_char=4771
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=4772|end_char=4774
+5	говорите	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4775|end_char=4783
+6	?..	?..	PUNCT	_	_	5	punct	_	start_char=4783|end_char=4786
+
+# text = – Видите этот генератор?
+# sent_id = 79
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4787|end_char=4788
+2	Видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4789|end_char=4795
+3	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=4796|end_char=4800
+4	генератор	генератор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=4801|end_char=4810
+5	?	?	PUNCT	_	_	2	punct	_	start_char=4810|end_char=4811
+
+# text = Он довольно мощный по вашим временам, ваш дядя молодец.
+# sent_id = 80
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4812|end_char=4814
+2	довольно	довольно	ADV	_	Degree=Pos	3	advmod	_	start_char=4815|end_char=4823
+3	мощный	мощный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=4824|end_char=4830
+4	по	по	ADP	_	_	6	case	_	start_char=4831|end_char=4833
+5	вашим	ваш	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	start_char=4834|end_char=4839
+6	временам	время	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	3	obl	_	start_char=4840|end_char=4848
+7	,	,	PUNCT	_	_	10	punct	_	start_char=4848|end_char=4849
+8	ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=4850|end_char=4853
+9	дядя	дядя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=4854|end_char=4858
+10	молодец	молодец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	start_char=4859|end_char=4866
+11	.	.	PUNCT	_	_	3	punct	_	start_char=4866|end_char=4867
+
+# text = Но, к сожалению, он не во всем соблюдал осторожность.
+# sent_id = 81
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Но	но	CCONJ	_	_	10	cc	_	start_char=4868|end_char=4870
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4870|end_char=4871
+3	к	к	ADP	_	_	4	case	_	start_char=4872|end_char=4873
+4	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	start_char=4874|end_char=4883
+5	,	,	PUNCT	_	_	4	punct	_	start_char=4883|end_char=4884
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=4885|end_char=4887
+7	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=4888|end_char=4890
+8	во	во	ADP	_	_	9	case	_	start_char=4891|end_char=4893
+9	всем	все	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	10	obl	_	start_char=4894|end_char=4898
+10	соблюдал	соблюдать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4899|end_char=4907
+11	осторожность	осторожность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=4908|end_char=4920
+12	.	.	PUNCT	_	_	10	punct	_	start_char=4920|end_char=4921
+
+# text = – О нет, – внезапно проговорил дворецкий Бэрримор, трагически побледнев.
+# sent_id = 82
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4922|end_char=4923
+2	О	о	INTJ	_	_	3	discourse	_	start_char=4924|end_char=4925
+3	нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=4926|end_char=4929
+4	,	,	PUNCT	_	_	7	punct	_	start_char=4929|end_char=4930
+5	–	–	PUNCT	_	_	7	punct	_	start_char=4931|end_char=4932
+6	внезапно	внезапно	ADV	_	Degree=Pos	7	advmod	_	start_char=4933|end_char=4941
+7	проговорил	проговорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=4942|end_char=4952
+8	дворецкий	дворецкий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=4953|end_char=4962
+9	Бэрримор	Бэрримор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	appos	_	start_char=4963|end_char=4971
+10	,	,	PUNCT	_	_	12	punct	_	start_char=4971|end_char=4972
+11	трагически	трагически	ADV	_	Degree=Pos	12	advmod	_	start_char=4973|end_char=4983
+12	побледнев	побледнеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=4984|end_char=4993
+13	.	.	PUNCT	_	_	3	punct	_	start_char=4993|end_char=4994
+
+# text = – Неужели?
+# sent_id = 83
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4995|end_char=4996
+2	Неужели	неужели	PART	_	_	0	root	_	start_char=4997|end_char=5004
+3	?	?	PUNCT	_	_	2	punct	_	start_char=5004|end_char=5005
+
+# text = Он как-то говорил мне, что, как бы он ни старался, электричество не оказывает на тела никакого эффекта, кроме рефлекторного… я правильно говорю?
+# sent_id = 84
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5006|end_char=5008
+2	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	3	advmod	_	start_char=5009|end_char=5015
+3	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5016|end_char=5023
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=5024|end_char=5027
+5	,	,	PUNCT	_	_	16	punct	_	start_char=5027|end_char=5028
+6	что	что	SCONJ	_	_	16	mark	_	start_char=5029|end_char=5032
+7	,	,	PUNCT	_	_	12	punct	_	start_char=5032|end_char=5033
+8	как	как	ADV	_	Degree=Pos|PronType=Rel	12	advmod	_	start_char=5034|end_char=5037
+9	бы	бы	AUX	_	Mood=Cnd	12	aux	_	start_char=5038|end_char=5040
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=5041|end_char=5043
+11	ни	ни	PART	_	Polarity=Neg	12	advmod	_	start_char=5044|end_char=5046
+12	старался	стараться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	16	advcl	_	start_char=5047|end_char=5055
+13	,	,	PUNCT	_	_	12	punct	_	start_char=5055|end_char=5056
+14	электричество	электричество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	start_char=5057|end_char=5070
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=5071|end_char=5073
+16	оказывает	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=5074|end_char=5083
+17	на	на	ADP	_	_	18	case	_	start_char=5084|end_char=5086
+18	тела	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	obl	_	start_char=5087|end_char=5091
+19	никакого	никакой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Neg	20	det	_	start_char=5092|end_char=5100
+20	эффекта	эффект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obj	_	start_char=5101|end_char=5108
+21	,	,	PUNCT	_	_	23	punct	_	start_char=5108|end_char=5109
+22	кроме	кроме	ADP	_	_	23	case	_	start_char=5110|end_char=5115
+23	рефлекторного	рефлекторный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	obl	_	start_char=5116|end_char=5129
+24	…	…	PUNCT	_	_	27	punct	_	start_char=5129|end_char=5130
+25	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	start_char=5131|end_char=5132
+26	правильно	правильно	ADV	_	Degree=Pos	27	advmod	_	start_char=5133|end_char=5142
+27	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	parataxis	_	start_char=5143|end_char=5149
+28	?	?	PUNCT	_	_	3	punct	_	start_char=5149|end_char=5150
+
+# text = Кроме рефлекторного сокращения мышц.
+# sent_id = 85
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Кроме	кроме	ADP	_	_	3	case	_	start_char=5151|end_char=5156
+2	рефлекторного	рефлекторный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=5157|end_char=5170
+3	сокращения	сокращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=5171|end_char=5181
+4	мышц	мышца	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	start_char=5182|end_char=5186
+5	.	.	PUNCT	_	_	3	punct	_	start_char=5186|end_char=5187
+
+# text = Он все сокрушался и хотел проверить, точно ли его машины работают…
+# sent_id = 86
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5188|end_char=5190
+2	все	всё	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=5191|end_char=5194
+3	сокрушался	сокрушаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5195|end_char=5205
+4	и	и	CCONJ	_	_	5	cc	_	start_char=5206|end_char=5207
+5	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5208|end_char=5213
+6	проверить	проверить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=5214|end_char=5223
+7	,	,	PUNCT	_	_	12	punct	_	start_char=5223|end_char=5224
+8	точно	точно	ADV	_	Degree=Pos	12	advmod	_	start_char=5225|end_char=5230
+9	ли	ли	PART	_	_	8	advmod	_	start_char=5231|end_char=5233
+10	его	его	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=5234|end_char=5237
+11	машины	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	start_char=5238|end_char=5244
+12	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=5245|end_char=5253
+13	…	…	PUNCT	_	_	3	punct	_	start_char=5253|end_char=5254
+
+# text = – Бэрримор, – произнес Доктор бархатным голосом.
+# sent_id = 87
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5255|end_char=5256
+2	Бэрримор	Бэрримор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	0	root	_	start_char=5257|end_char=5265
+3	,	,	PUNCT	_	_	5	punct	_	start_char=5265|end_char=5266
+4	–	–	PUNCT	_	_	5	punct	_	start_char=5267|end_char=5268
+5	произнес	произнести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=5269|end_char=5277
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5278|end_char=5284
+7	бархатным	бархатный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=5285|end_char=5294
+8	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	iobj	_	start_char=5295|end_char=5302
+9	.	.	PUNCT	_	_	2	punct	_	start_char=5302|end_char=5303
+
+# text = – Скажите мне правду.
+# sent_id = 88
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5304|end_char=5305
+2	Скажите	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5306|end_char=5313
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	start_char=5314|end_char=5317
+4	правду	правда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=5318|end_char=5324
+5	.	.	PUNCT	_	_	2	punct	_	start_char=5324|end_char=5325
+
+# text = Правда ли, что старый лорд был тут совершенно один, когда произошло несчастье, и правда ли, что все кругом настолько… несведущи, чтобы не понять, что случилось?
+# sent_id = 89
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=5326|end_char=5332
+2	ли	ли	PART	_	_	1	advmod	_	start_char=5333|end_char=5335
+3	,	,	PUNCT	_	_	10	punct	_	start_char=5335|end_char=5336
+4	что	что	SCONJ	_	_	10	mark	_	start_char=5337|end_char=5340
+5	старый	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=5341|end_char=5347
+6	лорд	лорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=5348|end_char=5352
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=5353|end_char=5356
+8	тут	тут	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=5357|end_char=5360
+9	совершенно	совершенно	ADV	_	Degree=Pos	10	advmod	_	start_char=5361|end_char=5371
+10	один	один	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	1	ccomp	_	start_char=5372|end_char=5376
+11	,	,	PUNCT	_	_	13	punct	_	start_char=5376|end_char=5377
+12	когда	когда	SCONJ	_	_	13	mark	_	start_char=5378|end_char=5383
+13	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=5384|end_char=5393
+14	несчастье	несчастье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	start_char=5394|end_char=5403
+15	,	,	PUNCT	_	_	17	punct	_	start_char=5403|end_char=5404
+16	и	и	CCONJ	_	_	17	cc	_	start_char=5405|end_char=5406
+17	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	conj	_	start_char=5407|end_char=5413
+18	ли	ли	PART	_	_	17	advmod	_	start_char=5414|end_char=5416
+19	,	,	PUNCT	_	_	25	punct	_	start_char=5416|end_char=5417
+20	что	что	SCONJ	_	_	25	mark	_	start_char=5418|end_char=5421
+21	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	25	nsubj	_	start_char=5422|end_char=5425
+22	кругом	кругом	ADV	_	Degree=Pos	23	advmod	_	start_char=5426|end_char=5432
+23	настолько	настолько	ADV	_	Degree=Pos	25	advmod	_	start_char=5433|end_char=5442
+24	…	…	PUNCT	_	_	25	punct	_	start_char=5442|end_char=5443
+25	несведущи	несведущий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	17	ccomp	_	start_char=5444|end_char=5453
+26	,	,	PUNCT	_	_	29	punct	_	start_char=5453|end_char=5454
+27	чтобы	чтобы	SCONJ	_	Mood=Cnd	29	mark	_	start_char=5455|end_char=5460
+28	не	не	PART	_	Polarity=Neg	29	advmod	_	start_char=5461|end_char=5463
+29	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	advcl	_	start_char=5464|end_char=5470
+30	,	,	PUNCT	_	_	32	punct	_	start_char=5470|end_char=5471
+31	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	32	nsubj	_	start_char=5472|end_char=5475
+32	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	29	ccomp	_	start_char=5476|end_char=5485
+33	?	?	PUNCT	_	_	1	punct	_	start_char=5485|end_char=5486
+
+# text = – А доктор Мортимер говорил, что это все проклятие, которое навлек на себя дядя, раскапывая древние могилы!
+# sent_id = 90
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5487|end_char=5488
+2	А	а	CCONJ	_	_	5	cc	_	start_char=5489|end_char=5490
+3	доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5491|end_char=5497
+4	Мортимер	Мортимер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	start_char=5498|end_char=5506
+5	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5507|end_char=5514
+6	,	,	PUNCT	_	_	10	punct	_	start_char=5514|end_char=5515
+7	что	что	SCONJ	_	_	10	mark	_	start_char=5516|end_char=5519
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=5520|end_char=5523
+9	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	10	det	_	start_char=5524|end_char=5527
+10	проклятие	проклятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	ccomp	_	start_char=5528|end_char=5537
+11	,	,	PUNCT	_	_	13	punct	_	start_char=5537|end_char=5538
+12	которое	который	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	start_char=5539|end_char=5546
+13	навлек	навлечь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=5547|end_char=5553
+14	на	на	ADP	_	_	15	case	_	start_char=5554|end_char=5556
+15	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	13	obl	_	start_char=5557|end_char=5561
+16	дядя	дядя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=5562|end_char=5566
+17	,	,	PUNCT	_	_	18	punct	_	start_char=5566|end_char=5567
+18	раскапывая	раскапывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	start_char=5568|end_char=5578
+19	древние	древний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	start_char=5579|end_char=5586
+20	могилы	могила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obj	_	start_char=5587|end_char=5593
+21	!	!	PUNCT	_	_	5	punct	_	start_char=5593|end_char=5594
+
+# text = – прибавил сэр Генри.
+# sent_id = 91
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5595|end_char=5596
+2	прибавил	прибавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5597|end_char=5605
+3	сэр	СДР	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=5606|end_char=5609
+4	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	flat:name	_	start_char=5610|end_char=5615
+5	.	.	PUNCT	_	_	2	punct	_	start_char=5615|end_char=5616
+
+# text = – Скажите, Доктор, это правда?
+# sent_id = 92
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5617|end_char=5618
+2	Скажите	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5619|end_char=5626
+3	,	,	PUNCT	_	_	4	punct	_	start_char=5626|end_char=5627
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=5628|end_char=5634
+5	,	,	PUNCT	_	_	7	punct	_	start_char=5634|end_char=5635
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=5636|end_char=5639
+7	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	start_char=5640|end_char=5646
+8	?	?	PUNCT	_	_	2	punct	_	start_char=5646|end_char=5647
+
+# text = Что духи зла властвуют в Баскервиль-холле безраздельно?..
+# sent_id = 93
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	start_char=5648|end_char=5651
+2	духи	дух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=5652|end_char=5656
+3	зла	зло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=5657|end_char=5660
+4	властвуют	властвовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5661|end_char=5670
+5	в	в	ADP	_	_	6	case	_	start_char=5671|end_char=5672
+6	Баскервиль	Баскервиль	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	start_char=5673|end_char=5683
+7	-	-	PUNCT	_	_	8	punct	_	start_char=5683|end_char=5684
+8	холле	холл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	appos	_	start_char=5684|end_char=5689
+9	безраздельно	безраздельно	ADV	_	Degree=Pos	4	advmod	_	start_char=5690|end_char=5702
+10	?..	?..	PUNCT	_	_	4	punct	_	start_char=5702|end_char=5705
+
+# text = – Правда, – проворчал Доктор, считывание токов мозга Бэрримора не заняло много времени, и поставило точку в его полной незамутненности.
+# sent_id = 94
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5706|end_char=5707
+2	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=5708|end_char=5714
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5714|end_char=5715
+4	–	–	PUNCT	_	_	5	punct	_	start_char=5716|end_char=5717
+5	проворчал	проворчать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=5718|end_char=5727
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5728|end_char=5734
+7	,	,	PUNCT	_	_	13	punct	_	start_char=5734|end_char=5735
+8	считывание	считывание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	start_char=5736|end_char=5746
+9	токов	ток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=5747|end_char=5752
+10	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	start_char=5753|end_char=5758
+11	Бэрримора	Бэрримор	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	10	nmod	_	start_char=5759|end_char=5768
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=5769|end_char=5771
+13	заняло	занять	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5772|end_char=5778
+14	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	15	nummod:gov	_	start_char=5779|end_char=5784
+15	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obj	_	start_char=5785|end_char=5792
+16	,	,	PUNCT	_	_	18	punct	_	start_char=5792|end_char=5793
+17	и	и	CCONJ	_	_	18	cc	_	start_char=5794|end_char=5795
+18	поставило	поставить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5796|end_char=5805
+19	точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	obj	_	start_char=5806|end_char=5811
+20	в	в	ADP	_	_	23	case	_	start_char=5812|end_char=5813
+21	его	его	DET	_	Poss=Yes|PronType=Prs	23	det	_	start_char=5814|end_char=5817
+22	полной	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	start_char=5818|end_char=5824
+23	незамутненности	незамутненность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	start_char=5825|end_char=5840
+24	.	.	PUNCT	_	_	2	punct	_	start_char=5840|end_char=5841
+
+# text = – Глупость тут властвует безраздельно и нарушения техники безопасности!..
+# sent_id = 95
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5842|end_char=5843
+2	Глупость	глупость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=5844|end_char=5852
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=5853|end_char=5856
+4	властвует	властвовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5857|end_char=5866
+5	безраздельно	безраздельно	ADV	_	Degree=Pos	4	advmod	_	start_char=5867|end_char=5879
+6	и	и	CCONJ	_	_	7	cc	_	start_char=5880|end_char=5881
+7	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	conj	_	start_char=5882|end_char=5891
+8	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=5892|end_char=5899
+9	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=5900|end_char=5912
+10	!..	!..	PUNCT	_	_	4	punct	_	start_char=5912|end_char=5915
+
+# text = – Доктор припомнил погрузившуюся в трясину ТАРДИС.
+# sent_id = 96
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5916|end_char=5917
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=5918|end_char=5924
+3	припомнил	припомнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5925|end_char=5934
+4	погрузившуюся	погрузиться	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	start_char=5935|end_char=5948
+5	в	в	ADP	_	_	6	case	_	start_char=5949|end_char=5950
+6	трясину	трясина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=5951|end_char=5958
+7	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	6	nmod	_	start_char=5959|end_char=5965
+8	.	.	PUNCT	_	_	3	punct	_	start_char=5965|end_char=5966
+
+# text = – Впрочем, кто из нас без греха…
+# sent_id = 97
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	8	punct	_	start_char=5967|end_char=5968
+2	Впрочем	впрочем	ADV	_	Degree=Pos	8	parataxis	_	start_char=5969|end_char=5976
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5976|end_char=5977
+4	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	start_char=5978|end_char=5981
+5	из	из	ADP	_	_	6	case	_	start_char=5982|end_char=5984
+6	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	obl	_	start_char=5985|end_char=5988
+7	без	без	ADP	_	_	8	case	_	start_char=5989|end_char=5992
+8	греха	грех	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=5993|end_char=5998
+9	…	…	PUNCT	_	_	2	punct	_	start_char=5998|end_char=5999
+
+# text = – Я знал!
+# sent_id = 98
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6000|end_char=6001
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=6002|end_char=6003
+3	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6004|end_char=6008
+4	!	!	PUNCT	_	_	3	punct	_	start_char=6008|end_char=6009
+
+# text = Призраки тут ни при чем!
+# sent_id = 99
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Призраки	призрак	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=6010|end_char=6018
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=6019|end_char=6022
+3	ни	ни	PART	_	Polarity=Neg	5	advmod	_	start_char=6023|end_char=6025
+4	при	при	ADP	_	_	5	case	_	start_char=6026|end_char=6029
+5	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=6030|end_char=6033
+6	!	!	PUNCT	_	_	5	punct	_	start_char=6033|end_char=6034
+
+# text = – обрадовался сэр Генри.
+# sent_id = 100
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6035|end_char=6036
+2	обрадовался	обрадоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6037|end_char=6048
+3	сэр	СДР	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=6049|end_char=6052
+4	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	flat:name	_	start_char=6053|end_char=6058
+5	.	.	PUNCT	_	_	2	punct	_	start_char=6058|end_char=6059
+
+# text = – Разумеется, призраки тут ни при чем, и не существует никаких проклятий.
+# sent_id = 101
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	8	punct	_	start_char=6060|end_char=6061
+2	Разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	parataxis	_	start_char=6062|end_char=6072
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6072|end_char=6073
+4	призраки	призрак	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=6074|end_char=6082
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=6083|end_char=6086
+6	ни	ни	PART	_	Polarity=Neg	8	advmod	_	start_char=6087|end_char=6089
+7	при	при	ADP	_	_	8	case	_	start_char=6090|end_char=6093
+8	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=6094|end_char=6097
+9	,	,	PUNCT	_	_	12	punct	_	start_char=6097|end_char=6098
+10	и	и	CCONJ	_	_	12	cc	_	start_char=6099|end_char=6100
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=6101|end_char=6103
+12	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	start_char=6104|end_char=6114
+13	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	14	det	_	start_char=6115|end_char=6122
+14	проклятий	проклятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nsubj	_	start_char=6123|end_char=6132
+15	.	.	PUNCT	_	_	8	punct	_	start_char=6132|end_char=6133
+
+# text = Пытаясь оживлять древние тела, строго соблюдайте меры предосторожности.
+# sent_id = 102
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Пытаясь	пытаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	start_char=6134|end_char=6141
+2	оживлять	оживлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=6142|end_char=6150
+3	древние	древний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	amod	_	start_char=6151|end_char=6158
+4	тела	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obj	_	start_char=6159|end_char=6163
+5	,	,	PUNCT	_	_	1	punct	_	start_char=6163|end_char=6164
+6	строго	строго	ADV	_	Degree=Pos	7	advmod	_	start_char=6165|end_char=6171
+7	соблюдайте	соблюдать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=6172|end_char=6182
+8	меры	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=6183|end_char=6187
+9	предосторожности	предосторожность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=6188|end_char=6204
+10	.	.	PUNCT	_	_	7	punct	_	start_char=6204|end_char=6205
+
+# text = А теперь, не окажете ли вы мне любезность, и не оставите ли ненадолго с этими приборами.
+# sent_id = 103
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	А	а	CCONJ	_	_	5	cc	_	start_char=6206|end_char=6207
+2	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=6208|end_char=6214
+3	,	,	PUNCT	_	_	5	punct	_	start_char=6214|end_char=6215
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=6216|end_char=6218
+5	окажете	оказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=6219|end_char=6226
+6	ли	ли	PART	_	_	5	advmod	_	start_char=6227|end_char=6229
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=6230|end_char=6232
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=6233|end_char=6236
+9	любезность	любезность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=6237|end_char=6247
+10	,	,	PUNCT	_	_	13	punct	_	start_char=6247|end_char=6248
+11	и	и	CCONJ	_	_	13	cc	_	start_char=6249|end_char=6250
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=6251|end_char=6253
+13	оставите	остать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	5	conj	_	start_char=6254|end_char=6262
+14	ли	ли	PART	_	_	13	advmod	_	start_char=6263|end_char=6265
+15	ненадолго	ненадолго	ADV	_	Degree=Pos	13	advmod	_	start_char=6266|end_char=6275
+16	с	с	ADP	_	_	18	case	_	start_char=6276|end_char=6277
+17	этими	этот	DET	_	Case=Ins|Number=Plur|PronType=Dem	18	det	_	start_char=6278|end_char=6283
+18	приборами	прибор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	obl	_	start_char=6284|end_char=6293
+19	.	.	PUNCT	_	_	5	punct	_	start_char=6293|end_char=6294
+
+# text = Боюсь, для меня это буквально вопрос жизни и смерти.
+# sent_id = 104
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=6295|end_char=6300
+2	,	,	PUNCT	_	_	1	punct	_	start_char=6300|end_char=6301
+3	для	для	ADP	_	_	4	case	_	start_char=6302|end_char=6305
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=6306|end_char=6310
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=6311|end_char=6314
+6	буквально	буквально	ADV	_	Degree=Pos	7	advmod	_	start_char=6315|end_char=6324
+7	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6325|end_char=6331
+8	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=6332|end_char=6337
+9	и	и	CCONJ	_	_	10	cc	_	start_char=6338|end_char=6339
+10	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	start_char=6340|end_char=6346
+11	.	.	PUNCT	_	_	7	punct	_	start_char=6346|end_char=6347
+
+# text = – Конечно, конечно!
+# sent_id = 105
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6348|end_char=6349
+2	Конечно	конечно	ADV	_	Degree=Pos	0	root	_	start_char=6350|end_char=6357
+3	,	,	PUNCT	_	_	4	punct	_	start_char=6357|end_char=6358
+4	конечно	конечно	ADV	_	Degree=Pos	2	parataxis	_	start_char=6359|end_char=6366
+5	!	!	PUNCT	_	_	2	punct	_	start_char=6366|end_char=6367
+
+# text = – закивал сэр Генри.
+# sent_id = 106
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6368|end_char=6369
+2	закивал	закивать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6370|end_char=6377
+3	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6378|end_char=6381
+4	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	appos	_	start_char=6382|end_char=6387
+5	.	.	PUNCT	_	_	2	punct	_	start_char=6387|end_char=6388
+
+# text = – Но может, вам понадобится ассистент?
+# sent_id = 107
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	6	punct	_	start_char=6389|end_char=6390
+2	Но	но	CCONJ	_	_	6	cc	_	start_char=6391|end_char=6393
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=6394|end_char=6399
+4	,	,	PUNCT	_	_	3	punct	_	start_char=6399|end_char=6400
+5	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	start_char=6401|end_char=6404
+6	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6405|end_char=6416
+7	ассистент	ассистент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=6417|end_char=6426
+8	?	?	PUNCT	_	_	6	punct	_	start_char=6426|end_char=6427
+
+# text = Бэрримор, покажите, что и где, если понадобится.
+# sent_id = 108
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Бэрримор	Бэрримор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	vocative	_	start_char=6428|end_char=6436
+2	,	,	PUNCT	_	_	1	punct	_	start_char=6436|end_char=6437
+3	покажите	показать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=6438|end_char=6446
+4	,	,	PUNCT	_	_	7	punct	_	start_char=6446|end_char=6447
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	start_char=6448|end_char=6451
+6	и	и	CCONJ	_	_	7	cc	_	start_char=6452|end_char=6453
+7	где	где	ADV	_	Degree=Pos|PronType=Rel	3	ccomp	_	start_char=6454|end_char=6457
+8	,	,	PUNCT	_	_	10	punct	_	start_char=6457|end_char=6458
+9	если	если	SCONJ	_	_	10	mark	_	start_char=6459|end_char=6463
+10	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	advcl	_	start_char=6464|end_char=6475
+11	.	.	PUNCT	_	_	3	punct	_	start_char=6475|end_char=6476
+
+# text = – Благодарю, сэр, вы очень радушный хозяин.
+# sent_id = 109
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6477|end_char=6478
+2	Благодарю	благодарить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6479|end_char=6488
+3	,	,	PUNCT	_	_	4	punct	_	start_char=6488|end_char=6489
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	vocative	_	start_char=6490|end_char=6493
+5	,	,	PUNCT	_	_	4	punct	_	start_char=6493|end_char=6494
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	start_char=6495|end_char=6497
+7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	start_char=6498|end_char=6503
+8	радушный	радушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=6504|end_char=6512
+9	хозяин	хозяин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=6513|end_char=6519
+10	.	.	PUNCT	_	_	2	punct	_	start_char=6519|end_char=6520
+
+# text = – Благодарю вас, сэр!
+# sent_id = 110
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6521|end_char=6522
+2	Благодарю	благодарить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6523|end_char=6532
+3	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	2	obj	_	start_char=6533|end_char=6536
+4	,	,	PUNCT	_	_	5	punct	_	start_char=6536|end_char=6537
+5	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=6538|end_char=6541
+6	!	!	PUNCT	_	_	2	punct	_	start_char=6541|end_char=6542
+
+# text = Вы буквально сняли камень с моей души.
+# sent_id = 111
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=6543|end_char=6545
+2	буквально	буквально	ADV	_	Degree=Pos	3	advmod	_	start_char=6546|end_char=6555
+3	сняли	снять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6556|end_char=6561
+4	камень	камень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=6562|end_char=6568
+5	с	с	ADP	_	_	7	case	_	start_char=6569|end_char=6570
+6	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=6571|end_char=6575
+7	души	душа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=6576|end_char=6580
+8	.	.	PUNCT	_	_	3	punct	_	start_char=6580|end_char=6581
+
+# text = Пойду, спокойно постреляю вальдшнепов.
+# sent_id = 112
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Пойду	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6582|end_char=6587
+2	,	,	PUNCT	_	_	4	punct	_	start_char=6587|end_char=6588
+3	спокойно	спокойно	ADV	_	Degree=Pos	4	advmod	_	start_char=6589|end_char=6597
+4	постреляю	пострелять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	start_char=6598|end_char=6607
+5	вальдшнепов	вальдшнеп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=6608|end_char=6619
+6	.	.	PUNCT	_	_	1	punct	_	start_char=6619|end_char=6620
+
+# text = Доктор предпочел пропустить последние слова мимо ушей и занялся делом.
+# sent_id = 113
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6621|end_char=6627
+2	предпочел	предпочесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6628|end_char=6637
+3	пропустить	пропустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=6638|end_char=6648
+4	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	start_char=6649|end_char=6658
+5	слова	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	start_char=6659|end_char=6664
+6	мимо	мимо	ADP	_	_	7	case	_	start_char=6665|end_char=6669
+7	ушей	ухо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	start_char=6670|end_char=6674
+8	и	и	CCONJ	_	_	9	cc	_	start_char=6675|end_char=6676
+9	занялся	заняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6677|end_char=6684
+10	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	iobj	_	start_char=6685|end_char=6690
+11	.	.	PUNCT	_	_	2	punct	_	start_char=6690|end_char=6691
+
+# text = Он быстро собрал переговорное устройство из имеющихся подручных средств и наконец-то связался с ТАРДИС.
+# sent_id = 114
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=6692|end_char=6694
+2	быстро	быстро	ADV	_	Degree=Pos	3	advmod	_	start_char=6695|end_char=6701
+3	собрал	собрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6702|end_char=6708
+4	переговорное	переговорный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=6709|end_char=6721
+5	устройство	устройство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=6722|end_char=6732
+6	из	из	ADP	_	_	9	case	_	start_char=6733|end_char=6735
+7	имеющихся	иметься	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	amod	_	start_char=6736|end_char=6745
+8	подручных	подручный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	start_char=6746|end_char=6755
+9	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	start_char=6756|end_char=6763
+10	и	и	CCONJ	_	_	14	cc	_	start_char=6764|end_char=6765
+11	наконец	наконец	ADV	_	Degree=Pos	14	advmod	_	start_char=6766|end_char=6773
+12	-	-	PUNCT	_	_	13	punct	_	start_char=6773|end_char=6774
+13	то	то	PART	_	_	11	advmod	_	start_char=6774|end_char=6776
+14	связался	связаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=6777|end_char=6785
+15	с	с	ADP	_	_	16	case	_	start_char=6786|end_char=6787
+16	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	14	obl	_	start_char=6788|end_char=6794
+17	.	.	PUNCT	_	_	3	punct	_	start_char=6794|end_char=6795
+
+# text = – Мастер!
+# sent_id = 115
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6796|end_char=6797
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6798|end_char=6804
+3	!	!	PUNCT	_	_	2	punct	_	start_char=6804|end_char=6805
+
+# text = Ты там?!
+# sent_id = 116
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=6806|end_char=6808
+2	там	там	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=6809|end_char=6812
+3	?!	?!	PUNCT	_	_	2	punct	_	start_char=6812|end_char=6814
+
+# text = – Конечно, круглый ты идиот, где еще мне быть?.. – сварливо проворчал в ответ Мастер.
+# sent_id = 117
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	6	punct	_	start_char=6815|end_char=6816
+2	Конечно	конечно	ADV	_	Degree=Pos	6	parataxis	_	start_char=6817|end_char=6824
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6824|end_char=6825
+4	круглый	круглый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=6826|end_char=6833
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=6834|end_char=6836
+6	идиот	идиот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6837|end_char=6842
+7	,	,	PUNCT	_	_	11	punct	_	start_char=6842|end_char=6843
+8	где	где	ADV	_	Degree=Pos|PronType=Rel	11	advmod	_	start_char=6844|end_char=6847
+9	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=6848|end_char=6851
+10	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	iobj	_	start_char=6852|end_char=6855
+11	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	acl:relcl	_	start_char=6856|end_char=6860
+12	?..	?..	PUNCT	_	_	6	punct	_	start_char=6860|end_char=6863
+13	–	–	PUNCT	_	_	15	punct	_	start_char=6864|end_char=6865
+14	сварливо	сварливо	ADV	_	Degree=Pos	15	advmod	_	start_char=6866|end_char=6874
+15	проворчал	проворчать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=6875|end_char=6884
+16	в	в	ADP	_	_	17	case	_	start_char=6885|end_char=6886
+17	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=6887|end_char=6892
+18	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=6893|end_char=6899
+19	.	.	PUNCT	_	_	6	punct	_	start_char=6899|end_char=6900
+
+# text = – Какая удача!
+# sent_id = 118
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6901|end_char=6902
+2	Какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	3	det	_	start_char=6903|end_char=6908
+3	удача	удача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=6909|end_char=6914
+4	!	!	PUNCT	_	_	3	punct	_	start_char=6914|end_char=6915
+
+# text = Должен тебе сообщить, что ТАРДИС погрузилась глубоко в Гримпенскую трясину.
+# sent_id = 119
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=6916|end_char=6922
+2	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	iobj	_	start_char=6923|end_char=6927
+3	сообщить	сообщить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=6928|end_char=6936
+4	,	,	PUNCT	_	_	7	punct	_	start_char=6936|end_char=6937
+5	что	что	SCONJ	_	_	7	mark	_	start_char=6938|end_char=6941
+6	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	start_char=6942|end_char=6948
+7	погрузилась	погрузиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=6949|end_char=6960
+8	глубоко	глубоко	ADV	_	Degree=Pos	7	advmod	_	start_char=6961|end_char=6968
+9	в	в	ADP	_	_	11	case	_	start_char=6969|end_char=6970
+10	Гримпенскую	гримпенский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=6971|end_char=6982
+11	трясину	трясина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=6983|end_char=6990
+12	.	.	PUNCT	_	_	1	punct	_	start_char=6990|end_char=6991
+
+# text = Так что придумай какой-нибудь способ, чтобы вытащить ее оттуда и установить на твердую поверхность поблизости от места затопления, например, на тропинку рядом.
+# sent_id = 120
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	mark	_	start_char=6992|end_char=6995
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=6996|end_char=6999
+3	придумай	придумать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=7000|end_char=7008
+4	какой-нибудь	какой-нибудь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	start_char=7009|end_char=7021
+5	способ	способ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=7022|end_char=7028
+6	,	,	PUNCT	_	_	8	punct	_	start_char=7028|end_char=7029
+7	чтобы	чтобы	SCONJ	_	Mood=Cnd	8	mark	_	start_char=7030|end_char=7035
+8	вытащить	вытащить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=7036|end_char=7044
+9	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=7045|end_char=7047
+10	оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=7048|end_char=7054
+11	и	и	CCONJ	_	_	12	cc	_	start_char=7055|end_char=7056
+12	установить	установить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	conj	_	start_char=7057|end_char=7067
+13	на	на	ADP	_	_	15	case	_	start_char=7068|end_char=7070
+14	твердую	твердый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=7071|end_char=7078
+15	поверхность	поверхность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	start_char=7079|end_char=7090
+16	поблизости	поблизости	ADV	_	Degree=Pos	12	advmod	_	start_char=7091|end_char=7101
+17	от	от	ADP	_	_	18	case	_	start_char=7102|end_char=7104
+18	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	start_char=7105|end_char=7110
+19	затопления	затопление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	start_char=7111|end_char=7121
+20	,	,	PUNCT	_	_	24	punct	_	start_char=7121|end_char=7122
+21	например	например	ADV	_	Degree=Pos	24	parataxis	_	start_char=7123|end_char=7131
+22	,	,	PUNCT	_	_	21	punct	_	start_char=7131|end_char=7132
+23	на	на	ADP	_	_	24	case	_	start_char=7133|end_char=7135
+24	тропинку	тропинка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	start_char=7136|end_char=7144
+25	рядом	рядом	ADV	_	Degree=Pos	24	advmod	_	start_char=7145|end_char=7150
+26	.	.	PUNCT	_	_	3	punct	_	start_char=7150|end_char=7151
+
+# text = – Нет ничего проще.
+# sent_id = 121
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7152|end_char=7153
+2	Нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=7154|end_char=7157
+3	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	2	nsubj	_	start_char=7158|end_char=7164
+4	проще	простой	ADJ	_	Degree=Cmp	3	amod	_	start_char=7165|end_char=7170
+5	.	.	PUNCT	_	_	2	punct	_	start_char=7170|end_char=7171
+
+# text = Я, конечно, не могу материализоваться на другой от тебя планете, но дематериализоваться в трясине и материализоваться на тропинке по твоей прямой просьбе вполне способен.
+# sent_id = 122
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=7172|end_char=7173
+2	,	,	PUNCT	_	_	3	punct	_	start_char=7173|end_char=7174
+3	конечно	конечно	ADV	_	Degree=Pos	6	parataxis	_	start_char=7175|end_char=7182
+4	,	,	PUNCT	_	_	3	punct	_	start_char=7182|end_char=7183
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=7184|end_char=7186
+6	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7187|end_char=7191
+7	материализоваться	материализоваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	xcomp	_	start_char=7192|end_char=7209
+8	на	на	ADP	_	_	9	case	_	start_char=7210|end_char=7212
+9	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	7	obl	_	start_char=7213|end_char=7219
+10	от	от	ADP	_	_	11	case	_	start_char=7220|end_char=7222
+11	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	obl	_	start_char=7223|end_char=7227
+12	планете	планета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obj	_	start_char=7228|end_char=7235
+13	,	,	PUNCT	_	_	15	punct	_	start_char=7235|end_char=7236
+14	но	но	CCONJ	_	_	15	cc	_	start_char=7237|end_char=7239
+15	дематериализоваться	дематериализоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	conj	_	start_char=7240|end_char=7259
+16	в	в	ADP	_	_	17	case	_	start_char=7260|end_char=7261
+17	трясине	трясина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	start_char=7262|end_char=7269
+18	и	и	CCONJ	_	_	27	cc	_	start_char=7270|end_char=7271
+19	материализоваться	материализоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	27	xcomp	_	start_char=7272|end_char=7289
+20	на	на	ADP	_	_	21	case	_	start_char=7290|end_char=7292
+21	тропинке	тропинка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	start_char=7293|end_char=7301
+22	по	по	ADP	_	_	25	case	_	start_char=7302|end_char=7304
+23	твоей	твой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	det	_	start_char=7305|end_char=7310
+24	прямой	прямой	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=7311|end_char=7317
+25	просьбе	просьба	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	19	obl	_	start_char=7318|end_char=7325
+26	вполне	вполне	ADV	_	Degree=Pos	27	advmod	_	start_char=7326|end_char=7332
+27	способен	способный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	conj	_	start_char=7333|end_char=7341
+28	.	.	PUNCT	_	_	6	punct	_	start_char=7341|end_char=7342
+
+# text = – Спасибо, Мастер.
+# sent_id = 123
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7343|end_char=7344
+2	Спасибо	спасибо	PART	_	_	0	root	_	start_char=7345|end_char=7352
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7352|end_char=7353
+4	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=7354|end_char=7360
+5	.	.	PUNCT	_	_	2	punct	_	start_char=7360|end_char=7361
+
+# text = – Не за что, дорогой друг.
+# sent_id = 124
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=7362|end_char=7363
+2	Не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=7364|end_char=7366
+3	за	за	ADP	_	_	4	case	_	start_char=7367|end_char=7369
+4	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=7370|end_char=7373
+5	,	,	PUNCT	_	_	7	punct	_	start_char=7373|end_char=7374
+6	дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=7375|end_char=7382
+7	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	start_char=7383|end_char=7387
+8	.	.	PUNCT	_	_	4	punct	_	start_char=7387|end_char=7388
+
+# text = Доктор разобрал устройство.
+# sent_id = 125
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=7389|end_char=7395
+2	разобрал	разобрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7396|end_char=7404
+3	устройство	устройство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=7405|end_char=7415
+4	.	.	PUNCT	_	_	2	punct	_	start_char=7415|end_char=7416
+
+# text = – И это все, сэр? – переспросил Бэрримор предупредительно.
+# sent_id = 126
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=7417|end_char=7418
+2	И	и	CCONJ	_	_	4	cc	_	start_char=7419|end_char=7420
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=7421|end_char=7424
+4	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=7425|end_char=7428
+5	,	,	PUNCT	_	_	6	punct	_	start_char=7428|end_char=7429
+6	сэр?	Сэр?	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	vocative	_	start_char=7430|end_char=7434
+7	–	–	PUNCT	_	_	8	punct	_	start_char=7435|end_char=7436
+8	переспросил	переспросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=7437|end_char=7448
+9	Бэрримор	Бэрримор	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	8	nsubj	_	start_char=7449|end_char=7457
+10	предупредительно	предупредительно	ADV	_	Degree=Pos	8	advmod	_	start_char=7458|end_char=7474
+11	.	.	PUNCT	_	_	4	punct	_	start_char=7474|end_char=7475
+
+# text = – Могу я поинтересоваться, зачем вы разобрали такой интересный говорящий прибор?
+# sent_id = 127
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7476|end_char=7477
+2	Могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7478|end_char=7482
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=7483|end_char=7484
+4	поинтересоваться	поинтересоваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=7485|end_char=7501
+5	,	,	PUNCT	_	_	8	punct	_	start_char=7501|end_char=7502
+6	зачем	зачем	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=7503|end_char=7508
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	start_char=7509|end_char=7511
+8	разобрали	разобрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=7512|end_char=7521
+9	такой	такой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	start_char=7522|end_char=7527
+10	интересный	интересный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=7528|end_char=7538
+11	говорящий	говорящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=7539|end_char=7548
+12	прибор	прибор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=7549|end_char=7555
+13	?	?	PUNCT	_	_	2	punct	_	start_char=7555|end_char=7556
+
+# text = – Потому что вам еще рано открывать цифровые телекоммуникации, кварки, антиматерию и бозоны
+# sent_id = 128
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	6	punct	_	start_char=7557|end_char=7558
+2	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	6	mark	_	start_char=7559|end_char=7565
+3	что	что	SCONJ	_	_	2	fixed	_	start_char=7566|end_char=7569
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	start_char=7570|end_char=7573
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=7574|end_char=7577
+6	рано	рано	VERB	_	_	0	root	_	start_char=7578|end_char=7582
+7	открывать	открывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=7583|end_char=7592
+8	цифровые	цифровой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	start_char=7593|end_char=7601
+9	телекоммуникации	телекоммуникация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=7602|end_char=7618
+10	,	,	PUNCT	_	_	11	punct	_	start_char=7618|end_char=7619
+11	кварки	кварка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	conj	_	start_char=7620|end_char=7626
+12	,	,	PUNCT	_	_	13	punct	_	start_char=7626|end_char=7627
+13	антиматерию	антиматерие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	conj	_	start_char=7628|end_char=7639
+14	и	и	CCONJ	_	_	15	cc	_	start_char=7640|end_char=7641
+15	бозоны	бозона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	conj	_	start_char=7642|end_char=7648
+
+# text = Хиггса, что вы вполне могли бы сделать с помощью этого элементарнейшего прибора.
+# sent_id = 129
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Хиггса	Хиггс	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	0	root	_	start_char=7649|end_char=7655
+2	,	,	PUNCT	_	_	6	punct	_	start_char=7655|end_char=7656
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	start_char=7657|end_char=7660
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	start_char=7661|end_char=7663
+5	вполне	вполне	ADV	_	Degree=Pos	6	advmod	_	start_char=7664|end_char=7670
+6	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=7671|end_char=7676
+7	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=7677|end_char=7679
+8	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=7680|end_char=7687
+9	с	с	ADP	_	_	13	case	_	start_char=7688|end_char=7689
+10	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	fixed	_	start_char=7690|end_char=7697
+11	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	start_char=7698|end_char=7703
+12	элементарнейшего	элементарнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=7704|end_char=7720
+13	прибора	прибор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	start_char=7721|end_char=7728
+14	.	.	PUNCT	_	_	1	punct	_	start_char=7728|end_char=7729
+
+# text = – Сколько умных слов, сэр! – восхитился дворецкий.
+# sent_id = 130
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7730|end_char=7731
+2	Сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=7732|end_char=7739
+3	умных	умный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=7740|end_char=7745
+4	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nsubj	_	start_char=7746|end_char=7750
+5	,	,	PUNCT	_	_	6	punct	_	start_char=7750|end_char=7751
+6	сэр!	сэр!	PUNCT	_	_	2	conj	_	start_char=7752|end_char=7756
+7	–	–	PUNCT	_	_	8	punct	_	start_char=7757|end_char=7758
+8	восхитился	восхититься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=7759|end_char=7769
+9	дворецкий	дворецкий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=7770|end_char=7779
+10	.	.	PUNCT	_	_	2	punct	_	start_char=7779|end_char=7780
+
+# text = – Можно я запишу и буду использовать их в качестве названий для блюд?
+# sent_id = 131
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7781|end_char=7782
+2	Можно	можно	VERB	_	_	0	root	_	start_char=7783|end_char=7788
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=7789|end_char=7790
+4	запишу	записать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	csubj	_	start_char=7791|end_char=7797
+5	и	и	CCONJ	_	_	7	cc	_	start_char=7798|end_char=7799
+6	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	start_char=7800|end_char=7804
+7	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=7805|end_char=7817
+8	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	start_char=7818|end_char=7820
+9	в	в	ADP	_	_	11	case	_	start_char=7821|end_char=7822
+10	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	fixed	_	start_char=7823|end_char=7831
+11	названий	название	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	obl	_	start_char=7832|end_char=7840
+12	для	для	ADP	_	_	13	case	_	start_char=7841|end_char=7844
+13	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	start_char=7845|end_char=7849
+14	?	?	PUNCT	_	_	2	punct	_	start_char=7849|end_char=7850
+
+# text = Очень хочется блеснуть перед сэром Генри, чтобы он не думал, что приехал совсем в какую-то глушь…
+# sent_id = 132
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	start_char=7851|end_char=7856
+2	хочется	хотеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7857|end_char=7864
+3	блеснуть	блеснуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=7865|end_char=7873
+4	перед	перед	ADP	_	_	5	case	_	start_char=7874|end_char=7879
+5	сэром	сэр	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	start_char=7880|end_char=7885
+6	Генри	Генри	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	5	appos	_	start_char=7886|end_char=7891
+7	,	,	PUNCT	_	_	11	punct	_	start_char=7891|end_char=7892
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	start_char=7893|end_char=7898
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=7899|end_char=7901
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=7902|end_char=7904
+11	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=7905|end_char=7910
+12	,	,	PUNCT	_	_	14	punct	_	start_char=7910|end_char=7911
+13	что	что	SCONJ	_	_	14	mark	_	start_char=7912|end_char=7915
+14	приехал	приехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	start_char=7916|end_char=7923
+15	совсем	совсем	ADV	_	Degree=Pos	18	advmod	_	start_char=7924|end_char=7930
+16	в	в	ADP	_	_	18	case	_	start_char=7931|end_char=7932
+17	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	start_char=7933|end_char=7941
+18	глушь	глушь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	start_char=7942|end_char=7947
+19	…	…	PUNCT	_	_	2	punct	_	start_char=7947|end_char=7948
+
+# text = Доктор пожал плечами: – Ну, если вы что-то запомнили, и если для вас это только названия блюд – пожалуйста.
+# sent_id = 133
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=7949|end_char=7955
+2	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7956|end_char=7961
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	iobj	_	start_char=7962|end_char=7969
+4	:	:	PUNCT	_	_	11	punct	_	start_char=7969|end_char=7970
+5	–	–	PUNCT	_	_	11	punct	_	start_char=7971|end_char=7972
+6	Ну	ну	PART	_	_	11	discourse	_	start_char=7973|end_char=7975
+7	,	,	PUNCT	_	_	6	punct	_	start_char=7975|end_char=7976
+8	если	если	SCONJ	_	_	11	mark	_	start_char=7977|end_char=7981
+9	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	start_char=7982|end_char=7984
+10	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	11	obj	_	start_char=7985|end_char=7991
+11	запомнили	запомнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=7992|end_char=8001
+12	,	,	PUNCT	_	_	19	punct	_	start_char=8001|end_char=8002
+13	и	и	CCONJ	_	_	19	cc	_	start_char=8003|end_char=8004
+14	если	если	SCONJ	_	_	19	mark	_	start_char=8005|end_char=8009
+15	для	для	ADP	_	_	16	case	_	start_char=8010|end_char=8013
+16	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	obl	_	start_char=8014|end_char=8017
+17	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	19	nsubj	_	start_char=8018|end_char=8021
+18	только	только	PART	_	_	19	advmod	_	start_char=8022|end_char=8028
+19	названия	название	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	conj	_	start_char=8029|end_char=8037
+20	блюд	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	start_char=8038|end_char=8042
+21	–	–	PUNCT	_	_	22	punct	_	start_char=8043|end_char=8044
+22	пожалуйста	пожалуйста	PART	_	_	19	discourse	_	start_char=8045|end_char=8055
+23	.	.	PUNCT	_	_	2	punct	_	start_char=8055|end_char=8056
+
+# text = – Благодарю, сэр!..
+# sent_id = 134
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=8057|end_char=8058
+2	Благодарю	благодарить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=8059|end_char=8068
+3	,	,	PUNCT	_	_	4	punct	_	start_char=8068|end_char=8069
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=8070|end_char=8073
+5	!..	!..	PUNCT	_	_	2	punct	_	start_char=8073|end_char=8076
+
+# text = – Какое заковыристое название блюда, – рассеянно отозвался сэр Генри.
+# sent_id = 135
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=8078|end_char=8079
+2	Какое	какой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	det	_	start_char=8080|end_char=8085
+3	заковыристое	заковыристый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=8086|end_char=8098
+4	название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=8099|end_char=8107
+5	блюда	блюдо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	start_char=8108|end_char=8113
+6	,	,	PUNCT	_	_	9	punct	_	start_char=8113|end_char=8114
+7	–	–	PUNCT	_	_	9	punct	_	start_char=8115|end_char=8116
+8	рассеянно	рассеянно	ADV	_	Degree=Pos	9	advmod	_	start_char=8117|end_char=8126
+9	отозвался	отозваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=8127|end_char=8136
+10	сэр	СДР	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=8137|end_char=8140
+11	Генри	Генри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	appos	_	start_char=8141|end_char=8146
+12	.	.	PUNCT	_	_	4	punct	_	start_char=8146|end_char=8147
+
+# text = – А я думал, это вальдшнеп.
+# sent_id = 136
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	4	punct	_	start_char=8148|end_char=8149
+2	А	а	CCONJ	_	_	4	cc	_	start_char=8150|end_char=8151
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=8152|end_char=8153
+4	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8154|end_char=8159
+5	,	,	PUNCT	_	_	7	punct	_	start_char=8159|end_char=8160
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=8161|end_char=8164
+7	вальдшнеп	вальдшнеп	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	parataxis	_	start_char=8165|end_char=8174
+8	.	.	PUNCT	_	_	4	punct	_	start_char=8174|end_char=8175
+
+# text = Быстро же вы его приготовили!
+# sent_id = 137
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Быстро	быстро	ADV	_	Degree=Pos	5	advmod	_	start_char=8176|end_char=8182
+2	же	же	PART	_	_	1	advmod	_	start_char=8183|end_char=8185
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=8186|end_char=8188
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=8189|end_char=8192
+5	приготовили	приготовить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8193|end_char=8204
+6	!	!	PUNCT	_	_	5	punct	_	start_char=8204|end_char=8205
+
+# text = Отменно пахнет!
+# sent_id = 138
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	Отменно	отменно	ADV	_	Degree=Pos	2	advmod	_	start_char=8206|end_char=8213
+2	пахнет	пахнуть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=8214|end_char=8220
+3	!	!	PUNCT	_	_	2	punct	_	start_char=8220|end_char=8221
+
+# text = – Благодарю, сэр!.. 2013
+# sent_id = 139
+# metadata = Название: Бозон Баскервилей, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724c6400000a7fb64d1ac/1/Bozon-Baskervilej
+1	–	–	PUNCT	_	_	2	punct	_	start_char=8222|end_char=8223
+2	Благодарю	благодарить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=8224|end_char=8233
+3	,	,	PUNCT	_	_	4	punct	_	start_char=8233|end_char=8234
+4	сэр	СДР	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	vocative	_	start_char=8235|end_char=8238
+5	!..	!..	PUNCT	_	_	4	punct	_	start_char=8238|end_char=8241
+6	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	2	obl	_	start_char=8243|end_char=8247
+

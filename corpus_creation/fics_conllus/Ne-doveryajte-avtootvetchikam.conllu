@@ -1,0 +1,936 @@
+# text = Телефон зазвонил, когда Доктор был далеко не в лучшем своем расположении духа.
+# sent_id = 0
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Телефон	телефон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=0|end_char=7
+2	зазвонил	зазвонить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8|end_char=16
+3	,	,	PUNCT	_	_	12	punct	_	start_char=16|end_char=17
+4	когда	когда	SCONJ	_	_	12	mark	_	start_char=18|end_char=23
+5	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=24|end_char=30
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=31|end_char=34
+7	далеко	далеко	ADV	_	Degree=Pos	8	advmod	_	start_char=35|end_char=41
+8	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=42|end_char=44
+9	в	в	ADP	_	_	12	case	_	start_char=45|end_char=46
+10	лучшем	лучший	ADJ	_	Case=Loc|Degree=Sup|Gender=Neut|Number=Sing	12	amod	_	start_char=47|end_char=53
+11	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=54|end_char=59
+12	расположении	расположение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	advcl	_	start_char=60|end_char=72
+13	духа	дух	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=73|end_char=77
+14	.	.	PUNCT	_	_	2	punct	_	start_char=77|end_char=78
+
+# text = — Доктор!
+# sent_id = 1
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=79|end_char=80
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=81|end_char=87
+3	!	!	PUNCT	_	_	2	punct	_	start_char=87|end_char=88
+
+# text = Те-ле-фон!
+# sent_id = 2
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Те-ле-фон	те-ле-фон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=89|end_char=98
+2	!	!	PUNCT	_	_	1	punct	_	start_char=98|end_char=99
+
+# text = — крикнула на всякий случай Клара вглубь коридоров, вроде бы в сторону раздававшихся шагов.
+# sent_id = 3
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=100|end_char=101
+2	крикнула	крикнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=102|end_char=110
+3	на	на	ADP	_	_	5	case	_	start_char=111|end_char=113
+4	всякий	всякий	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	5	det	_	start_char=114|end_char=120
+5	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=121|end_char=127
+6	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=128|end_char=133
+7	вглубь	вглубь	ADP	_	_	8	case	_	start_char=134|end_char=140
+8	коридоров	коридор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=141|end_char=150
+9	,	,	PUNCT	_	_	13	punct	_	start_char=150|end_char=151
+10	вроде	вроде	ADV	_	Degree=Pos	13	parataxis	_	start_char=152|end_char=157
+11	бы	бы	PART	_	_	10	fixed	_	start_char=158|end_char=160
+12	в	в	ADP	_	_	13	case	_	start_char=161|end_char=162
+13	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=163|end_char=170
+14	раздававшихся	раздаваться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	15	amod	_	start_char=171|end_char=184
+15	шагов	шаг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	start_char=185|end_char=190
+16	.	.	PUNCT	_	_	2	punct	_	start_char=190|end_char=191
+
+# text = — Наверняка какая-нибудь реклама!
+# sent_id = 4
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	4	punct	_	start_char=192|end_char=193
+2	Наверняка	наверняка	ADV	_	Degree=Pos	4	advmod	_	start_char=194|end_char=203
+3	какая-нибудь	какой-нибудь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	4	det	_	start_char=204|end_char=216
+4	реклама	реклама	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=217|end_char=224
+5	!	!	PUNCT	_	_	4	punct	_	start_char=224|end_char=225
+
+# text = — ответила ей темнота коридора.
+# sent_id = 5
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=226|end_char=227
+2	ответила	ответить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=228|end_char=236
+3	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	start_char=237|end_char=239
+4	темнота	темнота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=240|end_char=247
+5	коридора	коридор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=248|end_char=256
+6	.	.	PUNCT	_	_	2	punct	_	start_char=256|end_char=257
+
+# text = — И вообще, там есть автоответчик, я в него верю!
+# sent_id = 6
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	6	punct	_	start_char=258|end_char=259
+2	И	и	CCONJ	_	_	6	cc	_	start_char=260|end_char=261
+3	вообще	вообще	ADV	_	Degree=Pos	6	parataxis	_	start_char=262|end_char=268
+4	,	,	PUNCT	_	_	3	punct	_	start_char=268|end_char=269
+5	там	там	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=270|end_char=273
+6	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=274|end_char=278
+7	автоответчик	автоответчик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=279|end_char=291
+8	,	,	PUNCT	_	_	12	punct	_	start_char=291|end_char=292
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=293|end_char=294
+10	в	в	ADP	_	_	11	case	_	start_char=295|end_char=296
+11	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=297|end_char=301
+12	верю	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=302|end_char=306
+13	!	!	PUNCT	_	_	6	punct	_	start_char=306|end_char=307
+
+# text = — Разве кто попало может позвонить на этот номер?
+# sent_id = 7
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	5	punct	_	start_char=308|end_char=309
+2	Разве	разве	PART	_	_	5	advmod	_	start_char=310|end_char=315
+3	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	start_char=316|end_char=319
+4	попало	попасть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=320|end_char=326
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=327|end_char=332
+6	позвонить	позвонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=333|end_char=342
+7	на	на	ADP	_	_	9	case	_	start_char=343|end_char=345
+8	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	start_char=346|end_char=350
+9	номер	номер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=351|end_char=356
+10	?	?	PUNCT	_	_	5	punct	_	start_char=356|end_char=357
+
+# text = — попыталась урезонить она его, но услышала, что шаги удаляются.
+# sent_id = 8
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=358|end_char=359
+2	попыталась	попытаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=360|end_char=370
+3	урезонить	урезонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=371|end_char=380
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=381|end_char=384
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=385|end_char=388
+6	,	,	PUNCT	_	_	8	punct	_	start_char=388|end_char=389
+7	но	но	CCONJ	_	_	8	cc	_	start_char=390|end_char=392
+8	услышала	услышать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=393|end_char=401
+9	,	,	PUNCT	_	_	12	punct	_	start_char=401|end_char=402
+10	что	что	SCONJ	_	_	12	mark	_	start_char=403|end_char=406
+11	шаги	шаг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	start_char=407|end_char=411
+12	удаляются	удаляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	ccomp	_	start_char=412|end_char=421
+13	.	.	PUNCT	_	_	2	punct	_	start_char=421|end_char=422
+
+# text = Она собиралась было уже сама снять трубку, когда упомянутый
+# sent_id = 9
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=423|end_char=426
+2	собиралась	собираться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=427|end_char=437
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	aux	_	start_char=438|end_char=442
+4	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=443|end_char=446
+5	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	1	acl	_	start_char=447|end_char=451
+6	снять	снять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=452|end_char=457
+7	трубку	трубка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=458|end_char=464
+8	,	,	PUNCT	_	_	10	punct	_	start_char=464|end_char=465
+9	когда	когда	SCONJ	_	_	10	mark	_	start_char=466|end_char=471
+10	упомянутый	упомянуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	start_char=472|end_char=482
+
+# text = Доктором автоответчик включился: — Бла-бла, если вы смогли дозвониться на этот номер, то вы сообразите, что надо делать, — неласково, в духе сегодняшнего настроения Доктора, его же голосом сказала техника.
+# sent_id = 10
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=483|end_char=491
+2	автоответчик	автоответчик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=492|end_char=504
+3	включился	включиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=505|end_char=514
+4	:	:	PUNCT	_	_	19	punct	_	start_char=514|end_char=515
+5	—	—	PUNCT	_	_	19	punct	_	start_char=516|end_char=517
+6	Бла	бла	INTJ	_	_	19	discourse	_	start_char=518|end_char=521
+7	-бла	-бла	INTJ	_	_	19	discourse	_	start_char=521|end_char=525
+8	,	,	PUNCT	_	_	11	punct	_	start_char=525|end_char=526
+9	если	если	SCONJ	_	_	11	mark	_	start_char=527|end_char=531
+10	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	start_char=532|end_char=534
+11	смогли	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	start_char=535|end_char=541
+12	дозвониться	дозвониться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	start_char=542|end_char=553
+13	на	на	ADP	_	_	15	case	_	start_char=554|end_char=556
+14	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	start_char=557|end_char=561
+15	номер	номер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	start_char=562|end_char=567
+16	,	,	PUNCT	_	_	11	punct	_	start_char=567|end_char=568
+17	то	то	SCONJ	_	_	19	mark	_	start_char=569|end_char=571
+18	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	19	nsubj	_	start_char=572|end_char=574
+19	сообразите	сообразить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=575|end_char=585
+20	,	,	PUNCT	_	_	22	punct	_	start_char=585|end_char=586
+21	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	23	obj	_	start_char=587|end_char=590
+22	надо	надо	VERB	_	_	19	ccomp	_	start_char=591|end_char=595
+23	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	csubj	_	start_char=596|end_char=602
+24	,	,	PUNCT	_	_	26	punct	_	start_char=602|end_char=603
+25	—	—	PUNCT	_	_	26	punct	_	start_char=604|end_char=605
+26	неласково	неласковый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	19	parataxis	_	start_char=606|end_char=615
+27	,	,	PUNCT	_	_	29	punct	_	start_char=615|end_char=616
+28	в	в	ADP	_	_	29	case	_	start_char=617|end_char=618
+29	духе	дух	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	obl	_	start_char=619|end_char=623
+30	сегодняшнего	сегодняшний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	start_char=624|end_char=636
+31	настроения	настроение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	start_char=637|end_char=647
+32	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	start_char=648|end_char=655
+33	,	,	PUNCT	_	_	37	punct	_	start_char=655|end_char=656
+34	его	его	DET	_	Poss=Yes|PronType=Prs	36	det	_	start_char=657|end_char=660
+35	же	же	PART	_	_	34	advmod	_	start_char=661|end_char=663
+36	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	37	iobj	_	start_char=664|end_char=671
+37	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=672|end_char=679
+38	техника	техника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	37	nsubj	_	start_char=680|end_char=687
+39	.	.	PUNCT	_	_	3	punct	_	start_char=687|end_char=688
+
+# text = — Пиии!
+# sent_id = 11
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=689|end_char=690
+2	Пиии	пи	INTJ	_	_	0	root	_	start_char=691|end_char=695
+3	!	!	PUNCT	_	_	2	punct	_	start_char=695|end_char=696
+
+# text = — Ээээ...
+# sent_id = 12
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=697|end_char=698
+2	Ээээ	ээээ	INTJ	_	_	0	root	_	start_char=699|end_char=703
+3	...	...	PUNCT	_	_	2	punct	_	start_char=703|end_char=706
+
+# text = Доктор?
+# sent_id = 13
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=707|end_char=713
+2	?	?	PUNCT	_	_	1	punct	_	start_char=713|end_char=714
+
+# text = Да, надеюсь, это твой телефон.
+# sent_id = 14
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Да	да	PART	_	_	7	parataxis	_	start_char=715|end_char=717
+2	,	,	PUNCT	_	_	1	punct	_	start_char=717|end_char=718
+3	надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=719|end_char=726
+4	,	,	PUNCT	_	_	3	punct	_	start_char=726|end_char=727
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=728|end_char=731
+6	твой	твой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=732|end_char=736
+7	телефон	телефон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=737|end_char=744
+8	.	.	PUNCT	_	_	7	punct	_	start_char=744|end_char=745
+
+# text = Нам, понимаешь, только недавно установили собственный аппарат... вот только полчаса назад.
+# sent_id = 15
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	start_char=746|end_char=749
+2	,	,	PUNCT	_	_	1	punct	_	start_char=749|end_char=750
+3	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=751|end_char=760
+4	,	,	PUNCT	_	_	3	punct	_	start_char=760|end_char=761
+5	только	только	PART	_	_	6	advmod	_	start_char=762|end_char=768
+6	недавно	недавно	ADV	_	Degree=Pos	7	advmod	_	start_char=769|end_char=776
+7	установили	установить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=777|end_char=787
+8	собственный	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=788|end_char=799
+9	аппарат	аппарат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=800|end_char=807
+10	...	...	PUNCT	_	_	13	punct	_	start_char=807|end_char=810
+11	вот	вот	PART	_	_	12	advmod	_	start_char=811|end_char=814
+12	только	только	PART	_	_	13	advmod	_	start_char=815|end_char=821
+13	полчаса	полчаса	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=822|end_char=829
+14	назад	назад	ADV	_	Degree=Pos	13	advmod	_	start_char=830|end_char=835
+15	.	.	PUNCT	_	_	7	punct	_	start_char=835|end_char=836
+
+# text = Я решил первым делом сказать тебе...
+# sent_id = 16
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=837|end_char=838
+2	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=839|end_char=844
+3	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	4	amod	_	start_char=845|end_char=851
+4	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	start_char=852|end_char=857
+5	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=858|end_char=865
+6	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	start_char=866|end_char=870
+7	...	...	PUNCT	_	_	2	punct	_	start_char=870|end_char=873
+
+# text = Я как-то завертелся и не успел тогда, помнишь, в Манхэттене.
+# sent_id = 17
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=874|end_char=875
+2	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	3	advmod	_	start_char=876|end_char=882
+3	завертелся	завертеться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=883|end_char=893
+4	и	и	CCONJ	_	_	6	cc	_	start_char=894|end_char=895
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=896|end_char=898
+6	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=899|end_char=904
+7	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=905|end_char=910
+8	,	,	PUNCT	_	_	9	punct	_	start_char=910|end_char=911
+9	помнишь	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=912|end_char=919
+10	,	,	PUNCT	_	_	12	punct	_	start_char=919|end_char=920
+11	в	в	ADP	_	_	12	case	_	start_char=921|end_char=922
+12	Манхэттене	Манхэттен	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	9	obl	_	start_char=923|end_char=933
+13	.	.	PUNCT	_	_	3	punct	_	start_char=933|end_char=934
+
+# text = Да, это я, Рори Понд, то есть Уильямс, ты же меня помнишь... в смысле, я надеюсь, что ТАРДИС перешлет звонок тому Доктору, который меня помнит...
+# sent_id = 18
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Да	да	PART	_	_	4	parataxis	_	start_char=935|end_char=937
+2	,	,	PUNCT	_	_	1	punct	_	start_char=937|end_char=938
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=939|end_char=942
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=943|end_char=944
+5	,	,	PUNCT	_	_	6	punct	_	start_char=944|end_char=945
+6	Рори	Рори	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	vocative	_	start_char=946|end_char=950
+7	Понд	Понд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	start_char=951|end_char=955
+8	,	,	PUNCT	_	_	11	punct	_	start_char=955|end_char=956
+9	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	mark	_	start_char=957|end_char=959
+10	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	fixed	_	start_char=960|end_char=964
+11	Уильямс	Уильямс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	6	conj	_	start_char=965|end_char=972
+12	,	,	PUNCT	_	_	16	punct	_	start_char=972|end_char=973
+13	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	start_char=974|end_char=976
+14	же	же	PART	_	_	13	advmod	_	start_char=977|end_char=979
+15	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obj	_	start_char=980|end_char=984
+16	помнишь	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=985|end_char=992
+17	...	...	PUNCT	_	_	22	punct	_	start_char=992|end_char=995
+18	в	в	ADP	_	_	19	case	_	start_char=996|end_char=997
+19	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	obl	_	start_char=998|end_char=1004
+20	,	,	PUNCT	_	_	19	punct	_	start_char=1004|end_char=1005
+21	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=1006|end_char=1007
+22	надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	16	parataxis	_	start_char=1008|end_char=1015
+23	,	,	PUNCT	_	_	26	punct	_	start_char=1015|end_char=1016
+24	что	что	SCONJ	_	_	26	mark	_	start_char=1017|end_char=1020
+25	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	26	nsubj	_	start_char=1021|end_char=1027
+26	перешлет	перешать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	22	ccomp	_	start_char=1028|end_char=1036
+27	звонок	звонок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obj	_	start_char=1037|end_char=1043
+28	тому	тот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	29	det	_	start_char=1044|end_char=1048
+29	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	26	iobj	_	start_char=1049|end_char=1056
+30	,	,	PUNCT	_	_	33	punct	_	start_char=1056|end_char=1057
+31	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	33	nsubj	_	start_char=1058|end_char=1065
+32	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	33	obj	_	start_char=1066|end_char=1070
+33	помнит	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	acl:relcl	_	start_char=1071|end_char=1077
+34	...	...	PUNCT	_	_	22	punct	_	start_char=1077|end_char=1080
+
+# text = — Доктор, это Рори!
+# sent_id = 19
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1081|end_char=1082
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1083|end_char=1089
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1089|end_char=1090
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1091|end_char=1094
+5	Рори	Рори	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	conj	_	start_char=1095|end_char=1099
+6	!	!	PUNCT	_	_	2	punct	_	start_char=1099|end_char=1100
+
+# text = — на всякий случай продублировала Клара внутрь ТАРДИС.
+# sent_id = 20
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	5	punct	_	start_char=1101|end_char=1102
+2	на	на	ADP	_	_	4	case	_	start_char=1103|end_char=1105
+3	всякий	всякий	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	4	det	_	start_char=1106|end_char=1112
+4	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=1113|end_char=1119
+5	продублировала	продублировать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1120|end_char=1134
+6	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	nsubj	_	start_char=1135|end_char=1140
+7	внутрь	внутрь	ADP	_	_	8	case	_	start_char=1141|end_char=1147
+8	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	5	obl	_	start_char=1148|end_char=1154
+9	.	.	PUNCT	_	_	5	punct	_	start_char=1154|end_char=1155
+
+# text = — Рори?
+# sent_id = 21
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1156|end_char=1157
+2	Рори	Рори	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=1158|end_char=1162
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1162|end_char=1163
+
+# text = Рори?!
+# sent_id = 22
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Рори	Рори	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=1164|end_char=1168
+2	?!	?!	PUNCT	_	_	1	punct	_	start_char=1168|end_char=1170
+
+# text = — Доктор выглянул, но был явно не рад.
+# sent_id = 23
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1171|end_char=1172
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1173|end_char=1179
+3	выглянул	выглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1180|end_char=1188
+4	,	,	PUNCT	_	_	9	punct	_	start_char=1188|end_char=1189
+5	но	но	CCONJ	_	_	9	cc	_	start_char=1190|end_char=1192
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=1193|end_char=1196
+7	явно	явно	ADV	_	Degree=Pos	9	advmod	_	start_char=1197|end_char=1201
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1202|end_char=1204
+9	рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	conj	_	start_char=1205|end_char=1208
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1208|end_char=1209
+
+# text = — Как он может!
+# sent_id = 24
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	4	punct	_	start_char=1210|end_char=1211
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=1212|end_char=1215
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1216|end_char=1218
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1219|end_char=1224
+5	!	!	PUNCT	_	_	4	punct	_	start_char=1224|end_char=1225
+
+# text = Как он вообще додумался звонить!
+# sent_id = 25
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=1226|end_char=1229
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1230|end_char=1232
+3	вообще	вообще	ADV	_	Degree=Pos	4	advmod	_	start_char=1233|end_char=1239
+4	додумался	додуматься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1240|end_char=1249
+5	звонить	звонить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1250|end_char=1257
+6	!	!	PUNCT	_	_	4	punct	_	start_char=1257|end_char=1258
+
+# text = Я же, кажется, совершенно ясно объяснил Эми, почему мы больше никогда не можем и не должны...
+# sent_id = 26
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=1259|end_char=1260
+2	же	же	PART	_	_	1	advmod	_	start_char=1261|end_char=1263
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1263|end_char=1264
+4	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	parataxis	_	start_char=1265|end_char=1272
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1272|end_char=1273
+6	совершенно	совершенно	ADV	_	Degree=Pos	7	advmod	_	start_char=1274|end_char=1284
+7	ясно	ясный	ADV	_	Degree=Pos	8	advmod	_	start_char=1285|end_char=1289
+8	объяснил	объяснить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1290|end_char=1298
+9	Эми	Эми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	nsubj	_	start_char=1299|end_char=1302
+10	,	,	PUNCT	_	_	16	punct	_	start_char=1302|end_char=1303
+11	почему	почему	ADV	_	Degree=Pos|PronType=Rel	16	advmod	_	start_char=1304|end_char=1310
+12	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	start_char=1311|end_char=1313
+13	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	16	advmod	_	start_char=1314|end_char=1320
+14	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	16	advmod	_	start_char=1321|end_char=1328
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=1329|end_char=1331
+16	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	start_char=1332|end_char=1337
+17	и	и	CCONJ	_	_	19	cc	_	start_char=1338|end_char=1339
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=1340|end_char=1342
+19	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	16	conj	_	start_char=1343|end_char=1349
+20	...	...	PUNCT	_	_	8	punct	_	start_char=1349|end_char=1352
+
+# text = — ...когда бродил по тому дому с Плачущими Ангелами, мне показалось, что я услышал что-то, что касалось...
+# sent_id = 27
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	13	punct	_	start_char=1353|end_char=1354
+2	...	...	PUNCT	_	_	13	punct	_	start_char=1355|end_char=1358
+3	когда	когда	SCONJ	_	_	4	mark	_	start_char=1358|end_char=1363
+4	бродил	бродить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=1364|end_char=1370
+5	по	по	ADP	_	_	7	case	_	start_char=1371|end_char=1373
+6	тому	тот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=1374|end_char=1378
+7	дому	дом	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	_	start_char=1379|end_char=1383
+8	с	с	ADP	_	_	10	case	_	start_char=1384|end_char=1385
+9	Плачущими	плачущий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	start_char=1386|end_char=1395
+10	Ангелами	ангел	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	start_char=1396|end_char=1404
+11	,	,	PUNCT	_	_	4	punct	_	start_char=1404|end_char=1405
+12	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	iobj	_	start_char=1406|end_char=1409
+13	показалось	показаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1410|end_char=1420
+14	,	,	PUNCT	_	_	17	punct	_	start_char=1420|end_char=1421
+15	что	что	SCONJ	_	_	17	mark	_	start_char=1422|end_char=1425
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=1426|end_char=1427
+17	услышал	услышать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	start_char=1428|end_char=1435
+18	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	17	obj	_	start_char=1436|end_char=1442
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1442|end_char=1443
+20	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	21	nsubj	_	start_char=1444|end_char=1447
+21	касалось	касаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	acl:relcl	_	start_char=1448|end_char=1456
+22	...	...	PUNCT	_	_	13	punct	_	start_char=1456|end_char=1459
+
+# text = — Может, она ему не передала, — пожала плечами Клара, пытаясь сбить накал страстей.
+# sent_id = 28
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	7	punct	_	start_char=1460|end_char=1461
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1462|end_char=1467
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1467|end_char=1468
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=1469|end_char=1472
+5	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	start_char=1473|end_char=1476
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1477|end_char=1479
+7	передала	передать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1480|end_char=1488
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1488|end_char=1489
+9	—	—	PUNCT	_	_	10	punct	_	start_char=1490|end_char=1491
+10	пожала	пожать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1492|end_char=1498
+11	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	10	iobj	_	start_char=1499|end_char=1506
+12	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=1507|end_char=1512
+13	,	,	PUNCT	_	_	14	punct	_	start_char=1512|end_char=1513
+14	пытаясь	пытаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	10	advcl	_	start_char=1514|end_char=1521
+15	сбить	сбить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=1522|end_char=1527
+16	накал	накал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	start_char=1528|end_char=1533
+17	страстей	страсть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	start_char=1534|end_char=1542
+18	.	.	PUNCT	_	_	7	punct	_	start_char=1542|end_char=1543
+
+# text = — Знаешь, сколько раз я сама забыва...
+# sent_id = 29
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1544|end_char=1545
+2	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1546|end_char=1552
+3	,	,	PUNCT	_	_	8	punct	_	start_char=1552|end_char=1553
+4	сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=1554|end_char=1561
+5	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	obl	_	start_char=1562|end_char=1565
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=1566|end_char=1567
+7	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	6	acl	_	start_char=1568|end_char=1572
+8	забыва	забыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1573|end_char=1579
+9	...	...	PUNCT	_	_	2	punct	_	start_char=1579|end_char=1582
+
+# text = — ...целую планету, которую они утащили прямо из-под носа атаковавших ее далеков и спасателей и которой никто никогда больше не хватится...
+# sent_id = 30
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	4	punct	_	start_char=1583|end_char=1584
+2	...	...	PUNCT	_	_	4	punct	_	start_char=1585|end_char=1588
+3	целую	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1588|end_char=1593
+4	планету	планета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=1594|end_char=1601
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1601|end_char=1602
+6	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	start_char=1603|end_char=1610
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=1611|end_char=1614
+8	утащили	утащить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=1615|end_char=1622
+9	прямо	прямо	PART	_	_	11	advmod	_	start_char=1623|end_char=1628
+10	из-под	из-под	ADP	_	_	11	case	_	start_char=1629|end_char=1635
+11	носа	нос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	start_char=1636|end_char=1640
+12	атаковавших	атаковать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	start_char=1641|end_char=1652
+13	ее	ее	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=1653|end_char=1655
+14	далеков	далек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	12	obj	_	start_char=1656|end_char=1663
+15	и	и	CCONJ	_	_	16	cc	_	start_char=1664|end_char=1665
+16	спасателей	спасатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	14	conj	_	start_char=1666|end_char=1676
+17	и	и	CCONJ	_	_	23	cc	_	start_char=1677|end_char=1678
+18	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	obj	_	start_char=1679|end_char=1686
+19	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	23	nsubj	_	start_char=1687|end_char=1692
+20	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	23	advmod	_	start_char=1693|end_char=1700
+21	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	23	advmod	_	start_char=1701|end_char=1707
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=1708|end_char=1710
+23	хватится	хватиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	acl:relcl	_	start_char=1711|end_char=1719
+24	...	...	PUNCT	_	_	4	punct	_	start_char=1719|end_char=1722
+
+# text = — Клара, это безответственно!
+# sent_id = 31
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	5	punct	_	start_char=1723|end_char=1724
+2	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	vocative	_	start_char=1725|end_char=1730
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1730|end_char=1731
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1732|end_char=1735
+5	безответственно	безответственный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1736|end_char=1751
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1751|end_char=1752
+
+# text = — ...вне планеты остался только один, это ты, Доктор, и они же собирались тебя прямо там...
+# sent_id = 32
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	5	punct	_	start_char=1753|end_char=1754
+2	...	...	PUNCT	_	_	5	punct	_	start_char=1756|end_char=1759
+3	вне	вне	ADP	_	_	4	case	_	start_char=1759|end_char=1762
+4	планеты	планета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	start_char=1763|end_char=1770
+5	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1771|end_char=1778
+6	только	только	PART	_	_	7	advmod	_	start_char=1779|end_char=1785
+7	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	start_char=1786|end_char=1790
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1790|end_char=1791
+9	это	это	PART	_	_	10	expl	_	start_char=1792|end_char=1795
+10	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	conj	_	start_char=1796|end_char=1798
+11	,	,	PUNCT	_	_	12	punct	_	start_char=1798|end_char=1799
+12	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	start_char=1800|end_char=1806
+13	,	,	PUNCT	_	_	17	punct	_	start_char=1806|end_char=1807
+14	и	и	CCONJ	_	_	17	cc	_	start_char=1808|end_char=1809
+15	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=1810|end_char=1813
+16	же	же	PART	_	_	15	advmod	_	start_char=1814|end_char=1816
+17	собирались	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=1817|end_char=1827
+18	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	17	obj	_	start_char=1828|end_char=1832
+19	прямо	прямо	PART	_	_	20	advmod	_	start_char=1833|end_char=1838
+20	там	там	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=1839|end_char=1842
+21	...	...	PUNCT	_	_	5	punct	_	start_char=1842|end_char=1845
+
+# text = — Доктор!
+# sent_id = 33
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1846|end_char=1847
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1848|end_char=1854
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1854|end_char=1855
+
+# text = Ты слышишь?
+# sent_id = 34
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=1856|end_char=1858
+2	слышишь	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1859|end_char=1866
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1866|end_char=1867
+
+# text = — Я не желаю ничего слушать!
+# sent_id = 35
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	4	punct	_	start_char=1868|end_char=1869
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1870|end_char=1871
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1872|end_char=1874
+4	желаю	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1875|end_char=1880
+5	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	6	obj	_	start_char=1881|end_char=1887
+6	слушать	слушать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1888|end_char=1895
+7	!	!	PUNCT	_	_	4	punct	_	start_char=1895|end_char=1896
+
+# text = Я не должен ничего слушать!
+# sent_id = 36
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=1897|end_char=1898
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1899|end_char=1901
+3	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1902|end_char=1908
+4	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	5	obj	_	start_char=1909|end_char=1915
+5	слушать	слушать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1916|end_char=1923
+6	!	!	PUNCT	_	_	3	punct	_	start_char=1923|end_char=1924
+
+# text = — Доктор потянулся сбросить звонок.
+# sent_id = 37
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1925|end_char=1926
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1927|end_char=1933
+3	потянулся	потянуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1934|end_char=1943
+4	сбросить	сбросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1944|end_char=1952
+5	звонок	звонок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1953|end_char=1959
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1959|end_char=1960
+
+# text = — Галлифрей!
+# sent_id = 38
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1961|end_char=1962
+2	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=1963|end_char=1972
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1972|end_char=1973
+
+# text = Он же говорит о Галлифрее!
+# sent_id = 39
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1974|end_char=1976
+2	же	же	PART	_	_	1	advmod	_	start_char=1977|end_char=1979
+3	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1980|end_char=1987
+4	о	о	ADP	_	_	5	case	_	start_char=1988|end_char=1989
+5	Галлифрее	Галлифрей	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	3	obl	_	start_char=1990|end_char=1999
+6	!	!	PUNCT	_	_	3	punct	_	start_char=1999|end_char=2000
+
+# text = Может быть, он знает, где его искать?
+# sent_id = 40
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2001|end_char=2006
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2007|end_char=2011
+3	,	,	PUNCT	_	_	1	punct	_	start_char=2011|end_char=2012
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=2013|end_char=2015
+5	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2016|end_char=2021
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2021|end_char=2022
+7	где	где	ADV	_	Degree=Pos|PronType=Rel	9	advmod	_	start_char=2023|end_char=2026
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=2027|end_char=2030
+9	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	start_char=2031|end_char=2037
+10	?	?	PUNCT	_	_	5	punct	_	start_char=2037|end_char=2038
+
+# text = — метнулась вперед Клара, закрывая собой телефон.
+# sent_id = 41
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2039|end_char=2040
+2	метнулась	метнуться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2041|end_char=2050
+3	вперед	вперед	ADV	_	Degree=Pos	2	advmod	_	start_char=2051|end_char=2057
+4	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2058|end_char=2063
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2063|end_char=2064
+6	закрывая	закрывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=2065|end_char=2073
+7	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	6	iobj	_	start_char=2074|end_char=2079
+8	телефон	телефон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=2080|end_char=2087
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2087|end_char=2088
+
+# text = Доктор замер.
+# sent_id = 42
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2089|end_char=2095
+2	замер	замереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2096|end_char=2101
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2101|end_char=2102
+
+# text = — ...и они смогут питаться им вечно, раз теперь его никто не хватится.
+# sent_id = 43
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	5	punct	_	start_char=2103|end_char=2104
+2	...	...	PUNCT	_	_	5	punct	_	start_char=2105|end_char=2108
+3	и	и	CCONJ	_	_	5	cc	_	start_char=2108|end_char=2109
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=2110|end_char=2113
+5	смогут	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2114|end_char=2120
+6	питаться	питаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=2121|end_char=2129
+7	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	iobj	_	start_char=2130|end_char=2132
+8	вечно	вечно	ADV	_	Degree=Pos	6	advmod	_	start_char=2133|end_char=2138
+9	,	,	PUNCT	_	_	15	punct	_	start_char=2138|end_char=2139
+10	раз	раз	SCONJ	_	_	15	mark	_	start_char=2140|end_char=2143
+11	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=2144|end_char=2150
+12	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=2151|end_char=2154
+13	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	15	nsubj	_	start_char=2155|end_char=2160
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=2161|end_char=2163
+15	хватится	хватиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	advcl	_	start_char=2164|end_char=2172
+16	.	.	PUNCT	_	_	5	punct	_	start_char=2172|end_char=2173
+
+# text = И он будет проваливаться все дальше и дальше в прошлое.
+# sent_id = 44
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	И	и	CCONJ	_	_	4	cc	_	start_char=2174|end_char=2175
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2176|end_char=2178
+3	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	start_char=2179|end_char=2184
+4	проваливаться	проваливаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	start_char=2185|end_char=2198
+5	все	всё	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=2199|end_char=2202
+6	дальше	дальше	ADV	_	Degree=Cmp	4	advmod	_	start_char=2203|end_char=2209
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2210|end_char=2211
+8	дальше	дальше	ADV	_	Degree=Cmp	6	conj	_	start_char=2212|end_char=2218
+9	в	в	ADP	_	_	10	case	_	start_char=2219|end_char=2220
+10	прошлое	прошлое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	conj	_	start_char=2221|end_char=2228
+11	.	.	PUNCT	_	_	4	punct	_	start_char=2228|end_char=2229
+
+# text = Не знаю, поможет ли тебе, но они назвали начальные координаты...
+# sent_id = 45
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=2230|end_char=2232
+2	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2233|end_char=2237
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2237|end_char=2238
+4	поможет	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=2239|end_char=2246
+5	ли	ли	PART	_	_	4	advmod	_	start_char=2247|end_char=2249
+6	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	start_char=2250|end_char=2254
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2254|end_char=2255
+8	но	но	CCONJ	_	_	10	cc	_	start_char=2256|end_char=2258
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=2259|end_char=2262
+10	назвали	назвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2263|end_char=2270
+11	начальные	начальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	start_char=2271|end_char=2280
+12	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	start_char=2281|end_char=2291
+13	...	...	PUNCT	_	_	2	punct	_	start_char=2291|end_char=2294
+
+# text = — Да, да, поможет!
+# sent_id = 46
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	6	punct	_	start_char=2295|end_char=2296
+2	Да	да	PART	_	_	6	parataxis	_	start_char=2297|end_char=2299
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2299|end_char=2300
+4	да	да	PART	_	_	6	parataxis	_	start_char=2301|end_char=2303
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2303|end_char=2304
+6	поможет	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2305|end_char=2312
+7	!	!	PUNCT	_	_	6	punct	_	start_char=2312|end_char=2313
+
+# text = Я смогу отследить их по темпоральному следу!
+# sent_id = 47
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2314|end_char=2315
+2	смогу	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2316|end_char=2321
+3	отследить	отследить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2322|end_char=2331
+4	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=2332|end_char=2334
+5	по	по	ADP	_	_	7	case	_	start_char=2335|end_char=2337
+6	темпоральному	темпоральный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=2338|end_char=2351
+7	следу	след	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	obl	_	start_char=2352|end_char=2357
+8	!	!	PUNCT	_	_	2	punct	_	start_char=2357|end_char=2358
+
+# text = — 01-0-37-8...
+# sent_id = 48
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2359|end_char=2360
+2	01-0	01-0	NUM	_	NumForm=Digit	0	root	_	start_char=2361|end_char=2365
+3	-	-	PUNCT	_	_	4	punct	_	start_char=2365|end_char=2366
+4	37-8	37-8	NUM	_	NumForm=Digit	2	nmod	_	start_char=2366|end_char=2370
+5	...	...	PUNCT	_	_	2	punct	_	start_char=2370|end_char=2373
+
+# text = — Пи, — сказал автоответчик, отключаясь.
+# sent_id = 49
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2375|end_char=2376
+2	Пи	пи	INTJ	_	_	0	root	_	start_char=2377|end_char=2379
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2379|end_char=2380
+4	—	—	PUNCT	_	_	5	punct	_	start_char=2381|end_char=2382
+5	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2383|end_char=2389
+6	автоответчик	автоответчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2390|end_char=2402
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2402|end_char=2403
+8	отключаясь	отключаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=2404|end_char=2414
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2414|end_char=2415
+
+# text = — Нет.
+# sent_id = 50
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2416|end_char=2417
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2418|end_char=2421
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2421|end_char=2422
+
+# text = Нет!
+# sent_id = 51
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2423|end_char=2426
+2	!	!	PUNCT	_	_	1	punct	_	start_char=2426|end_char=2427
+
+# text = Ты не можешь так сделать!
+# sent_id = 52
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=2428|end_char=2430
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2431|end_char=2433
+3	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2434|end_char=2440
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2441|end_char=2444
+5	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2445|end_char=2452
+6	!	!	PUNCT	_	_	3	punct	_	start_char=2452|end_char=2453
+
+# text = Последние цифры!
+# sent_id = 53
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Последние	последний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	start_char=2454|end_char=2463
+2	цифры	цифра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=2464|end_char=2469
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2469|end_char=2470
+
+# text = — Доктор схватил трубку, услышал в ней гудки и с яростью шваркнул ею по консоли.
+# sent_id = 54
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2471|end_char=2472
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2473|end_char=2479
+3	схватил	схватить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2480|end_char=2487
+4	трубку	трубка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=2488|end_char=2494
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2494|end_char=2495
+6	услышал	услышать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2496|end_char=2503
+7	в	в	ADP	_	_	8	case	_	start_char=2504|end_char=2505
+8	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=2506|end_char=2509
+9	гудки	гудок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	start_char=2510|end_char=2515
+10	и	и	CCONJ	_	_	13	cc	_	start_char=2516|end_char=2517
+11	с	с	ADP	_	_	12	case	_	start_char=2518|end_char=2519
+12	яростью	ярость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	obl	_	start_char=2520|end_char=2527
+13	шваркнул	шваркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2528|end_char=2536
+14	ею	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	iobj	_	start_char=2537|end_char=2539
+15	по	по	ADP	_	_	16	case	_	start_char=2540|end_char=2542
+16	консоли	консоль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	obl	_	start_char=2543|end_char=2550
+17	.	.	PUNCT	_	_	3	punct	_	start_char=2550|end_char=2551
+
+# text = — Доктор, разве ты не можешь перезвонить ему?
+# sent_id = 55
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	7	punct	_	start_char=2552|end_char=2553
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	vocative	_	start_char=2554|end_char=2560
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2560|end_char=2561
+4	разве	разве	PART	_	_	7	advmod	_	start_char=2562|end_char=2567
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=2568|end_char=2570
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2571|end_char=2573
+7	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2574|end_char=2580
+8	перезвонить	перезвонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=2581|end_char=2592
+9	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	start_char=2593|end_char=2596
+10	?	?	PUNCT	_	_	7	punct	_	start_char=2596|end_char=2597
+
+# text = — тревожно заглянув в лицо последнему галлифрейцу, спросила Клара.
+# sent_id = 56
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	9	punct	_	start_char=2598|end_char=2599
+2	тревожно	тревожно	ADV	_	Degree=Pos	3	advmod	_	start_char=2600|end_char=2608
+3	заглянув	заглянуть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=2609|end_char=2617
+4	в	в	ADP	_	_	5	case	_	start_char=2618|end_char=2619
+5	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	start_char=2620|end_char=2624
+6	последнему	последний	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=2625|end_char=2635
+7	галлифрейцу	галлифрейца	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	start_char=2636|end_char=2647
+8	,	,	PUNCT	_	_	3	punct	_	start_char=2647|end_char=2648
+9	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2649|end_char=2657
+10	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	9	nsubj	_	start_char=2658|end_char=2663
+11	.	.	PUNCT	_	_	9	punct	_	start_char=2663|end_char=2664
+
+# text = — Теперь, раз ты знаешь того, кто знает, где Галлифрей...
+# sent_id = 57
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	6	punct	_	start_char=2665|end_char=2666
+2	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2667|end_char=2673
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2673|end_char=2674
+4	раз	раз	SCONJ	_	_	6	mark	_	start_char=2675|end_char=2678
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=2679|end_char=2681
+6	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2682|end_char=2688
+7	того	тот	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	start_char=2689|end_char=2693
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2693|end_char=2694
+9	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	start_char=2695|end_char=2698
+10	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=2699|end_char=2704
+11	,	,	PUNCT	_	_	12	punct	_	start_char=2704|end_char=2705
+12	где	где	ADV	_	Degree=Pos|PronType=Rel	10	ccomp	_	start_char=2706|end_char=2709
+13	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	12	nsubj	_	start_char=2710|end_char=2719
+14	...	...	PUNCT	_	_	6	punct	_	start_char=2719|end_char=2722
+
+# text = Доктор замер, потом медленно, будто каменная статуя, отвернулся от консоли, невидяще глядя куда-то в стену.
+# sent_id = 58
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2723|end_char=2729
+2	замер	замереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2730|end_char=2735
+3	,	,	PUNCT	_	_	11	punct	_	start_char=2735|end_char=2736
+4	потом	потом	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=2737|end_char=2742
+5	медленно	медленно	ADV	_	Degree=Pos	11	advmod	_	start_char=2743|end_char=2751
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2751|end_char=2752
+7	будто	будто	SCONJ	_	_	9	case	_	start_char=2753|end_char=2758
+8	каменная	каменный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=2759|end_char=2767
+9	статуя	статуя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	obl	_	start_char=2768|end_char=2774
+10	,	,	PUNCT	_	_	9	punct	_	start_char=2774|end_char=2775
+11	отвернулся	отвернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2776|end_char=2786
+12	от	от	ADP	_	_	13	case	_	start_char=2787|end_char=2789
+13	консоли	консоль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=2790|end_char=2797
+14	,	,	PUNCT	_	_	16	punct	_	start_char=2797|end_char=2798
+15	невидяще	невидяще	ADV	_	Degree=Pos	16	advmod	_	start_char=2799|end_char=2807
+16	глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	advcl	_	start_char=2808|end_char=2813
+17	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	16	advmod	_	start_char=2814|end_char=2821
+18	в	в	ADP	_	_	19	case	_	start_char=2822|end_char=2823
+19	стену	стена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	start_char=2824|end_char=2829
+20	.	.	PUNCT	_	_	2	punct	_	start_char=2829|end_char=2830
+
+# text = — Нет, Клара...
+# sent_id = 59
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2831|end_char=2832
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2833|end_char=2836
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2836|end_char=2837
+4	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	vocative	_	start_char=2838|end_char=2843
+5	...	...	PUNCT	_	_	2	punct	_	start_char=2843|end_char=2846
+
+# text = — едва слышно прошептал он.
+# sent_id = 60
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2847|end_char=2848
+2	едва	едва	ADV	_	Degree=Pos	3	advmod	_	start_char=2849|end_char=2853
+3	слышно	слышный	ADV	_	Degree=Pos	4	advmod	_	start_char=2854|end_char=2860
+4	прошептал	прошептать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2861|end_char=2870
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2871|end_char=2873
+6	.	.	PUNCT	_	_	4	punct	_	start_char=2873|end_char=2874
+
+# text = — Я не должен...
+# sent_id = 61
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2875|end_char=2876
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2877|end_char=2878
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2879|end_char=2881
+4	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2882|end_char=2888
+5	...	...	PUNCT	_	_	4	punct	_	start_char=2888|end_char=2891
+
+# text = Пространственно-временной континуум... собственная линия жизни... нельзя...
+# sent_id = 62
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Пространственно	пространственно	ADV	_	Degree=Pos	4	advmod	_	start_char=2892|end_char=2907
+2	-	-	PUNCT	_	_	3	punct	_	start_char=2907|end_char=2908
+3	временной	временный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=2908|end_char=2917
+4	континуум	континуум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2918|end_char=2927
+5	...	...	PUNCT	_	_	7	punct	_	start_char=2927|end_char=2930
+6	собственная	собственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2931|end_char=2942
+7	линия	линия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	start_char=2943|end_char=2948
+8	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=2949|end_char=2954
+9	...	...	PUNCT	_	_	10	punct	_	start_char=2954|end_char=2957
+10	нельзя	нельзя	VERB	_	_	4	parataxis	_	start_char=2958|end_char=2964
+11	...	...	PUNCT	_	_	4	punct	_	start_char=2964|end_char=2967
+
+# text = — Ну, как скажешь, — пожала плечами Клара, решив про себя, что, как только они вернутся на Землю, она тут же попытается найти этого Рори Понд-Уильямс и узнать эти координаты.
+# sent_id = 63
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	—	—	PUNCT	_	_	8	punct	_	start_char=2968|end_char=2969
+2	Ну	ну	PART	_	_	8	discourse	_	start_char=2970|end_char=2972
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2972|end_char=2973
+4	как	как	SCONJ	_	_	5	mark	_	start_char=2974|end_char=2977
+5	скажешь	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=2978|end_char=2985
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2985|end_char=2986
+7	—	—	PUNCT	_	_	5	punct	_	start_char=2987|end_char=2988
+8	пожала	пожать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2989|end_char=2995
+9	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	8	obl	_	start_char=2996|end_char=3003
+10	Клара	Клара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	nsubj	_	start_char=3004|end_char=3009
+11	,	,	PUNCT	_	_	12	punct	_	start_char=3009|end_char=3010
+12	решив	решить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=3011|end_char=3016
+13	про	про	ADP	_	_	14	case	_	start_char=3017|end_char=3020
+14	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	12	obl	_	start_char=3021|end_char=3025
+15	,	,	PUNCT	_	_	28	punct	_	start_char=3025|end_char=3026
+16	что	что	SCONJ	_	_	28	mark	_	start_char=3027|end_char=3030
+17	,	,	PUNCT	_	_	21	punct	_	start_char=3030|end_char=3031
+18	как	как	SCONJ	_	_	21	mark	_	start_char=3032|end_char=3035
+19	только	только	PART	_	_	18	fixed	_	start_char=3036|end_char=3042
+20	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=3043|end_char=3046
+21	вернутся	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	28	advcl	_	start_char=3047|end_char=3055
+22	на	на	ADP	_	_	23	case	_	start_char=3056|end_char=3058
+23	Землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obl	_	start_char=3059|end_char=3064
+24	,	,	PUNCT	_	_	21	punct	_	start_char=3064|end_char=3065
+25	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	start_char=3066|end_char=3069
+26	тут	тут	ADV	_	Degree=Pos|PronType=Dem	28	advmod	_	start_char=3070|end_char=3073
+27	же	же	PART	_	_	26	advmod	_	start_char=3074|end_char=3076
+28	попытается	попытаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	8	parataxis	_	start_char=3077|end_char=3087
+29	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	xcomp	_	start_char=3088|end_char=3093
+30	этого	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	29	obj	_	start_char=3094|end_char=3099
+31	Рори	Рори	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	29	obj	_	start_char=3100|end_char=3104
+32	Понд-Уильямс	Понд-Уильямс	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	31	flat:name	_	start_char=3105|end_char=3117
+33	и	и	CCONJ	_	_	34	cc	_	start_char=3118|end_char=3119
+34	узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	29	conj	_	start_char=3120|end_char=3126
+35	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	36	det	_	start_char=3127|end_char=3130
+36	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	34	obj	_	start_char=3131|end_char=3141
+37	.	.	PUNCT	_	_	8	punct	_	start_char=3141|end_char=3142
+
+# text = Для Доктора.
+# sent_id = 64
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Для	для	ADP	_	_	2	case	_	start_char=3143|end_char=3146
+2	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=3147|end_char=3154
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3154|end_char=3155
+
+# text = Раз он столько раз помогал Земле, может же одна земная девушка один раз помочь ему?
+# sent_id = 65
+# metadata = Название: Не доверяйте автоответчикам, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626047100000a7d20e1be4c/1/Ne-doveryajte-avtootvetchikam
+1	Раз	раз	SCONJ	_	_	5	mark	_	start_char=3156|end_char=3159
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3160|end_char=3162
+3	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	nummod:gov	_	start_char=3163|end_char=3170
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	start_char=3171|end_char=3174
+5	помогал	помогать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=3175|end_char=3182
+6	Земле	земля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	start_char=3183|end_char=3188
+7	,	,	PUNCT	_	_	5	punct	_	start_char=3188|end_char=3189
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3190|end_char=3195
+9	же	же	PART	_	_	8	advmod	_	start_char=3196|end_char=3198
+10	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	start_char=3199|end_char=3203
+11	земная	земный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=3204|end_char=3210
+12	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=3211|end_char=3218
+13	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	14	nummod	_	start_char=3219|end_char=3223
+14	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=3224|end_char=3227
+15	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=3228|end_char=3234
+16	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	start_char=3235|end_char=3238
+17	?	?	PUNCT	_	_	8	punct	_	start_char=3238|end_char=3239
+

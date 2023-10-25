@@ -1,0 +1,1759 @@
+# text = Что происходит в угасающем мозгу?
+# sent_id = 0
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	start_char=0|end_char=3
+2	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4|end_char=14
+3	в	в	ADP	_	_	5	case	_	start_char=15|end_char=16
+4	угасающем	угасать	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	amod	_	start_char=17|end_char=26
+5	мозгу	мозг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=27|end_char=32
+6	?	?	PUNCT	_	_	2	punct	_	start_char=32|end_char=33
+
+# text = Что происходит в угасающей Матрице повелителей времени, продолжающей принимать их сознания в самых странных состояниях, концентрированно, хотя за секунды в ней могут проходить века, а за века – секунды?
+# sent_id = 1
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	2	nsubj	_	start_char=34|end_char=37
+2	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=38|end_char=48
+3	в	в	ADP	_	_	5	case	_	start_char=49|end_char=50
+4	угасающей	угасать	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	start_char=51|end_char=60
+5	Матрице	матрица	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=61|end_char=68
+6	повелителей	повелитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	start_char=69|end_char=80
+7	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=81|end_char=88
+8	,	,	PUNCT	_	_	9	punct	_	start_char=88|end_char=89
+9	продолжающей	продолжать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	start_char=90|end_char=102
+10	принимать	принимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=103|end_char=112
+11	их	их	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=113|end_char=115
+12	сознания	сознание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	start_char=116|end_char=124
+13	в	в	ADP	_	_	16	case	_	start_char=125|end_char=126
+14	самых	самый	DET	_	Case=Loc|Number=Plur|PronType=Emp	15	det	_	start_char=127|end_char=132
+15	странных	странный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	16	amod	_	start_char=133|end_char=141
+16	состояниях	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	obl	_	start_char=142|end_char=152
+17	,	,	PUNCT	_	_	2	punct	_	start_char=152|end_char=153
+18	концентрированно	концентрированно	ADV	_	Degree=Pos	0	root	_	start_char=154|end_char=170
+19	,	,	PUNCT	_	_	25	punct	_	start_char=170|end_char=171
+20	хотя	хотя	SCONJ	_	_	25	mark	_	start_char=172|end_char=176
+21	за	за	ADP	_	_	22	case	_	start_char=177|end_char=179
+22	секунды	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	25	obl	_	start_char=180|end_char=187
+23	в	в	ADP	_	_	24	case	_	start_char=188|end_char=189
+24	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nmod	_	start_char=190|end_char=193
+25	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=194|end_char=199
+26	проходить	проходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=200|end_char=209
+27	века	век	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	start_char=210|end_char=214
+28	,	,	PUNCT	_	_	31	punct	_	start_char=214|end_char=215
+29	а	а	CCONJ	_	_	31	cc	_	start_char=216|end_char=217
+30	за	за	ADP	_	_	31	case	_	start_char=218|end_char=220
+31	века	век	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	27	conj	_	start_char=221|end_char=225
+32	–	–	PUNCT	_	_	33	punct	_	start_char=226|end_char=227
+33	секунды	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	31	nmod	_	start_char=228|end_char=235
+34	?	?	PUNCT	_	_	18	punct	_	start_char=235|end_char=236
+
+# text = Она корежится и искажается от подступающего внешнего жара.
+# sent_id = 2
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=237|end_char=240
+2	корежится	корежиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=241|end_char=250
+3	и	и	CCONJ	_	_	4	cc	_	start_char=251|end_char=252
+4	искажается	искажаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=253|end_char=263
+5	от	от	ADP	_	_	8	case	_	start_char=264|end_char=266
+6	подступающего	подступать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	amod	_	start_char=267|end_char=280
+7	внешнего	внешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=281|end_char=289
+8	жара	жара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=290|end_char=294
+9	.	.	PUNCT	_	_	2	punct	_	start_char=294|end_char=295
+
+# text = Все в ней пропитано ощущением смертности.
+# sent_id = 3
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj:pass	_	start_char=296|end_char=299
+2	в	в	ADP	_	_	3	case	_	start_char=300|end_char=301
+3	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=302|end_char=305
+4	пропитано	пропитать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=306|end_char=315
+5	ощущением	ощущение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	iobj	_	start_char=316|end_char=325
+6	смертности	смертность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=326|end_char=336
+7	.	.	PUNCT	_	_	4	punct	_	start_char=336|end_char=337
+
+# text = Но на деле она не ощущает жара и искажений, это передается лишь аллегорически.
+# sent_id = 4
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=338|end_char=340
+2	на	на	ADP	_	_	3	case	_	start_char=341|end_char=343
+3	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=344|end_char=348
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=349|end_char=352
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=353|end_char=355
+6	ощущает	ощущать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=356|end_char=363
+7	жара	жара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obj	_	start_char=364|end_char=368
+8	и	и	CCONJ	_	_	9	cc	_	start_char=369|end_char=370
+9	искажений	искажение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	conj	_	start_char=371|end_char=380
+10	,	,	PUNCT	_	_	12	punct	_	start_char=380|end_char=381
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	start_char=382|end_char=385
+12	передается	передаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=386|end_char=396
+13	лишь	лишь	PART	_	_	14	advmod	_	start_char=397|end_char=401
+14	аллегорически	аллегорически	ADV	_	Degree=Pos	12	advmod	_	start_char=402|end_char=415
+15	.	.	PUNCT	_	_	6	punct	_	start_char=415|end_char=416
+
+# text = В ней возникает другой мир, более «смертный», мир людей, мир однодневок, мир последнего боя, когда и где все было потеряно окончательно.
+# sent_id = 5
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	В	в	ADP	_	_	2	case	_	start_char=417|end_char=418
+2	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=419|end_char=422
+3	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=423|end_char=432
+4	другой	другой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	5	det	_	start_char=433|end_char=439
+5	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=440|end_char=443
+6	,	,	PUNCT	_	_	9	punct	_	start_char=443|end_char=444
+7	более	более	ADV	_	Degree=Cmp|PronType=Tot	9	advmod	_	start_char=445|end_char=450
+8	«	«	PUNCT	_	_	9	punct	_	start_char=451|end_char=452
+9	смертный	смертный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	parataxis	_	start_char=452|end_char=460
+10	»	»	PUNCT	_	_	9	punct	_	start_char=460|end_char=461
+11	,	,	PUNCT	_	_	12	punct	_	start_char=461|end_char=462
+12	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	start_char=463|end_char=466
+13	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	start_char=467|end_char=472
+14	,	,	PUNCT	_	_	15	punct	_	start_char=472|end_char=473
+15	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	start_char=474|end_char=477
+16	однодневок	однодневок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	start_char=478|end_char=488
+17	,	,	PUNCT	_	_	18	punct	_	start_char=488|end_char=489
+18	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	start_char=490|end_char=493
+19	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	start_char=494|end_char=504
+20	боя	бой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	start_char=505|end_char=508
+21	,	,	PUNCT	_	_	27	punct	_	start_char=508|end_char=509
+22	когда	когда	SCONJ	_	_	27	mark	_	start_char=510|end_char=515
+23	и	и	PART	_	_	24	advmod	_	start_char=516|end_char=517
+24	где	где	ADV	_	Degree=Pos|PronType=Rel	27	advmod	_	start_char=518|end_char=521
+25	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	27	nsubj:pass	_	start_char=522|end_char=525
+26	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	aux:pass	_	start_char=526|end_char=530
+27	потеряно	потерять	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	18	acl	_	start_char=531|end_char=539
+28	окончательно	окончательно	ADV	_	Degree=Pos	27	advmod	_	start_char=540|end_char=552
+29	.	.	PUNCT	_	_	3	punct	_	start_char=552|end_char=553
+
+# text = А гибель, всегда близкая, не наступает почти бесконечно.
+# sent_id = 6
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	А	а	CCONJ	_	_	8	cc	_	start_char=554|end_char=555
+2	гибель	гибель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=556|end_char=562
+3	,	,	PUNCT	_	_	5	punct	_	start_char=562|end_char=563
+4	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=564|end_char=570
+5	близкая	близкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	acl	_	start_char=571|end_char=578
+6	,	,	PUNCT	_	_	5	punct	_	start_char=578|end_char=579
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=580|end_char=582
+8	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=583|end_char=592
+9	почти	почти	ADV	_	Degree=Pos	10	advmod	_	start_char=593|end_char=598
+10	бесконечно	бесконечно	ADV	_	Degree=Pos	8	advmod	_	start_char=599|end_char=609
+11	.	.	PUNCT	_	_	8	punct	_	start_char=609|end_char=610
+
+# text = Галлифрей замкнут во временную петлю – непроницаемый временной пузырь.
+# sent_id = 7
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Галлифрей	галлифрия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	start_char=611|end_char=620
+2	замкнут	замкнуть	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=621|end_char=628
+3	во	во	ADP	_	_	5	case	_	start_char=629|end_char=631
+4	временную	временный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=632|end_char=641
+5	петлю	петля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=642|end_char=647
+6	–	–	PUNCT	_	_	9	punct	_	start_char=648|end_char=649
+7	непроницаемый	непроницаемый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=650|end_char=663
+8	временной	временный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=664|end_char=673
+9	пузырь	пузырь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=674|end_char=680
+10	.	.	PUNCT	_	_	2	punct	_	start_char=680|end_char=681
+
+# text = Непроницаемый насколько?
+# sent_id = 8
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Непроницаемый	непроницаемый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=682|end_char=695
+2	насколько	насколько	ADV	_	Degree=Pos	1	advmod	_	start_char=696|end_char=705
+3	?	?	PUNCT	_	_	1	punct	_	start_char=705|end_char=706
+
+# text = Насколько непроницаемы черные дыры?
+# sent_id = 9
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Насколько	насколько	ADV	_	Degree=Pos	2	advmod	_	start_char=707|end_char=716
+2	непроницаемы	непроницаемый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=717|end_char=729
+3	черные	черный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=730|end_char=736
+4	дыры	дыра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	start_char=737|end_char=741
+5	?	?	PUNCT	_	_	2	punct	_	start_char=741|end_char=742
+
+# text = Понемногу они все испаряются, они излучают.
+# sent_id = 10
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Понемногу	понемногу	ADV	_	Degree=Pos	4	advmod	_	start_char=743|end_char=752
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=753|end_char=756
+3	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	start_char=757|end_char=760
+4	испаряются	испаряться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=761|end_char=771
+5	,	,	PUNCT	_	_	7	punct	_	start_char=771|end_char=772
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=773|end_char=776
+7	излучают	излучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=777|end_char=785
+8	.	.	PUNCT	_	_	4	punct	_	start_char=785|end_char=786
+
+# text = Они подвержены туннелированию частиц, энтропия их максимальна.
+# sent_id = 11
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj:pass	_	start_char=787|end_char=790
+2	подвержены	подвержить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=791|end_char=801
+3	туннелированию	туннелирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	iobj	_	start_char=802|end_char=816
+4	частиц	частица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	start_char=817|end_char=823
+5	,	,	PUNCT	_	_	8	punct	_	start_char=823|end_char=824
+6	энтропия	энтропия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=825|end_char=833
+7	их	их	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=834|end_char=836
+8	максимальна	максимальный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	conj	_	start_char=837|end_char=848
+9	.	.	PUNCT	_	_	2	punct	_	start_char=848|end_char=849
+
+# text = Рано или поздно поглощенная информация возвращается во внешнюю Вселенную.
+# sent_id = 12
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Рано	рано	ADV	_	Degree=Pos	6	advmod	_	start_char=850|end_char=854
+2	или	или	CCONJ	_	_	3	cc	_	start_char=855|end_char=858
+3	поздно	поздно	ADV	_	Degree=Pos	1	conj	_	start_char=859|end_char=865
+4	поглощенная	поглосить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	start_char=866|end_char=877
+5	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=878|end_char=888
+6	возвращается	возвращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=889|end_char=901
+7	во	во	ADP	_	_	9	case	_	start_char=902|end_char=904
+8	внешнюю	внешний	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=905|end_char=912
+9	Вселенную	Вселенная	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	6	obl	_	start_char=913|end_char=922
+10	.	.	PUNCT	_	_	6	punct	_	start_char=922|end_char=923
+
+# text = Насколько непроницаемы сами вселенные?
+# sent_id = 13
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Насколько	насколько	ADV	_	Degree=Pos	2	advmod	_	start_char=924|end_char=933
+2	непроницаемы	непроницаемый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=934|end_char=946
+3	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	4	det	_	start_char=947|end_char=951
+4	вселенные	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=952|end_char=961
+5	?	?	PUNCT	_	_	2	punct	_	start_char=961|end_char=962
+
+# text = Есть силы, что могут беспрепятственно покидать и их границы.
+# sent_id = 14
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=963|end_char=967
+2	силы	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	start_char=968|end_char=972
+3	,	,	PUNCT	_	_	5	punct	_	start_char=972|end_char=973
+4	что	что	SCONJ	_	_	5	mark	_	start_char=974|end_char=977
+5	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	start_char=978|end_char=983
+6	беспрепятственно	беспрепятственно	ADV	_	Degree=Pos	7	advmod	_	start_char=984|end_char=1000
+7	покидать	покидать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=1001|end_char=1009
+8	и	и	CCONJ	_	_	10	cc	_	start_char=1010|end_char=1011
+9	их	их	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=1012|end_char=1014
+10	границы	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	conj	_	start_char=1015|end_char=1022
+11	.	.	PUNCT	_	_	1	punct	_	start_char=1022|end_char=1023
+
+# text = Это не свет, это может быть гравитация, темная материя и темная энергия, о природе которых еще гадают люди.
+# sent_id = 15
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1024|end_char=1027
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1028|end_char=1030
+3	свет	свет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1031|end_char=1035
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1035|end_char=1036
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1037|end_char=1040
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1041|end_char=1046
+7	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	cop	_	start_char=1047|end_char=1051
+8	гравитация	гравитация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1052|end_char=1062
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1062|end_char=1063
+10	темная	темный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=1064|end_char=1070
+11	материя	материя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	start_char=1071|end_char=1078
+12	и	и	CCONJ	_	_	14	cc	_	start_char=1079|end_char=1080
+13	темная	темный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=1081|end_char=1087
+14	энергия	энергия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	start_char=1088|end_char=1095
+15	,	,	PUNCT	_	_	20	punct	_	start_char=1095|end_char=1096
+16	о	о	ADP	_	_	17	case	_	start_char=1097|end_char=1098
+17	природе	природа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	obl	_	start_char=1099|end_char=1106
+18	которых	который	PRON	_	Case=Gen|Number=Plur|PronType=Rel	17	nmod	_	start_char=1107|end_char=1114
+19	еще	еще	ADV	_	Degree=Pos	20	advmod	_	start_char=1115|end_char=1118
+20	гадают	гадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=1119|end_char=1125
+21	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	start_char=1126|end_char=1130
+22	.	.	PUNCT	_	_	3	punct	_	start_char=1130|end_char=1131
+
+# text = Таймлорды бы не гадали, если бы помнили, кто они, если бы Матрица не разрушалась вместе с Галлифреем, потому что их время, их вселенная – прошли.
+# sent_id = 16
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Таймлорды	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=1132|end_char=1141
+2	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=1142|end_char=1144
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1145|end_char=1147
+4	гадали	гадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1148|end_char=1154
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1154|end_char=1155
+6	если	если	SCONJ	_	_	8	mark	_	start_char=1156|end_char=1160
+7	бы	бы	AUX	_	Mood=Cnd	8	aux	_	start_char=1161|end_char=1163
+8	помнили	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=1164|end_char=1171
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1171|end_char=1172
+10	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	ccomp	_	start_char=1173|end_char=1176
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=1177|end_char=1180
+12	,	,	PUNCT	_	_	17	punct	_	start_char=1180|end_char=1181
+13	если	если	SCONJ	_	_	17	mark	_	start_char=1182|end_char=1186
+14	бы	бы	AUX	_	Mood=Cnd	17	aux	_	start_char=1187|end_char=1189
+15	Матрица	матрица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	start_char=1190|end_char=1197
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=1198|end_char=1200
+17	разрушалась	разрушаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	advcl	_	start_char=1201|end_char=1212
+18	вместе	вместе	ADV	_	Degree=Pos	17	advmod	_	start_char=1213|end_char=1219
+19	с	с	ADP	_	_	20	case	_	start_char=1220|end_char=1221
+20	Галлифреем	Галлифрей	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	18	obl	_	start_char=1222|end_char=1232
+21	,	,	PUNCT	_	_	30	punct	_	start_char=1232|end_char=1233
+22	потому	потому	ADV	_	Degree=Pos|PronType=Dem	30	mark	_	start_char=1234|end_char=1240
+23	что	что	SCONJ	_	_	22	fixed	_	start_char=1241|end_char=1244
+24	их	их	DET	_	Poss=Yes|PronType=Prs	25	det	_	start_char=1245|end_char=1247
+25	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	start_char=1248|end_char=1253
+26	,	,	PUNCT	_	_	28	punct	_	start_char=1253|end_char=1254
+27	их	их	DET	_	Poss=Yes|PronType=Prs	28	det	_	start_char=1255|end_char=1257
+28	вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	conj	_	start_char=1258|end_char=1267
+29	–	–	PUNCT	_	_	28	punct	_	start_char=1268|end_char=1269
+30	прошли	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=1270|end_char=1276
+31	.	.	PUNCT	_	_	4	punct	_	start_char=1276|end_char=1277
+
+# text = Но еще оставалась петля – кольцо, временной пузырь большой галлифрейской Сансары.
+# sent_id = 17
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=1278|end_char=1280
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=1281|end_char=1284
+3	оставалась	оставаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1285|end_char=1295
+4	петля	петля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=1296|end_char=1301
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1302|end_char=1303
+6	кольцо	кольцо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	appos	_	start_char=1304|end_char=1310
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1310|end_char=1311
+8	временной	временный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1312|end_char=1321
+9	пузырь	пузырь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	start_char=1322|end_char=1328
+10	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1329|end_char=1336
+11	галлифрейской	галлифрейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=1337|end_char=1350
+12	Сансары	Сансара	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	10	nmod	_	start_char=1351|end_char=1358
+13	.	.	PUNCT	_	_	3	punct	_	start_char=1358|end_char=1359
+
+# text = Смерть на Галлифрее – жизнь в бездне других миров.
+# sent_id = 18
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1360|end_char=1366
+2	на	на	ADP	_	_	3	case	_	start_char=1367|end_char=1369
+3	Галлифрее	Галлифрей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	1	nmod	_	start_char=1370|end_char=1379
+4	–	–	PUNCT	_	_	5	punct	_	start_char=1380|end_char=1381
+5	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	start_char=1382|end_char=1387
+6	в	в	ADP	_	_	7	case	_	start_char=1388|end_char=1389
+7	бездне	бездна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	start_char=1390|end_char=1396
+8	других	другой	DET	_	Case=Gen|Number=Plur|PronType=Tot	9	det	_	start_char=1397|end_char=1403
+9	миров	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	start_char=1404|end_char=1409
+10	.	.	PUNCT	_	_	1	punct	_	start_char=1409|end_char=1410
+
+# text = Сэм помнил, что у него была прежняя жизнь, он был слишком упрям, чтобы не помнить этого.
+# sent_id = 19
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Сэм	Сэм	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1412|end_char=1415
+2	помнил	помнить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1416|end_char=1422
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1422|end_char=1423
+4	что	что	SCONJ	_	_	6	mark	_	start_char=1424|end_char=1427
+5	у	у	ADP	_	_	6	case	_	start_char=1428|end_char=1429
+6	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	ccomp	_	start_char=1430|end_char=1434
+7	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1435|end_char=1439
+8	прежняя	прежний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=1440|end_char=1447
+9	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1448|end_char=1453
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1453|end_char=1454
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=1455|end_char=1457
+12	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=1458|end_char=1461
+13	слишком	слишком	ADV	_	Degree=Pos	14	advmod	_	start_char=1462|end_char=1469
+14	упрям	упрой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	conj	_	start_char=1470|end_char=1475
+15	,	,	PUNCT	_	_	18	punct	_	start_char=1475|end_char=1476
+16	чтобы	чтобы	SCONJ	_	Mood=Cnd	18	mark	_	start_char=1477|end_char=1482
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=1483|end_char=1485
+18	помнить	помнить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	advcl	_	start_char=1486|end_char=1493
+19	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	18	obj	_	start_char=1494|end_char=1499
+20	.	.	PUNCT	_	_	2	punct	_	start_char=1499|end_char=1500
+
+# text = Он не намеревался терять ее вот так, по пустякам, у него было еще столько незаконченных дел.
+# sent_id = 20
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1501|end_char=1503
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1504|end_char=1506
+3	намеревался	намереваться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1507|end_char=1518
+4	терять	терять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1519|end_char=1525
+5	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=1526|end_char=1528
+6	вот	вот	PART	_	_	7	advmod	_	start_char=1529|end_char=1532
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=1533|end_char=1536
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1536|end_char=1537
+9	по	по	ADP	_	_	10	case	_	start_char=1538|end_char=1540
+10	пустякам	пустяк	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	conj	_	start_char=1541|end_char=1549
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1549|end_char=1550
+12	у	у	ADP	_	_	13	case	_	start_char=1551|end_char=1552
+13	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	conj	_	start_char=1553|end_char=1557
+14	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=1558|end_char=1562
+15	еще	еще	ADV	_	Degree=Pos	16	advmod	_	start_char=1563|end_char=1566
+16	столько	столько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	18	nummod:gov	_	start_char=1567|end_char=1574
+17	незаконченных	незаконченный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	start_char=1575|end_char=1588
+18	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nsubj	_	start_char=1589|end_char=1592
+19	.	.	PUNCT	_	_	3	punct	_	start_char=1592|end_char=1593
+
+# text = В том числе друг… или подруга? – которую он сам оттолкнул, и она попала в беду…
+# sent_id = 21
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	В	в	ADP	_	_	3	case	_	start_char=1594|end_char=1595
+2	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=1596|end_char=1599
+3	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	start_char=1600|end_char=1605
+4	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1606|end_char=1610
+5	…	…	PUNCT	_	_	7	punct	_	start_char=1610|end_char=1611
+6	или	или	CCONJ	_	_	7	cc	_	start_char=1612|end_char=1615
+7	подруга	подруга	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	start_char=1616|end_char=1623
+8	?	?	PUNCT	_	_	4	punct	_	start_char=1623|end_char=1624
+9	–	–	PUNCT	_	_	13	punct	_	start_char=1625|end_char=1626
+10	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	13	obj	_	start_char=1627|end_char=1634
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=1635|end_char=1637
+12	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	11	acl	_	start_char=1638|end_char=1641
+13	оттолкнул	оттолкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=1642|end_char=1651
+14	,	,	PUNCT	_	_	17	punct	_	start_char=1651|end_char=1652
+15	и	и	CCONJ	_	_	17	cc	_	start_char=1653|end_char=1654
+16	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=1655|end_char=1658
+17	попала	попасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1659|end_char=1665
+18	в	в	ADP	_	_	19	case	_	start_char=1666|end_char=1667
+19	беду	беда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	start_char=1668|end_char=1672
+20	…	…	PUNCT	_	_	4	punct	_	start_char=1672|end_char=1673
+
+# text = Он помнил это слишком ярко, слишком тревожно.
+# sent_id = 22
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=1674|end_char=1676
+2	помнил	помнить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1677|end_char=1683
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	start_char=1684|end_char=1687
+4	слишком	слишком	ADV	_	Degree=Pos	5	advmod	_	start_char=1688|end_char=1695
+5	ярко	ярко	ADV	_	Degree=Pos	2	advmod	_	start_char=1696|end_char=1700
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1700|end_char=1701
+7	слишком	слишком	ADV	_	Degree=Pos	8	advmod	_	start_char=1702|end_char=1709
+8	тревожно	тревожно	ADV	_	Degree=Pos	5	conj	_	start_char=1710|end_char=1718
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1718|end_char=1719
+
+# text = Правда, все стало легче, когда он узнал, или понял, или только представил, что она вполне может обойтись без него.
+# sent_id = 23
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	start_char=1720|end_char=1726
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1726|end_char=1727
+3	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=1728|end_char=1731
+4	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1732|end_char=1737
+5	легче	легкий	ADJ	_	Degree=Cmp	4	xcomp	_	start_char=1738|end_char=1743
+6	,	,	PUNCT	_	_	9	punct	_	start_char=1743|end_char=1744
+7	когда	когда	SCONJ	_	_	9	mark	_	start_char=1745|end_char=1750
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=1751|end_char=1753
+9	узнал	узнать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=1754|end_char=1759
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1759|end_char=1760
+11	или	или	CCONJ	_	_	12	cc	_	start_char=1761|end_char=1764
+12	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1765|end_char=1770
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1770|end_char=1771
+14	или	или	CCONJ	_	_	16	cc	_	start_char=1772|end_char=1775
+15	только	только	PART	_	_	16	advmod	_	start_char=1776|end_char=1782
+16	представил	представить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1783|end_char=1793
+17	,	,	PUNCT	_	_	21	punct	_	start_char=1793|end_char=1794
+18	что	что	SCONJ	_	_	21	mark	_	start_char=1795|end_char=1798
+19	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=1799|end_char=1802
+20	вполне	вполне	ADV	_	Degree=Pos	21	advmod	_	start_char=1803|end_char=1809
+21	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	start_char=1810|end_char=1815
+22	обойтись	обойтись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	21	xcomp	_	start_char=1816|end_char=1824
+23	без	без	ADP	_	_	24	case	_	start_char=1825|end_char=1828
+24	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	start_char=1829|end_char=1833
+25	.	.	PUNCT	_	_	4	punct	_	start_char=1833|end_char=1834
+
+# text = Разве ее не звали Майя – иллюзия?
+# sent_id = 24
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Разве	разве	PART	_	_	4	advmod	_	start_char=1835|end_char=1840
+2	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=1841|end_char=1843
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1844|end_char=1846
+4	звали	звать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1847|end_char=1852
+5	Майя	Майя	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1853|end_char=1857
+6	–	–	PUNCT	_	_	7	punct	_	start_char=1858|end_char=1859
+7	иллюзия	иллюзия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	appos	_	start_char=1860|end_char=1867
+8	?	?	PUNCT	_	_	4	punct	_	start_char=1867|end_char=1868
+
+# text = А его друзья здесь, в этом мире, обойтись без него не могли, и он остался там, где был нужен.
+# sent_id = 25
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	А	а	CCONJ	_	_	14	cc	_	start_char=1869|end_char=1870
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=1871|end_char=1874
+3	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	start_char=1875|end_char=1881
+4	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=1882|end_char=1887
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1887|end_char=1888
+6	в	в	ADP	_	_	8	case	_	start_char=1889|end_char=1890
+7	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=1891|end_char=1895
+8	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	start_char=1896|end_char=1900
+9	,	,	PUNCT	_	_	8	punct	_	start_char=1900|end_char=1901
+10	обойтись	обойтись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	14	xcomp	_	start_char=1902|end_char=1910
+11	без	без	ADP	_	_	12	case	_	start_char=1911|end_char=1914
+12	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=1915|end_char=1919
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1920|end_char=1922
+14	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1923|end_char=1928
+15	,	,	PUNCT	_	_	18	punct	_	start_char=1928|end_char=1929
+16	и	и	CCONJ	_	_	18	cc	_	start_char=1930|end_char=1931
+17	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=1932|end_char=1934
+18	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	14	conj	_	start_char=1935|end_char=1942
+19	там	там	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=1943|end_char=1946
+20	,	,	PUNCT	_	_	23	punct	_	start_char=1946|end_char=1947
+21	где	где	ADV	_	Degree=Pos|PronType=Rel	23	advmod	_	start_char=1948|end_char=1951
+22	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	start_char=1952|end_char=1955
+23	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	19	acl:relcl	_	start_char=1956|end_char=1961
+24	.	.	PUNCT	_	_	14	punct	_	start_char=1961|end_char=1962
+
+# text = Вернулся даже оттуда, куда вернулся...
+# sent_id = 26
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1963|end_char=1971
+2	даже	даже	PART	_	_	3	advmod	_	start_char=1972|end_char=1976
+3	оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	start_char=1977|end_char=1983
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1983|end_char=1984
+5	куда	куда	ADV	_	Degree=Pos|PronType=Rel	6	advmod	_	start_char=1985|end_char=1989
+6	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	acl:relcl	_	start_char=1990|end_char=1998
+7	...	...	PUNCT	_	_	1	punct	_	start_char=1998|end_char=2001
+
+# text = Вернулся?
+# sent_id = 27
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2002|end_char=2010
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2010|end_char=2011
+
+# text = Насколько был настоящим тот мир, в котором он однажды пробудился в больничной палате, следуя своему неистовому желанию не уступать разрушению?
+# sent_id = 28
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Насколько	насколько	ADV	_	Degree=Pos	3	advmod	_	start_char=2012|end_char=2021
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=2022|end_char=2025
+3	настоящим	настоящий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=2026|end_char=2035
+4	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	start_char=2036|end_char=2039
+5	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2040|end_char=2043
+6	,	,	PUNCT	_	_	11	punct	_	start_char=2043|end_char=2044
+7	в	в	ADP	_	_	8	case	_	start_char=2045|end_char=2046
+8	котором	который	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	11	obl	_	start_char=2047|end_char=2054
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=2055|end_char=2057
+10	однажды	однажды	ADV	_	Degree=Pos	11	advmod	_	start_char=2058|end_char=2065
+11	пробудился	пробудиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	acl:relcl	_	start_char=2066|end_char=2076
+12	в	в	ADP	_	_	14	case	_	start_char=2077|end_char=2078
+13	больничной	больничный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=2079|end_char=2089
+14	палате	палата	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	start_char=2090|end_char=2096
+15	,	,	PUNCT	_	_	16	punct	_	start_char=2096|end_char=2097
+16	следуя	следуть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	advcl	_	start_char=2098|end_char=2104
+17	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	start_char=2105|end_char=2111
+18	неистовому	неистовый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=2112|end_char=2122
+19	желанию	желание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	iobj	_	start_char=2123|end_char=2130
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=2131|end_char=2133
+21	уступать	уступать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	start_char=2134|end_char=2142
+22	разрушению	разрушение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	iobj	_	start_char=2143|end_char=2153
+23	?	?	PUNCT	_	_	3	punct	_	start_char=2153|end_char=2154
+
+# text = Внезапному разрушению, которое он не планировал.
+# sent_id = 29
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Внезапному	внезапный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=2155|end_char=2165
+2	разрушению	разрушение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	0	root	_	start_char=2166|end_char=2176
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2176|end_char=2177
+4	которое	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	start_char=2178|end_char=2185
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=2186|end_char=2188
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2189|end_char=2191
+7	планировал	планировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=2192|end_char=2202
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2202|end_char=2203
+
+# text = Потому что, когда было нужно, он мог сделать это сам, по своей воле, всегда, в любой момент.
+# sent_id = 30
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	9	mark	_	start_char=2204|end_char=2210
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=2211|end_char=2214
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2214|end_char=2215
+4	когда	когда	SCONJ	_	_	6	mark	_	start_char=2216|end_char=2221
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=2222|end_char=2226
+6	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	advcl	_	start_char=2227|end_char=2232
+7	,	,	PUNCT	_	_	6	punct	_	start_char=2232|end_char=2233
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=2234|end_char=2236
+9	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2237|end_char=2240
+10	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=2241|end_char=2248
+11	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obj	_	start_char=2249|end_char=2252
+12	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	11	det	_	start_char=2253|end_char=2256
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2256|end_char=2257
+14	по	по	ADP	_	_	16	case	_	start_char=2258|end_char=2260
+15	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	start_char=2261|end_char=2266
+16	воле	воле	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	start_char=2267|end_char=2271
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2271|end_char=2272
+18	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	16	conj	_	start_char=2273|end_char=2279
+19	,	,	PUNCT	_	_	22	punct	_	start_char=2279|end_char=2280
+20	в	в	ADP	_	_	22	case	_	start_char=2281|end_char=2282
+21	любой	любой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	22	det	_	start_char=2283|end_char=2288
+22	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	conj	_	start_char=2289|end_char=2295
+23	.	.	PUNCT	_	_	9	punct	_	start_char=2295|end_char=2296
+
+# text = Был ли тот реальный мир реальным миром – или еще более глубоким сном?
+# sent_id = 31
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2297|end_char=2300
+2	ли	ли	PART	_	_	1	advmod	_	start_char=2301|end_char=2303
+3	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	start_char=2304|end_char=2307
+4	реальный	реальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=2308|end_char=2316
+5	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=2317|end_char=2320
+6	реальным	реальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=2321|end_char=2329
+7	миром	мир	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	start_char=2330|end_char=2335
+8	–	–	PUNCT	_	_	13	punct	_	start_char=2336|end_char=2337
+9	или	или	CCONJ	_	_	13	cc	_	start_char=2338|end_char=2341
+10	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=2342|end_char=2345
+11	более	более	ADV	_	Degree=Cmp|PronType=Tot	12	advmod	_	start_char=2346|end_char=2351
+12	глубоким	глубокий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=2352|end_char=2360
+13	сном	сон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	start_char=2361|end_char=2365
+14	?	?	PUNCT	_	_	1	punct	_	start_char=2365|end_char=2366
+
+# text = Самогипнозом, куда и могут завести неистовые желания?
+# sent_id = 32
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Самогипнозом	самогипноз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	xcomp	_	start_char=2367|end_char=2379
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2379|end_char=2380
+3	куда	куда	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=2381|end_char=2385
+4	и	и	PART	_	_	5	advmod	_	start_char=2386|end_char=2387
+5	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2388|end_char=2393
+6	завести	завести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=2394|end_char=2401
+7	неистовые	неистовый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	start_char=2402|end_char=2411
+8	желания	желание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obj	_	start_char=2412|end_char=2419
+9	?	?	PUNCT	_	_	5	punct	_	start_char=2419|end_char=2420
+
+# text = С тех пор прошло семь долгих лет.
+# sent_id = 33
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	С	с	ADP	_	_	4	advmod	_	start_char=2421|end_char=2422
+2	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	1	fixed	_	start_char=2423|end_char=2426
+3	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	fixed	_	start_char=2427|end_char=2430
+4	прошло	пройти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2431|end_char=2437
+5	семь	семь	NUM	_	Case=Nom|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=2438|end_char=2442
+6	долгих	долгий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	start_char=2443|end_char=2449
+7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	start_char=2450|end_char=2453
+8	.	.	PUNCT	_	_	4	punct	_	start_char=2453|end_char=2454
+
+# text = Казалось, он нашел мир с собой и с миром, который был реален настолько, насколько вообще может быть реален мир.
+# sent_id = 34
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2455|end_char=2463
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2463|end_char=2464
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2465|end_char=2467
+4	нашел	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2468|end_char=2473
+5	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=2474|end_char=2477
+6	с	с	ADP	_	_	7	case	_	start_char=2478|end_char=2479
+7	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	4	obl	_	start_char=2480|end_char=2485
+8	и	и	CCONJ	_	_	10	cc	_	start_char=2486|end_char=2487
+9	с	с	ADP	_	_	10	case	_	start_char=2488|end_char=2489
+10	миром	мир	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	start_char=2490|end_char=2495
+11	,	,	PUNCT	_	_	14	punct	_	start_char=2495|end_char=2496
+12	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	start_char=2497|end_char=2504
+13	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=2505|end_char=2508
+14	реален	реальный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	acl:relcl	_	start_char=2509|end_char=2515
+15	настолько	настолько	ADV	_	Degree=Pos	14	advmod	_	start_char=2516|end_char=2525
+16	,	,	PUNCT	_	_	19	punct	_	start_char=2525|end_char=2526
+17	насколько	насколько	SCONJ	_	_	19	mark	_	start_char=2527|end_char=2536
+18	вообще	вообще	ADV	_	Degree=Pos	19	advmod	_	start_char=2537|end_char=2543
+19	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=2544|end_char=2549
+20	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	cop	_	start_char=2550|end_char=2554
+21	реален	реальный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	19	xcomp	_	start_char=2555|end_char=2561
+22	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=2562|end_char=2565
+23	.	.	PUNCT	_	_	4	punct	_	start_char=2565|end_char=2566
+
+# text = Но недостаточно: то и дело мир становился слишком призрачным, опять, невозможным, и дорисовывающий любую реальность мозг уже не мог залатать дыры.
+# sent_id = 35
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=2567|end_char=2569
+2	недостаточно	недостаточно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2570|end_char=2582
+3	:	:	PUNCT	_	_	8	punct	_	start_char=2582|end_char=2583
+4	то	тот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	start_char=2584|end_char=2586
+5	и	и	PART	_	_	6	advmod	_	start_char=2587|end_char=2588
+6	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	start_char=2589|end_char=2593
+7	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=2594|end_char=2597
+8	становился	становиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=2598|end_char=2608
+9	слишком	слишком	ADV	_	Degree=Pos	10	advmod	_	start_char=2609|end_char=2616
+10	призрачным	призрачный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	start_char=2617|end_char=2627
+11	,	,	PUNCT	_	_	14	punct	_	start_char=2627|end_char=2628
+12	опять	опять	ADV	_	Degree=Pos	14	advmod	_	start_char=2629|end_char=2634
+13	,	,	PUNCT	_	_	14	punct	_	start_char=2634|end_char=2635
+14	невозможным	невозможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	conj	_	start_char=2636|end_char=2647
+15	,	,	PUNCT	_	_	23	punct	_	start_char=2647|end_char=2648
+16	и	и	CCONJ	_	_	23	cc	_	start_char=2649|end_char=2650
+17	дорисовывающий	дорисовывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	start_char=2651|end_char=2665
+18	любую	любой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	19	det	_	start_char=2666|end_char=2671
+19	реальность	реальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	start_char=2672|end_char=2682
+20	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	start_char=2683|end_char=2687
+21	уже	уже	ADV	_	Degree=Pos	23	advmod	_	start_char=2688|end_char=2691
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=2692|end_char=2694
+23	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=2695|end_char=2698
+24	залатать	залатать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	xcomp	_	start_char=2699|end_char=2707
+25	дыры	дыра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	obj	_	start_char=2708|end_char=2712
+26	.	.	PUNCT	_	_	2	punct	_	start_char=2712|end_char=2713
+
+# text = Дыры, через которые можно уйти, чтобы никогда не возвращаться.
+# sent_id = 36
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Дыры	дыра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=2714|end_char=2718
+2	,	,	PUNCT	_	_	5	punct	_	start_char=2718|end_char=2719
+3	через	через	ADP	_	_	4	case	_	start_char=2720|end_char=2725
+4	которые	который	PRON	_	Case=Acc|Number=Plur|PronType=Rel	6	obl	_	start_char=2726|end_char=2733
+5	можно	можно	VERB	_	_	1	acl:relcl	_	start_char=2734|end_char=2739
+6	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=2740|end_char=2744
+7	,	,	PUNCT	_	_	11	punct	_	start_char=2744|end_char=2745
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	start_char=2746|end_char=2751
+9	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	11	advmod	_	start_char=2752|end_char=2759
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2760|end_char=2762
+11	возвращаться	возвращаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	6	advcl	_	start_char=2763|end_char=2775
+12	.	.	PUNCT	_	_	1	punct	_	start_char=2775|end_char=2776
+
+# text = И однажды он воспользовался одной из них – просто вышел за дверь или вошел; в старый паб Нельсона или в другую Галактику.
+# sent_id = 37
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	И	и	CCONJ	_	_	4	cc	_	start_char=2777|end_char=2778
+2	однажды	однажды	ADV	_	Degree=Pos	4	advmod	_	start_char=2779|end_char=2786
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2787|end_char=2789
+4	воспользовался	воспользоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2790|end_char=2804
+5	одной	один	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Ind	4	xcomp	_	start_char=2805|end_char=2810
+6	из	из	ADP	_	_	7	case	_	start_char=2811|end_char=2813
+7	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	nmod	_	start_char=2814|end_char=2817
+8	–	–	PUNCT	_	_	10	punct	_	start_char=2818|end_char=2819
+9	просто	просто	PART	_	_	10	advmod	_	start_char=2820|end_char=2826
+10	вышел	выйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2827|end_char=2832
+11	за	за	ADP	_	_	12	case	_	start_char=2833|end_char=2835
+12	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	start_char=2836|end_char=2841
+13	или	или	CCONJ	_	_	14	cc	_	start_char=2842|end_char=2845
+14	вошел	войти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=2846|end_char=2851
+15	;	;	PUNCT	_	_	18	punct	_	start_char=2851|end_char=2852
+16	в	в	ADP	_	_	18	case	_	start_char=2853|end_char=2854
+17	старый	старый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=2855|end_char=2861
+18	паб	паб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=2862|end_char=2865
+19	Нельсона	Нельсон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	18	nmod	_	start_char=2866|end_char=2874
+20	или	или	CCONJ	_	_	23	cc	_	start_char=2875|end_char=2878
+21	в	в	ADP	_	_	23	case	_	start_char=2879|end_char=2880
+22	другую	другой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	23	det	_	start_char=2881|end_char=2887
+23	Галактику	Галактика	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	19	conj	_	start_char=2888|end_char=2897
+24	.	.	PUNCT	_	_	4	punct	_	start_char=2897|end_char=2898
+
+# text = Быть может, ту самую, откуда он когда-то начал свой путь, лежащую за пределами временного пузыря.
+# sent_id = 38
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2899|end_char=2903
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2904|end_char=2909
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2909|end_char=2910
+4	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	start_char=2911|end_char=2913
+5	самую	самый	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Emp	4	det	_	start_char=2914|end_char=2919
+6	,	,	PUNCT	_	_	10	punct	_	start_char=2919|end_char=2920
+7	откуда	откуда	ADV	_	Degree=Pos|PronType=Rel	10	advmod	_	start_char=2921|end_char=2927
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=2928|end_char=2930
+9	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	10	advmod	_	start_char=2931|end_char=2939
+10	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=2940|end_char=2945
+11	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=2946|end_char=2950
+12	путь	путь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=2951|end_char=2955
+13	,	,	PUNCT	_	_	14	punct	_	start_char=2955|end_char=2956
+14	лежащую	лежать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	start_char=2957|end_char=2964
+15	за	за	ADP	_	_	16	case	_	start_char=2965|end_char=2967
+16	пределами	предел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	obl	_	start_char=2968|end_char=2977
+17	временного	временный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=2978|end_char=2988
+18	пузыря	пузыря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	start_char=2989|end_char=2995
+19	.	.	PUNCT	_	_	2	punct	_	start_char=2995|end_char=2996
+
+# text = Реальностей множество, не все они призрачны одинаково.
+# sent_id = 39
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Реальностей	реальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nsubj	_	start_char=2997|end_char=3008
+2	множество	множество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3009|end_char=3018
+3	,	,	PUNCT	_	_	7	punct	_	start_char=3018|end_char=3019
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3020|end_char=3022
+5	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	6	det	_	start_char=3023|end_char=3026
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=3027|end_char=3030
+7	призрачны	призрачный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	2	conj	_	start_char=3031|end_char=3040
+8	одинаково	одинаково	ADV	_	Degree=Pos	7	advmod	_	start_char=3041|end_char=3050
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3050|end_char=3051
+
+# text = Алекс знала: самое главное, что осталось в другой вселенной – ее ребенок, к которому нужно вернуться, ее дочь… ведь дочь, верно?
+# sent_id = 40
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Алекс	Алекс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=3053|end_char=3058
+2	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3059|end_char=3064
+3	:	:	PUNCT	_	_	2	punct	_	start_char=3064|end_char=3065
+4	самое	самый	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	5	det	_	start_char=3066|end_char=3071
+5	главное	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	parataxis	_	start_char=3072|end_char=3079
+6	,	,	PUNCT	_	_	8	punct	_	start_char=3079|end_char=3080
+7	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	start_char=3081|end_char=3084
+8	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	acl:relcl	_	start_char=3085|end_char=3093
+9	в	в	ADP	_	_	11	case	_	start_char=3094|end_char=3095
+10	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	11	det	_	start_char=3096|end_char=3102
+11	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	start_char=3103|end_char=3112
+12	–	–	PUNCT	_	_	14	punct	_	start_char=3113|end_char=3114
+13	ее	ее	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=3115|end_char=3117
+14	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	start_char=3118|end_char=3125
+15	,	,	PUNCT	_	_	18	punct	_	start_char=3125|end_char=3126
+16	к	к	ADP	_	_	17	case	_	start_char=3127|end_char=3128
+17	которому	который	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	19	obl	_	start_char=3129|end_char=3137
+18	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	acl:relcl	_	start_char=3138|end_char=3143
+19	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	18	csubj	_	start_char=3144|end_char=3153
+20	,	,	PUNCT	_	_	18	punct	_	start_char=3153|end_char=3154
+21	ее	ее	DET	_	Poss=Yes|PronType=Prs	22	det	_	start_char=3155|end_char=3157
+22	дочь	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	start_char=3158|end_char=3162
+23	…	…	PUNCT	_	_	25	punct	_	start_char=3162|end_char=3163
+24	ведь	ведь	PART	_	_	25	advmod	_	start_char=3164|end_char=3168
+25	дочь	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	22	conj	_	start_char=3169|end_char=3173
+26	,	,	PUNCT	_	_	27	punct	_	start_char=3173|end_char=3174
+27	верно	верный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	parataxis	_	start_char=3175|end_char=3180
+28	?	?	PUNCT	_	_	2	punct	_	start_char=3180|end_char=3181
+
+# text = Она так помнила.
+# sent_id = 41
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3182|end_char=3185
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=3186|end_char=3189
+3	помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3190|end_char=3197
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3197|end_char=3198
+
+# text = Такую реальность создал ее мозг.
+# sent_id = 42
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	start_char=3199|end_char=3204
+2	реальность	реальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=3205|end_char=3215
+3	создал	создать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3216|end_char=3222
+4	ее	ее	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=3223|end_char=3225
+5	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3226|end_char=3230
+6	.	.	PUNCT	_	_	3	punct	_	start_char=3230|end_char=3231
+
+# text = Сама она была доктором, психологом… это не обсуждалось, это была реальность, уж про доктора она помнила.
+# sent_id = 43
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	2	det	_	start_char=3232|end_char=3236
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=3237|end_char=3240
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=3241|end_char=3245
+4	доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=3246|end_char=3254
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3254|end_char=3255
+6	психологом	психолог	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	start_char=3256|end_char=3266
+7	…	…	PUNCT	_	_	10	punct	_	start_char=3266|end_char=3267
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=3268|end_char=3271
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=3272|end_char=3274
+10	обсуждалось	обсуждаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=3275|end_char=3286
+11	,	,	PUNCT	_	_	14	punct	_	start_char=3286|end_char=3287
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	start_char=3288|end_char=3291
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=3292|end_char=3296
+14	реальность	реальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	start_char=3297|end_char=3307
+15	,	,	PUNCT	_	_	20	punct	_	start_char=3307|end_char=3308
+16	уж	уж	PART	_	_	18	advmod	_	start_char=3309|end_char=3311
+17	про	про	ADP	_	_	18	case	_	start_char=3312|end_char=3315
+18	доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	start_char=3316|end_char=3323
+19	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=3324|end_char=3327
+20	помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=3328|end_char=3335
+21	.	.	PUNCT	_	_	4	punct	_	start_char=3335|end_char=3336
+
+# text = Помнила про родителей.
+# sent_id = 44
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3337|end_char=3344
+2	про	про	ADP	_	_	3	case	_	start_char=3345|end_char=3348
+3	родителей	родитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	1	obl	_	start_char=3349|end_char=3358
+4	.	.	PUNCT	_	_	1	punct	_	start_char=3358|end_char=3359
+
+# text = Про отца, который однажды взорвал весь ее мир.
+# sent_id = 45
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Про	про	ADP	_	_	2	case	_	start_char=3360|end_char=3363
+2	отца	отец	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	0	root	_	start_char=3364|end_char=3368
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3368|end_char=3369
+4	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	start_char=3370|end_char=3377
+5	однажды	однажды	ADV	_	Degree=Pos	6	advmod	_	start_char=3378|end_char=3385
+6	взорвал	взорвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=3386|end_char=3393
+7	весь	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	9	det	_	start_char=3394|end_char=3398
+8	ее	ее	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=3399|end_char=3401
+9	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=3402|end_char=3405
+10	.	.	PUNCT	_	_	2	punct	_	start_char=3405|end_char=3406
+
+# text = Отец, ведь верно?
+# sent_id = 46
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Отец	отец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	start_char=3407|end_char=3411
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3411|end_char=3412
+3	ведь	ведь	SCONJ	_	_	4	mark	_	start_char=3413|end_char=3417
+4	верно	верный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3418|end_char=3423
+5	?	?	PUNCT	_	_	4	punct	_	start_char=3423|end_char=3424
+
+# text = Кто же еще?
+# sent_id = 47
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=3425|end_char=3428
+2	же	же	PART	_	_	1	advmod	_	start_char=3429|end_char=3431
+3	еще	еще	ADV	_	Degree=Pos	1	advmod	_	start_char=3432|end_char=3435
+4	?	?	PUNCT	_	_	1	punct	_	start_char=3435|end_char=3436
+
+# text = Обладающий безмерным авторитетом, самый мудрый и добрый – ведь иначе не могло быть.
+# sent_id = 48
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Обладающий	обладать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	nsubj	_	start_char=3437|end_char=3447
+2	безмерным	безмерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=3448|end_char=3457
+3	авторитетом	авторитет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	start_char=3458|end_char=3469
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3469|end_char=3470
+5	самый	самый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	6	det	_	start_char=3471|end_char=3476
+6	мудрый	мудрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=3477|end_char=3483
+7	и	и	CCONJ	_	_	8	cc	_	start_char=3484|end_char=3485
+8	добрый	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	start_char=3486|end_char=3492
+9	–	–	PUNCT	_	_	13	punct	_	start_char=3493|end_char=3494
+10	ведь	ведь	SCONJ	_	_	13	mark	_	start_char=3495|end_char=3499
+11	иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	13	advmod	_	start_char=3500|end_char=3505
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=3506|end_char=3508
+13	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=3509|end_char=3514
+14	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=3515|end_char=3519
+15	.	.	PUNCT	_	_	6	punct	_	start_char=3519|end_char=3520
+
+# text = Она знала, какие шутки умеет шутить сознание, она этому обучалась, была к этому готова.
+# sent_id = 49
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=3521|end_char=3524
+2	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3525|end_char=3530
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3530|end_char=3531
+4	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Rel	5	det	_	start_char=3532|end_char=3537
+5	шутки	шутки	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	start_char=3538|end_char=3543
+6	умеет	уметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=3544|end_char=3549
+7	шутить	шутить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=3550|end_char=3556
+8	сознание	сознание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=3557|end_char=3565
+9	,	,	PUNCT	_	_	12	punct	_	start_char=3565|end_char=3566
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=3567|end_char=3570
+11	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	12	iobj	_	start_char=3571|end_char=3576
+12	обучалась	обучаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=3577|end_char=3586
+13	,	,	PUNCT	_	_	17	punct	_	start_char=3586|end_char=3587
+14	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	start_char=3588|end_char=3592
+15	к	к	ADP	_	_	16	case	_	start_char=3593|end_char=3594
+16	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	17	obl	_	start_char=3595|end_char=3600
+17	готова	готовый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	conj	_	start_char=3601|end_char=3607
+18	.	.	PUNCT	_	_	2	punct	_	start_char=3607|end_char=3608
+
+# text = Она читала дело инспектора-самоубийцы Тайлера, его фантазии о том времени, когда он находился в коме – будто в другой вселенной, на другой планете.
+# sent_id = 50
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=3609|end_char=3612
+2	читала	читать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3613|end_char=3619
+3	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=3620|end_char=3624
+4	инспектора	инспектор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=3625|end_char=3635
+5	-	-	PUNCT	_	_	6	punct	_	start_char=3635|end_char=3636
+6	самоубийцы	самоубийца	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	appos	_	start_char=3636|end_char=3646
+7	Тайлера	Тайлер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	nmod	_	start_char=3647|end_char=3654
+8	,	,	PUNCT	_	_	10	punct	_	start_char=3654|end_char=3655
+9	его	его	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=3656|end_char=3659
+10	фантазии	фантазия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	conj	_	start_char=3660|end_char=3668
+11	о	о	ADP	_	_	13	case	_	start_char=3669|end_char=3670
+12	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	start_char=3671|end_char=3674
+13	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	nmod	_	start_char=3675|end_char=3682
+14	,	,	PUNCT	_	_	17	punct	_	start_char=3682|end_char=3683
+15	когда	когда	SCONJ	_	_	17	mark	_	start_char=3684|end_char=3689
+16	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=3690|end_char=3692
+17	находился	находиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	advcl	_	start_char=3693|end_char=3702
+18	в	в	ADP	_	_	19	case	_	start_char=3703|end_char=3704
+19	коме	кома	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	start_char=3705|end_char=3709
+20	–	–	PUNCT	_	_	24	punct	_	start_char=3710|end_char=3711
+21	будто	будто	SCONJ	_	_	24	mark	_	start_char=3712|end_char=3717
+22	в	в	ADP	_	_	24	case	_	start_char=3718|end_char=3719
+23	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	24	det	_	start_char=3720|end_char=3726
+24	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	start_char=3727|end_char=3736
+25	,	,	PUNCT	_	_	28	punct	_	start_char=3736|end_char=3737
+26	на	на	ADP	_	_	28	case	_	start_char=3738|end_char=3740
+27	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	28	det	_	start_char=3741|end_char=3747
+28	планете	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	conj	_	start_char=3748|end_char=3755
+29	.	.	PUNCT	_	_	2	punct	_	start_char=3755|end_char=3756
+
+# text = Он был всего лишь пациентом, его мозг был поврежден и аварией, и опухолью.
+# sent_id = 51
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3757|end_char=3759
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=3760|end_char=3763
+3	всего	всего	PART	_	_	4	advmod	_	start_char=3764|end_char=3769
+4	лишь	лишь	PART	_	_	5	advmod	_	start_char=3770|end_char=3774
+5	пациентом	пациент	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=3775|end_char=3784
+6	,	,	PUNCT	_	_	10	punct	_	start_char=3784|end_char=3785
+7	его	его	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=3786|end_char=3789
+8	мозг	мозг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	start_char=3790|end_char=3794
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	aux:pass	_	start_char=3795|end_char=3798
+10	поврежден	повредить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	conj	_	start_char=3799|end_char=3808
+11	и	и	CCONJ	_	_	12	cc	_	start_char=3809|end_char=3810
+12	аварией	авария	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	iobj	_	start_char=3811|end_char=3818
+13	,	,	PUNCT	_	_	15	punct	_	start_char=3818|end_char=3819
+14	и	и	CCONJ	_	_	15	cc	_	start_char=3820|end_char=3821
+15	опухолью	опухоль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	conj	_	start_char=3822|end_char=3830
+16	.	.	PUNCT	_	_	5	punct	_	start_char=3830|end_char=3831
+
+# text = К ней это не имеет отношения.
+# sent_id = 52
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	К	к	ADP	_	_	2	case	_	start_char=3832|end_char=3833
+2	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=3834|end_char=3837
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3838|end_char=3841
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3842|end_char=3844
+5	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3845|end_char=3850
+6	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obj	_	start_char=3851|end_char=3860
+7	.	.	PUNCT	_	_	5	punct	_	start_char=3860|end_char=3861
+
+# text = Ей всего лишь выстрелили в голову…
+# sent_id = 53
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=3862|end_char=3864
+2	всего	всего	PART	_	_	3	advmod	_	start_char=3865|end_char=3870
+3	лишь	лишь	PART	_	_	4	advmod	_	start_char=3871|end_char=3875
+4	выстрелили	выстрелить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3876|end_char=3886
+5	в	в	ADP	_	_	6	case	_	start_char=3887|end_char=3888
+6	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=3889|end_char=3895
+7	…	…	PUNCT	_	_	4	punct	_	start_char=3895|end_char=3896
+
+# text = Но она помнила то, что помнила, знала то, что знала.
+# sent_id = 54
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=3897|end_char=3899
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3900|end_char=3903
+3	помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3904|end_char=3911
+4	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=3912|end_char=3914
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3914|end_char=3915
+6	что	что	SCONJ	_	_	7	mark	_	start_char=3916|end_char=3919
+7	помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	start_char=3920|end_char=3927
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3927|end_char=3928
+9	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3929|end_char=3934
+10	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	start_char=3935|end_char=3937
+11	,	,	PUNCT	_	_	13	punct	_	start_char=3937|end_char=3938
+12	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	13	obj	_	start_char=3939|end_char=3942
+13	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	start_char=3943|end_char=3948
+14	.	.	PUNCT	_	_	3	punct	_	start_char=3948|end_char=3949
+
+# text = Она была матерью, и это было главное.
+# sent_id = 55
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3950|end_char=3953
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=3954|end_char=3958
+3	матерью	мать	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=3959|end_char=3966
+4	,	,	PUNCT	_	_	8	punct	_	start_char=3966|end_char=3967
+5	и	и	CCONJ	_	_	8	cc	_	start_char=3968|end_char=3969
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=3970|end_char=3973
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=3974|end_char=3978
+8	главное	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	conj	_	start_char=3979|end_char=3986
+9	.	.	PUNCT	_	_	3	punct	_	start_char=3986|end_char=3987
+
+# text = Или?..
+# sent_id = 56
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Или	или	CCONJ	_	_	0	root	_	start_char=3988|end_char=3991
+2	?..	?..	PUNCT	_	_	1	punct	_	start_char=3991|end_char=3994
+
+# text = Она была самодостаточным существом, способным дрейфовать в этой реальности, или в какой угодно другой.
+# sent_id = 57
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=3995|end_char=3998
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=3999|end_char=4003
+3	самодостаточным	самодостаточный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=4004|end_char=4019
+4	существом	существо	NOUN	_	Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing	0	root	_	start_char=4020|end_char=4029
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4029|end_char=4030
+6	способным	способнуть	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	start_char=4031|end_char=4040
+7	дрейфовать	дрейфовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=4041|end_char=4051
+8	в	в	ADP	_	_	10	case	_	start_char=4052|end_char=4053
+9	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	start_char=4054|end_char=4058
+10	реальности	реальность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	start_char=4059|end_char=4069
+11	,	,	PUNCT	_	_	15	punct	_	start_char=4069|end_char=4070
+12	или	или	CCONJ	_	_	15	cc	_	start_char=4071|end_char=4074
+13	в	в	ADP	_	_	14	case	_	start_char=4075|end_char=4076
+14	какой	какой	DET	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	15	obl	_	start_char=4077|end_char=4082
+15	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	conj	_	start_char=4083|end_char=4089
+16	другой	другой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	15	nsubj	_	start_char=4090|end_char=4096
+17	.	.	PUNCT	_	_	4	punct	_	start_char=4096|end_char=4097
+
+# text = Однажды она вернулась в тот мир, который считала реальным, к дочери, которую тоже считала реальной, но оказалось, что это не было реальностью.
+# sent_id = 58
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Однажды	однажды	ADV	_	Degree=Pos	3	advmod	_	start_char=4098|end_char=4105
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4106|end_char=4109
+3	вернулась	вернуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4110|end_char=4119
+4	в	в	ADP	_	_	6	case	_	start_char=4120|end_char=4121
+5	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	start_char=4122|end_char=4125
+6	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=4126|end_char=4129
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4129|end_char=4130
+8	который	который	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	9	obj	_	start_char=4131|end_char=4138
+9	считала	считать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=4139|end_char=4146
+10	реальным	реальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	xcomp	_	start_char=4147|end_char=4155
+11	,	,	PUNCT	_	_	13	punct	_	start_char=4155|end_char=4156
+12	к	к	ADP	_	_	13	case	_	start_char=4157|end_char=4158
+13	дочери	дочь	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	10	conj	_	start_char=4159|end_char=4165
+14	,	,	PUNCT	_	_	17	punct	_	start_char=4165|end_char=4166
+15	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	17	obj	_	start_char=4167|end_char=4174
+16	тоже	тоже	PART	_	_	17	advmod	_	start_char=4175|end_char=4179
+17	считала	считать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	start_char=4180|end_char=4187
+18	реальной	реальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	xcomp	_	start_char=4188|end_char=4196
+19	,	,	PUNCT	_	_	21	punct	_	start_char=4196|end_char=4197
+20	но	но	CCONJ	_	_	21	cc	_	start_char=4198|end_char=4200
+21	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=4201|end_char=4210
+22	,	,	PUNCT	_	_	27	punct	_	start_char=4210|end_char=4211
+23	что	что	SCONJ	_	_	27	mark	_	start_char=4212|end_char=4215
+24	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	27	nsubj	_	start_char=4216|end_char=4219
+25	не	не	PART	_	Polarity=Neg	27	advmod	_	start_char=4220|end_char=4222
+26	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	cop	_	start_char=4223|end_char=4227
+27	реальностью	реальность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	ccomp	_	start_char=4228|end_char=4239
+28	.	.	PUNCT	_	_	3	punct	_	start_char=4239|end_char=4240
+
+# text = Она снова оказалась в той вселенной, что казалась прочнее.
+# sent_id = 59
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4241|end_char=4244
+2	снова	снова	ADV	_	Degree=Pos	3	advmod	_	start_char=4245|end_char=4250
+3	оказалась	оказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4251|end_char=4260
+4	в	в	ADP	_	_	6	case	_	start_char=4261|end_char=4262
+5	той	тот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=4263|end_char=4266
+6	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=4267|end_char=4276
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4276|end_char=4277
+8	что	что	SCONJ	_	_	9	mark	_	start_char=4278|end_char=4281
+9	казалась	казаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl	_	start_char=4282|end_char=4290
+10	прочнее	прочный	ADJ	_	Degree=Cmp	9	xcomp	_	start_char=4291|end_char=4298
+11	.	.	PUNCT	_	_	3	punct	_	start_char=4298|end_char=4299
+
+# text = Но она трещала по швам.
+# sent_id = 60
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=4300|end_char=4302
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4303|end_char=4306
+3	трещала	трещать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4307|end_char=4314
+4	по	по	ADP	_	_	5	case	_	start_char=4315|end_char=4317
+5	швам	швам	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	obl	_	start_char=4318|end_char=4322
+6	.	.	PUNCT	_	_	3	punct	_	start_char=4322|end_char=4323
+
+# text = Алекс следовала за призраком самоубийцы или убитого, пока не узнала, что он ни то, ни другое.
+# sent_id = 61
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Алекс	Алекс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=4324|end_char=4329
+2	следовала	следовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4330|end_char=4339
+3	за	за	ADP	_	_	4	case	_	start_char=4340|end_char=4342
+4	призраком	призрак	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=4343|end_char=4352
+5	самоубийцы	самоубийца	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=4353|end_char=4363
+6	или	или	CCONJ	_	_	7	cc	_	start_char=4364|end_char=4367
+7	убитого	убитый	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	start_char=4368|end_char=4375
+8	,	,	PUNCT	_	_	11	punct	_	start_char=4375|end_char=4376
+9	пока	пока	SCONJ	_	_	11	mark	_	start_char=4377|end_char=4381
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=4382|end_char=4384
+11	узнала	узнать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=4385|end_char=4391
+12	,	,	PUNCT	_	_	16	punct	_	start_char=4391|end_char=4392
+13	что	что	SCONJ	_	_	16	mark	_	start_char=4393|end_char=4396
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=4397|end_char=4399
+15	ни	ни	PART	_	Polarity=Neg	16	advmod	_	start_char=4400|end_char=4402
+16	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	ccomp	_	start_char=4403|end_char=4405
+17	,	,	PUNCT	_	_	19	punct	_	start_char=4405|end_char=4406
+18	ни	ни	CCONJ	_	Polarity=Neg	19	cc	_	start_char=4407|end_char=4409
+19	другое	другой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	16	conj	_	start_char=4410|end_char=4416
+20	.	.	PUNCT	_	_	2	punct	_	start_char=4416|end_char=4417
+
+# text = Он просто ушел в другой мир, потому что было куда уходить.
+# sent_id = 62
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4418|end_char=4420
+2	просто	просто	PART	_	_	3	advmod	_	start_char=4421|end_char=4427
+3	ушел	уйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4428|end_char=4432
+4	в	в	ADP	_	_	6	case	_	start_char=4433|end_char=4434
+5	другой	другой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	6	det	_	start_char=4435|end_char=4441
+6	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=4442|end_char=4445
+7	,	,	PUNCT	_	_	12	punct	_	start_char=4445|end_char=4446
+8	потому	потому	ADV	_	Degree=Pos|PronType=Dem	12	mark	_	start_char=4447|end_char=4453
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=4454|end_char=4457
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	start_char=4458|end_char=4462
+11	куда	куда	ADV	_	Degree=Pos|PronType=Rel	12	advmod	_	start_char=4463|end_char=4467
+12	уходить	уходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=4468|end_char=4475
+13	.	.	PUNCT	_	_	3	punct	_	start_char=4475|end_char=4476
+
+# text = И она ушла тоже.
+# sent_id = 63
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	И	и	CCONJ	_	_	3	cc	_	start_char=4477|end_char=4478
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4479|end_char=4482
+3	ушла	уйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4483|end_char=4487
+4	тоже	тоже	PART	_	_	3	advmod	_	start_char=4488|end_char=4492
+5	.	.	PUNCT	_	_	3	punct	_	start_char=4492|end_char=4493
+
+# text = Может быть, она найдет свое настоящее дитя.
+# sent_id = 64
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=4494|end_char=4499
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=4500|end_char=4504
+3	,	,	PUNCT	_	_	1	punct	_	start_char=4504|end_char=4505
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4506|end_char=4509
+5	найдет	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4510|end_char=4516
+6	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=4517|end_char=4521
+7	настоящее	настоящий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=4522|end_char=4531
+8	дитя	дитя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=4532|end_char=4536
+9	.	.	PUNCT	_	_	5	punct	_	start_char=4536|end_char=4537
+
+# text = Джин всегда знал, что он был гвоздем этого мира, хотя не всегда помнил, почему.
+# sent_id = 65
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Джин	Джин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=4539|end_char=4543
+2	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=4544|end_char=4550
+3	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4551|end_char=4555
+4	,	,	PUNCT	_	_	8	punct	_	start_char=4555|end_char=4556
+5	что	что	SCONJ	_	_	8	mark	_	start_char=4557|end_char=4560
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=4561|end_char=4563
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=4564|end_char=4567
+8	гвоздем	гвоздь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	ccomp	_	start_char=4568|end_char=4575
+9	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=4576|end_char=4581
+10	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=4582|end_char=4586
+11	,	,	PUNCT	_	_	15	punct	_	start_char=4586|end_char=4587
+12	хотя	хотя	SCONJ	_	_	15	mark	_	start_char=4588|end_char=4592
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=4593|end_char=4595
+14	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	15	advmod	_	start_char=4596|end_char=4602
+15	помнил	помнить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=4603|end_char=4609
+16	,	,	PUNCT	_	_	17	punct	_	start_char=4609|end_char=4610
+17	почему	почему	ADV	_	Degree=Pos|PronType=Rel	15	ccomp	_	start_char=4611|end_char=4617
+18	.	.	PUNCT	_	_	3	punct	_	start_char=4617|end_char=4618
+
+# text = Это была его игра – мертвая зона для беспощадных игр вокруг его гробницы…
+# sent_id = 66
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=4619|end_char=4622
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=4623|end_char=4627
+3	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=4628|end_char=4631
+4	игра	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4632|end_char=4636
+5	–	–	PUNCT	_	_	7	punct	_	start_char=4637|end_char=4638
+6	мертвая	мертвый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=4639|end_char=4646
+7	зона	зона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	start_char=4647|end_char=4651
+8	для	для	ADP	_	_	10	case	_	start_char=4652|end_char=4655
+9	беспощадных	беспощадный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	start_char=4656|end_char=4667
+10	игр	игра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	start_char=4668|end_char=4671
+11	вокруг	вокруг	ADP	_	_	13	case	_	start_char=4672|end_char=4678
+12	его	его	DET	_	Poss=Yes|PronType=Prs	13	det	_	start_char=4679|end_char=4682
+13	гробницы	гробница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=4683|end_char=4691
+14	…	…	PUNCT	_	_	4	punct	_	start_char=4691|end_char=4692
+
+# text = Так, это еще откуда?
+# sent_id = 67
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	parataxis	_	start_char=4693|end_char=4696
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4696|end_char=4697
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=4698|end_char=4701
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=4702|end_char=4705
+5	откуда	откуда	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=4706|end_char=4712
+6	?	?	PUNCT	_	_	5	punct	_	start_char=4712|end_char=4713
+
+# text = Обрывок сна и бреда.
+# sent_id = 68
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Обрывок	обрывок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4714|end_char=4721
+2	сна	сон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	start_char=4722|end_char=4725
+3	и	и	CCONJ	_	_	4	cc	_	start_char=4726|end_char=4727
+4	бреда	бред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	start_char=4728|end_char=4733
+5	.	.	PUNCT	_	_	1	punct	_	start_char=4733|end_char=4734
+
+# text = Вокруг него будто вращалась вся вселенная, в которой он знал каждый уголок, все правила и законы, и как их нарушить; где он то спорил со строптивой Алекс, то, буквально не на жизнь, а на смерть сцеплялся с взрывным тихоней Тайлером.
+# sent_id = 69
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Вокруг	вокруг	ADP	_	_	2	case	_	start_char=4735|end_char=4741
+2	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=4742|end_char=4746
+3	будто	будто	PART	_	_	4	advmod	_	start_char=4747|end_char=4752
+4	вращалась	вращаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4753|end_char=4762
+5	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	6	det	_	start_char=4763|end_char=4766
+6	вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=4767|end_char=4776
+7	,	,	PUNCT	_	_	11	punct	_	start_char=4776|end_char=4777
+8	в	в	ADP	_	_	9	case	_	start_char=4778|end_char=4779
+9	которой	который	PRON	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	11	obl	_	start_char=4780|end_char=4787
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=4788|end_char=4790
+11	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=4791|end_char=4795
+12	каждый	каждый	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	13	det	_	start_char=4796|end_char=4802
+13	уголок	уголок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=4803|end_char=4809
+14	,	,	PUNCT	_	_	16	punct	_	start_char=4809|end_char=4810
+15	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	16	det	_	start_char=4811|end_char=4814
+16	правила	правило	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	conj	_	start_char=4815|end_char=4822
+17	и	и	CCONJ	_	_	18	cc	_	start_char=4823|end_char=4824
+18	законы	закон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	conj	_	start_char=4825|end_char=4831
+19	,	,	PUNCT	_	_	23	punct	_	start_char=4831|end_char=4832
+20	и	и	CCONJ	_	_	23	cc	_	start_char=4833|end_char=4834
+21	как	как	ADV	_	Degree=Pos|PronType=Rel	23	advmod	_	start_char=4835|end_char=4838
+22	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	23	obj	_	start_char=4839|end_char=4841
+23	нарушить	нарушить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	conj	_	start_char=4842|end_char=4850
+24	;	;	PUNCT	_	_	28	punct	_	start_char=4850|end_char=4851
+25	где	где	ADV	_	Degree=Pos|PronType=Rel	28	advmod	_	start_char=4852|end_char=4855
+26	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	start_char=4856|end_char=4858
+27	то	то	PART	_	_	26	advmod	_	start_char=4859|end_char=4861
+28	спорил	спорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	ccomp	_	start_char=4862|end_char=4868
+29	со	со	ADP	_	_	30	case	_	start_char=4869|end_char=4871
+30	строптивой	строптива	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	28	obl	_	start_char=4872|end_char=4882
+31	Алекс	Алекс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	28	nsubj	_	start_char=4883|end_char=4888
+32	,	,	PUNCT	_	_	38	punct	_	start_char=4888|end_char=4889
+33	то	то	SCONJ	_	_	43	mark	_	start_char=4890|end_char=4892
+34	,	,	PUNCT	_	_	38	punct	_	start_char=4892|end_char=4893
+35	буквально	буквально	ADV	_	Degree=Pos	38	advmod	_	start_char=4894|end_char=4903
+36	не	не	PART	_	Polarity=Neg	38	advmod	_	start_char=4904|end_char=4906
+37	на	на	ADP	_	_	38	case	_	start_char=4907|end_char=4909
+38	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	conj	_	start_char=4910|end_char=4915
+39	,	,	PUNCT	_	_	43	punct	_	start_char=4915|end_char=4916
+40	а	а	CCONJ	_	_	43	cc	_	start_char=4917|end_char=4918
+41	на	на	ADP	_	_	42	case	_	start_char=4919|end_char=4921
+42	смерть	смерть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	43	obl	_	start_char=4922|end_char=4928
+43	сцеплялся	сцепляться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	28	conj	_	start_char=4929|end_char=4938
+44	с	с	ADP	_	_	46	case	_	start_char=4939|end_char=4940
+45	взрывным	взрывной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	46	amod	_	start_char=4941|end_char=4949
+46	тихоней	тихон	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	43	obl	_	start_char=4950|end_char=4957
+47	Тайлером	Тайлер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	46	appos	_	start_char=4958|end_char=4966
+48	.	.	PUNCT	_	_	4	punct	_	start_char=4966|end_char=4967
+
+# text = Все, что он знал, помнил и хотел – это защитить свой мир, своих людей.
+# sent_id = 70
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	start_char=4968|end_char=4971
+2	,	,	PUNCT	_	_	5	punct	_	start_char=4971|end_char=4972
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	start_char=4973|end_char=4976
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4977|end_char=4979
+5	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=4980|end_char=4984
+6	,	,	PUNCT	_	_	5	punct	_	start_char=4984|end_char=4985
+7	помнил	помнить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4986|end_char=4992
+8	и	и	CCONJ	_	_	9	cc	_	start_char=4993|end_char=4994
+9	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=4995|end_char=5000
+10	–	–	PUNCT	_	_	12	punct	_	start_char=5001|end_char=5002
+11	это	это	PART	_	_	12	expl	_	start_char=5003|end_char=5006
+12	защитить	защитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	parataxis	_	start_char=5007|end_char=5015
+13	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=5016|end_char=5020
+14	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=5021|end_char=5024
+15	,	,	PUNCT	_	_	17	punct	_	start_char=5024|end_char=5025
+16	своих	свой	DET	_	Animacy=Anim|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	start_char=5026|end_char=5031
+17	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	14	conj	_	start_char=5032|end_char=5037
+18	.	.	PUNCT	_	_	7	punct	_	start_char=5037|end_char=5038
+
+# text = Удержать для них целую вселенную, пока она еще способна держаться.
+# sent_id = 71
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Удержать	удержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=5039|end_char=5047
+2	для	для	ADP	_	_	3	case	_	start_char=5048|end_char=5051
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	obl	_	start_char=5052|end_char=5055
+4	целую	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=5056|end_char=5061
+5	вселенную	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	start_char=5062|end_char=5071
+6	,	,	PUNCT	_	_	10	punct	_	start_char=5071|end_char=5072
+7	пока	пока	SCONJ	_	_	10	mark	_	start_char=5073|end_char=5077
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=5078|end_char=5081
+9	еще	еще	ADV	_	Degree=Pos	10	advmod	_	start_char=5082|end_char=5085
+10	способна	способный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	1	advcl	_	start_char=5086|end_char=5094
+11	держаться	держаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	xcomp	_	start_char=5095|end_char=5104
+12	.	.	PUNCT	_	_	1	punct	_	start_char=5104|end_char=5105
+
+# text = Вопреки всему, провести через все беды.
+# sent_id = 72
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Вопреки	вопреки	ADP	_	_	2	case	_	start_char=5106|end_char=5113
+2	всему	всё	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	4	parataxis	_	start_char=5114|end_char=5119
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5119|end_char=5120
+4	провести	провести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=5121|end_char=5129
+5	через	через	ADP	_	_	7	case	_	start_char=5130|end_char=5135
+6	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	7	det	_	start_char=5136|end_char=5139
+7	беды	беда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obl	_	start_char=5140|end_char=5144
+8	.	.	PUNCT	_	_	4	punct	_	start_char=5144|end_char=5145
+
+# text = Победить, несмотря ни на что.
+# sent_id = 73
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Победить	победить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=5146|end_char=5154
+2	,	,	PUNCT	_	_	6	punct	_	start_char=5154|end_char=5155
+3	несмотря	несмотря	ADV	_	Degree=Pos	6	case	_	start_char=5156|end_char=5164
+4	ни	ни	PART	_	Polarity=Neg	3	fixed	_	start_char=5165|end_char=5167
+5	на	на	ADP	_	_	3	fixed	_	start_char=5168|end_char=5170
+6	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	1	obl	_	start_char=5171|end_char=5174
+7	.	.	PUNCT	_	_	1	punct	_	start_char=5174|end_char=5175
+
+# text = Победить что именно?
+# sent_id = 74
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Победить	победить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=5176|end_char=5184
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	1	obj	_	start_char=5185|end_char=5188
+3	именно	именно	PART	_	_	2	advmod	_	start_char=5189|end_char=5195
+4	?	?	PUNCT	_	_	1	punct	_	start_char=5195|end_char=5196
+
+# text = Все подряд – саму вселенную.
+# sent_id = 75
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	2	orphan	_	start_char=5197|end_char=5200
+2	подряд	подряд	ADV	_	Degree=Pos	0	root	_	start_char=5201|end_char=5207
+3	–	–	PUNCT	_	_	5	punct	_	start_char=5208|end_char=5209
+4	саму	сам	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Emp	5	det	_	start_char=5210|end_char=5214
+5	вселенную	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	parataxis	_	start_char=5215|end_char=5224
+6	.	.	PUNCT	_	_	2	punct	_	start_char=5224|end_char=5225
+
+# text = Укрыть за своей широкой надежной спиной, дать отпор любому врагу, часто – любой ценой.
+# sent_id = 76
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Укрыть	укрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=5226|end_char=5232
+2	за	за	ADP	_	_	6	case	_	start_char=5233|end_char=5235
+3	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=5236|end_char=5241
+4	широкой	широкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=5242|end_char=5249
+5	надежной	надежной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=5250|end_char=5258
+6	спиной	спина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	obl	_	start_char=5259|end_char=5265
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5265|end_char=5266
+8	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	start_char=5267|end_char=5271
+9	отпор	отпор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=5272|end_char=5277
+10	любому	любой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	11	det	_	start_char=5278|end_char=5284
+11	врагу	враг	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	start_char=5285|end_char=5290
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5290|end_char=5291
+13	часто	часто	ADV	_	Degree=Pos	1	advmod	_	start_char=5292|end_char=5297
+14	–	–	PUNCT	_	_	16	punct	_	start_char=5298|end_char=5299
+15	любой	любой	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	16	det	_	start_char=5300|end_char=5305
+16	ценой	цена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	conj	_	start_char=5306|end_char=5311
+17	.	.	PUNCT	_	_	1	punct	_	start_char=5311|end_char=5312
+
+# text = Но они все понимали – его друзья.
+# sent_id = 77
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=5313|end_char=5315
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=5316|end_char=5319
+3	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	start_char=5320|end_char=5323
+4	понимали	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5324|end_char=5332
+5	–	–	PUNCT	_	_	7	punct	_	start_char=5333|end_char=5334
+6	его	его	DET	_	Poss=Yes|PronType=Prs	7	det	_	start_char=5335|end_char=5338
+7	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	parataxis	_	start_char=5339|end_char=5345
+8	.	.	PUNCT	_	_	4	punct	_	start_char=5345|end_char=5346
+
+# text = Несмотря на все споры и даже драки, они знали, что он хочет лишь защитить, поддержать, спасти, они ценили это.
+# sent_id = 78
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Несмотря	несмотря	ADV	_	Degree=Pos	4	case	_	start_char=5347|end_char=5355
+2	на	на	ADP	_	_	1	fixed	_	start_char=5356|end_char=5358
+3	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	4	det	_	start_char=5359|end_char=5362
+4	споры	спор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obl	_	start_char=5363|end_char=5368
+5	и	и	CCONJ	_	_	7	cc	_	start_char=5369|end_char=5370
+6	даже	даже	PART	_	_	7	advmod	_	start_char=5371|end_char=5375
+7	драки	драка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	conj	_	start_char=5376|end_char=5381
+8	,	,	PUNCT	_	_	4	punct	_	start_char=5381|end_char=5382
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=5383|end_char=5386
+10	знали	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5387|end_char=5392
+11	,	,	PUNCT	_	_	14	punct	_	start_char=5392|end_char=5393
+12	что	что	SCONJ	_	_	14	mark	_	start_char=5394|end_char=5397
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=5398|end_char=5400
+14	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	start_char=5401|end_char=5406
+15	лишь	лишь	PART	_	_	16	advmod	_	start_char=5407|end_char=5411
+16	защитить	защитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=5412|end_char=5420
+17	,	,	PUNCT	_	_	18	punct	_	start_char=5420|end_char=5421
+18	поддержать	поддержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	conj	_	start_char=5422|end_char=5432
+19	,	,	PUNCT	_	_	20	punct	_	start_char=5432|end_char=5433
+20	спасти	спасти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	conj	_	start_char=5434|end_char=5440
+21	,	,	PUNCT	_	_	23	punct	_	start_char=5440|end_char=5441
+22	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	start_char=5442|end_char=5445
+23	ценили	ценить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=5446|end_char=5452
+24	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	23	obj	_	start_char=5453|end_char=5456
+25	.	.	PUNCT	_	_	10	punct	_	start_char=5456|end_char=5457
+
+# text = И оставались с ним, или уходили с миром, зовя с собой.
+# sent_id = 79
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	И	и	CCONJ	_	_	2	cc	_	start_char=5458|end_char=5459
+2	оставались	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5460|end_char=5470
+3	с	с	ADP	_	_	4	case	_	start_char=5471|end_char=5472
+4	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=5473|end_char=5476
+5	,	,	PUNCT	_	_	7	punct	_	start_char=5476|end_char=5477
+6	или	или	CCONJ	_	_	7	cc	_	start_char=5478|end_char=5481
+7	уходили	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5482|end_char=5489
+8	с	с	ADP	_	_	9	case	_	start_char=5490|end_char=5491
+9	миром	мир	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=5492|end_char=5497
+10	,	,	PUNCT	_	_	11	punct	_	start_char=5497|end_char=5498
+11	зовя	звать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=5499|end_char=5503
+12	с	с	ADP	_	_	13	case	_	start_char=5504|end_char=5505
+13	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	11	obl	_	start_char=5506|end_char=5511
+14	.	.	PUNCT	_	_	2	punct	_	start_char=5511|end_char=5512
+
+# text = Звал и Нельсон, хитрая, славная черномазая бестия.
+# sent_id = 80
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Звал	звать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5513|end_char=5517
+2	и	и	CCONJ	_	_	3	cc	_	start_char=5518|end_char=5519
+3	Нельсон	Нельсон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	nsubj	_	start_char=5520|end_char=5527
+4	,	,	PUNCT	_	_	5	punct	_	start_char=5527|end_char=5528
+5	хитрая	хитрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=5529|end_char=5535
+6	,	,	PUNCT	_	_	7	punct	_	start_char=5535|end_char=5536
+7	славная	славный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	conj	_	start_char=5537|end_char=5544
+8	черномазая	черномазый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=5545|end_char=5555
+9	бестия	бестие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	start_char=5556|end_char=5562
+10	.	.	PUNCT	_	_	1	punct	_	start_char=5562|end_char=5563
+
+# text = Отличный парень.
+# sent_id = 81
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Отличный	отличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=5564|end_char=5572
+2	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=5573|end_char=5579
+3	.	.	PUNCT	_	_	2	punct	_	start_char=5579|end_char=5580
+
+# text = Но еще было не время, пока от этого мира хоть что-то осталось.
+# sent_id = 82
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=5581|end_char=5583
+2	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=5584|end_char=5587
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=5588|end_char=5592
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=5593|end_char=5595
+5	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=5596|end_char=5601
+6	,	,	PUNCT	_	_	13	punct	_	start_char=5601|end_char=5602
+7	пока	пока	SCONJ	_	_	13	mark	_	start_char=5603|end_char=5607
+8	от	от	ADP	_	_	10	case	_	start_char=5608|end_char=5610
+9	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=5611|end_char=5616
+10	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=5617|end_char=5621
+11	хоть	хоть	PART	_	_	13	advmod	_	start_char=5622|end_char=5626
+12	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	13	nsubj	_	start_char=5627|end_char=5633
+13	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	advcl	_	start_char=5634|end_char=5642
+14	.	.	PUNCT	_	_	5	punct	_	start_char=5642|end_char=5643
+
+# text = Капитан последним покидает корабль, только так, ему еще есть, за что и за кого сражаться.
+# sent_id = 83
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=5644|end_char=5651
+2	последним	последний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	start_char=5652|end_char=5661
+3	покидает	покидать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5662|end_char=5670
+4	корабль	корабль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=5671|end_char=5678
+5	,	,	PUNCT	_	_	7	punct	_	start_char=5678|end_char=5679
+6	только	только	PART	_	_	7	advmod	_	start_char=5680|end_char=5686
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=5687|end_char=5690
+8	,	,	PUNCT	_	_	11	punct	_	start_char=5690|end_char=5691
+9	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=5692|end_char=5695
+10	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=5696|end_char=5699
+11	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5700|end_char=5704
+12	,	,	PUNCT	_	_	18	punct	_	start_char=5704|end_char=5705
+13	за	за	ADP	_	_	14	case	_	start_char=5706|end_char=5708
+14	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	18	obl	_	start_char=5709|end_char=5712
+15	и	и	CCONJ	_	_	18	cc	_	start_char=5713|end_char=5714
+16	за	за	ADP	_	_	17	case	_	start_char=5715|end_char=5717
+17	кого	кто	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	18	obl	_	start_char=5718|end_char=5722
+18	сражаться	сражаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	11	conj	_	start_char=5723|end_char=5732
+19	.	.	PUNCT	_	_	3	punct	_	start_char=5732|end_char=5733
+
+# text = А потом – может быть, время не стоит на месте, ничто не вечно, так или иначе.
+# sent_id = 84
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	А	а	CCONJ	_	_	9	cc	_	start_char=5734|end_char=5735
+2	потом	потом	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=5736|end_char=5741
+3	–	–	PUNCT	_	_	4	punct	_	start_char=5742|end_char=5743
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=5744|end_char=5749
+5	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=5750|end_char=5754
+6	,	,	PUNCT	_	_	4	punct	_	start_char=5754|end_char=5755
+7	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	start_char=5756|end_char=5761
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=5762|end_char=5764
+9	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5765|end_char=5770
+10	на	на	ADP	_	_	11	case	_	start_char=5771|end_char=5773
+11	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	start_char=5774|end_char=5779
+12	,	,	PUNCT	_	_	15	punct	_	start_char=5779|end_char=5780
+13	ничто	ничто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	15	nsubj	_	start_char=5781|end_char=5786
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=5787|end_char=5789
+15	вечно	вечно	ADV	_	Degree=Pos	9	conj	_	start_char=5790|end_char=5795
+16	,	,	PUNCT	_	_	17	punct	_	start_char=5795|end_char=5796
+17	так	так	ADV	_	Degree=Pos|PronType=Dem	15	conj	_	start_char=5797|end_char=5800
+18	или	или	CCONJ	_	_	19	cc	_	start_char=5801|end_char=5804
+19	иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	17	conj	_	start_char=5805|end_char=5810
+20	.	.	PUNCT	_	_	9	punct	_	start_char=5810|end_char=5811
+
+# text = А где-то за границами Временного пузыря профессор Колумбийского университета Брайан Грин читал вдохновенные лекции и жизнерадостно строчил научно-популярные труды о теории струн и параллельных вселенных, вслед за многими другими физиками и не только физиками задаваясь вопросом: «Если правдоподобную и сбалансированную виртуальную вселенную создать проще, чем реальную, то какова сухая статистика?
+# sent_id = 85
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	А	а	CCONJ	_	_	12	cc	_	start_char=5813|end_char=5814
+2	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	12	advmod	_	start_char=5815|end_char=5821
+3	за	за	ADP	_	_	4	case	_	start_char=5822|end_char=5824
+4	границами	граница	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	obl	_	start_char=5825|end_char=5834
+5	Временного	временный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=5835|end_char=5845
+6	пузыря	пузыря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=5846|end_char=5852
+7	профессор	профессор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=5853|end_char=5862
+8	Колумбийского	колумбийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=5863|end_char=5876
+9	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=5877|end_char=5889
+10	Брайан	Брайан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=5890|end_char=5896
+11	Грин	Грин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	10	flat:name	_	start_char=5897|end_char=5901
+12	читал	читать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5902|end_char=5907
+13	вдохновенные	вдохновенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	start_char=5908|end_char=5920
+14	лекции	лекция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	start_char=5921|end_char=5927
+15	и	и	CCONJ	_	_	17	cc	_	start_char=5928|end_char=5929
+16	жизнерадостно	жизнерадостно	ADV	_	Degree=Pos	17	advmod	_	start_char=5930|end_char=5943
+17	строчил	строчить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=5944|end_char=5951
+18	научно	научно	ADV	_	Degree=Pos	20	advmod	_	start_char=5952|end_char=5958
+19	-	-	PUNCT	_	_	20	punct	_	start_char=5958|end_char=5959
+20	популярные	популярный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	start_char=5959|end_char=5969
+21	труды	труд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	start_char=5970|end_char=5975
+22	о	о	ADP	_	_	23	case	_	start_char=5976|end_char=5977
+23	теории	теория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	start_char=5978|end_char=5984
+24	струн	струна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	start_char=5985|end_char=5990
+25	и	и	CCONJ	_	_	27	cc	_	start_char=5991|end_char=5992
+26	параллельных	параллельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	start_char=5993|end_char=6005
+27	вселенных	вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	conj	_	start_char=6006|end_char=6015
+28	,	,	PUNCT	_	_	29	punct	_	start_char=6015|end_char=6016
+29	вслед	вслед	ADV	_	Degree=Pos	33	advmod	_	start_char=6017|end_char=6022
+30	за	за	ADP	_	_	33	case	_	start_char=6023|end_char=6025
+31	многими	многий	DET	_	Case=Ins|Number=Plur|PronType=Tot	33	det	_	start_char=6026|end_char=6033
+32	другими	другой	DET	_	Case=Ins|Number=Plur|PronType=Tot	33	det	_	start_char=6034|end_char=6041
+33	физиками	физик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	38	obl	_	start_char=6042|end_char=6050
+34	и	и	CCONJ	_	_	38	cc	_	start_char=6051|end_char=6052
+35	не	не	PART	_	Polarity=Neg	36	advmod	_	start_char=6053|end_char=6055
+36	только	только	PART	_	_	37	advmod	_	start_char=6056|end_char=6062
+37	физиками	физик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	38	iobj	_	start_char=6063|end_char=6071
+38	задаваясь	задаваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	12	advcl	_	start_char=6072|end_char=6081
+39	вопросом	вопрос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	38	iobj	_	start_char=6082|end_char=6090
+40	:	:	PUNCT	_	_	55	punct	_	start_char=6090|end_char=6091
+41	«	«	PUNCT	_	_	55	punct	_	start_char=6092|end_char=6093
+42	Если	если	SCONJ	_	_	48	mark	_	start_char=6093|end_char=6097
+43	правдоподобную	правдоподобный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	47	amod	_	start_char=6098|end_char=6112
+44	и	и	CCONJ	_	_	45	cc	_	start_char=6113|end_char=6114
+45	сбалансированную	сбалансированный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	43	conj	_	start_char=6115|end_char=6131
+46	виртуальную	виртуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	47	amod	_	start_char=6132|end_char=6143
+47	вселенную	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	48	obj	_	start_char=6144|end_char=6153
+48	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	55	csubj	_	start_char=6154|end_char=6161
+49	проще	простой	ADJ	_	Degree=Cmp	47	amod	_	start_char=6162|end_char=6167
+50	,	,	PUNCT	_	_	52	punct	_	start_char=6167|end_char=6168
+51	чем	чем	SCONJ	_	_	52	mark	_	start_char=6169|end_char=6172
+52	реальную	реальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	48	obl	_	start_char=6173|end_char=6181
+53	,	,	PUNCT	_	_	48	punct	_	start_char=6181|end_char=6182
+54	то	то	SCONJ	_	_	55	mark	_	start_char=6183|end_char=6185
+55	какова	каков	DET	_	Gender=Fem|Number=Sing|PronType=Int|Variant=Short	38	parataxis	_	start_char=6186|end_char=6192
+56	сухая	сухой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	57	amod	_	start_char=6193|end_char=6198
+57	статистика	статистика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	55	nsubj	_	start_char=6199|end_char=6209
+58	?	?	PUNCT	_	_	12	punct	_	start_char=6209|end_char=6210
+
+# text = Подобных миров должно быть почти на бесконечность больше, чем «реальных».
+# sent_id = 86
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	start_char=6211|end_char=6219
+2	миров	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	start_char=6220|end_char=6225
+3	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6226|end_char=6232
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	start_char=6233|end_char=6237
+5	почти	почти	ADV	_	Degree=Pos	7	advmod	_	start_char=6238|end_char=6243
+6	на	на	ADP	_	_	7	case	_	start_char=6244|end_char=6246
+7	бесконечность	бесконечность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=6247|end_char=6260
+8	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	3	advmod	_	start_char=6261|end_char=6267
+9	,	,	PUNCT	_	_	12	punct	_	start_char=6267|end_char=6268
+10	чем	чем	SCONJ	_	_	12	case	_	start_char=6269|end_char=6272
+11	«	«	PUNCT	_	_	12	punct	_	start_char=6273|end_char=6274
+12	реальных	реальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	obl	_	start_char=6274|end_char=6282
+13	»	»	PUNCT	_	_	12	punct	_	start_char=6282|end_char=6283
+14	.	.	PUNCT	_	_	3	punct	_	start_char=6283|end_char=6284
+
+# text = Так каков наш шанс обитать в реальной вселенной, а не виртуальной, и в них также бесконечно плодятся дочерние виртуальные?
+# sent_id = 87
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=6285|end_char=6288
+2	каков	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	0	root	_	start_char=6289|end_char=6294
+3	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=6295|end_char=6298
+4	шанс	шанс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6299|end_char=6303
+5	обитать	обитать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	acl	_	start_char=6304|end_char=6311
+6	в	в	ADP	_	_	8	case	_	start_char=6312|end_char=6313
+7	реальной	реальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=6314|end_char=6322
+8	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=6323|end_char=6332
+9	,	,	PUNCT	_	_	12	punct	_	start_char=6332|end_char=6333
+10	а	а	CCONJ	_	_	12	cc	_	start_char=6334|end_char=6335
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=6336|end_char=6338
+12	виртуальной	виртуальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	conj	_	start_char=6339|end_char=6350
+13	,	,	PUNCT	_	_	19	punct	_	start_char=6350|end_char=6351
+14	и	и	CCONJ	_	_	19	cc	_	start_char=6352|end_char=6353
+15	в	в	ADP	_	_	16	case	_	start_char=6354|end_char=6355
+16	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	19	obl	_	start_char=6356|end_char=6359
+17	также	также	ADV	_	Degree=Pos	19	advmod	_	start_char=6360|end_char=6365
+18	бесконечно	бесконечно	ADV	_	Degree=Pos	19	advmod	_	start_char=6366|end_char=6376
+19	плодятся	плодиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6377|end_char=6385
+20	дочерние	дочерний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	21	amod	_	start_char=6386|end_char=6394
+21	виртуальные	виртуальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	nsubj	_	start_char=6395|end_char=6406
+22	?	?	PUNCT	_	_	2	punct	_	start_char=6406|end_char=6407
+
+# text = Что вообще означает реальность?»
+# sent_id = 88
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=6408|end_char=6411
+2	вообще	вообще	ADV	_	Degree=Pos	3	advmod	_	start_char=6412|end_char=6418
+3	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6419|end_char=6427
+4	реальность	реальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=6428|end_char=6438
+5	?	?	PUNCT	_	_	3	punct	_	start_char=6438|end_char=6439
+6	»	»	PUNCT	_	_	3	punct	_	start_char=6439|end_char=6440
+
+# text = Он не знал, хотя допускал что угодно в силу своих расчетов и убеждений, что в одной из вселенных – или во множестве их, стремящемся к бесконечности – он не просто посещает «квантовые кафе» и путешествует во времени на космических кораблях, совершающих обороты вокруг сверхмассивных черных дыр, как показывают в его красочных научно-популярных фильмах, а делает это на самом деле, странствуя по одной, или по многим вселенным в старой синей будке, имея дело с киберменами и сонтаранцами, токлафанами и далеками, далеко не всегда враждебными, даже последними из названных, жужжит на оппонентов звуковой отверткой, дирижируя на струнах, из которых соткан поющий свою симфонию континуум; и где-то все приключения только начинаются, и только начинается само Время!
+# sent_id = 89
+# metadata = Название: Смерть на Галлифрее, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469048700000a7f1d43564c/1/Smert-na-Gallifree
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=6442|end_char=6444
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=6445|end_char=6447
+3	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6448|end_char=6452
+4	,	,	PUNCT	_	_	6	punct	_	start_char=6452|end_char=6453
+5	хотя	хотя	SCONJ	_	_	6	mark	_	start_char=6454|end_char=6458
+6	допускал	допускать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=6459|end_char=6467
+7	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	_	start_char=6468|end_char=6471
+8	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	ccomp	_	start_char=6472|end_char=6478
+9	в	в	ADP	_	_	10	case	_	start_char=6479|end_char=6480
+10	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=6481|end_char=6485
+11	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=6486|end_char=6491
+12	расчетов	расчет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	start_char=6492|end_char=6500
+13	и	и	CCONJ	_	_	14	cc	_	start_char=6501|end_char=6502
+14	убеждений	убеждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	conj	_	start_char=6503|end_char=6512
+15	,	,	PUNCT	_	_	34	punct	_	start_char=6512|end_char=6513
+16	что	что	SCONJ	_	_	34	mark	_	start_char=6514|end_char=6517
+17	в	в	ADP	_	_	18	case	_	start_char=6518|end_char=6519
+18	одной	один	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Ind	34	obl	_	start_char=6520|end_char=6525
+19	из	из	ADP	_	_	20	case	_	start_char=6526|end_char=6528
+20	вселенных	вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	start_char=6529|end_char=6538
+21	–	–	PUNCT	_	_	34	punct	_	start_char=6539|end_char=6540
+22	или	или	CCONJ	_	_	34	cc	_	start_char=6541|end_char=6544
+23	во	во	ADP	_	_	24	case	_	start_char=6545|end_char=6547
+24	множестве	множество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	conj	_	start_char=6548|end_char=6557
+25	их	их	DET	_	Poss=Yes|PronType=Prs	24	det	_	start_char=6558|end_char=6560
+26	,	,	PUNCT	_	_	27	punct	_	start_char=6560|end_char=6561
+27	стремящемся	стремиться	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	start_char=6562|end_char=6573
+28	к	к	ADP	_	_	29	case	_	start_char=6574|end_char=6575
+29	бесконечности	бесконечность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	27	obl	_	start_char=6576|end_char=6589
+30	–	–	PUNCT	_	_	27	punct	_	start_char=6590|end_char=6591
+31	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	start_char=6592|end_char=6594
+32	не	не	PART	_	Polarity=Neg	33	advmod	_	start_char=6595|end_char=6597
+33	просто	просто	PART	_	_	34	advmod	_	start_char=6598|end_char=6604
+34	посещает	посещать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=6605|end_char=6613
+35	«	«	PUNCT	_	_	37	punct	_	start_char=6614|end_char=6615
+36	квантовые	квантовый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	37	amod	_	start_char=6615|end_char=6624
+37	кафе	кафе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	34	obj	_	start_char=6625|end_char=6629
+38	»	»	PUNCT	_	_	37	punct	_	start_char=6629|end_char=6630
+39	и	и	CCONJ	_	_	40	cc	_	start_char=6631|end_char=6632
+40	путешествует	путешествовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	conj	_	start_char=6633|end_char=6645
+41	во	во	ADP	_	_	42	case	_	start_char=6646|end_char=6648
+42	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	40	obl	_	start_char=6649|end_char=6656
+43	на	на	ADP	_	_	45	case	_	start_char=6657|end_char=6659
+44	космических	космический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	45	amod	_	start_char=6660|end_char=6671
+45	кораблях	корабль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	40	obl	_	start_char=6672|end_char=6680
+46	,	,	PUNCT	_	_	47	punct	_	start_char=6680|end_char=6681
+47	совершающих	совершать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	45	acl	_	start_char=6682|end_char=6693
+48	обороты	оборот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	47	obj	_	start_char=6694|end_char=6701
+49	вокруг	вокруг	ADP	_	_	52	case	_	start_char=6702|end_char=6708
+50	сверхмассивных	сверхмассивный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	52	amod	_	start_char=6709|end_char=6723
+51	черных	черный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	52	amod	_	start_char=6724|end_char=6730
+52	дыр	дыр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	47	obl	_	start_char=6731|end_char=6734
+53	,	,	PUNCT	_	_	55	punct	_	start_char=6734|end_char=6735
+54	как	как	SCONJ	_	_	55	mark	_	start_char=6736|end_char=6739
+55	показывают	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	47	advcl	_	start_char=6740|end_char=6750
+56	в	в	ADP	_	_	62	case	_	start_char=6751|end_char=6752
+57	его	его	DET	_	Poss=Yes|PronType=Prs	62	det	_	start_char=6753|end_char=6756
+58	красочных	красочный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	62	amod	_	start_char=6757|end_char=6766
+59	научно	научно	ADV	_	Degree=Pos	62	amod	_	start_char=6767|end_char=6773
+60	-	-	PUNCT	_	_	61	punct	_	start_char=6773|end_char=6774
+61	популярных	популярный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	59	conj	_	start_char=6774|end_char=6784
+62	фильмах	фильм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	55	obl	_	start_char=6785|end_char=6792
+63	,	,	PUNCT	_	_	65	punct	_	start_char=6792|end_char=6793
+64	а	а	CCONJ	_	_	65	cc	_	start_char=6794|end_char=6795
+65	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	conj	_	start_char=6796|end_char=6802
+66	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	65	obj	_	start_char=6803|end_char=6806
+67	на	на	ADP	_	_	69	case	_	start_char=6807|end_char=6809
+68	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	69	det	_	start_char=6810|end_char=6815
+69	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	65	obl	_	start_char=6816|end_char=6820
+70	,	,	PUNCT	_	_	71	punct	_	start_char=6820|end_char=6821
+71	странствуя	странствовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	65	advcl	_	start_char=6822|end_char=6832
+72	по	по	ADP	_	_	73	case	_	start_char=6833|end_char=6835
+73	одной	один	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	71	obl	_	start_char=6836|end_char=6841
+74	,	,	PUNCT	_	_	78	punct	_	start_char=6841|end_char=6842
+75	или	или	CCONJ	_	_	78	cc	_	start_char=6843|end_char=6846
+76	по	по	ADP	_	_	78	case	_	start_char=6847|end_char=6849
+77	многим	многий	DET	_	Case=Dat|Number=Plur|PronType=Tot	78	det	_	start_char=6850|end_char=6856
+78	вселенным	вселеннам	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	71	obl	_	start_char=6857|end_char=6866
+79	в	в	ADP	_	_	82	case	_	start_char=6867|end_char=6868
+80	старой	старый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	82	amod	_	start_char=6869|end_char=6875
+81	синей	синий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	82	amod	_	start_char=6876|end_char=6881
+82	будке	будка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	78	nmod	_	start_char=6882|end_char=6887
+83	,	,	PUNCT	_	_	84	punct	_	start_char=6887|end_char=6888
+84	имея	иметь	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	71	conj	_	start_char=6889|end_char=6893
+85	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	84	obj	_	start_char=6894|end_char=6898
+86	с	с	ADP	_	_	87	case	_	start_char=6899|end_char=6900
+87	киберменами	кибермен	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	85	nmod	_	start_char=6901|end_char=6912
+88	и	и	CCONJ	_	_	89	cc	_	start_char=6913|end_char=6914
+89	сонтаранцами	сонтаранец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	87	conj	_	start_char=6915|end_char=6927
+90	,	,	PUNCT	_	_	91	punct	_	start_char=6927|end_char=6928
+91	токлафанами	токлафан	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	87	conj	_	start_char=6929|end_char=6940
+92	и	и	CCONJ	_	_	93	cc	_	start_char=6941|end_char=6942
+93	далеками	далек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	87	conj	_	start_char=6943|end_char=6951
+94	,	,	PUNCT	_	_	105	punct	_	start_char=6951|end_char=6952
+95	далеко	далеко	ADV	_	Degree=Pos	97	advmod	_	start_char=6953|end_char=6959
+96	не	не	PART	_	Polarity=Neg	97	advmod	_	start_char=6960|end_char=6962
+97	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	105	advmod	_	start_char=6963|end_char=6969
+98	враждебными	враждебный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	105	xcomp	_	start_char=6970|end_char=6981
+99	,	,	PUNCT	_	_	101	punct	_	start_char=6981|end_char=6982
+100	даже	даже	PART	_	_	101	advmod	_	start_char=6983|end_char=6987
+101	последними	последний	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	98	conj	_	start_char=6988|end_char=6998
+102	из	из	ADP	_	_	103	case	_	start_char=6999|end_char=7001
+103	названных	назвать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	101	obl	_	start_char=7002|end_char=7011
+104	,	,	PUNCT	_	_	101	punct	_	start_char=7011|end_char=7012
+105	жужжит	жужжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	84	conj	_	start_char=7013|end_char=7019
+106	на	на	ADP	_	_	107	case	_	start_char=7020|end_char=7022
+107	оппонентов	оппонент	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	105	obl	_	start_char=7023|end_char=7033
+108	звуковой	звуковой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	109	amod	_	start_char=7034|end_char=7042
+109	отверткой	отвертка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	105	obl	_	start_char=7043|end_char=7052
+110	,	,	PUNCT	_	_	111	punct	_	start_char=7052|end_char=7053
+111	дирижируя	дирижировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	105	advcl	_	start_char=7054|end_char=7063
+112	на	на	ADP	_	_	113	case	_	start_char=7064|end_char=7066
+113	струнах	струна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	111	obl	_	start_char=7067|end_char=7074
+114	,	,	PUNCT	_	_	117	punct	_	start_char=7074|end_char=7075
+115	из	из	ADP	_	_	116	case	_	start_char=7076|end_char=7078
+116	которых	который	PRON	_	Case=Gen|Number=Plur|PronType=Rel	117	obl	_	start_char=7079|end_char=7086
+117	соткан	сотканный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	113	acl:relcl	_	start_char=7087|end_char=7093
+118	поющий	поюсить	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	121	acl	_	start_char=7094|end_char=7100
+119	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	120	det	_	start_char=7101|end_char=7105
+120	симфонию	симфония	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	118	obj	_	start_char=7106|end_char=7114
+121	континуум	континуум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	117	nsubj	_	start_char=7115|end_char=7124
+122	;	;	PUNCT	_	_	128	punct	_	start_char=7124|end_char=7125
+123	и	и	CCONJ	_	_	128	cc	_	start_char=7126|end_char=7127
+124	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	128	advmod	_	start_char=7128|end_char=7134
+125	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	126	det	_	start_char=7135|end_char=7138
+126	приключения	приключение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	128	nsubj	_	start_char=7139|end_char=7150
+127	только	только	PART	_	_	128	advmod	_	start_char=7151|end_char=7157
+128	начинаются	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	117	conj	_	start_char=7158|end_char=7168
+129	,	,	PUNCT	_	_	132	punct	_	start_char=7168|end_char=7169
+130	и	и	CCONJ	_	_	132	cc	_	start_char=7170|end_char=7171
+131	только	только	PART	_	_	132	advmod	_	start_char=7172|end_char=7178
+132	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	128	conj	_	start_char=7179|end_char=7189
+133	само	сам	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	134	det	_	start_char=7190|end_char=7194
+134	Время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	132	nsubj	_	start_char=7195|end_char=7200
+135	!	!	PUNCT	_	_	3	punct	_	start_char=7200|end_char=7201
+

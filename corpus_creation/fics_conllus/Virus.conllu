@@ -1,0 +1,1406 @@
+# text = Первое, что она заметила, зайдя в лабораторию – это пустые клетки.
+# sent_id = 0
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Первое	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	13	nsubj	_	start_char=0|end_char=6
+2	,	,	PUNCT	_	_	5	punct	_	start_char=6|end_char=7
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	start_char=8|end_char=11
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=12|end_char=15
+5	заметила	заметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=16|end_char=24
+6	,	,	PUNCT	_	_	7	punct	_	start_char=24|end_char=25
+7	зайдя	зайти	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	1	acl	_	start_char=26|end_char=31
+8	в	в	ADP	_	_	9	case	_	start_char=32|end_char=33
+9	лабораторию	лаборатория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=34|end_char=45
+10	–	–	PUNCT	_	_	7	punct	_	start_char=46|end_char=47
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	start_char=48|end_char=51
+12	пустые	пустой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	start_char=52|end_char=58
+13	клетки	клетка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=59|end_char=65
+14	.	.	PUNCT	_	_	13	punct	_	start_char=65|end_char=66
+
+# text = Она совершенно точно помнила, что запирала их вчера вечером, и сегодня замочки были на месте, а вот соседние стенки – не все.
+# sent_id = 1
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=67|end_char=70
+2	совершенно	совершенно	ADV	_	Degree=Pos	3	advmod	_	start_char=71|end_char=81
+3	точно	точно	ADV	_	Degree=Pos	4	advmod	_	start_char=82|end_char=87
+4	помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=88|end_char=95
+5	,	,	PUNCT	_	_	7	punct	_	start_char=95|end_char=96
+6	что	что	SCONJ	_	_	7	mark	_	start_char=97|end_char=100
+7	запирала	запирать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=101|end_char=109
+8	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	start_char=110|end_char=112
+9	вчера	вчера	ADV	_	Degree=Pos	7	advmod	_	start_char=113|end_char=118
+10	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=119|end_char=126
+11	,	,	PUNCT	_	_	17	punct	_	start_char=126|end_char=127
+12	и	и	CCONJ	_	_	17	cc	_	start_char=128|end_char=129
+13	сегодня	сегодня	ADV	_	Degree=Pos	17	advmod	_	start_char=130|end_char=137
+14	замочки	замочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	start_char=138|end_char=145
+15	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	start_char=146|end_char=150
+16	на	на	ADP	_	_	17	case	_	start_char=151|end_char=153
+17	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	conj	_	start_char=154|end_char=159
+18	,	,	PUNCT	_	_	25	punct	_	start_char=159|end_char=160
+19	а	а	CCONJ	_	_	25	cc	_	start_char=161|end_char=162
+20	вот	вот	PART	_	_	22	advmod	_	start_char=163|end_char=166
+21	соседние	соседний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	start_char=167|end_char=175
+22	стенки	стенка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	25	nsubj	_	start_char=176|end_char=182
+23	–	–	PUNCT	_	_	25	punct	_	start_char=183|end_char=184
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=185|end_char=187
+25	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	17	conj	_	start_char=188|end_char=191
+26	.	.	PUNCT	_	_	4	punct	_	start_char=191|end_char=192
+
+# text = Вирус-симбионт подействовал даже лучше, чем она могла представить.
+# sent_id = 2
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Вирус	вирус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=193|end_char=198
+2	-	-	PUNCT	_	_	3	punct	_	start_char=198|end_char=199
+3	симбионт	симбионт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	start_char=199|end_char=207
+4	подействовал	подействовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=208|end_char=220
+5	даже	даже	PART	_	_	6	advmod	_	start_char=221|end_char=225
+6	лучше	хороший	ADJ	_	Degree=Cmp	4	xcomp	_	start_char=226|end_char=231
+7	,	,	PUNCT	_	_	10	punct	_	start_char=231|end_char=232
+8	чем	чем	SCONJ	_	_	10	mark	_	start_char=233|end_char=236
+9	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=237|end_char=240
+10	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=241|end_char=246
+11	представить	представлять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=247|end_char=258
+12	.	.	PUNCT	_	_	4	punct	_	start_char=258|end_char=259
+
+# text = Мощные зубы перекусили решетку, и обитатели ушли гулять.
+# sent_id = 3
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Мощные	мощный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	start_char=260|end_char=266
+2	зубы	зуб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=267|end_char=271
+3	перекусили	перекусить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=272|end_char=282
+4	решетку	решетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=283|end_char=290
+5	,	,	PUNCT	_	_	8	punct	_	start_char=290|end_char=291
+6	и	и	CCONJ	_	_	8	cc	_	start_char=292|end_char=293
+7	обитатели	обитатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=294|end_char=303
+8	ушли	уйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=304|end_char=308
+9	гулять	гулять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=309|end_char=315
+10	.	.	PUNCT	_	_	3	punct	_	start_char=315|end_char=316
+
+# text = Впрочем, они уже сами вернулись в родную лабораторию и забились со своей добычей в дальний угол.
+# sent_id = 4
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Впрочем	впрочем	ADV	_	Degree=Pos	6	parataxis	_	start_char=317|end_char=324
+2	,	,	PUNCT	_	_	1	punct	_	start_char=324|end_char=325
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=326|end_char=329
+4	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=330|end_char=333
+5	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	3	acl	_	start_char=334|end_char=338
+6	вернулись	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=339|end_char=348
+7	в	в	ADP	_	_	9	case	_	start_char=349|end_char=350
+8	родную	родной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=351|end_char=357
+9	лабораторию	лаборатория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=358|end_char=369
+10	и	и	CCONJ	_	_	11	cc	_	start_char=370|end_char=371
+11	забились	забиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=372|end_char=380
+12	со	со	ADP	_	_	14	case	_	start_char=381|end_char=383
+13	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=384|end_char=389
+14	добычей	добыч	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	start_char=390|end_char=397
+15	в	в	ADP	_	_	17	case	_	start_char=398|end_char=399
+16	дальний	дальний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	start_char=400|end_char=407
+17	угол	угол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=408|end_char=412
+18	.	.	PUNCT	_	_	6	punct	_	start_char=412|end_char=413
+
+# text = Добыча была уже сильно поедена, но остатки шерсти на ней намекали, что, по крайней мере, ее подопытные не добрались до какого-нибудь таймлорда...
+# sent_id = 5
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Добыча	добыч	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	start_char=414|end_char=420
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	start_char=421|end_char=425
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=426|end_char=429
+4	сильно	сильно	ADV	_	Degree=Pos	5	advmod	_	start_char=430|end_char=436
+5	поедена	поедить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=437|end_char=444
+6	,	,	PUNCT	_	_	12	punct	_	start_char=444|end_char=445
+7	но	но	CCONJ	_	_	12	cc	_	start_char=446|end_char=448
+8	остатки	остаток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	start_char=449|end_char=456
+9	шерсти	шерсть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=457|end_char=463
+10	на	на	ADP	_	_	11	case	_	start_char=464|end_char=466
+11	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=467|end_char=470
+12	намекали	намекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=471|end_char=479
+13	,	,	PUNCT	_	_	23	punct	_	start_char=479|end_char=480
+14	что	что	SCONJ	_	_	23	mark	_	start_char=481|end_char=484
+15	,	,	PUNCT	_	_	16	punct	_	start_char=484|end_char=485
+16	по	по	ADP	_	_	23	parataxis	_	start_char=486|end_char=488
+17	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	fixed	_	start_char=489|end_char=496
+18	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	fixed	_	start_char=497|end_char=501
+19	,	,	PUNCT	_	_	16	punct	_	start_char=501|end_char=502
+20	ее	ее	DET	_	Poss=Yes|PronType=Prs	21	det	_	start_char=503|end_char=505
+21	подопытные	подопытный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	nsubj	_	start_char=506|end_char=516
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=517|end_char=519
+23	добрались	добраться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	ccomp	_	start_char=520|end_char=529
+24	до	до	ADP	_	_	26	case	_	start_char=530|end_char=532
+25	какого-нибудь	какой--нибудь	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	26	det	_	start_char=533|end_char=546
+26	таймлорда	таймлорд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	obl	_	start_char=547|end_char=556
+27	...	...	PUNCT	_	_	5	punct	_	start_char=556|end_char=559
+
+# text = Со вздохом Рани активировала аварийную систему безопасности: микровзрыв под шкурками зверьков разбил ампулы с безболезненным ядом, мгновенно – только небольшая дрожь прошла – убившим ее крысок и результаты ее труда за полгода.
+# sent_id = 6
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Со	со	ADP	_	_	2	case	_	start_char=560|end_char=562
+2	вздохом	вздох	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	start_char=563|end_char=570
+3	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=571|end_char=575
+4	активировала	активировать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=576|end_char=588
+5	аварийную	аварийный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=589|end_char=598
+6	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=599|end_char=606
+7	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=607|end_char=619
+8	:	:	PUNCT	_	_	13	punct	_	start_char=619|end_char=620
+9	микровзрыв	микровзрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=621|end_char=631
+10	под	под	ADP	_	_	11	case	_	start_char=632|end_char=635
+11	шкурками	шкурка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	9	nmod	_	start_char=636|end_char=644
+12	зверьков	зверек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	start_char=645|end_char=653
+13	разбил	разбить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=654|end_char=660
+14	ампулы	ампула	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obj	_	start_char=661|end_char=667
+15	с	с	ADP	_	_	17	case	_	start_char=668|end_char=669
+16	безболезненным	безболезненный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	start_char=670|end_char=684
+17	ядом	яд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	nmod	_	start_char=685|end_char=689
+18	,	,	PUNCT	_	_	24	punct	_	start_char=689|end_char=690
+19	мгновенно	мгновенно	ADV	_	Degree=Pos	13	advmod	_	start_char=691|end_char=700
+20	–	–	PUNCT	_	_	24	punct	_	start_char=701|end_char=702
+21	только	только	PART	_	_	22	advmod	_	start_char=703|end_char=709
+22	небольшая	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	start_char=710|end_char=719
+23	дрожь	дрожь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	start_char=720|end_char=725
+24	прошла	пройти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=726|end_char=732
+25	–	–	PUNCT	_	_	26	punct	_	start_char=733|end_char=734
+26	убившим	убить	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	24	advcl	_	start_char=735|end_char=742
+27	ее	ее	DET	_	Poss=Yes|PronType=Prs	28	det	_	start_char=743|end_char=745
+28	крысок	крысок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	26	obj	_	start_char=746|end_char=752
+29	и	и	CCONJ	_	_	30	cc	_	start_char=753|end_char=754
+30	результаты	результат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	28	conj	_	start_char=755|end_char=765
+31	ее	ее	DET	_	Poss=Yes|PronType=Prs	32	det	_	start_char=766|end_char=768
+32	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	start_char=769|end_char=774
+33	за	за	ADP	_	_	34	case	_	start_char=775|end_char=777
+34	полгода	полгода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	nmod	_	start_char=778|end_char=785
+35	.	.	PUNCT	_	_	4	punct	_	start_char=785|end_char=786
+
+# text = Надев перчатки, Рани осторожно вытащила из зубов крыски ее последний обед.
+# sent_id = 7
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Надев	надеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=788|end_char=793
+2	перчатки	перчатка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obj	_	start_char=794|end_char=802
+3	,	,	PUNCT	_	_	1	punct	_	start_char=802|end_char=803
+4	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=804|end_char=808
+5	осторожно	осторожно	ADV	_	Degree=Pos	6	advmod	_	start_char=809|end_char=818
+6	вытащила	вытащить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=819|end_char=827
+7	из	из	ADP	_	_	8	case	_	start_char=828|end_char=830
+8	зубов	зуб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	start_char=831|end_char=836
+9	крыски	крыска	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obj	_	start_char=837|end_char=843
+10	ее	ее	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=844|end_char=846
+11	последний	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=847|end_char=856
+12	обед	обед	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=857|end_char=861
+13	.	.	PUNCT	_	_	6	punct	_	start_char=861|end_char=862
+
+# text = Кажется, это была кошка... мог быть еще кролик, но им тут взяться было неоткуда.
+# sent_id = 8
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=863|end_char=870
+2	,	,	PUNCT	_	_	1	punct	_	start_char=870|end_char=871
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=872|end_char=875
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=876|end_char=880
+5	кошка	кошка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=881|end_char=886
+6	...	...	PUNCT	_	_	7	punct	_	start_char=886|end_char=889
+7	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=890|end_char=893
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	cop	_	start_char=894|end_char=898
+9	еще	еще	ADV	_	Degree=Pos	10	advmod	_	start_char=899|end_char=902
+10	кролик	кролик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=903|end_char=909
+11	,	,	PUNCT	_	_	17	punct	_	start_char=909|end_char=910
+12	но	но	CCONJ	_	_	17	cc	_	start_char=911|end_char=913
+13	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	iobj	_	start_char=914|end_char=916
+14	тут	тут	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=917|end_char=920
+15	взяться	взяться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	17	csubj	_	start_char=921|end_char=928
+16	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	start_char=929|end_char=933
+17	неоткуда	неоткуда	VERB	_	Polarity=Neg	5	conj	_	start_char=934|end_char=942
+18	.	.	PUNCT	_	_	5	punct	_	start_char=942|end_char=943
+
+# text = – Ты не представляешь интереса для науки, – сказала Рани трупу кошки.
+# sent_id = 9
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	4	punct	_	start_char=944|end_char=945
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=946|end_char=948
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=949|end_char=951
+4	представляешь	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=952|end_char=965
+5	интереса	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obj	_	start_char=966|end_char=974
+6	для	для	ADP	_	_	7	case	_	start_char=975|end_char=978
+7	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=979|end_char=984
+8	,	,	PUNCT	_	_	10	punct	_	start_char=984|end_char=985
+9	–	–	PUNCT	_	_	10	punct	_	start_char=986|end_char=987
+10	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=988|end_char=995
+11	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=996|end_char=1000
+12	трупу	труп	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=1001|end_char=1006
+13	кошки	кошка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=1007|end_char=1012
+14	.	.	PUNCT	_	_	4	punct	_	start_char=1012|end_char=1013
+
+# text = – И вообще можешь послужить уликой в служебном разбирательстве, а мне бы не хотелось под него попасть...
+# sent_id = 10
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1014|end_char=1015
+2	И	и	CCONJ	_	_	4	cc	_	start_char=1016|end_char=1017
+3	вообще	вообще	ADV	_	Degree=Pos	4	advmod	_	start_char=1018|end_char=1024
+4	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1025|end_char=1031
+5	послужить	послужить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1032|end_char=1041
+6	уликой	улика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	iobj	_	start_char=1042|end_char=1048
+7	в	в	ADP	_	_	9	case	_	start_char=1049|end_char=1050
+8	служебном	служебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=1051|end_char=1060
+9	разбирательстве	разбирательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=1061|end_char=1076
+10	,	,	PUNCT	_	_	15	punct	_	start_char=1076|end_char=1077
+11	а	а	CCONJ	_	_	15	cc	_	start_char=1078|end_char=1079
+12	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	iobj	_	start_char=1080|end_char=1083
+13	бы	бы	AUX	_	Mood=Cnd	15	aux	_	start_char=1084|end_char=1086
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=1087|end_char=1089
+15	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=1090|end_char=1098
+16	под	под	ADP	_	_	17	case	_	start_char=1099|end_char=1102
+17	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl	_	start_char=1103|end_char=1107
+18	попасть	попасть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=1108|end_char=1115
+19	...	...	PUNCT	_	_	4	punct	_	start_char=1115|end_char=1118
+
+# text = Труп полетел в утилизатор, второй труп она осмотрела немного внимательнее.
+# sent_id = 11
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Труп	труп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1119|end_char=1123
+2	полетел	полететь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1124|end_char=1131
+3	в	в	ADP	_	_	4	case	_	start_char=1132|end_char=1133
+4	утилизатор	утилизатор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1134|end_char=1144
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1144|end_char=1145
+6	второй	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	7	amod	_	start_char=1146|end_char=1152
+7	труп	труп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=1153|end_char=1157
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=1158|end_char=1161
+9	осмотрела	осмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1162|end_char=1171
+10	немного	немного	ADV	_	Degree=Pos|PronType=Tot	11	advmod	_	start_char=1172|end_char=1179
+11	внимательнее	внимательный	ADJ	_	Degree=Cmp	9	xcomp	_	start_char=1180|end_char=1192
+12	.	.	PUNCT	_	_	2	punct	_	start_char=1192|end_char=1193
+
+# text = Похоже, крыса одним из первых укусов перегрызла кошке горло, чего та, конечно, никак не ожидала.
+# sent_id = 12
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Похоже	похожий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	parataxis	_	start_char=1194|end_char=1200
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1200|end_char=1201
+3	крыса	крыса	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=1202|end_char=1207
+4	одним	один	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	3	nmod	_	start_char=1208|end_char=1213
+5	из	из	ADP	_	_	7	case	_	start_char=1214|end_char=1216
+6	первых	первый	ADJ	_	Case=Gen|Degree=Pos|NumForm=Word|NumType=Ord|Number=Plur	7	amod	_	start_char=1217|end_char=1223
+7	укусов	укус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	start_char=1224|end_char=1230
+8	перегрызла	перегрызать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1231|end_char=1241
+9	кошке	кошка	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	8	iobj	_	start_char=1242|end_char=1247
+10	горло	горло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=1248|end_char=1253
+11	,	,	PUNCT	_	_	19	punct	_	start_char=1253|end_char=1254
+12	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	19	obj	_	start_char=1255|end_char=1259
+13	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	19	nsubj	_	start_char=1260|end_char=1262
+14	,	,	PUNCT	_	_	15	punct	_	start_char=1262|end_char=1263
+15	конечно	конечно	ADV	_	Degree=Pos	19	parataxis	_	start_char=1264|end_char=1271
+16	,	,	PUNCT	_	_	15	punct	_	start_char=1271|end_char=1272
+17	никак	никак	ADV	_	Degree=Pos|PronType=Neg	19	advmod	_	start_char=1273|end_char=1278
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=1279|end_char=1281
+19	ожидала	ожидать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=1282|end_char=1289
+20	.	.	PUNCT	_	_	8	punct	_	start_char=1289|end_char=1290
+
+# text = Как и увидеть перед собой крысу в полтора раза больше себя размером.
+# sent_id = 13
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Как	как	SCONJ	_	_	3	mark	_	start_char=1291|end_char=1294
+2	и	и	PART	_	_	3	advmod	_	start_char=1295|end_char=1296
+3	увидеть	увидеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	advcl	_	start_char=1297|end_char=1304
+4	перед	перед	ADP	_	_	5	case	_	start_char=1305|end_char=1310
+5	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	3	obl	_	start_char=1311|end_char=1316
+6	крысу	крыса	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=1317|end_char=1322
+7	в	в	ADP	_	_	9	case	_	start_char=1323|end_char=1324
+8	полтора	полтора	NUM	_	Case=Acc|Gender=Masc|NumForm=Word|NumType=Frac	9	nummod:gov	_	start_char=1325|end_char=1332
+9	раза	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	start_char=1333|end_char=1337
+10	больше	большой	ADJ	_	Degree=Cmp	0	root	_	start_char=1338|end_char=1344
+11	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	10	obl	_	start_char=1345|end_char=1349
+12	размером	размер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	start_char=1350|end_char=1358
+13	.	.	PUNCT	_	_	10	punct	_	start_char=1358|end_char=1359
+
+# text = В полтора?
+# sent_id = 14
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	В	в	ADP	_	_	2	case	_	start_char=1360|end_char=1361
+2	полтора	полтора	NUM	_	Case=Acc|Gender=Masc|NumForm=Word|NumType=Frac	0	root	_	start_char=1362|end_char=1369
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1369|end_char=1370
+
+# text = Надо будет провести точные замеры крыс на момент смерти.
+# sent_id = 15
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Надо	надо	VERB	_	_	0	root	_	start_char=1371|end_char=1375
+2	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	cop	_	start_char=1376|end_char=1381
+3	провести	провести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=1382|end_char=1390
+4	точные	точный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	start_char=1391|end_char=1397
+5	замеры	замера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	start_char=1398|end_char=1404
+6	крыс	крыса	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	start_char=1405|end_char=1409
+7	на	на	ADP	_	_	8	case	_	start_char=1410|end_char=1412
+8	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=1413|end_char=1419
+9	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1420|end_char=1426
+10	.	.	PUNCT	_	_	1	punct	_	start_char=1426|end_char=1427
+
+# text = А пока попытаться выяснить, откуда были эти кошки.
+# sent_id = 16
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	А	а	CCONJ	_	_	3	cc	_	start_char=1428|end_char=1429
+2	пока	пока	ADV	_	Degree=Pos	3	advmod	_	start_char=1430|end_char=1434
+3	попытаться	попытаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	start_char=1435|end_char=1445
+4	выяснить	выяснить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1446|end_char=1454
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1454|end_char=1455
+6	откуда	откуда	ADV	_	Degree=Pos|PronType=Rel	4	ccomp	_	start_char=1456|end_char=1462
+7	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1463|end_char=1467
+8	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	9	det	_	start_char=1468|end_char=1471
+9	кошки	кошка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	start_char=1472|end_char=1477
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1477|end_char=1478
+
+# text = Если мысленно вернуть на место то, что было от них отъедено – глаза, большая часть внутренностей, по хорошему куску мяса с задней части – то кошки должны были быть тяжелыми, откормленными.
+# sent_id = 17
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Если	если	SCONJ	_	_	3	mark	_	start_char=1479|end_char=1483
+2	мысленно	мысленно	ADV	_	Degree=Pos	3	advmod	_	start_char=1484|end_char=1492
+3	вернуть	вернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	advcl	_	start_char=1493|end_char=1500
+4	на	на	ADP	_	_	5	case	_	start_char=1501|end_char=1503
+5	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	start_char=1504|end_char=1509
+6	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=1510|end_char=1512
+7	,	,	PUNCT	_	_	12	punct	_	start_char=1512|end_char=1513
+8	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj:pass	_	start_char=1514|end_char=1517
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	aux:pass	_	start_char=1518|end_char=1522
+10	от	от	ADP	_	_	11	case	_	start_char=1523|end_char=1525
+11	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	12	obl	_	start_char=1526|end_char=1529
+12	отъедено	отъедить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	acl:relcl	_	start_char=1530|end_char=1538
+13	–	–	PUNCT	_	_	14	punct	_	start_char=1539|end_char=1540
+14	глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	parataxis	_	start_char=1541|end_char=1546
+15	,	,	PUNCT	_	_	17	punct	_	start_char=1546|end_char=1547
+16	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1548|end_char=1555
+17	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	start_char=1556|end_char=1561
+18	внутренностей	внутренность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	start_char=1562|end_char=1575
+19	,	,	PUNCT	_	_	22	punct	_	start_char=1575|end_char=1576
+20	по	по	ADP	_	_	22	case	_	start_char=1577|end_char=1579
+21	хорошему	хороший	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	start_char=1580|end_char=1588
+22	куску	кусок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	nmod	_	start_char=1589|end_char=1594
+23	мяса	мясо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	start_char=1595|end_char=1599
+24	с	с	ADP	_	_	26	case	_	start_char=1600|end_char=1601
+25	задней	задний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	start_char=1602|end_char=1608
+26	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	start_char=1609|end_char=1614
+27	–	–	PUNCT	_	_	3	punct	_	start_char=1615|end_char=1616
+28	то	то	SCONJ	_	_	30	mark	_	start_char=1617|end_char=1619
+29	кошки	кошка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	30	nsubj	_	start_char=1620|end_char=1625
+30	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1626|end_char=1632
+31	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	30	cop	_	start_char=1633|end_char=1637
+32	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	33	cop	_	start_char=1638|end_char=1642
+33	тяжелыми	тяжелый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	30	xcomp	_	start_char=1643|end_char=1651
+34	,	,	PUNCT	_	_	35	punct	_	start_char=1651|end_char=1652
+35	откормленными	откормить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	conj	_	start_char=1653|end_char=1666
+36	.	.	PUNCT	_	_	30	punct	_	start_char=1666|end_char=1667
+
+# text = И шерсть выглядела густой и ухоженной, если не обращать внимания на то, что местами слиплась от кошачьей же крови, была подрана крысиными лапками и окунута в какие-то залежи пыли.
+# sent_id = 18
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	И	и	CCONJ	_	_	3	cc	_	start_char=1668|end_char=1669
+2	шерсть	шерсть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=1670|end_char=1676
+3	выглядела	выглядеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1677|end_char=1686
+4	густой	густой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	xcomp	_	start_char=1687|end_char=1693
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1694|end_char=1695
+6	ухоженной	ухоженный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	conj	_	start_char=1696|end_char=1705
+7	,	,	PUNCT	_	_	10	punct	_	start_char=1705|end_char=1706
+8	если	если	SCONJ	_	_	10	mark	_	start_char=1707|end_char=1711
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1712|end_char=1714
+10	обращать	обращать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=1715|end_char=1723
+11	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obj	_	start_char=1724|end_char=1732
+12	на	на	ADP	_	_	13	case	_	start_char=1733|end_char=1735
+13	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obl	_	start_char=1736|end_char=1738
+14	,	,	PUNCT	_	_	17	punct	_	start_char=1738|end_char=1739
+15	что	что	SCONJ	_	_	17	mark	_	start_char=1740|end_char=1743
+16	местами	место	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	17	obl	_	start_char=1744|end_char=1751
+17	слиплась	слипнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	acl	_	start_char=1752|end_char=1760
+18	от	от	ADP	_	_	21	case	_	start_char=1761|end_char=1763
+19	кошачьей	кошачий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	start_char=1764|end_char=1772
+20	же	же	PART	_	_	19	advmod	_	start_char=1773|end_char=1775
+21	крови	кровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	start_char=1776|end_char=1781
+22	,	,	PUNCT	_	_	24	punct	_	start_char=1781|end_char=1782
+23	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	aux:pass	_	start_char=1783|end_char=1787
+24	подрана	подрать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	conj	_	start_char=1788|end_char=1795
+25	крысиными	крысиный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	start_char=1796|end_char=1805
+26	лапками	лапка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	24	iobj	_	start_char=1806|end_char=1813
+27	и	и	CCONJ	_	_	28	cc	_	start_char=1814|end_char=1815
+28	окунута	окунуть	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	conj	_	start_char=1816|end_char=1823
+29	в	в	ADP	_	_	31	case	_	start_char=1824|end_char=1825
+30	какие-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Ind	31	det	_	start_char=1826|end_char=1834
+31	залежи	залежь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	28	obl	_	start_char=1835|end_char=1841
+32	пыли	пыль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	start_char=1842|end_char=1846
+33	.	.	PUNCT	_	_	3	punct	_	start_char=1846|end_char=1847
+
+# text = Пожалуй, больше ничего интересного сказать о кошке было нельзя, ошейника на ней не было, а считывать чип было нечем.
+# sent_id = 19
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Пожалуй	пожалуй	ADV	_	Degree=Pos	10	parataxis	_	start_char=1848|end_char=1855
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1855|end_char=1856
+3	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	10	advmod	_	start_char=1857|end_char=1863
+4	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	6	obj	_	start_char=1864|end_char=1870
+5	интересного	интересный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=1871|end_char=1882
+6	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=1883|end_char=1890
+7	о	о	ADP	_	_	8	case	_	start_char=1891|end_char=1892
+8	кошке	кошка	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=1893|end_char=1898
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=1899|end_char=1903
+10	нельзя	нельзя	VERB	_	Polarity=Neg	0	root	_	start_char=1904|end_char=1910
+11	,	,	PUNCT	_	_	16	punct	_	start_char=1910|end_char=1911
+12	ошейника	ошейник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nsubj	_	start_char=1912|end_char=1920
+13	на	на	ADP	_	_	14	case	_	start_char=1921|end_char=1923
+14	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=1924|end_char=1927
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=1928|end_char=1930
+16	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=1931|end_char=1935
+17	,	,	PUNCT	_	_	22	punct	_	start_char=1935|end_char=1936
+18	а	а	CCONJ	_	_	22	cc	_	start_char=1937|end_char=1938
+19	считывать	считывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	csubj	_	start_char=1939|end_char=1948
+20	чип	чип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	start_char=1949|end_char=1952
+21	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	cop	_	start_char=1953|end_char=1957
+22	нечем	нечего	VERB	_	Polarity=Neg	10	conj	_	start_char=1958|end_char=1963
+23	.	.	PUNCT	_	_	10	punct	_	start_char=1963|end_char=1964
+
+# text = Этот трупик тоже отправился в утилизатор, который по мановению руки женщины взвыл голодным огненным духом.
+# sent_id = 20
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=1965|end_char=1969
+2	трупик	трупик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1970|end_char=1976
+3	тоже	тоже	PART	_	_	4	advmod	_	start_char=1977|end_char=1981
+4	отправился	отправиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1982|end_char=1992
+5	в	в	ADP	_	_	6	case	_	start_char=1993|end_char=1994
+6	утилизатор	утилизатор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=1995|end_char=2005
+7	,	,	PUNCT	_	_	13	punct	_	start_char=2005|end_char=2006
+8	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	start_char=2007|end_char=2014
+9	по	по	ADP	_	_	10	case	_	start_char=2015|end_char=2017
+10	мановению	мановение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	obl	_	start_char=2018|end_char=2027
+11	руки	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=2028|end_char=2032
+12	женщины	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=2033|end_char=2040
+13	взвыл	взвыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=2041|end_char=2046
+14	голодным	голодный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=2047|end_char=2055
+15	огненным	огненный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=2056|end_char=2064
+16	духом	дух	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	iobj	_	start_char=2065|end_char=2070
+17	.	.	PUNCT	_	_	4	punct	_	start_char=2070|end_char=2071
+
+# text = От улик не осталось даже косточек.
+# sent_id = 21
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	От	от	ADP	_	_	2	case	_	start_char=2072|end_char=2074
+2	улик	улик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	start_char=2075|end_char=2079
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2080|end_char=2082
+4	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2083|end_char=2091
+5	даже	даже	PART	_	_	6	advmod	_	start_char=2092|end_char=2096
+6	косточек	косточка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nsubj	_	start_char=2097|end_char=2105
+7	.	.	PUNCT	_	_	4	punct	_	start_char=2105|end_char=2106
+
+# text = – А откуда была пыль?
+# sent_id = 22
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2107|end_char=2108
+2	А	а	CCONJ	_	_	3	cc	_	start_char=2109|end_char=2110
+3	откуда	откуда	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=2111|end_char=2117
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=2118|end_char=2122
+5	пыль	пыль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=2123|end_char=2127
+6	?	?	PUNCT	_	_	3	punct	_	start_char=2127|end_char=2128
+
+# text = – Рани огляделась.
+# sent_id = 23
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2129|end_char=2130
+2	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=2131|end_char=2135
+3	огляделась	оглядеться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2136|end_char=2146
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2146|end_char=2147
+
+# text = Разумеется, лаборатория сияла чистотой.
+# sent_id = 24
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2148|end_char=2158
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2158|end_char=2159
+3	лаборатория	лаборатория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=2160|end_char=2171
+4	сияла	сиять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2172|end_char=2177
+5	чистотой	чистота	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	iobj	_	start_char=2178|end_char=2186
+6	.	.	PUNCT	_	_	4	punct	_	start_char=2186|end_char=2187
+
+# text = Но один из крысиных хвостиков, напоминающий сейчас небольшое бревнышко, недвусмысленно указывал на решетку вентиляции, вынесенную напрочь с помощью тех же зубов или лап.
+# sent_id = 25
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Но	но	CCONJ	_	_	13	cc	_	start_char=2188|end_char=2190
+2	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	start_char=2191|end_char=2195
+3	из	из	ADP	_	_	5	case	_	start_char=2196|end_char=2198
+4	крысиных	крысиный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	start_char=2199|end_char=2207
+5	хвостиков	хвостик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=2208|end_char=2217
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2217|end_char=2218
+7	напоминающий	напоминать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	start_char=2219|end_char=2231
+8	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2232|end_char=2238
+9	небольшое	небольшой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	start_char=2239|end_char=2248
+10	бревнышко	бревнышко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=2249|end_char=2258
+11	,	,	PUNCT	_	_	7	punct	_	start_char=2258|end_char=2259
+12	недвусмысленно	недвусмысленно	ADV	_	Degree=Pos	13	advmod	_	start_char=2260|end_char=2274
+13	указывал	указывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2275|end_char=2283
+14	на	на	ADP	_	_	15	case	_	start_char=2284|end_char=2286
+15	решетку	решетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	start_char=2287|end_char=2294
+16	вентиляции	вентиляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	start_char=2295|end_char=2305
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2305|end_char=2306
+18	вынесенную	вынести	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	start_char=2307|end_char=2317
+19	напрочь	напрочь	ADV	_	Degree=Pos	18	advmod	_	start_char=2318|end_char=2325
+20	с	с	ADP	_	_	24	case	_	start_char=2326|end_char=2327
+21	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	20	fixed	_	start_char=2328|end_char=2335
+22	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	24	det	_	start_char=2336|end_char=2339
+23	же	же	PART	_	_	22	advmod	_	start_char=2340|end_char=2342
+24	зубов	зуб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	obl	_	start_char=2343|end_char=2348
+25	или	или	CCONJ	_	_	26	cc	_	start_char=2349|end_char=2352
+26	лап	лапа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	conj	_	start_char=2353|end_char=2356
+27	.	.	PUNCT	_	_	13	punct	_	start_char=2356|end_char=2357
+
+# text = Оттуда вел и кроваво-грязный след.
+# sent_id = 26
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=2358|end_char=2364
+2	вел	вести	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2365|end_char=2368
+3	и	и	CCONJ	_	_	5	cc	_	start_char=2369|end_char=2370
+4	кроваво-грязный	кроваво-грязный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=2371|end_char=2386
+5	след	следующий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=2387|end_char=2391
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2391|end_char=2392
+
+# text = – Кому – оттуда, а мне – туда...
+# sent_id = 27
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2393|end_char=2394
+2	Кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=2395|end_char=2399
+3	–	–	PUNCT	_	_	4	punct	_	start_char=2400|end_char=2401
+4	оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	2	parataxis	_	start_char=2402|end_char=2408
+5	,	,	PUNCT	_	_	9	punct	_	start_char=2408|end_char=2409
+6	а	а	CCONJ	_	_	9	cc	_	start_char=2410|end_char=2411
+7	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	orphan	_	start_char=2412|end_char=2415
+8	–	–	PUNCT	_	_	9	punct	_	start_char=2416|end_char=2417
+9	туда	туда	ADV	_	Degree=Pos|PronType=Dem	2	conj	_	start_char=2418|end_char=2422
+10	...	...	PUNCT	_	_	2	punct	_	start_char=2422|end_char=2425
+
+# text = Рани выругалась, но до конца сняла решетку, захватила фонарик и полезла в вентиляцию, радуясь про себя своей миниатюрности.
+# sent_id = 28
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2426|end_char=2430
+2	выругалась	выругаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2431|end_char=2441
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2441|end_char=2442
+4	но	но	CCONJ	_	_	7	cc	_	start_char=2443|end_char=2445
+5	до	до	ADP	_	_	6	case	_	start_char=2446|end_char=2448
+6	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=2449|end_char=2454
+7	сняла	снять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2455|end_char=2460
+8	решетку	решетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=2461|end_char=2468
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2468|end_char=2469
+10	захватила	захватить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2470|end_char=2479
+11	фонарик	фонарик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=2480|end_char=2487
+12	и	и	CCONJ	_	_	13	cc	_	start_char=2488|end_char=2489
+13	полезла	полезть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2490|end_char=2497
+14	в	в	ADP	_	_	15	case	_	start_char=2498|end_char=2499
+15	вентиляцию	вентиляция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	start_char=2500|end_char=2510
+16	,	,	PUNCT	_	_	17	punct	_	start_char=2510|end_char=2511
+17	радуясь	радуяться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	13	advcl	_	start_char=2512|end_char=2519
+18	про	про	ADP	_	_	19	case	_	start_char=2520|end_char=2523
+19	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	17	obl	_	start_char=2524|end_char=2528
+20	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	21	det	_	start_char=2529|end_char=2534
+21	миниатюрности	миниатюрность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	start_char=2535|end_char=2548
+22	.	.	PUNCT	_	_	2	punct	_	start_char=2548|end_char=2549
+
+# text = Ей казалось, что даже без фонаря она бы не сбилась с пути, постоянно оскальзываясь руками на оставшемся кровавом следе и изредка вляпываясь в отвалившиеся по дороге части внутренностей.
+# sent_id = 29
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	start_char=2550|end_char=2552
+2	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2553|end_char=2561
+3	,	,	PUNCT	_	_	11	punct	_	start_char=2561|end_char=2562
+4	что	что	SCONJ	_	_	11	mark	_	start_char=2563|end_char=2566
+5	даже	даже	PART	_	_	7	advmod	_	start_char=2567|end_char=2571
+6	без	без	ADP	_	_	7	case	_	start_char=2572|end_char=2575
+7	фонаря	фонарь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	start_char=2576|end_char=2582
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=2583|end_char=2586
+9	бы	бы	AUX	_	Mood=Cnd	11	aux	_	start_char=2587|end_char=2589
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2590|end_char=2592
+11	сбилась	сбиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	ccomp	_	start_char=2593|end_char=2600
+12	с	с	ADP	_	_	13	case	_	start_char=2601|end_char=2602
+13	пути	путь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	start_char=2603|end_char=2607
+14	,	,	PUNCT	_	_	16	punct	_	start_char=2607|end_char=2608
+15	постоянно	постоянно	ADV	_	Degree=Pos	16	advmod	_	start_char=2609|end_char=2618
+16	оскальзываясь	оскальзываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	11	advcl	_	start_char=2619|end_char=2632
+17	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	16	iobj	_	start_char=2633|end_char=2639
+18	на	на	ADP	_	_	21	case	_	start_char=2640|end_char=2642
+19	оставшемся	остаться	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	21	amod	_	start_char=2643|end_char=2653
+20	кровавом	кровавый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	start_char=2654|end_char=2662
+21	следе	след	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	start_char=2663|end_char=2668
+22	и	и	CCONJ	_	_	24	cc	_	start_char=2669|end_char=2670
+23	изредка	изредка	ADV	_	Degree=Pos	24	advmod	_	start_char=2671|end_char=2678
+24	вляпываясь	вляпываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	16	conj	_	start_char=2679|end_char=2689
+25	в	в	ADP	_	_	29	case	_	start_char=2690|end_char=2691
+26	отвалившиеся	отвалиться	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	29	acl	_	start_char=2692|end_char=2704
+27	по	по	ADP	_	_	28	case	_	start_char=2705|end_char=2707
+28	дороге	дорога	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	26	obl	_	start_char=2708|end_char=2714
+29	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	obl	_	start_char=2715|end_char=2720
+30	внутренностей	внутренность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	start_char=2721|end_char=2734
+31	.	.	PUNCT	_	_	2	punct	_	start_char=2734|end_char=2735
+
+# text = Это было неприятно, но еще неприятней было то, что она поняла, что крысы ходили куда-то в центр, где располагались государственные учреждения.
+# sent_id = 30
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2736|end_char=2739
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=2740|end_char=2744
+3	неприятно	неприятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2745|end_char=2754
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2754|end_char=2755
+5	но	но	CCONJ	_	_	7	cc	_	start_char=2756|end_char=2758
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=2759|end_char=2762
+7	неприятней	неприятный	ADJ	_	Degree=Cmp	3	conj	_	start_char=2763|end_char=2773
+8	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2774|end_char=2778
+9	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=2779|end_char=2781
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2781|end_char=2782
+11	что	что	SCONJ	_	_	13	mark	_	start_char=2783|end_char=2786
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=2787|end_char=2790
+13	поняла	понять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	start_char=2791|end_char=2797
+14	,	,	PUNCT	_	_	17	punct	_	start_char=2797|end_char=2798
+15	что	что	SCONJ	_	_	17	mark	_	start_char=2799|end_char=2802
+16	крысы	крыса	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	start_char=2803|end_char=2808
+17	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	start_char=2809|end_char=2815
+18	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	17	advmod	_	start_char=2816|end_char=2823
+19	в	в	ADP	_	_	20	case	_	start_char=2824|end_char=2825
+20	центр	центр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obl	_	start_char=2826|end_char=2831
+21	,	,	PUNCT	_	_	23	punct	_	start_char=2831|end_char=2832
+22	где	где	ADV	_	Degree=Pos|PronType=Rel	23	advmod	_	start_char=2833|end_char=2836
+23	располагались	располагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	20	acl:relcl	_	start_char=2837|end_char=2850
+24	государственные	государственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	amod	_	start_char=2851|end_char=2866
+25	учреждения	учреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	23	nsubj	_	start_char=2867|end_char=2877
+26	.	.	PUNCT	_	_	3	punct	_	start_char=2877|end_char=2878
+
+# text = Конечно, был еще шанс, что они прошли насквозь и вышли на другой окраине или вообще за периметром...
+# sent_id = 31
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Конечно	конечно	ADV	_	Degree=Pos	3	parataxis	_	start_char=2879|end_char=2886
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2886|end_char=2887
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2888|end_char=2891
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=2892|end_char=2895
+5	шанс	шанс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2896|end_char=2900
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2900|end_char=2901
+7	что	что	SCONJ	_	_	9	mark	_	start_char=2902|end_char=2905
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=2906|end_char=2909
+9	прошли	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	start_char=2910|end_char=2916
+10	насквозь	насквозь	ADV	_	Degree=Pos	9	advmod	_	start_char=2917|end_char=2925
+11	и	и	CCONJ	_	_	12	cc	_	start_char=2926|end_char=2927
+12	вышли	выйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=2928|end_char=2933
+13	на	на	ADP	_	_	15	case	_	start_char=2934|end_char=2936
+14	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	15	det	_	start_char=2937|end_char=2943
+15	окраине	окраина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	start_char=2944|end_char=2951
+16	или	или	CCONJ	_	_	19	cc	_	start_char=2952|end_char=2955
+17	вообще	вообще	ADV	_	Degree=Pos	19	advmod	_	start_char=2956|end_char=2962
+18	за	за	ADP	_	_	19	case	_	start_char=2963|end_char=2965
+19	периметром	периметр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	conj	_	start_char=2966|end_char=2976
+20	...	...	PUNCT	_	_	3	punct	_	start_char=2976|end_char=2979
+
+# text = Выход в виде характерно продранной решетки обнаружился за ближайшим поворотом.
+# sent_id = 32
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Выход	выход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=2981|end_char=2986
+2	в	в	ADP	_	_	6	case	_	start_char=2987|end_char=2988
+3	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	fixed	_	start_char=2989|end_char=2993
+4	характерно	характерно	ADV	_	Degree=Pos	5	advmod	_	start_char=2994|end_char=3004
+5	продранной	продранный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=3005|end_char=3015
+6	решетки	решетка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	start_char=3016|end_char=3023
+7	обнаружился	обнаружиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3024|end_char=3035
+8	за	за	ADP	_	_	10	case	_	start_char=3036|end_char=3038
+9	ближайшим	ближайший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=3039|end_char=3048
+10	поворотом	поворот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=3049|end_char=3058
+11	.	.	PUNCT	_	_	7	punct	_	start_char=3058|end_char=3059
+
+# text = Сначала Рани замерла, прислушиваясь.
+# sent_id = 33
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Сначала	сначала	ADV	_	Degree=Pos	3	advmod	_	start_char=3060|end_char=3067
+2	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=3068|end_char=3072
+3	замерла	замереть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3073|end_char=3080
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3080|end_char=3081
+5	прислушиваясь	прислушиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	3	advcl	_	start_char=3082|end_char=3095
+6	.	.	PUNCT	_	_	3	punct	_	start_char=3095|end_char=3096
+
+# text = Тишина.
+# sent_id = 34
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Тишина	тишина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3097|end_char=3103
+2	.	.	PUNCT	_	_	1	punct	_	start_char=3103|end_char=3104
+
+# text = На легкое потряхивание решетки никто не отреагировал.
+# sent_id = 35
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	На	на	ADP	_	_	3	case	_	start_char=3105|end_char=3107
+2	легкое	легкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=3108|end_char=3114
+3	потряхивание	потряхивание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	start_char=3115|end_char=3127
+4	решетки	решетка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=3128|end_char=3135
+5	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	7	nsubj	_	start_char=3136|end_char=3141
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3142|end_char=3144
+7	отреагировал	отреагировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3145|end_char=3157
+8	.	.	PUNCT	_	_	7	punct	_	start_char=3157|end_char=3158
+
+# text = Все еще осторожно она выглянула сквозь разрывы и ахнула – в помещении был галлифреец.
+# sent_id = 36
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Все	всё	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=3159|end_char=3162
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=3163|end_char=3166
+3	осторожно	осторожно	ADV	_	Degree=Pos	5	advmod	_	start_char=3167|end_char=3176
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3177|end_char=3180
+5	выглянула	выглянуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3181|end_char=3190
+6	сквозь	сквозь	ADP	_	_	7	case	_	start_char=3191|end_char=3197
+7	разрывы	разрыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obl	_	start_char=3198|end_char=3205
+8	и	и	CCONJ	_	_	9	cc	_	start_char=3206|end_char=3207
+9	ахнула	ахнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=3208|end_char=3214
+10	–	–	PUNCT	_	_	12	punct	_	start_char=3215|end_char=3216
+11	в	в	ADP	_	_	12	case	_	start_char=3217|end_char=3218
+12	помещении	помещение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	parataxis	_	start_char=3219|end_char=3228
+13	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=3229|end_char=3232
+14	галлифреец	галлифреец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=3233|end_char=3243
+15	.	.	PUNCT	_	_	5	punct	_	start_char=3243|end_char=3244
+
+# text = Крупный мужчина лежал на полу, в луже крови, рядом валялся труп еще одной кошки.
+# sent_id = 37
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Крупный	крупный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=3245|end_char=3252
+2	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3253|end_char=3260
+3	лежал	лежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3261|end_char=3266
+4	на	на	ADP	_	_	5	case	_	start_char=3267|end_char=3269
+5	полу	пол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=3270|end_char=3274
+6	,	,	PUNCT	_	_	8	punct	_	start_char=3274|end_char=3275
+7	в	в	ADP	_	_	8	case	_	start_char=3276|end_char=3277
+8	луже	лужа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	conj	_	start_char=3278|end_char=3282
+9	крови	кровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=3283|end_char=3288
+10	,	,	PUNCT	_	_	12	punct	_	start_char=3288|end_char=3289
+11	рядом	рядом	ADV	_	Degree=Pos	12	advmod	_	start_char=3290|end_char=3295
+12	валялся	валяться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=3296|end_char=3303
+13	труп	труп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=3304|end_char=3308
+14	еще	еще	ADV	_	Degree=Pos	15	advmod	_	start_char=3309|end_char=3312
+15	одной	один	NUM	_	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	16	nummod	_	start_char=3313|end_char=3318
+16	кошки	кошка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=3319|end_char=3324
+17	.	.	PUNCT	_	_	3	punct	_	start_char=3324|end_char=3325
+
+# text = Рани выбила остатки решетки, с грохотом улетевшие к противоположной стене, первым делом пощупала пульс – есть!
+# sent_id = 38
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=3326|end_char=3330
+2	выбила	выбить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3331|end_char=3337
+3	остатки	остаток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	start_char=3338|end_char=3345
+4	решетки	решетка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=3346|end_char=3353
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3353|end_char=3354
+6	с	с	ADP	_	_	7	case	_	start_char=3355|end_char=3356
+7	грохотом	грохот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	start_char=3357|end_char=3365
+8	улетевшие	улететь	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	start_char=3366|end_char=3375
+9	к	к	ADP	_	_	11	case	_	start_char=3376|end_char=3377
+10	противоположной	противоположный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=3378|end_char=3393
+11	стене	стена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	start_char=3394|end_char=3399
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3399|end_char=3400
+13	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	14	amod	_	start_char=3401|end_char=3407
+14	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	obl	_	start_char=3408|end_char=3413
+15	пощупала	пощупать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3414|end_char=3422
+16	пульс	пульс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	start_char=3423|end_char=3428
+17	–	–	PUNCT	_	_	18	punct	_	start_char=3429|end_char=3430
+18	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	parataxis	_	start_char=3431|end_char=3435
+19	!	!	PUNCT	_	_	2	punct	_	start_char=3435|end_char=3436
+
+# text = Очень слабый, неровный, но есть!
+# sent_id = 39
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	start_char=3437|end_char=3442
+2	слабый	слабый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=3443|end_char=3449
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3449|end_char=3450
+4	неровный	неровный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=3451|end_char=3459
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3459|end_char=3460
+6	но	но	CCONJ	_	_	7	cc	_	start_char=3461|end_char=3463
+7	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3464|end_char=3468
+8	!	!	PUNCT	_	_	2	punct	_	start_char=3468|end_char=3469
+
+# text = Итак, что случилось?
+# sent_id = 40
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Итак	итак	ADV	_	Degree=Pos	4	parataxis	_	start_char=3470|end_char=3474
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3474|end_char=3475
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	start_char=3476|end_char=3479
+4	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3480|end_char=3489
+5	?	?	PUNCT	_	_	4	punct	_	start_char=3489|end_char=3490
+
+# text = Понятно, одна из крыс укусила его, вырвав кусок мяса из ноги.
+# sent_id = 41
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Понятно	понятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3491|end_char=3498
+2	,	,	PUNCT	_	_	6	punct	_	start_char=3498|end_char=3499
+3	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	6	nsubj	_	start_char=3500|end_char=3504
+4	из	из	ADP	_	_	5	case	_	start_char=3505|end_char=3507
+5	крыс	крыса	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	start_char=3508|end_char=3512
+6	укусила	укусить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	start_char=3513|end_char=3520
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=3521|end_char=3524
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3524|end_char=3525
+9	вырвав	вырвать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=3526|end_char=3532
+10	кусок	кусок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=3533|end_char=3538
+11	мяса	мясо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	start_char=3539|end_char=3543
+12	из	из	ADP	_	_	13	case	_	start_char=3544|end_char=3546
+13	ноги	нога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=3547|end_char=3551
+14	.	.	PUNCT	_	_	1	punct	_	start_char=3551|end_char=3552
+
+# text = Видимо, хозяин кошек решил вступиться за своих любимиц, не зная, что нельзя загонять крыс в угол.
+# sent_id = 42
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Видимо	видимо	ADV	_	Degree=Pos	5	parataxis	_	start_char=3553|end_char=3559
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3559|end_char=3560
+3	хозяин	хозяин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=3561|end_char=3567
+4	кошек	кошка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	start_char=3568|end_char=3573
+5	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3574|end_char=3579
+6	вступиться	вступиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=3580|end_char=3590
+7	за	за	ADP	_	_	9	case	_	start_char=3591|end_char=3593
+8	своих	свой	DET	_	Animacy=Anim|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=3594|end_char=3599
+9	любимиц	любимица	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	6	obl	_	start_char=3600|end_char=3607
+10	,	,	PUNCT	_	_	12	punct	_	start_char=3607|end_char=3608
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=3609|end_char=3611
+12	зная	знать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=3612|end_char=3616
+13	,	,	PUNCT	_	_	15	punct	_	start_char=3616|end_char=3617
+14	что	что	SCONJ	_	_	15	mark	_	start_char=3618|end_char=3621
+15	нельзя	нельзя	VERB	_	_	12	ccomp	_	start_char=3622|end_char=3628
+16	загонять	загонять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	csubj	_	start_char=3629|end_char=3637
+17	крыс	крыса	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	16	obj	_	start_char=3638|end_char=3642
+18	в	в	ADP	_	_	19	case	_	start_char=3643|end_char=3644
+19	угол	угол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	start_char=3645|end_char=3649
+20	.	.	PUNCT	_	_	5	punct	_	start_char=3649|end_char=3650
+
+# text = Рана на ноге, темно-бурая кровь на полу – перекушена вена?
+# sent_id = 43
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Рана	рана	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3651|end_char=3655
+2	на	на	ADP	_	_	3	case	_	start_char=3656|end_char=3658
+3	ноге	нога	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	start_char=3659|end_char=3663
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3663|end_char=3664
+5	темно-бурая	темно-бурый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=3665|end_char=3676
+6	кровь	кровь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	start_char=3677|end_char=3682
+7	на	на	ADP	_	_	8	case	_	start_char=3683|end_char=3685
+8	полу	пол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	start_char=3686|end_char=3690
+9	–	–	PUNCT	_	_	10	punct	_	start_char=3691|end_char=3692
+10	перекушена	перекушить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	parataxis	_	start_char=3693|end_char=3703
+11	вена	вена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj:pass	_	start_char=3704|end_char=3708
+12	?	?	PUNCT	_	_	1	punct	_	start_char=3708|end_char=3709
+
+# text = Почему он сам не позвал на помощь?
+# sent_id = 44
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=3710|end_char=3716
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3717|end_char=3719
+3	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	2	acl	_	start_char=3720|end_char=3723
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3724|end_char=3726
+5	позвал	позвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3727|end_char=3733
+6	на	на	ADP	_	_	7	case	_	start_char=3734|end_char=3736
+7	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=3737|end_char=3743
+8	?	?	PUNCT	_	_	5	punct	_	start_char=3743|end_char=3744
+
+# text = Рани сдернула перчатки, в которых лазила по воздуховоду, положила ногу пострадавшего на валик с дивана, прижала к ране свой почти чистый носовой платок, схватила ленту, висевшую на кресле, которой можно было забинтовать...
+# sent_id = 45
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=3745|end_char=3749
+2	сдернула	сдернуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3750|end_char=3758
+3	перчатки	перчатка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=3759|end_char=3767
+4	,	,	PUNCT	_	_	7	punct	_	start_char=3767|end_char=3768
+5	в	в	ADP	_	_	6	case	_	start_char=3769|end_char=3770
+6	которых	который	PRON	_	Case=Loc|Number=Plur|PronType=Rel	7	obl	_	start_char=3771|end_char=3778
+7	лазила	лазить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=3779|end_char=3785
+8	по	по	ADP	_	_	9	case	_	start_char=3786|end_char=3788
+9	воздуховоду	воздуховод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	obl	_	start_char=3789|end_char=3800
+10	,	,	PUNCT	_	_	11	punct	_	start_char=3800|end_char=3801
+11	положила	положить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3802|end_char=3810
+12	ногу	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=3811|end_char=3815
+13	пострадавшего	пострадавший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=3816|end_char=3829
+14	на	на	ADP	_	_	15	case	_	start_char=3830|end_char=3832
+15	валик	валик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=3833|end_char=3838
+16	с	с	ADP	_	_	17	case	_	start_char=3839|end_char=3840
+17	дивана	диван	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	start_char=3841|end_char=3847
+18	,	,	PUNCT	_	_	19	punct	_	start_char=3847|end_char=3848
+19	прижала	прижать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3849|end_char=3856
+20	к	к	ADP	_	_	21	case	_	start_char=3857|end_char=3858
+21	ране	рана	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	19	obl	_	start_char=3859|end_char=3863
+22	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	26	det	_	start_char=3864|end_char=3868
+23	почти	почти	ADV	_	Degree=Pos	24	advmod	_	start_char=3869|end_char=3874
+24	чистый	чистый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	start_char=3875|end_char=3881
+25	носовой	носовый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	start_char=3882|end_char=3889
+26	платок	платок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	start_char=3890|end_char=3896
+27	,	,	PUNCT	_	_	28	punct	_	start_char=3896|end_char=3897
+28	схватила	схватить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3898|end_char=3906
+29	ленту	лента	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obj	_	start_char=3907|end_char=3912
+30	,	,	PUNCT	_	_	31	punct	_	start_char=3912|end_char=3913
+31	висевшую	висеть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	29	acl	_	start_char=3914|end_char=3922
+32	на	на	ADP	_	_	33	case	_	start_char=3923|end_char=3925
+33	кресле	кресло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	obl	_	start_char=3926|end_char=3932
+34	,	,	PUNCT	_	_	36	punct	_	start_char=3932|end_char=3933
+35	которой	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	38	obj	_	start_char=3934|end_char=3941
+36	можно	можно	VERB	_	_	33	acl:relcl	_	start_char=3942|end_char=3947
+37	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	36	cop	_	start_char=3948|end_char=3952
+38	забинтовать	забинтовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	36	csubj	_	start_char=3953|end_char=3964
+39	...	...	PUNCT	_	_	2	punct	_	start_char=3964|end_char=3967
+
+# text = Губернаторская лента!
+# sent_id = 46
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Губернаторская	губернаторский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=3968|end_char=3982
+2	лента	лента	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3983|end_char=3988
+3	!	!	PUNCT	_	_	2	punct	_	start_char=3988|end_char=3989
+
+# text = Ну вот это она влипла...
+# sent_id = 47
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Ну	ну	PART	_	_	5	discourse	_	start_char=3990|end_char=3992
+2	вот	вот	PART	_	_	5	advmod	_	start_char=3993|end_char=3996
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3997|end_char=4000
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4001|end_char=4004
+5	влипла	влипнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4005|end_char=4011
+6	...	...	PUNCT	_	_	5	punct	_	start_char=4011|end_char=4014
+
+# text = Сделав все, что было в ее силах, она пошарила по столу в поисках связи с секретарем.
+# sent_id = 48
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Сделав	сделать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	11	advcl	_	start_char=4015|end_char=4021
+2	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	1	obj	_	start_char=4022|end_char=4025
+3	,	,	PUNCT	_	_	8	punct	_	start_char=4025|end_char=4026
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	start_char=4027|end_char=4030
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=4031|end_char=4035
+6	в	в	ADP	_	_	8	case	_	start_char=4036|end_char=4037
+7	ее	ее	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=4038|end_char=4040
+8	силах	сила	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	acl:relcl	_	start_char=4041|end_char=4046
+9	,	,	PUNCT	_	_	1	punct	_	start_char=4046|end_char=4047
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=4048|end_char=4051
+11	пошарила	пошарить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4052|end_char=4060
+12	по	по	ADP	_	_	13	case	_	start_char=4061|end_char=4063
+13	столу	стол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obl	_	start_char=4064|end_char=4069
+14	в	в	ADP	_	_	15	case	_	start_char=4070|end_char=4071
+15	поисках	поиск	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	obl	_	start_char=4072|end_char=4079
+16	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	start_char=4080|end_char=4085
+17	с	с	ADP	_	_	18	case	_	start_char=4086|end_char=4087
+18	секретарем	секретар	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	16	nmod	_	start_char=4088|end_char=4098
+19	.	.	PUNCT	_	_	11	punct	_	start_char=4098|end_char=4099
+
+# text = – Кабинет губернатора... ему нужна помощь, срочно...
+# sent_id = 49
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4100|end_char=4101
+2	Кабинет	кабинет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4102|end_char=4109
+3	губернатора	губернатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=4110|end_char=4121
+4	...	...	PUNCT	_	_	6	punct	_	start_char=4121|end_char=4124
+5	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=4125|end_char=4128
+6	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	parataxis	_	start_char=4129|end_char=4134
+7	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=4135|end_char=4141
+8	,	,	PUNCT	_	_	9	punct	_	start_char=4141|end_char=4142
+9	срочно	срочно	ADV	_	Degree=Pos	6	advmod	_	start_char=4143|end_char=4149
+10	...	...	PUNCT	_	_	2	punct	_	start_char=4149|end_char=4152
+
+# text = Конечно, уйти тем же тихим и незаметным путем, каким она сюда попала, ей не дали.
+# sent_id = 50
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Конечно	конечно	ADV	_	Degree=Pos	18	parataxis	_	start_char=4153|end_char=4160
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4160|end_char=4161
+3	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	xcomp	_	start_char=4162|end_char=4166
+4	тем	тот	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	start_char=4167|end_char=4170
+5	же	же	PART	_	_	4	advmod	_	start_char=4171|end_char=4173
+6	тихим	тихий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=4174|end_char=4179
+7	и	и	CCONJ	_	_	8	cc	_	start_char=4180|end_char=4181
+8	незаметным	незаметный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	start_char=4182|end_char=4192
+9	путем	путь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=4193|end_char=4198
+10	,	,	PUNCT	_	_	14	punct	_	start_char=4198|end_char=4199
+11	каким	какой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	start_char=4200|end_char=4205
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=4206|end_char=4209
+13	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=4210|end_char=4214
+14	попала	попасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=4215|end_char=4221
+15	,	,	PUNCT	_	_	14	punct	_	start_char=4221|end_char=4222
+16	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	iobj	_	start_char=4223|end_char=4225
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=4226|end_char=4228
+18	дали	дать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4229|end_char=4233
+19	.	.	PUNCT	_	_	18	punct	_	start_char=4233|end_char=4234
+
+# text = – Мы не можем терпеть в своих рядах таких опасных личностей!
+# sent_id = 51
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4235|end_char=4236
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=4237|end_char=4239
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4240|end_char=4242
+4	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4243|end_char=4248
+5	терпеть	терпеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=4249|end_char=4256
+6	в	в	ADP	_	_	8	case	_	start_char=4257|end_char=4258
+7	своих	свой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=4259|end_char=4264
+8	рядах	ряд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	start_char=4265|end_char=4270
+9	таких	такой	DET	_	Case=Gen|Number=Plur|PronType=Dem	11	det	_	start_char=4271|end_char=4276
+10	опасных	опасный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	start_char=4277|end_char=4284
+11	личностей	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	start_char=4285|end_char=4294
+12	!	!	PUNCT	_	_	4	punct	_	start_char=4294|end_char=4295
+
+# text = Это как вирус, врывается и крушит всё на своем пути, все наши моральные устои, все принципы, все меры безопасности!
+# sent_id = 52
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4296|end_char=4299
+2	как	как	SCONJ	_	_	3	case	_	start_char=4300|end_char=4303
+3	вирус	вирус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4304|end_char=4309
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4309|end_char=4310
+5	врывается	врываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=4311|end_char=4320
+6	и	и	CCONJ	_	_	7	cc	_	start_char=4321|end_char=4322
+7	крушит	крушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4323|end_char=4329
+8	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	start_char=4330|end_char=4333
+9	на	на	ADP	_	_	11	case	_	start_char=4334|end_char=4336
+10	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	start_char=4337|end_char=4342
+11	пути	путь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=4343|end_char=4347
+12	,	,	PUNCT	_	_	16	punct	_	start_char=4347|end_char=4348
+13	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	16	det	_	start_char=4349|end_char=4352
+14	наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	16	det	_	start_char=4353|end_char=4357
+15	моральные	моральный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	start_char=4358|end_char=4367
+16	устои	устоя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	start_char=4368|end_char=4373
+17	,	,	PUNCT	_	_	19	punct	_	start_char=4373|end_char=4374
+18	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	19	det	_	start_char=4375|end_char=4378
+19	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	conj	_	start_char=4379|end_char=4387
+20	,	,	PUNCT	_	_	22	punct	_	start_char=4387|end_char=4388
+21	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	22	det	_	start_char=4389|end_char=4392
+22	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	conj	_	start_char=4393|end_char=4397
+23	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	start_char=4398|end_char=4410
+24	!	!	PUNCT	_	_	3	punct	_	start_char=4410|end_char=4411
+
+# text = Таким не место в нашем обществе!
+# sent_id = 53
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Таким	такой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=4412|end_char=4417
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4418|end_char=4420
+3	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=4421|end_char=4426
+4	в	в	ADP	_	_	6	case	_	start_char=4427|end_char=4428
+5	нашем	наш	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4429|end_char=4434
+6	обществе	общество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	start_char=4435|end_char=4443
+7	!	!	PUNCT	_	_	3	punct	_	start_char=4443|end_char=4444
+
+# text = – гневно и страстно обличал на суде губернатор таких "безответственных псевдоученых", как она.
+# sent_id = 54
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4445|end_char=4446
+2	гневно	гневно	ADV	_	Degree=Pos	5	advmod	_	start_char=4447|end_char=4453
+3	и	и	CCONJ	_	_	4	cc	_	start_char=4454|end_char=4455
+4	страстно	страстно	ADV	_	Degree=Pos	2	conj	_	start_char=4456|end_char=4464
+5	обличал	обличать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4465|end_char=4472
+6	на	на	ADP	_	_	7	case	_	start_char=4473|end_char=4475
+7	суде	суд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=4476|end_char=4480
+8	губернатор	губернатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4481|end_char=4491
+9	таких	такой	DET	_	Case=Gen|Number=Plur|PronType=Dem	12	det	_	start_char=4492|end_char=4497
+10	"	"	PUNCT	_	_	12	punct	_	start_char=4498|end_char=4499
+11	безответственных	безответственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=4499|end_char=4515
+12	псевдоученых	псевдоученые	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=4516|end_char=4528
+13	"	"	PUNCT	_	_	12	punct	_	start_char=4528|end_char=4529
+14	,	,	PUNCT	_	_	16	punct	_	start_char=4529|end_char=4530
+15	как	как	SCONJ	_	_	16	case	_	start_char=4531|end_char=4534
+16	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=4535|end_char=4538
+17	.	.	PUNCT	_	_	5	punct	_	start_char=4538|end_char=4539
+
+# text = Рани слушала молча, стараясь не кривить губы.
+# sent_id = 55
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=4540|end_char=4544
+2	слушала	слушать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4545|end_char=4552
+3	молча	молча	ADV	_	Degree=Pos	2	advmod	_	start_char=4553|end_char=4558
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4558|end_char=4559
+5	стараясь	стараться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=4560|end_char=4568
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=4569|end_char=4571
+7	кривить	кривить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=4572|end_char=4579
+8	губы	губа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=4580|end_char=4584
+9	.	.	PUNCT	_	_	2	punct	_	start_char=4584|end_char=4585
+
+# text = "Мастер, Доктор... нет, он сам сбежал...
+# sent_id = 56
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	"	"	PUNCT	_	_	2	punct	_	start_char=4586|end_char=4587
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	start_char=4587|end_char=4593
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4593|end_char=4594
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=4595|end_char=4601
+5	...	...	PUNCT	_	_	2	punct	_	start_char=4601|end_char=4604
+6	нет	нет	PART	_	Polarity=Neg	10	parataxis	_	start_char=4605|end_char=4608
+7	,	,	PUNCT	_	_	10	punct	_	start_char=4608|end_char=4609
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=4610|end_char=4612
+9	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	8	acl	_	start_char=4613|end_char=4616
+10	сбежал	сбежать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4617|end_char=4623
+11	...	...	PUNCT	_	_	10	punct	_	start_char=4623|end_char=4626
+
+# text = А не сбежал бы, и его бы за что-нибудь...
+# sent_id = 57
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	А	а	CCONJ	_	_	3	cc	_	start_char=4627|end_char=4628
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4629|end_char=4631
+3	сбежал	сбежать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4632|end_char=4638
+4	бы	бы	AUX	_	Mood=Cnd	3	aux	_	start_char=4639|end_char=4641
+5	,	,	PUNCT	_	_	10	punct	_	start_char=4641|end_char=4642
+6	и	и	CCONJ	_	_	10	cc	_	start_char=4643|end_char=4644
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	orphan	_	start_char=4645|end_char=4648
+8	бы	бы	AUX	_	Mood=Cnd	10	orphan	_	start_char=4649|end_char=4651
+9	за	за	ADP	_	_	10	case	_	start_char=4652|end_char=4654
+10	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	3	conj	_	start_char=4655|end_char=4665
+11	...	...	PUNCT	_	_	3	punct	_	start_char=4665|end_char=4668
+
+# text = Рансибл... кто еще из Деки?
+# sent_id = 58
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Рансибл	рансибл	INTJ	_	_	6	discourse	_	start_char=4669|end_char=4676
+2	...	...	PUNCT	_	_	1	punct	_	start_char=4676|end_char=4679
+3	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	6	nsubj	_	start_char=4680|end_char=4683
+4	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=4684|end_char=4687
+5	из	из	ADP	_	_	6	case	_	start_char=4688|end_char=4690
+6	Деки	Деки	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	0	root	_	start_char=4691|end_char=4695
+7	?	?	PUNCT	_	_	6	punct	_	start_char=4695|end_char=4696
+
+# text = Кажется, большая часть уже изгнана с... общества".
+# sent_id = 59
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=4697|end_char=4704
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4704|end_char=4705
+3	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=4706|end_char=4713
+4	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	start_char=4714|end_char=4719
+5	уже	уже	ADV	_	Degree=Pos	6	advmod	_	start_char=4720|end_char=4723
+6	изгнана	изгнать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=4724|end_char=4731
+7	с...	с.стой	ADJ	_	Abbr=Yes	8	amod	_	start_char=4732|end_char=4736
+8	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nsubj:pass	_	start_char=4737|end_char=4745
+9	"	"	PUNCT	_	_	6	punct	_	start_char=4745|end_char=4746
+10	.	.	PUNCT	_	_	6	punct	_	start_char=4746|end_char=4747
+
+# text = Только когда конвой сопровождал ее к ТАРДИС, она не выдержала: – Сейчас они считают, что вы полезны, вы охраняете их покой и порядок, но когда-нибудь и вы окажетесь слишком яркими, слишком сильными, слишком беспокоящими для этого болота!
+# sent_id = 60
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Только	только	PART	_	_	4	advmod	_	start_char=4748|end_char=4754
+2	когда	когда	SCONJ	_	_	4	mark	_	start_char=4755|end_char=4760
+3	конвой	конва	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4761|end_char=4767
+4	сопровождал	сопровождать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=4768|end_char=4779
+5	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=4780|end_char=4782
+6	к	к	ADP	_	_	7	case	_	start_char=4783|end_char=4784
+7	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	4	obl	_	start_char=4785|end_char=4791
+8	,	,	PUNCT	_	_	4	punct	_	start_char=4791|end_char=4792
+9	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=4793|end_char=4796
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=4797|end_char=4799
+11	выдержала	выдержать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4800|end_char=4809
+12	:	:	PUNCT	_	_	16	punct	_	start_char=4809|end_char=4810
+13	–	–	PUNCT	_	_	16	punct	_	start_char=4811|end_char=4812
+14	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=4813|end_char=4819
+15	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=4820|end_char=4823
+16	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	start_char=4824|end_char=4831
+17	,	,	PUNCT	_	_	20	punct	_	start_char=4831|end_char=4832
+18	что	что	SCONJ	_	_	20	mark	_	start_char=4833|end_char=4836
+19	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	20	nsubj	_	start_char=4837|end_char=4839
+20	полезны	полезный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	16	ccomp	_	start_char=4840|end_char=4847
+21	,	,	PUNCT	_	_	23	punct	_	start_char=4847|end_char=4848
+22	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	23	nsubj	_	start_char=4849|end_char=4851
+23	охраняете	охранять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	start_char=4852|end_char=4861
+24	их	их	DET	_	Poss=Yes|PronType=Prs	25	det	_	start_char=4862|end_char=4864
+25	покой	покой	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obj	_	start_char=4865|end_char=4870
+26	и	и	CCONJ	_	_	27	cc	_	start_char=4871|end_char=4872
+27	порядок	порядок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	conj	_	start_char=4873|end_char=4880
+28	,	,	PUNCT	_	_	33	punct	_	start_char=4880|end_char=4881
+29	но	но	CCONJ	_	_	33	cc	_	start_char=4882|end_char=4884
+30	когда-нибудь	когда-нибудь	ADV	_	Degree=Pos|PronType=Ind	33	advmod	_	start_char=4885|end_char=4897
+31	и	и	PART	_	_	32	advmod	_	start_char=4898|end_char=4899
+32	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	33	nsubj	_	start_char=4900|end_char=4902
+33	окажетесь	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	16	conj	_	start_char=4903|end_char=4912
+34	слишком	слишком	ADV	_	Degree=Pos	35	advmod	_	start_char=4913|end_char=4920
+35	яркими	яркий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	33	xcomp	_	start_char=4921|end_char=4927
+36	,	,	PUNCT	_	_	38	punct	_	start_char=4927|end_char=4928
+37	слишком	слишком	ADV	_	Degree=Pos	38	advmod	_	start_char=4929|end_char=4936
+38	сильными	сильный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	35	conj	_	start_char=4937|end_char=4945
+39	,	,	PUNCT	_	_	41	punct	_	start_char=4945|end_char=4946
+40	слишком	слишком	ADV	_	Degree=Pos	41	advmod	_	start_char=4947|end_char=4954
+41	беспокоящими	беспокоящий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	35	conj	_	start_char=4955|end_char=4967
+42	для	для	ADP	_	_	44	case	_	start_char=4968|end_char=4971
+43	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	44	det	_	start_char=4972|end_char=4977
+44	болота	болото	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	41	obl	_	start_char=4978|end_char=4984
+45	!	!	PUNCT	_	_	11	punct	_	start_char=4984|end_char=4985
+
+# text = Вы надеетесь, изгоняя нас, что избавляетесь навсегда, но мы-то выживем, вирусы быстро мутируют и приспосабливаются, а вот вас, утративших способность бороться, свалит первая же...
+# sent_id = 61
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=4986|end_char=4988
+2	надеетесь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4989|end_char=4998
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4998|end_char=4999
+4	изгоняя	изгонять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=5000|end_char=5007
+5	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	start_char=5008|end_char=5011
+6	,	,	PUNCT	_	_	8	punct	_	start_char=5011|end_char=5012
+7	что	что	SCONJ	_	_	8	mark	_	start_char=5013|end_char=5016
+8	избавляетесь	избавляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	4	ccomp	_	start_char=5017|end_char=5029
+9	навсегда	навсегда	ADV	_	Degree=Pos|PronType=Tot	8	advmod	_	start_char=5030|end_char=5038
+10	,	,	PUNCT	_	_	13	punct	_	start_char=5038|end_char=5039
+11	но	но	CCONJ	_	_	13	cc	_	start_char=5040|end_char=5042
+12	мы-то	мы-то	ADV	_	Degree=Pos	13	advmod	_	start_char=5043|end_char=5048
+13	выживем	выживать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	conj	_	start_char=5049|end_char=5056
+14	,	,	PUNCT	_	_	17	punct	_	start_char=5056|end_char=5057
+15	вирусы	вирус	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	start_char=5058|end_char=5064
+16	быстро	быстро	ADV	_	Degree=Pos	17	advmod	_	start_char=5065|end_char=5071
+17	мутируют	мутировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5072|end_char=5080
+18	и	и	CCONJ	_	_	19	cc	_	start_char=5081|end_char=5082
+19	приспосабливаются	приспосабливаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=5083|end_char=5100
+20	,	,	PUNCT	_	_	29	punct	_	start_char=5100|end_char=5101
+21	а	а	CCONJ	_	_	29	cc	_	start_char=5102|end_char=5103
+22	вот	вот	PART	_	_	23	advmod	_	start_char=5104|end_char=5107
+23	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	29	obj	_	start_char=5108|end_char=5111
+24	,	,	PUNCT	_	_	25	punct	_	start_char=5111|end_char=5112
+25	утративших	утратить	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	23	acl	_	start_char=5113|end_char=5123
+26	способность	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obj	_	start_char=5124|end_char=5135
+27	бороться	бороться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	25	xcomp	_	start_char=5136|end_char=5144
+28	,	,	PUNCT	_	_	25	punct	_	start_char=5144|end_char=5145
+29	свалит	свалить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5146|end_char=5152
+30	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	29	nsubj	_	start_char=5153|end_char=5159
+31	же	же	PART	_	_	30	advmod	_	start_char=5160|end_char=5162
+32	...	...	PUNCT	_	_	2	punct	_	start_char=5162|end_char=5165
+
+# text = Ее втолкнули в открывшуюся дверь ТАРДИС.
+# sent_id = 62
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=5166|end_char=5168
+2	втолкнули	втолкнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5169|end_char=5178
+3	в	в	ADP	_	_	5	case	_	start_char=5179|end_char=5180
+4	открывшуюся	открыться	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	amod	_	start_char=5181|end_char=5192
+5	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=5193|end_char=5198
+6	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	5	appos	_	start_char=5199|end_char=5205
+7	.	.	PUNCT	_	_	2	punct	_	start_char=5205|end_char=5206
+
+# text = – В течение десяти минут вы обязаны выбрать направление и покинуть Галлифрей, – напомнил глава конвоя.
+# sent_id = 63
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	–	–	PUNCT	_	_	7	punct	_	start_char=5207|end_char=5208
+2	В	в	ADP	_	_	5	case	_	start_char=5209|end_char=5210
+3	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	fixed	_	start_char=5211|end_char=5218
+4	десяти	десять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	5	nummod	_	start_char=5219|end_char=5225
+5	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	obl	_	start_char=5226|end_char=5231
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=5232|end_char=5234
+7	обязаны	обязанный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=5235|end_char=5242
+8	выбрать	выбрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=5243|end_char=5250
+9	направление	направление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=5251|end_char=5262
+10	и	и	CCONJ	_	_	11	cc	_	start_char=5263|end_char=5264
+11	покинуть	покинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	conj	_	start_char=5265|end_char=5273
+12	Галлифрей	Галлифрей	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	11	obj	_	start_char=5274|end_char=5283
+13	,	,	PUNCT	_	_	15	punct	_	start_char=5283|end_char=5284
+14	–	–	PUNCT	_	_	15	punct	_	start_char=5285|end_char=5286
+15	напомнил	напомнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=5287|end_char=5295
+16	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=5296|end_char=5301
+17	конвоя	конвой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	start_char=5302|end_char=5308
+18	.	.	PUNCT	_	_	7	punct	_	start_char=5308|end_char=5309
+
+# text = Рани захлопнула дверь у него перед носом, выставила случайные координаты и дернула рычаг дематериализации.
+# sent_id = 64
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=5310|end_char=5314
+2	захлопнула	захлопнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5315|end_char=5325
+3	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=5326|end_char=5331
+4	у	у	ADP	_	_	5	case	_	start_char=5332|end_char=5333
+5	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=5334|end_char=5338
+6	перед	перед	ADP	_	_	7	case	_	start_char=5339|end_char=5344
+7	носом	нос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=5345|end_char=5350
+8	,	,	PUNCT	_	_	9	punct	_	start_char=5350|end_char=5351
+9	выставила	выставить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5352|end_char=5361
+10	случайные	случайный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	start_char=5362|end_char=5371
+11	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obj	_	start_char=5372|end_char=5382
+12	и	и	CCONJ	_	_	13	cc	_	start_char=5383|end_char=5384
+13	дернула	дернуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5385|end_char=5392
+14	рычаг	рычага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=5393|end_char=5398
+15	дематериализации	дематериализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	start_char=5399|end_char=5415
+16	.	.	PUNCT	_	_	2	punct	_	start_char=5415|end_char=5416
+
+# text = Ни одно место не может быть лучше или хуже другого... хотя, если она хочет продолжить свои научные изыскания, то лучше бы ей подобрать место с более-менее развитой цивилизацией.
+# sent_id = 65
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Ни	ни	PART	_	Polarity=Neg	2	advmod	_	start_char=5417|end_char=5419
+2	одно	один	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	det	_	start_char=5420|end_char=5424
+3	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=5425|end_char=5430
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=5431|end_char=5433
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5434|end_char=5439
+6	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	start_char=5440|end_char=5444
+7	лучше	хороший	ADJ	_	Degree=Cmp	5	xcomp	_	start_char=5445|end_char=5450
+8	или	или	CCONJ	_	_	9	cc	_	start_char=5451|end_char=5454
+9	хуже	плохой	ADJ	_	Degree=Cmp	7	conj	_	start_char=5455|end_char=5459
+10	другого	другой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	9	obl	_	start_char=5460|end_char=5467
+11	...	...	PUNCT	_	_	23	punct	_	start_char=5467|end_char=5470
+12	хотя	хотя	SCONJ	_	_	23	mark	_	start_char=5471|end_char=5475
+13	,	,	PUNCT	_	_	16	punct	_	start_char=5475|end_char=5476
+14	если	если	SCONJ	_	_	16	mark	_	start_char=5477|end_char=5481
+15	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=5482|end_char=5485
+16	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	start_char=5486|end_char=5491
+17	продолжить	продолжить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	start_char=5492|end_char=5502
+18	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	start_char=5503|end_char=5507
+19	научные	научный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	start_char=5508|end_char=5515
+20	изыскания	изыскание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	17	obj	_	start_char=5516|end_char=5525
+21	,	,	PUNCT	_	_	16	punct	_	start_char=5525|end_char=5526
+22	то	то	SCONJ	_	_	23	mark	_	start_char=5527|end_char=5529
+23	лучше	хороший	ADJ	_	Degree=Cmp	5	parataxis	_	start_char=5530|end_char=5535
+24	бы	бы	AUX	_	Mood=Cnd	23	aux	_	start_char=5536|end_char=5538
+25	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	iobj	_	start_char=5539|end_char=5541
+26	подобрать	подобрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	csubj	_	start_char=5542|end_char=5551
+27	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	26	obj	_	start_char=5552|end_char=5557
+28	с	с	ADP	_	_	33	case	_	start_char=5558|end_char=5559
+29	более	более	ADV	_	Degree=Cmp|PronType=Tot	32	advmod	_	start_char=5560|end_char=5565
+30	-	-	PUNCT	_	_	31	punct	_	start_char=5565|end_char=5566
+31	менее	менее	ADV	_	Degree=Cmp|PronType=Tot	32	advmod	_	start_char=5566|end_char=5571
+32	развитой	развить	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	33	acl	_	start_char=5572|end_char=5580
+33	цивилизацией	цивилизация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	obl	_	start_char=5581|end_char=5593
+34	.	.	PUNCT	_	_	5	punct	_	start_char=5593|end_char=5594
+
+# text = Вот два: новая строящаяся земная колония и зарождающая гуманоидная – Миасимия Гория.
+# sent_id = 66
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Вот	вот	PART	_	_	0	root	_	start_char=5595|end_char=5598
+2	два	два	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	1	nsubj	_	start_char=5599|end_char=5602
+3	:	:	PUNCT	_	_	7	punct	_	start_char=5602|end_char=5603
+4	новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=5604|end_char=5609
+5	строящаяся	строиться	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	amod	_	start_char=5610|end_char=5620
+6	земная	земный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=5621|end_char=5627
+7	колония	колония	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	start_char=5628|end_char=5635
+8	и	и	CCONJ	_	_	10	cc	_	start_char=5636|end_char=5637
+9	зарождающая	зарождать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	amod	_	start_char=5638|end_char=5649
+10	гуманоидная	гуманоидный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	start_char=5650|end_char=5661
+11	–	–	PUNCT	_	_	12	punct	_	start_char=5662|end_char=5663
+12	Миасимия	Миасимия	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	7	conj	_	start_char=5664|end_char=5672
+13	Гория	Гория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	12	flat:name	_	start_char=5673|end_char=5678
+14	.	.	PUNCT	_	_	1	punct	_	start_char=5678|end_char=5679
+
+# text = В обоих случаях наверняка будут рады небольшой помощи хорошего биолога и генного инженера.
+# sent_id = 67
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	В	в	ADP	_	_	3	case	_	start_char=5680|end_char=5681
+2	обоих	оба	NUM	_	Case=Loc|Gender=Masc|NumForm=Word|NumType=Sets	3	nummod	_	start_char=5682|end_char=5687
+3	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	obl	_	start_char=5688|end_char=5695
+4	наверняка	наверняка	ADV	_	Degree=Pos	6	advmod	_	start_char=5696|end_char=5705
+5	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=5706|end_char=5711
+6	рады	рад	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=5712|end_char=5716
+7	небольшой	небольшой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=5717|end_char=5726
+8	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	fixed	_	start_char=5727|end_char=5733
+9	хорошего	хороший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=5734|end_char=5742
+10	биолога	биолог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	start_char=5743|end_char=5750
+11	и	и	CCONJ	_	_	13	cc	_	start_char=5751|end_char=5752
+12	генного	генный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=5753|end_char=5760
+13	инженера	инженер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	conj	_	start_char=5761|end_char=5769
+14	.	.	PUNCT	_	_	6	punct	_	start_char=5769|end_char=5770
+
+# text = Она даже может попытаться лечить животных, скажем.
+# sent_id = 68
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5771|end_char=5774
+2	даже	даже	PART	_	_	3	advmod	_	start_char=5775|end_char=5779
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5780|end_char=5785
+4	попытаться	попытаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=5786|end_char=5796
+5	лечить	лечить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=5797|end_char=5803
+6	животных	животное	NOUN	_	Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur	5	obj	_	start_char=5804|end_char=5812
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5812|end_char=5813
+8	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=5814|end_char=5820
+9	.	.	PUNCT	_	_	3	punct	_	start_char=5820|end_char=5821
+
+# text = И, наверное, все же удобней будет в человеческой колонии, к тому же, вряд ли скромная одиноко живущая женщина будет там сильно выделяться из населения.
+# sent_id = 69
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	И	и	CCONJ	_	_	7	cc	_	start_char=5822|end_char=5823
+2	,	,	PUNCT	_	_	3	punct	_	start_char=5823|end_char=5824
+3	наверное	наверное	ADV	_	Degree=Pos	7	parataxis	_	start_char=5825|end_char=5833
+4	,	,	PUNCT	_	_	3	punct	_	start_char=5833|end_char=5834
+5	все	всё	ADV	_	Degree=Pos|PronType=Tot	7	advmod	_	start_char=5835|end_char=5838
+6	же	же	PART	_	_	5	fixed	_	start_char=5839|end_char=5841
+7	удобней	удобный	ADJ	_	Degree=Cmp	0	root	_	start_char=5842|end_char=5849
+8	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	_	start_char=5850|end_char=5855
+9	в	в	ADP	_	_	11	case	_	start_char=5856|end_char=5857
+10	человеческой	человеческий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=5858|end_char=5870
+11	колонии	колония	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	start_char=5871|end_char=5878
+12	,	,	PUNCT	_	_	26	punct	_	start_char=5878|end_char=5879
+13	к	к	ADP	_	_	14	case	_	start_char=5880|end_char=5881
+14	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	26	obl	_	start_char=5882|end_char=5886
+15	же	же	PART	_	_	14	advmod	_	start_char=5887|end_char=5889
+16	,	,	PUNCT	_	_	26	punct	_	start_char=5889|end_char=5890
+17	вряд	вряд	ADV	_	Degree=Pos	26	advmod	_	start_char=5891|end_char=5895
+18	ли	ли	PART	_	_	17	advmod	_	start_char=5896|end_char=5898
+19	скромная	скромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=5899|end_char=5907
+20	одиноко	одинокий	ADV	_	Degree=Pos	21	advmod	_	start_char=5908|end_char=5915
+21	живущая	жить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	acl	_	start_char=5916|end_char=5923
+22	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	start_char=5924|end_char=5931
+23	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	26	aux	_	start_char=5932|end_char=5937
+24	там	там	ADV	_	Degree=Pos|PronType=Dem	26	advmod	_	start_char=5938|end_char=5941
+25	сильно	сильно	ADV	_	Degree=Pos	26	advmod	_	start_char=5942|end_char=5948
+26	выделяться	выделяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	conj	_	start_char=5949|end_char=5959
+27	из	из	ADP	_	_	28	case	_	start_char=5960|end_char=5962
+28	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	obl	_	start_char=5963|end_char=5972
+29	.	.	PUNCT	_	_	7	punct	_	start_char=5972|end_char=5973
+
+# text = Решено, она летит на Салем.
+# sent_id = 70
+# metadata = Название: Вирус, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5456afd200000a7d34928061/1/Virus
+1	Решено	решить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	parataxis	_	start_char=5974|end_char=5980
+2	,	,	PUNCT	_	_	1	punct	_	start_char=5980|end_char=5981
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=5982|end_char=5985
+4	летит	лететь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5986|end_char=5991
+5	на	на	ADP	_	_	6	case	_	start_char=5992|end_char=5994
+6	Салем	Салем	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	start_char=5995|end_char=6000
+7	.	.	PUNCT	_	_	4	punct	_	start_char=6000|end_char=6001
+

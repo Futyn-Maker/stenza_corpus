@@ -1,0 +1,1579 @@
+# text = "We have Steve Jobs".
+# sent_id = 0
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	"	"	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	We	We	X	_	Foreign=Yes	0	root	_	start_char=1|end_char=3
+3	have	have	X	_	Foreign=Yes	2	flat:foreign	_	start_char=4|end_char=8
+4	Steve	Steve	X	_	Foreign=Yes	2	flat:foreign	_	start_char=9|end_char=14
+5	Jobs	Jobs	X	_	Foreign=Yes	2	flat:foreign	_	start_char=15|end_char=19
+6	"	"	PUNCT	_	_	2	punct	_	start_char=19|end_char=20
+7	.	.	PUNCT	_	_	2	punct	_	start_char=20|end_char=21
+
+# text = Осгуд и Дэнни мрачно посмотрели на новоприбывшего.
+# sent_id = 1
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Осгуд	Осгуд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	5	nsubj	_	start_char=23|end_char=28
+2	и	и	CCONJ	_	_	3	cc	_	start_char=29|end_char=30
+3	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	conj	_	start_char=31|end_char=36
+4	мрачно	мрачно	ADV	_	Degree=Pos	5	advmod	_	start_char=37|end_char=43
+5	посмотрели	посмотреть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=44|end_char=54
+6	на	на	ADP	_	_	7	case	_	start_char=55|end_char=57
+7	новоприбывшего	новоприбывать	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	obl	_	start_char=58|end_char=72
+8	.	.	PUNCT	_	_	5	punct	_	start_char=72|end_char=73
+
+# text = Стив Джобс продолжал ковыряться в настройках.
+# sent_id = 2
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Стив	Стив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=74|end_char=78
+2	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=79|end_char=84
+3	продолжал	продолжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=85|end_char=94
+4	ковыряться	ковыряться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=95|end_char=105
+5	в	в	ADP	_	_	6	case	_	start_char=106|end_char=107
+6	настройках	настройка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	start_char=108|end_char=118
+7	.	.	PUNCT	_	_	3	punct	_	start_char=118|end_char=119
+
+# text = – Это, знаете ли, не совсем мое дело, – ворчал он, сердито втыкая проводки под гладкой воображаемой – на самом деле цифровой панелью – в гнезда.
+# sent_id = 3
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	10	punct	_	start_char=120|end_char=121
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=122|end_char=125
+3	,	,	PUNCT	_	_	4	punct	_	start_char=125|end_char=126
+4	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=127|end_char=133
+5	ли	ли	PART	_	_	4	advmod	_	start_char=134|end_char=136
+6	,	,	PUNCT	_	_	4	punct	_	start_char=136|end_char=137
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=138|end_char=140
+8	совсем	совсем	ADV	_	Degree=Pos	9	advmod	_	start_char=141|end_char=147
+9	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	start_char=148|end_char=151
+10	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=152|end_char=156
+11	,	,	PUNCT	_	_	13	punct	_	start_char=156|end_char=157
+12	–	–	PUNCT	_	_	13	punct	_	start_char=158|end_char=159
+13	ворчал	ворчать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=160|end_char=166
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=167|end_char=169
+15	,	,	PUNCT	_	_	17	punct	_	start_char=169|end_char=170
+16	сердито	сердитый	ADV	_	Degree=Pos	17	advmod	_	start_char=171|end_char=178
+17	втыкая	втыкать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	start_char=179|end_char=185
+18	проводки	проводка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	17	obj	_	start_char=186|end_char=194
+19	под	под	ADP	_	_	21	case	_	start_char=195|end_char=198
+20	гладкой	гладкай	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	21	obl	_	start_char=199|end_char=206
+21	воображаемой	воображать	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	start_char=207|end_char=219
+22	–	–	PUNCT	_	_	30	punct	_	start_char=220|end_char=221
+23	на	на	ADP	_	_	25	case	_	start_char=222|end_char=224
+24	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	25	det	_	start_char=225|end_char=230
+25	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	obl	_	start_char=231|end_char=235
+26	цифровой	цифровой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	start_char=236|end_char=244
+27	панелью	панель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	_	start_char=245|end_char=252
+28	–	–	PUNCT	_	_	30	punct	_	start_char=253|end_char=254
+29	в	в	ADP	_	_	30	case	_	start_char=255|end_char=256
+30	гнезда	гнездо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	27	nmod	_	start_char=257|end_char=263
+31	.	.	PUNCT	_	_	10	punct	_	start_char=263|end_char=264
+
+# text = – Мое дело – развитие компании, эксклюзивность, уникальность, а не…
+# sent_id = 4
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=265|end_char=266
+2	Мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=267|end_char=270
+3	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=271|end_char=275
+4	–	–	PUNCT	_	_	5	punct	_	start_char=276|end_char=277
+5	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	parataxis	_	start_char=278|end_char=286
+6	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=287|end_char=295
+7	,	,	PUNCT	_	_	8	punct	_	start_char=295|end_char=296
+8	эксклюзивность	эксклюзивность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	start_char=297|end_char=311
+9	,	,	PUNCT	_	_	10	punct	_	start_char=311|end_char=312
+10	уникальность	уникальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	start_char=313|end_char=325
+11	,	,	PUNCT	_	_	13	punct	_	start_char=325|end_char=326
+12	а	а	CCONJ	_	_	13	cc	_	start_char=327|end_char=328
+13	не	не	PART	_	Polarity=Neg	5	conj	_	start_char=329|end_char=331
+14	…	…	PUNCT	_	_	5	punct	_	start_char=331|end_char=332
+
+# text = Наконец он обратил внимание на возникшего Себа, пока еще странно мерцающего, и нахмурился.
+# sent_id = 5
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Наконец	наконец	ADV	_	Degree=Pos	3	advmod	_	start_char=333|end_char=340
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=341|end_char=343
+3	обратил	обратить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=344|end_char=351
+4	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=352|end_char=360
+5	на	на	ADP	_	_	7	case	_	start_char=361|end_char=363
+6	возникшего	возникнуть	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	amod	_	start_char=364|end_char=374
+7	Себа	Себа	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	3	obl	_	start_char=375|end_char=379
+8	,	,	PUNCT	_	_	12	punct	_	start_char=379|end_char=380
+9	пока	пока	SCONJ	_	_	12	mark	_	start_char=381|end_char=385
+10	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=386|end_char=389
+11	странно	странно	ADV	_	Degree=Pos	12	advmod	_	start_char=390|end_char=397
+12	мерцающего	мерцать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	start_char=398|end_char=408
+13	,	,	PUNCT	_	_	15	punct	_	start_char=408|end_char=409
+14	и	и	CCONJ	_	_	15	cc	_	start_char=410|end_char=411
+15	нахмурился	нахмуриться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=412|end_char=422
+16	.	.	PUNCT	_	_	3	punct	_	start_char=422|end_char=423
+
+# text = – Зачем вы его вернули? – спросил Дэнни.
+# sent_id = 6
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	5	punct	_	start_char=424|end_char=425
+2	Зачем	зачем	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=426|end_char=431
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=432|end_char=434
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=435|end_char=438
+5	вернули	вернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=439|end_char=446
+6	?	?	PUNCT	_	_	5	punct	_	start_char=446|end_char=447
+7	–	–	PUNCT	_	_	8	punct	_	start_char=448|end_char=449
+8	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=450|end_char=457
+9	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=458|end_char=463
+10	.	.	PUNCT	_	_	5	punct	_	start_char=463|end_char=464
+
+# text = – А это разве не новенький? – спросила Осгуд.
+# sent_id = 7
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	6	punct	_	start_char=465|end_char=466
+2	А	а	CCONJ	_	_	6	cc	_	start_char=467|end_char=468
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=469|end_char=472
+4	разве	разве	PART	_	_	6	advmod	_	start_char=473|end_char=478
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=479|end_char=481
+6	новенький	новенький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=482|end_char=491
+7	?	?	PUNCT	_	_	6	punct	_	start_char=491|end_char=492
+8	–	–	PUNCT	_	_	9	punct	_	start_char=493|end_char=494
+9	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=495|end_char=503
+10	Осгуд	Осгуд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=504|end_char=509
+11	.	.	PUNCT	_	_	6	punct	_	start_char=509|end_char=510
+
+# text = – Он же интерфейс, – буркнул Стив Джобс.
+# sent_id = 8
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=511|end_char=512
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=513|end_char=515
+3	же	же	PART	_	_	2	advmod	_	start_char=516|end_char=518
+4	интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=519|end_char=528
+5	,	,	PUNCT	_	_	7	punct	_	start_char=528|end_char=529
+6	–	–	PUNCT	_	_	7	punct	_	start_char=530|end_char=531
+7	буркнул	буркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=532|end_char=539
+8	Стив	Стив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=540|end_char=544
+9	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	flat:name	_	start_char=545|end_char=550
+10	.	.	PUNCT	_	_	4	punct	_	start_char=550|end_char=551
+
+# text = – Стильный, элегантный, современный, дружественный, визуальный, сенсорный и прочее.
+# sent_id = 9
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=552|end_char=553
+2	Стильный	стильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=554|end_char=562
+3	,	,	PUNCT	_	_	4	punct	_	start_char=562|end_char=563
+4	элегантный	элегантный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=564|end_char=574
+5	,	,	PUNCT	_	_	6	punct	_	start_char=574|end_char=575
+6	современный	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=576|end_char=587
+7	,	,	PUNCT	_	_	8	punct	_	start_char=587|end_char=588
+8	дружественный	дружественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=589|end_char=602
+9	,	,	PUNCT	_	_	10	punct	_	start_char=602|end_char=603
+10	визуальный	визуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=604|end_char=614
+11	,	,	PUNCT	_	_	12	punct	_	start_char=614|end_char=615
+12	сенсорный	сенсорный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=616|end_char=625
+13	и	и	CCONJ	_	_	14	cc	_	start_char=626|end_char=627
+14	прочее	прочий	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	conj	_	start_char=628|end_char=634
+15	.	.	PUNCT	_	_	2	punct	_	start_char=634|end_char=635
+
+# text = Что не так?
+# sent_id = 10
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=636|end_char=639
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=640|end_char=642
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=643|end_char=646
+4	?	?	PUNCT	_	_	3	punct	_	start_char=646|end_char=647
+
+# text = – Это что, вы его создали?!– встрепенулся Дэнни.
+# sent_id = 11
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=648|end_char=649
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=650|end_char=653
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=654|end_char=657
+4	,	,	PUNCT	_	_	7	punct	_	start_char=657|end_char=658
+5	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=659|end_char=661
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=662|end_char=665
+7	создали	создать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=666|end_char=673
+8	?!–	?!–	PUNCT	_	_	9	punct	_	start_char=673|end_char=676
+9	встрепенулся	встрепенуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=677|end_char=689
+10	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=690|end_char=695
+11	.	.	PUNCT	_	_	3	punct	_	start_char=695|end_char=696
+
+# text = – В «Яблочко»!
+# sent_id = 12
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=698|end_char=699
+2	В	в	ADP	_	_	4	case	_	start_char=700|end_char=701
+3	«	«	PUNCT	_	_	4	punct	_	start_char=702|end_char=703
+4	Яблочко	Яблочко	PROPN	_	Animacy=Inan|Case=Acc|Gender=Neut|NameType=Com|Number=Sing	0	root	_	start_char=703|end_char=710
+5	»	»	PUNCT	_	_	4	punct	_	start_char=710|end_char=711
+6	!	!	PUNCT	_	_	4	punct	_	start_char=711|end_char=712
+
+# text = – снова буркнул Стив Джобс.
+# sent_id = 13
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=713|end_char=714
+2	снова	снова	ADV	_	Degree=Pos	3	advmod	_	start_char=715|end_char=720
+3	буркнул	буркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=721|end_char=728
+4	Стив	Стив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=729|end_char=733
+5	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	start_char=734|end_char=739
+6	.	.	PUNCT	_	_	3	punct	_	start_char=739|end_char=740
+
+# text = – Хорошая работа, я считаю.
+# sent_id = 14
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=741|end_char=742
+2	Хорошая	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=743|end_char=750
+3	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=751|end_char=757
+4	,	,	PUNCT	_	_	6	punct	_	start_char=757|end_char=758
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=759|end_char=760
+6	считаю	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=761|end_char=767
+7	.	.	PUNCT	_	_	3	punct	_	start_char=767|end_char=768
+
+# text = Себ хлопал виртуальными ресницами.
+# sent_id = 15
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Себ	себ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=769|end_char=772
+2	хлопал	хлопать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=773|end_char=779
+3	виртуальными	виртуальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	start_char=780|end_char=792
+4	ресницами	ресница	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	obl	_	start_char=793|end_char=802
+5	.	.	PUNCT	_	_	2	punct	_	start_char=802|end_char=803
+
+# text = – Что-то он не такой разговорчивый, как был.
+# sent_id = 16
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	6	punct	_	start_char=804|end_char=805
+2	Что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	start_char=806|end_char=812
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=813|end_char=815
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=816|end_char=818
+5	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	start_char=819|end_char=824
+6	разговорчивый	разговорчивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=825|end_char=838
+7	,	,	PUNCT	_	_	9	punct	_	start_char=838|end_char=839
+8	как	как	SCONJ	_	_	9	mark	_	start_char=840|end_char=843
+9	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=844|end_char=847
+10	.	.	PUNCT	_	_	6	punct	_	start_char=847|end_char=848
+
+# text = – Сейчас дозагрузится.
+# sent_id = 17
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=849|end_char=850
+2	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=851|end_char=857
+3	дозагрузится	дозагрузиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=858|end_char=870
+4	.	.	PUNCT	_	_	3	punct	_	start_char=870|end_char=871
+
+# text = Загрузился бы быстрее при символической оплате снаружи, но можно и так.
+# sent_id = 18
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Загрузился	загрузиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=872|end_char=882
+2	бы	бы	AUX	_	Mood=Cnd	1	aux	_	start_char=883|end_char=885
+3	быстрее	быстро	ADV	_	Degree=Cmp	1	advmod	_	start_char=886|end_char=893
+4	при	при	ADP	_	_	6	case	_	start_char=894|end_char=897
+5	символической	символический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=898|end_char=911
+6	оплате	оплата	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	start_char=912|end_char=918
+7	снаружи	снаружи	ADV	_	Degree=Pos	1	advmod	_	start_char=919|end_char=926
+8	,	,	PUNCT	_	_	10	punct	_	start_char=926|end_char=927
+9	но	но	CCONJ	_	_	10	cc	_	start_char=928|end_char=930
+10	можно	можно	VERB	_	_	1	conj	_	start_char=931|end_char=936
+11	и	и	PART	_	_	12	advmod	_	start_char=937|end_char=938
+12	так	так	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=939|end_char=942
+13	.	.	PUNCT	_	_	1	punct	_	start_char=942|end_char=943
+
+# text = Итак, Себ!
+# sent_id = 19
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Итак	итак	ADV	_	Degree=Pos	0	root	_	start_char=944|end_char=948
+2	,	,	PUNCT	_	_	1	punct	_	start_char=948|end_char=949
+3	Себ	себ	INTJ	_	_	1	discourse	_	start_char=950|end_char=953
+4	!	!	PUNCT	_	_	1	punct	_	start_char=953|end_char=954
+
+# text = Проснись уже, бесполезная тварь!
+# sent_id = 20
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Проснись	проснуться	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=955|end_char=963
+2	уже	уже	ADV	_	Degree=Pos	1	advmod	_	start_char=964|end_char=967
+3	,	,	PUNCT	_	_	5	punct	_	start_char=967|end_char=968
+4	бесполезная	бесполезный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=969|end_char=980
+5	тварь	тварь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	vocative	_	start_char=981|end_char=986
+6	!	!	PUNCT	_	_	1	punct	_	start_char=986|end_char=987
+
+# text = Себ вздрогнул.
+# sent_id = 21
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Себ	себ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=988|end_char=991
+2	вздрогнул	вздрогнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=992|end_char=1001
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1001|end_char=1002
+
+# text = – Да… сэр! – Нам нужна поддержка системы, пока тут все не рухнуло.
+# sent_id = 22
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1003|end_char=1004
+2	Да	да	PART	_	_	0	root	_	start_char=1005|end_char=1007
+3	…	…	PUNCT	_	_	4	punct	_	start_char=1007|end_char=1008
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=1009|end_char=1012
+5	!	!	PUNCT	_	_	4	punct	_	start_char=1012|end_char=1013
+6	–	–	PUNCT	_	_	8	punct	_	start_char=1014|end_char=1015
+7	Нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	iobj	_	start_char=1016|end_char=1019
+8	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	parataxis	_	start_char=1020|end_char=1025
+9	поддержка	поддержка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=1026|end_char=1035
+10	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=1036|end_char=1043
+11	,	,	PUNCT	_	_	16	punct	_	start_char=1043|end_char=1044
+12	пока	пока	SCONJ	_	_	16	mark	_	start_char=1045|end_char=1049
+13	тут	тут	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=1050|end_char=1053
+14	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	16	nsubj	_	start_char=1054|end_char=1057
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=1058|end_char=1060
+16	рухнуло	рухнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=1061|end_char=1068
+17	.	.	PUNCT	_	_	2	punct	_	start_char=1068|end_char=1069
+
+# text = – Да… сэр!
+# sent_id = 23
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1070|end_char=1071
+2	Да	да	PART	_	_	0	root	_	start_char=1072|end_char=1074
+3	…	…	PUNCT	_	_	2	punct	_	start_char=1074|end_char=1075
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=1076|end_char=1079
+5	!	!	PUNCT	_	_	2	punct	_	start_char=1079|end_char=1080
+
+# text = – Стукни его, парень! – велел Джобс Дэнни.
+# sent_id = 24
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1081|end_char=1082
+2	Стукни	стукнуть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1083|end_char=1089
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=1090|end_char=1093
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1093|end_char=1094
+5	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=1095|end_char=1101
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1101|end_char=1102
+7	–	–	PUNCT	_	_	8	punct	_	start_char=1103|end_char=1104
+8	велел	велеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1105|end_char=1110
+9	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=1111|end_char=1116
+10	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	flat:name	_	start_char=1117|end_char=1122
+11	.	.	PUNCT	_	_	2	punct	_	start_char=1122|end_char=1123
+
+# text = Дэнни Пинк пожал плечами и дал Себу легкий подзатыльник.
+# sent_id = 25
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1124|end_char=1129
+2	Пинк	Пинк	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=1130|end_char=1134
+3	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1135|end_char=1140
+4	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	3	iobj	_	start_char=1141|end_char=1148
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1149|end_char=1150
+6	дал	дать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1151|end_char=1154
+7	Себу	Себа	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	6	obj	_	start_char=1155|end_char=1159
+8	легкий	легкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1160|end_char=1166
+9	подзатыльник	подзатыльник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=1167|end_char=1179
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1179|end_char=1180
+
+# text = – Ух! – сказал Себ, мгновенно проясняясь и картинно переводя дух.
+# sent_id = 26
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1181|end_char=1182
+2	Ух	ух	INTJ	_	_	0	root	_	start_char=1183|end_char=1185
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1185|end_char=1186
+4	–	–	PUNCT	_	_	5	punct	_	start_char=1187|end_char=1188
+5	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1189|end_char=1195
+6	Себ	Себ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=1196|end_char=1199
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1199|end_char=1200
+8	мгновенно	мгновенно	ADV	_	Degree=Pos	9	advmod	_	start_char=1201|end_char=1210
+9	проясняясь	проясняться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=1211|end_char=1221
+10	и	и	CCONJ	_	_	12	cc	_	start_char=1222|end_char=1223
+11	картинно	картинно	ADV	_	Degree=Pos	12	advmod	_	start_char=1224|end_char=1232
+12	переводя	переводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	conj	_	start_char=1233|end_char=1241
+13	дух	дух	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=1242|end_char=1245
+14	.	.	PUNCT	_	_	2	punct	_	start_char=1245|end_char=1246
+
+# text = Дэнни почувствовал, что рука занемела.
+# sent_id = 27
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1247|end_char=1252
+2	почувствовал	почувствовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1253|end_char=1265
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1265|end_char=1266
+4	что	что	SCONJ	_	_	6	mark	_	start_char=1267|end_char=1270
+5	рука	рука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1271|end_char=1275
+6	занемела	занеметь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1276|end_char=1284
+7	.	.	PUNCT	_	_	2	punct	_	start_char=1284|end_char=1285
+
+# text = Видимо, Себ вытянул из нее необходимую ему энергию.
+# sent_id = 28
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Видимо	видимо	ADV	_	Degree=Pos	4	parataxis	_	start_char=1286|end_char=1292
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1292|end_char=1293
+3	Себ	Себ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1294|end_char=1297
+4	вытянул	вытянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1298|end_char=1305
+5	из	из	ADP	_	_	6	case	_	start_char=1306|end_char=1308
+6	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=1309|end_char=1312
+7	необходимую	необходимый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=1313|end_char=1324
+8	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=1325|end_char=1328
+9	энергию	энергия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=1329|end_char=1336
+10	.	.	PUNCT	_	_	4	punct	_	start_char=1336|end_char=1337
+
+# text = – Добрый день, джентльмены и… леди, – он перевел взгляд на Осгуд и слегка манерно облизнул губы.
+# sent_id = 29
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1338|end_char=1339
+2	Добрый	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=1340|end_char=1346
+3	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1347|end_char=1351
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1351|end_char=1352
+5	джентльмены	джентльмен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	start_char=1353|end_char=1364
+6	и	и	CCONJ	_	_	8	cc	_	start_char=1365|end_char=1366
+7	…	…	PUNCT	_	_	8	punct	_	start_char=1366|end_char=1367
+8	леди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	start_char=1368|end_char=1372
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1372|end_char=1373
+10	–	–	PUNCT	_	_	12	punct	_	start_char=1374|end_char=1375
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=1376|end_char=1378
+12	перевел	перевести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1379|end_char=1386
+13	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=1387|end_char=1393
+14	на	на	ADP	_	_	15	case	_	start_char=1394|end_char=1396
+15	Осгуд	Осгуд	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	12	obl	_	start_char=1397|end_char=1402
+16	и	и	CCONJ	_	_	19	cc	_	start_char=1403|end_char=1404
+17	слегка	слегка	ADV	_	Degree=Pos	18	advmod	_	start_char=1405|end_char=1411
+18	манерно	манерно	ADV	_	Degree=Pos	19	advmod	_	start_char=1412|end_char=1419
+19	облизнул	облизнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=1420|end_char=1428
+20	губы	губа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	obj	_	start_char=1429|end_char=1433
+21	.	.	PUNCT	_	_	3	punct	_	start_char=1433|end_char=1434
+
+# text = – Простите, это все потому, что я вас не встретил, как полагается, да?..
+# sent_id = 30
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1435|end_char=1436
+2	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1437|end_char=1445
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1445|end_char=1446
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1447|end_char=1450
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=1451|end_char=1454
+6	потому	потому	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=1455|end_char=1461
+7	,	,	PUNCT	_	_	12	punct	_	start_char=1461|end_char=1462
+8	что	что	SCONJ	_	_	12	mark	_	start_char=1463|end_char=1466
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=1467|end_char=1468
+10	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	12	obj	_	start_char=1469|end_char=1472
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1473|end_char=1475
+12	встретил	встретить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=1476|end_char=1484
+13	,	,	PUNCT	_	_	15	punct	_	start_char=1484|end_char=1485
+14	как	как	SCONJ	_	_	15	mark	_	start_char=1486|end_char=1489
+15	полагается	полагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	advcl	_	start_char=1490|end_char=1500
+16	,	,	PUNCT	_	_	15	punct	_	start_char=1500|end_char=1501
+17	да	да	PART	_	_	6	conj	_	start_char=1502|end_char=1504
+18	?..	?..	PUNCT	_	_	2	punct	_	start_char=1504|end_char=1507
+
+# text = Видите ли, я был занят, и предполагалось…
+# sent_id = 31
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=1508|end_char=1514
+2	ли	ли	PART	_	_	1	advmod	_	start_char=1515|end_char=1517
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1517|end_char=1518
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	start_char=1519|end_char=1520
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	start_char=1521|end_char=1524
+6	занят	занять	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=1525|end_char=1530
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1530|end_char=1531
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1532|end_char=1533
+9	предполагалось	предполагаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=1534|end_char=1548
+10	…	…	PUNCT	_	_	6	punct	_	start_char=1548|end_char=1549
+
+# text = – Нет, тварь ты бесхребетная, – ответил Джобс.
+# sent_id = 32
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1550|end_char=1551
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=1552|end_char=1555
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1555|end_char=1556
+4	тварь	тварь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1557|end_char=1562
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=1563|end_char=1565
+6	бесхребетная	бесхребетный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=1566|end_char=1578
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1578|end_char=1579
+8	–	–	PUNCT	_	_	9	punct	_	start_char=1580|end_char=1581
+9	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=1582|end_char=1589
+10	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	nsubj	_	start_char=1590|end_char=1595
+11	.	.	PUNCT	_	_	2	punct	_	start_char=1595|end_char=1596
+
+# text = – Это потому, что нам требуется поддержка этой гребаной системы!
+# sent_id = 33
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1597|end_char=1598
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1599|end_char=1602
+3	потому	потому	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=1603|end_char=1609
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1609|end_char=1610
+5	что	что	SCONJ	_	_	7	mark	_	start_char=1611|end_char=1614
+6	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	start_char=1615|end_char=1618
+7	требуется	требоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	start_char=1619|end_char=1628
+8	поддержка	поддержка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=1629|end_char=1638
+9	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	start_char=1639|end_char=1643
+10	гребаной	гребаной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=1644|end_char=1652
+11	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1653|end_char=1660
+12	!	!	PUNCT	_	_	3	punct	_	start_char=1660|end_char=1661
+
+# text = – Но она уже выполнила свою функцию…
+# sent_id = 34
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1662|end_char=1663
+2	Но	но	CCONJ	_	_	5	cc	_	start_char=1664|end_char=1666
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1667|end_char=1670
+4	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=1671|end_char=1674
+5	выполнила	выполнить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1675|end_char=1684
+6	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=1685|end_char=1689
+7	функцию	функция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=1690|end_char=1697
+8	…	…	PUNCT	_	_	5	punct	_	start_char=1697|end_char=1698
+
+# text = Кстати, что происходит, почему вы все тут?
+# sent_id = 35
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Кстати	кстати	ADV	_	Degree=Pos	4	parataxis	_	start_char=1699|end_char=1705
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1705|end_char=1706
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	start_char=1707|end_char=1710
+4	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1711|end_char=1721
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1721|end_char=1722
+6	почему	почему	ADV	_	Degree=Pos|PronType=Int	9	advmod	_	start_char=1723|end_char=1729
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	start_char=1730|end_char=1732
+8	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	9	nsubj	_	start_char=1733|end_char=1736
+9	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	conj	_	start_char=1737|end_char=1740
+10	?	?	PUNCT	_	_	4	punct	_	start_char=1740|end_char=1741
+
+# text = – Долго рассказывать! – отмахнулась Осгуд.
+# sent_id = 36
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1742|end_char=1743
+2	Долго	долго	ADV	_	Degree=Pos	3	advmod	_	start_char=1744|end_char=1749
+3	рассказывать	рассказывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=1750|end_char=1762
+4	!	!	PUNCT	_	_	3	punct	_	start_char=1762|end_char=1763
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1764|end_char=1765
+6	отмахнулась	отмахнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1766|end_char=1777
+7	Осгуд	Осгуд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=1778|end_char=1783
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1783|end_char=1784
+
+# text = – Говори лучше, как нам вернуться обратно.
+# sent_id = 37
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1785|end_char=1786
+2	Говори	говорить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1787|end_char=1793
+3	лучше	хороший	ADJ	_	Degree=Cmp	2	xcomp	_	start_char=1794|end_char=1799
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1799|end_char=1800
+5	как	как	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=1801|end_char=1804
+6	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	start_char=1805|end_char=1808
+7	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	ccomp	_	start_char=1809|end_char=1818
+8	обратно	обратно	ADV	_	Degree=Pos	7	advmod	_	start_char=1819|end_char=1826
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1826|end_char=1827
+
+# text = – Вернуться… что? – голос Себа сломался и на конце фразы он слегка взвизгнул.
+# sent_id = 38
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1828|end_char=1829
+2	Вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	start_char=1830|end_char=1839
+3	…	…	PUNCT	_	_	4	punct	_	start_char=1839|end_char=1840
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	parataxis	_	start_char=1841|end_char=1844
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1844|end_char=1845
+6	–	–	PUNCT	_	_	9	punct	_	start_char=1846|end_char=1847
+7	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=1848|end_char=1853
+8	Себа	Себа	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=1854|end_char=1858
+9	сломался	сломаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=1859|end_char=1867
+10	и	и	CCONJ	_	_	16	cc	_	start_char=1868|end_char=1869
+11	на	на	ADP	_	_	12	case	_	start_char=1870|end_char=1872
+12	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	start_char=1873|end_char=1878
+13	фразы	фраза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=1879|end_char=1884
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=1885|end_char=1887
+15	слегка	слегка	ADV	_	Degree=Pos	16	advmod	_	start_char=1888|end_char=1894
+16	взвизгнул	взвизгнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1895|end_char=1904
+17	.	.	PUNCT	_	_	2	punct	_	start_char=1904|end_char=1905
+
+# text = – Это не было предусмотрено.
+# sent_id = 39
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1906|end_char=1907
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj:pass	_	start_char=1908|end_char=1911
+3	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1912|end_char=1914
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	start_char=1915|end_char=1919
+5	предусмотрено	предусмотрить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=1920|end_char=1933
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1933|end_char=1934
+
+# text = И вообще, почему я ничего не помню?
+# sent_id = 40
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	И	и	CCONJ	_	_	8	cc	_	start_char=1935|end_char=1936
+2	вообще	вообще	ADV	_	Degree=Pos	8	parataxis	_	start_char=1937|end_char=1943
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1943|end_char=1944
+4	почему	почему	ADV	_	Degree=Pos|PronType=Int	8	advmod	_	start_char=1945|end_char=1951
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=1952|end_char=1953
+6	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	8	obj	_	start_char=1954|end_char=1960
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1961|end_char=1963
+8	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1964|end_char=1969
+9	?	?	PUNCT	_	_	8	punct	_	start_char=1969|end_char=1970
+
+# text = – Где твой файл? – кровожадно спросил Дэнни.
+# sent_id = 41
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1971|end_char=1972
+2	Где	где	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=1973|end_char=1976
+3	твой	твой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=1977|end_char=1981
+4	файл	файл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1982|end_char=1986
+5	?	?	PUNCT	_	_	2	punct	_	start_char=1986|end_char=1987
+6	–	–	PUNCT	_	_	8	punct	_	start_char=1988|end_char=1989
+7	кровожадно	кровожадно	ADV	_	Degree=Pos	8	advmod	_	start_char=1990|end_char=2000
+8	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2001|end_char=2008
+9	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=2009|end_char=2014
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2014|end_char=2015
+
+# text = – Удали себе эмоции и давай-ка подумай!
+# sent_id = 42
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2016|end_char=2017
+2	Удали	удать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2018|end_char=2023
+3	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	2	iobj	_	start_char=2024|end_char=2028
+4	эмоции	эмоция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=2029|end_char=2035
+5	и	и	CCONJ	_	_	6	cc	_	start_char=2036|end_char=2037
+6	давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2038|end_char=2043
+7	-ка	-ка	CCONJ	_	_	8	cc	_	start_char=2043|end_char=2046
+8	подумай	подумать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2047|end_char=2054
+9	!	!	PUNCT	_	_	2	punct	_	start_char=2054|end_char=2055
+
+# text = – У меня нет эмоций, – заявил Себ.
+# sent_id = 43
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2056|end_char=2057
+2	У	у	ADP	_	_	3	case	_	start_char=2058|end_char=2059
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=2060|end_char=2064
+4	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=2065|end_char=2068
+5	эмоций	эмоция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nsubj	_	start_char=2069|end_char=2075
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2075|end_char=2076
+7	–	–	PUNCT	_	_	8	punct	_	start_char=2077|end_char=2078
+8	заявил	заявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2079|end_char=2085
+9	Себ	Себ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=2086|end_char=2089
+10	.	.	PUNCT	_	_	4	punct	_	start_char=2089|end_char=2090
+
+# text = – У меня, как же это… – Глюки, – кивнул Джобс.
+# sent_id = 44
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2091|end_char=2092
+2	У	у	ADP	_	_	3	case	_	start_char=2093|end_char=2094
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=2095|end_char=2099
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2099|end_char=2100
+5	как	как	ADV	_	Degree=Pos|PronType=Rel	3	conj	_	start_char=2101|end_char=2104
+6	же	же	PART	_	_	5	advmod	_	start_char=2105|end_char=2107
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2108|end_char=2111
+8	…	…	PUNCT	_	_	10	punct	_	start_char=2111|end_char=2112
+9	–	–	PUNCT	_	_	10	punct	_	start_char=2113|end_char=2114
+10	Глюки	глюко	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	parataxis	_	start_char=2115|end_char=2120
+11	,	,	PUNCT	_	_	13	punct	_	start_char=2120|end_char=2121
+12	–	–	PUNCT	_	_	13	punct	_	start_char=2122|end_char=2123
+13	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=2124|end_char=2130
+14	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	13	nsubj	_	start_char=2131|end_char=2136
+15	.	.	PUNCT	_	_	3	punct	_	start_char=2136|end_char=2137
+
+# text = – И баги.
+# sent_id = 45
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2138|end_char=2139
+2	И	и	CCONJ	_	_	3	cc	_	start_char=2140|end_char=2141
+3	баги	баг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2142|end_char=2146
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2146|end_char=2147
+
+# text = Для эксклюзивности.
+# sent_id = 46
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Для	для	ADP	_	_	2	case	_	start_char=2148|end_char=2151
+2	эксклюзивности	эксклюзивность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=2152|end_char=2166
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2166|end_char=2167
+
+# text = Не помнишь, потому что тебя слегка сломали, и мы можем отключить еще раз.
+# sent_id = 47
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=2168|end_char=2170
+2	помнишь	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2171|end_char=2178
+3	,	,	PUNCT	_	_	8	punct	_	start_char=2178|end_char=2179
+4	потому	потому	ADV	_	Degree=Pos|PronType=Dem	8	mark	_	start_char=2180|end_char=2186
+5	что	что	SCONJ	_	_	4	fixed	_	start_char=2187|end_char=2190
+6	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obj	_	start_char=2191|end_char=2195
+7	слегка	слегка	ADV	_	Degree=Pos	8	advmod	_	start_char=2196|end_char=2202
+8	сломали	сломать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=2203|end_char=2210
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2210|end_char=2211
+10	и	и	CCONJ	_	_	12	cc	_	start_char=2212|end_char=2213
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=2214|end_char=2216
+12	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	start_char=2217|end_char=2222
+13	отключить	отключить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=2223|end_char=2232
+14	еще	еще	ADV	_	Degree=Pos	15	advmod	_	start_char=2233|end_char=2236
+15	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	start_char=2237|end_char=2240
+16	.	.	PUNCT	_	_	2	punct	_	start_char=2240|end_char=2241
+
+# text = Так что соберись и работай, тряпка!
+# sent_id = 48
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	mark	_	start_char=2242|end_char=2245
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=2246|end_char=2249
+3	соберись	собериться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2250|end_char=2258
+4	и	и	CCONJ	_	_	5	cc	_	start_char=2259|end_char=2260
+5	работай	работать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2261|end_char=2268
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2268|end_char=2269
+7	тряпка	тряпка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	vocative	_	start_char=2270|end_char=2276
+8	!	!	PUNCT	_	_	3	punct	_	start_char=2276|end_char=2277
+
+# text = Себ свернул гладкую мордочку в подобие куриной гузки и закрыл глаза.
+# sent_id = 49
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Себ	Себ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2278|end_char=2281
+2	свернул	свернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2282|end_char=2289
+3	гладкую	гладкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=2290|end_char=2297
+4	мордочку	мордочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=2298|end_char=2306
+5	в	в	ADP	_	_	6	case	_	start_char=2307|end_char=2308
+6	подобие	подобие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	start_char=2309|end_char=2316
+7	куриной	куриный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=2317|end_char=2324
+8	гузки	гузка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=2325|end_char=2330
+9	и	и	CCONJ	_	_	10	cc	_	start_char=2331|end_char=2332
+10	закрыл	закрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2333|end_char=2339
+11	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=2340|end_char=2345
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2345|end_char=2346
+
+# text = – И что? – нетерпеливо спросил Дэнни.
+# sent_id = 50
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2347|end_char=2348
+2	И	и	CCONJ	_	_	3	cc	_	start_char=2349|end_char=2350
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2351|end_char=2354
+4	?	?	PUNCT	_	_	3	punct	_	start_char=2354|end_char=2355
+5	–	–	PUNCT	_	_	7	punct	_	start_char=2356|end_char=2357
+6	нетерпеливо	нетерпеливо	ADV	_	Degree=Pos	7	advmod	_	start_char=2358|end_char=2369
+7	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2370|end_char=2377
+8	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=2378|end_char=2383
+9	.	.	PUNCT	_	_	3	punct	_	start_char=2383|end_char=2384
+
+# text = – Работает, – невозмутимо ответил Джобс.
+# sent_id = 51
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2385|end_char=2386
+2	Работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2387|end_char=2395
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2395|end_char=2396
+4	–	–	PUNCT	_	_	6	punct	_	start_char=2397|end_char=2398
+5	невозмутимо	невозмутимо	ADV	_	Degree=Pos	6	advmod	_	start_char=2399|end_char=2410
+6	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2411|end_char=2418
+7	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	6	nsubj	_	start_char=2419|end_char=2424
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2424|end_char=2425
+
+# text = – Ишь ты, дело рук моих использовали против меня.
+# sent_id = 52
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	8	punct	_	start_char=2426|end_char=2427
+2	Ишь	ишь	INTJ	_	_	8	discourse	_	start_char=2428|end_char=2431
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=2432|end_char=2434
+4	,	,	PUNCT	_	_	3	punct	_	start_char=2434|end_char=2435
+5	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	start_char=2436|end_char=2440
+6	рук	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	start_char=2441|end_char=2444
+7	моих	мой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	start_char=2445|end_char=2449
+8	использовали	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2450|end_char=2462
+9	против	против	ADP	_	_	10	case	_	start_char=2463|end_char=2469
+10	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	obl	_	start_char=2470|end_char=2474
+11	.	.	PUNCT	_	_	8	punct	_	start_char=2474|end_char=2475
+
+# text = Как знакомо.
+# sent_id = 53
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	2	advmod	_	start_char=2476|end_char=2479
+2	знакомо	знакомый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2480|end_char=2487
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2487|end_char=2488
+
+# text = Кругом одни потребители.
+# sent_id = 54
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Кругом	кругом	ADV	_	Degree=Pos	0	root	_	start_char=2489|end_char=2495
+2	одни	один	DET	_	Case=Nom|Number=Plur|PronType=Ind	3	det	_	start_char=2496|end_char=2500
+3	потребители	потребитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	start_char=2501|end_char=2512
+4	.	.	PUNCT	_	_	1	punct	_	start_char=2512|end_char=2513
+
+# text = – И?... – спросила Осгуд.
+# sent_id = 55
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2514|end_char=2515
+2	И	и	CCONJ	_	_	0	root	_	start_char=2516|end_char=2517
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2517|end_char=2518
+4	...	...	PUNCT	_	_	6	punct	_	start_char=2518|end_char=2521
+5	–	–	PUNCT	_	_	6	punct	_	start_char=2522|end_char=2523
+6	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2524|end_char=2532
+7	Осгуд	Осгуд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=2533|end_char=2538
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2538|end_char=2539
+
+# text = – А как бы нам вернуться?
+# sent_id = 56
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2540|end_char=2541
+2	А	а	CCONJ	_	_	6	cc	_	start_char=2542|end_char=2543
+3	как	как	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=2544|end_char=2547
+4	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=2548|end_char=2550
+5	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	iobj	_	start_char=2551|end_char=2554
+6	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	start_char=2555|end_char=2564
+7	?	?	PUNCT	_	_	6	punct	_	start_char=2564|end_char=2565
+
+# text = – Сейчас этот парень займется проверкой и поддержкой системы, а потом просканирует техданные браслета.
+# sent_id = 57
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2567|end_char=2568
+2	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2569|end_char=2575
+3	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=2576|end_char=2580
+4	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2581|end_char=2587
+5	займется	заняться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2588|end_char=2596
+6	проверкой	проверка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	iobj	_	start_char=2597|end_char=2606
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2607|end_char=2608
+8	поддержкой	поддержка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	conj	_	start_char=2609|end_char=2619
+9	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=2620|end_char=2627
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2627|end_char=2628
+11	а	а	CCONJ	_	_	13	cc	_	start_char=2629|end_char=2630
+12	потом	потом	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=2631|end_char=2636
+13	просканирует	просканировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2637|end_char=2649
+14	техданные	техданный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	start_char=2650|end_char=2659
+15	браслета	браслет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	start_char=2660|end_char=2668
+16	.	.	PUNCT	_	_	5	punct	_	start_char=2668|end_char=2669
+
+# text = Ну или не сейчас, а через год-другой.
+# sent_id = 58
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Ну	ну	PART	_	_	4	discourse	_	start_char=2670|end_char=2672
+2	или	или	CCONJ	_	_	4	cc	_	start_char=2673|end_char=2676
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2677|end_char=2679
+4	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=2680|end_char=2686
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2686|end_char=2687
+6	а	а	CCONJ	_	_	8	cc	_	start_char=2688|end_char=2689
+7	через	через	ADP	_	_	8	case	_	start_char=2690|end_char=2695
+8	год-другой	год-другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	start_char=2696|end_char=2706
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2706|end_char=2707
+
+# text = Попробуем повторить.
+# sent_id = 59
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Попробуем	попробовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2708|end_char=2717
+2	повторить	повторить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2718|end_char=2727
+3	.	.	PUNCT	_	_	1	punct	_	start_char=2727|end_char=2728
+
+# text = – Послушайте, – Дэнни не знал, как можно охрипнуть после смерти, но его голос все-таки охрип.
+# sent_id = 60
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2729|end_char=2730
+2	Послушайте	послушать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2731|end_char=2741
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2741|end_char=2742
+4	–	–	PUNCT	_	_	7	punct	_	start_char=2743|end_char=2744
+5	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=2745|end_char=2750
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2751|end_char=2753
+7	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2754|end_char=2758
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2758|end_char=2759
+9	как	как	ADV	_	Degree=Pos|PronType=Rel	10	advmod	_	start_char=2760|end_char=2763
+10	можно	можно	VERB	_	_	7	ccomp	_	start_char=2764|end_char=2769
+11	охрипнуть	охрипнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=2770|end_char=2779
+12	после	после	ADP	_	_	13	case	_	start_char=2780|end_char=2785
+13	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=2786|end_char=2792
+14	,	,	PUNCT	_	_	19	punct	_	start_char=2792|end_char=2793
+15	но	но	CCONJ	_	_	19	cc	_	start_char=2794|end_char=2796
+16	его	его	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=2797|end_char=2800
+17	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=2801|end_char=2806
+18	все-таки	все-таки	PART	_	_	19	advmod	_	start_char=2807|end_char=2815
+19	охрип	охрить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=2816|end_char=2821
+20	.	.	PUNCT	_	_	2	punct	_	start_char=2821|end_char=2822
+
+# text = Он откашлялся.
+# sent_id = 61
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2823|end_char=2825
+2	откашлялся	откашляться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2826|end_char=2836
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2836|end_char=2837
+
+# text = - Но ведь нас тут миллиарды…
+# sent_id = 62
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	-	-	PUNCT	_	_	5	punct	_	start_char=2838|end_char=2839
+2	Но	но	CCONJ	_	_	5	cc	_	start_char=2840|end_char=2842
+3	ведь	ведь	PART	_	_	4	advmod	_	start_char=2843|end_char=2847
+4	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	orphan	_	start_char=2848|end_char=2851
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=2852|end_char=2855
+6	миллиарды	миллиард	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=2856|end_char=2865
+7	…	…	PUNCT	_	_	5	punct	_	start_char=2865|end_char=2866
+
+# text = – Триллионы, если точнее.
+# sent_id = 63
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2867|end_char=2868
+2	Триллионы	триллион	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2869|end_char=2878
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2878|end_char=2879
+4	если	если	SCONJ	_	_	5	mark	_	start_char=2880|end_char=2884
+5	точнее	точнее	ADJ	_	Degree=Cmp	2	advcl	_	start_char=2885|end_char=2891
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2891|end_char=2892
+
+# text = – Куда же мы все вернемся?
+# sent_id = 64
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2893|end_char=2894
+2	Куда	куда	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=2895|end_char=2899
+3	же	же	PART	_	_	2	advmod	_	start_char=2900|end_char=2902
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=2903|end_char=2905
+5	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	6	nsubj	_	start_char=2906|end_char=2909
+6	вернемся	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2910|end_char=2918
+7	?	?	PUNCT	_	_	6	punct	_	start_char=2918|end_char=2919
+
+# text = – Все?
+# sent_id = 65
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2920|end_char=2921
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=2922|end_char=2925
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2925|end_char=2926
+
+# text = Кто говорил про всех?
+# sent_id = 66
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	start_char=2927|end_char=2930
+2	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2931|end_char=2938
+3	про	про	ADP	_	_	4	case	_	start_char=2939|end_char=2942
+4	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	2	obl	_	start_char=2943|end_char=2947
+5	?	?	PUNCT	_	_	2	punct	_	start_char=2947|end_char=2948
+
+# text = Эксклюзивность, уникальность…
+# sent_id = 67
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Эксклюзивность	эксклюзивность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2949|end_char=2963
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2963|end_char=2964
+3	уникальность	уникальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	start_char=2965|end_char=2977
+4	…	…	PUNCT	_	_	1	punct	_	start_char=2977|end_char=2978
+
+# text = – Стоять!
+# sent_id = 68
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2979|end_char=2980
+2	Стоять	стоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2981|end_char=2987
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2987|end_char=2988
+
+# text = Ни с места! – воскликнула
+# sent_id = 69
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Ни	ни	CCONJ	_	Polarity=Neg	3	cc	_	start_char=2989|end_char=2991
+2	с	с	ADP	_	_	3	case	_	start_char=2992|end_char=2993
+3	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=2994|end_char=2999
+4	!	!	PUNCT	_	_	3	punct	_	start_char=2999|end_char=3000
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3001|end_char=3002
+6	воскликнула	воскликнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3003|end_char=3014
+
+# text = Осгуд, бросившись к панели и вцепившись пальцами в провода.
+# sent_id = 70
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Осгуд	осгуд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3015|end_char=3020
+2	,	,	PUNCT	_	_	3	punct	_	start_char=3020|end_char=3021
+3	бросившись	броситься	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	1	acl	_	start_char=3022|end_char=3032
+4	к	к	ADP	_	_	5	case	_	start_char=3033|end_char=3034
+5	панели	панель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	obl	_	start_char=3035|end_char=3041
+6	и	и	CCONJ	_	_	7	cc	_	start_char=3042|end_char=3043
+7	вцепившись	вцепиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	3	conj	_	start_char=3044|end_char=3054
+8	пальцами	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	iobj	_	start_char=3055|end_char=3063
+9	в	в	ADP	_	_	10	case	_	start_char=3064|end_char=3065
+10	провода	провод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=3066|end_char=3073
+11	.	.	PUNCT	_	_	1	punct	_	start_char=3073|end_char=3074
+
+# text = «Что за странность?
+# sent_id = 71
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	«	«	PUNCT	_	_	4	punct	_	start_char=3075|end_char=3076
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	start_char=3076|end_char=3079
+3	за	за	ADP	_	_	4	case	_	start_char=3080|end_char=3082
+4	странность	странность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3083|end_char=3093
+5	?	?	PUNCT	_	_	4	punct	_	start_char=3093|end_char=3094
+
+# text = Как могут после смерти потеть ладони?..» – подумала она с досадой.
+# sent_id = 72
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	2	advmod	_	start_char=3095|end_char=3098
+2	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3099|end_char=3104
+3	после	после	ADP	_	_	4	case	_	start_char=3105|end_char=3110
+4	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	start_char=3111|end_char=3117
+5	потеть	потеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=3118|end_char=3124
+6	ладони	ладонь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=3125|end_char=3131
+7	?..	?..	PUNCT	_	_	2	punct	_	start_char=3131|end_char=3134
+8	»	»	PUNCT	_	_	2	punct	_	start_char=3134|end_char=3135
+9	–	–	PUNCT	_	_	10	punct	_	start_char=3136|end_char=3137
+10	подумала	подумать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3138|end_char=3146
+11	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=3147|end_char=3150
+12	с	с	ADP	_	_	13	case	_	start_char=3151|end_char=3152
+13	досадой	досада	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	start_char=3153|end_char=3160
+14	.	.	PUNCT	_	_	2	punct	_	start_char=3160|end_char=3161
+
+# text = Себ с интересом приоткрыл один глаз.
+# sent_id = 73
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Себ	себ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=3162|end_char=3165
+2	с	с	ADP	_	_	3	case	_	start_char=3166|end_char=3167
+3	интересом	интерес	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	start_char=3168|end_char=3177
+4	приоткрыл	приоткрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3178|end_char=3187
+5	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=3188|end_char=3192
+6	глаз	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=3193|end_char=3197
+7	.	.	PUNCT	_	_	4	punct	_	start_char=3197|end_char=3198
+
+# text = Джобс хладнокровно взирал на Осгуд, даже не пошевелившись.
+# sent_id = 74
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=3199|end_char=3204
+2	хладнокровно	хладнокровно	ADV	_	Degree=Pos	3	advmod	_	start_char=3205|end_char=3217
+3	взирал	взирать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3218|end_char=3224
+4	на	на	ADP	_	_	5	case	_	start_char=3225|end_char=3227
+5	Осгуд	Осгуд	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	3	obl	_	start_char=3228|end_char=3233
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3233|end_char=3234
+7	даже	даже	PART	_	_	9	advmod	_	start_char=3235|end_char=3239
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3240|end_char=3242
+9	пошевелившись	пошевелиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	3	advcl	_	start_char=3243|end_char=3256
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3256|end_char=3257
+
+# text = – И что это ты собралась делать?
+# sent_id = 75
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3258|end_char=3259
+2	И	и	CCONJ	_	_	6	cc	_	start_char=3260|end_char=3261
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obj	_	start_char=3262|end_char=3265
+4	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	start_char=3266|end_char=3269
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=3270|end_char=3272
+6	собралась	собраться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3273|end_char=3282
+7	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=3283|end_char=3289
+8	?	?	PUNCT	_	_	6	punct	_	start_char=3289|end_char=3290
+
+# text = – Если вы хотите сбежать отсюда только в одиночку…
+# sent_id = 76
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3291|end_char=3292
+2	Если	если	SCONJ	_	_	4	mark	_	start_char=3293|end_char=3297
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=3298|end_char=3300
+4	хотите	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3301|end_char=3307
+5	сбежать	сбежать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=3308|end_char=3315
+6	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3316|end_char=3322
+7	только	только	PART	_	_	9	advmod	_	start_char=3323|end_char=3329
+8	в	в	ADP	_	_	9	case	_	start_char=3330|end_char=3331
+9	одиночку	одиночка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=3332|end_char=3340
+10	…	…	PUNCT	_	_	4	punct	_	start_char=3340|end_char=3341
+
+# text = Ну или хотя бы только с нами, я выдерну эти провода, даже не сомневайтесь!
+# sent_id = 77
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Ну	ну	PART	_	_	10	discourse	_	start_char=3342|end_char=3344
+2	или	или	CCONJ	_	_	7	cc	_	start_char=3345|end_char=3348
+3	хотя	хотя	PART	_	_	7	advmod	_	start_char=3349|end_char=3353
+4	бы	бы	PART	_	_	3	fixed	_	start_char=3354|end_char=3356
+5	только	только	PART	_	_	7	advmod	_	start_char=3357|end_char=3363
+6	с	с	ADP	_	_	7	case	_	start_char=3364|end_char=3365
+7	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	10	obl	_	start_char=3366|end_char=3370
+8	,	,	PUNCT	_	_	7	punct	_	start_char=3370|end_char=3371
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=3372|end_char=3373
+10	выдерну	выдернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=3374|end_char=3381
+11	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	12	det	_	start_char=3382|end_char=3385
+12	провода	провод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=3386|end_char=3393
+13	,	,	PUNCT	_	_	16	punct	_	start_char=3393|end_char=3394
+14	даже	даже	PART	_	_	16	advmod	_	start_char=3395|end_char=3399
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=3400|end_char=3402
+16	сомневайтесь	сомневаться	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=3403|end_char=3415
+17	!	!	PUNCT	_	_	10	punct	_	start_char=3415|end_char=3416
+
+# text = – Мне-то зачем отсюда бежать? – удивился Стив Джобс.
+# sent_id = 78
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3417|end_char=3418
+2	Мне-то	мне-то	CCONJ	_	_	5	cc	_	start_char=3419|end_char=3425
+3	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=3426|end_char=3431
+4	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3432|end_char=3438
+5	бежать	бежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=3439|end_char=3445
+6	?	?	PUNCT	_	_	5	punct	_	start_char=3445|end_char=3446
+7	–	–	PUNCT	_	_	8	punct	_	start_char=3447|end_char=3448
+8	удивился	удивиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=3449|end_char=3457
+9	Стив	Стив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=3458|end_char=3462
+10	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	start_char=3463|end_char=3468
+11	.	.	PUNCT	_	_	5	punct	_	start_char=3468|end_char=3469
+
+# text = – Но как? – растерялась Осгуд.
+# sent_id = 79
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3471|end_char=3472
+2	Но	но	CCONJ	_	_	3	cc	_	start_char=3473|end_char=3475
+3	как	как	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=3476|end_char=3479
+4	?	?	PUNCT	_	_	3	punct	_	start_char=3479|end_char=3480
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3481|end_char=3482
+6	растерялась	растеряться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=3483|end_char=3494
+7	Осгуд	Осгуд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=3495|end_char=3500
+8	.	.	PUNCT	_	_	3	punct	_	start_char=3500|end_char=3501
+
+# text = – Настоящий мир?
+# sent_id = 80
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3502|end_char=3503
+2	Настоящий	настоящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=3504|end_char=3513
+3	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3514|end_char=3517
+4	?	?	PUNCT	_	_	3	punct	_	start_char=3517|end_char=3518
+
+# text = Живые люди?..
+# sent_id = 81
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Живые	живой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	start_char=3519|end_char=3524
+2	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=3525|end_char=3529
+3	?..	?..	PUNCT	_	_	2	punct	_	start_char=3529|end_char=3532
+
+# text = – А здесь какие?
+# sent_id = 82
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3533|end_char=3534
+2	А	а	CCONJ	_	_	3	cc	_	start_char=3535|end_char=3536
+3	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=3537|end_char=3542
+4	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Int	0	root	_	start_char=3543|end_char=3548
+5	?	?	PUNCT	_	_	3	punct	_	start_char=3548|end_char=3549
+
+# text = – его голос прозвучал язвительно.
+# sent_id = 83
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3550|end_char=3551
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=3552|end_char=3555
+3	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=3556|end_char=3561
+4	прозвучал	прозвучать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3562|end_char=3571
+5	язвительно	язвительно	ADV	_	Degree=Pos	4	advmod	_	start_char=3572|end_char=3582
+6	.	.	PUNCT	_	_	4	punct	_	start_char=3582|end_char=3583
+
+# text = – И знаешь ли что, девочка?
+# sent_id = 84
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3584|end_char=3585
+2	И	и	CCONJ	_	_	3	cc	_	start_char=3586|end_char=3587
+3	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3588|end_char=3594
+4	ли	ли	PART	_	_	3	advmod	_	start_char=3595|end_char=3597
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	start_char=3598|end_char=3601
+6	,	,	PUNCT	_	_	7	punct	_	start_char=3601|end_char=3602
+7	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	vocative	_	start_char=3603|end_char=3610
+8	?	?	PUNCT	_	_	3	punct	_	start_char=3610|end_char=3611
+
+# text = Продвигать мой продукт триллионам покупателей куда перспективнее, чем миллиардам.
+# sent_id = 85
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Продвигать	продвигать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=3612|end_char=3622
+2	мой	мой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=3623|end_char=3626
+3	продукт	продукт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=3627|end_char=3634
+4	триллионам	триллион	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	iobj	_	start_char=3635|end_char=3645
+5	покупателей	покупатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	start_char=3646|end_char=3657
+6	куда	куда	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=3658|end_char=3662
+7	перспективнее	перспективный	ADJ	_	Degree=Cmp	1	conj	_	start_char=3663|end_char=3676
+8	,	,	PUNCT	_	_	10	punct	_	start_char=3676|end_char=3677
+9	чем	чем	SCONJ	_	_	10	case	_	start_char=3678|end_char=3681
+10	миллиардам	миллиард	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	obl	_	start_char=3682|end_char=3692
+11	.	.	PUNCT	_	_	1	punct	_	start_char=3692|end_char=3693
+
+# text = И тут нет ни малейшего риска отхватить онкологию или еще какую-то заоблачную хрень.
+# sent_id = 86
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	И	и	CCONJ	_	_	3	cc	_	start_char=3694|end_char=3695
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=3696|end_char=3699
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=3700|end_char=3703
+4	ни	ни	CCONJ	_	Polarity=Neg	5	cc	_	start_char=3704|end_char=3706
+5	малейшего	малейший	ADJ	_	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	6	amod	_	start_char=3707|end_char=3716
+6	риска	риск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3717|end_char=3722
+7	отхватить	отхватить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	acl	_	start_char=3723|end_char=3732
+8	онкологию	онкология	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=3733|end_char=3742
+9	или	или	CCONJ	_	_	13	cc	_	start_char=3743|end_char=3746
+10	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=3747|end_char=3750
+11	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	13	det	_	start_char=3751|end_char=3759
+12	заоблачную	заоблачный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=3760|end_char=3770
+13	хрень	хрень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	conj	_	start_char=3771|end_char=3776
+14	.	.	PUNCT	_	_	3	punct	_	start_char=3776|end_char=3777
+
+# text = – М-м-м…
+# sent_id = 87
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3779|end_char=3780
+2	М-м-м	м-м-м	INTJ	_	_	0	root	_	start_char=3781|end_char=3786
+3	…	…	PUNCT	_	_	2	punct	_	start_char=3786|end_char=3787
+
+# text = – Осгуд разжала пальцы.
+# sent_id = 88
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3788|end_char=3789
+2	Осгуд	Осгуд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Prs|Number=Sing	3	nsubj	_	start_char=3790|end_char=3795
+3	разжала	разжать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3796|end_char=3803
+4	пальцы	палец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	start_char=3804|end_char=3810
+5	.	.	PUNCT	_	_	3	punct	_	start_char=3810|end_char=3811
+
+# text = – Значит, браслет мы восстанавливаем только для резерва?
+# sent_id = 89
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3812|end_char=3813
+2	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=3814|end_char=3820
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3820|end_char=3821
+4	браслет	браслет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=3822|end_char=3829
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=3830|end_char=3832
+6	восстанавливаем	восстанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3833|end_char=3848
+7	только	только	PART	_	_	9	advmod	_	start_char=3849|end_char=3855
+8	для	для	ADP	_	_	9	case	_	start_char=3856|end_char=3859
+9	резерва	резерв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	start_char=3860|end_char=3867
+10	?	?	PUNCT	_	_	6	punct	_	start_char=3867|end_char=3868
+
+# text = Вдруг понадобится поддержка софта снаружи?
+# sent_id = 90
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Вдруг	вдруг	ADV	_	Degree=Pos	2	advmod	_	start_char=3869|end_char=3874
+2	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3875|end_char=3886
+3	поддержка	поддержка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=3887|end_char=3896
+4	софта	софт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=3897|end_char=3902
+5	снаружи	снаружи	ADV	_	Degree=Pos	3	advmod	_	start_char=3903|end_char=3910
+6	?	?	PUNCT	_	_	2	punct	_	start_char=3910|end_char=3911
+
+# text = – Неплохо бы, – сухо кивнул Джобс.
+# sent_id = 91
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3912|end_char=3913
+2	Неплохо	неплохой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3914|end_char=3921
+3	бы	бы	AUX	_	Mood=Cnd	2	aux	_	start_char=3922|end_char=3924
+4	,	,	PUNCT	_	_	7	punct	_	start_char=3924|end_char=3925
+5	–	–	PUNCT	_	_	7	punct	_	start_char=3926|end_char=3927
+6	сухо	сухо	ADV	_	Degree=Pos	7	advmod	_	start_char=3928|end_char=3932
+7	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3933|end_char=3939
+8	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	7	nsubj	_	start_char=3940|end_char=3945
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3945|end_char=3946
+
+# text = – Его нужно положить в Черный архив, – пробормотала Осгуд.
+# sent_id = 92
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3948|end_char=3949
+2	Его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=3950|end_char=3953
+3	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3954|end_char=3959
+4	положить	положить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=3960|end_char=3968
+5	в	в	ADP	_	_	7	case	_	start_char=3969|end_char=3970
+6	Черный	черный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=3971|end_char=3977
+7	архив	архив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=3978|end_char=3983
+8	,	,	PUNCT	_	_	10	punct	_	start_char=3983|end_char=3984
+9	–	–	PUNCT	_	_	10	punct	_	start_char=3985|end_char=3986
+10	пробормотала	пробормотать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3987|end_char=3999
+11	Осгуд	Осгуд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=4000|end_char=4005
+12	.	.	PUNCT	_	_	3	punct	_	start_char=4005|end_char=4006
+
+# text = – Схемы положить!
+# sent_id = 93
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4007|end_char=4008
+2	Схемы	схема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	start_char=4009|end_char=4014
+3	положить	положить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=4015|end_char=4023
+4	!	!	PUNCT	_	_	3	punct	_	start_char=4023|end_char=4024
+
+# text = Вдруг понадобится еще?
+# sent_id = 94
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Вдруг	вдруг	ADV	_	Degree=Pos	2	advmod	_	start_char=4025|end_char=4030
+2	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4031|end_char=4042
+3	еще	еще	ADV	_	Degree=Pos	2	advmod	_	start_char=4043|end_char=4046
+4	?	?	PUNCT	_	_	2	punct	_	start_char=4046|end_char=4047
+
+# text = ЮНИТ.
+# sent_id = 95
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	ЮНИТ	юнит	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4048|end_char=4052
+2	.	.	PUNCT	_	_	1	punct	_	start_char=4052|end_char=4053
+
+# text = Тут должен быть свой ЮНИТ!
+# sent_id = 96
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Тут	тут	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=4054|end_char=4057
+2	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=4058|end_char=4064
+3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	cop	_	start_char=4065|end_char=4069
+4	свой	свой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=4070|end_char=4074
+5	ЮНИТ	юнит	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4075|end_char=4079
+6	!	!	PUNCT	_	_	2	punct	_	start_char=4079|end_char=4080
+
+# text = – Уж юнитовцев-то тут пруд пруди, – снова кивнул Джобс, глянув на Себа.
+# sent_id = 97
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4081|end_char=4082
+2	Уж	уж	PART	_	_	3	advmod	_	start_char=4083|end_char=4085
+3	юнитовцев	юнитовец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nsubj	_	start_char=4086|end_char=4095
+4	-	-	PUNCT	_	_	5	punct	_	start_char=4095|end_char=4096
+5	то	то	PART	_	_	3	advmod	_	start_char=4096|end_char=4098
+6	тут	тут	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=4099|end_char=4102
+7	пруд	пруд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=4103|end_char=4107
+8	пруди	прудь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	start_char=4108|end_char=4113
+9	,	,	PUNCT	_	_	12	punct	_	start_char=4113|end_char=4114
+10	–	–	PUNCT	_	_	12	punct	_	start_char=4115|end_char=4116
+11	снова	снова	ADV	_	Degree=Pos	12	advmod	_	start_char=4117|end_char=4122
+12	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=4123|end_char=4129
+13	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	12	nsubj	_	start_char=4130|end_char=4135
+14	,	,	PUNCT	_	_	15	punct	_	start_char=4135|end_char=4136
+15	глянув	глянуть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	12	advcl	_	start_char=4137|end_char=4143
+16	на	на	ADP	_	_	17	case	_	start_char=4144|end_char=4146
+17	Себа	Себа	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	15	obl	_	start_char=4147|end_char=4151
+18	.	.	PUNCT	_	_	6	punct	_	start_char=4151|end_char=4152
+
+# text = Тот торопливо кивнул в ответ, подтверждая.
+# sent_id = 98
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4153|end_char=4156
+2	торопливо	торопливо	ADV	_	Degree=Pos	3	advmod	_	start_char=4157|end_char=4166
+3	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4167|end_char=4173
+4	в	в	ADP	_	_	5	case	_	start_char=4174|end_char=4175
+5	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=4176|end_char=4181
+6	,	,	PUNCT	_	_	7	punct	_	start_char=4181|end_char=4182
+7	подтверждая	подтверждать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=4183|end_char=4194
+8	.	.	PUNCT	_	_	3	punct	_	start_char=4194|end_char=4195
+
+# text = – Но сама возможность… – вздохнул Дэнни.
+# sent_id = 99
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4196|end_char=4197
+2	Но	но	CCONJ	_	_	4	cc	_	start_char=4198|end_char=4200
+3	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	4	det	_	start_char=4201|end_char=4205
+4	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4206|end_char=4217
+5	…	…	PUNCT	_	_	7	punct	_	start_char=4217|end_char=4218
+6	–	–	PUNCT	_	_	7	punct	_	start_char=4219|end_char=4220
+7	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4221|end_char=4229
+8	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=4230|end_char=4235
+9	.	.	PUNCT	_	_	4	punct	_	start_char=4235|end_char=4236
+
+# text = – Это же просто ужас.
+# sent_id = 100
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4237|end_char=4238
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=4239|end_char=4242
+3	же	же	PART	_	_	2	advmod	_	start_char=4243|end_char=4245
+4	просто	просто	PART	_	_	5	advmod	_	start_char=4246|end_char=4252
+5	ужас	ужас	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4253|end_char=4257
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4257|end_char=4258
+
+# text = Как можно избавиться от желания вернуться к тем, кто нас любит?
+# sent_id = 101
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	2	advmod	_	start_char=4259|end_char=4262
+2	можно	можно	VERB	_	_	0	root	_	start_char=4263|end_char=4268
+3	избавиться	избавиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	csubj	_	start_char=4269|end_char=4279
+4	от	от	ADP	_	_	5	case	_	start_char=4280|end_char=4282
+5	желания	желание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	start_char=4283|end_char=4290
+6	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	acl	_	start_char=4291|end_char=4300
+7	к	к	ADP	_	_	8	case	_	start_char=4301|end_char=4302
+8	тем	тот	DET	_	Case=Dat|Number=Plur|PronType=Dem	6	obl	_	start_char=4303|end_char=4306
+9	,	,	PUNCT	_	_	12	punct	_	start_char=4306|end_char=4307
+10	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	start_char=4308|end_char=4311
+11	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	start_char=4312|end_char=4315
+12	любит	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=4316|end_char=4321
+13	?	?	PUNCT	_	_	2	punct	_	start_char=4321|end_char=4322
+
+# text = – Надо только нажать на кнопку… – начал Себ.
+# sent_id = 102
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4323|end_char=4324
+2	Надо	надо	VERB	_	_	0	root	_	start_char=4325|end_char=4329
+3	только	только	PART	_	_	4	advmod	_	start_char=4330|end_char=4336
+4	нажать	нажать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=4337|end_char=4343
+5	на	на	ADP	_	_	6	case	_	start_char=4344|end_char=4346
+6	кнопку	кнопка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=4347|end_char=4353
+7	…	…	PUNCT	_	_	9	punct	_	start_char=4353|end_char=4354
+8	–	–	PUNCT	_	_	9	punct	_	start_char=4355|end_char=4356
+9	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4357|end_char=4362
+10	Себ	себ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=4363|end_char=4366
+11	.	.	PUNCT	_	_	2	punct	_	start_char=4366|end_char=4367
+
+# text = – Заткнись, – велел Джобс.
+# sent_id = 103
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4368|end_char=4369
+2	Заткнись	заткнуться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4370|end_char=4378
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4378|end_char=4379
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4380|end_char=4381
+5	велел	велеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4382|end_char=4387
+6	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	5	nsubj	_	start_char=4388|end_char=4393
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4393|end_char=4394
+
+# text = – Ну так как?
+# sent_id = 104
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4395|end_char=4396
+2	Ну	ну	PART	_	_	4	discourse	_	start_char=4397|end_char=4399
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4400|end_char=4403
+4	как	как	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=4404|end_char=4407
+5	?	?	PUNCT	_	_	4	punct	_	start_char=4407|end_char=4408
+
+# text = Продолжаем искать?
+# sent_id = 105
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Продолжаем	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4409|end_char=4419
+2	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=4420|end_char=4426
+3	?	?	PUNCT	_	_	1	punct	_	start_char=4426|end_char=4427
+
+# text = Технологии-то, кстати, нечеловеческие – лакомый кусочек.
+# sent_id = 106
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	start_char=4428|end_char=4438
+2	-	-	PUNCT	_	_	3	punct	_	start_char=4438|end_char=4439
+3	то	то	PART	_	_	1	advmod	_	start_char=4439|end_char=4441
+4	,	,	PUNCT	_	_	7	punct	_	start_char=4441|end_char=4442
+5	кстати	кстати	ADV	_	Degree=Pos	7	parataxis	_	start_char=4443|end_char=4449
+6	,	,	PUNCT	_	_	5	punct	_	start_char=4449|end_char=4450
+7	нечеловеческие	нечеловеческий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	start_char=4451|end_char=4465
+8	–	–	PUNCT	_	_	10	punct	_	start_char=4466|end_char=4467
+9	лакомый	лакомый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=4468|end_char=4475
+10	кусочек	кусочек	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4476|end_char=4483
+11	.	.	PUNCT	_	_	10	punct	_	start_char=4483|end_char=4484
+
+# text = – Продолжаем, – вздохнул Дэнни.
+# sent_id = 107
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4485|end_char=4486
+2	Продолжаем	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4487|end_char=4497
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4497|end_char=4498
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4499|end_char=4500
+5	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4501|end_char=4509
+6	Дэнни	Дэнни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=4510|end_char=4515
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4515|end_char=4516
+
+# text = – А у нас тут долг – живые люди.
+# sent_id = 108
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4517|end_char=4518
+2	А	а	CCONJ	_	_	4	cc	_	start_char=4519|end_char=4520
+3	у	у	ADP	_	_	4	case	_	start_char=4521|end_char=4522
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=4523|end_char=4526
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4527|end_char=4530
+6	долг	долг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4531|end_char=4535
+7	–	–	PUNCT	_	_	9	punct	_	start_char=4536|end_char=4537
+8	живые	живой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	start_char=4538|end_char=4543
+9	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	appos	_	start_char=4544|end_char=4548
+10	.	.	PUNCT	_	_	4	punct	_	start_char=4548|end_char=4549
+
+# text = Пусть живые только здесь, но живые.
+# sent_id = 109
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Пусть	пусть	PART	_	_	2	advmod	_	start_char=4550|end_char=4555
+2	живые	живой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=4556|end_char=4561
+3	только	только	PART	_	_	4	advmod	_	start_char=4562|end_char=4568
+4	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=4569|end_char=4574
+5	,	,	PUNCT	_	_	7	punct	_	start_char=4574|end_char=4575
+6	но	но	CCONJ	_	_	7	cc	_	start_char=4576|end_char=4578
+7	живые	живой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	conj	_	start_char=4579|end_char=4584
+8	.	.	PUNCT	_	_	2	punct	_	start_char=4584|end_char=4585
+
+# text = Сделаем это место хорошим!
+# sent_id = 110
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Сделаем	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4586|end_char=4593
+2	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=4594|end_char=4597
+3	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	start_char=4598|end_char=4603
+4	хорошим	хороший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=4604|end_char=4611
+5	!	!	PUNCT	_	_	1	punct	_	start_char=4611|end_char=4612
+
+# text = И будем ждать тех, кто любит нас, чтобы и у них тоже было будущее.
+# sent_id = 111
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	И	и	CCONJ	_	_	3	cc	_	start_char=4613|end_char=4614
+2	будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	aux	_	start_char=4615|end_char=4620
+3	ждать	ждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=4621|end_char=4626
+4	тех	тот	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	3	obj	_	start_char=4627|end_char=4630
+5	,	,	PUNCT	_	_	7	punct	_	start_char=4630|end_char=4631
+6	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	start_char=4632|end_char=4635
+7	любит	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=4636|end_char=4641
+8	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	obj	_	start_char=4642|end_char=4645
+9	,	,	PUNCT	_	_	15	punct	_	start_char=4645|end_char=4646
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	mark	_	start_char=4647|end_char=4652
+11	и	и	PART	_	_	13	advmod	_	start_char=4653|end_char=4654
+12	у	у	ADP	_	_	13	case	_	start_char=4655|end_char=4656
+13	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	15	obl	_	start_char=4657|end_char=4660
+14	тоже	тоже	PART	_	_	15	advmod	_	start_char=4661|end_char=4665
+15	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=4666|end_char=4670
+16	будущее	будущее	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	start_char=4671|end_char=4678
+17	.	.	PUNCT	_	_	3	punct	_	start_char=4678|end_char=4679
+
+# text = – О'кей, о'кей, – сухо согласился Джобс.
+# sent_id = 112
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4680|end_char=4681
+2	О'кей	о'кей	INTJ	_	_	0	root	_	start_char=4682|end_char=4687
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4687|end_char=4688
+4	о'кей	о'кей	INTJ	_	_	2	parataxis	_	start_char=4689|end_char=4694
+5	,	,	PUNCT	_	_	4	punct	_	start_char=4694|end_char=4695
+6	–	–	PUNCT	_	_	8	punct	_	start_char=4696|end_char=4697
+7	сухо	сухо	ADV	_	Degree=Pos	8	advmod	_	start_char=4698|end_char=4702
+8	согласился	согласиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=4703|end_char=4713
+9	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	nsubj	_	start_char=4714|end_char=4719
+10	.	.	PUNCT	_	_	2	punct	_	start_char=4719|end_char=4720
+
+# text = – Правда, на твоем месте я бы не слишком раскатывал губу.
+# sent_id = 113
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	11	punct	_	start_char=4721|end_char=4722
+2	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	parataxis	_	start_char=4723|end_char=4729
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4729|end_char=4730
+4	на	на	ADP	_	_	6	case	_	start_char=4731|end_char=4733
+5	твоем	твой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4734|end_char=4739
+6	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	start_char=4740|end_char=4745
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=4746|end_char=4747
+8	бы	бы	AUX	_	Mood=Cnd	11	aux	_	start_char=4748|end_char=4750
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=4751|end_char=4753
+10	слишком	слишком	ADV	_	Degree=Pos	11	advmod	_	start_char=4754|end_char=4761
+11	раскатывал	раскатывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4762|end_char=4772
+12	губу	губа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=4773|end_char=4777
+13	.	.	PUNCT	_	_	11	punct	_	start_char=4777|end_char=4778
+
+# text = – Это вы о чем?
+# sent_id = 114
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4779|end_char=4780
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=4781|end_char=4784
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=4785|end_char=4787
+4	о	о	ADP	_	_	5	case	_	start_char=4788|end_char=4789
+5	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=4790|end_char=4793
+6	?	?	PUNCT	_	_	5	punct	_	start_char=4793|end_char=4794
+
+# text = Джобс пожал плечами.
+# sent_id = 115
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Джобс	Джобс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	_	start_char=4795|end_char=4800
+2	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4801|end_char=4806
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	iobj	_	start_char=4807|end_char=4814
+4	.	.	PUNCT	_	_	2	punct	_	start_char=4814|end_char=4815
+
+# text = – Глюки, баги, сбои.
+# sent_id = 116
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4816|end_char=4817
+2	Глюки	глюко	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=4818|end_char=4823
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4823|end_char=4824
+4	баги	баг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	start_char=4825|end_char=4829
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4829|end_char=4830
+6	сбои	сбоя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	start_char=4831|end_char=4835
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4835|end_char=4836
+
+# text = Юнитовцы то появляются, то пропадают, целые кластеры, связанные со всеми, кто связан с Доктором.
+# sent_id = 117
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Юнитовцы	юнитовца	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=4837|end_char=4845
+2	то	то	PART	_	_	1	advmod	_	start_char=4846|end_char=4848
+3	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4849|end_char=4859
+4	,	,	PUNCT	_	_	6	punct	_	start_char=4859|end_char=4860
+5	то	то	CCONJ	_	_	6	cc	_	start_char=4861|end_char=4863
+6	пропадают	пропадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4864|end_char=4873
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4873|end_char=4874
+8	целые	целый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	start_char=4875|end_char=4880
+9	кластеры	кластер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	start_char=4881|end_char=4889
+10	,	,	PUNCT	_	_	11	punct	_	start_char=4889|end_char=4890
+11	связанные	связать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	start_char=4891|end_char=4900
+12	со	со	ADP	_	_	13	case	_	start_char=4901|end_char=4903
+13	всеми	весь	DET	_	Case=Ins|Number=Plur|PronType=Tot	11	obl	_	start_char=4904|end_char=4909
+14	,	,	PUNCT	_	_	16	punct	_	start_char=4909|end_char=4910
+15	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	16	nsubj:pass	_	start_char=4911|end_char=4914
+16	связан	связать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	acl:relcl	_	start_char=4915|end_char=4921
+17	с	с	ADP	_	_	18	case	_	start_char=4922|end_char=4923
+18	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	start_char=4924|end_char=4932
+19	.	.	PUNCT	_	_	3	punct	_	start_char=4932|end_char=4933
+
+# text = Так что иди, парень, учи детей математике, пока можешь.
+# sent_id = 118
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	mark	_	start_char=4934|end_char=4937
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=4938|end_char=4941
+3	иди	идти	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4942|end_char=4945
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4945|end_char=4946
+5	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=4947|end_char=4953
+6	,	,	PUNCT	_	_	7	punct	_	start_char=4953|end_char=4954
+7	учи	учить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4955|end_char=4958
+8	детей	ребенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=4959|end_char=4964
+9	математике	математика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	iobj	_	start_char=4965|end_char=4975
+10	,	,	PUNCT	_	_	12	punct	_	start_char=4975|end_char=4976
+11	пока	пока	SCONJ	_	_	12	mark	_	start_char=4977|end_char=4981
+12	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=4982|end_char=4988
+13	.	.	PUNCT	_	_	3	punct	_	start_char=4988|end_char=4989
+
+# text = Потому что черт его знает, надолго ли ты тут, или будешь носиться по «командировкам», да заглядывать сюда только на Рождество.
+# sent_id = 119
+# metadata = Название: Эксклюзивный софт, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546131a800000a7f1fba13d3/1/Eksklyuzivnyj-soft
+1	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	5	mark	_	start_char=4990|end_char=4996
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=4997|end_char=5000
+3	черт	черт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5001|end_char=5005
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=5006|end_char=5009
+5	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5010|end_char=5015
+6	,	,	PUNCT	_	_	10	punct	_	start_char=5015|end_char=5016
+7	надолго	надолго	ADV	_	Degree=Pos	10	advmod	_	start_char=5017|end_char=5024
+8	ли	ли	PART	_	_	7	advmod	_	start_char=5025|end_char=5027
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=5028|end_char=5030
+10	тут	тут	ADV	_	Degree=Pos|PronType=Dem	5	parataxis	_	start_char=5031|end_char=5034
+11	,	,	PUNCT	_	_	14	punct	_	start_char=5034|end_char=5035
+12	или	или	CCONJ	_	_	14	cc	_	start_char=5036|end_char=5039
+13	будешь	быть	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	14	aux	_	start_char=5040|end_char=5046
+14	носиться	носиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	conj	_	start_char=5047|end_char=5055
+15	по	по	ADP	_	_	17	case	_	start_char=5056|end_char=5058
+16	«	«	PUNCT	_	_	17	punct	_	start_char=5059|end_char=5060
+17	командировкам	командировка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	14	obl	_	start_char=5060|end_char=5073
+18	»	»	PUNCT	_	_	17	punct	_	start_char=5073|end_char=5074
+19	,	,	PUNCT	_	_	21	punct	_	start_char=5074|end_char=5075
+20	да	да	CCONJ	_	_	21	cc	_	start_char=5076|end_char=5078
+21	заглядывать	заглядывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	conj	_	start_char=5079|end_char=5090
+22	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=5091|end_char=5095
+23	только	только	PART	_	_	25	advmod	_	start_char=5096|end_char=5102
+24	на	на	ADP	_	_	25	case	_	start_char=5103|end_char=5105
+25	Рождество	рождество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	start_char=5106|end_char=5115
+26	.	.	PUNCT	_	_	5	punct	_	start_char=5115|end_char=5116
+

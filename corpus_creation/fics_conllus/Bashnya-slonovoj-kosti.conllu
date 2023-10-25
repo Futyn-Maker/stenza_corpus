@@ -1,0 +1,817 @@
+# text = Она привлекла его тем, что выделялась среди остальных.
+# sent_id = 0
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	привлекла	привлечь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4|end_char=13
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=14|end_char=17
+4	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	2	iobj	_	start_char=18|end_char=21
+5	,	,	PUNCT	_	_	7	punct	_	start_char=21|end_char=22
+6	что	что	SCONJ	_	_	7	mark	_	start_char=23|end_char=26
+7	выделялась	выделяться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	_	start_char=27|end_char=37
+8	среди	среди	ADP	_	_	9	case	_	start_char=38|end_char=43
+9	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	obl	_	start_char=44|end_char=53
+10	.	.	PUNCT	_	_	2	punct	_	start_char=53|end_char=54
+
+# text = Из всего ряда невыразительных рациональных шкафов, исправно маскирующихся под обычные предметы обстановки.
+# sent_id = 1
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Из	из	ADP	_	_	3	case	_	start_char=55|end_char=57
+2	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	3	det	_	start_char=58|end_char=63
+3	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=64|end_char=68
+4	невыразительных	невыразительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=69|end_char=84
+5	рациональных	рациональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=85|end_char=97
+6	шкафов	шкаф	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	start_char=98|end_char=104
+7	,	,	PUNCT	_	_	9	punct	_	start_char=104|end_char=105
+8	исправно	исправно	ADV	_	Degree=Pos	9	advmod	_	start_char=106|end_char=114
+9	маскирующихся	маскироваться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	start_char=115|end_char=128
+10	под	под	ADP	_	_	12	case	_	start_char=129|end_char=132
+11	обычные	обычный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	start_char=133|end_char=140
+12	предметы	предмет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obl	_	start_char=141|end_char=149
+13	обстановки	обстановка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=150|end_char=160
+14	.	.	PUNCT	_	_	3	punct	_	start_char=160|end_char=161
+
+# text = Это должно было насторожить его, но это его очаровало.
+# sent_id = 2
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=162|end_char=165
+2	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=166|end_char=172
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=173|end_char=177
+4	насторожить	насторожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=178|end_char=189
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=190|end_char=193
+6	,	,	PUNCT	_	_	10	punct	_	start_char=193|end_char=194
+7	но	но	CCONJ	_	_	10	cc	_	start_char=195|end_char=197
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=198|end_char=201
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=202|end_char=205
+10	очаровало	очаровать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=206|end_char=215
+11	.	.	PUNCT	_	_	2	punct	_	start_char=215|end_char=216
+
+# text = Она была похожа на застывшую колонну света, сияющую глыбу льда в лучах чужого солнца, башню слоновой кости.
+# sent_id = 3
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=217|end_char=220
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=221|end_char=225
+3	похожа	похожий	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=226|end_char=232
+4	на	на	ADP	_	_	6	case	_	start_char=233|end_char=235
+5	застывшую	застыть	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	start_char=236|end_char=245
+6	колонну	колонна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=246|end_char=253
+7	света	свет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=254|end_char=259
+8	,	,	PUNCT	_	_	9	punct	_	start_char=259|end_char=260
+9	сияющую	сиять	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	start_char=261|end_char=268
+10	глыбу	глыб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=269|end_char=274
+11	льда	лед	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=275|end_char=279
+12	в	в	ADP	_	_	13	case	_	start_char=280|end_char=281
+13	лучах	луча	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	start_char=282|end_char=287
+14	чужого	чужой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=288|end_char=294
+15	солнца	солнце	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	start_char=295|end_char=301
+16	,	,	PUNCT	_	_	17	punct	_	start_char=301|end_char=302
+17	башню	башня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	conj	_	start_char=303|end_char=308
+18	слоновой	слоновой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=309|end_char=317
+19	кости	кость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=318|end_char=323
+20	.	.	PUNCT	_	_	3	punct	_	start_char=323|end_char=324
+
+# text = В ее последнем пункте пребывания это было отличной маскировкой, но здесь, в музее, она единственная выглядела как произведение искусства.
+# sent_id = 4
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	В	в	ADP	_	_	4	case	_	start_char=325|end_char=326
+2	ее	ее	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=327|end_char=329
+3	последнем	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=330|end_char=339
+4	пункте	пункт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	start_char=340|end_char=346
+5	пребывания	пребывание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	start_char=347|end_char=357
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=358|end_char=361
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=362|end_char=366
+8	отличной	отличный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=367|end_char=375
+9	маскировкой	маскировка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=376|end_char=387
+10	,	,	PUNCT	_	_	19	punct	_	start_char=387|end_char=388
+11	но	но	CCONJ	_	_	19	cc	_	start_char=389|end_char=391
+12	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=392|end_char=397
+13	,	,	PUNCT	_	_	15	punct	_	start_char=397|end_char=398
+14	в	в	ADP	_	_	15	case	_	start_char=399|end_char=400
+15	музее	музей	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	conj	_	start_char=401|end_char=406
+16	,	,	PUNCT	_	_	15	punct	_	start_char=406|end_char=407
+17	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=408|end_char=411
+18	единственная	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=412|end_char=424
+19	выглядела	выглядеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=425|end_char=434
+20	как	как	SCONJ	_	_	21	case	_	start_char=435|end_char=438
+21	произведение	произведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	obl	_	start_char=439|end_char=451
+22	искусства	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	start_char=452|end_char=461
+23	.	.	PUNCT	_	_	9	punct	_	start_char=461|end_char=462
+
+# text = И незапертая…
+# sent_id = 5
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	И	и	CCONJ	_	_	2	cc	_	start_char=463|end_char=464
+2	незапертая	незапертый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=465|end_char=475
+3	…	…	PUNCT	_	_	2	punct	_	start_char=475|end_char=476
+
+# text = Это тоже должно было его насторожить.
+# sent_id = 6
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=477|end_char=480
+2	тоже	тоже	PART	_	_	3	advmod	_	start_char=481|end_char=485
+3	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=486|end_char=492
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=493|end_char=497
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=498|end_char=501
+6	насторожить	насторожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=502|end_char=513
+7	.	.	PUNCT	_	_	3	punct	_	start_char=513|end_char=514
+
+# text = Но очаровало еще больше таинственностью, доступностью запретного плода.
+# sent_id = 7
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=515|end_char=517
+2	очаровало	очаровать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=518|end_char=527
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=528|end_char=531
+4	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	2	advmod	_	start_char=532|end_char=538
+5	таинственностью	таинственность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	start_char=539|end_char=554
+6	,	,	PUNCT	_	_	7	punct	_	start_char=554|end_char=555
+7	доступностью	доступность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	conj	_	start_char=556|end_char=568
+8	запретного	запретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=569|end_char=579
+9	плода	плод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=580|end_char=585
+10	.	.	PUNCT	_	_	2	punct	_	start_char=585|end_char=586
+
+# text = Его тянуло к ней, будто пчелу к цветку.
+# sent_id = 8
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=587|end_char=590
+2	тянуло	тянуть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=591|end_char=597
+3	к	к	ADP	_	_	4	case	_	start_char=598|end_char=599
+4	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=600|end_char=603
+5	,	,	PUNCT	_	_	7	punct	_	start_char=603|end_char=604
+6	будто	будто	SCONJ	_	_	7	case	_	start_char=605|end_char=610
+7	пчелу	пчела	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=611|end_char=616
+8	к	к	ADP	_	_	9	case	_	start_char=617|end_char=618
+9	цветку	цветок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	start_char=619|end_char=625
+10	.	.	PUNCT	_	_	2	punct	_	start_char=625|end_char=626
+
+# text = Доктор крадучись вошел в ТАРДИС, забывшую сменить свой последний облик, осторожно плотно прикрыл дверь, и его охватило ни с чем не сравнимое умиротворение.
+# sent_id = 9
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=627|end_char=633
+2	крадучись	крадучись	ADV	_	Degree=Pos	3	advmod	_	start_char=634|end_char=643
+3	вошел	войти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=644|end_char=649
+4	в	в	ADP	_	_	5	case	_	start_char=650|end_char=651
+5	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	3	obl	_	start_char=652|end_char=658
+6	,	,	PUNCT	_	_	7	punct	_	start_char=658|end_char=659
+7	забывшую	забыть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	start_char=660|end_char=668
+8	сменить	сменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=669|end_char=676
+9	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	start_char=677|end_char=681
+10	последний	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=682|end_char=691
+11	облик	облик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=692|end_char=697
+12	,	,	PUNCT	_	_	15	punct	_	start_char=697|end_char=698
+13	осторожно	осторожно	ADV	_	Degree=Pos	15	advmod	_	start_char=699|end_char=708
+14	плотно	плотно	ADV	_	Degree=Pos	15	advmod	_	start_char=709|end_char=715
+15	прикрыл	прикрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=716|end_char=723
+16	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=724|end_char=729
+17	,	,	PUNCT	_	_	20	punct	_	start_char=729|end_char=730
+18	и	и	CCONJ	_	_	20	cc	_	start_char=731|end_char=732
+19	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	start_char=733|end_char=736
+20	охватило	охватить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=737|end_char=745
+21	ни	ни	PART	_	Polarity=Neg	23	advmod	_	start_char=746|end_char=748
+22	с	с	ADP	_	_	23	case	_	start_char=749|end_char=750
+23	чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Neg	20	obl	_	start_char=751|end_char=754
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=755|end_char=757
+25	сравнимое	сравнимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	start_char=758|end_char=767
+26	умиротворение	умиротворение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	start_char=768|end_char=781
+27	.	.	PUNCT	_	_	3	punct	_	start_char=781|end_char=782
+
+# text = Сороковая модель.
+# sent_id = 10
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Сороковая	сороковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=783|end_char=792
+2	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=793|end_char=799
+3	.	.	PUNCT	_	_	2	punct	_	start_char=799|end_char=800
+
+# text = Старушка.
+# sent_id = 11
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Старушка	старушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=801|end_char=809
+2	.	.	PUNCT	_	_	1	punct	_	start_char=809|end_char=810
+
+# text = Может быть, она видела эпоху, когда повелители времени были моложе, смелее, безрассуднее.
+# sent_id = 12
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=811|end_char=816
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=817|end_char=821
+3	,	,	PUNCT	_	_	1	punct	_	start_char=821|end_char=822
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=823|end_char=826
+5	видела	видеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=827|end_char=833
+6	эпоху	эпоха	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=834|end_char=839
+7	,	,	PUNCT	_	_	12	punct	_	start_char=839|end_char=840
+8	когда	когда	SCONJ	_	_	12	mark	_	start_char=841|end_char=846
+9	повелители	повелитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	start_char=847|end_char=857
+10	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	start_char=858|end_char=865
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=866|end_char=870
+12	моложе	молодой	ADJ	_	Degree=Cmp	5	advcl	_	start_char=871|end_char=877
+13	,	,	PUNCT	_	_	14	punct	_	start_char=877|end_char=878
+14	смелее	смелый	ADJ	_	Degree=Cmp	12	conj	_	start_char=879|end_char=885
+15	,	,	PUNCT	_	_	16	punct	_	start_char=885|end_char=886
+16	безрассуднее	безрассудный	ADJ	_	Degree=Cmp	12	conj	_	start_char=887|end_char=899
+17	.	.	PUNCT	_	_	5	punct	_	start_char=899|end_char=900
+
+# text = Разве его самого не называли столько раз атавистичным?
+# sent_id = 13
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Разве	разве	PART	_	_	5	advmod	_	start_char=901|end_char=906
+2	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=907|end_char=910
+3	самого	самый	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Emp	2	det	_	start_char=911|end_char=917
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=918|end_char=920
+5	называли	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=921|end_char=929
+6	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=930|end_char=937
+7	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	start_char=938|end_char=941
+8	атавистичным	атавистичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	xcomp	_	start_char=942|end_char=954
+9	?	?	PUNCT	_	_	5	punct	_	start_char=954|end_char=955
+
+# text = «Задержавшимся в развитии», не находящим места среди современной сонной, солидной, холодной цивилизации, каждый шаг которой выверен, чувства которой превратились в ритуалы.
+# sent_id = 14
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	«	«	PUNCT	_	_	2	punct	_	start_char=956|end_char=957
+2	Задержавшимся	задержаться	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	start_char=957|end_char=970
+3	в	в	ADP	_	_	4	case	_	start_char=971|end_char=972
+4	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	start_char=973|end_char=981
+5	»	»	PUNCT	_	_	2	punct	_	start_char=981|end_char=982
+6	,	,	PUNCT	_	_	8	punct	_	start_char=982|end_char=983
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=984|end_char=986
+8	находящим	находить	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	conj	_	start_char=987|end_char=996
+9	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obj	_	start_char=997|end_char=1002
+10	среди	среди	ADP	_	_	17	case	_	start_char=1003|end_char=1008
+11	современной	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1009|end_char=1020
+12	сонной	сонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1021|end_char=1027
+13	,	,	PUNCT	_	_	14	punct	_	start_char=1027|end_char=1028
+14	солидной	солидный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	start_char=1029|end_char=1037
+15	,	,	PUNCT	_	_	16	punct	_	start_char=1037|end_char=1038
+16	холодной	холодный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	start_char=1039|end_char=1047
+17	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	start_char=1048|end_char=1059
+18	,	,	PUNCT	_	_	22	punct	_	start_char=1059|end_char=1060
+19	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	20	det	_	start_char=1061|end_char=1067
+20	шаг	шаг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj:pass	_	start_char=1068|end_char=1071
+21	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	nmod	_	start_char=1072|end_char=1079
+22	выверен	выверить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	acl:relcl	_	start_char=1080|end_char=1087
+23	,	,	PUNCT	_	_	26	punct	_	start_char=1087|end_char=1088
+24	чувства	чувство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	26	nsubj	_	start_char=1089|end_char=1096
+25	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	24	nmod	_	start_char=1097|end_char=1104
+26	превратились	превратиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	22	conj	_	start_char=1105|end_char=1117
+27	в	в	ADP	_	_	28	case	_	start_char=1118|end_char=1119
+28	ритуалы	ритуал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	26	obl	_	start_char=1120|end_char=1127
+29	.	.	PUNCT	_	_	2	punct	_	start_char=1127|end_char=1128
+
+# text = Он провел ладонями по панели управления, и по всему его уже немолодому телу побежали мурашки.
+# sent_id = 15
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=1129|end_char=1131
+2	провел	провести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1132|end_char=1138
+3	ладонями	ладонь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	iobj	_	start_char=1139|end_char=1147
+4	по	по	ADP	_	_	5	case	_	start_char=1148|end_char=1150
+5	панели	панель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	obl	_	start_char=1151|end_char=1157
+6	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	start_char=1158|end_char=1168
+7	,	,	PUNCT	_	_	15	punct	_	start_char=1168|end_char=1169
+8	и	и	CCONJ	_	_	15	cc	_	start_char=1170|end_char=1171
+9	по	по	ADP	_	_	14	case	_	start_char=1172|end_char=1174
+10	всему	весь	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	14	det	_	start_char=1175|end_char=1180
+11	его	его	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=1181|end_char=1184
+12	уже	уже	ADV	_	Degree=Pos	13	advmod	_	start_char=1185|end_char=1188
+13	немолодому	немолодомый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=1189|end_char=1199
+14	телу	тело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	obl	_	start_char=1200|end_char=1204
+15	побежали	побежать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1205|end_char=1213
+16	мурашки	мурашки	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	start_char=1214|end_char=1221
+17	.	.	PUNCT	_	_	2	punct	_	start_char=1221|end_char=1222
+
+# text = Будто глоток свежего воздуха!
+# sent_id = 16
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Будто	будто	PART	_	_	2	advmod	_	start_char=1223|end_char=1228
+2	глоток	глоток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1229|end_char=1235
+3	свежего	свежий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1236|end_char=1243
+4	воздуха	воздух	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=1244|end_char=1251
+5	!	!	PUNCT	_	_	2	punct	_	start_char=1251|end_char=1252
+
+# text = Глоток молодости.
+# sent_id = 17
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Глоток	глоток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1253|end_char=1259
+2	молодости	молодость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	start_char=1260|end_char=1269
+3	.	.	PUNCT	_	_	1	punct	_	start_char=1269|end_char=1270
+
+# text = На исходе первой жизни.
+# sent_id = 18
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	На	на	ADP	_	_	2	case	_	start_char=1271|end_char=1273
+2	исходе	исход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=1274|end_char=1280
+3	первой	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	4	amod	_	start_char=1281|end_char=1287
+4	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=1288|end_char=1293
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1293|end_char=1294
+
+# text = Всего лишь первой – ничто для таймлорда.
+# sent_id = 19
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Всего	всего	PART	_	_	2	advmod	_	start_char=1295|end_char=1300
+2	лишь	лишь	PART	_	_	3	advmod	_	start_char=1301|end_char=1305
+3	первой	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	0	root	_	start_char=1306|end_char=1312
+4	–	–	PUNCT	_	_	3	punct	_	start_char=1313|end_char=1314
+5	ничто	ничто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	3	nsubj	_	start_char=1315|end_char=1320
+6	для	для	ADP	_	_	7	case	_	start_char=1321|end_char=1324
+7	таймлорда	таймлорд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=1325|end_char=1334
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1334|end_char=1335
+
+# text = Но все же сколько времени и порывов растрачено зря.
+# sent_id = 20
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Но	но	CCONJ	_	_	8	cc	_	start_char=1336|end_char=1338
+2	все	все	PART	_	_	8	advmod	_	start_char=1339|end_char=1342
+3	же	же	PART	_	_	2	advmod	_	start_char=1343|end_char=1345
+4	сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=1346|end_char=1353
+5	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nsubj:pass	_	start_char=1354|end_char=1361
+6	и	и	CCONJ	_	_	7	cc	_	start_char=1362|end_char=1363
+7	порывов	порыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	start_char=1364|end_char=1371
+8	растрачено	растрачить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=1372|end_char=1382
+9	зря	зря	ADV	_	Degree=Pos	8	advmod	_	start_char=1383|end_char=1386
+10	.	.	PUNCT	_	_	8	punct	_	start_char=1386|end_char=1387
+
+# text = Целая жизнь.
+# sent_id = 21
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Целая	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=1388|end_char=1393
+2	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1394|end_char=1399
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1399|end_char=1400
+
+# text = Ему захотелось почувствовать себя молодым.
+# sent_id = 22
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	start_char=1401|end_char=1404
+2	захотелось	захотеться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1405|end_char=1415
+3	почувствовать	почувствовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=1416|end_char=1429
+4	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	obj	_	start_char=1430|end_char=1434
+5	молодым	молодой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	_	start_char=1435|end_char=1442
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1442|end_char=1443
+
+# text = Забыть все.
+# sent_id = 23
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Забыть	забыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1444|end_char=1450
+2	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	1	obj	_	start_char=1451|end_char=1454
+3	.	.	PUNCT	_	_	1	punct	_	start_char=1454|end_char=1455
+
+# text = Потерять все…
+# sent_id = 24
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Потерять	потерять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1456|end_char=1464
+2	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	1	obj	_	start_char=1465|end_char=1468
+3	…	…	PUNCT	_	_	1	punct	_	start_char=1468|end_char=1469
+
+# text = Он и эта старушка, хранящая в своем сердце молодость времени.
+# sent_id = 25
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1470|end_char=1472
+2	и	и	PART	_	_	4	advmod	_	start_char=1473|end_char=1474
+3	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	start_char=1475|end_char=1478
+4	старушка	старушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1479|end_char=1487
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1487|end_char=1488
+6	хранящая	хранить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	start_char=1489|end_char=1497
+7	в	в	ADP	_	_	9	case	_	start_char=1498|end_char=1499
+8	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=1500|end_char=1505
+9	сердце	сердце	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=1506|end_char=1512
+10	молодость	молодость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=1513|end_char=1522
+11	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	start_char=1523|end_char=1530
+12	.	.	PUNCT	_	_	4	punct	_	start_char=1530|end_char=1531
+
+# text = Чуть-чуть неисправная, но тем лучше.
+# sent_id = 26
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Чуть	чуть	ADV	_	Degree=Pos	2	advmod	_	start_char=1532|end_char=1536
+2	-чуть	-чуть	PART	_	_	3	advmod	_	start_char=1536|end_char=1541
+3	неисправная	неисправный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=1542|end_char=1553
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1553|end_char=1554
+5	но	но	CCONJ	_	_	7	cc	_	start_char=1555|end_char=1557
+6	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	start_char=1558|end_char=1561
+7	лучше	хороший	ADJ	_	Degree=Cmp	3	conj	_	start_char=1562|end_char=1567
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1567|end_char=1568
+
+# text = Он же не вор, он возьмет только то, что никому больше не нужно.
+# sent_id = 27
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1569|end_char=1571
+2	же	же	PART	_	_	1	advmod	_	start_char=1572|end_char=1574
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1575|end_char=1577
+4	вор	вор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1578|end_char=1581
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1581|end_char=1582
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=1583|end_char=1585
+7	возьмет	взять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1586|end_char=1593
+8	только	только	PART	_	_	9	advmod	_	start_char=1594|end_char=1600
+9	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	start_char=1601|end_char=1603
+10	,	,	PUNCT	_	_	15	punct	_	start_char=1603|end_char=1604
+11	что	что	SCONJ	_	_	15	mark	_	start_char=1605|end_char=1608
+12	никому	никто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	15	iobj	_	start_char=1609|end_char=1615
+13	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	15	advmod	_	start_char=1616|end_char=1622
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=1623|end_char=1625
+15	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	acl	_	start_char=1626|end_char=1631
+16	.	.	PUNCT	_	_	4	punct	_	start_char=1631|end_char=1632
+
+# text = Лишнее, как и он сам.
+# sent_id = 28
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Лишнее	лишний	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=1633|end_char=1639
+2	,	,	PUNCT	_	_	5	punct	_	start_char=1639|end_char=1640
+3	как	как	SCONJ	_	_	5	case	_	start_char=1641|end_char=1644
+4	и	и	PART	_	_	5	advmod	_	start_char=1645|end_char=1646
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	start_char=1647|end_char=1649
+6	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	5	det	_	start_char=1650|end_char=1653
+7	.	.	PUNCT	_	_	1	punct	_	start_char=1653|end_char=1654
+
+# text = Так почему бы?!..
+# sent_id = 29
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=1655|end_char=1658
+2	почему	почему	ADV	_	Degree=Pos|PronType=Int	1	advmod	_	start_char=1659|end_char=1665
+3	бы	бы	X	_	_	1	fixed	_	start_char=1666|end_char=1668
+4	?!..	?!..	PUNCT	_	_	1	punct	_	start_char=1668|end_char=1672
+
+# text = Когда пропущена целая жизнь, разве можно потерять больше?
+# sent_id = 30
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Когда	когда	SCONJ	_	_	2	mark	_	start_char=1673|end_char=1678
+2	пропущена	пропустить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	advcl	_	start_char=1679|end_char=1688
+3	целая	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1689|end_char=1694
+4	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	start_char=1695|end_char=1700
+5	,	,	PUNCT	_	_	2	punct	_	start_char=1700|end_char=1701
+6	разве	разве	PART	_	_	7	advmod	_	start_char=1702|end_char=1707
+7	можно	можно	VERB	_	_	0	root	_	start_char=1708|end_char=1713
+8	потерять	потерять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=1714|end_char=1722
+9	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	8	advmod	_	start_char=1723|end_char=1729
+10	?	?	PUNCT	_	_	7	punct	_	start_char=1729|end_char=1730
+
+# text = Когда-то галлифрейцы проживали только одну жизнь, без регенераций, и этого было достаточно, если в самом деле живешь, а не ждешь чего-то несбыточного и лишь тянешь время.
+# sent_id = 31
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	3	advmod	_	start_char=1731|end_char=1739
+2	галлифрейцы	галлифреец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=1740|end_char=1751
+3	проживали	проживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1752|end_char=1761
+4	только	только	PART	_	_	5	advmod	_	start_char=1762|end_char=1768
+5	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=1769|end_char=1773
+6	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=1774|end_char=1779
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1779|end_char=1780
+8	без	без	ADP	_	_	9	case	_	start_char=1781|end_char=1784
+9	регенераций	регенерация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	conj	_	start_char=1785|end_char=1796
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1796|end_char=1797
+11	и	и	CCONJ	_	_	14	cc	_	start_char=1798|end_char=1799
+12	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	start_char=1800|end_char=1805
+13	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=1806|end_char=1810
+14	достаточно	достаточный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	conj	_	start_char=1811|end_char=1821
+15	,	,	PUNCT	_	_	20	punct	_	start_char=1821|end_char=1822
+16	если	если	SCONJ	_	_	20	mark	_	start_char=1823|end_char=1827
+17	в	в	ADP	_	_	19	case	_	start_char=1828|end_char=1829
+18	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	19	det	_	start_char=1830|end_char=1835
+19	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	obl	_	start_char=1836|end_char=1840
+20	живешь	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	start_char=1841|end_char=1847
+21	,	,	PUNCT	_	_	24	punct	_	start_char=1847|end_char=1848
+22	а	а	CCONJ	_	_	24	cc	_	start_char=1849|end_char=1850
+23	не	не	PART	_	Polarity=Neg	24	advmod	_	start_char=1851|end_char=1853
+24	ждешь	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1854|end_char=1859
+25	чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	24	obj	_	start_char=1860|end_char=1867
+26	несбыточного	несбыточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	start_char=1868|end_char=1880
+27	и	и	CCONJ	_	_	29	cc	_	start_char=1881|end_char=1882
+28	лишь	лишь	PART	_	_	29	advmod	_	start_char=1883|end_char=1887
+29	тянешь	тянуть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	start_char=1888|end_char=1894
+30	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	29	obj	_	start_char=1895|end_char=1900
+31	.	.	PUNCT	_	_	3	punct	_	start_char=1900|end_char=1901
+
+# text = Теплые токи забывшей о ласке симбиотической связи ТАРДИС пронизывали его разум, мало-помалу, вместе с обычным счастьем, восторгом, ощущением свободы, безрассудства, почти смешного чувства собственничества.
+# sent_id = 32
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Теплые	теплый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	start_char=1903|end_char=1909
+2	токи	ток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	start_char=1910|end_char=1914
+3	забывшей	забыть	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	start_char=1915|end_char=1923
+4	о	о	ADP	_	_	5	case	_	start_char=1924|end_char=1925
+5	ласке	ласка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=1926|end_char=1931
+6	симбиотической	симбиотический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=1932|end_char=1946
+7	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=1947|end_char=1952
+8	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	7	nmod	_	start_char=1953|end_char=1959
+9	пронизывали	пронизывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1960|end_char=1971
+10	его	его	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=1972|end_char=1975
+11	разум	разум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=1976|end_char=1981
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1981|end_char=1982
+13	мало	мало	NUM	_	Case=Acc|NumForm=Word|NumType=Card	11	nummod:gov	_	start_char=1983|end_char=1987
+14	-помалу	-помалу	ADV	_	Degree=Pos	13	advmod	_	start_char=1987|end_char=1994
+15	,	,	PUNCT	_	_	16	punct	_	start_char=1994|end_char=1995
+16	вместе	вместе	ADV	_	Degree=Pos	9	conj	_	start_char=1996|end_char=2002
+17	с	с	ADP	_	_	19	case	_	start_char=2003|end_char=2004
+18	обычным	обычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=2005|end_char=2012
+19	счастьем	счастье	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	obl	_	start_char=2013|end_char=2021
+20	,	,	PUNCT	_	_	21	punct	_	start_char=2021|end_char=2022
+21	восторгом	восторг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	conj	_	start_char=2023|end_char=2032
+22	,	,	PUNCT	_	_	23	punct	_	start_char=2032|end_char=2033
+23	ощущением	ощущение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	19	conj	_	start_char=2034|end_char=2043
+24	свободы	свобода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	start_char=2044|end_char=2051
+25	,	,	PUNCT	_	_	26	punct	_	start_char=2051|end_char=2052
+26	безрассудства	безрассудство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	conj	_	start_char=2053|end_char=2066
+27	,	,	PUNCT	_	_	30	punct	_	start_char=2066|end_char=2067
+28	почти	почти	ADV	_	Degree=Pos	29	advmod	_	start_char=2068|end_char=2073
+29	смешного	смешной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	start_char=2074|end_char=2082
+30	чувства	чувство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	conj	_	start_char=2083|end_char=2090
+31	собственничества	собственничество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	start_char=2091|end_char=2107
+32	.	.	PUNCT	_	_	9	punct	_	start_char=2107|end_char=2108
+
+# text = Это было неправильно?
+# sent_id = 33
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2109|end_char=2112
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=2113|end_char=2117
+3	неправильно	неправильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2118|end_char=2129
+4	?	?	PUNCT	_	_	3	punct	_	start_char=2129|end_char=2130
+
+# text = Нет, все шло так, как надо.
+# sent_id = 34
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Нет	нет	PART	_	Polarity=Neg	4	parataxis	_	start_char=2131|end_char=2134
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2134|end_char=2135
+3	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=2136|end_char=2139
+4	шло	идти	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2140|end_char=2143
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2144|end_char=2147
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2147|end_char=2148
+7	как	как	SCONJ	_	_	8	mark	_	start_char=2149|end_char=2152
+8	надо	надо	VERB	_	_	5	advcl	_	start_char=2153|end_char=2157
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2157|end_char=2158
+
+# text = Это было упоительное чувство собственничества по отношению не к ТАРДИС, а к его собственной жизни.
+# sent_id = 35
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2159|end_char=2162
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=2163|end_char=2167
+3	упоительное	упоительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=2168|end_char=2179
+4	чувство	чувство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2180|end_char=2187
+5	собственничества	собственничество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	start_char=2188|end_char=2204
+6	по	по	ADP	_	_	10	case	_	start_char=2205|end_char=2207
+7	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	fixed	_	start_char=2208|end_char=2217
+8	не	не	PART	_	Polarity=Neg	6	fixed	_	start_char=2218|end_char=2220
+9	к	к	ADP	_	_	10	case	_	start_char=2221|end_char=2222
+10	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Com|Number=Sing	4	nmod	_	start_char=2223|end_char=2229
+11	,	,	PUNCT	_	_	16	punct	_	start_char=2229|end_char=2230
+12	а	а	CCONJ	_	_	16	cc	_	start_char=2231|end_char=2232
+13	к	к	ADP	_	_	16	case	_	start_char=2233|end_char=2234
+14	его	его	DET	_	Poss=Yes|PronType=Prs	16	det	_	start_char=2235|end_char=2238
+15	собственной	собственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=2239|end_char=2250
+16	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	conj	_	start_char=2251|end_char=2256
+17	.	.	PUNCT	_	_	4	punct	_	start_char=2256|end_char=2257
+
+# text = Которой, наконец-то… он осмелился распорядиться по своему усмотрению.
+# sent_id = 36
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	start_char=2258|end_char=2265
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2265|end_char=2266
+3	наконец	наконец	ADV	_	Degree=Pos	8	parataxis	_	start_char=2267|end_char=2274
+4	-	-	PUNCT	_	_	5	punct	_	start_char=2274|end_char=2275
+5	то	то	PART	_	_	3	advmod	_	start_char=2275|end_char=2277
+6	…	…	PUNCT	_	_	3	punct	_	start_char=2277|end_char=2278
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=2279|end_char=2281
+8	осмелился	осмелиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2282|end_char=2291
+9	распорядиться	распорядиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	start_char=2292|end_char=2305
+10	по	по	ADP	_	_	12	case	_	start_char=2306|end_char=2308
+11	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=2309|end_char=2315
+12	усмотрению	усмотрение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	obl	_	start_char=2316|end_char=2326
+13	.	.	PUNCT	_	_	8	punct	_	start_char=2326|end_char=2327
+
+# text = Руки будто сами собой заскользили по кнопкам и рычагам.
+# sent_id = 37
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=2328|end_char=2332
+2	будто	будто	PART	_	_	3	advmod	_	start_char=2333|end_char=2338
+3	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	5	obl	_	start_char=2339|end_char=2343
+4	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	5	obl	_	start_char=2344|end_char=2349
+5	заскользили	заскользить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2350|end_char=2361
+6	по	по	ADP	_	_	7	case	_	start_char=2362|end_char=2364
+7	кнопкам	кнопка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	obl	_	start_char=2365|end_char=2372
+8	и	и	CCONJ	_	_	9	cc	_	start_char=2373|end_char=2374
+9	рычагам	рычага	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	conj	_	start_char=2375|end_char=2382
+10	.	.	PUNCT	_	_	5	punct	_	start_char=2382|end_char=2383
+
+# text = Старушка еще на ходу!..
+# sent_id = 38
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Старушка	старушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=2384|end_char=2392
+2	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=2393|end_char=2396
+3	на	на	ADP	_	_	4	case	_	start_char=2397|end_char=2399
+4	ходу	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=2400|end_char=2404
+5	!..	!..	PUNCT	_	_	4	punct	_	start_char=2404|end_char=2407
+
+# text = Да, чуть неисправная.
+# sent_id = 39
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Да	да	PART	_	_	4	parataxis	_	start_char=2408|end_char=2410
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2410|end_char=2411
+3	чуть	чуть	ADV	_	Degree=Pos	4	advmod	_	start_char=2412|end_char=2416
+4	неисправная	неисправный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=2417|end_char=2428
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2428|end_char=2429
+
+# text = Может быть, это путешествие в один конец, но будь что будет!
+# sent_id = 40
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2430|end_char=2435
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2436|end_char=2440
+3	,	,	PUNCT	_	_	1	punct	_	start_char=2440|end_char=2441
+4	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	start_char=2442|end_char=2445
+5	путешествие	путешествие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2446|end_char=2457
+6	в	в	ADP	_	_	8	case	_	start_char=2458|end_char=2459
+7	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	8	nummod	_	start_char=2460|end_char=2464
+8	конец	конец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	start_char=2465|end_char=2470
+9	,	,	PUNCT	_	_	13	punct	_	start_char=2470|end_char=2471
+10	но	но	CCONJ	_	_	12	cc	_	start_char=2472|end_char=2474
+11	будь	быть	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	12	cop	_	start_char=2475|end_char=2479
+12	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	conj	_	start_char=2480|end_char=2483
+13	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	cop	_	start_char=2484|end_char=2489
+14	!	!	PUNCT	_	_	5	punct	_	start_char=2489|end_char=2490
+
+# text = Его наполняло счастье, и этого было достаточно.
+# sent_id = 41
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=2491|end_char=2494
+2	наполняло	наполнять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2495|end_char=2504
+3	счастье	счастье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=2505|end_char=2512
+4	,	,	PUNCT	_	_	8	punct	_	start_char=2512|end_char=2513
+5	и	и	CCONJ	_	_	8	cc	_	start_char=2514|end_char=2515
+6	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=2516|end_char=2521
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=2522|end_char=2526
+8	достаточно	достаточный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	conj	_	start_char=2527|end_char=2537
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2537|end_char=2538
+
+# text = Пик и апофеоз его жизни!
+# sent_id = 42
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Пик	пик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2539|end_char=2542
+2	и	и	CCONJ	_	_	3	cc	_	start_char=2543|end_char=2544
+3	апофеоз	апофеоз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=2545|end_char=2552
+4	его	его	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=2553|end_char=2556
+5	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=2557|end_char=2562
+6	!	!	PUNCT	_	_	1	punct	_	start_char=2562|end_char=2563
+
+# text = От этого захватывало дух!
+# sent_id = 43
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	От	от	ADP	_	_	2	case	_	start_char=2564|end_char=2566
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	start_char=2567|end_char=2572
+3	захватывало	захватывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2573|end_char=2584
+4	дух	дух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2585|end_char=2588
+5	!	!	PUNCT	_	_	3	punct	_	start_char=2588|end_char=2589
+
+# text = ТАРДИС заскрежетала, дематериализуясь… без права возвращения!..
+# sent_id = 44
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	ТАРДИС	тардис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=2590|end_char=2596
+2	заскрежетала	заскрежетать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2597|end_char=2609
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2609|end_char=2610
+4	дематериализуясь	дематериализоваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=2611|end_char=2627
+5	…	…	PUNCT	_	_	7	punct	_	start_char=2627|end_char=2628
+6	без	без	ADP	_	_	7	case	_	start_char=2629|end_char=2632
+7	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=2633|end_char=2638
+8	возвращения	возвращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=2639|end_char=2650
+9	!..	!..	PUNCT	_	_	2	punct	_	start_char=2650|end_char=2653
+
+# text = Ух!
+# sent_id = 45
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Ух	ух	INTJ	_	_	0	root	_	start_char=2654|end_char=2656
+2	!	!	PUNCT	_	_	1	punct	_	start_char=2656|end_char=2657
+
+# text = Он сделал это!
+# sent_id = 46
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2658|end_char=2660
+2	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2661|end_char=2667
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	start_char=2668|end_char=2671
+4	!	!	PUNCT	_	_	2	punct	_	start_char=2671|end_char=2672
+
+# text = Он стал самим собой, теперь его жизнь – лишь его частное дело и только в его руках!
+# sent_id = 47
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2673|end_char=2675
+2	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2676|end_char=2680
+3	самим	сам	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Emp	4	det	_	start_char=2681|end_char=2686
+4	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	2	obl	_	start_char=2687|end_char=2692
+5	,	,	PUNCT	_	_	13	punct	_	start_char=2692|end_char=2693
+6	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=2694|end_char=2700
+7	его	его	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=2701|end_char=2704
+8	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=2705|end_char=2710
+9	–	–	PUNCT	_	_	13	punct	_	start_char=2711|end_char=2712
+10	лишь	лишь	PART	_	_	11	advmod	_	start_char=2713|end_char=2717
+11	его	его	DET	_	Poss=Yes|PronType=Prs	13	det	_	start_char=2718|end_char=2721
+12	частное	частный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=2722|end_char=2729
+13	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	start_char=2730|end_char=2734
+14	и	и	CCONJ	_	_	18	cc	_	start_char=2735|end_char=2736
+15	только	только	PART	_	_	18	advmod	_	start_char=2737|end_char=2743
+16	в	в	ADP	_	_	18	case	_	start_char=2744|end_char=2745
+17	его	его	DET	_	Poss=Yes|PronType=Prs	18	det	_	start_char=2746|end_char=2749
+18	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	conj	_	start_char=2750|end_char=2755
+19	!	!	PUNCT	_	_	2	punct	_	start_char=2755|end_char=2756
+
+# text = И вдруг в это опьяняющее чувство вплелась тень тревоги.
+# sent_id = 48
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	И	и	CCONJ	_	_	7	cc	_	start_char=2757|end_char=2758
+2	вдруг	вдруг	ADV	_	Degree=Pos	7	advmod	_	start_char=2759|end_char=2764
+3	в	в	ADP	_	_	6	case	_	start_char=2765|end_char=2766
+4	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	start_char=2767|end_char=2770
+5	опьяняющее	опьяняющий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=2771|end_char=2781
+6	чувство	чувство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	start_char=2782|end_char=2789
+7	вплелась	вплестись	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2790|end_char=2798
+8	тень	тень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=2799|end_char=2803
+9	тревоги	тревога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=2804|end_char=2811
+10	.	.	PUNCT	_	_	7	punct	_	start_char=2811|end_char=2812
+
+# text = Уверенность в чьем-то присутствии.
+# sent_id = 49
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Уверенность	уверенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2813|end_char=2824
+2	в	в	ADP	_	_	4	case	_	start_char=2825|end_char=2826
+3	чьем-то	чей-то	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Ind	4	det	_	start_char=2827|end_char=2834
+4	присутствии	присутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	start_char=2835|end_char=2846
+5	.	.	PUNCT	_	_	1	punct	_	start_char=2846|end_char=2847
+
+# text = Здесь, в ТАРДИС.
+# sent_id = 50
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=2848|end_char=2853
+2	,	,	PUNCT	_	_	4	punct	_	start_char=2853|end_char=2854
+3	в	в	ADP	_	_	4	case	_	start_char=2855|end_char=2856
+4	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	1	conj	_	start_char=2857|end_char=2863
+5	.	.	PUNCT	_	_	1	punct	_	start_char=2863|end_char=2864
+
+# text = Он был не один.
+# sent_id = 51
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2865|end_char=2867
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=2868|end_char=2871
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2872|end_char=2874
+4	один	один	NUM	_	Animacy=Inan|Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	0	root	_	start_char=2875|end_char=2879
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2879|end_char=2880
+
+# text = Он рискнул чем-то большим, чем собой?..
+# sent_id = 52
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2881|end_char=2883
+2	рискнул	рискнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2884|end_char=2891
+3	чем-то	что-то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	2	iobj	_	start_char=2892|end_char=2898
+4	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	start_char=2899|end_char=2906
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2906|end_char=2907
+6	чем	чем	SCONJ	_	_	7	case	_	start_char=2908|end_char=2911
+7	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	4	obl	_	start_char=2912|end_char=2917
+8	?..	?..	PUNCT	_	_	2	punct	_	start_char=2917|end_char=2920
+
+# text = Он опустил взгляд и увидел огромные глаза своей внучки
+# sent_id = 53
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2921|end_char=2923
+2	опустил	опустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2924|end_char=2931
+3	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=2932|end_char=2938
+4	и	и	CCONJ	_	_	5	cc	_	start_char=2939|end_char=2940
+5	увидел	увидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2941|end_char=2947
+6	огромные	огромный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	start_char=2948|end_char=2956
+7	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=2957|end_char=2962
+8	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=2963|end_char=2968
+9	внучки	внучок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=2969|end_char=2975
+
+# text = Сьюзан, смущенно выглядывающей из-за противоположного края панели управления.
+# sent_id = 54
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Сьюзан	Сьюзан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	start_char=2976|end_char=2982
+2	,	,	PUNCT	_	_	4	punct	_	start_char=2982|end_char=2983
+3	смущенно	смущенно	ADV	_	Degree=Pos	4	advmod	_	start_char=2984|end_char=2992
+4	выглядывающей	выглядывать	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	start_char=2993|end_char=3006
+5	из-за	из-за	ADP	_	_	7	case	_	start_char=3007|end_char=3012
+6	противоположного	противоположный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=3013|end_char=3029
+7	края	край	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=3030|end_char=3034
+8	панели	панель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=3035|end_char=3041
+9	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=3042|end_char=3052
+10	.	.	PUNCT	_	_	1	punct	_	start_char=3052|end_char=3053
+
+# text = – И ты, дедушка?!.. – со страхом и восхищением сдавленно пролепетала Сьюзан.
+# sent_id = 55
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	–	–	PUNCT	_	_	13	punct	_	start_char=3054|end_char=3055
+2	И	и	CCONJ	_	_	13	cc	_	start_char=3056|end_char=3057
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=3058|end_char=3060
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3060|end_char=3061
+5	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=3062|end_char=3069
+6	?!..	?!..	PUNCT	_	_	5	punct	_	start_char=3069|end_char=3073
+7	–	–	PUNCT	_	_	13	punct	_	start_char=3074|end_char=3075
+8	со	со	ADP	_	_	9	case	_	start_char=3076|end_char=3078
+9	страхом	страх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	obl	_	start_char=3079|end_char=3086
+10	и	и	CCONJ	_	_	11	cc	_	start_char=3087|end_char=3088
+11	восхищением	восхищение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	conj	_	start_char=3089|end_char=3100
+12	сдавленно	сдавленно	ADV	_	Degree=Pos	13	advmod	_	start_char=3101|end_char=3110
+13	пролепетала	пролепетать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3111|end_char=3122
+14	Сьюзан	Сьюзан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	13	nsubj	_	start_char=3123|end_char=3129
+15	.	.	PUNCT	_	_	13	punct	_	start_char=3129|end_char=3130
+
+# text = Доктор сокрушенно покачал головой: – И ты, дитя мое!.. 2013
+# sent_id = 56
+# metadata = Название: Башня слоновой кости, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5472257700000a7f21ad59c4/1/Bashnya-slonovoj-kosti
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3131|end_char=3137
+2	сокрушенно	сокрушенно	ADV	_	Degree=Pos	3	advmod	_	start_char=3138|end_char=3148
+3	покачал	покачать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3149|end_char=3156
+4	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	start_char=3157|end_char=3164
+5	:	:	PUNCT	_	_	8	punct	_	start_char=3164|end_char=3165
+6	–	–	PUNCT	_	_	8	punct	_	start_char=3166|end_char=3167
+7	И	и	CCONJ	_	_	8	cc	_	start_char=3168|end_char=3169
+8	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	parataxis	_	start_char=3170|end_char=3172
+9	,	,	PUNCT	_	_	10	punct	_	start_char=3172|end_char=3173
+10	дитя	дитя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing	8	vocative	_	start_char=3174|end_char=3178
+11	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	start_char=3179|end_char=3182
+12	!..	!..	PUNCT	_	_	10	punct	_	start_char=3182|end_char=3185
+13	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	3	parataxis	_	start_char=3187|end_char=3191
+

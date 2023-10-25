@@ -1,0 +1,605 @@
+# text = Увидев англичанина, Джейми выхватил шпагу и помчался за ним.
+# sent_id = 0
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Увидев	увидеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=0|end_char=6
+2	англичанина	англичанин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=7|end_char=18
+3	,	,	PUNCT	_	_	1	punct	_	start_char=18|end_char=19
+4	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=20|end_char=26
+5	выхватил	выхватить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=27|end_char=35
+6	шпагу	шпага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=36|end_char=41
+7	и	и	CCONJ	_	_	8	cc	_	start_char=42|end_char=43
+8	помчался	помчаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=44|end_char=52
+9	за	за	ADP	_	_	10	case	_	start_char=53|end_char=55
+10	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=56|end_char=59
+11	.	.	PUNCT	_	_	5	punct	_	start_char=59|end_char=60
+
+# text = Тот кинулся наутёк, трус, не давая Джейми возможности отомстить.
+# sent_id = 1
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	start_char=61|end_char=64
+2	кинулся	кинуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=65|end_char=72
+3	наутёк	наутек	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=73|end_char=79
+4	,	,	PUNCT	_	_	5	punct	_	start_char=79|end_char=80
+5	трус	трус	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	start_char=81|end_char=85
+6	,	,	PUNCT	_	_	8	punct	_	start_char=85|end_char=86
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=87|end_char=89
+8	давая	давать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=90|end_char=95
+9	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	8	obj	_	start_char=96|end_char=102
+10	возможности	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=103|end_char=114
+11	отомстить	отомстить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=115|end_char=124
+12	.	.	PUNCT	_	_	2	punct	_	start_char=124|end_char=125
+
+# text = Внезапно шаги Джейми замедлились.
+# sent_id = 2
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Внезапно	внезапно	ADV	_	Degree=Pos	4	advmod	_	start_char=126|end_char=134
+2	шаги	шаг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=135|end_char=139
+3	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	start_char=140|end_char=146
+4	замедлились	замедлиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=147|end_char=158
+5	.	.	PUNCT	_	_	4	punct	_	start_char=158|end_char=159
+
+# text = Разум говорил, что всё правильно, вот враг, вот оружие, догоняй и рази, а тело было против, тело кричало, что это неправильно, так нельзя, а надо... он не понимал, как надо.
+# sent_id = 3
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Разум	разум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=160|end_char=165
+2	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=166|end_char=173
+3	,	,	PUNCT	_	_	6	punct	_	start_char=173|end_char=174
+4	что	что	SCONJ	_	_	6	mark	_	start_char=175|end_char=178
+5	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=179|end_char=182
+6	правильно	правильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	ccomp	_	start_char=183|end_char=192
+7	,	,	PUNCT	_	_	9	punct	_	start_char=192|end_char=193
+8	вот	вот	PART	_	_	9	advmod	_	start_char=194|end_char=197
+9	враг	враг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	start_char=198|end_char=202
+10	,	,	PUNCT	_	_	12	punct	_	start_char=202|end_char=203
+11	вот	вот	PART	_	_	12	advmod	_	start_char=204|end_char=207
+12	оружие	оружие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	start_char=208|end_char=214
+13	,	,	PUNCT	_	_	14	punct	_	start_char=214|end_char=215
+14	догоняй	догонять	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	12	conj	_	start_char=216|end_char=223
+15	и	и	CCONJ	_	_	16	cc	_	start_char=224|end_char=225
+16	рази	раз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	start_char=226|end_char=230
+17	,	,	PUNCT	_	_	21	punct	_	start_char=230|end_char=231
+18	а	а	CCONJ	_	_	21	cc	_	start_char=232|end_char=233
+19	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	start_char=234|end_char=238
+20	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	cop	_	start_char=239|end_char=243
+21	против	против	VERB	_	_	2	conj	_	start_char=244|end_char=250
+22	,	,	PUNCT	_	_	24	punct	_	start_char=250|end_char=251
+23	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	start_char=252|end_char=256
+24	кричало	кричать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=257|end_char=264
+25	,	,	PUNCT	_	_	28	punct	_	start_char=264|end_char=265
+26	что	что	SCONJ	_	_	28	mark	_	start_char=266|end_char=269
+27	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	28	nsubj	_	start_char=270|end_char=273
+28	неправильно	неправильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	24	ccomp	_	start_char=274|end_char=285
+29	,	,	PUNCT	_	_	31	punct	_	start_char=285|end_char=286
+30	так	так	ADV	_	Degree=Pos|PronType=Dem	31	advmod	_	start_char=287|end_char=290
+31	нельзя	нельзя	VERB	_	_	28	conj	_	start_char=291|end_char=297
+32	,	,	PUNCT	_	_	34	punct	_	start_char=297|end_char=298
+33	а	а	CCONJ	_	_	34	cc	_	start_char=299|end_char=300
+34	надо	надо	VERB	_	_	28	conj	_	start_char=301|end_char=305
+35	...	...	PUNCT	_	_	34	punct	_	start_char=305|end_char=308
+36	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	nsubj	_	start_char=309|end_char=311
+37	не	не	PART	_	Polarity=Neg	38	advmod	_	start_char=312|end_char=314
+38	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	parataxis	_	start_char=315|end_char=322
+39	,	,	PUNCT	_	_	41	punct	_	start_char=322|end_char=323
+40	как	как	ADV	_	Degree=Pos|PronType=Rel	41	advmod	_	start_char=324|end_char=327
+41	надо	надо	VERB	_	_	38	ccomp	_	start_char=328|end_char=332
+42	.	.	PUNCT	_	_	2	punct	_	start_char=332|end_char=333
+
+# text = Что это, откуда в нём это?
+# sent_id = 4
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=334|end_char=337
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=338|end_char=341
+3	,	,	PUNCT	_	_	4	punct	_	start_char=341|end_char=342
+4	откуда	откуда	ADV	_	Degree=Pos|PronType=Int	1	conj	_	start_char=343|end_char=349
+5	в	в	ADP	_	_	6	case	_	start_char=350|end_char=351
+6	нём	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=352|end_char=355
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=356|end_char=359
+8	?	?	PUNCT	_	_	1	punct	_	start_char=359|end_char=360
+
+# text = Джейми опустил оружие, давая англичанину возможность сбежать.
+# sent_id = 5
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=361|end_char=367
+2	опустил	опустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=368|end_char=375
+3	оружие	оружие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=376|end_char=382
+4	,	,	PUNCT	_	_	5	punct	_	start_char=382|end_char=383
+5	давая	давать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=384|end_char=389
+6	англичанину	англичанин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	start_char=390|end_char=401
+7	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=402|end_char=413
+8	сбежать	сбежать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=414|end_char=421
+9	.	.	PUNCT	_	_	2	punct	_	start_char=421|end_char=422
+
+# text = Уж не стал ли он сам трусом часом?!
+# sent_id = 6
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Уж	уж	PART	_	_	3	advmod	_	start_char=423|end_char=425
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=426|end_char=428
+3	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=429|end_char=433
+4	ли	ли	PART	_	_	3	advmod	_	start_char=434|end_char=436
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=437|end_char=439
+6	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	7	det	_	start_char=440|end_char=443
+7	трусом	трусы	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	xcomp	_	start_char=444|end_char=450
+8	часом	час	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	nmod	_	start_char=451|end_char=456
+9	?!	?!	PUNCT	_	_	3	punct	_	start_char=456|end_char=458
+
+# text = Он растерянно оглянулся, будто ища кого-то взглядом, не глядя протянул руку назад, будто ожидая, что пустой воздух сейчас схватится за неё, и они побегут вместе вперёд...
+# sent_id = 7
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=459|end_char=461
+2	растерянно	растерянно	ADV	_	Degree=Pos	3	advmod	_	start_char=462|end_char=472
+3	оглянулся	оглянуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=473|end_char=482
+4	,	,	PUNCT	_	_	6	punct	_	start_char=482|end_char=483
+5	будто	будто	SCONJ	_	_	6	mark	_	start_char=484|end_char=489
+6	ища	искать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=490|end_char=493
+7	кого-то	кто-то	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	6	obj	_	start_char=494|end_char=501
+8	взглядом	взгляд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	iobj	_	start_char=502|end_char=510
+9	,	,	PUNCT	_	_	6	punct	_	start_char=510|end_char=511
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=512|end_char=514
+11	глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	advcl	_	start_char=515|end_char=520
+12	протянул	протянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=521|end_char=529
+13	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=530|end_char=534
+14	назад	назад	ADV	_	Degree=Pos	13	advmod	_	start_char=535|end_char=540
+15	,	,	PUNCT	_	_	17	punct	_	start_char=540|end_char=541
+16	будто	будто	SCONJ	_	_	17	mark	_	start_char=542|end_char=547
+17	ожидая	ожидать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	advcl	_	start_char=548|end_char=554
+18	,	,	PUNCT	_	_	23	punct	_	start_char=554|end_char=555
+19	что	что	SCONJ	_	_	23	mark	_	start_char=556|end_char=559
+20	пустой	пустой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	start_char=560|end_char=566
+21	воздух	воздух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	start_char=567|end_char=573
+22	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	23	advmod	_	start_char=574|end_char=580
+23	схватится	схватиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	ccomp	_	start_char=581|end_char=590
+24	за	за	ADP	_	_	25	case	_	start_char=591|end_char=593
+25	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obl	_	start_char=594|end_char=597
+26	,	,	PUNCT	_	_	29	punct	_	start_char=597|end_char=598
+27	и	и	CCONJ	_	_	29	cc	_	start_char=599|end_char=600
+28	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	start_char=601|end_char=604
+29	побегут	побежать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	23	conj	_	start_char=605|end_char=612
+30	вместе	вместе	ADV	_	Degree=Pos	29	advmod	_	start_char=613|end_char=619
+31	вперёд	вперед	ADV	_	Degree=Pos	29	advmod	_	start_char=620|end_char=626
+32	...	...	PUNCT	_	_	3	punct	_	start_char=626|end_char=629
+
+# text = Смешно?
+# sent_id = 8
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=630|end_char=636
+2	?	?	PUNCT	_	_	1	punct	_	start_char=636|end_char=637
+
+# text = Вроде бы.
+# sent_id = 9
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Вроде	вроде	ADV	_	Degree=Pos	0	root	_	start_char=638|end_char=643
+2	бы	бы	PART	_	_	1	fixed	_	start_char=644|end_char=646
+3	.	.	PUNCT	_	_	1	punct	_	start_char=646|end_char=647
+
+# text = Нет, совсем не смешно.
+# sent_id = 10
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Нет	нет	PART	_	Polarity=Neg	5	parataxis	_	start_char=648|end_char=651
+2	,	,	PUNCT	_	_	1	punct	_	start_char=651|end_char=652
+3	совсем	совсем	ADV	_	Degree=Pos	4	advmod	_	start_char=653|end_char=659
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=660|end_char=662
+5	смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=663|end_char=669
+6	.	.	PUNCT	_	_	5	punct	_	start_char=669|end_char=670
+
+# text = Сражение было окончено, и не в их пользу, но вскоре нашлись уцелевшие люди принца, Красавчика Чарли, остатки его армии, и Джейми присоединился к ним.
+# sent_id = 11
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Сражение	сражение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	start_char=671|end_char=679
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	start_char=680|end_char=684
+3	окончено	окончить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=685|end_char=693
+4	,	,	PUNCT	_	_	9	punct	_	start_char=693|end_char=694
+5	и	и	CCONJ	_	_	9	cc	_	start_char=695|end_char=696
+6	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=697|end_char=699
+7	в	в	ADP	_	_	9	case	_	start_char=700|end_char=701
+8	их	их	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=702|end_char=704
+9	пользу	польза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	conj	_	start_char=705|end_char=711
+10	,	,	PUNCT	_	_	13	punct	_	start_char=711|end_char=712
+11	но	но	CCONJ	_	_	13	cc	_	start_char=713|end_char=715
+12	вскоре	вскоре	ADV	_	Degree=Pos	13	advmod	_	start_char=716|end_char=722
+13	нашлись	найтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=723|end_char=730
+14	уцелевшие	уцелеть	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	15	amod	_	start_char=731|end_char=740
+15	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	start_char=741|end_char=745
+16	принца	принце	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	start_char=746|end_char=752
+17	,	,	PUNCT	_	_	18	punct	_	start_char=752|end_char=753
+18	Красавчика	Красавчик	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	16	conj	_	start_char=754|end_char=764
+19	Чарли	Чарли	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	18	flat:name	_	start_char=765|end_char=770
+20	,	,	PUNCT	_	_	21	punct	_	start_char=770|end_char=771
+21	остатки	остаток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	conj	_	start_char=772|end_char=779
+22	его	его	DET	_	Poss=Yes|PronType=Prs	23	det	_	start_char=780|end_char=783
+23	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	start_char=784|end_char=789
+24	,	,	PUNCT	_	_	27	punct	_	start_char=789|end_char=790
+25	и	и	CCONJ	_	_	27	cc	_	start_char=791|end_char=792
+26	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	27	nsubj	_	start_char=793|end_char=799
+27	присоединился	присоединиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=800|end_char=813
+28	к	к	ADP	_	_	29	case	_	start_char=814|end_char=815
+29	ним	он	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	27	obl	_	start_char=816|end_char=819
+30	.	.	PUNCT	_	_	3	punct	_	start_char=819|end_char=820
+
+# text = Они разбредались по домам, и Джейми пошёл с ними, хотя не представлял, что он будет там делать.
+# sent_id = 12
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=821|end_char=824
+2	разбредались	разбредаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=825|end_char=837
+3	по	по	ADP	_	_	4	case	_	start_char=838|end_char=840
+4	домам	дом	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	obl	_	start_char=841|end_char=846
+5	,	,	PUNCT	_	_	8	punct	_	start_char=846|end_char=847
+6	и	и	CCONJ	_	_	8	cc	_	start_char=848|end_char=849
+7	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=850|end_char=856
+8	пошёл	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=857|end_char=862
+9	с	с	ADP	_	_	10	case	_	start_char=863|end_char=864
+10	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	8	obl	_	start_char=865|end_char=869
+11	,	,	PUNCT	_	_	14	punct	_	start_char=869|end_char=870
+12	хотя	хотя	SCONJ	_	_	14	mark	_	start_char=871|end_char=875
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=876|end_char=878
+14	представлял	представлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=879|end_char=890
+15	,	,	PUNCT	_	_	20	punct	_	start_char=890|end_char=891
+16	что	что	SCONJ	_	_	20	mark	_	start_char=892|end_char=895
+17	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=896|end_char=898
+18	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	aux	_	start_char=899|end_char=904
+19	там	там	ADV	_	Degree=Pos|PronType=Dem	20	advmod	_	start_char=905|end_char=908
+20	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	ccomp	_	start_char=909|end_char=915
+21	.	.	PUNCT	_	_	2	punct	_	start_char=915|end_char=916
+
+# text = Он умел сражаться, и он умел играть на волынке, а что он будет делать дома?
+# sent_id = 13
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=917|end_char=919
+2	умел	уметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=920|end_char=924
+3	сражаться	сражаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=925|end_char=934
+4	,	,	PUNCT	_	_	7	punct	_	start_char=934|end_char=935
+5	и	и	CCONJ	_	_	7	cc	_	start_char=936|end_char=937
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=938|end_char=940
+7	умел	уметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=941|end_char=945
+8	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=946|end_char=952
+9	на	на	ADP	_	_	10	case	_	start_char=953|end_char=955
+10	волынке	волынка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	start_char=956|end_char=963
+11	,	,	PUNCT	_	_	16	punct	_	start_char=963|end_char=964
+12	а	а	CCONJ	_	_	16	cc	_	start_char=965|end_char=966
+13	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	16	obj	_	start_char=967|end_char=970
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=971|end_char=973
+15	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	aux	_	start_char=974|end_char=979
+16	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	start_char=980|end_char=986
+17	дома	дома	ADV	_	Degree=Pos	16	advmod	_	start_char=987|end_char=991
+18	?	?	PUNCT	_	_	2	punct	_	start_char=991|end_char=992
+
+# text = Разум говорил, что самое время познакомиться с какой-нибудь симпатичной девушкой, крепкой, рыжей, смешливой, чтобы дети были сильные и здоровые, завести семью и жить как все.
+# sent_id = 14
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Разум	разум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=993|end_char=998
+2	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=999|end_char=1006
+3	,	,	PUNCT	_	_	7	punct	_	start_char=1006|end_char=1007
+4	что	что	SCONJ	_	_	7	mark	_	start_char=1008|end_char=1011
+5	самое	самый	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	6	det	_	start_char=1012|end_char=1017
+6	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	start_char=1018|end_char=1023
+7	познакомиться	познакомиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	ccomp	_	start_char=1024|end_char=1037
+8	с	с	ADP	_	_	11	case	_	start_char=1038|end_char=1039
+9	какой-нибудь	какой-нибудь	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	start_char=1040|end_char=1052
+10	симпатичной	симпатичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=1053|end_char=1064
+11	девушкой	девушка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	start_char=1065|end_char=1073
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1073|end_char=1074
+13	крепкой	крепкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	start_char=1075|end_char=1082
+14	,	,	PUNCT	_	_	15	punct	_	start_char=1082|end_char=1083
+15	рыжей	рыжий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	start_char=1084|end_char=1089
+16	,	,	PUNCT	_	_	17	punct	_	start_char=1089|end_char=1090
+17	смешливой	смешливый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	start_char=1091|end_char=1100
+18	,	,	PUNCT	_	_	22	punct	_	start_char=1100|end_char=1101
+19	чтобы	чтобы	SCONJ	_	Mood=Cnd	22	mark	_	start_char=1102|end_char=1107
+20	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	start_char=1108|end_char=1112
+21	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	cop	_	start_char=1113|end_char=1117
+22	сильные	сильный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	advcl	_	start_char=1118|end_char=1125
+23	и	и	CCONJ	_	_	24	cc	_	start_char=1126|end_char=1127
+24	здоровые	здоровый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	conj	_	start_char=1128|end_char=1136
+25	,	,	PUNCT	_	_	26	punct	_	start_char=1136|end_char=1137
+26	завести	завести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	conj	_	start_char=1138|end_char=1145
+27	семью	семья	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	start_char=1146|end_char=1151
+28	и	и	CCONJ	_	_	29	cc	_	start_char=1152|end_char=1153
+29	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	conj	_	start_char=1154|end_char=1158
+30	как	как	SCONJ	_	_	31	case	_	start_char=1159|end_char=1162
+31	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	29	obl	_	start_char=1163|end_char=1166
+32	.	.	PUNCT	_	_	2	punct	_	start_char=1166|end_char=1167
+
+# text = Но по дороге он встречал симпатичных и рыжих, и они казались ему слишком яркими, слишком громкими, слишком смелыми, они быстро и охотно шли на контакт, и тело тут же теряло к ним интерес – ни волнения при встрече, ни грусти при расставании, ни желания защитить, хотя галантным и вежливым
+# sent_id = 15
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=1168|end_char=1170
+2	по	по	ADP	_	_	3	case	_	start_char=1171|end_char=1173
+3	дороге	дорога	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	obl	_	start_char=1174|end_char=1180
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1181|end_char=1183
+5	встречал	встречать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1184|end_char=1192
+6	симпатичных	симпатичный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	5	obj	_	start_char=1193|end_char=1204
+7	и	и	CCONJ	_	_	8	cc	_	start_char=1205|end_char=1206
+8	рыжих	рыжий	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	6	conj	_	start_char=1207|end_char=1212
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1212|end_char=1213
+10	и	и	CCONJ	_	_	12	cc	_	start_char=1214|end_char=1215
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=1216|end_char=1219
+12	казались	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=1220|end_char=1228
+13	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	start_char=1229|end_char=1232
+14	слишком	слишком	ADV	_	Degree=Pos	15	advmod	_	start_char=1233|end_char=1240
+15	яркими	яркий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	xcomp	_	start_char=1241|end_char=1247
+16	,	,	PUNCT	_	_	18	punct	_	start_char=1247|end_char=1248
+17	слишком	слишком	ADV	_	Degree=Pos	18	advmod	_	start_char=1249|end_char=1256
+18	громкими	громкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	conj	_	start_char=1257|end_char=1265
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1265|end_char=1266
+20	слишком	слишком	ADV	_	Degree=Pos	21	advmod	_	start_char=1267|end_char=1274
+21	смелыми	смелый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	conj	_	start_char=1275|end_char=1282
+22	,	,	PUNCT	_	_	27	punct	_	start_char=1282|end_char=1283
+23	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	start_char=1284|end_char=1287
+24	быстро	быстро	ADV	_	Degree=Pos	27	advmod	_	start_char=1288|end_char=1294
+25	и	и	CCONJ	_	_	26	cc	_	start_char=1295|end_char=1296
+26	охотно	охотно	ADV	_	Degree=Pos	24	conj	_	start_char=1297|end_char=1303
+27	шли	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=1304|end_char=1307
+28	на	на	ADP	_	_	29	case	_	start_char=1308|end_char=1310
+29	контакт	контакт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	obl	_	start_char=1311|end_char=1318
+30	,	,	PUNCT	_	_	35	punct	_	start_char=1318|end_char=1319
+31	и	и	CCONJ	_	_	35	cc	_	start_char=1320|end_char=1321
+32	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	start_char=1322|end_char=1326
+33	тут	тут	ADV	_	Degree=Pos|PronType=Dem	35	advmod	_	start_char=1327|end_char=1330
+34	же	же	PART	_	_	33	advmod	_	start_char=1331|end_char=1333
+35	теряло	терять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=1334|end_char=1340
+36	к	к	ADP	_	_	37	case	_	start_char=1341|end_char=1342
+37	ним	он	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	35	obl	_	start_char=1343|end_char=1346
+38	интерес	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obj	_	start_char=1347|end_char=1354
+39	–	–	PUNCT	_	_	41	punct	_	start_char=1355|end_char=1356
+40	ни	ни	CCONJ	_	Polarity=Neg	41	cc	_	start_char=1357|end_char=1359
+41	волнения	волнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	parataxis	_	start_char=1360|end_char=1368
+42	при	при	ADP	_	_	43	case	_	start_char=1369|end_char=1372
+43	встрече	встреча	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	41	nmod	_	start_char=1373|end_char=1380
+44	,	,	PUNCT	_	_	46	punct	_	start_char=1380|end_char=1381
+45	ни	ни	CCONJ	_	Polarity=Neg	46	cc	_	start_char=1382|end_char=1384
+46	грусти	грусть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	conj	_	start_char=1385|end_char=1391
+47	при	при	ADP	_	_	48	case	_	start_char=1392|end_char=1395
+48	расставании	расставание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	46	nmod	_	start_char=1396|end_char=1407
+49	,	,	PUNCT	_	_	51	punct	_	start_char=1407|end_char=1408
+50	ни	ни	CCONJ	_	Polarity=Neg	51	cc	_	start_char=1409|end_char=1411
+51	желания	желание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	43	conj	_	start_char=1412|end_char=1419
+52	защитить	защитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	51	acl	_	start_char=1420|end_char=1428
+53	,	,	PUNCT	_	_	55	punct	_	start_char=1428|end_char=1429
+54	хотя	хотя	SCONJ	_	_	55	mark	_	start_char=1430|end_char=1434
+55	галантным	галантный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	52	advcl	_	start_char=1435|end_char=1444
+56	и	и	CCONJ	_	_	57	cc	_	start_char=1445|end_char=1446
+57	вежливым	вежливый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	55	conj	_	start_char=1447|end_char=1455
+
+# text = Джейми все равно оставался, но не более того.
+# sent_id = 16
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1456|end_char=1462
+2	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	advmod	_	start_char=1463|end_char=1466
+3	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	fixed	_	start_char=1467|end_char=1472
+4	оставался	оставаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1473|end_char=1482
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1482|end_char=1483
+6	но	но	CCONJ	_	_	8	cc	_	start_char=1484|end_char=1486
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1487|end_char=1489
+8	более	более	ADV	_	Degree=Cmp|PronType=Tot	4	conj	_	start_char=1490|end_char=1495
+9	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	start_char=1496|end_char=1500
+10	.	.	PUNCT	_	_	4	punct	_	start_char=1500|end_char=1501
+
+# text = Вежливость – это было не то, что ждали от него рыжие девушки.
+# sent_id = 17
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Вежливость	вежливость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1502|end_char=1512
+2	–	–	PUNCT	_	_	6	punct	_	start_char=1513|end_char=1514
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1515|end_char=1518
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1519|end_char=1523
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1524|end_char=1526
+6	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	parataxis	_	start_char=1527|end_char=1529
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1529|end_char=1530
+8	что	что	SCONJ	_	_	9	mark	_	start_char=1531|end_char=1534
+9	ждали	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	start_char=1535|end_char=1540
+10	от	от	ADP	_	_	11	case	_	start_char=1541|end_char=1543
+11	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=1544|end_char=1548
+12	рыжие	рыжий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	start_char=1549|end_char=1554
+13	девушки	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	start_char=1555|end_char=1562
+14	.	.	PUNCT	_	_	1	punct	_	start_char=1562|end_char=1563
+
+# text = А он... он почему-то ждал от них этой самой проклятой вежливости, сдержанности... аристократизма.
+# sent_id = 18
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	А	а	CCONJ	_	_	6	cc	_	start_char=1564|end_char=1565
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1566|end_char=1568
+3	...	...	PUNCT	_	_	2	punct	_	start_char=1568|end_char=1571
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1572|end_char=1574
+5	почему-то	почему-то	ADV	_	Degree=Pos|PronType=Ind	6	advmod	_	start_char=1575|end_char=1584
+6	ждал	ждать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1585|end_char=1589
+7	от	от	ADP	_	_	8	case	_	start_char=1590|end_char=1592
+8	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	obl	_	start_char=1593|end_char=1596
+9	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	start_char=1597|end_char=1601
+10	самой	сам	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Emp	12	det	_	start_char=1602|end_char=1607
+11	проклятой	проклятый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=1608|end_char=1617
+12	вежливости	вежливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obj	_	start_char=1618|end_char=1628
+13	,	,	PUNCT	_	_	14	punct	_	start_char=1628|end_char=1629
+14	сдержанности	сдержанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	conj	_	start_char=1630|end_char=1642
+15	...	...	PUNCT	_	_	16	punct	_	start_char=1642|end_char=1645
+16	аристократизма	аристократизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	conj	_	start_char=1646|end_char=1660
+17	.	.	PUNCT	_	_	6	punct	_	start_char=1660|end_char=1661
+
+# text = Чтобы надо было ждать, пока случится что-нибудь, чтобы был повод взяться за руки и вдвоем убежать, а там прятаться, прижимаясь друг к другу, закрывая собой испуганную девочку с тёмными волосами, скромно опущенными глазами и нежными руками.
+# sent_id = 19
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	2	mark	_	start_char=1662|end_char=1667
+2	надо	надо	VERB	_	_	0	root	_	start_char=1668|end_char=1672
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=1673|end_char=1677
+4	ждать	ждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=1678|end_char=1683
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1683|end_char=1684
+6	пока	пока	SCONJ	_	_	7	mark	_	start_char=1685|end_char=1689
+7	случится	случиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	2	advcl	_	start_char=1690|end_char=1698
+8	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	nsubj	_	start_char=1699|end_char=1709
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1709|end_char=1710
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	start_char=1711|end_char=1716
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=1717|end_char=1720
+12	повод	повод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1721|end_char=1726
+13	взяться	взяться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	acl	_	start_char=1727|end_char=1734
+14	за	за	ADP	_	_	15	case	_	start_char=1735|end_char=1737
+15	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obl	_	start_char=1738|end_char=1742
+16	и	и	CCONJ	_	_	18	cc	_	start_char=1743|end_char=1744
+17	вдвоем	вдвоем	ADV	_	Degree=Pos	18	advmod	_	start_char=1745|end_char=1751
+18	убежать	убежать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	conj	_	start_char=1752|end_char=1759
+19	,	,	PUNCT	_	_	22	punct	_	start_char=1759|end_char=1760
+20	а	а	CCONJ	_	_	22	cc	_	start_char=1761|end_char=1762
+21	там	там	ADV	_	Degree=Pos|PronType=Dem	22	advmod	_	start_char=1763|end_char=1766
+22	прятаться	прятаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	13	conj	_	start_char=1767|end_char=1776
+23	,	,	PUNCT	_	_	24	punct	_	start_char=1776|end_char=1777
+24	прижимаясь	прижиматься	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	22	advcl	_	start_char=1778|end_char=1788
+25	друг	друг	PRON	_	Case=Nom|PronType=Rcp	24	obl	_	start_char=1789|end_char=1793
+26	к	к	ADP	_	_	25	fixed	_	start_char=1794|end_char=1795
+27	другу	друг	PRON	_	Case=Dat|PronType=Rcp	25	fixed	_	start_char=1796|end_char=1801
+28	,	,	PUNCT	_	_	29	punct	_	start_char=1801|end_char=1802
+29	закрывая	закрывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	24	conj	_	start_char=1803|end_char=1811
+30	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	29	iobj	_	start_char=1812|end_char=1817
+31	испуганную	испугать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	32	amod	_	start_char=1818|end_char=1828
+32	девочку	девочка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	29	obj	_	start_char=1829|end_char=1836
+33	с	с	ADP	_	_	35	case	_	start_char=1837|end_char=1838
+34	тёмными	темный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	35	amod	_	start_char=1839|end_char=1846
+35	волосами	волос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	32	nmod	_	start_char=1847|end_char=1855
+36	,	,	PUNCT	_	_	38	punct	_	start_char=1855|end_char=1856
+37	скромно	скромно	ADV	_	Degree=Pos	38	advmod	_	start_char=1857|end_char=1864
+38	опущенными	опустить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	_	start_char=1865|end_char=1875
+39	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	29	iobj	_	start_char=1876|end_char=1883
+40	и	и	CCONJ	_	_	42	cc	_	start_char=1884|end_char=1885
+41	нежными	нежный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	42	amod	_	start_char=1886|end_char=1893
+42	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	39	conj	_	start_char=1894|end_char=1900
+43	.	.	PUNCT	_	_	2	punct	_	start_char=1900|end_char=1901
+
+# text = Подшучивать над её стыдливостью, уверяя, что пока его килт короче, чем её юбка, то ей смущаться нечего, и любоваться стройными ногами и острыми коленками, а если ветер удачно дунет, то и выше.
+# sent_id = 20
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Подшучивать	подшучивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	csubj	_	start_char=1902|end_char=1913
+2	над	над	ADP	_	_	4	case	_	start_char=1914|end_char=1917
+3	её	ее	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=1918|end_char=1920
+4	стыдливостью	стыдливость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	obl	_	start_char=1921|end_char=1933
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1933|end_char=1934
+6	уверяя	уверять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1	advcl	_	start_char=1935|end_char=1941
+7	,	,	PUNCT	_	_	21	punct	_	start_char=1941|end_char=1942
+8	что	что	SCONJ	_	_	21	mark	_	start_char=1943|end_char=1946
+9	пока	пока	SCONJ	_	_	12	mark	_	start_char=1947|end_char=1951
+10	его	его	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=1952|end_char=1955
+11	килт	килт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=1956|end_char=1960
+12	короче	короткий	ADJ	_	Degree=Cmp	6	ccomp	_	start_char=1961|end_char=1967
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1967|end_char=1968
+14	чем	чем	SCONJ	_	_	16	case	_	start_char=1969|end_char=1972
+15	её	ее	DET	_	Poss=Yes|PronType=Prs	16	det	_	start_char=1973|end_char=1975
+16	юбка	юбка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	obl	_	start_char=1976|end_char=1980
+17	,	,	PUNCT	_	_	12	punct	_	start_char=1980|end_char=1981
+18	то	то	SCONJ	_	_	21	mark	_	start_char=1982|end_char=1984
+19	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	iobj	_	start_char=1985|end_char=1987
+20	смущаться	смущаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	21	csubj	_	start_char=1988|end_char=1997
+21	нечего	нечего	VERB	_	Polarity=Neg	0	root	_	start_char=1998|end_char=2004
+22	,	,	PUNCT	_	_	24	punct	_	start_char=2004|end_char=2005
+23	и	и	CCONJ	_	_	24	cc	_	start_char=2006|end_char=2007
+24	любоваться	любоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	21	conj	_	start_char=2008|end_char=2018
+25	стройными	стройный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	start_char=2019|end_char=2028
+26	ногами	нога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	24	iobj	_	start_char=2029|end_char=2035
+27	и	и	CCONJ	_	_	29	cc	_	start_char=2036|end_char=2037
+28	острыми	острый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	29	amod	_	start_char=2038|end_char=2045
+29	коленками	коленка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	26	conj	_	start_char=2046|end_char=2055
+30	,	,	PUNCT	_	_	39	punct	_	start_char=2055|end_char=2056
+31	а	а	CCONJ	_	_	39	cc	_	start_char=2057|end_char=2058
+32	если	если	SCONJ	_	_	35	mark	_	start_char=2059|end_char=2063
+33	ветер	ветер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	35	nsubj	_	start_char=2064|end_char=2069
+34	удачно	удачно	ADV	_	Degree=Pos	35	advmod	_	start_char=2070|end_char=2076
+35	дунет	дунуть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	39	advcl	_	start_char=2077|end_char=2082
+36	,	,	PUNCT	_	_	35	punct	_	start_char=2082|end_char=2083
+37	то	то	SCONJ	_	_	39	mark	_	start_char=2084|end_char=2086
+38	и	и	PART	_	_	39	advmod	_	start_char=2087|end_char=2088
+39	выше	высокий	ADJ	_	Degree=Cmp	21	conj	_	start_char=2089|end_char=2093
+40	.	.	PUNCT	_	_	21	punct	_	start_char=2093|end_char=2094
+
+# text = Вести себя так, будто он ей старший брат, а она ему младшая сестрёнка, не позволяя себе ни малейшего намека, ни слова, ни взгляда, ни жеста, которые могут быть истолкованы как-то по-другому...
+# sent_id = 21
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Вести	вести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2095|end_char=2100
+2	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	obj	_	start_char=2101|end_char=2105
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	start_char=2106|end_char=2109
+4	,	,	PUNCT	_	_	9	punct	_	start_char=2109|end_char=2110
+5	будто	будто	SCONJ	_	_	9	mark	_	start_char=2111|end_char=2116
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=2117|end_char=2119
+7	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	_	start_char=2120|end_char=2122
+8	старший	старший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=2123|end_char=2130
+9	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	advcl	_	start_char=2131|end_char=2135
+10	,	,	PUNCT	_	_	15	punct	_	start_char=2135|end_char=2136
+11	а	а	CCONJ	_	_	15	cc	_	start_char=2137|end_char=2138
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=2139|end_char=2142
+13	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	start_char=2143|end_char=2146
+14	младшая	младший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=2147|end_char=2154
+15	сестрёнка	сестренка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	start_char=2155|end_char=2164
+16	,	,	PUNCT	_	_	18	punct	_	start_char=2164|end_char=2165
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=2166|end_char=2168
+18	позволяя	позволять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	15	advcl	_	start_char=2169|end_char=2177
+19	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	18	iobj	_	start_char=2178|end_char=2182
+20	ни	ни	CCONJ	_	Polarity=Neg	22	cc	_	start_char=2183|end_char=2185
+21	малейшего	малейший	ADJ	_	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	22	amod	_	start_char=2186|end_char=2195
+22	намека	намек	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	obj	_	start_char=2196|end_char=2202
+23	,	,	PUNCT	_	_	25	punct	_	start_char=2202|end_char=2203
+24	ни	ни	CCONJ	_	Polarity=Neg	25	cc	_	start_char=2204|end_char=2206
+25	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	conj	_	start_char=2207|end_char=2212
+26	,	,	PUNCT	_	_	28	punct	_	start_char=2212|end_char=2213
+27	ни	ни	CCONJ	_	Polarity=Neg	28	cc	_	start_char=2214|end_char=2216
+28	взгляда	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	conj	_	start_char=2217|end_char=2224
+29	,	,	PUNCT	_	_	31	punct	_	start_char=2224|end_char=2225
+30	ни	ни	CCONJ	_	Polarity=Neg	31	cc	_	start_char=2226|end_char=2228
+31	жеста	жест	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	conj	_	start_char=2229|end_char=2234
+32	,	,	PUNCT	_	_	34	punct	_	start_char=2234|end_char=2235
+33	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	34	nsubj	_	start_char=2236|end_char=2243
+34	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	acl:relcl	_	start_char=2244|end_char=2249
+35	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	aux:pass	_	start_char=2250|end_char=2254
+36	истолкованы	истолковать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	34	xcomp	_	start_char=2255|end_char=2266
+37	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	38	advmod	_	start_char=2267|end_char=2273
+38	по-другому	по-другому	ADV	_	Degree=Pos	36	advmod	_	start_char=2274|end_char=2284
+39	...	...	PUNCT	_	_	1	punct	_	start_char=2284|end_char=2287
+
+# text = Тело помнило это и отзывалось, доводя Джейми до исступленной ярости, как по отношению к предателю.
+# sent_id = 22
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=2288|end_char=2292
+2	помнило	помнить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2293|end_char=2300
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=2301|end_char=2304
+4	и	и	CCONJ	_	_	5	cc	_	start_char=2305|end_char=2306
+5	отзывалось	отзываться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2307|end_char=2317
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2317|end_char=2318
+7	доводя	доводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=2319|end_char=2325
+8	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	7	obj	_	start_char=2326|end_char=2332
+9	до	до	ADP	_	_	11	case	_	start_char=2333|end_char=2335
+10	исступленной	исступить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	start_char=2336|end_char=2348
+11	ярости	ярость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	start_char=2349|end_char=2355
+12	,	,	PUNCT	_	_	17	punct	_	start_char=2355|end_char=2356
+13	как	как	SCONJ	_	_	17	case	_	start_char=2357|end_char=2360
+14	по	по	ADP	_	_	17	case	_	start_char=2361|end_char=2363
+15	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	fixed	_	start_char=2364|end_char=2373
+16	к	к	ADP	_	_	14	fixed	_	start_char=2374|end_char=2375
+17	предателю	предатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	obl	_	start_char=2376|end_char=2385
+18	.	.	PUNCT	_	_	2	punct	_	start_char=2385|end_char=2386
+
+# text = Дурацкие какие мысли.
+# sent_id = 23
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Дурацкие	дурацкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=2387|end_char=2395
+2	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Rel	3	det	_	start_char=2396|end_char=2401
+3	мысли	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	start_char=2402|end_char=2407
+4	.	.	PUNCT	_	_	1	punct	_	start_char=2407|end_char=2408
+
+# text = Просто надо заняться делом.
+# sent_id = 24
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Просто	просто	PART	_	_	2	advmod	_	start_char=2409|end_char=2415
+2	надо	надо	VERB	_	_	0	root	_	start_char=2416|end_char=2420
+3	заняться	заняться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	csubj	_	start_char=2421|end_char=2429
+4	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	iobj	_	start_char=2430|end_char=2435
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2435|end_char=2436
+
+# text = Что бы на его месте сделал Доктор?..
+# sent_id = 25
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Что	что	SCONJ	_	Mood=Cnd|Typo=Yes	6	mark	_	start_char=2437|end_char=2440
+2	бы	бы	X	_	_	6	aux	_	start_char=2441|end_char=2443
+3	на	на	ADP	_	_	5	case	_	start_char=2444|end_char=2446
+4	его	его	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=2447|end_char=2450
+5	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=2451|end_char=2456
+6	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2457|end_char=2463
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2464|end_char=2470
+8	?..	?..	PUNCT	_	_	6	punct	_	start_char=2470|end_char=2473
+
+# text = Доктор?!
+# sent_id = 26
+# metadata = Название: Память тела, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54628fdf00000a7d26f4072a/1/Pamyat-tela
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2474|end_char=2480
+2	?!	?!	PUNCT	_	_	1	punct	_	start_char=2480|end_char=2482
+

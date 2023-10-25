@@ -1,0 +1,679 @@
+# text = — Гиллан Карен, правильно?
+# sent_id = 0
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Гиллан	Гиллан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=2|end_char=8
+3	Карен	Карен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=9|end_char=14
+4	,	,	PUNCT	_	_	5	punct	_	start_char=14|end_char=15
+5	правильно	правильно	ADV	_	Degree=Pos	2	parataxis	_	start_char=16|end_char=25
+6	?	?	PUNCT	_	_	2	punct	_	start_char=25|end_char=26
+
+# text = — голос парня, скорее всего ассистента, вывел девушку из транса.
+# sent_id = 1
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	9	punct	_	start_char=27|end_char=28
+2	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=29|end_char=34
+3	парня	парень	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=35|end_char=40
+4	,	,	PUNCT	_	_	7	punct	_	start_char=40|end_char=41
+5	скорее	скорее	ADV	_	Degree=Cmp	7	parataxis	_	start_char=42|end_char=48
+6	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	start_char=49|end_char=54
+7	ассистента	ассистент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=55|end_char=65
+8	,	,	PUNCT	_	_	2	punct	_	start_char=65|end_char=66
+9	вывел	вывести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=67|end_char=72
+10	девушку	девушка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=73|end_char=80
+11	из	из	ADP	_	_	12	case	_	start_char=81|end_char=83
+12	транса	транс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=84|end_char=90
+13	.	.	PUNCT	_	_	9	punct	_	start_char=90|end_char=91
+
+# text = Она кивнула.
+# sent_id = 2
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=92|end_char=95
+2	кивнула	кивнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=96|end_char=103
+3	.	.	PUNCT	_	_	2	punct	_	start_char=103|end_char=104
+
+# text = — Ты следующая.
+# sent_id = 3
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	3	punct	_	start_char=105|end_char=106
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=107|end_char=109
+3	следующая	следующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=110|end_char=119
+4	.	.	PUNCT	_	_	3	punct	_	start_char=119|end_char=120
+
+# text = Рыжеволосая встала со своего места, уронив при этом телефон, который тут же разлетелся на маленькие детали во все стороны.
+# sent_id = 4
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Рыжеволосая	рыжеволосый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nsubj	_	start_char=122|end_char=133
+2	встала	встать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=134|end_char=140
+3	со	со	ADP	_	_	5	case	_	start_char=141|end_char=143
+4	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=144|end_char=150
+5	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	start_char=151|end_char=156
+6	,	,	PUNCT	_	_	7	punct	_	start_char=156|end_char=157
+7	уронив	уронить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=158|end_char=164
+8	при	при	ADP	_	_	9	case	_	start_char=165|end_char=168
+9	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	start_char=169|end_char=173
+10	телефон	телефон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=174|end_char=181
+11	,	,	PUNCT	_	_	15	punct	_	start_char=181|end_char=182
+12	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	start_char=183|end_char=190
+13	тут	тут	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=191|end_char=194
+14	же	же	PART	_	_	13	advmod	_	start_char=195|end_char=197
+15	разлетелся	разлететься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	acl:relcl	_	start_char=198|end_char=208
+16	на	на	ADP	_	_	18	case	_	start_char=209|end_char=211
+17	маленькие	маленький	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	18	amod	_	start_char=212|end_char=221
+18	детали	деталь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	obl	_	start_char=222|end_char=228
+19	во	во	ADP	_	_	21	case	_	start_char=229|end_char=231
+20	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	21	det	_	start_char=232|end_char=235
+21	стороны	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	obl	_	start_char=236|end_char=243
+22	.	.	PUNCT	_	_	2	punct	_	start_char=243|end_char=244
+
+# text = Девушка тихо выругалась, чем вызвала смешок у парня, стоявшего в дверях.
+# sent_id = 5
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=245|end_char=252
+2	тихо	тихо	ADV	_	Degree=Pos	3	advmod	_	start_char=253|end_char=257
+3	выругалась	выругаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=258|end_char=268
+4	,	,	PUNCT	_	_	6	punct	_	start_char=268|end_char=269
+5	чем	чем	SCONJ	_	_	6	mark	_	start_char=270|end_char=273
+6	вызвала	вызвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=274|end_char=281
+7	смешок	смешок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=282|end_char=288
+8	у	у	ADP	_	_	9	case	_	start_char=289|end_char=290
+9	парня	парень	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=291|end_char=296
+10	,	,	PUNCT	_	_	11	punct	_	start_char=296|end_char=297
+11	стоявшего	стоять	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	start_char=298|end_char=307
+12	в	в	ADP	_	_	13	case	_	start_char=308|end_char=309
+13	дверях	дверь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	obl	_	start_char=310|end_char=316
+14	.	.	PUNCT	_	_	3	punct	_	start_char=316|end_char=317
+
+# text = «Конечно, умею я показывать себя с нужной стороны» — подумала про себя рыжая, попутно собирая свой гаджет.
+# sent_id = 6
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	«	«	PUNCT	_	_	4	punct	_	start_char=319|end_char=320
+2	Конечно	конечно	ADV	_	Degree=Pos	4	parataxis	_	start_char=320|end_char=327
+3	,	,	PUNCT	_	_	2	punct	_	start_char=327|end_char=328
+4	умею	уметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=329|end_char=333
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=334|end_char=335
+6	показывать	показывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=336|end_char=346
+7	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	obj	_	start_char=347|end_char=351
+8	с	с	ADP	_	_	10	case	_	start_char=352|end_char=353
+9	нужной	нужный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=354|end_char=360
+10	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=361|end_char=368
+11	»	»	PUNCT	_	_	4	punct	_	start_char=368|end_char=369
+12	—	—	PUNCT	_	_	13	punct	_	start_char=370|end_char=371
+13	подумала	подумать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=372|end_char=380
+14	про	про	ADP	_	_	15	case	_	start_char=381|end_char=384
+15	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	13	obl	_	start_char=385|end_char=389
+16	рыжая	рыжой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	nsubj	_	start_char=390|end_char=395
+17	,	,	PUNCT	_	_	19	punct	_	start_char=395|end_char=396
+18	попутно	попутно	ADV	_	Degree=Pos	19	advmod	_	start_char=397|end_char=404
+19	собирая	собирать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	start_char=405|end_char=412
+20	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	21	det	_	start_char=413|end_char=417
+21	гаджет	гаджет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	start_char=418|end_char=424
+22	.	.	PUNCT	_	_	13	punct	_	start_char=424|end_char=425
+
+# text = Закончив, она встала с колен и направилась к двери.
+# sent_id = 7
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Закончив	закончить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=426|end_char=434
+2	,	,	PUNCT	_	_	1	punct	_	start_char=434|end_char=435
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=436|end_char=439
+4	встала	встать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=440|end_char=446
+5	с	с	ADP	_	_	6	case	_	start_char=447|end_char=448
+6	колен	коленок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	obl	_	start_char=449|end_char=454
+7	и	и	CCONJ	_	_	8	cc	_	start_char=455|end_char=456
+8	направилась	направиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=457|end_char=468
+9	к	к	ADP	_	_	10	case	_	start_char=469|end_char=470
+10	двери	дверь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	start_char=471|end_char=476
+11	.	.	PUNCT	_	_	4	punct	_	start_char=476|end_char=477
+
+# text = — Карен?
+# sent_id = 8
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=479|end_char=480
+2	Карен	Карен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=481|end_char=486
+3	?	?	PUNCT	_	_	2	punct	_	start_char=486|end_char=487
+
+# text = — задал вопрос человек, сидящий за столом.
+# sent_id = 9
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=488|end_char=489
+2	задал	задать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=490|end_char=495
+3	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=496|end_char=502
+4	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	start_char=503|end_char=510
+5	,	,	PUNCT	_	_	6	punct	_	start_char=510|end_char=511
+6	сидящий	сидеть	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	start_char=512|end_char=519
+7	за	за	ADP	_	_	8	case	_	start_char=520|end_char=522
+8	столом	стол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=523|end_char=529
+9	.	.	PUNCT	_	_	2	punct	_	start_char=529|end_char=530
+
+# text = Стивен Моффат.
+# sent_id = 10
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Стивен	Стивен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=531|end_char=537
+2	Моффат	Моффат	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=538|end_char=544
+3	.	.	PUNCT	_	_	1	punct	_	start_char=544|end_char=545
+
+# text = — Да, — ответила Гиллан неожиданно хрипло для себя.
+# sent_id = 11
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=547|end_char=548
+2	Да	да	PART	_	_	0	root	_	start_char=549|end_char=551
+3	,	,	PUNCT	_	_	5	punct	_	start_char=551|end_char=552
+4	—	—	PUNCT	_	_	5	punct	_	start_char=553|end_char=554
+5	ответила	ответить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=555|end_char=563
+6	Гиллан	Гиллан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	nsubj	_	start_char=564|end_char=570
+7	неожиданно	неожиданно	ADV	_	Degree=Pos	5	advmod	_	start_char=571|end_char=581
+8	хрипло	хрипло	ADV	_	Degree=Pos	5	advmod	_	start_char=582|end_char=588
+9	для	для	ADP	_	_	10	case	_	start_char=589|end_char=592
+10	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	5	obl	_	start_char=593|end_char=597
+11	.	.	PUNCT	_	_	2	punct	_	start_char=597|end_char=598
+
+# text = — Ну, что же, начнем, — потер руками мужчина.
+# sent_id = 12
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	10	punct	_	start_char=600|end_char=601
+2	Ну	ну	PART	_	_	10	discourse	_	start_char=602|end_char=604
+3	,	,	PUNCT	_	_	2	punct	_	start_char=604|end_char=605
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	10	parataxis	_	start_char=606|end_char=609
+5	же	же	PART	_	_	4	advmod	_	start_char=610|end_char=612
+6	,	,	PUNCT	_	_	7	punct	_	start_char=612|end_char=613
+7	начнем	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=614|end_char=620
+8	,	,	PUNCT	_	_	7	punct	_	start_char=620|end_char=621
+9	—	—	PUNCT	_	_	4	punct	_	start_char=622|end_char=623
+10	потер	потереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=624|end_char=629
+11	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	iobj	_	start_char=630|end_char=636
+12	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=637|end_char=644
+13	.	.	PUNCT	_	_	10	punct	_	start_char=644|end_char=645
+
+# text = Только Карен хотела было открыть рот, в помещение буквально ворвались двое парней.
+# sent_id = 13
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Только	только	PART	_	_	2	advmod	_	start_char=647|end_char=653
+2	Карен	Карен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=654|end_char=659
+3	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=660|end_char=666
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	start_char=667|end_char=671
+5	открыть	открыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=672|end_char=679
+6	рот	рот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=680|end_char=683
+7	,	,	PUNCT	_	_	11	punct	_	start_char=683|end_char=684
+8	в	в	ADP	_	_	9	case	_	start_char=685|end_char=686
+9	помещение	помещение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	start_char=687|end_char=696
+10	буквально	буквально	ADV	_	Degree=Pos	11	advmod	_	start_char=697|end_char=706
+11	ворвались	ворваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=707|end_char=716
+12	двое	двое	NUM	_	Case=Nom|NumForm=Word|NumType=Sets	13	nummod:gov	_	start_char=717|end_char=721
+13	парней	парень	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nsubj	_	start_char=722|end_char=728
+14	.	.	PUNCT	_	_	3	punct	_	start_char=728|end_char=729
+
+# text = На вид им было лет двадцать шесть, не больше.
+# sent_id = 14
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	На	на	ADP	_	_	2	case	_	start_char=730|end_char=732
+2	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=733|end_char=736
+3	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	iobj	_	start_char=737|end_char=739
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=740|end_char=744
+5	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	start_char=745|end_char=748
+6	двадцать	двадцать	NUM	_	Case=Nom|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=749|end_char=757
+7	шесть	шесть	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=758|end_char=763
+8	,	,	PUNCT	_	_	10	punct	_	start_char=763|end_char=764
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=765|end_char=767
+10	больше	большой	ADJ	_	Degree=Cmp	4	conj	_	start_char=768|end_char=774
+11	.	.	PUNCT	_	_	4	punct	_	start_char=774|end_char=775
+
+# text = Как подметила девушка, они были довольно приятной наружности.
+# sent_id = 15
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Как	как	SCONJ	_	_	2	mark	_	start_char=776|end_char=779
+2	подметила	подметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=780|end_char=789
+3	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=790|end_char=797
+4	,	,	PUNCT	_	_	2	punct	_	start_char=797|end_char=798
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=799|end_char=802
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=803|end_char=807
+7	довольно	довольно	ADV	_	Degree=Pos	8	advmod	_	start_char=808|end_char=816
+8	приятной	приятный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=817|end_char=825
+9	наружности	наружность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=826|end_char=836
+10	.	.	PUNCT	_	_	9	punct	_	start_char=836|end_char=837
+
+# text = — Сколько я вам говорил — не врывайтесь во время прослушивания!
+# sent_id = 16
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	8	punct	_	start_char=839|end_char=840
+2	Сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	5	obj	_	start_char=841|end_char=848
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=849|end_char=850
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	iobj	_	start_char=851|end_char=854
+5	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=855|end_char=862
+6	—	—	PUNCT	_	_	5	punct	_	start_char=863|end_char=864
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=865|end_char=867
+8	врывайтесь	врываться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=868|end_char=878
+9	во	во	ADP	_	_	11	case	_	start_char=879|end_char=881
+10	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	fixed	_	start_char=882|end_char=887
+11	прослушивания	прослушивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	start_char=888|end_char=901
+12	!	!	PUNCT	_	_	8	punct	_	start_char=901|end_char=902
+
+# text = Вы мне уже всех перепугали.
+# sent_id = 17
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=903|end_char=905
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=906|end_char=909
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=910|end_char=913
+4	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	5	obj	_	start_char=914|end_char=918
+5	перепугали	перепугать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=919|end_char=929
+6	.	.	PUNCT	_	_	5	punct	_	start_char=929|end_char=930
+
+# text = Никто с такими, как вы, не хочет сниматься!
+# sent_id = 18
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	9	nsubj	_	start_char=931|end_char=936
+2	с	с	ADP	_	_	3	case	_	start_char=937|end_char=938
+3	такими	такой	DET	_	Case=Ins|Number=Plur|PronType=Dem	9	obl	_	start_char=939|end_char=945
+4	,	,	PUNCT	_	_	6	punct	_	start_char=945|end_char=946
+5	как	как	SCONJ	_	_	6	case	_	start_char=947|end_char=950
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	obl	_	start_char=951|end_char=953
+7	,	,	PUNCT	_	_	6	punct	_	start_char=953|end_char=954
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=955|end_char=957
+9	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=958|end_char=963
+10	сниматься	сниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=964|end_char=973
+11	!	!	PUNCT	_	_	9	punct	_	start_char=973|end_char=974
+
+# text = — Моффат был недоволен.
+# sent_id = 19
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	4	punct	_	start_char=975|end_char=976
+2	Моффат	Моффат	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj	_	start_char=977|end_char=983
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=984|end_char=987
+4	недоволен	недовольный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=988|end_char=997
+5	.	.	PUNCT	_	_	4	punct	_	start_char=997|end_char=998
+
+# text = — Прости, Стив, — произнес парень с короткими волосами.
+# sent_id = 20
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1000|end_char=1001
+2	Прости	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1002|end_char=1008
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1008|end_char=1009
+4	Стив	Стив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	vocative	_	start_char=1010|end_char=1014
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1014|end_char=1015
+6	—	—	PUNCT	_	_	7	punct	_	start_char=1016|end_char=1017
+7	произнес	произнести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1018|end_char=1026
+8	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1027|end_char=1033
+9	с	с	ADP	_	_	11	case	_	start_char=1034|end_char=1035
+10	короткими	короткий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	amod	_	start_char=1036|end_char=1045
+11	волосами	волос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	start_char=1046|end_char=1054
+12	.	.	PUNCT	_	_	2	punct	_	start_char=1054|end_char=1055
+
+# text = — Это было в последний раз, — продолжил за него второй, — ух, какая красотка, — выдал он, оглядев Карен с головы до пят.
+# sent_id = 21
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	6	punct	_	start_char=1057|end_char=1058
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1059|end_char=1062
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1063|end_char=1067
+4	в	в	ADP	_	_	6	case	_	start_char=1068|end_char=1069
+5	последний	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1070|end_char=1079
+6	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	start_char=1080|end_char=1083
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1083|end_char=1084
+8	—	—	PUNCT	_	_	9	punct	_	start_char=1085|end_char=1086
+9	продолжил	продолжить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=1087|end_char=1096
+10	за	за	ADP	_	_	11	case	_	start_char=1097|end_char=1099
+11	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=1100|end_char=1104
+12	второй	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	9	obj	_	start_char=1105|end_char=1111
+13	,	,	PUNCT	_	_	18	punct	_	start_char=1111|end_char=1112
+14	—	—	PUNCT	_	_	18	punct	_	start_char=1113|end_char=1114
+15	ух	ух	INTJ	_	_	18	discourse	_	start_char=1115|end_char=1117
+16	,	,	PUNCT	_	_	15	punct	_	start_char=1117|end_char=1118
+17	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	18	det	_	start_char=1119|end_char=1124
+18	красотка	красотка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	start_char=1125|end_char=1133
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1133|end_char=1134
+20	—	—	PUNCT	_	_	21	punct	_	start_char=1135|end_char=1136
+21	выдал	выдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=1137|end_char=1142
+22	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=1143|end_char=1145
+23	,	,	PUNCT	_	_	24	punct	_	start_char=1145|end_char=1146
+24	оглядев	оглядеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	21	advcl	_	start_char=1147|end_char=1154
+25	Карен	Карен	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	24	obj	_	start_char=1155|end_char=1160
+26	с	с	ADP	_	_	27	case	_	start_char=1161|end_char=1162
+27	головы	голова	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	obl	_	start_char=1163|end_char=1169
+28	до	до	ADP	_	_	29	case	_	start_char=1170|end_char=1172
+29	пят	пята	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	obl	_	start_char=1173|end_char=1176
+30	.	.	PUNCT	_	_	6	punct	_	start_char=1176|end_char=1177
+
+# text = От такого высказывания в ее сторону щеки Гиллан стали пунцовыми.
+# sent_id = 22
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	От	от	ADP	_	_	3	case	_	start_char=1178|end_char=1180
+2	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=1181|end_char=1187
+3	высказывания	высказывание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	start_char=1188|end_char=1200
+4	в	в	ADP	_	_	6	case	_	start_char=1201|end_char=1202
+5	ее	ее	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=1203|end_char=1205
+6	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	start_char=1206|end_char=1213
+7	щеки	щека	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	start_char=1214|end_char=1218
+8	Гиллан	Гиллан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=1219|end_char=1225
+9	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1226|end_char=1231
+10	пунцовыми	пунцовый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	xcomp	_	start_char=1232|end_char=1241
+11	.	.	PUNCT	_	_	9	punct	_	start_char=1241|end_char=1242
+
+# text = — Продолжай, милая, не обращай на этих оболтусов внимания, — обратился к ней сценарист.
+# sent_id = 23
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1244|end_char=1245
+2	Продолжай	продолжать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1246|end_char=1255
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1255|end_char=1256
+4	милая	милый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=1257|end_char=1262
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1262|end_char=1263
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1264|end_char=1266
+7	обращай	обращать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1267|end_char=1274
+8	на	на	ADP	_	_	10	case	_	start_char=1275|end_char=1277
+9	этих	этот	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	10	det	_	start_char=1278|end_char=1282
+10	оболтусов	оболтус	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=1283|end_char=1292
+11	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obj	_	start_char=1293|end_char=1301
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1301|end_char=1302
+13	—	—	PUNCT	_	_	14	punct	_	start_char=1303|end_char=1304
+14	обратился	обратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=1305|end_char=1314
+15	к	к	ADP	_	_	16	case	_	start_char=1315|end_char=1316
+16	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	start_char=1317|end_char=1320
+17	сценарист	сценарист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=1321|end_char=1330
+18	.	.	PUNCT	_	_	2	punct	_	start_char=1330|end_char=1331
+
+# text = Девушка выдохнула и попыталась унять сердце, так бешено стучащее в груди, а затем начала.
+# sent_id = 24
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1333|end_char=1340
+2	выдохнула	выдохнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1341|end_char=1350
+3	и	и	CCONJ	_	_	4	cc	_	start_char=1351|end_char=1352
+4	попыталась	попытаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1353|end_char=1363
+5	унять	унять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1364|end_char=1369
+6	сердце	сердце	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=1370|end_char=1376
+7	,	,	PUNCT	_	_	10	punct	_	start_char=1376|end_char=1377
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=1378|end_char=1381
+9	бешено	бешено	ADV	_	Degree=Pos	10	advmod	_	start_char=1382|end_char=1388
+10	стучащее	стучать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	start_char=1389|end_char=1397
+11	в	в	ADP	_	_	12	case	_	start_char=1398|end_char=1399
+12	груди	грудь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	start_char=1400|end_char=1405
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1405|end_char=1406
+14	а	а	CCONJ	_	_	16	cc	_	start_char=1407|end_char=1408
+15	затем	затем	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=1409|end_char=1414
+16	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1415|end_char=1421
+17	.	.	PUNCT	_	_	2	punct	_	start_char=1421|end_char=1422
+
+# text = Стивен оценил ее собственный стиль, ее подачу.
+# sent_id = 25
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Стивен	Стивен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1423|end_char=1429
+2	оценил	оценить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1430|end_char=1436
+3	ее	ее	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=1437|end_char=1439
+4	собственный	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1440|end_char=1451
+5	стиль	стиль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=1452|end_char=1457
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1457|end_char=1458
+7	ее	ее	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=1459|end_char=1461
+8	подачу	подача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	conj	_	start_char=1462|end_char=1468
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1468|end_char=1469
+
+# text = Они уже второй день прослушивали девушек на роль спутницы доктора, и ни в одной из красоток не было никакой изюминки.
+# sent_id = 26
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=1470|end_char=1473
+2	уже	уже	ADV	_	Degree=Pos	3	advmod	_	start_char=1474|end_char=1477
+3	второй	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	4	amod	_	start_char=1478|end_char=1484
+4	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=1485|end_char=1489
+5	прослушивали	прослушивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1490|end_char=1502
+6	девушек	девушка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=1503|end_char=1510
+7	на	на	ADP	_	_	8	case	_	start_char=1511|end_char=1513
+8	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=1514|end_char=1518
+9	спутницы	спутница	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1519|end_char=1527
+10	доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	start_char=1528|end_char=1535
+11	,	,	PUNCT	_	_	19	punct	_	start_char=1535|end_char=1536
+12	и	и	CCONJ	_	_	19	cc	_	start_char=1537|end_char=1538
+13	ни	ни	PART	_	Polarity=Neg	15	advmod	_	start_char=1539|end_char=1541
+14	в	в	ADP	_	_	15	case	_	start_char=1542|end_char=1543
+15	одной	один	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Ind	19	obl	_	start_char=1544|end_char=1549
+16	из	из	ADP	_	_	17	case	_	start_char=1550|end_char=1552
+17	красоток	красотка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	start_char=1553|end_char=1561
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=1562|end_char=1564
+19	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=1565|end_char=1569
+20	никакой	никакой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Neg	21	det	_	start_char=1570|end_char=1577
+21	изюминки	изюминка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nsubj	_	start_char=1578|end_char=1586
+22	.	.	PUNCT	_	_	5	punct	_	start_char=1586|end_char=1587
+
+# text = Но тут, в его глазах сверкнула искра.
+# sent_id = 27
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Но	но	CCONJ	_	_	7	cc	_	start_char=1588|end_char=1590
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1591|end_char=1594
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1594|end_char=1595
+4	в	в	ADP	_	_	6	case	_	start_char=1596|end_char=1597
+5	его	его	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=1598|end_char=1601
+6	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	start_char=1602|end_char=1608
+7	сверкнула	сверкнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1609|end_char=1618
+8	искра	искра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=1619|end_char=1624
+9	.	.	PUNCT	_	_	7	punct	_	start_char=1624|end_char=1625
+
+# text = В итоге, Карен услышала лишь «Спасибо, мы вам перезвоним», которое говорят всем.
+# sent_id = 28
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	В	в	ADP	_	_	2	case	_	start_char=1627|end_char=1628
+2	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	parataxis	_	start_char=1629|end_char=1634
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1634|end_char=1635
+4	Карен	Карен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	nsubj	_	start_char=1636|end_char=1641
+5	услышала	услышать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1642|end_char=1650
+6	лишь	лишь	PART	_	_	8	advmod	_	start_char=1651|end_char=1655
+7	«	«	PUNCT	_	_	8	punct	_	start_char=1656|end_char=1657
+8	Спасибо	спасибо	PART	_	_	5	parataxis	_	start_char=1657|end_char=1664
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1664|end_char=1665
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=1666|end_char=1668
+11	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	iobj	_	start_char=1669|end_char=1672
+12	перезвоним	перезвонить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=1673|end_char=1683
+13	»	»	PUNCT	_	_	12	punct	_	start_char=1683|end_char=1684
+14	,	,	PUNCT	_	_	16	punct	_	start_char=1684|end_char=1685
+15	которое	который	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	16	nsubj	_	start_char=1686|end_char=1693
+16	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	start_char=1694|end_char=1701
+17	всем	все	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|PronType=Tot	16	iobj	_	start_char=1702|end_char=1706
+18	.	.	PUNCT	_	_	5	punct	_	start_char=1706|end_char=1707
+
+# text = Ни на что уже не надеявшись, девушка отправилась домой.
+# sent_id = 29
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Ни	ни	PART	_	Polarity=Neg	3	advmod	_	start_char=1708|end_char=1710
+2	на	на	ADP	_	_	3	case	_	start_char=1711|end_char=1713
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	9	obl	_	start_char=1714|end_char=1717
+4	уже	уже	ADV	_	Degree=Pos	6	advmod	_	start_char=1718|end_char=1721
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1722|end_char=1724
+6	надеявшись	надеяться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	9	advcl	_	start_char=1725|end_char=1735
+7	,	,	PUNCT	_	_	6	punct	_	start_char=1735|end_char=1736
+8	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=1737|end_char=1744
+9	отправилась	отправиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1745|end_char=1756
+10	домой	домой	ADV	_	Degree=Pos	9	advmod	_	start_char=1757|end_char=1762
+11	.	.	PUNCT	_	_	9	punct	_	start_char=1762|end_char=1763
+
+# text = *** — Но, Стив, ты обязан её взять, ты ведь слышал!
+# sent_id = 30
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	*	*	PUNCT	_	_	9	punct	_	start_char=1765|end_char=1766
+2	**	**	PUNCT	_	_	9	punct	_	start_char=1766|end_char=1768
+3	—	—	PUNCT	_	_	9	punct	_	start_char=1770|end_char=1771
+4	Но	но	CCONJ	_	_	9	cc	_	start_char=1772|end_char=1774
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1774|end_char=1775
+6	Стив	Стив	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	vocative	_	start_char=1776|end_char=1780
+7	,	,	PUNCT	_	_	6	punct	_	start_char=1780|end_char=1781
+8	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=1782|end_char=1784
+9	обязан	обязанный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1785|end_char=1791
+10	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=1792|end_char=1794
+11	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=1795|end_char=1800
+12	,	,	PUNCT	_	_	15	punct	_	start_char=1800|end_char=1801
+13	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=1802|end_char=1804
+14	ведь	ведь	PART	_	_	15	advmod	_	start_char=1805|end_char=1809
+15	слышал	слышать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1810|end_char=1816
+16	!	!	PUNCT	_	_	9	punct	_	start_char=1816|end_char=1817
+
+# text = Она то, что нам нужно!
+# sent_id = 31
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=1818|end_char=1821
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=1822|end_char=1824
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1824|end_char=1825
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	6	nsubj	_	start_char=1826|end_char=1829
+5	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	iobj	_	start_char=1830|end_char=1833
+6	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	acl:relcl	_	start_char=1834|end_char=1839
+7	!	!	PUNCT	_	_	2	punct	_	start_char=1839|end_char=1840
+
+# text = — твердили почти в один голос парни.
+# sent_id = 32
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1841|end_char=1842
+2	твердили	твердить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1843|end_char=1851
+3	почти	почти	ADV	_	Degree=Pos	6	advmod	_	start_char=1852|end_char=1857
+4	в	в	ADP	_	_	6	case	_	start_char=1858|end_char=1859
+5	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=1860|end_char=1864
+6	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1865|end_char=1870
+7	парни	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=1871|end_char=1876
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1876|end_char=1877
+
+# text = — Тишина!
+# sent_id = 33
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1879|end_char=1880
+2	Тишина	тишина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1881|end_char=1887
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1887|end_char=1888
+
+# text = — прикрикнул сценарист.
+# sent_id = 34
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1889|end_char=1890
+2	прикрикнул	прикрикнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1891|end_char=1901
+3	сценарист	сценарист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1902|end_char=1911
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1911|end_char=1912
+
+# text = — А теперь, по очереди.
+# sent_id = 35
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1913|end_char=1914
+2	А	а	CCONJ	_	_	3	cc	_	start_char=1915|end_char=1916
+3	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=1917|end_char=1923
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1923|end_char=1924
+5	по	по	ADP	_	_	6	case	_	start_char=1925|end_char=1927
+6	очереди	очередь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	conj	_	start_char=1928|end_char=1935
+7	.	.	PUNCT	_	_	3	punct	_	start_char=1935|end_char=1936
+
+# text = — Ну, она же не похожа на всех!
+# sent_id = 36
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	7	punct	_	start_char=1938|end_char=1939
+2	Ну	ну	PART	_	_	7	discourse	_	start_char=1940|end_char=1942
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1942|end_char=1943
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=1944|end_char=1947
+5	же	же	PART	_	_	4	advmod	_	start_char=1948|end_char=1950
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1951|end_char=1953
+7	похожа	похожий	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=1954|end_char=1960
+8	на	на	ADP	_	_	9	case	_	start_char=1961|end_char=1963
+9	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	7	obl	_	start_char=1964|end_char=1968
+10	!	!	PUNCT	_	_	7	punct	_	start_char=1968|end_char=1969
+
+# text = В ней что-то есть, именно то, что мы искали!
+# sent_id = 37
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	В	в	ADP	_	_	2	case	_	start_char=1970|end_char=1971
+2	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=1972|end_char=1975
+3	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	nsubj	_	start_char=1976|end_char=1982
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1983|end_char=1987
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1987|end_char=1988
+6	именно	именно	PART	_	_	7	advmod	_	start_char=1989|end_char=1995
+7	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=1996|end_char=1998
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1998|end_char=1999
+9	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	11	obj	_	start_char=2000|end_char=2003
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=2004|end_char=2006
+11	искали	искать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=2007|end_char=2013
+12	!	!	PUNCT	_	_	4	punct	_	start_char=2013|end_char=2014
+
+# text = — сказал Дарвилл.
+# sent_id = 38
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2015|end_char=2016
+2	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2017|end_char=2023
+3	Дарвилл	Дарвилл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2024|end_char=2031
+4	.	.	PUNCT	_	_	2	punct	_	start_char=2031|end_char=2032
+
+# text = — К тому же, она красивая, — ехидно улыбнулся Смит.
+# sent_id = 39
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	7	punct	_	start_char=2034|end_char=2035
+2	К	к	ADP	_	_	3	case	_	start_char=2036|end_char=2037
+3	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	start_char=2038|end_char=2042
+4	же	же	PART	_	_	3	advmod	_	start_char=2043|end_char=2045
+5	,	,	PUNCT	_	_	3	punct	_	start_char=2045|end_char=2046
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=2047|end_char=2050
+7	красивая	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=2051|end_char=2059
+8	,	,	PUNCT	_	_	11	punct	_	start_char=2059|end_char=2060
+9	—	—	PUNCT	_	_	11	punct	_	start_char=2061|end_char=2062
+10	ехидно	ехидно	ADV	_	Degree=Pos	11	advmod	_	start_char=2063|end_char=2069
+11	улыбнулся	улыбнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=2070|end_char=2079
+12	Смит	Смит	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	11	nsubj	_	start_char=2080|end_char=2084
+13	.	.	PUNCT	_	_	7	punct	_	start_char=2084|end_char=2085
+
+# text = — Абсолютно с тобой согласен, Артур, но мне надо все обдумать, — ответил мужчина, — а, ты, — он ткнул указательным пальцем в грудь Мэтта, — не смей портить её.
+# sent_id = 40
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	5	punct	_	start_char=2087|end_char=2088
+2	Абсолютно	абсолютно	ADV	_	Degree=Pos	4	advmod	_	start_char=2089|end_char=2098
+3	с	с	ADP	_	_	4	case	_	start_char=2099|end_char=2100
+4	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	5	obl	_	start_char=2101|end_char=2106
+5	согласен	согласный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2107|end_char=2115
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2115|end_char=2116
+7	Артур	Артур	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	vocative	_	start_char=2117|end_char=2122
+8	,	,	PUNCT	_	_	11	punct	_	start_char=2122|end_char=2123
+9	но	но	CCONJ	_	_	11	cc	_	start_char=2124|end_char=2126
+10	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	iobj	_	start_char=2127|end_char=2130
+11	надо	надо	VERB	_	_	5	conj	_	start_char=2131|end_char=2135
+12	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	13	obj	_	start_char=2136|end_char=2139
+13	обдумать	обдумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	csubj	_	start_char=2140|end_char=2148
+14	,	,	PUNCT	_	_	16	punct	_	start_char=2148|end_char=2149
+15	—	—	PUNCT	_	_	16	punct	_	start_char=2150|end_char=2151
+16	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2152|end_char=2159
+17	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=2160|end_char=2167
+18	,	,	PUNCT	_	_	26	punct	_	start_char=2167|end_char=2168
+19	—	—	PUNCT	_	_	26	punct	_	start_char=2169|end_char=2170
+20	а	а	CCONJ	_	_	26	cc	_	start_char=2171|end_char=2172
+21	,	,	PUNCT	_	_	22	punct	_	start_char=2172|end_char=2173
+22	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	26	nsubj	_	start_char=2174|end_char=2176
+23	,	,	PUNCT	_	_	26	punct	_	start_char=2176|end_char=2177
+24	—	—	PUNCT	_	_	26	punct	_	start_char=2178|end_char=2179
+25	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=2180|end_char=2182
+26	ткнул	ткнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2183|end_char=2188
+27	указательным	указательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	start_char=2189|end_char=2201
+28	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	iobj	_	start_char=2202|end_char=2209
+29	в	в	ADP	_	_	30	case	_	start_char=2210|end_char=2211
+30	грудь	грудь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obl	_	start_char=2212|end_char=2217
+31	Мэтта	Мэтт	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	30	nmod	_	start_char=2218|end_char=2223
+32	,	,	PUNCT	_	_	35	punct	_	start_char=2223|end_char=2224
+33	—	—	PUNCT	_	_	35	punct	_	start_char=2225|end_char=2226
+34	не	не	PART	_	Polarity=Neg	35	advmod	_	start_char=2227|end_char=2229
+35	смей	сметь	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2230|end_char=2234
+36	портить	портить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	35	xcomp	_	start_char=2235|end_char=2242
+37	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	obj	_	start_char=2243|end_char=2245
+38	.	.	PUNCT	_	_	5	punct	_	start_char=2245|end_char=2246
+
+# text = — Да, ладно тебе, — отмахнулся парень.
+# sent_id = 41
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2248|end_char=2249
+2	Да	да	PART	_	_	4	parataxis	_	start_char=2250|end_char=2252
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2252|end_char=2253
+4	ладно	ладно	PART	_	_	0	root	_	start_char=2254|end_char=2259
+5	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	start_char=2260|end_char=2264
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2264|end_char=2265
+7	—	—	PUNCT	_	_	8	punct	_	start_char=2266|end_char=2267
+8	отмахнулся	отмахнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2268|end_char=2278
+9	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=2279|end_char=2285
+10	.	.	PUNCT	_	_	4	punct	_	start_char=2285|end_char=2286
+
+# text = Так и прошел этот день.
+# sent_id = 42
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2288|end_char=2291
+2	и	и	PART	_	_	3	advmod	_	start_char=2292|end_char=2293
+3	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2294|end_char=2300
+4	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	start_char=2301|end_char=2305
+5	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2306|end_char=2310
+6	.	.	PUNCT	_	_	3	punct	_	start_char=2310|end_char=2311
+
+# text = Первый день новой жизни.
+# sent_id = 43
+# metadata = Название: Amy's Choice., автор: Lerks, ссылка: https://ru.fanfiktion.net/s/563b7ef70000116a1c720b07/1/Amy-039-s-Choice
+1	Первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	2	amod	_	start_char=2312|end_char=2318
+2	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2319|end_char=2323
+3	новой	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=2324|end_char=2329
+4	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=2330|end_char=2335
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2335|end_char=2336
+

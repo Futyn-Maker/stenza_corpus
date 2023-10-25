@@ -17,10 +17,10 @@ def search_sequence(request):
     output = []
     for entry, search_type in request:
         if search_type != 'lemma+POS':
-            query = f'SELECT ID_sent, ID FROM Words WHERE Words.{search_type}=?'
+            query = f'SELECT ID_Sent, ID FROM Words WHERE Words.{search_type}=?'
             params = (entry[0],)
         else:
-            query = 'SELECT ID_sent, ID FROM Words WHERE Words.lemma=? AND Words.POS=?'
+            query = 'SELECT ID_Sent, ID FROM Words WHERE Words.lemma=? AND Words.POS=?'
             params = (entry[0], entry[1])
         res = cur.execute(query, params)
         output.append(res.fetchall())
@@ -53,10 +53,10 @@ def search_one(request):
     """Для поиска одного токена. Возвращает релевантные предложения"""
     entry, search_type = request[0]
     if search_type != 'lemma+POS':
-        query = f'SELECT DISTINCT Sentence, Author, Name, Link FROM Sentences JOIN Words ON Words.ID_sent = Sentences.ID WHERE Words.{search_type}=?'
+        query = f'SELECT DISTINCT Sentence, Author, Name, Link FROM Sentences JOIN Words ON Words.ID_Sent = Sentences.ID WHERE Words.{search_type}=?'
         params = (entry[0],)
     else:
-        query = 'SELECT DISTINCT Sentence, Author, Name, Link FROM Sentences JOIN Words ON Words.ID_sent = Sentences.ID WHERE Words.lemma=? AND Words.POS=?'
+        query = 'SELECT DISTINCT Sentence, Author, Name, Link FROM Sentences JOIN Words ON Words.ID_Sent = Sentences.ID WHERE Words.lemma=? AND Words.POS=?'
         params = (entry[0], entry[1])
     res = cur.execute(query, params)
     return res.fetchall()

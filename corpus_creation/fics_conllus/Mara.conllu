@@ -1,0 +1,749 @@
+# text = Тиган очнулась в пещере.
+# sent_id = 0
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Тиган	Тиган	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	2	nsubj	_	start_char=0|end_char=5
+2	очнулась	очнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6|end_char=14
+3	в	в	ADP	_	_	4	case	_	start_char=15|end_char=16
+4	пещере	пещера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=17|end_char=23
+5	.	.	PUNCT	_	_	2	punct	_	start_char=23|end_char=24
+
+# text = Сначала её накрыло волной паники, она не могла вспомнить, кто она, как тут оказалась, потом что-то прояснилось.
+# sent_id = 1
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Сначала	сначала	ADV	_	Degree=Pos	3	advmod	_	start_char=25|end_char=32
+2	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=33|end_char=35
+3	накрыло	накрыть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=36|end_char=43
+4	волной	волна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	start_char=44|end_char=50
+5	паники	паник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=51|end_char=57
+6	,	,	PUNCT	_	_	9	punct	_	start_char=57|end_char=58
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=59|end_char=62
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=63|end_char=65
+9	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=66|end_char=71
+10	вспомнить	вспомнить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=72|end_char=81
+11	,	,	PUNCT	_	_	12	punct	_	start_char=81|end_char=82
+12	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	ccomp	_	start_char=83|end_char=86
+13	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=87|end_char=90
+14	,	,	PUNCT	_	_	17	punct	_	start_char=90|end_char=91
+15	как	как	SCONJ	_	_	17	mark	_	start_char=92|end_char=95
+16	тут	тут	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=96|end_char=99
+17	оказалась	оказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	start_char=100|end_char=109
+18	,	,	PUNCT	_	_	21	punct	_	start_char=109|end_char=110
+19	потом	потом	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=111|end_char=116
+20	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	21	nsubj	_	start_char=117|end_char=123
+21	прояснилось	проясниться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=124|end_char=135
+22	.	.	PUNCT	_	_	3	punct	_	start_char=135|end_char=136
+
+# text = "Я – Тиган.
+# sent_id = 2
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	"	"	PUNCT	_	_	2	punct	_	start_char=137|end_char=138
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=138|end_char=139
+3	–	–	PUNCT	_	_	4	punct	_	start_char=140|end_char=141
+4	Тиган	Тиган	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	0	root	_	start_char=142|end_char=147
+5	.	.	PUNCT	_	_	2	punct	_	start_char=147|end_char=148
+
+# text = Я тут, в пещере, потому что...
+# sent_id = 3
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=149|end_char=150
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=151|end_char=154
+3	,	,	PUNCT	_	_	5	punct	_	start_char=154|end_char=155
+4	в	в	ADP	_	_	5	case	_	start_char=156|end_char=157
+5	пещере	пещера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	conj	_	start_char=158|end_char=164
+6	,	,	PUNCT	_	_	7	punct	_	start_char=164|end_char=165
+7	потому	потому	ADV	_	Degree=Pos|PronType=Dem	2	conj	_	start_char=166|end_char=172
+8	что	что	SCONJ	_	_	7	fixed	_	start_char=173|end_char=176
+9	...	...	PUNCT	_	_	2	punct	_	start_char=176|end_char=179
+
+# text = Мара!
+# sent_id = 4
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	start_char=180|end_char=184
+2	!	!	PUNCT	_	_	1	punct	_	start_char=184|end_char=185
+
+# text = Он (оно, они?) снова пытается воплотиться, захватить мой разум и моё тело!".
+# sent_id = 5
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=186|end_char=188
+2	(	(	PUNCT	_	_	5	punct	_	start_char=189|end_char=190
+3	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=190|end_char=193
+4	,	,	PUNCT	_	_	5	punct	_	start_char=193|end_char=194
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	parataxis	_	start_char=195|end_char=198
+6	?	?	PUNCT	_	_	5	punct	_	start_char=198|end_char=199
+7	)	)	PUNCT	_	_	5	punct	_	start_char=199|end_char=200
+8	снова	снова	ADV	_	Degree=Pos	9	advmod	_	start_char=201|end_char=206
+9	пытается	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=207|end_char=215
+10	воплотиться	воплотиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=216|end_char=227
+11	,	,	PUNCT	_	_	12	punct	_	start_char=227|end_char=228
+12	захватить	захватить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	conj	_	start_char=229|end_char=238
+13	мой	мой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	start_char=239|end_char=242
+14	разум	разум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=243|end_char=248
+15	и	и	CCONJ	_	_	17	cc	_	start_char=249|end_char=250
+16	моё	мой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	start_char=251|end_char=254
+17	тело	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	conj	_	start_char=255|end_char=259
+18	!	!	PUNCT	_	_	17	punct	_	start_char=259|end_char=260
+19	"	"	PUNCT	_	_	9	punct	_	start_char=260|end_char=261
+20	.	.	PUNCT	_	_	9	punct	_	start_char=261|end_char=262
+
+# text = Она оглядела себя – нет, ничего чужого, чуждого, змеиного, никаких рисунков змей на руках, как обычно помечает своих носителей Мара, только она сама.
+# sent_id = 6
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=263|end_char=266
+2	оглядела	оглядеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=267|end_char=275
+3	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	obj	_	start_char=276|end_char=280
+4	–	–	PUNCT	_	_	5	punct	_	start_char=281|end_char=282
+5	нет	нет	PART	_	Polarity=Neg	2	parataxis	_	start_char=283|end_char=286
+6	,	,	PUNCT	_	_	7	punct	_	start_char=286|end_char=287
+7	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	5	conj	_	start_char=288|end_char=294
+8	чужого	чужой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=295|end_char=301
+9	,	,	PUNCT	_	_	10	punct	_	start_char=301|end_char=302
+10	чуждого	чуждый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	conj	_	start_char=303|end_char=310
+11	,	,	PUNCT	_	_	12	punct	_	start_char=310|end_char=311
+12	змеиного	змеиный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	start_char=312|end_char=320
+13	,	,	PUNCT	_	_	15	punct	_	start_char=320|end_char=321
+14	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	15	det	_	start_char=322|end_char=329
+15	рисунков	рисунок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	conj	_	start_char=330|end_char=338
+16	змей	змей	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	start_char=339|end_char=343
+17	на	на	ADP	_	_	18	case	_	start_char=344|end_char=346
+18	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	nmod	_	start_char=347|end_char=352
+19	,	,	PUNCT	_	_	22	punct	_	start_char=352|end_char=353
+20	как	как	SCONJ	_	_	22	mark	_	start_char=354|end_char=357
+21	обычно	обычно	ADV	_	Degree=Pos	22	advmod	_	start_char=358|end_char=364
+22	помечает	помечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=365|end_char=373
+23	своих	свой	DET	_	Animacy=Anim|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	24	det	_	start_char=374|end_char=379
+24	носителей	носитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	22	obj	_	start_char=380|end_char=389
+25	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	24	appos	_	start_char=390|end_char=394
+26	,	,	PUNCT	_	_	28	punct	_	start_char=394|end_char=395
+27	только	только	PART	_	_	28	advmod	_	start_char=396|end_char=402
+28	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	conj	_	start_char=403|end_char=406
+29	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	28	det	_	start_char=407|end_char=411
+30	.	.	PUNCT	_	_	2	punct	_	start_char=411|end_char=412
+
+# text = "Всё закончилось.
+# sent_id = 7
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	"	"	PUNCT	_	_	3	punct	_	start_char=413|end_char=414
+2	Всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	nsubj	_	start_char=414|end_char=417
+3	закончилось	закончиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=418|end_char=429
+4	.	.	PUNCT	_	_	3	punct	_	start_char=429|end_char=430
+
+# text = Оно ушло.
+# sent_id = 8
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=431|end_char=434
+2	ушло	уйти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=435|end_char=439
+3	.	.	PUNCT	_	_	2	punct	_	start_char=439|end_char=440
+
+# text = Нет, он сам сказал, он никогда не уходит, раз проснувшись, он навсегда остаётся тёмной частью души, которая будет следить за каждым моим шагом, чтобы однажды взять верх.
+# sent_id = 9
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Нет	нет	PART	_	Polarity=Neg	5	parataxis	_	start_char=441|end_char=444
+2	,	,	PUNCT	_	_	1	punct	_	start_char=444|end_char=445
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=446|end_char=448
+4	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	3	acl	_	start_char=449|end_char=452
+5	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=453|end_char=459
+6	,	,	PUNCT	_	_	10	punct	_	start_char=459|end_char=460
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=461|end_char=463
+8	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	10	advmod	_	start_char=464|end_char=471
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=472|end_char=474
+10	уходит	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	start_char=475|end_char=481
+11	,	,	PUNCT	_	_	17	punct	_	start_char=481|end_char=482
+12	раз	раз	SCONJ	_	_	13	mark	_	start_char=483|end_char=486
+13	проснувшись	проснуться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	17	advcl	_	start_char=487|end_char=498
+14	,	,	PUNCT	_	_	13	punct	_	start_char=498|end_char=499
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=500|end_char=502
+16	навсегда	навсегда	ADV	_	Degree=Pos|PronType=Tot	17	advmod	_	start_char=503|end_char=511
+17	остаётся	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=512|end_char=520
+18	тёмной	темный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=521|end_char=527
+19	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	xcomp	_	start_char=528|end_char=534
+20	души	душа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	start_char=535|end_char=539
+21	,	,	PUNCT	_	_	24	punct	_	start_char=539|end_char=540
+22	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	24	nsubj	_	start_char=541|end_char=548
+23	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	24	aux	_	start_char=549|end_char=554
+24	следить	следить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	acl:relcl	_	start_char=555|end_char=562
+25	за	за	ADP	_	_	28	case	_	start_char=563|end_char=565
+26	каждым	каждый	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	28	det	_	start_char=566|end_char=572
+27	моим	мой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	28	det	_	start_char=573|end_char=577
+28	шагом	шаг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	obl	_	start_char=578|end_char=583
+29	,	,	PUNCT	_	_	32	punct	_	start_char=583|end_char=584
+30	чтобы	чтобы	SCONJ	_	Mood=Cnd	32	mark	_	start_char=585|end_char=590
+31	однажды	однажды	ADV	_	Degree=Pos	32	advmod	_	start_char=591|end_char=598
+32	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	advcl	_	start_char=599|end_char=604
+33	верх	верх	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	obj	_	start_char=605|end_char=609
+34	.	.	PUNCT	_	_	5	punct	_	start_char=609|end_char=610
+
+# text = Я буду настороже.
+# sent_id = 10
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=611|end_char=612
+2	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	_	start_char=613|end_char=617
+3	настороже	настороже	ADV	_	Degree=Cmp	0	root	_	start_char=618|end_char=627
+4	.	.	PUNCT	_	_	3	punct	_	start_char=627|end_char=628
+
+# text = Я сильная, я справилась однажды – справлюсь и снова.
+# sent_id = 11
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=629|end_char=630
+2	сильная	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=631|end_char=638
+3	,	,	PUNCT	_	_	5	punct	_	start_char=638|end_char=639
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=640|end_char=641
+5	справилась	справиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=642|end_char=652
+6	однажды	однажды	ADV	_	Degree=Pos	5	advmod	_	start_char=653|end_char=660
+7	–	–	PUNCT	_	_	8	punct	_	start_char=661|end_char=662
+8	справлюсь	справиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=663|end_char=672
+9	и	и	CCONJ	_	_	10	cc	_	start_char=673|end_char=674
+10	снова	снова	ADV	_	Degree=Pos	8	conj	_	start_char=675|end_char=680
+11	.	.	PUNCT	_	_	2	punct	_	start_char=680|end_char=681
+
+# text = Он решил, что я – самая слабая часть нашей команды, он ошибся".
+# sent_id = 12
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=682|end_char=684
+2	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=685|end_char=690
+3	,	,	PUNCT	_	_	9	punct	_	start_char=690|end_char=691
+4	что	что	SCONJ	_	_	9	mark	_	start_char=692|end_char=695
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=696|end_char=697
+6	–	–	PUNCT	_	_	9	punct	_	start_char=698|end_char=699
+7	самая	самый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	8	det	_	start_char=700|end_char=705
+8	слабая	слабый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=706|end_char=712
+9	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	start_char=713|end_char=718
+10	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	start_char=719|end_char=724
+11	команды	команда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=725|end_char=732
+12	,	,	PUNCT	_	_	14	punct	_	start_char=732|end_char=733
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=734|end_char=736
+14	ошибся	ошибаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=737|end_char=743
+15	"	"	PUNCT	_	_	14	punct	_	start_char=743|end_char=744
+16	.	.	PUNCT	_	_	2	punct	_	start_char=744|end_char=745
+
+# text = Тиган очнулась в заброшенном доме, где они с Доктором и несколькими местными жителями противостояли далекам.
+# sent_id = 13
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Тиган	Тиган	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	2	nsubj	_	start_char=747|end_char=752
+2	очнулась	очнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=753|end_char=761
+3	в	в	ADP	_	_	5	case	_	start_char=762|end_char=763
+4	заброшенном	забросить	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	start_char=764|end_char=775
+5	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=776|end_char=780
+6	,	,	PUNCT	_	_	15	punct	_	start_char=780|end_char=781
+7	где	где	ADV	_	Degree=Pos|PronType=Rel	15	advmod	_	start_char=782|end_char=785
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=786|end_char=789
+9	с	с	ADP	_	_	10	case	_	start_char=790|end_char=791
+10	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	15	obl	_	start_char=792|end_char=800
+11	и	и	CCONJ	_	_	14	cc	_	start_char=801|end_char=802
+12	несколькими	несколько	NUM	_	Case=Ins|NumForm=Word|NumType=Card	14	nummod	_	start_char=803|end_char=814
+13	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	amod	_	start_char=815|end_char=823
+14	жителями	житель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	10	conj	_	start_char=824|end_char=832
+15	противостояли	противостоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=833|end_char=846
+16	далекам	далек	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	15	iobj	_	start_char=847|end_char=854
+17	.	.	PUNCT	_	_	2	punct	_	start_char=854|end_char=855
+
+# text = Нестерпимо болела голова, немного тошнило.
+# sent_id = 14
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Нестерпимо	нестерпимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=856|end_char=866
+2	болела	болеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=867|end_char=873
+3	голова	голова	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=874|end_char=880
+4	,	,	PUNCT	_	_	6	punct	_	start_char=880|end_char=881
+5	немного	немного	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=882|end_char=889
+6	тошнило	тошнить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=890|end_char=897
+7	.	.	PUNCT	_	_	1	punct	_	start_char=897|end_char=898
+
+# text = "Почему никогда никого нет рядом, когда они нужны, когда мне так плохо?
+# sent_id = 15
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	"	"	PUNCT	_	_	5	punct	_	start_char=899|end_char=900
+2	Почему	почему	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=900|end_char=906
+3	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	5	advmod	_	start_char=907|end_char=914
+4	никого	никто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Neg	5	obj	_	start_char=915|end_char=921
+5	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=922|end_char=925
+6	рядом	рядом	ADV	_	Degree=Pos	5	advmod	_	start_char=926|end_char=931
+7	,	,	PUNCT	_	_	10	punct	_	start_char=931|end_char=932
+8	когда	когда	SCONJ	_	_	10	mark	_	start_char=933|end_char=938
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=939|end_char=942
+10	нужны	нужный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	5	advcl	_	start_char=943|end_char=948
+11	,	,	PUNCT	_	_	15	punct	_	start_char=948|end_char=949
+12	когда	когда	SCONJ	_	_	15	mark	_	start_char=950|end_char=955
+13	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	iobj	_	start_char=956|end_char=959
+14	так	так	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=960|end_char=963
+15	плохо	плохой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	advcl	_	start_char=964|end_char=969
+16	?	?	PUNCT	_	_	5	punct	_	start_char=969|end_char=970
+
+# text = Ладно, это только боль и тошнота, я справлюсь.
+# sent_id = 16
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Ладно	ладно	PART	_	_	5	parataxis	_	start_char=971|end_char=976
+2	,	,	PUNCT	_	_	1	punct	_	start_char=976|end_char=977
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=978|end_char=981
+4	только	только	PART	_	_	5	advmod	_	start_char=982|end_char=988
+5	боль	боль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=989|end_char=993
+6	и	и	CCONJ	_	_	7	cc	_	start_char=994|end_char=995
+7	тошнота	тошнота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	start_char=996|end_char=1003
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1003|end_char=1004
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=1005|end_char=1006
+10	справлюсь	справиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=1007|end_char=1016
+11	.	.	PUNCT	_	_	5	punct	_	start_char=1016|end_char=1017
+
+# text = Я всегда со всем справляюсь, и одна тоже.
+# sent_id = 17
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=1018|end_char=1019
+2	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=1020|end_char=1026
+3	со	со	ADP	_	_	4	case	_	start_char=1027|end_char=1029
+4	всем	все	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	5	obl	_	start_char=1030|end_char=1034
+5	справляюсь	справляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1035|end_char=1045
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1045|end_char=1046
+7	и	и	CCONJ	_	_	8	cc	_	start_char=1047|end_char=1048
+8	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	5	conj	_	start_char=1049|end_char=1053
+9	тоже	тоже	PART	_	_	8	advmod	_	start_char=1054|end_char=1058
+10	.	.	PUNCT	_	_	5	punct	_	start_char=1058|end_char=1059
+
+# text = А люди, слабые люди, они ждут помощи, им нужна поддержка, им всё нужно, нужно, дай...
+# sent_id = 18
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	А	а	CCONJ	_	_	8	cc	_	start_char=1060|end_char=1061
+2	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=1062|end_char=1066
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1066|end_char=1067
+4	слабые	слабый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	start_char=1068|end_char=1074
+5	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	start_char=1075|end_char=1079
+6	,	,	PUNCT	_	_	2	punct	_	start_char=1079|end_char=1080
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=1081|end_char=1084
+8	ждут	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1085|end_char=1089
+9	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obj	_	start_char=1090|end_char=1096
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1096|end_char=1097
+11	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	12	iobj	_	start_char=1098|end_char=1100
+12	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	8	conj	_	start_char=1101|end_char=1106
+13	поддержка	поддержка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	start_char=1107|end_char=1116
+14	,	,	PUNCT	_	_	17	punct	_	start_char=1116|end_char=1117
+15	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	iobj	_	start_char=1118|end_char=1120
+16	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	17	nsubj	_	start_char=1121|end_char=1124
+17	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	conj	_	start_char=1125|end_char=1130
+18	,	,	PUNCT	_	_	19	punct	_	start_char=1130|end_char=1131
+19	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	conj	_	start_char=1132|end_char=1137
+20	,	,	PUNCT	_	_	21	punct	_	start_char=1137|end_char=1138
+21	дай	дать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	8	conj	_	start_char=1139|end_char=1142
+22	...	...	PUNCT	_	_	8	punct	_	start_char=1142|end_char=1145
+
+# text = Вот только кто бы знал, как это уже надоело!
+# sent_id = 19
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Вот	вот	PART	_	_	5	advmod	_	start_char=1146|end_char=1149
+2	только	только	PART	_	_	5	advmod	_	start_char=1150|end_char=1156
+3	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	start_char=1157|end_char=1160
+4	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=1161|end_char=1163
+5	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1164|end_char=1168
+6	,	,	PUNCT	_	_	10	punct	_	start_char=1168|end_char=1169
+7	как	как	ADV	_	Degree=Pos|PronType=Rel	10	advmod	_	start_char=1170|end_char=1173
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=1174|end_char=1177
+9	уже	уже	ADV	_	Degree=Pos	10	advmod	_	start_char=1178|end_char=1181
+10	надоело	надоесть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=1182|end_char=1189
+11	!	!	PUNCT	_	_	5	punct	_	start_char=1189|end_char=1190
+
+# text = Изображать из себя героев-спасателей с риском для собственной жизни и в компании Доктора и его приживал, которые мнят себя главными спасателями, и без малейшей благодарности со стороны спасённых.
+# sent_id = 20
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Изображать	изображать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=1191|end_char=1201
+2	из	из	ADP	_	_	3	case	_	start_char=1202|end_char=1204
+3	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	1	obl	_	start_char=1205|end_char=1209
+4	героев	герой	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	start_char=1210|end_char=1216
+5	-	-	PUNCT	_	_	6	punct	_	start_char=1216|end_char=1217
+6	спасателей	спасатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	appos	_	start_char=1217|end_char=1227
+7	с	с	ADP	_	_	8	case	_	start_char=1228|end_char=1229
+8	риском	риск	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	start_char=1230|end_char=1236
+9	для	для	ADP	_	_	11	case	_	start_char=1237|end_char=1240
+10	собственной	собственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=1241|end_char=1252
+11	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1253|end_char=1258
+12	и	и	CCONJ	_	_	14	cc	_	start_char=1259|end_char=1260
+13	в	в	ADP	_	_	14	case	_	start_char=1261|end_char=1262
+14	компании	компания	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	conj	_	start_char=1263|end_char=1271
+15	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=1272|end_char=1279
+16	и	и	CCONJ	_	_	18	cc	_	start_char=1280|end_char=1281
+17	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=1282|end_char=1285
+18	приживал	приживать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1286|end_char=1294
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1294|end_char=1295
+20	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	21	nsubj	_	start_char=1296|end_char=1303
+21	мнят	мнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp	_	start_char=1304|end_char=1308
+22	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	21	obj	_	start_char=1309|end_char=1313
+23	главными	главный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	amod	_	start_char=1314|end_char=1322
+24	спасателями	спасатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	21	obl	_	start_char=1323|end_char=1334
+25	,	,	PUNCT	_	_	29	punct	_	start_char=1334|end_char=1335
+26	и	и	CCONJ	_	_	29	cc	_	start_char=1336|end_char=1337
+27	без	без	ADP	_	_	29	case	_	start_char=1338|end_char=1341
+28	малейшей	малейший	ADJ	_	Case=Gen|Degree=Sup|Gender=Fem|Number=Sing	29	amod	_	start_char=1342|end_char=1350
+29	благодарности	благодарность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	conj	_	start_char=1351|end_char=1364
+30	со	со	ADP	_	_	32	case	_	start_char=1365|end_char=1367
+31	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	fixed	_	start_char=1368|end_char=1375
+32	спасённых	спасти	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	29	nmod	_	start_char=1376|end_char=1385
+33	.	.	PUNCT	_	_	1	punct	_	start_char=1385|end_char=1386
+
+# text = Нет, мне пора зажить своей жизнью, мне ещё надо следить за Мара, мне надо держать его взаперти...
+# sent_id = 21
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Нет	нет	PART	_	Polarity=Neg	4	parataxis	_	start_char=1387|end_char=1390
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1390|end_char=1391
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=1392|end_char=1395
+4	пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1396|end_char=1400
+5	зажить	зажить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=1401|end_char=1407
+6	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=1408|end_char=1413
+7	жизнью	жизнь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	start_char=1414|end_char=1420
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1420|end_char=1421
+9	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	iobj	_	start_char=1422|end_char=1425
+10	ещё	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=1426|end_char=1429
+11	надо	надо	VERB	_	_	4	conj	_	start_char=1430|end_char=1434
+12	следить	следить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	csubj	_	start_char=1435|end_char=1442
+13	за	за	ADP	_	_	14	case	_	start_char=1443|end_char=1445
+14	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	12	obl	_	start_char=1446|end_char=1450
+15	,	,	PUNCT	_	_	17	punct	_	start_char=1450|end_char=1451
+16	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	iobj	_	start_char=1452|end_char=1455
+17	надо	надо	VERB	_	_	4	conj	_	start_char=1456|end_char=1460
+18	держать	держать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	csubj	_	start_char=1461|end_char=1468
+19	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=1469|end_char=1472
+20	взаперти	взаперти	ADV	_	Degree=Pos	18	advmod	_	start_char=1473|end_char=1481
+21	...	...	PUNCT	_	_	4	punct	_	start_char=1481|end_char=1484
+
+# text = Что это?
+# sent_id = 22
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1485|end_char=1488
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	start_char=1489|end_char=1492
+3	?	?	PUNCT	_	_	1	punct	_	start_char=1492|end_char=1493
+
+# text = Что шипит?
+# sent_id = 23
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	start_char=1494|end_char=1497
+2	шипит	шипеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1498|end_char=1503
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1503|end_char=1504
+
+# text = Надеюсь, это не газ".
+# sent_id = 24
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=1505|end_char=1512
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1512|end_char=1513
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1514|end_char=1517
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1518|end_char=1520
+5	газ	газ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1521|end_char=1524
+6	"	"	PUNCT	_	_	5	punct	_	start_char=1524|end_char=1525
+7	.	.	PUNCT	_	_	5	punct	_	start_char=1525|end_char=1526
+
+# text = Тиган проснулась в своём собственном доме в Австралии, сладко потянулась.
+# sent_id = 25
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Тиган	Тиган	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	2	nsubj	_	start_char=1528|end_char=1533
+2	проснулась	проснуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1534|end_char=1544
+3	в	в	ADP	_	_	6	case	_	start_char=1545|end_char=1546
+4	своём	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=1547|end_char=1552
+5	собственном	собственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1553|end_char=1564
+6	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=1565|end_char=1569
+7	в	в	ADP	_	_	8	case	_	start_char=1570|end_char=1571
+8	Австралии	Австралия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	2	obl	_	start_char=1572|end_char=1581
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1581|end_char=1582
+10	сладко	сладко	ADV	_	Degree=Pos	11	advmod	_	start_char=1583|end_char=1589
+11	потянулась	потянуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1590|end_char=1600
+12	.	.	PUNCT	_	_	2	punct	_	start_char=1600|end_char=1601
+
+# text = Всё шло замечательно, просто прекрасно.
+# sent_id = 26
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nsubj	_	start_char=1602|end_char=1605
+2	шло	идти	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1606|end_char=1609
+3	замечательно	замечательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	xcomp	_	start_char=1610|end_char=1622
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1622|end_char=1623
+5	просто	просто	PART	_	_	6	advmod	_	start_char=1624|end_char=1630
+6	прекрасно	прекрасный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	conj	_	start_char=1631|end_char=1640
+7	.	.	PUNCT	_	_	2	punct	_	start_char=1640|end_char=1641
+
+# text = Её кампания по борьбе за права австралийских аборигенов развивалась успешно, у неё уже начала складываться определённая репутация – честной, бескомпромиссной, решительной женщины.
+# sent_id = 27
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Её	ее	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=1642|end_char=1644
+2	кампания	кампания	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=1645|end_char=1653
+3	по	по	ADP	_	_	4	case	_	start_char=1654|end_char=1656
+4	борьбе	борьба	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	nmod	_	start_char=1657|end_char=1663
+5	за	за	ADP	_	_	6	case	_	start_char=1664|end_char=1666
+6	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	start_char=1667|end_char=1672
+7	австралийских	австралийский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	start_char=1673|end_char=1686
+8	аборигенов	абориген	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=1687|end_char=1697
+9	развивалась	развиваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1698|end_char=1709
+10	успешно	успешно	ADV	_	Degree=Pos	9	advmod	_	start_char=1710|end_char=1717
+11	,	,	PUNCT	_	_	15	punct	_	start_char=1717|end_char=1718
+12	у	у	ADP	_	_	13	case	_	start_char=1719|end_char=1720
+13	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obl	_	start_char=1721|end_char=1724
+14	уже	уже	ADV	_	Degree=Pos	15	advmod	_	start_char=1725|end_char=1728
+15	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1729|end_char=1735
+16	складываться	складываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	xcomp	_	start_char=1736|end_char=1748
+17	определённая	определенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=1749|end_char=1761
+18	репутация	репутация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=1762|end_char=1771
+19	–	–	PUNCT	_	_	25	punct	_	start_char=1772|end_char=1773
+20	честной	честный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=1774|end_char=1781
+21	,	,	PUNCT	_	_	22	punct	_	start_char=1781|end_char=1782
+22	бескомпромиссной	бескомпромиссный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	conj	_	start_char=1783|end_char=1799
+23	,	,	PUNCT	_	_	24	punct	_	start_char=1799|end_char=1800
+24	решительной	решительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	conj	_	start_char=1801|end_char=1812
+25	женщины	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	start_char=1813|end_char=1820
+26	.	.	PUNCT	_	_	9	punct	_	start_char=1820|end_char=1821
+
+# text = "Права человека, свобода, справедливость – какие прекрасные слова!
+# sent_id = 28
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	"	"	PUNCT	_	_	2	punct	_	start_char=1822|end_char=1823
+2	Права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	nsubj	_	start_char=1823|end_char=1828
+3	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=1829|end_char=1837
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1837|end_char=1838
+5	свобода	свобода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=1839|end_char=1846
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1846|end_char=1847
+7	справедливость	справедливость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=1848|end_char=1862
+8	–	–	PUNCT	_	_	2	punct	_	start_char=1863|end_char=1864
+9	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Int	11	det	_	start_char=1865|end_char=1870
+10	прекрасные	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	start_char=1871|end_char=1881
+11	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=1882|end_char=1887
+12	!	!	PUNCT	_	_	11	punct	_	start_char=1887|end_char=1888
+
+# text = Они так неопределённы.
+# sent_id = 29
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1889|end_char=1892
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1893|end_char=1896
+3	неопределённы	неопределенный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1897|end_char=1910
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1910|end_char=1911
+
+# text = Никогда нельзя сказать, уже достигнут необходимый уровень свободы, или нет.
+# sent_id = 30
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	2	advmod	_	start_char=1912|end_char=1919
+2	нельзя	нельзя	VERB	_	_	0	root	_	start_char=1920|end_char=1926
+3	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=1927|end_char=1934
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1934|end_char=1935
+5	уже	уже	ADV	_	Degree=Pos	6	advmod	_	start_char=1936|end_char=1939
+6	достигнут	достичь	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	start_char=1940|end_char=1949
+7	необходимый	необходимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=1950|end_char=1961
+8	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	start_char=1962|end_char=1969
+9	свободы	свобода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1970|end_char=1977
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1977|end_char=1978
+11	или	или	CCONJ	_	_	12	cc	_	start_char=1979|end_char=1982
+12	нет	нет	PART	_	Polarity=Neg	2	conj	_	start_char=1983|end_char=1986
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1986|end_char=1987
+
+# text = Или справедливость – выдана всем поровну, или кто-то опять считает себя обиженным?
+# sent_id = 31
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Или	или	CCONJ	_	_	2	cc	_	start_char=1988|end_char=1991
+2	справедливость	справедливость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1992|end_char=2006
+3	–	–	PUNCT	_	_	4	punct	_	start_char=2007|end_char=2008
+4	выдана	выдать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	parataxis	_	start_char=2009|end_char=2015
+5	всем	все	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|PronType=Tot	4	iobj	_	start_char=2016|end_char=2020
+6	поровну	поровна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	iobj	_	start_char=2021|end_char=2028
+7	,	,	PUNCT	_	_	11	punct	_	start_char=2028|end_char=2029
+8	или	или	CCONJ	_	_	11	cc	_	start_char=2030|end_char=2033
+9	кто-то	кто-то	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	start_char=2034|end_char=2040
+10	опять	опять	ADV	_	Degree=Pos	11	advmod	_	start_char=2041|end_char=2046
+11	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2047|end_char=2054
+12	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	obj	_	start_char=2055|end_char=2059
+13	обиженным	обиженный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	xcomp	_	start_char=2060|end_char=2069
+14	?	?	PUNCT	_	_	4	punct	_	start_char=2069|end_char=2070
+
+# text = Всегда же будут обиженные.
+# sent_id = 32
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=2071|end_char=2077
+2	же	же	PART	_	_	1	advmod	_	start_char=2078|end_char=2080
+3	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	cop	_	start_char=2081|end_char=2086
+4	обиженные	обидеть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=2087|end_char=2096
+5	.	.	PUNCT	_	_	1	punct	_	start_char=2096|end_char=2097
+
+# text = Но слова так сияют, что за их блеском и медным звоном не видно и не слышно, как из самых тёмных и потаённых уголков души поднимается нечто, захватывает человека и начинает жить вместо него.
+# sent_id = 33
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=2098|end_char=2100
+2	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	start_char=2101|end_char=2106
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2107|end_char=2110
+4	сияют	сиять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2111|end_char=2116
+5	,	,	PUNCT	_	_	14	punct	_	start_char=2116|end_char=2117
+6	что	что	SCONJ	_	_	14	mark	_	start_char=2118|end_char=2121
+7	за	за	ADP	_	_	9	case	_	start_char=2122|end_char=2124
+8	их	их	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=2125|end_char=2127
+9	блеском	блеск	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	start_char=2128|end_char=2135
+10	и	и	CCONJ	_	_	12	cc	_	start_char=2136|end_char=2137
+11	медным	медный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=2138|end_char=2144
+12	звоном	звон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	conj	_	start_char=2145|end_char=2151
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=2152|end_char=2154
+14	видно	видный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	ccomp	_	start_char=2155|end_char=2160
+15	и	и	CCONJ	_	_	17	cc	_	start_char=2161|end_char=2162
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=2163|end_char=2165
+17	слышно	слышный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	conj	_	start_char=2166|end_char=2172
+18	,	,	PUNCT	_	_	27	punct	_	start_char=2172|end_char=2173
+19	как	как	SCONJ	_	_	27	mark	_	start_char=2174|end_char=2177
+20	из	из	ADP	_	_	25	case	_	start_char=2178|end_char=2180
+21	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	22	det	_	start_char=2181|end_char=2186
+22	тёмных	темный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	start_char=2187|end_char=2193
+23	и	и	CCONJ	_	_	24	cc	_	start_char=2194|end_char=2195
+24	потаённых	потать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	22	conj	_	start_char=2196|end_char=2205
+25	уголков	уголок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	27	obl	_	start_char=2206|end_char=2213
+26	души	душа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	start_char=2214|end_char=2218
+27	поднимается	подниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	ccomp	_	start_char=2219|end_char=2230
+28	нечто	нечто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	27	nsubj	_	start_char=2231|end_char=2236
+29	,	,	PUNCT	_	_	30	punct	_	start_char=2236|end_char=2237
+30	захватывает	захватывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	start_char=2238|end_char=2249
+31	человека	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	30	obj	_	start_char=2250|end_char=2258
+32	и	и	CCONJ	_	_	33	cc	_	start_char=2259|end_char=2260
+33	начинает	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	start_char=2261|end_char=2269
+34	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	33	xcomp	_	start_char=2270|end_char=2274
+35	вместо	вместо	ADP	_	_	36	case	_	start_char=2275|end_char=2281
+36	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obl	_	start_char=2282|end_char=2286
+37	.	.	PUNCT	_	_	4	punct	_	start_char=2286|end_char=2287
+
+# text = Хаос?
+# sent_id = 34
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Хаос	хаос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2288|end_char=2292
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2292|end_char=2293
+
+# text = Страдания?
+# sent_id = 35
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Страдания	страдание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=2294|end_char=2303
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2303|end_char=2304
+
+# text = Разрушения?
+# sent_id = 36
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Разрушения	разрушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=2305|end_char=2315
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2315|end_char=2316
+
+# text = Ну это же творится ради благой цели!
+# sent_id = 37
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Ну	ну	PART	_	_	4	discourse	_	start_char=2317|end_char=2319
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2320|end_char=2323
+3	же	же	PART	_	_	2	advmod	_	start_char=2324|end_char=2326
+4	творится	твориться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2327|end_char=2335
+5	ради	ради	ADP	_	_	7	case	_	start_char=2336|end_char=2340
+6	благой	благой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2341|end_char=2347
+7	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=2348|end_char=2352
+8	!	!	PUNCT	_	_	4	punct	_	start_char=2352|end_char=2353
+
+# text = Я не буду останавливаться на аборигенах, Австралия – слишком далеко и мелко.
+# sent_id = 38
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2354|end_char=2355
+2	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2356|end_char=2358
+3	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	start_char=2359|end_char=2363
+4	останавливаться	останавливаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	start_char=2364|end_char=2379
+5	на	на	ADP	_	_	6	case	_	start_char=2380|end_char=2382
+6	аборигенах	абориген	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	start_char=2383|end_char=2393
+7	,	,	PUNCT	_	_	11	punct	_	start_char=2393|end_char=2394
+8	Австралия	Австралия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	11	nsubj	_	start_char=2395|end_char=2404
+9	–	–	PUNCT	_	_	11	punct	_	start_char=2405|end_char=2406
+10	слишком	слишком	ADV	_	Degree=Pos	11	advmod	_	start_char=2407|end_char=2414
+11	далеко	далеко	ADV	_	Degree=Pos	4	conj	_	start_char=2415|end_char=2421
+12	и	и	CCONJ	_	_	13	cc	_	start_char=2422|end_char=2423
+13	мелко	мелко	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	conj	_	start_char=2424|end_char=2429
+14	.	.	PUNCT	_	_	4	punct	_	start_char=2429|end_char=2430
+
+# text = Только упрочу репутацию, и можно будет подумать о каком-нибудь европейском проекте.
+# sent_id = 39
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Только	только	PART	_	_	2	advmod	_	start_char=2431|end_char=2437
+2	упрочу	упрокить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2438|end_char=2444
+3	репутацию	репутация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=2445|end_char=2454
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2454|end_char=2455
+5	и	и	CCONJ	_	_	6	cc	_	start_char=2456|end_char=2457
+6	можно	можно	VERB	_	_	2	conj	_	start_char=2458|end_char=2463
+7	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=2464|end_char=2469
+8	подумать	подумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=2470|end_char=2478
+9	о	о	ADP	_	_	12	case	_	start_char=2479|end_char=2480
+10	каком-нибудь	какой-нибудь	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	start_char=2481|end_char=2493
+11	европейском	европейский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=2494|end_char=2505
+12	проекте	проект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	start_char=2506|end_char=2513
+13	.	.	PUNCT	_	_	2	punct	_	start_char=2513|end_char=2514
+
+# text = Скажем, национально-освободительное движение.
+# sent_id = 40
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2515|end_char=2521
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2521|end_char=2522
+3	национально	национально	ADV	_	Degree=Pos	6	advmod	_	start_char=2523|end_char=2534
+4	-	-	PUNCT	_	_	3	punct	_	start_char=2534|end_char=2535
+5	освободительное	освободительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=2535|end_char=2550
+6	движение	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2551|end_char=2559
+7	.	.	PUNCT	_	_	6	punct	_	start_char=2559|end_char=2560
+
+# text = Пусть сейчас у них нет змей, я буду первым.
+# sent_id = 41
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Пусть	пусть	PART	_	_	5	advmod	_	start_char=2561|end_char=2566
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2567|end_char=2573
+3	у	у	ADP	_	_	4	case	_	start_char=2574|end_char=2575
+4	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=2576|end_char=2579
+5	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=2580|end_char=2583
+6	змей	змей	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	5	nsubj	_	start_char=2584|end_char=2588
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2588|end_char=2589
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=2590|end_char=2591
+9	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	start_char=2592|end_char=2596
+10	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	5	conj	_	start_char=2597|end_char=2603
+11	.	.	PUNCT	_	_	5	punct	_	start_char=2603|end_char=2604
+
+# text = А потом что-нибудь глобальное, международное – хоть борьба за права геев и лесбиянок.
+# sent_id = 42
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	А	а	CCONJ	_	_	3	cc	_	start_char=2605|end_char=2606
+2	потом	потом	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2607|end_char=2612
+3	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	start_char=2613|end_char=2623
+4	глобальное	глобальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=2624|end_char=2634
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2634|end_char=2635
+6	международное	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	conj	_	start_char=2636|end_char=2649
+7	–	–	PUNCT	_	_	9	punct	_	start_char=2650|end_char=2651
+8	хоть	хоть	SCONJ	_	_	9	mark	_	start_char=2652|end_char=2656
+9	борьба	борьба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	start_char=2657|end_char=2663
+10	за	за	ADP	_	_	11	case	_	start_char=2664|end_char=2666
+11	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	9	nmod	_	start_char=2667|end_char=2672
+12	геев	геев	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	start_char=2673|end_char=2677
+13	и	и	CCONJ	_	_	14	cc	_	start_char=2678|end_char=2679
+14	лесбиянок	лесбиянка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	12	conj	_	start_char=2680|end_char=2689
+15	.	.	PUNCT	_	_	3	punct	_	start_char=2689|end_char=2690
+
+# text = Они есть везде, а где их нет – там они скрываются, и надо бороться ещё ожесточённее.
+# sent_id = 43
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=2691|end_char=2694
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2695|end_char=2699
+3	везде	везде	ADV	_	Degree=Pos|PronType=Tot	2	advmod	_	start_char=2700|end_char=2705
+4	,	,	PUNCT	_	_	8	punct	_	start_char=2705|end_char=2706
+5	а	а	CCONJ	_	_	8	cc	_	start_char=2707|end_char=2708
+6	где	где	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=2709|end_char=2712
+7	их	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=2713|end_char=2715
+8	нет	нет	VERB	_	Polarity=Neg	2	conj	_	start_char=2716|end_char=2719
+9	–	–	PUNCT	_	_	12	punct	_	start_char=2720|end_char=2721
+10	там	там	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=2722|end_char=2725
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=2726|end_char=2729
+12	скрываются	скрываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2730|end_char=2740
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2740|end_char=2741
+14	и	и	CCONJ	_	_	15	cc	_	start_char=2742|end_char=2743
+15	надо	надо	VERB	_	_	2	conj	_	start_char=2744|end_char=2748
+16	бороться	бороться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	csubj	_	start_char=2749|end_char=2757
+17	ещё	еще	ADV	_	Degree=Pos	18	advmod	_	start_char=2758|end_char=2761
+18	ожесточённее	ожесточенно	ADV	_	Degree=Cmp	16	advmod	_	start_char=2762|end_char=2774
+19	.	.	PUNCT	_	_	2	punct	_	start_char=2774|end_char=2775
+
+# text = И если земляне когда-нибудь поймут, что за Великий Змей протянул однажды яблоко Еве, будет уже поздно".
+# sent_id = 44
+# metadata = Название: Мара, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545eb59300000a7d31fc7ae2/1/Mara
+1	И	и	CCONJ	_	_	16	cc	_	start_char=2776|end_char=2777
+2	если	если	SCONJ	_	_	5	mark	_	start_char=2778|end_char=2782
+3	земляне	земляна	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=2783|end_char=2790
+4	когда-нибудь	когда-нибудь	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=2791|end_char=2803
+5	поймут	понять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=2804|end_char=2810
+6	,	,	PUNCT	_	_	11	punct	_	start_char=2810|end_char=2811
+7	что	что	SCONJ	_	_	11	mark	_	start_char=2812|end_char=2815
+8	за	за	ADP	_	_	10	case	_	start_char=2816|end_char=2818
+9	Великий	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=2819|end_char=2826
+10	Змей	змей	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=2827|end_char=2831
+11	протянул	протянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=2832|end_char=2840
+12	однажды	однажды	ADV	_	Degree=Pos	11	advmod	_	start_char=2841|end_char=2848
+13	яблоко	яблоко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	start_char=2849|end_char=2855
+14	Еве	Ева	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|NameType=Giv|Number=Sing	11	iobj	_	start_char=2856|end_char=2859
+15	,	,	PUNCT	_	_	5	punct	_	start_char=2859|end_char=2860
+16	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2861|end_char=2866
+17	уже	уже	ADV	_	Degree=Pos	18	advmod	_	start_char=2867|end_char=2870
+18	поздно	поздно	ADV	_	Degree=Pos	16	advmod	_	start_char=2871|end_char=2877
+19	"	"	PUNCT	_	_	16	punct	_	start_char=2877|end_char=2878
+20	.	.	PUNCT	_	_	16	punct	_	start_char=2878|end_char=2879
+

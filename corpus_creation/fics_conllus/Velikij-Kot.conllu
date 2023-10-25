@@ -1,0 +1,1585 @@
+# text = «Облик огромного кота принимал великий бог солнца Ра, победивший Апопа, змея тьмы.
+# sent_id = 0
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	«	«	PUNCT	_	_	5	punct	_	start_char=0|end_char=1
+2	Облик	облик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1|end_char=6
+3	огромного	огромный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=7|end_char=16
+4	кота	кот	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=17|end_char=21
+5	принимал	принимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=22|end_char=30
+6	великий	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=31|end_char=38
+7	бог	бог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=39|end_char=42
+8	солнца	солнце	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=43|end_char=49
+9	Ра	Ра	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=50|end_char=52
+10	,	,	PUNCT	_	_	11	punct	_	start_char=52|end_char=53
+11	победивший	победить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	start_char=54|end_char=64
+12	Апопа	Апопа	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	11	obj	_	start_char=65|end_char=70
+13	,	,	PUNCT	_	_	14	punct	_	start_char=70|end_char=71
+14	змея	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	start_char=72|end_char=76
+15	тьмы	тьма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	start_char=77|end_char=81
+16	.	.	PUNCT	_	_	5	punct	_	start_char=81|end_char=82
+
+# text = Иногда Ра называли Великим Котом.
+# sent_id = 1
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=83|end_char=89
+2	Ра	Ра	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=90|end_char=92
+3	называли	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=93|end_char=101
+4	Великим	великий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=102|end_char=109
+5	Котом	Котом	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Prs|Number=Sing	3	xcomp	_	start_char=110|end_char=115
+6	.	.	PUNCT	_	_	3	punct	_	start_char=115|end_char=116
+
+# text = Его поединок со змеей тьмы художники изображали так: одной лапой кот придавливает голову змея, а в другой держит нож».
+# sent_id = 2
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Его	его	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=117|end_char=120
+2	поединок	поединок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=121|end_char=129
+3	со	со	ADP	_	_	4	case	_	start_char=130|end_char=132
+4	змеей	змей	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	nmod	_	start_char=133|end_char=138
+5	тьмы	тьма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=139|end_char=143
+6	художники	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=144|end_char=153
+7	изображали	изображать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=154|end_char=164
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=165|end_char=168
+9	:	:	PUNCT	_	_	13	punct	_	start_char=168|end_char=169
+10	одной	один	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	start_char=170|end_char=175
+11	лапой	лапа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	iobj	_	start_char=176|end_char=181
+12	кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=182|end_char=185
+13	придавливает	придавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=186|end_char=198
+14	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=199|end_char=205
+15	змея	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=206|end_char=210
+16	,	,	PUNCT	_	_	20	punct	_	start_char=210|end_char=211
+17	а	а	CCONJ	_	_	20	cc	_	start_char=212|end_char=213
+18	в	в	ADP	_	_	19	case	_	start_char=214|end_char=215
+19	другой	другой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	20	obl	_	start_char=216|end_char=222
+20	держит	держать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	start_char=223|end_char=229
+21	нож	нож	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	start_char=230|end_char=233
+22	»	»	PUNCT	_	_	13	punct	_	start_char=233|end_char=234
+23	.	.	PUNCT	_	_	7	punct	_	start_char=234|end_char=235
+
+# text = «Ты Ра – великий кот, мститель богов»
+# sent_id = 3
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	«	«	PUNCT	_	_	6	punct	_	start_char=237|end_char=238
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=238|end_char=240
+3	Ра	Ра	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=241|end_char=243
+4	–	–	PUNCT	_	_	6	punct	_	start_char=244|end_char=245
+5	великий	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=246|end_char=253
+6	кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	start_char=254|end_char=257
+7	,	,	PUNCT	_	_	8	punct	_	start_char=257|end_char=258
+8	мститель	мститель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	start_char=259|end_char=267
+9	богов	бог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=268|end_char=273
+10	»	»	PUNCT	_	_	6	punct	_	start_char=273|end_char=274
+
+# text = Солнце восходило над Египтом, землей Кемет, заливая древние пирамиды жидким текучим золотом, жидким и текучим как пески, как время, как жизнь.
+# sent_id = 4
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Солнце	солнце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=277|end_char=283
+2	восходило	восходить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=284|end_char=293
+3	над	над	ADP	_	_	4	case	_	start_char=294|end_char=297
+4	Египтом	Египт	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|NameType=Geo|Number=Sing	2	obl	_	start_char=298|end_char=305
+5	,	,	PUNCT	_	_	6	punct	_	start_char=305|end_char=306
+6	землей	земля	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	conj	_	start_char=307|end_char=313
+7	Кемет	Кемет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	6	appos	_	start_char=314|end_char=319
+8	,	,	PUNCT	_	_	9	punct	_	start_char=319|end_char=320
+9	заливая	заливать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=321|end_char=328
+10	древние	древний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	start_char=329|end_char=336
+11	пирамиды	пирамида	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obj	_	start_char=337|end_char=345
+12	жидким	жидкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=346|end_char=352
+13	текучим	текучий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=353|end_char=360
+14	золотом	золото	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	iobj	_	start_char=361|end_char=368
+15	,	,	PUNCT	_	_	16	punct	_	start_char=368|end_char=369
+16	жидким	жидкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=370|end_char=376
+17	и	и	CCONJ	_	_	18	cc	_	start_char=377|end_char=378
+18	текучим	текучий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	conj	_	start_char=379|end_char=386
+19	как	как	SCONJ	_	_	20	case	_	start_char=387|end_char=390
+20	пески	песок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	obl	_	start_char=391|end_char=396
+21	,	,	PUNCT	_	_	23	punct	_	start_char=396|end_char=397
+22	как	как	SCONJ	_	_	23	case	_	start_char=398|end_char=401
+23	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	obl	_	start_char=402|end_char=407
+24	,	,	PUNCT	_	_	26	punct	_	start_char=407|end_char=408
+25	как	как	SCONJ	_	_	26	case	_	start_char=409|end_char=412
+26	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nmod	_	start_char=413|end_char=418
+27	.	.	PUNCT	_	_	2	punct	_	start_char=418|end_char=419
+
+# text = Я чертовски устал, я все еще был на Земле, которую вскоре или окончательно возненавижу, или полюблю.
+# sent_id = 5
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=421|end_char=422
+2	чертовски	чертовски	ADV	_	Degree=Pos	3	advmod	_	start_char=423|end_char=432
+3	устал	устать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=433|end_char=438
+4	,	,	PUNCT	_	_	10	punct	_	start_char=438|end_char=439
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=440|end_char=441
+6	все	всё	ADV	_	Degree=Pos|PronType=Tot	10	advmod	_	start_char=442|end_char=445
+7	еще	еще	ADV	_	Degree=Pos	6	fixed	_	start_char=446|end_char=449
+8	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=450|end_char=453
+9	на	на	ADP	_	_	10	case	_	start_char=454|end_char=456
+10	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	conj	_	start_char=457|end_char=462
+11	,	,	PUNCT	_	_	16	punct	_	start_char=462|end_char=463
+12	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	16	obj	_	start_char=464|end_char=471
+13	вскоре	вскоре	ADV	_	Degree=Pos	16	advmod	_	start_char=472|end_char=478
+14	или	или	CCONJ	_	_	15	cc	_	start_char=479|end_char=482
+15	окончательно	окончательно	ADV	_	Degree=Pos	13	conj	_	start_char=483|end_char=495
+16	возненавижу	возненавидать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=496|end_char=507
+17	,	,	PUNCT	_	_	19	punct	_	start_char=507|end_char=508
+18	или	или	CCONJ	_	_	19	cc	_	start_char=509|end_char=512
+19	полюблю	полюбить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	start_char=513|end_char=520
+20	.	.	PUNCT	_	_	3	punct	_	start_char=520|end_char=521
+
+# text = По крайней мере, именно тут нашелся самый лучший выход.
+# sent_id = 6
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	По	по	ADP	_	_	7	advmod	_	start_char=522|end_char=524
+2	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	fixed	_	start_char=525|end_char=532
+3	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	fixed	_	start_char=533|end_char=537
+4	,	,	PUNCT	_	_	1	punct	_	start_char=537|end_char=538
+5	именно	именно	PART	_	_	6	advmod	_	start_char=539|end_char=545
+6	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=546|end_char=549
+7	нашелся	найтись	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=550|end_char=557
+8	самый	самый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	9	det	_	start_char=558|end_char=563
+9	лучший	лучший	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	10	amod	_	start_char=564|end_char=570
+10	выход	выход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=571|end_char=576
+11	.	.	PUNCT	_	_	7	punct	_	start_char=576|end_char=577
+
+# text = Под лапами великого Сфинкса.
+# sent_id = 7
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Под	под	ADP	_	_	2	case	_	start_char=578|end_char=581
+2	лапами	лапа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	0	root	_	start_char=582|end_char=588
+3	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=589|end_char=597
+4	Сфинкса	Сфинкса	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Prs|Number=Sing	2	nmod	_	start_char=598|end_char=605
+5	.	.	PUNCT	_	_	2	punct	_	start_char=605|end_char=606
+
+# text = Похоже, наконец, настоящий стабильный канал.
+# sent_id = 8
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Похоже	похоже	ADV	_	Degree=Pos	7	parataxis	_	start_char=607|end_char=613
+2	,	,	PUNCT	_	_	1	punct	_	start_char=613|end_char=614
+3	наконец	наконец	ADV	_	Degree=Pos	7	parataxis	_	start_char=615|end_char=622
+4	,	,	PUNCT	_	_	3	punct	_	start_char=622|end_char=623
+5	настоящий	настоящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=624|end_char=633
+6	стабильный	стабильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=634|end_char=644
+7	канал	канал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=645|end_char=650
+8	.	.	PUNCT	_	_	7	punct	_	start_char=650|end_char=651
+
+# text = Постоянная связь между мирами... в этот момент я понял, что что-то в структуре континуума необратимо изменилось, будто лопнула пуповина – разрушилась червоточина между этим местом в настоящем времени, Планетой Гепардов, и этим же местом в прошлом.
+# sent_id = 9
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Постоянная	постоянный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=652|end_char=662
+2	связь	связь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=663|end_char=668
+3	между	между	ADP	_	_	4	case	_	start_char=669|end_char=674
+4	мирами	мир	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	nmod	_	start_char=675|end_char=681
+5	...	...	PUNCT	_	_	2	punct	_	start_char=681|end_char=684
+6	в	в	ADP	_	_	8	case	_	start_char=685|end_char=686
+7	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=687|end_char=691
+8	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=692|end_char=698
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=699|end_char=700
+10	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=701|end_char=706
+11	,	,	PUNCT	_	_	18	punct	_	start_char=706|end_char=707
+12	что	что	SCONJ	_	_	18	mark	_	start_char=708|end_char=711
+13	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	18	nsubj	_	start_char=712|end_char=718
+14	в	в	ADP	_	_	15	case	_	start_char=719|end_char=720
+15	структуре	структура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	start_char=721|end_char=730
+16	континуума	континуум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	start_char=731|end_char=741
+17	необратимо	необратимо	ADV	_	Degree=Pos	18	advmod	_	start_char=742|end_char=752
+18	изменилось	измениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	ccomp	_	start_char=753|end_char=763
+19	,	,	PUNCT	_	_	21	punct	_	start_char=763|end_char=764
+20	будто	будто	SCONJ	_	_	21	mark	_	start_char=765|end_char=770
+21	лопнула	лопнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=771|end_char=778
+22	пуповина	пуповина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	start_char=779|end_char=787
+23	–	–	PUNCT	_	_	24	punct	_	start_char=788|end_char=789
+24	разрушилась	разрушиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	parataxis	_	start_char=790|end_char=801
+25	червоточина	червоточина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	start_char=802|end_char=813
+26	между	между	ADP	_	_	28	case	_	start_char=814|end_char=819
+27	этим	этот	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	28	det	_	start_char=820|end_char=824
+28	местом	место	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	obl	_	start_char=825|end_char=831
+29	в	в	ADP	_	_	31	case	_	start_char=832|end_char=833
+30	настоящем	настоящий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	start_char=834|end_char=843
+31	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	start_char=844|end_char=851
+32	,	,	PUNCT	_	_	33	punct	_	start_char=851|end_char=852
+33	Планетой	планета	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	28	conj	_	start_char=853|end_char=861
+34	Гепардов	Гепардов	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	33	nmod	_	start_char=862|end_char=870
+35	,	,	PUNCT	_	_	39	punct	_	start_char=870|end_char=871
+36	и	и	CCONJ	_	_	39	cc	_	start_char=872|end_char=873
+37	этим	этот	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	39	det	_	start_char=874|end_char=878
+38	же	же	PART	_	_	37	advmod	_	start_char=879|end_char=881
+39	местом	место	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	28	conj	_	start_char=882|end_char=888
+40	в	в	ADP	_	_	41	case	_	start_char=889|end_char=890
+41	прошлом	прошлое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	39	nmod	_	start_char=891|end_char=898
+42	.	.	PUNCT	_	_	10	punct	_	start_char=898|end_char=899
+
+# text = Я приподнял брови, оглядевшись, ухмыльнулся и вздохнул не без веселого облегчения.
+# sent_id = 10
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=900|end_char=901
+2	приподнял	приподнять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=902|end_char=911
+3	брови	бровь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=912|end_char=917
+4	,	,	PUNCT	_	_	5	punct	_	start_char=917|end_char=918
+5	оглядевшись	оглядеться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	7	advcl	_	start_char=919|end_char=930
+6	,	,	PUNCT	_	_	5	punct	_	start_char=930|end_char=931
+7	ухмыльнулся	ухмыльнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=932|end_char=943
+8	и	и	CCONJ	_	_	9	cc	_	start_char=944|end_char=945
+9	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=946|end_char=954
+10	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=955|end_char=957
+11	без	без	ADP	_	_	13	case	_	start_char=958|end_char=961
+12	веселого	веселый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=962|end_char=970
+13	облегчения	облегчение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	start_char=971|end_char=981
+14	.	.	PUNCT	_	_	2	punct	_	start_char=981|end_char=982
+
+# text = «Нефертити?
+# sent_id = 11
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	«	«	PUNCT	_	_	2	punct	_	start_char=983|end_char=984
+2	Нефертити	Нефертити	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	start_char=984|end_char=993
+3	?	?	PUNCT	_	_	2	punct	_	start_char=993|end_char=994
+
+# text = Серьезно?
+# sent_id = 12
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Серьезно	серьезный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=995|end_char=1003
+2	?	?	PUNCT	_	_	1	punct	_	start_char=1003|end_char=1004
+
+# text = »
+# sent_id = 13
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	»	»	PUNCT	_	_	0	root	_	start_char=1004|end_char=1005
+
+# text = Что ж, пока все складывалось наилучшим образом...
+# sent_id = 14
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	0	root	_	start_char=1006|end_char=1009
+2	ж	ж	PART	_	_	1	advmod	_	start_char=1010|end_char=1011
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1011|end_char=1012
+4	пока	пока	SCONJ	_	_	6	mark	_	start_char=1013|end_char=1017
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=1018|end_char=1021
+6	складывалось	складываться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	advcl	_	start_char=1022|end_char=1034
+7	наилучшим	наилучший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=1035|end_char=1044
+8	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=1045|end_char=1052
+9	...	...	PUNCT	_	_	1	punct	_	start_char=1052|end_char=1055
+
+# text = Египет был в расцвете, хотя всякий расцвет относителен.
+# sent_id = 15
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Египет	Египет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	4	nsubj	_	start_char=1057|end_char=1063
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=1064|end_char=1067
+3	в	в	ADP	_	_	4	case	_	start_char=1068|end_char=1069
+4	расцвете	расцвет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=1070|end_char=1078
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1078|end_char=1079
+6	хотя	хотя	SCONJ	_	_	9	mark	_	start_char=1080|end_char=1084
+7	всякий	всякий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	8	det	_	start_char=1085|end_char=1091
+8	расцвет	расцвет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=1092|end_char=1099
+9	относителен	относительный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	advcl	_	start_char=1100|end_char=1111
+10	.	.	PUNCT	_	_	4	punct	_	start_char=1111|end_char=1112
+
+# text = Аменхотеп IV еще не взял себе прославленного имени Эхнатон и ничего не знал о своем пристрастии к монотеизму, когда китлинги наладили постоянный контакт с Древним Египтом, где поначалу их и нас приняли как богов.
+# sent_id = 16
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Аменхотеп	Аменхотеп	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	start_char=1113|end_char=1122
+2	IV	IV	ADJ	_	NumForm=Digit|NumType=Ord	1	amod	_	start_char=1123|end_char=1125
+3	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=1126|end_char=1129
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1130|end_char=1132
+5	взял	взять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1133|end_char=1137
+6	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	5	iobj	_	start_char=1138|end_char=1142
+7	прославленного	прославленный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=1143|end_char=1157
+8	имени	имя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=1158|end_char=1163
+9	Эхнатон	Эхнатон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	appos	_	start_char=1164|end_char=1171
+10	и	и	CCONJ	_	_	13	cc	_	start_char=1172|end_char=1173
+11	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	13	obj	_	start_char=1174|end_char=1180
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1181|end_char=1183
+13	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=1184|end_char=1188
+14	о	о	ADP	_	_	16	case	_	start_char=1189|end_char=1190
+15	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	start_char=1191|end_char=1196
+16	пристрастии	пристрастие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	start_char=1197|end_char=1208
+17	к	к	ADP	_	_	18	case	_	start_char=1209|end_char=1210
+18	монотеизму	монотеизма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	obl	_	start_char=1211|end_char=1221
+19	,	,	PUNCT	_	_	22	punct	_	start_char=1221|end_char=1222
+20	когда	когда	SCONJ	_	_	22	mark	_	start_char=1223|end_char=1228
+21	китлинги	китлинг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	start_char=1229|end_char=1237
+22	наладили	наладить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=1238|end_char=1246
+23	постоянный	постоянный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=1247|end_char=1257
+24	контакт	контакт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	start_char=1258|end_char=1265
+25	с	с	ADP	_	_	27	case	_	start_char=1266|end_char=1267
+26	Древним	древний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	start_char=1268|end_char=1275
+27	Египтом	Египт	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|NameType=Geo|Number=Sing	24	nmod	_	start_char=1276|end_char=1283
+28	,	,	PUNCT	_	_	34	punct	_	start_char=1283|end_char=1284
+29	где	где	ADV	_	Degree=Pos|PronType=Rel	34	advmod	_	start_char=1285|end_char=1288
+30	поначалу	поначалу	ADV	_	Degree=Pos	34	advmod	_	start_char=1289|end_char=1297
+31	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	34	obj	_	start_char=1298|end_char=1300
+32	и	и	PART	_	_	33	advmod	_	start_char=1301|end_char=1302
+33	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	34	obj	_	start_char=1303|end_char=1306
+34	приняли	принять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	27	acl:relcl	_	start_char=1307|end_char=1314
+35	как	как	SCONJ	_	_	36	case	_	start_char=1315|end_char=1318
+36	богов	бог	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	34	obl	_	start_char=1319|end_char=1324
+37	.	.	PUNCT	_	_	5	punct	_	start_char=1324|end_char=1325
+
+# text = Но… следует начать еще раньше.
+# sent_id = 17
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=1326|end_char=1328
+2	…	…	PUNCT	_	_	1	punct	_	start_char=1328|end_char=1329
+3	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1330|end_char=1337
+4	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=1338|end_char=1344
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=1345|end_char=1348
+6	раньше	раньше	ADV	_	Degree=Cmp	4	advmod	_	start_char=1349|end_char=1355
+7	.	.	PUNCT	_	_	3	punct	_	start_char=1355|end_char=1356
+
+# text = С Планеты Гепардов.
+# sent_id = 18
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	С	с	ADP	_	_	2	case	_	start_char=1357|end_char=1358
+2	Планеты	планета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=1359|end_char=1366
+3	Гепардов	Гепардов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	2	nmod	_	start_char=1367|end_char=1375
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1375|end_char=1376
+
+# text = Она не разрушилась, когда Доктор выскользнул у меня из когтей, разыгравшийся катаклизм лишь нарушил синхронизацию планеты именно с тем местом и временем на Земле – она и без того трещала по швам.
+# sent_id = 19
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1377|end_char=1380
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1381|end_char=1383
+3	разрушилась	разрушиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1384|end_char=1395
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1395|end_char=1396
+5	когда	когда	SCONJ	_	_	7	mark	_	start_char=1397|end_char=1402
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1403|end_char=1409
+7	выскользнул	выскользнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=1410|end_char=1421
+8	у	у	ADP	_	_	9	case	_	start_char=1422|end_char=1423
+9	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=1424|end_char=1428
+10	из	из	ADP	_	_	11	case	_	start_char=1429|end_char=1431
+11	когтей	коготь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	obl	_	start_char=1432|end_char=1438
+12	,	,	PUNCT	_	_	16	punct	_	start_char=1438|end_char=1439
+13	разыгравшийся	разыграться	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	14	acl	_	start_char=1440|end_char=1453
+14	катаклизм	катаклизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=1454|end_char=1463
+15	лишь	лишь	PART	_	_	16	advmod	_	start_char=1464|end_char=1468
+16	нарушил	нарушить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1469|end_char=1476
+17	синхронизацию	синхронизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	start_char=1477|end_char=1490
+18	планеты	планета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=1491|end_char=1498
+19	именно	именно	PART	_	_	22	advmod	_	start_char=1499|end_char=1505
+20	с	с	ADP	_	_	22	case	_	start_char=1506|end_char=1507
+21	тем	тот	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	22	det	_	start_char=1508|end_char=1511
+22	местом	место	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	obl	_	start_char=1512|end_char=1518
+23	и	и	CCONJ	_	_	24	cc	_	start_char=1519|end_char=1520
+24	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	conj	_	start_char=1521|end_char=1529
+25	на	на	ADP	_	_	26	case	_	start_char=1530|end_char=1532
+26	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	conj	_	start_char=1533|end_char=1538
+27	–	–	PUNCT	_	_	32	punct	_	start_char=1539|end_char=1540
+28	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	start_char=1541|end_char=1544
+29	и	и	PART	_	_	31	advmod	_	start_char=1545|end_char=1546
+30	без	без	ADP	_	_	31	case	_	start_char=1547|end_char=1550
+31	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	32	obl	_	start_char=1551|end_char=1555
+32	трещала	трещать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	parataxis	_	start_char=1556|end_char=1563
+33	по	по	ADP	_	_	34	case	_	start_char=1564|end_char=1566
+34	швам	швам	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	32	obl	_	start_char=1567|end_char=1571
+35	.	.	PUNCT	_	_	3	punct	_	start_char=1571|end_char=1572
+
+# text = Червоточины обладают особой пластичностью, но соответствие временных потоков планет в космосе, в соответствии с их движением, даже в соответствии с движением объектов на них в пространстве постоянно изменчиво.
+# sent_id = 20
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Червоточины	червоточина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	start_char=1573|end_char=1584
+2	обладают	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1585|end_char=1593
+3	особой	особый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1594|end_char=1600
+4	пластичностью	пластичность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	start_char=1601|end_char=1614
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1614|end_char=1615
+6	но	но	CCONJ	_	_	7	cc	_	start_char=1616|end_char=1618
+7	соответствие	соответствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	start_char=1619|end_char=1631
+8	временных	временный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	start_char=1632|end_char=1641
+9	потоков	поток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	start_char=1642|end_char=1649
+10	планет	планета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	start_char=1650|end_char=1656
+11	в	в	ADP	_	_	12	case	_	start_char=1657|end_char=1658
+12	космосе	космос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	start_char=1659|end_char=1666
+13	,	,	PUNCT	_	_	18	punct	_	start_char=1666|end_char=1667
+14	в	в	ADP	_	_	18	case	_	start_char=1668|end_char=1669
+15	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	fixed	_	start_char=1670|end_char=1682
+16	с	с	ADP	_	_	14	fixed	_	start_char=1683|end_char=1684
+17	их	их	DET	_	Poss=Yes|PronType=Prs	18	det	_	start_char=1685|end_char=1687
+18	движением	движение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	nmod	_	start_char=1688|end_char=1697
+19	,	,	PUNCT	_	_	24	punct	_	start_char=1697|end_char=1698
+20	даже	даже	PART	_	_	24	advmod	_	start_char=1699|end_char=1703
+21	в	в	ADP	_	_	24	case	_	start_char=1704|end_char=1705
+22	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	fixed	_	start_char=1706|end_char=1718
+23	с	с	ADP	_	_	21	fixed	_	start_char=1719|end_char=1720
+24	движением	движение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	nmod	_	start_char=1721|end_char=1730
+25	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	start_char=1731|end_char=1739
+26	на	на	ADP	_	_	27	case	_	start_char=1740|end_char=1742
+27	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	25	nmod	_	start_char=1743|end_char=1746
+28	в	в	ADP	_	_	29	case	_	start_char=1747|end_char=1748
+29	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	nmod	_	start_char=1749|end_char=1761
+30	постоянно	постоянно	ADV	_	Degree=Pos	31	advmod	_	start_char=1762|end_char=1771
+31	изменчиво	изменчиво	ADV	_	Degree=Pos	29	advmod	_	start_char=1772|end_char=1781
+32	.	.	PUNCT	_	_	2	punct	_	start_char=1781|end_char=1782
+
+# text = Пройдите в одну комнату, и вы станете синхронны с «прошлым» далекой планеты, пройдите в другую, и одновременным для вас станет ее «будущее», замрите на середине и, может быть, уловите тот «настоящий миг», который... является «настоящим» всегда, поэтому на самом деле все равно, куда вы идете.
+# sent_id = 21
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Пройдите	пройти	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1783|end_char=1791
+2	в	в	ADP	_	_	4	case	_	start_char=1792|end_char=1793
+3	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	4	nummod	_	start_char=1794|end_char=1798
+4	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obl	_	start_char=1799|end_char=1806
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1806|end_char=1807
+6	и	и	CCONJ	_	_	8	cc	_	start_char=1808|end_char=1809
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	start_char=1810|end_char=1812
+8	станете	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1813|end_char=1820
+9	синхронны	синхронны	ADV	_	Degree=Pos	8	advmod	_	start_char=1821|end_char=1830
+10	с	с	ADP	_	_	15	case	_	start_char=1831|end_char=1832
+11	«	«	PUNCT	_	_	12	punct	_	start_char=1833|end_char=1834
+12	прошлым	прошлый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=1834|end_char=1841
+13	»	»	PUNCT	_	_	12	punct	_	start_char=1841|end_char=1842
+14	далекой	далекий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=1843|end_char=1850
+15	планеты	планета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	start_char=1851|end_char=1858
+16	,	,	PUNCT	_	_	17	punct	_	start_char=1858|end_char=1859
+17	пройдите	пройти	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1860|end_char=1868
+18	в	в	ADP	_	_	19	case	_	start_char=1869|end_char=1870
+19	другую	другой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	17	obl	_	start_char=1871|end_char=1877
+20	,	,	PUNCT	_	_	25	punct	_	start_char=1877|end_char=1878
+21	и	и	CCONJ	_	_	25	cc	_	start_char=1879|end_char=1880
+22	одновременным	одновременный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	25	xcomp	_	start_char=1881|end_char=1894
+23	для	для	ADP	_	_	24	case	_	start_char=1895|end_char=1898
+24	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	25	obl	_	start_char=1899|end_char=1902
+25	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1903|end_char=1909
+26	ее	ее	DET	_	Poss=Yes|PronType=Prs	28	det	_	start_char=1910|end_char=1912
+27	«	«	PUNCT	_	_	28	punct	_	start_char=1913|end_char=1914
+28	будущее	будущее	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	nsubj	_	start_char=1914|end_char=1921
+29	»	»	PUNCT	_	_	28	punct	_	start_char=1921|end_char=1922
+30	,	,	PUNCT	_	_	31	punct	_	start_char=1922|end_char=1923
+31	замрите	замрить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1924|end_char=1931
+32	на	на	ADP	_	_	33	case	_	start_char=1932|end_char=1934
+33	середине	середина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	31	obl	_	start_char=1935|end_char=1943
+34	и	и	CCONJ	_	_	39	cc	_	start_char=1944|end_char=1945
+35	,	,	PUNCT	_	_	36	punct	_	start_char=1945|end_char=1946
+36	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	39	parataxis	_	start_char=1947|end_char=1952
+37	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	xcomp	_	start_char=1953|end_char=1957
+38	,	,	PUNCT	_	_	36	punct	_	start_char=1957|end_char=1958
+39	уловите	уловить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1959|end_char=1966
+40	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	43	det	_	start_char=1967|end_char=1970
+41	«	«	PUNCT	_	_	43	punct	_	start_char=1971|end_char=1972
+42	настоящий	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	start_char=1972|end_char=1981
+43	миг	миг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	39	obj	_	start_char=1982|end_char=1985
+44	»	»	PUNCT	_	_	43	punct	_	start_char=1985|end_char=1986
+45	,	,	PUNCT	_	_	48	punct	_	start_char=1986|end_char=1987
+46	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	48	nsubj	_	start_char=1988|end_char=1995
+47	...	...	PUNCT	_	_	48	punct	_	start_char=1995|end_char=1998
+48	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	43	acl:relcl	_	start_char=1999|end_char=2007
+49	«	«	PUNCT	_	_	50	punct	_	start_char=2008|end_char=2009
+50	настоящим	настоящий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	48	xcomp	_	start_char=2009|end_char=2018
+51	»	»	PUNCT	_	_	50	punct	_	start_char=2018|end_char=2019
+52	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	48	advmod	_	start_char=2020|end_char=2026
+53	,	,	PUNCT	_	_	58	punct	_	start_char=2026|end_char=2027
+54	поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	58	advmod	_	start_char=2028|end_char=2035
+55	на	на	ADP	_	_	57	case	_	start_char=2036|end_char=2038
+56	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	57	det	_	start_char=2039|end_char=2044
+57	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	58	obl	_	start_char=2045|end_char=2049
+58	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	48	conj	_	start_char=2050|end_char=2053
+59	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	58	fixed	_	start_char=2054|end_char=2059
+60	,	,	PUNCT	_	_	63	punct	_	start_char=2059|end_char=2060
+61	куда	куда	ADV	_	Degree=Pos|PronType=Rel	63	advmod	_	start_char=2061|end_char=2065
+62	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	63	nsubj	_	start_char=2066|end_char=2068
+63	идете	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	58	acl	_	start_char=2069|end_char=2074
+64	.	.	PUNCT	_	_	1	punct	_	start_char=2074|end_char=2075
+
+# text = Доктор растворился в воздухе, и понемногу меня отпустила одержимость уничтожить его немедленно во что бы то ни стало, его ведь там больше не было.
+# sent_id = 22
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2076|end_char=2082
+2	растворился	раствориться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2083|end_char=2094
+3	в	в	ADP	_	_	4	case	_	start_char=2095|end_char=2096
+4	воздухе	воздух	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=2097|end_char=2104
+5	,	,	PUNCT	_	_	9	punct	_	start_char=2104|end_char=2105
+6	и	и	CCONJ	_	_	9	cc	_	start_char=2106|end_char=2107
+7	понемногу	понемногу	ADV	_	Degree=Pos	9	advmod	_	start_char=2108|end_char=2117
+8	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	start_char=2118|end_char=2122
+9	отпустила	отпустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2123|end_char=2132
+10	одержимость	одержимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=2133|end_char=2144
+11	уничтожить	уничтожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	acl	_	start_char=2145|end_char=2155
+12	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=2156|end_char=2159
+13	немедленно	немедленно	ADV	_	Degree=Pos	11	advmod	_	start_char=2160|end_char=2170
+14	во	во	ADP	_	_	15	case	_	start_char=2171|end_char=2173
+15	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind|Typo=Yes	11	obl	_	start_char=2174|end_char=2177
+16	бы	бы	X	_	_	15	fixed	_	start_char=2178|end_char=2180
+17	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	15	fixed	_	start_char=2181|end_char=2183
+18	ни	ни	PART	_	Polarity=Neg	17	fixed	_	start_char=2184|end_char=2186
+19	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=2187|end_char=2192
+20	,	,	PUNCT	_	_	26	punct	_	start_char=2192|end_char=2193
+21	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obj	_	start_char=2194|end_char=2197
+22	ведь	ведь	PART	_	_	26	advmod	_	start_char=2198|end_char=2202
+23	там	там	ADV	_	Degree=Pos|PronType=Dem	26	advmod	_	start_char=2203|end_char=2206
+24	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	26	advmod	_	start_char=2207|end_char=2213
+25	не	не	PART	_	Polarity=Neg	26	advmod	_	start_char=2214|end_char=2216
+26	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2217|end_char=2221
+27	.	.	PUNCT	_	_	2	punct	_	start_char=2221|end_char=2222
+
+# text = Приступ прошел, мне удалось снова прийти в себя, может быть, как раз от мысли, что он снова где-то, где мне его не достать – а мне очень нужно его достать, надоедливую лицемерную тварь, появляющуюся так часто в одном моем шаге от очередного успеха.
+# sent_id = 23
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Приступ	приступ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2223|end_char=2230
+2	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2231|end_char=2237
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2237|end_char=2238
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=2239|end_char=2242
+5	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2243|end_char=2250
+6	снова	снова	ADV	_	Degree=Pos	7	advmod	_	start_char=2251|end_char=2256
+7	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=2257|end_char=2263
+8	в	в	ADP	_	_	9	case	_	start_char=2264|end_char=2265
+9	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obl	_	start_char=2266|end_char=2270
+10	,	,	PUNCT	_	_	17	punct	_	start_char=2270|end_char=2271
+11	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	start_char=2272|end_char=2277
+12	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=2278|end_char=2282
+13	,	,	PUNCT	_	_	11	punct	_	start_char=2282|end_char=2283
+14	как	как	SCONJ	_	_	17	advmod	_	start_char=2284|end_char=2287
+15	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	start_char=2288|end_char=2291
+16	от	от	ADP	_	_	17	case	_	start_char=2292|end_char=2294
+17	мысли	мысль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	conj	_	start_char=2295|end_char=2300
+18	,	,	PUNCT	_	_	21	punct	_	start_char=2300|end_char=2301
+19	что	что	SCONJ	_	_	21	mark	_	start_char=2302|end_char=2305
+20	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=2306|end_char=2308
+21	снова	снова	ADV	_	Degree=Pos	17	advmod	_	start_char=2309|end_char=2314
+22	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	17	advmod	_	start_char=2315|end_char=2321
+23	,	,	PUNCT	_	_	28	punct	_	start_char=2321|end_char=2322
+24	где	где	ADV	_	Degree=Pos|PronType=Rel	28	advmod	_	start_char=2323|end_char=2326
+25	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	28	iobj	_	start_char=2327|end_char=2330
+26	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obj	_	start_char=2331|end_char=2334
+27	не	не	PART	_	Polarity=Neg	28	advmod	_	start_char=2335|end_char=2337
+28	достать	достать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	advcl	_	start_char=2338|end_char=2345
+29	–	–	PUNCT	_	_	33	punct	_	start_char=2346|end_char=2347
+30	а	а	CCONJ	_	_	33	cc	_	start_char=2348|end_char=2349
+31	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	33	iobj	_	start_char=2350|end_char=2353
+32	очень	очень	ADV	_	Degree=Pos	33	advmod	_	start_char=2354|end_char=2359
+33	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	conj	_	start_char=2360|end_char=2365
+34	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	obj	_	start_char=2366|end_char=2369
+35	достать	достать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	33	csubj	_	start_char=2370|end_char=2377
+36	,	,	PUNCT	_	_	39	punct	_	start_char=2377|end_char=2378
+37	надоедливую	надоедливый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	start_char=2379|end_char=2390
+38	лицемерную	лицемерный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	start_char=2391|end_char=2401
+39	тварь	тварь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	35	obj	_	start_char=2402|end_char=2407
+40	,	,	PUNCT	_	_	41	punct	_	start_char=2407|end_char=2408
+41	появляющуюся	появляться	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	39	acl	_	start_char=2409|end_char=2421
+42	так	так	ADV	_	Degree=Pos|PronType=Dem	41	advmod	_	start_char=2422|end_char=2425
+43	часто	часто	ADV	_	Degree=Pos	41	advmod	_	start_char=2426|end_char=2431
+44	в	в	ADP	_	_	47	case	_	start_char=2432|end_char=2433
+45	одном	один	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	47	det	_	start_char=2434|end_char=2439
+46	моем	мой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	47	det	_	start_char=2440|end_char=2444
+47	шаге	шаг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	41	obl	_	start_char=2445|end_char=2449
+48	от	от	ADP	_	_	50	case	_	start_char=2450|end_char=2452
+49	очередного	очередной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	start_char=2453|end_char=2463
+50	успеха	успех	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	47	nmod	_	start_char=2464|end_char=2470
+51	.	.	PUNCT	_	_	2	punct	_	start_char=2470|end_char=2471
+
+# text = Ему ведь ничего не нужно, но всегда нужно зачем-то мне мешать, будто это доставляет ему удовольствие – не достигая ничего и не стремясь к этому, не дать достичь цели и другим.
+# sent_id = 24
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	start_char=2472|end_char=2475
+2	ведь	ведь	PART	_	_	5	advmod	_	start_char=2476|end_char=2480
+3	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	5	nsubj	_	start_char=2481|end_char=2487
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2488|end_char=2490
+5	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2491|end_char=2496
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2496|end_char=2497
+7	но	но	CCONJ	_	_	9	cc	_	start_char=2498|end_char=2500
+8	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	start_char=2501|end_char=2507
+9	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	start_char=2508|end_char=2513
+10	зачем-то	зачем-то	ADV	_	Degree=Pos|PronType=Ind	12	advmod	_	start_char=2514|end_char=2522
+11	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	12	iobj	_	start_char=2523|end_char=2526
+12	мешать	мешать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	start_char=2527|end_char=2533
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2533|end_char=2534
+14	будто	будто	SCONJ	_	_	16	mark	_	start_char=2535|end_char=2540
+15	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nsubj	_	start_char=2541|end_char=2544
+16	доставляет	доставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=2545|end_char=2555
+17	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	iobj	_	start_char=2556|end_char=2559
+18	удовольствие	удовольствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obj	_	start_char=2560|end_char=2572
+19	–	–	PUNCT	_	_	21	punct	_	start_char=2573|end_char=2574
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=2575|end_char=2577
+21	достигая	достигать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	16	advcl	_	start_char=2578|end_char=2586
+22	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	21	obj	_	start_char=2587|end_char=2593
+23	и	и	CCONJ	_	_	25	cc	_	start_char=2594|end_char=2595
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=2596|end_char=2598
+25	стремясь	стремиться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	21	conj	_	start_char=2599|end_char=2607
+26	к	к	ADP	_	_	27	case	_	start_char=2608|end_char=2609
+27	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	25	obl	_	start_char=2610|end_char=2615
+28	,	,	PUNCT	_	_	30	punct	_	start_char=2615|end_char=2616
+29	не	не	PART	_	Polarity=Neg	30	advmod	_	start_char=2617|end_char=2619
+30	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	conj	_	start_char=2620|end_char=2624
+31	достичь	достичь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	xcomp	_	start_char=2625|end_char=2632
+32	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	obj	_	start_char=2633|end_char=2637
+33	и	и	CCONJ	_	_	34	cc	_	start_char=2638|end_char=2639
+34	другим	другой	DET	_	Case=Dat|Number=Plur|PronType=Tot	32	conj	_	start_char=2640|end_char=2646
+35	.	.	PUNCT	_	_	5	punct	_	start_char=2646|end_char=2647
+
+# text = Раз за разом это доводит до исступления.
+# sent_id = 25
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Раз	раз	SCONJ	_	_	5	mark	_	start_char=2648|end_char=2651
+2	за	за	ADP	_	_	3	case	_	start_char=2652|end_char=2654
+3	разом	раз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	start_char=2655|end_char=2660
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2661|end_char=2664
+5	доводит	доводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2665|end_char=2672
+6	до	до	ADP	_	_	7	case	_	start_char=2673|end_char=2675
+7	исступления	исступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	start_char=2676|end_char=2687
+8	.	.	PUNCT	_	_	5	punct	_	start_char=2687|end_char=2688
+
+# text = Что ж, ничто так не стимулирует, как сложные отдаленные цели.
+# sent_id = 26
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	parataxis	_	start_char=2689|end_char=2692
+2	ж	ж	PART	_	_	1	advmod	_	start_char=2693|end_char=2694
+3	,	,	PUNCT	_	_	1	punct	_	start_char=2694|end_char=2695
+4	ничто	ничто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	7	nsubj	_	start_char=2696|end_char=2701
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2702|end_char=2705
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2706|end_char=2708
+7	стимулирует	стимулировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2709|end_char=2720
+8	,	,	PUNCT	_	_	12	punct	_	start_char=2720|end_char=2721
+9	как	как	SCONJ	_	_	12	case	_	start_char=2722|end_char=2725
+10	сложные	сложный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	start_char=2726|end_char=2733
+11	отдаленные	отдаленный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	start_char=2734|end_char=2744
+12	цели	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	obl	_	start_char=2745|end_char=2749
+13	.	.	PUNCT	_	_	7	punct	_	start_char=2749|end_char=2750
+
+# text = Ради которых можно пренебречь сиюминутными чувствами.
+# sent_id = 27
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Ради	ради	ADP	_	_	2	case	_	start_char=2751|end_char=2755
+2	которых	который	PRON	_	Case=Gen|Number=Plur|PronType=Rel	4	obl	_	start_char=2756|end_char=2763
+3	можно	можно	VERB	_	_	0	root	_	start_char=2764|end_char=2769
+4	пренебречь	пренебречь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=2770|end_char=2780
+5	сиюминутными	сиюминутный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	start_char=2781|end_char=2793
+6	чувствами	чувство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	iobj	_	start_char=2794|end_char=2803
+7	.	.	PUNCT	_	_	3	punct	_	start_char=2803|end_char=2804
+
+# text = Хорошо.
+# sent_id = 28
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2805|end_char=2811
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2811|end_char=2812
+
+# text = Я знал все, что мне нужно.
+# sent_id = 29
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2813|end_char=2814
+2	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2815|end_char=2819
+3	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	2	obj	_	start_char=2820|end_char=2823
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2823|end_char=2824
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	start_char=2825|end_char=2828
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=2829|end_char=2832
+7	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	acl:relcl	_	start_char=2833|end_char=2838
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2838|end_char=2839
+
+# text = «Зверь, чей дом на другой планете, может вернуться домой».
+# sent_id = 30
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	«	«	PUNCT	_	_	2	punct	_	start_char=2840|end_char=2841
+2	Зверь	зверь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=2841|end_char=2846
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2846|end_char=2847
+4	чей	чей	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	5	det	_	start_char=2848|end_char=2851
+5	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=2852|end_char=2855
+6	на	на	ADP	_	_	8	case	_	start_char=2856|end_char=2858
+7	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	8	det	_	start_char=2859|end_char=2865
+8	планете	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	start_char=2866|end_char=2873
+9	,	,	PUNCT	_	_	2	punct	_	start_char=2873|end_char=2874
+10	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2875|end_char=2880
+11	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	10	xcomp	_	start_char=2881|end_char=2890
+12	домой	домой	ADV	_	Degree=Pos	11	advmod	_	start_char=2891|end_char=2896
+13	»	»	PUNCT	_	_	10	punct	_	start_char=2896|end_char=2897
+14	.	.	PUNCT	_	_	10	punct	_	start_char=2897|end_char=2898
+
+# text = Рассмотрим варианты.
+# sent_id = 31
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Рассмотрим	рассмотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2900|end_char=2910
+2	варианты	вариант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	start_char=2911|end_char=2919
+3	.	.	PUNCT	_	_	1	punct	_	start_char=2919|end_char=2920
+
+# text = Я мог вернуться на Галлифрей?
+# sent_id = 32
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2921|end_char=2922
+2	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2923|end_char=2926
+3	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=2927|end_char=2936
+4	на	на	ADP	_	_	5	case	_	start_char=2937|end_char=2939
+5	Галлифрей	Галлифрей	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	3	obl	_	start_char=2940|end_char=2949
+6	?	?	PUNCT	_	_	2	punct	_	start_char=2949|end_char=2950
+
+# text = Ха-ха!..
+# sent_id = 33
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Ха-ха	ха-ха	INTJ	_	_	0	root	_	start_char=2951|end_char=2956
+2	!..	!..	PUNCT	_	_	1	punct	_	start_char=2956|end_char=2959
+
+# text = Особенно в таком состоянии.
+# sent_id = 34
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Особенно	особенно	ADV	_	Degree=Pos	4	advmod	_	start_char=2960|end_char=2968
+2	в	в	ADP	_	_	4	case	_	start_char=2969|end_char=2970
+3	таком	такой	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	start_char=2971|end_char=2976
+4	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=2977|end_char=2986
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2986|end_char=2987
+
+# text = Это было бы слишком рискованно.
+# sent_id = 35
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2988|end_char=2991
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=2992|end_char=2996
+3	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=2997|end_char=2999
+4	слишком	слишком	ADV	_	Degree=Pos	5	advmod	_	start_char=3000|end_char=3007
+5	рискованно	рискованный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3008|end_char=3018
+6	.	.	PUNCT	_	_	5	punct	_	start_char=3018|end_char=3019
+
+# text = Тракен?
+# sent_id = 36
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Тракен	тракен	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3020|end_char=3026
+2	?	?	PUNCT	_	_	1	punct	_	start_char=3026|end_char=3027
+
+# text = Планета того существа, которое я использовал для воплощения после истечения количества отпущенных повелителю времени жизней.
+# sent_id = 37
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Планета	планета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3028|end_char=3035
+2	того	тот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=3036|end_char=3040
+3	существа	существо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	start_char=3041|end_char=3049
+4	,	,	PUNCT	_	_	7	punct	_	start_char=3049|end_char=3050
+5	которое	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	start_char=3051|end_char=3058
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=3059|end_char=3060
+7	использовал	использовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=3061|end_char=3072
+8	для	для	ADP	_	_	9	case	_	start_char=3073|end_char=3076
+9	воплощения	воплощение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	start_char=3077|end_char=3087
+10	после	после	ADP	_	_	11	case	_	start_char=3088|end_char=3093
+11	истечения	истечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	start_char=3094|end_char=3103
+12	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	start_char=3104|end_char=3114
+13	отпущенных	отпустить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	start_char=3115|end_char=3125
+14	повелителю	повелитель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	start_char=3126|end_char=3136
+15	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	start_char=3137|end_char=3144
+16	жизней	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	start_char=3145|end_char=3151
+17	.	.	PUNCT	_	_	1	punct	_	start_char=3151|end_char=3152
+
+# text = Даже с учетом рассинхронизации, я либо уничтожил этот мир, либо он опасен по-своему, во времена расцвета, когда он полон сил, парализующих «любое зло», и теперь, когда моя ТАРДИС, оставшаяся далеко отсюда, не защищает меня.
+# sent_id = 38
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Даже	даже	PART	_	_	3	advmod	_	start_char=3153|end_char=3157
+2	с	с	ADP	_	_	3	case	_	start_char=3158|end_char=3159
+3	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	start_char=3160|end_char=3166
+4	рассинхронизации	рассинхронизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=3167|end_char=3183
+5	,	,	PUNCT	_	_	3	punct	_	start_char=3183|end_char=3184
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=3185|end_char=3186
+7	либо	либо	CCONJ	_	_	8	cc	_	start_char=3187|end_char=3191
+8	уничтожил	уничтожить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3192|end_char=3201
+9	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=3202|end_char=3206
+10	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=3207|end_char=3210
+11	,	,	PUNCT	_	_	14	punct	_	start_char=3210|end_char=3211
+12	либо	либо	CCONJ	_	_	14	cc	_	start_char=3212|end_char=3216
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=3217|end_char=3219
+14	опасен	опасный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	conj	_	start_char=3220|end_char=3226
+15	по-своему	по-своему	ADV	_	Degree=Pos	14	advmod	_	start_char=3227|end_char=3236
+16	,	,	PUNCT	_	_	18	punct	_	start_char=3236|end_char=3237
+17	во	во	ADP	_	_	18	case	_	start_char=3238|end_char=3240
+18	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	obl	_	start_char=3241|end_char=3248
+19	расцвета	расцвет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	start_char=3249|end_char=3257
+20	,	,	PUNCT	_	_	23	punct	_	start_char=3257|end_char=3258
+21	когда	когда	SCONJ	_	_	23	mark	_	start_char=3259|end_char=3264
+22	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=3265|end_char=3267
+23	полон	полный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	18	acl	_	start_char=3268|end_char=3273
+24	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	obj	_	start_char=3274|end_char=3277
+25	,	,	PUNCT	_	_	26	punct	_	start_char=3277|end_char=3278
+26	парализующих	парализовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	acl	_	start_char=3279|end_char=3291
+27	«	«	PUNCT	_	_	29	punct	_	start_char=3292|end_char=3293
+28	любое	любой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	29	det	_	start_char=3293|end_char=3298
+29	зло	зло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	26	obj	_	start_char=3299|end_char=3302
+30	»	»	PUNCT	_	_	29	punct	_	start_char=3302|end_char=3303
+31	,	,	PUNCT	_	_	33	punct	_	start_char=3303|end_char=3304
+32	и	и	CCONJ	_	_	33	cc	_	start_char=3305|end_char=3306
+33	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	44	advmod	_	start_char=3307|end_char=3313
+34	,	,	PUNCT	_	_	44	punct	_	start_char=3313|end_char=3314
+35	когда	когда	SCONJ	_	_	44	mark	_	start_char=3315|end_char=3320
+36	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	37	det	_	start_char=3321|end_char=3324
+37	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	44	nsubj	_	start_char=3325|end_char=3331
+38	,	,	PUNCT	_	_	39	punct	_	start_char=3331|end_char=3332
+39	оставшаяся	остаться	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	37	acl	_	start_char=3333|end_char=3343
+40	далеко	далеко	ADV	_	Degree=Pos	41	advmod	_	start_char=3344|end_char=3350
+41	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	39	advmod	_	start_char=3351|end_char=3357
+42	,	,	PUNCT	_	_	39	punct	_	start_char=3357|end_char=3358
+43	не	не	PART	_	Polarity=Neg	44	advmod	_	start_char=3359|end_char=3361
+44	защищает	защищать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	start_char=3362|end_char=3370
+45	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	44	obj	_	start_char=3371|end_char=3375
+46	.	.	PUNCT	_	_	8	punct	_	start_char=3375|end_char=3376
+
+# text = Значит, главное: стабилизировать это место, пока я тут, затем покинуть его в любом удобном направлении.
+# sent_id = 39
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3377|end_char=3383
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3383|end_char=3384
+3	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3385|end_char=3392
+4	:	:	PUNCT	_	_	3	punct	_	start_char=3392|end_char=3393
+5	стабилизировать	стабилизировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	parataxis	_	start_char=3394|end_char=3409
+6	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	start_char=3410|end_char=3413
+7	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=3414|end_char=3419
+8	,	,	PUNCT	_	_	14	punct	_	start_char=3419|end_char=3420
+9	пока	пока	SCONJ	_	_	11	mark	_	start_char=3421|end_char=3425
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=3426|end_char=3427
+11	тут	тут	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=3428|end_char=3431
+12	,	,	PUNCT	_	_	14	punct	_	start_char=3431|end_char=3432
+13	затем	затем	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=3433|end_char=3438
+14	покинуть	покинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	advcl	_	start_char=3439|end_char=3447
+15	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=3448|end_char=3451
+16	в	в	ADP	_	_	19	case	_	start_char=3452|end_char=3453
+17	любом	любой	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	19	det	_	start_char=3454|end_char=3459
+18	удобном	удобный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=3460|end_char=3467
+19	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	start_char=3468|end_char=3479
+20	.	.	PUNCT	_	_	3	punct	_	start_char=3479|end_char=3480
+
+# text = Когда-то на Планете Гепардов была более высокая цивилизация.
+# sent_id = 40
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	3	advmod	_	start_char=3481|end_char=3489
+2	на	на	ADP	_	_	3	case	_	start_char=3490|end_char=3492
+3	Планете	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=3493|end_char=3500
+4	Гепардов	Гепардов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Plur	3	nmod	_	start_char=3501|end_char=3509
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=3510|end_char=3514
+6	более	более	ADV	_	Degree=Cmp|PronType=Tot	7	advmod	_	start_char=3515|end_char=3520
+7	высокая	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=3521|end_char=3528
+8	цивилизация	цивилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=3529|end_char=3540
+9	.	.	PUNCT	_	_	3	punct	_	start_char=3540|end_char=3541
+
+# text = Я вернулся в город, продолжить его изучение, и к гепардам, которых все еще мог контролировать, не теряя рассудок, и которых даже мог отчасти «цивилизовать», особенно зная, что это не напрасная трата времени, и что выход есть.
+# sent_id = 41
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=3542|end_char=3543
+2	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3544|end_char=3552
+3	в	в	ADP	_	_	4	case	_	start_char=3553|end_char=3554
+4	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=3555|end_char=3560
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3560|end_char=3561
+6	продолжить	продолжить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	start_char=3562|end_char=3572
+7	его	его	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=3573|end_char=3576
+8	изучение	изучение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	start_char=3577|end_char=3585
+9	,	,	PUNCT	_	_	12	punct	_	start_char=3585|end_char=3586
+10	и	и	CCONJ	_	_	12	cc	_	start_char=3587|end_char=3588
+11	к	к	ADP	_	_	12	case	_	start_char=3589|end_char=3590
+12	гепардам	гепарда	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	6	obl	_	start_char=3591|end_char=3599
+13	,	,	PUNCT	_	_	17	punct	_	start_char=3599|end_char=3600
+14	которых	который	PRON	_	Case=Acc|Number=Plur|PronType=Rel	18	obj	_	start_char=3601|end_char=3608
+15	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	17	nsubj	_	start_char=3609|end_char=3612
+16	еще	еще	ADV	_	Degree=Pos	17	advmod	_	start_char=3613|end_char=3616
+17	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	start_char=3617|end_char=3620
+18	контролировать	контролировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	start_char=3621|end_char=3635
+19	,	,	PUNCT	_	_	21	punct	_	start_char=3635|end_char=3636
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=3637|end_char=3639
+21	теряя	терять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=3640|end_char=3645
+22	рассудок	рассудок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obj	_	start_char=3646|end_char=3654
+23	,	,	PUNCT	_	_	27	punct	_	start_char=3654|end_char=3655
+24	и	и	CCONJ	_	_	27	cc	_	start_char=3656|end_char=3657
+25	которых	который	PRON	_	Case=Acc|Number=Plur|PronType=Rel	27	obj	_	start_char=3658|end_char=3665
+26	даже	даже	PART	_	_	27	advmod	_	start_char=3666|end_char=3670
+27	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	conj	_	start_char=3671|end_char=3674
+28	отчасти	отчасти	ADV	_	Degree=Pos	30	advmod	_	start_char=3675|end_char=3682
+29	«	«	PUNCT	_	_	30	punct	_	start_char=3683|end_char=3684
+30	цивилизовать	цивилизовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	27	xcomp	_	start_char=3684|end_char=3696
+31	»	»	PUNCT	_	_	30	punct	_	start_char=3696|end_char=3697
+32	,	,	PUNCT	_	_	34	punct	_	start_char=3697|end_char=3698
+33	особенно	особенно	ADV	_	Degree=Pos	34	advmod	_	start_char=3699|end_char=3707
+34	зная	знать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	27	advcl	_	start_char=3708|end_char=3712
+35	,	,	PUNCT	_	_	40	punct	_	start_char=3712|end_char=3713
+36	что	что	SCONJ	_	_	40	mark	_	start_char=3714|end_char=3717
+37	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	40	nsubj	_	start_char=3718|end_char=3721
+38	не	не	PART	_	Polarity=Neg	39	advmod	_	start_char=3722|end_char=3724
+39	напрасная	напрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	start_char=3725|end_char=3734
+40	трата	трата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	34	ccomp	_	start_char=3735|end_char=3740
+41	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	nmod	_	start_char=3741|end_char=3748
+42	,	,	PUNCT	_	_	46	punct	_	start_char=3748|end_char=3749
+43	и	и	CCONJ	_	_	46	cc	_	start_char=3750|end_char=3751
+44	что	что	SCONJ	_	_	46	mark	_	start_char=3752|end_char=3755
+45	выход	выход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	46	nsubj	_	start_char=3756|end_char=3761
+46	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	start_char=3762|end_char=3766
+47	.	.	PUNCT	_	_	2	punct	_	start_char=3766|end_char=3767
+
+# text = Дом их всех был когда-то не тут.
+# sent_id = 42
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=3768|end_char=3771
+2	их	их	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=3772|end_char=3774
+3	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Tot	1	nmod	_	start_char=3775|end_char=3779
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=3780|end_char=3783
+5	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	7	advmod	_	start_char=3784|end_char=3792
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3793|end_char=3795
+7	тут	тут	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=3796|end_char=3799
+8	.	.	PUNCT	_	_	7	punct	_	start_char=3799|end_char=3800
+
+# text = И китлинги продолжали свой промысел.
+# sent_id = 43
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	И	и	CCONJ	_	_	3	cc	_	start_char=3801|end_char=3802
+2	китлинги	китлинг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=3803|end_char=3811
+3	продолжали	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3812|end_char=3822
+4	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=3823|end_char=3827
+5	промысел	промысел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=3828|end_char=3836
+6	.	.	PUNCT	_	_	3	punct	_	start_char=3836|end_char=3837
+
+# text = Их следующей территорией охоты стал Древний Египет – все еще Земля, но «под другим углом».
+# sent_id = 44
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Их	их	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=3838|end_char=3840
+2	следующей	следующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=3841|end_char=3850
+3	территорией	территория	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	xcomp	_	start_char=3851|end_char=3862
+4	охоты	охота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=3863|end_char=3868
+5	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3869|end_char=3873
+6	Древний	древний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=3874|end_char=3881
+7	Египет	Египет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	5	nsubj	_	start_char=3882|end_char=3888
+8	–	–	PUNCT	_	_	11	punct	_	start_char=3889|end_char=3890
+9	все	всё	ADV	_	Degree=Pos|PronType=Tot	11	advmod	_	start_char=3891|end_char=3894
+10	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=3895|end_char=3898
+11	Земля	Земля	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	7	parataxis	_	start_char=3899|end_char=3904
+12	,	,	PUNCT	_	_	17	punct	_	start_char=3904|end_char=3905
+13	но	но	CCONJ	_	_	17	cc	_	start_char=3906|end_char=3908
+14	«	«	PUNCT	_	_	17	punct	_	start_char=3909|end_char=3910
+15	под	под	ADP	_	_	17	case	_	start_char=3910|end_char=3913
+16	другим	другой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	17	det	_	start_char=3914|end_char=3920
+17	углом	угол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	conj	_	start_char=3921|end_char=3926
+18	»	»	PUNCT	_	_	17	punct	_	start_char=3926|end_char=3927
+19	.	.	PUNCT	_	_	5	punct	_	start_char=3927|end_char=3928
+
+# text = Египтяне не испугались гепардов – они стремились им поклоняться, либо, не менее охотно, становиться им подобными.
+# sent_id = 45
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Египтяне	египтянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=3929|end_char=3937
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3938|end_char=3940
+3	испугались	испугаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3941|end_char=3951
+4	гепардов	гепард	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	obj	_	start_char=3952|end_char=3960
+5	–	–	PUNCT	_	_	7	punct	_	start_char=3961|end_char=3962
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=3963|end_char=3966
+7	стремились	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=3967|end_char=3977
+8	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	iobj	_	start_char=3978|end_char=3980
+9	поклоняться	поклоняться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=3981|end_char=3992
+10	,	,	PUNCT	_	_	17	punct	_	start_char=3992|end_char=3993
+11	либо	либо	CCONJ	_	_	17	cc	_	start_char=3994|end_char=3998
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3998|end_char=3999
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=4000|end_char=4002
+14	менее	менее	ADV	_	Degree=Cmp|PronType=Tot	15	advmod	_	start_char=4003|end_char=4008
+15	охотно	охотно	ADV	_	Degree=Pos	17	advmod	_	start_char=4009|end_char=4015
+16	,	,	PUNCT	_	_	15	punct	_	start_char=4015|end_char=4016
+17	становиться	становиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	conj	_	start_char=4017|end_char=4028
+18	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	iobj	_	start_char=4029|end_char=4031
+19	подобными	подобный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	xcomp	_	start_char=4032|end_char=4041
+20	.	.	PUNCT	_	_	3	punct	_	start_char=4041|end_char=4042
+
+# text = С ними было легко снова попасть на Землю.
+# sent_id = 46
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	С	с	ADP	_	_	2	case	_	start_char=4043|end_char=4044
+2	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=4045|end_char=4049
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=4050|end_char=4054
+4	легко	легкий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4055|end_char=4060
+5	снова	снова	ADV	_	Degree=Pos	6	advmod	_	start_char=4061|end_char=4066
+6	попасть	попасть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=4067|end_char=4074
+7	на	на	ADP	_	_	8	case	_	start_char=4075|end_char=4077
+8	Землю	Земля	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	6	obl	_	start_char=4078|end_char=4083
+9	.	.	PUNCT	_	_	4	punct	_	start_char=4083|end_char=4084
+
+# text = В уже упомянутую пору расцвета египетской цивилизации, когда первым из богов почитался Амон-Ра – Великий Кот, Мститель богов, в честь которого именовали себя цари.
+# sent_id = 47
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	В	в	ADP	_	_	4	case	_	start_char=4085|end_char=4086
+2	уже	уже	ADV	_	Degree=Pos	3	advmod	_	start_char=4087|end_char=4090
+3	упомянутую	упомянуть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	start_char=4091|end_char=4101
+4	пору	пора	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=4102|end_char=4106
+5	расцвета	расцвет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=4107|end_char=4115
+6	египетской	египетский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=4116|end_char=4126
+7	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=4127|end_char=4138
+8	,	,	PUNCT	_	_	13	punct	_	start_char=4138|end_char=4139
+9	когда	когда	SCONJ	_	_	13	mark	_	start_char=4140|end_char=4145
+10	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	13	obl	_	start_char=4146|end_char=4152
+11	из	из	ADP	_	_	12	case	_	start_char=4153|end_char=4155
+12	богов	бог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	obl	_	start_char=4156|end_char=4161
+13	почитался	почитаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	_	start_char=4162|end_char=4171
+14	Амон-Ра	Амон-Ра	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	13	nsubj	_	start_char=4172|end_char=4179
+15	–	–	PUNCT	_	_	17	punct	_	start_char=4180|end_char=4181
+16	Великий	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	start_char=4182|end_char=4189
+17	Кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	appos	_	start_char=4190|end_char=4193
+18	,	,	PUNCT	_	_	19	punct	_	start_char=4193|end_char=4194
+19	Мститель	мститель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	start_char=4195|end_char=4203
+20	богов	бог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	start_char=4204|end_char=4209
+21	,	,	PUNCT	_	_	25	punct	_	start_char=4209|end_char=4210
+22	в	в	ADP	_	_	23	case	_	start_char=4211|end_char=4212
+23	честь	честь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obl	_	start_char=4213|end_char=4218
+24	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	23	nmod	_	start_char=4219|end_char=4227
+25	именовали	именовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	start_char=4228|end_char=4237
+26	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	25	obj	_	start_char=4238|end_char=4242
+27	цари	царь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	start_char=4243|end_char=4247
+28	.	.	PUNCT	_	_	4	punct	_	start_char=4247|end_char=4248
+
+# text = Того, кого я застал, звали Аменхотепом Четвертым.
+# sent_id = 48
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Того	тот	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	start_char=4249|end_char=4253
+2	,	,	PUNCT	_	_	5	punct	_	start_char=4253|end_char=4254
+3	кого	кто	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	5	obj	_	start_char=4255|end_char=4259
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4260|end_char=4261
+5	застал	застать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=4262|end_char=4268
+6	,	,	PUNCT	_	_	5	punct	_	start_char=4268|end_char=4269
+7	звали	звать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4270|end_char=4275
+8	Аменхотепом	Аменхотеп	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	7	iobj	_	start_char=4276|end_char=4287
+9	Четвертым	четвертый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4288|end_char=4297
+10	.	.	PUNCT	_	_	7	punct	_	start_char=4297|end_char=4298
+
+# text = Имя его означало «Амон доволен», самого же Амона звали Великим Котом, Мстителем Богов.
+# sent_id = 49
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Имя	имя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=4299|end_char=4302
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	det	_	start_char=4303|end_char=4306
+3	означало	означать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4307|end_char=4315
+4	«	«	PUNCT	_	_	6	punct	_	start_char=4316|end_char=4317
+5	Амон	Амон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	start_char=4317|end_char=4321
+6	доволен	довольный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	parataxis	_	start_char=4322|end_char=4329
+7	»	»	PUNCT	_	_	6	punct	_	start_char=4329|end_char=4330
+8	,	,	PUNCT	_	_	12	punct	_	start_char=4330|end_char=4331
+9	самого	самый	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Emp	11	det	_	start_char=4332|end_char=4338
+10	же	же	PART	_	_	9	advmod	_	start_char=4339|end_char=4341
+11	Амона	Амон	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	12	obj	_	start_char=4342|end_char=4347
+12	звали	звать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4348|end_char=4353
+13	Великим	великий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=4354|end_char=4361
+14	Котом	Котом	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Prs|Number=Sing	12	iobj	_	start_char=4362|end_char=4367
+15	,	,	PUNCT	_	_	16	punct	_	start_char=4367|end_char=4368
+16	Мстителем	мститель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	14	conj	_	start_char=4369|end_char=4378
+17	Богов	бог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	start_char=4379|end_char=4384
+18	.	.	PUNCT	_	_	3	punct	_	start_char=4384|end_char=4385
+
+# text = Все царское семейство побывало в свое удовольствие на Планете богов, восхищаясь полулюдьми-полузверями и остатками городов древней цивилизации.
+# sent_id = 50
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	det	_	start_char=4386|end_char=4389
+2	царское	царский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=4390|end_char=4397
+3	семейство	семейство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=4398|end_char=4407
+4	побывало	побывать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4408|end_char=4416
+5	в	в	ADP	_	_	7	case	_	start_char=4417|end_char=4418
+6	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=4419|end_char=4423
+7	удовольствие	удовольствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	start_char=4424|end_char=4436
+8	на	на	ADP	_	_	9	case	_	start_char=4437|end_char=4439
+9	Планете	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=4440|end_char=4447
+10	богов	бог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	start_char=4448|end_char=4453
+11	,	,	PUNCT	_	_	12	punct	_	start_char=4453|end_char=4454
+12	восхищаясь	восхищаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	4	advcl	_	start_char=4455|end_char=4465
+13	полулюдьми	полулюдь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	iobj	_	start_char=4466|end_char=4476
+14	-	-	PUNCT	_	_	15	punct	_	start_char=4476|end_char=4477
+15	полузверями	полузверер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	13	appos	_	start_char=4477|end_char=4488
+16	и	и	CCONJ	_	_	17	cc	_	start_char=4489|end_char=4490
+17	остатками	остаток	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	conj	_	start_char=4491|end_char=4500
+18	городов	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	start_char=4501|end_char=4508
+19	древней	древний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	start_char=4509|end_char=4516
+20	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	start_char=4517|end_char=4528
+21	.	.	PUNCT	_	_	4	punct	_	start_char=4528|end_char=4529
+
+# text = Между цивилизациями оказалось немало общего.
+# sent_id = 51
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Между	между	ADP	_	_	2	case	_	start_char=4530|end_char=4535
+2	цивилизациями	цивилизация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	obl	_	start_char=4536|end_char=4549
+3	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4550|end_char=4559
+4	немало	немало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=4560|end_char=4566
+5	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	nsubj	_	start_char=4567|end_char=4573
+6	.	.	PUNCT	_	_	3	punct	_	start_char=4573|end_char=4574
+
+# text = Аменхотеп и его жена Нефертити припомнили, что среди древних священных строений есть совпадающие символы, целые тексты, целые, как оказалось, механизмы.
+# sent_id = 52
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Аменхотеп	Аменхотеп	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	start_char=4575|end_char=4584
+2	и	и	CCONJ	_	_	4	cc	_	start_char=4585|end_char=4586
+3	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=4587|end_char=4590
+4	жена	жена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	start_char=4591|end_char=4595
+5	Нефертити	Нефертити	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	1	appos	_	start_char=4596|end_char=4605
+6	припомнили	припомнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4606|end_char=4616
+7	,	,	PUNCT	_	_	13	punct	_	start_char=4616|end_char=4617
+8	что	что	SCONJ	_	_	13	mark	_	start_char=4618|end_char=4621
+9	среди	среди	ADP	_	_	12	case	_	start_char=4622|end_char=4627
+10	древних	древний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=4628|end_char=4635
+11	священных	священный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=4636|end_char=4645
+12	строений	строение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	obl	_	start_char=4646|end_char=4654
+13	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=4655|end_char=4659
+14	совпадающие	совпадать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	amod	_	start_char=4660|end_char=4671
+15	символы	символ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	start_char=4672|end_char=4679
+16	,	,	PUNCT	_	_	18	punct	_	start_char=4679|end_char=4680
+17	целые	целый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	start_char=4681|end_char=4686
+18	тексты	текст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	conj	_	start_char=4687|end_char=4693
+19	,	,	PUNCT	_	_	25	punct	_	start_char=4693|end_char=4694
+20	целые	целый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	amod	_	start_char=4695|end_char=4700
+21	,	,	PUNCT	_	_	23	punct	_	start_char=4700|end_char=4701
+22	как	как	SCONJ	_	_	23	mark	_	start_char=4702|end_char=4705
+23	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	advcl	_	start_char=4706|end_char=4715
+24	,	,	PUNCT	_	_	23	punct	_	start_char=4715|end_char=4716
+25	механизмы	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	conj	_	start_char=4717|end_char=4726
+26	.	.	PUNCT	_	_	6	punct	_	start_char=4726|end_char=4727
+
+# text = Похоже, предки китлингов когда-то уже побывали в их истории и оставили свой след, свои предания, часть знаний и собственные резервные технологии.
+# sent_id = 53
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Похоже	похожий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	parataxis	_	start_char=4728|end_char=4734
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4734|end_char=4735
+3	предки	предки	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=4736|end_char=4742
+4	китлингов	китлинг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	start_char=4743|end_char=4752
+5	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	7	advmod	_	start_char=4753|end_char=4761
+6	уже	уже	ADV	_	Degree=Pos	7	advmod	_	start_char=4762|end_char=4765
+7	побывали	побывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4766|end_char=4774
+8	в	в	ADP	_	_	10	case	_	start_char=4775|end_char=4776
+9	их	их	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=4777|end_char=4779
+10	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	start_char=4780|end_char=4787
+11	и	и	CCONJ	_	_	12	cc	_	start_char=4788|end_char=4789
+12	оставили	оставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=4790|end_char=4798
+13	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=4799|end_char=4803
+14	след	следующий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=4804|end_char=4808
+15	,	,	PUNCT	_	_	17	punct	_	start_char=4808|end_char=4809
+16	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	start_char=4810|end_char=4814
+17	предания	предание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	conj	_	start_char=4815|end_char=4823
+18	,	,	PUNCT	_	_	19	punct	_	start_char=4823|end_char=4824
+19	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	conj	_	start_char=4825|end_char=4830
+20	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	start_char=4831|end_char=4837
+21	и	и	CCONJ	_	_	24	cc	_	start_char=4838|end_char=4839
+22	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	start_char=4840|end_char=4851
+23	резервные	резервный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	start_char=4852|end_char=4861
+24	технологии	технология	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	conj	_	start_char=4862|end_char=4872
+25	.	.	PUNCT	_	_	7	punct	_	start_char=4872|end_char=4873
+
+# text = Я сам помог египтянам перевести кое-что, – чтобы они лучше могли помочь мне кое в чем разобраться, но к тому времени, как мы достаточно обменялись знаниями, их отношение к нам переменилось.
+# sent_id = 54
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4874|end_char=4875
+2	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	1	acl	_	start_char=4876|end_char=4879
+3	помог	помочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4880|end_char=4885
+4	египтянам	египтян	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	start_char=4886|end_char=4895
+5	перевести	перевести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=4896|end_char=4905
+6	кое-что	кое-что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	obj	_	start_char=4906|end_char=4913
+7	,	,	PUNCT	_	_	12	punct	_	start_char=4913|end_char=4914
+8	–	–	PUNCT	_	_	12	punct	_	start_char=4915|end_char=4916
+9	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	start_char=4917|end_char=4922
+10	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=4923|end_char=4926
+11	лучше	хороший	ADJ	_	Degree=Cmp	12	advcl	_	start_char=4927|end_char=4932
+12	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=4933|end_char=4938
+13	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=4939|end_char=4945
+14	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	iobj	_	start_char=4946|end_char=4949
+15	кое	кое-что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind|Typo=Yes	13	obj	_	start_char=4950|end_char=4953
+16	в	в	ADP	_	_	17	case	_	start_char=4954|end_char=4955
+17	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	18	obl	_	start_char=4956|end_char=4959
+18	разобраться	разобраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	13	xcomp	_	start_char=4960|end_char=4971
+19	,	,	PUNCT	_	_	35	punct	_	start_char=4971|end_char=4972
+20	но	но	CCONJ	_	_	35	cc	_	start_char=4973|end_char=4975
+21	к	к	ADP	_	_	23	case	_	start_char=4976|end_char=4977
+22	тому	тот	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	23	det	_	start_char=4978|end_char=4982
+23	времени	время	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	35	obl	_	start_char=4983|end_char=4990
+24	,	,	PUNCT	_	_	28	punct	_	start_char=4990|end_char=4991
+25	как	как	SCONJ	_	_	28	mark	_	start_char=4992|end_char=4995
+26	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	28	nsubj	_	start_char=4996|end_char=4998
+27	достаточно	достаточно	ADV	_	Degree=Pos	28	advmod	_	start_char=4999|end_char=5009
+28	обменялись	обменяться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	35	advcl	_	start_char=5010|end_char=5020
+29	знаниями	знание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	28	iobj	_	start_char=5021|end_char=5029
+30	,	,	PUNCT	_	_	28	punct	_	start_char=5029|end_char=5030
+31	их	их	DET	_	Poss=Yes|PronType=Prs	32	det	_	start_char=5031|end_char=5033
+32	отношение	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	start_char=5034|end_char=5043
+33	к	к	ADP	_	_	34	case	_	start_char=5044|end_char=5045
+34	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	35	obl	_	start_char=5046|end_char=5049
+35	переменилось	перемениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=5050|end_char=5062
+36	.	.	PUNCT	_	_	3	punct	_	start_char=5062|end_char=5063
+
+# text = Они будто протрезвели – вредно созерцать богов лицом к лицу.
+# sent_id = 55
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=5064|end_char=5067
+2	будто	будто	PART	_	_	3	advmod	_	start_char=5068|end_char=5073
+3	протрезвели	протрезвельти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5074|end_char=5085
+4	–	–	PUNCT	_	_	5	punct	_	start_char=5086|end_char=5087
+5	вредно	вредный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	parataxis	_	start_char=5088|end_char=5094
+6	созерцать	созерцать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=5095|end_char=5104
+7	богов	бог	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	start_char=5105|end_char=5110
+8	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	iobj	_	start_char=5111|end_char=5116
+9	к	к	ADP	_	_	10	case	_	start_char=5117|end_char=5118
+10	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	start_char=5119|end_char=5123
+11	.	.	PUNCT	_	_	3	punct	_	start_char=5123|end_char=5124
+
+# text = Гепарды увиделись им теми, кем и были – более животными, чем людьми, более чудовищами, чем богами.
+# sent_id = 56
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Гепарды	гепарда	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=5125|end_char=5132
+2	увиделись	увидеться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5133|end_char=5142
+3	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	iobj	_	start_char=5143|end_char=5145
+4	теми	тот	DET	_	Case=Ins|Number=Plur|PronType=Dem	2	iobj	_	start_char=5146|end_char=5150
+5	,	,	PUNCT	_	_	8	punct	_	start_char=5150|end_char=5151
+6	кем	кто	PRON	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	8	obl	_	start_char=5152|end_char=5155
+7	и	и	PART	_	_	8	advmod	_	start_char=5156|end_char=5157
+8	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=5158|end_char=5162
+9	–	–	PUNCT	_	_	11	punct	_	start_char=5163|end_char=5164
+10	более	более	ADV	_	Degree=Cmp|PronType=Tot	11	advmod	_	start_char=5165|end_char=5170
+11	животными	животное	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	8	obl	_	start_char=5171|end_char=5180
+12	,	,	PUNCT	_	_	14	punct	_	start_char=5180|end_char=5181
+13	чем	чем	SCONJ	_	_	14	case	_	start_char=5182|end_char=5185
+14	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	start_char=5186|end_char=5192
+15	,	,	PUNCT	_	_	17	punct	_	start_char=5192|end_char=5193
+16	более	более	ADV	_	Degree=Cmp|PronType=Tot	17	advmod	_	start_char=5194|end_char=5199
+17	чудовищами	чудовище	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	conj	_	start_char=5200|end_char=5210
+18	,	,	PUNCT	_	_	20	punct	_	start_char=5210|end_char=5211
+19	чем	чем	SCONJ	_	_	20	case	_	start_char=5212|end_char=5215
+20	богами	бога	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	start_char=5216|end_char=5222
+21	.	.	PUNCT	_	_	2	punct	_	start_char=5222|end_char=5223
+
+# text = Благоговейность и восторг сменялись страхом.
+# sent_id = 57
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Благоговейность	благоговейность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=5224|end_char=5239
+2	и	и	CCONJ	_	_	3	cc	_	start_char=5240|end_char=5241
+3	восторг	восторг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=5242|end_char=5249
+4	сменялись	сменяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5250|end_char=5259
+5	страхом	страх	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	iobj	_	start_char=5260|end_char=5267
+6	.	.	PUNCT	_	_	4	punct	_	start_char=5267|end_char=5268
+
+# text = А у гепардов появилось больше поводов поживиться пытающейся спастись добычей.
+# sent_id = 58
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	А	а	CCONJ	_	_	4	cc	_	start_char=5269|end_char=5270
+2	у	у	ADP	_	_	3	case	_	start_char=5271|end_char=5272
+3	гепардов	гепард	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	start_char=5273|end_char=5281
+4	появилось	появиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5282|end_char=5291
+5	больше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	6	nummod:gov	_	start_char=5292|end_char=5298
+6	поводов	повод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	start_char=5299|end_char=5306
+7	поживиться	поживиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	acl	_	start_char=5307|end_char=5317
+8	пытающейся	пытаться	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	start_char=5318|end_char=5328
+9	спастись	спастись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=5329|end_char=5337
+10	добычей	добыч	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	iobj	_	start_char=5338|end_char=5345
+11	.	.	PUNCT	_	_	4	punct	_	start_char=5345|end_char=5346
+
+# text = Но египтяне не могли мне противоречить, им приходилось исполнять мою волю.
+# sent_id = 59
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=5347|end_char=5349
+2	египтяне	египтянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=5350|end_char=5358
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=5359|end_char=5361
+4	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5362|end_char=5367
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	start_char=5368|end_char=5371
+6	противоречить	противоречить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=5372|end_char=5385
+7	,	,	PUNCT	_	_	9	punct	_	start_char=5385|end_char=5386
+8	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	iobj	_	start_char=5387|end_char=5389
+9	приходилось	приходиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=5390|end_char=5401
+10	исполнять	исполнять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	start_char=5402|end_char=5411
+11	мою	мой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	start_char=5412|end_char=5415
+12	волю	воля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=5416|end_char=5420
+13	.	.	PUNCT	_	_	4	punct	_	start_char=5420|end_char=5421
+
+# text = Мы исследовали их древние постройки-головоломки, родственные инопланетным образцам, и нашли, что, пусть фрагментарные, они работают лучше, чем на планете их создателей, которым, по-видимому, оказались не нужны технические приспособления, отброшенные как потерявшие былую необходимость костыли.
+# sent_id = 60
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=5422|end_char=5424
+2	исследовали	исследовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5425|end_char=5436
+3	их	их	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=5437|end_char=5439
+4	древние	древний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	start_char=5440|end_char=5447
+5	постройки	постройка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=5448|end_char=5457
+6	-	-	PUNCT	_	_	7	punct	_	start_char=5457|end_char=5458
+7	головоломки	головоломка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	appos	_	start_char=5458|end_char=5469
+8	,	,	PUNCT	_	_	9	punct	_	start_char=5469|end_char=5470
+9	родственные	родственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	acl	_	start_char=5471|end_char=5482
+10	инопланетным	инопланетный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	11	amod	_	start_char=5483|end_char=5495
+11	образцам	образец	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	9	obl	_	start_char=5496|end_char=5504
+12	,	,	PUNCT	_	_	14	punct	_	start_char=5504|end_char=5505
+13	и	и	CCONJ	_	_	14	cc	_	start_char=5506|end_char=5507
+14	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5508|end_char=5513
+15	,	,	PUNCT	_	_	22	punct	_	start_char=5513|end_char=5514
+16	что	что	SCONJ	_	_	22	mark	_	start_char=5515|end_char=5518
+17	,	,	PUNCT	_	_	19	punct	_	start_char=5518|end_char=5519
+18	пусть	пусть	SCONJ	_	_	19	mark	_	start_char=5520|end_char=5525
+19	фрагментарные	фрагментарный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	advcl	_	start_char=5526|end_char=5539
+20	,	,	PUNCT	_	_	19	punct	_	start_char=5539|end_char=5540
+21	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	start_char=5541|end_char=5544
+22	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	start_char=5545|end_char=5553
+23	лучше	хороший	ADJ	_	Degree=Cmp	22	xcomp	_	start_char=5554|end_char=5559
+24	,	,	PUNCT	_	_	27	punct	_	start_char=5559|end_char=5560
+25	чем	чем	SCONJ	_	_	27	case	_	start_char=5561|end_char=5564
+26	на	на	ADP	_	_	27	case	_	start_char=5565|end_char=5567
+27	планете	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	obl	_	start_char=5568|end_char=5575
+28	их	их	DET	_	Poss=Yes|PronType=Prs	29	det	_	start_char=5576|end_char=5578
+29	создателей	создатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	27	nmod	_	start_char=5579|end_char=5589
+30	,	,	PUNCT	_	_	35	punct	_	start_char=5589|end_char=5590
+31	которым	который	PRON	_	Case=Dat|Number=Plur|PronType=Rel	35	iobj	_	start_char=5591|end_char=5598
+32	,	,	PUNCT	_	_	33	punct	_	start_char=5598|end_char=5599
+33	по-видимому	по-видимому	ADV	_	Degree=Pos	35	parataxis	_	start_char=5600|end_char=5611
+34	,	,	PUNCT	_	_	33	punct	_	start_char=5611|end_char=5612
+35	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	29	acl:relcl	_	start_char=5613|end_char=5622
+36	не	не	PART	_	Polarity=Neg	37	advmod	_	start_char=5623|end_char=5625
+37	нужны	нужный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	35	conj	_	start_char=5626|end_char=5631
+38	технические	технический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	39	amod	_	start_char=5632|end_char=5643
+39	приспособления	приспособление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	37	nsubj	_	start_char=5644|end_char=5658
+40	,	,	PUNCT	_	_	41	punct	_	start_char=5658|end_char=5659
+41	отброшенные	отбросить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	_	start_char=5660|end_char=5671
+42	как	как	SCONJ	_	_	43	mark	_	start_char=5672|end_char=5675
+43	потерявшие	потерять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	41	conj	_	start_char=5676|end_char=5686
+44	былую	былой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	45	amod	_	start_char=5687|end_char=5692
+45	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	43	obj	_	start_char=5693|end_char=5706
+46	костыли	костыль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	35	nsubj	_	start_char=5707|end_char=5714
+47	.	.	PUNCT	_	_	2	punct	_	start_char=5714|end_char=5715
+
+# text = Из Древнего Египта я мог попасть куда-то еще.
+# sent_id = 61
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Из	из	ADP	_	_	3	case	_	start_char=5716|end_char=5718
+2	Древнего	древний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=5719|end_char=5727
+3	Египта	Египет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	5	obl	_	start_char=5728|end_char=5734
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=5735|end_char=5736
+5	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5737|end_char=5740
+6	попасть	попасть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=5741|end_char=5748
+7	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	6	advmod	_	start_char=5749|end_char=5756
+8	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=5757|end_char=5760
+9	.	.	PUNCT	_	_	5	punct	_	start_char=5760|end_char=5761
+
+# text = Нефертити стала моей главной помощницей.
+# sent_id = 62
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Нефертити	Нефертити	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=5762|end_char=5771
+2	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5772|end_char=5777
+3	моей	мой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	start_char=5778|end_char=5782
+4	главной	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=5783|end_char=5790
+5	помощницей	помощница	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	2	xcomp	_	start_char=5791|end_char=5801
+6	.	.	PUNCT	_	_	2	punct	_	start_char=5801|end_char=5802
+
+# text = И вот сейчас, когда я воспользовался одним из технических проходов в будущее – ближе к своему собственному времени действия, она осмелилась уничтожить ту часть механизма, которую смогла.
+# sent_id = 63
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	И	и	CCONJ	_	_	23	cc	_	start_char=5803|end_char=5804
+2	вот	вот	PART	_	_	23	advmod	_	start_char=5805|end_char=5808
+3	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	23	advmod	_	start_char=5809|end_char=5815
+4	,	,	PUNCT	_	_	7	punct	_	start_char=5815|end_char=5816
+5	когда	когда	SCONJ	_	_	7	mark	_	start_char=5817|end_char=5822
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=5823|end_char=5824
+7	воспользовался	воспользоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	23	advcl	_	start_char=5825|end_char=5839
+8	одним	один	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	7	xcomp	_	start_char=5840|end_char=5845
+9	из	из	ADP	_	_	11	case	_	start_char=5846|end_char=5848
+10	технических	технический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	start_char=5849|end_char=5860
+11	проходов	проход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=5861|end_char=5869
+12	в	в	ADP	_	_	13	case	_	start_char=5870|end_char=5871
+13	будущее	будущее	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	nmod	_	start_char=5872|end_char=5879
+14	–	–	PUNCT	_	_	7	punct	_	start_char=5880|end_char=5881
+15	ближе	близко	ADV	_	Degree=Cmp	23	advmod	_	start_char=5882|end_char=5887
+16	к	к	ADP	_	_	19	case	_	start_char=5888|end_char=5889
+17	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	start_char=5890|end_char=5896
+18	собственному	собственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=5897|end_char=5909
+19	времени	время	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	obl	_	start_char=5910|end_char=5917
+20	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	start_char=5918|end_char=5926
+21	,	,	PUNCT	_	_	7	punct	_	start_char=5926|end_char=5927
+22	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=5928|end_char=5931
+23	осмелилась	осмелиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5932|end_char=5942
+24	уничтожить	уничтожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	xcomp	_	start_char=5943|end_char=5953
+25	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	26	det	_	start_char=5954|end_char=5956
+26	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	obj	_	start_char=5957|end_char=5962
+27	механизма	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	start_char=5963|end_char=5972
+28	,	,	PUNCT	_	_	30	punct	_	start_char=5972|end_char=5973
+29	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	30	obj	_	start_char=5974|end_char=5981
+30	смогла	смочь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	acl:relcl	_	start_char=5982|end_char=5988
+31	.	.	PUNCT	_	_	23	punct	_	start_char=5988|end_char=5989
+
+# text = Храбрая девочка.
+# sent_id = 64
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Храбрая	храбрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=5990|end_char=5997
+2	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=5998|end_char=6005
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6005|end_char=6006
+
+# text = Умница.
+# sent_id = 65
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Умница	умница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=6007|end_char=6013
+2	.	.	PUNCT	_	_	1	punct	_	start_char=6013|end_char=6014
+
+# text = Это было уже неважно – никаких более подходящих, исправно действующих путей в будущее мы не обнаружили.
+# sent_id = 66
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=6015|end_char=6018
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=6019|end_char=6023
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=6024|end_char=6027
+4	неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6028|end_char=6035
+5	–	–	PUNCT	_	_	8	punct	_	start_char=6036|end_char=6037
+6	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	8	det	_	start_char=6038|end_char=6045
+7	более	более	ADV	_	Degree=Cmp|PronType=Tot	8	advmod	_	start_char=6046|end_char=6051
+8	подходящих	подходящий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	parataxis	_	start_char=6052|end_char=6062
+9	,	,	PUNCT	_	_	17	punct	_	start_char=6062|end_char=6063
+10	исправно	исправно	ADV	_	Degree=Pos	11	advmod	_	start_char=6064|end_char=6072
+11	действующих	действовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	start_char=6073|end_char=6084
+12	путей	путь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	obj	_	start_char=6085|end_char=6090
+13	в	в	ADP	_	_	14	case	_	start_char=6091|end_char=6092
+14	будущее	будущее	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obl	_	start_char=6093|end_char=6100
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	start_char=6101|end_char=6103
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=6104|end_char=6106
+17	обнаружили	обнаружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=6107|end_char=6117
+18	.	.	PUNCT	_	_	4	punct	_	start_char=6117|end_char=6118
+
+# text = Это было даже хорошо!
+# sent_id = 67
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=6119|end_char=6122
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=6123|end_char=6127
+3	даже	даже	PART	_	_	4	advmod	_	start_char=6128|end_char=6132
+4	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6133|end_char=6139
+5	!	!	PUNCT	_	_	4	punct	_	start_char=6139|end_char=6140
+
+# text = Так как именно сейчас я потерял связь с планетой бешеных кошек, она больше не воздействовала на мой разум.
+# sent_id = 68
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	6	mark	_	start_char=6141|end_char=6144
+2	как	как	SCONJ	_	_	1	fixed	_	start_char=6145|end_char=6148
+3	именно	именно	PART	_	_	4	advmod	_	start_char=6149|end_char=6155
+4	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=6156|end_char=6162
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=6163|end_char=6164
+6	потерял	потерять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=6165|end_char=6172
+7	связь	связь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=6173|end_char=6178
+8	с	с	ADP	_	_	9	case	_	start_char=6179|end_char=6180
+9	планетой	планета	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	start_char=6181|end_char=6189
+10	бешеных	бешеный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	start_char=6190|end_char=6197
+11	кошек	кошка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	start_char=6198|end_char=6203
+12	,	,	PUNCT	_	_	6	punct	_	start_char=6203|end_char=6204
+13	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=6205|end_char=6208
+14	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	16	advmod	_	start_char=6209|end_char=6215
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=6216|end_char=6218
+16	воздействовала	воздействовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6219|end_char=6233
+17	на	на	ADP	_	_	19	case	_	start_char=6234|end_char=6236
+18	мой	мой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det	_	start_char=6237|end_char=6240
+19	разум	разум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	start_char=6241|end_char=6246
+20	.	.	PUNCT	_	_	16	punct	_	start_char=6246|end_char=6247
+
+# text = Это было освобождение.
+# sent_id = 69
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=6248|end_char=6251
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=6252|end_char=6256
+3	освобождение	освобождение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=6257|end_char=6269
+4	.	.	PUNCT	_	_	3	punct	_	start_char=6269|end_char=6270
+
+# text = Я еще раз огляделся по сторонам, уточняя время по массе незначительных примет.
+# sent_id = 70
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6271|end_char=6272
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=6273|end_char=6276
+3	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=6277|end_char=6280
+4	огляделся	оглядеться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6281|end_char=6290
+5	по	по	ADP	_	_	6	case	_	start_char=6291|end_char=6293
+6	сторонам	сторона	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	4	obl	_	start_char=6294|end_char=6302
+7	,	,	PUNCT	_	_	13	punct	_	start_char=6302|end_char=6303
+8	уточняя	уточнять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	start_char=6304|end_char=6311
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=6312|end_char=6317
+10	по	по	ADP	_	_	11	case	_	start_char=6318|end_char=6320
+11	массе	масса	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	start_char=6321|end_char=6326
+12	незначительных	незначительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	start_char=6327|end_char=6341
+13	примет	принять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	start_char=6342|end_char=6348
+14	.	.	PUNCT	_	_	4	punct	_	start_char=6348|end_char=6349
+
+# text = Двадцатый век.
+# sent_id = 71
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Двадцатый	двадцатый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	2	amod	_	start_char=6350|end_char=6359
+2	век	век	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6360|end_char=6363
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6363|end_char=6364
+
+# text = Конечно, утро.
+# sent_id = 72
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Конечно	конечно	ADV	_	Degree=Pos	3	parataxis	_	start_char=6365|end_char=6372
+2	,	,	PUNCT	_	_	1	punct	_	start_char=6372|end_char=6373
+3	утро	утро	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=6374|end_char=6378
+4	.	.	PUNCT	_	_	3	punct	_	start_char=6378|end_char=6379
+
+# text = Никаких туристов, разве что… я нагнулся и приложил ладонь к земле, улавливая отдаленный, приближающийся рокочущий гул.
+# sent_id = 73
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	2	det	_	start_char=6380|end_char=6387
+2	туристов	турист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	obj	_	start_char=6388|end_char=6396
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6396|end_char=6397
+4	разве	разве	PART	_	_	8	advmod	_	start_char=6398|end_char=6403
+5	что	что	SCONJ	_	_	4	fixed	_	start_char=6404|end_char=6407
+6	…	…	PUNCT	_	_	8	punct	_	start_char=6407|end_char=6408
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=6409|end_char=6410
+8	нагнулся	нагнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6411|end_char=6419
+9	и	и	CCONJ	_	_	10	cc	_	start_char=6420|end_char=6421
+10	приложил	приложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=6422|end_char=6430
+11	ладонь	ладонь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=6431|end_char=6437
+12	к	к	ADP	_	_	13	case	_	start_char=6438|end_char=6439
+13	земле	земля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	start_char=6440|end_char=6445
+14	,	,	PUNCT	_	_	15	punct	_	start_char=6445|end_char=6446
+15	улавливая	улавливать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	start_char=6447|end_char=6456
+16	отдаленный	отдаленный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	start_char=6457|end_char=6467
+17	,	,	PUNCT	_	_	18	punct	_	start_char=6467|end_char=6468
+18	приближающийся	приближаться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	conj	_	start_char=6469|end_char=6483
+19	рокочущий	рокодать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	conj	_	start_char=6484|end_char=6493
+20	гул	гул	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	start_char=6494|end_char=6497
+21	.	.	PUNCT	_	_	8	punct	_	start_char=6497|end_char=6498
+
+# text = Ну конечно!
+# sent_id = 74
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Ну	ну	PART	_	_	2	discourse	_	start_char=6499|end_char=6501
+2	конечно	конечно	ADV	_	Degree=Pos	0	root	_	start_char=6502|end_char=6509
+3	!	!	PUNCT	_	_	2	punct	_	start_char=6509|end_char=6510
+
+# text = 1942 год.
+# sent_id = 75
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	1942	1942	ADJ	_	NumForm=Digit|NumType=Ord	2	amod	_	start_char=6511|end_char=6515
+2	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6516|end_char=6519
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6519|end_char=6520
+
+# text = Учитывая все координаты, известные теперь с предельной ясностью, не так далеко продвигалась танковая колонна – Африканский корпус генерала Роммеля.
+# sent_id = 76
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	advcl	_	start_char=6521|end_char=6529
+2	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	3	det	_	start_char=6530|end_char=6533
+3	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	start_char=6534|end_char=6544
+4	,	,	PUNCT	_	_	5	punct	_	start_char=6544|end_char=6545
+5	известные	известный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	acl	_	start_char=6546|end_char=6555
+6	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=6556|end_char=6562
+7	с	с	ADP	_	_	9	case	_	start_char=6563|end_char=6564
+8	предельной	предельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=6565|end_char=6575
+9	ясностью	ясность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	start_char=6576|end_char=6584
+10	,	,	PUNCT	_	_	5	punct	_	start_char=6584|end_char=6585
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=6586|end_char=6588
+12	так	так	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=6589|end_char=6592
+13	далеко	далеко	ADV	_	Degree=Pos	14	advmod	_	start_char=6593|end_char=6599
+14	продвигалась	продвигаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6600|end_char=6612
+15	танковая	танковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=6613|end_char=6621
+16	колонна	колонна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=6622|end_char=6629
+17	–	–	PUNCT	_	_	19	punct	_	start_char=6630|end_char=6631
+18	Африканский	африканский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=6632|end_char=6643
+19	корпус	корпус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	appos	_	start_char=6644|end_char=6650
+20	генерала	генерал	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	start_char=6651|end_char=6659
+21	Роммеля	Роммель	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	20	flat:name	_	start_char=6660|end_char=6667
+22	.	.	PUNCT	_	_	14	punct	_	start_char=6667|end_char=6668
+
+# text = Что ж, здравствуй, настоящее время, здравствуй, Земля!
+# sent_id = 77
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	parataxis	_	start_char=6669|end_char=6672
+2	ж	ж	PART	_	_	1	advmod	_	start_char=6673|end_char=6674
+3	,	,	PUNCT	_	_	1	punct	_	start_char=6674|end_char=6675
+4	здравствуй	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=6676|end_char=6686
+5	,	,	PUNCT	_	_	7	punct	_	start_char=6686|end_char=6687
+6	настоящее	настоящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=6688|end_char=6697
+7	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	start_char=6698|end_char=6703
+8	,	,	PUNCT	_	_	9	punct	_	start_char=6703|end_char=6704
+9	здравствуй	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=6705|end_char=6715
+10	,	,	PUNCT	_	_	9	punct	_	start_char=6715|end_char=6716
+11	Земля	Земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	start_char=6717|end_char=6722
+12	!	!	PUNCT	_	_	4	punct	_	start_char=6722|end_char=6723
+
+# text = Теперь я точно знал, каков будет мой следующий шаг.
+# sent_id = 78
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=6724|end_char=6730
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6731|end_char=6732
+3	точно	точно	ADV	_	Degree=Pos	4	advmod	_	start_char=6733|end_char=6738
+4	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6739|end_char=6743
+5	,	,	PUNCT	_	_	6	punct	_	start_char=6743|end_char=6744
+6	каков	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	ccomp	_	start_char=6745|end_char=6750
+7	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=6751|end_char=6756
+8	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	start_char=6757|end_char=6760
+9	следующий	следующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=6761|end_char=6770
+10	шаг	шаг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=6771|end_char=6774
+11	.	.	PUNCT	_	_	4	punct	_	start_char=6774|end_char=6775
+
+# text = И каков «одновременно» будет следующий шаг древнего царя, с которого довольно было богов-полузверей.
+# sent_id = 79
+# metadata = Название: Великий Кот, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c0e000000a7f3b774c50/1/Velikij-Kot
+1	И	и	CCONJ	_	_	8	cc	_	start_char=6776|end_char=6777
+2	каков	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	8	det	_	start_char=6778|end_char=6783
+3	«	«	PUNCT	_	_	4	punct	_	start_char=6784|end_char=6785
+4	одновременно	одновременно	ADV	_	Degree=Pos	2	advmod	_	start_char=6785|end_char=6797
+5	»	»	PUNCT	_	_	4	punct	_	start_char=6797|end_char=6798
+6	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	cop	_	start_char=6799|end_char=6804
+7	следующий	следующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=6805|end_char=6814
+8	шаг	шаг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6815|end_char=6818
+9	древнего	древний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=6819|end_char=6827
+10	царя	царь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=6828|end_char=6832
+11	,	,	PUNCT	_	_	15	punct	_	start_char=6832|end_char=6833
+12	с	с	ADP	_	_	13	case	_	start_char=6834|end_char=6835
+13	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	15	obl	_	start_char=6836|end_char=6844
+14	довольно	довольно	ADV	_	Degree=Pos	15	advmod	_	start_char=6845|end_char=6853
+15	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=6854|end_char=6858
+16	богов	бог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nsubj	_	start_char=6859|end_char=6864
+17	-	-	PUNCT	_	_	18	punct	_	start_char=6864|end_char=6865
+18	полузверей	полузвер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	appos	_	start_char=6865|end_char=6875
+19	.	.	PUNCT	_	_	8	punct	_	start_char=6875|end_char=6876
+

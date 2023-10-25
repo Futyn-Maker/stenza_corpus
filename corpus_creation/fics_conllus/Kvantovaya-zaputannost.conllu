@@ -1,0 +1,765 @@
+# text = Когда Мастер, более известный в новом воплощении как Ричард Докинз, и Романа, более известная на Земле как Лалла Вард, приземлились в "Квантовом кафе" и выглянули из ТАРДИС, их будто поджидали за ближайшим столиком двое - оба в высокотехнологичных креслах.
+# sent_id = 0
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Когда	когда	SCONJ	_	_	5	mark	_	start_char=0|end_char=5
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	start_char=6|end_char=12
+3	,	,	PUNCT	_	_	5	punct	_	start_char=12|end_char=13
+4	более	более	ADV	_	Degree=Cmp|PronType=Tot	5	advmod	_	start_char=14|end_char=19
+5	известный	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	acl	_	start_char=20|end_char=29
+6	в	в	ADP	_	_	8	case	_	start_char=30|end_char=31
+7	новом	новый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=32|end_char=37
+8	воплощении	воплощение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=38|end_char=48
+9	как	как	SCONJ	_	_	10	case	_	start_char=49|end_char=52
+10	Ричард	Ричард	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	obl	_	start_char=53|end_char=59
+11	Докинз	Докинз	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	10	flat:name	_	start_char=60|end_char=66
+12	,	,	PUNCT	_	_	10	punct	_	start_char=66|end_char=67
+13	и	и	CCONJ	_	_	14	cc	_	start_char=68|end_char=69
+14	Романа	Роман	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	10	conj	_	start_char=70|end_char=76
+15	,	,	PUNCT	_	_	17	punct	_	start_char=76|end_char=77
+16	более	более	ADV	_	Degree=Cmp|PronType=Tot	17	advmod	_	start_char=78|end_char=83
+17	известная	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	acl	_	start_char=84|end_char=93
+18	на	на	ADP	_	_	19	case	_	start_char=94|end_char=96
+19	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	start_char=97|end_char=102
+20	как	как	SCONJ	_	_	21	case	_	start_char=103|end_char=106
+21	Лалла	Лалла	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	17	obl	_	start_char=107|end_char=112
+22	Вард	Вард	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	21	flat:name	_	start_char=113|end_char=117
+23	,	,	PUNCT	_	_	17	punct	_	start_char=117|end_char=118
+24	приземлились	приземлиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=119|end_char=131
+25	в	в	ADP	_	_	28	case	_	start_char=132|end_char=133
+26	"	"	PUNCT	_	_	28	punct	_	start_char=134|end_char=135
+27	Квантовом	квантовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	start_char=135|end_char=144
+28	кафе	кафе	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	start_char=145|end_char=149
+29	"	"	PUNCT	_	_	28	punct	_	start_char=149|end_char=150
+30	и	и	CCONJ	_	_	31	cc	_	start_char=151|end_char=152
+31	выглянули	выглянуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	start_char=153|end_char=162
+32	из	из	ADP	_	_	33	case	_	start_char=163|end_char=165
+33	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	31	obl	_	start_char=166|end_char=172
+34	,	,	PUNCT	_	_	37	punct	_	start_char=172|end_char=173
+35	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	37	obj	_	start_char=174|end_char=176
+36	будто	будто	PART	_	_	37	advmod	_	start_char=177|end_char=182
+37	поджидали	поджидать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	start_char=183|end_char=192
+38	за	за	ADP	_	_	40	case	_	start_char=193|end_char=195
+39	ближайшим	ближайший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	start_char=196|end_char=205
+40	столиком	столик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	37	obl	_	start_char=206|end_char=214
+41	двое	двое	NUM	_	Case=Nom|NumForm=Word|NumType=Sets	43	nummod:gov	_	start_char=215|end_char=219
+42	-	-	PUNCT	_	_	43	punct	_	start_char=220|end_char=221
+43	оба	оба	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Sets	37	parataxis	_	start_char=222|end_char=225
+44	в	в	ADP	_	_	46	case	_	start_char=226|end_char=227
+45	высокотехнологичных	высокотехнологичный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	46	amod	_	start_char=228|end_char=247
+46	креслах	кресло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	43	nmod	_	start_char=248|end_char=255
+47	.	.	PUNCT	_	_	24	punct	_	start_char=255|end_char=256
+
+# text = - Даврос! - воскликнул Мастер.
+# sent_id = 1
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=257|end_char=258
+2	Даврос	даврос	INTJ	_	_	0	root	_	start_char=259|end_char=265
+3	!	!	PUNCT	_	_	2	punct	_	start_char=265|end_char=266
+4	-	-	PUNCT	_	_	5	punct	_	start_char=267|end_char=268
+5	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=269|end_char=279
+6	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=280|end_char=286
+7	.	.	PUNCT	_	_	2	punct	_	start_char=286|end_char=287
+
+# text = - Стивен Хокинг! - воскликнула Романа.
+# sent_id = 2
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=288|end_char=289
+2	Стивен	Стивен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=290|end_char=296
+3	Хокинг	Хокинг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=297|end_char=303
+4	!	!	PUNCT	_	_	2	punct	_	start_char=303|end_char=304
+5	-	-	PUNCT	_	_	6	punct	_	start_char=305|end_char=306
+6	воскликнула	воскликнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=307|end_char=318
+7	Романа	Роман	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	6	obj	_	start_char=319|end_char=325
+8	.	.	PUNCT	_	_	2	punct	_	start_char=325|end_char=326
+
+# text = - Главное, не перепутать... - пропыхтел Ричард Докинз, проверяя, удобно ли вынимается из нагрудного кармана авторучка, снабженная лазерной... не только указкой.
+# sent_id = 3
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	5	punct	_	start_char=327|end_char=328
+2	Главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	parataxis	_	start_char=329|end_char=336
+3	,	,	PUNCT	_	_	2	punct	_	start_char=336|end_char=337
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=338|end_char=340
+5	перепутать	перепутать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=341|end_char=351
+6	...	...	PUNCT	_	_	5	punct	_	start_char=351|end_char=354
+7	-	-	PUNCT	_	_	8	punct	_	start_char=355|end_char=356
+8	пропыхтел	пропыхнеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=357|end_char=366
+9	Ричард	Ричард	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=367|end_char=373
+10	Докинз	Докинз	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	start_char=374|end_char=380
+11	,	,	PUNCT	_	_	12	punct	_	start_char=380|end_char=381
+12	проверяя	проверять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=382|end_char=390
+13	,	,	PUNCT	_	_	14	punct	_	start_char=390|end_char=391
+14	удобно	удобный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	ccomp	_	start_char=392|end_char=398
+15	ли	ли	PART	_	_	14	advmod	_	start_char=399|end_char=401
+16	вынимается	выниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	csubj	_	start_char=402|end_char=412
+17	из	из	ADP	_	_	19	case	_	start_char=413|end_char=415
+18	нагрудного	нагрудной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=416|end_char=426
+19	кармана	карман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obl	_	start_char=427|end_char=434
+20	авторучка	авторучка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	start_char=435|end_char=444
+21	,	,	PUNCT	_	_	22	punct	_	start_char=444|end_char=445
+22	снабженная	снабдить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	start_char=446|end_char=456
+23	лазерной	лазерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	xcomp	_	start_char=457|end_char=465
+24	...	...	PUNCT	_	_	22	punct	_	start_char=465|end_char=468
+25	не	не	PART	_	Polarity=Neg	26	advmod	_	start_char=469|end_char=471
+26	только	только	PART	_	_	27	advmod	_	start_char=472|end_char=478
+27	указкой	указка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	22	obl:agent	_	start_char=479|end_char=486
+28	.	.	PUNCT	_	_	5	punct	_	start_char=486|end_char=487
+
+# text = Замерцав, рядом возникло третье кресло.
+# sent_id = 4
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Замерцав	замерцать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=488|end_char=496
+2	,	,	PUNCT	_	_	1	punct	_	start_char=496|end_char=497
+3	рядом	рядом	ADV	_	Degree=Pos	4	advmod	_	start_char=498|end_char=503
+4	возникло	возникнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=504|end_char=512
+5	третье	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	6	amod	_	start_char=513|end_char=519
+6	кресло	кресло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=520|end_char=526
+7	.	.	PUNCT	_	_	4	punct	_	start_char=526|end_char=527
+
+# text = Черное и закрытое.
+# sent_id = 5
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Черное	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=528|end_char=534
+2	и	и	CCONJ	_	_	3	cc	_	start_char=535|end_char=536
+3	закрытое	закрытый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	start_char=537|end_char=545
+4	.	.	PUNCT	_	_	1	punct	_	start_char=545|end_char=546
+
+# text = Хокниг с интересом скосил на него глаза.
+# sent_id = 6
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Хокниг	хокниг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=547|end_char=553
+2	с	с	ADP	_	_	3	case	_	start_char=554|end_char=555
+3	интересом	интерес	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	start_char=556|end_char=565
+4	скосил	скосить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=566|end_char=572
+5	на	на	ADP	_	_	6	case	_	start_char=573|end_char=575
+6	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=576|end_char=580
+7	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=581|end_char=586
+8	.	.	PUNCT	_	_	4	punct	_	start_char=586|end_char=587
+
+# text = Даврос продолжал потягивать коктейль с неодобрительным или просто неопределенным выражением лица.
+# sent_id = 7
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Даврос	Даврос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	2	nsubj	_	start_char=588|end_char=594
+2	продолжал	продолжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=595|end_char=604
+3	потягивать	потягивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=605|end_char=615
+4	коктейль	коктейль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=616|end_char=624
+5	с	с	ADP	_	_	10	case	_	start_char=625|end_char=626
+6	неодобрительным	неодобрительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	start_char=627|end_char=642
+7	или	или	CCONJ	_	_	9	cc	_	start_char=643|end_char=646
+8	просто	просто	PART	_	_	9	advmod	_	start_char=647|end_char=653
+9	неопределенным	неопределенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	6	conj	_	start_char=654|end_char=668
+10	выражением	выражение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	start_char=669|end_char=679
+11	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	start_char=680|end_char=684
+12	.	.	PUNCT	_	_	2	punct	_	start_char=684|end_char=685
+
+# text = - Рейвенор!
+# sent_id = 8
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=686|end_char=687
+2	Рейвенор	рейвенор	INTJ	_	_	0	root	_	start_char=688|end_char=696
+3	!	!	PUNCT	_	_	2	punct	_	start_char=696|end_char=697
+
+# text = - сообщил, возникая рядом, Доктор - Брайан Грин.
+# sent_id = 9
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=698|end_char=699
+2	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=700|end_char=707
+3	,	,	PUNCT	_	_	4	punct	_	start_char=707|end_char=708
+4	возникая	возникать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=709|end_char=717
+5	рядом	рядом	ADV	_	Degree=Pos	4	advmod	_	start_char=718|end_char=723
+6	,	,	PUNCT	_	_	7	punct	_	start_char=723|end_char=724
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=725|end_char=731
+8	-	-	PUNCT	_	_	9	punct	_	start_char=732|end_char=733
+9	Брайан	Брайан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	appos	_	start_char=734|end_char=740
+10	Грин	Грин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	start_char=741|end_char=745
+11	.	.	PUNCT	_	_	2	punct	_	start_char=745|end_char=746
+
+# text = - Вообще-то, я хотел поговорить с Дэном Абнеттом, но кажется, он застрял в ТАРДИС...
+# sent_id = 10
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	7	punct	_	start_char=747|end_char=748
+2	Вообще	вообще	ADV	_	Degree=Pos	7	advmod	_	start_char=749|end_char=755
+3	-	-	PUNCT	_	_	4	punct	_	start_char=755|end_char=756
+4	то	то	PART	_	_	2	advmod	_	start_char=756|end_char=758
+5	,	,	PUNCT	_	_	2	punct	_	start_char=758|end_char=759
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=760|end_char=761
+7	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=762|end_char=767
+8	поговорить	поговорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=768|end_char=778
+9	с	с	ADP	_	_	10	case	_	start_char=779|end_char=780
+10	Дэном	Дэн	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	8	obl	_	start_char=781|end_char=786
+11	Абнеттом	Абнеттом	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	10	flat:name	_	start_char=787|end_char=795
+12	,	,	PUNCT	_	_	17	punct	_	start_char=795|end_char=796
+13	но	но	CCONJ	_	_	17	cc	_	start_char=797|end_char=799
+14	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	parataxis	_	start_char=800|end_char=807
+15	,	,	PUNCT	_	_	14	punct	_	start_char=807|end_char=808
+16	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=809|end_char=811
+17	застрял	застрять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=812|end_char=819
+18	в	в	ADP	_	_	19	case	_	start_char=820|end_char=821
+19	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	17	obl	_	start_char=822|end_char=828
+20	...	...	PUNCT	_	_	7	punct	_	start_char=828|end_char=831
+
+# text = - Все в порядке, - ответил Стивен Хокинг без помощи синтезатора речи.
+# sent_id = 11
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	4	punct	_	start_char=832|end_char=833
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=834|end_char=837
+3	в	в	ADP	_	_	4	case	_	start_char=838|end_char=839
+4	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=840|end_char=847
+5	,	,	PUNCT	_	_	7	punct	_	start_char=847|end_char=848
+6	-	-	PUNCT	_	_	7	punct	_	start_char=849|end_char=850
+7	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=851|end_char=858
+8	Стивен	Стивен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=859|end_char=865
+9	Хокинг	Хокинг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	flat:name	_	start_char=866|end_char=872
+10	без	без	ADP	_	_	12	case	_	start_char=873|end_char=876
+11	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	fixed	_	start_char=877|end_char=883
+12	синтезатора	синтезатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=884|end_char=895
+13	речи	речь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=896|end_char=900
+14	.	.	PUNCT	_	_	4	punct	_	start_char=900|end_char=901
+
+# text = - Кажется, это моя ТАРДИС.
+# sent_id = 12
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	6	punct	_	start_char=902|end_char=903
+2	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=904|end_char=911
+3	,	,	PUNCT	_	_	2	punct	_	start_char=911|end_char=912
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=913|end_char=916
+5	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=917|end_char=920
+6	ТАРДИС	тардис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=921|end_char=927
+7	.	.	PUNCT	_	_	6	punct	_	start_char=927|end_char=928
+
+# text = Я тут уже привыкаю к появлениям меня из другого измерения.
+# sent_id = 13
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=929|end_char=930
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=931|end_char=934
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=935|end_char=938
+4	привыкаю	привыкать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=939|end_char=947
+5	к	к	ADP	_	_	6	case	_	start_char=948|end_char=949
+6	появлениям	появление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	4	obl	_	start_char=950|end_char=960
+7	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod	_	start_char=961|end_char=965
+8	из	из	ADP	_	_	10	case	_	start_char=966|end_char=968
+9	другого	другой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	10	det	_	start_char=969|end_char=976
+10	измерения	измерение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=977|end_char=986
+11	.	.	PUNCT	_	_	4	punct	_	start_char=986|end_char=987
+
+# text = Даврос пошел рябью.
+# sent_id = 14
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Даврос	Даврос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	2	nsubj	_	start_char=988|end_char=994
+2	пошел	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=995|end_char=1000
+3	рябью	рябь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	start_char=1001|end_char=1006
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1006|end_char=1007
+
+# text = - Извините, кажется, это было не очень удачное перемещение.
+# sent_id = 15
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1008|end_char=1009
+2	Извините	извинить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	11	parataxis	_	start_char=1010|end_char=1018
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1018|end_char=1019
+4	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	parataxis	_	start_char=1020|end_char=1027
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1027|end_char=1028
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=1029|end_char=1032
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	start_char=1033|end_char=1037
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1038|end_char=1040
+9	очень	очень	ADV	_	Degree=Pos	10	advmod	_	start_char=1041|end_char=1046
+10	удачное	удачный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	start_char=1047|end_char=1054
+11	перемещение	перемещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1055|end_char=1066
+12	.	.	PUNCT	_	_	11	punct	_	start_char=1066|end_char=1067
+
+# text = - Ах, Дэн! - воскликнул Доктор.
+# sent_id = 16
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	4	punct	_	start_char=1068|end_char=1069
+2	Ах	ах	INTJ	_	_	4	discourse	_	start_char=1070|end_char=1072
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1072|end_char=1073
+4	Дэн!	дэн!	INTJ	_	_	0	root	_	start_char=1074|end_char=1078
+5	-	-	PUNCT	_	_	6	punct	_	start_char=1079|end_char=1080
+6	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1081|end_char=1091
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1092|end_char=1098
+8	.	.	PUNCT	_	_	4	punct	_	start_char=1098|end_char=1099
+
+# text = - Это с непривычки, потом наладится.
+# sent_id = 17
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	4	punct	_	start_char=1100|end_char=1101
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=1102|end_char=1105
+3	с	с	ADP	_	_	4	case	_	start_char=1106|end_char=1107
+4	непривычки	непривычка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=1108|end_char=1118
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1118|end_char=1119
+6	потом	потом	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1120|end_char=1125
+7	наладится	наладиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=1126|end_char=1135
+8	.	.	PUNCT	_	_	4	punct	_	start_char=1135|end_char=1136
+
+# text = - И буду я Богом-Императором далеков, - весело хрюкнул "Даврос".
+# sent_id = 18
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	6	punct	_	start_char=1137|end_char=1138
+2	И	и	CCONJ	_	_	6	cc	_	start_char=1139|end_char=1140
+3	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=1141|end_char=1145
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1146|end_char=1147
+5	Богом	бог	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	start_char=1148|end_char=1153
+6	-Императором	аимператор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=1153|end_char=1165
+7	далеков	далек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=1166|end_char=1173
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1173|end_char=1174
+9	-	-	PUNCT	_	_	11	punct	_	start_char=1175|end_char=1176
+10	весело	веселый	ADV	_	Degree=Pos	11	advmod	_	start_char=1177|end_char=1183
+11	хрюкнул	хрюкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=1184|end_char=1191
+12	"	"	PUNCT	_	_	13	punct	_	start_char=1192|end_char=1193
+13	Даврос	Даврос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	11	nsubj	_	start_char=1193|end_char=1199
+14	"	"	PUNCT	_	_	13	punct	_	start_char=1199|end_char=1200
+15	.	.	PUNCT	_	_	6	punct	_	start_char=1200|end_char=1201
+
+# text = - А как там Рани? - поинтересовался Мастер, теряя интерес.
+# sent_id = 19
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	5	punct	_	start_char=1202|end_char=1203
+2	А	а	CCONJ	_	_	5	cc	_	start_char=1204|end_char=1205
+3	как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=1206|end_char=1209
+4	там	там	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1210|end_char=1213
+5	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	start_char=1214|end_char=1218
+6	?	?	PUNCT	_	_	5	punct	_	start_char=1218|end_char=1219
+7	-	-	PUNCT	_	_	8	punct	_	start_char=1220|end_char=1221
+8	поинтересовался	поинтересоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=1222|end_char=1237
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=1238|end_char=1244
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1244|end_char=1245
+11	теряя	терять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=1246|end_char=1251
+12	интерес	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=1252|end_char=1259
+13	.	.	PUNCT	_	_	5	punct	_	start_char=1259|end_char=1260
+
+# text = - Скоро прибудет, дописывает с соавтором книгу по эволюции, возможно, появится вместе с ним.
+# sent_id = 20
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1261|end_char=1262
+2	Скоро	скоро	ADV	_	Degree=Pos	3	advmod	_	start_char=1263|end_char=1268
+3	прибудет	прибудеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1269|end_char=1277
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1277|end_char=1278
+5	дописывает	дописывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1279|end_char=1289
+6	с	с	ADP	_	_	7	case	_	start_char=1290|end_char=1291
+7	соавтором	соавтор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	start_char=1292|end_char=1301
+8	книгу	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=1302|end_char=1307
+9	по	по	ADP	_	_	10	case	_	start_char=1308|end_char=1310
+10	эволюции	эволюция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	start_char=1311|end_char=1319
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1319|end_char=1320
+12	возможно	возможно	ADV	_	Degree=Pos	14	parataxis	_	start_char=1321|end_char=1329
+13	,	,	PUNCT	_	_	12	punct	_	start_char=1329|end_char=1330
+14	появится	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1331|end_char=1339
+15	вместе	вместе	ADV	_	Degree=Pos	14	advmod	_	start_char=1340|end_char=1346
+16	с	с	ADP	_	_	17	case	_	start_char=1347|end_char=1348
+17	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	start_char=1349|end_char=1352
+18	.	.	PUNCT	_	_	3	punct	_	start_char=1352|end_char=1353
+
+# text = Обожаю эти вечеринки!
+# sent_id = 21
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Обожаю	обожать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1354|end_char=1360
+2	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	3	det	_	start_char=1361|end_char=1364
+3	вечеринки	вечеринка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obj	_	start_char=1365|end_char=1374
+4	!	!	PUNCT	_	_	1	punct	_	start_char=1374|end_char=1375
+
+# text = Столько интересных людей.
+# sent_id = 22
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Столько	столько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	3	nummod:gov	_	start_char=1376|end_char=1383
+2	интересных	интересный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	start_char=1384|end_char=1394
+3	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	root	_	start_char=1395|end_char=1400
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1400|end_char=1401
+
+# text = Заскрежетав, в кафе приземлился огромный шар, похожий на стеклянный.
+# sent_id = 23
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Заскрежетав	заскрежетать	VERB	_	Aspect=Perf|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=1402|end_char=1413
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1413|end_char=1414
+3	в	в	ADP	_	_	4	case	_	start_char=1415|end_char=1416
+4	кафе	кафе	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=1417|end_char=1421
+5	приземлился	приземлиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1422|end_char=1433
+6	огромный	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1434|end_char=1442
+7	шар	шар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1443|end_char=1446
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1446|end_char=1447
+9	похожий	похожий	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	start_char=1448|end_char=1455
+10	на	на	ADP	_	_	11	case	_	start_char=1456|end_char=1458
+11	стеклянный	стеклянный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	obl	_	start_char=1459|end_char=1469
+12	.	.	PUNCT	_	_	5	punct	_	start_char=1469|end_char=1470
+
+# text = Внутри просматривались отдаленные башни, оранжевые небеса...
+# sent_id = 24
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Внутри	внутри	ADV	_	Degree=Pos	2	advmod	_	start_char=1471|end_char=1477
+2	просматривались	просматриваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1478|end_char=1493
+3	отдаленные	отдаленный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=1494|end_char=1504
+4	башни	башня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	start_char=1505|end_char=1510
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1510|end_char=1511
+6	оранжевые	оранжевый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	start_char=1512|end_char=1521
+7	небеса	небо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	conj	_	start_char=1522|end_char=1528
+8	...	...	PUNCT	_	_	2	punct	_	start_char=1528|end_char=1531
+
+# text = - Это что, целый Галлифрей? - изумился "Даврос".
+# sent_id = 25
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1532|end_char=1533
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1534|end_char=1537
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1538|end_char=1541
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1541|end_char=1542
+5	целый	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1543|end_char=1548
+6	Галлифрей	Галлифрей	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	3	conj	_	start_char=1549|end_char=1558
+7	?	?	PUNCT	_	_	3	punct	_	start_char=1558|end_char=1559
+8	-	-	PUNCT	_	_	9	punct	_	start_char=1560|end_char=1561
+9	изумился	изумиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1562|end_char=1570
+10	"	"	PUNCT	_	_	11	punct	_	start_char=1571|end_char=1572
+11	Даврос	Даврос	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	9	nsubj	_	start_char=1572|end_char=1578
+12	"	"	PUNCT	_	_	11	punct	_	start_char=1578|end_char=1579
+13	.	.	PUNCT	_	_	3	punct	_	start_char=1579|end_char=1580
+
+# text = В стеклянном шаре-куполе, который на самом деле занимал места не больше, чем обычная ТАРДИС и казался огромным лишь из-за оптической иллюзии, если, конечно, это была иллюзия, открылась дверца, и из нее вышли двое.
+# sent_id = 26
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	В	в	ADP	_	_	3	case	_	start_char=1582|end_char=1583
+2	стеклянном	стеклянный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=1584|end_char=1594
+3	шаре	шара	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=1595|end_char=1599
+4	-	-	PUNCT	_	_	5	punct	_	start_char=1599|end_char=1600
+5	куполе	купол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	start_char=1600|end_char=1606
+6	,	,	PUNCT	_	_	11	punct	_	start_char=1606|end_char=1607
+7	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	start_char=1608|end_char=1615
+8	на	на	ADP	_	_	10	case	_	start_char=1616|end_char=1618
+9	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	10	det	_	start_char=1619|end_char=1624
+10	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	start_char=1625|end_char=1629
+11	занимал	занимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=1630|end_char=1637
+12	места	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	start_char=1638|end_char=1643
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1644|end_char=1646
+14	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	11	advmod	_	start_char=1647|end_char=1653
+15	,	,	PUNCT	_	_	18	punct	_	start_char=1653|end_char=1654
+16	чем	чем	SCONJ	_	_	18	case	_	start_char=1655|end_char=1658
+17	обычная	обычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=1659|end_char=1666
+18	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	14	obl	_	start_char=1667|end_char=1673
+19	и	и	CCONJ	_	_	20	cc	_	start_char=1674|end_char=1675
+20	казался	казаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	conj	_	start_char=1676|end_char=1683
+21	огромным	огромный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	xcomp	_	start_char=1684|end_char=1692
+22	лишь	лишь	PART	_	_	25	advmod	_	start_char=1693|end_char=1697
+23	из-за	из-за	ADP	_	_	25	case	_	start_char=1698|end_char=1703
+24	оптической	оптический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=1704|end_char=1714
+25	иллюзии	иллюзия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	obl	_	start_char=1715|end_char=1722
+26	,	,	PUNCT	_	_	33	punct	_	start_char=1722|end_char=1723
+27	если	если	SCONJ	_	_	33	mark	_	start_char=1724|end_char=1728
+28	,	,	PUNCT	_	_	29	punct	_	start_char=1728|end_char=1729
+29	конечно	конечно	ADV	_	Degree=Pos	33	parataxis	_	start_char=1730|end_char=1737
+30	,	,	PUNCT	_	_	29	punct	_	start_char=1737|end_char=1738
+31	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	33	nsubj	_	start_char=1739|end_char=1742
+32	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	cop	_	start_char=1743|end_char=1747
+33	иллюзия	иллюзия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	advcl	_	start_char=1748|end_char=1755
+34	,	,	PUNCT	_	_	35	punct	_	start_char=1755|end_char=1756
+35	открылась	открыться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	33	conj	_	start_char=1757|end_char=1766
+36	дверца	дверца	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	35	nsubj	_	start_char=1767|end_char=1773
+37	,	,	PUNCT	_	_	41	punct	_	start_char=1773|end_char=1774
+38	и	и	CCONJ	_	_	41	cc	_	start_char=1775|end_char=1776
+39	из	из	ADP	_	_	40	case	_	start_char=1777|end_char=1779
+40	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	41	obl	_	start_char=1780|end_char=1783
+41	вышли	выйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	start_char=1784|end_char=1789
+42	двое	двое	NUM	_	Case=Nom|NumForm=Word|NumType=Sets	41	nsubj	_	start_char=1790|end_char=1794
+43	.	.	PUNCT	_	_	3	punct	_	start_char=1794|end_char=1795
+
+# text = Они будто не замечали остальных и спокойно проследовали к другому столику.
+# sent_id = 27
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=1796|end_char=1799
+2	будто	будто	PART	_	_	4	advmod	_	start_char=1800|end_char=1805
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1806|end_char=1808
+4	замечали	замечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1809|end_char=1817
+5	остальных	остальной	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	4	obj	_	start_char=1818|end_char=1827
+6	и	и	CCONJ	_	_	8	cc	_	start_char=1828|end_char=1829
+7	спокойно	спокойно	ADV	_	Degree=Pos	8	advmod	_	start_char=1830|end_char=1838
+8	проследовали	проследовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1839|end_char=1851
+9	к	к	ADP	_	_	11	case	_	start_char=1852|end_char=1853
+10	другому	другой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	11	det	_	start_char=1854|end_char=1861
+11	столику	столик	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	obl	_	start_char=1862|end_char=1869
+12	.	.	PUNCT	_	_	4	punct	_	start_char=1869|end_char=1870
+
+# text = - Все куда запущенней, - сказал Доктор-Грин.
+# sent_id = 28
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1871|end_char=1872
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=1873|end_char=1876
+3	куда	куда	ADV	_	Degree=Pos|PronType=Rel	4	advmod	_	start_char=1877|end_char=1881
+4	запущенней	запущенний	ADJ	_	Degree=Cmp	2	acl:relcl	_	start_char=1882|end_char=1892
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1892|end_char=1893
+6	-	-	PUNCT	_	_	7	punct	_	start_char=1894|end_char=1895
+7	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1896|end_char=1902
+8	Доктор-Грин	Доктор-Грин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	7	nsubj	_	start_char=1903|end_char=1914
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1914|end_char=1915
+
+# text = - Это Новый Галлифрей.
+# sent_id = 29
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	4	punct	_	start_char=1916|end_char=1917
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=1918|end_char=1921
+3	Новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1922|end_char=1927
+4	Галлифрей	Галлифрей	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	0	root	_	start_char=1928|end_char=1937
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1937|end_char=1938
+
+# text = И на самом деле он выглядит совсем не так, как старый.
+# sent_id = 30
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	И	и	CCONJ	_	_	6	cc	_	start_char=1939|end_char=1940
+2	на	на	ADP	_	_	4	case	_	start_char=1941|end_char=1943
+3	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	4	det	_	start_char=1944|end_char=1949
+4	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=1950|end_char=1954
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1955|end_char=1957
+6	выглядит	выглядеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1958|end_char=1966
+7	совсем	совсем	ADV	_	Degree=Pos	8	advmod	_	start_char=1967|end_char=1973
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1974|end_char=1976
+9	так	так	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=1977|end_char=1980
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1980|end_char=1981
+11	как	как	SCONJ	_	_	12	case	_	start_char=1982|end_char=1985
+12	старый	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	advcl	_	start_char=1986|end_char=1992
+13	.	.	PUNCT	_	_	6	punct	_	start_char=1992|end_char=1993
+
+# text = Это только иллюзия ТАРДИС.
+# sent_id = 31
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1994|end_char=1997
+2	только	только	PART	_	_	3	advmod	_	start_char=1998|end_char=2004
+3	иллюзия	иллюзия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2005|end_char=2012
+4	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	3	nmod	_	start_char=2013|end_char=2019
+5	.	.	PUNCT	_	_	3	punct	_	start_char=2019|end_char=2020
+
+# text = Вообще-то, они действительно в другом измерении, но иногда мы с ними пересекаемся.
+# sent_id = 32
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Вообще	вообще	ADV	_	Degree=Pos	9	parataxis	_	start_char=2021|end_char=2027
+2	-	-	PUNCT	_	_	3	punct	_	start_char=2027|end_char=2028
+3	то	то	PART	_	_	1	advmod	_	start_char=2028|end_char=2030
+4	,	,	PUNCT	_	_	1	punct	_	start_char=2030|end_char=2031
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=2032|end_char=2035
+6	действительно	действительно	ADV	_	Degree=Pos	9	advmod	_	start_char=2036|end_char=2049
+7	в	в	ADP	_	_	9	case	_	start_char=2050|end_char=2051
+8	другом	другой	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	9	det	_	start_char=2052|end_char=2058
+9	измерении	измерение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=2059|end_char=2068
+10	,	,	PUNCT	_	_	16	punct	_	start_char=2068|end_char=2069
+11	но	но	CCONJ	_	_	16	cc	_	start_char=2070|end_char=2072
+12	иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	16	advmod	_	start_char=2073|end_char=2079
+13	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	start_char=2080|end_char=2082
+14	с	с	ADP	_	_	15	case	_	start_char=2083|end_char=2084
+15	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	16	obl	_	start_char=2085|end_char=2089
+16	пересекаемся	пересекаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=2090|end_char=2102
+17	.	.	PUNCT	_	_	9	punct	_	start_char=2102|end_char=2103
+
+# text = Почти.
+# sent_id = 33
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Почти	почти	ADV	_	Degree=Pos	0	root	_	start_char=2104|end_char=2109
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2109|end_char=2110
+
+# text = Вот сейчас как раз "почти".
+# sent_id = 34
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=2111|end_char=2114
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2115|end_char=2121
+3	как	как	SCONJ	_	_	6	mark	_	start_char=2122|end_char=2125
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	fixed	_	start_char=2126|end_char=2129
+5	"	"	PUNCT	_	_	6	punct	_	start_char=2130|end_char=2131
+6	почти	почти	ADV	_	Degree=Pos	0	root	_	start_char=2131|end_char=2136
+7	"	"	PUNCT	_	_	6	punct	_	start_char=2136|end_char=2137
+8	.	.	PUNCT	_	_	6	punct	_	start_char=2137|end_char=2138
+
+# text = - Да, да, - подтвердил Хокинг.
+# sent_id = 35
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	4	punct	_	start_char=2139|end_char=2140
+2	Да	да	PART	_	_	4	parataxis	_	start_char=2141|end_char=2143
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2143|end_char=2144
+4	да	да	PART	_	_	0	root	_	start_char=2145|end_char=2147
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2147|end_char=2148
+6	-	-	PUNCT	_	_	7	punct	_	start_char=2149|end_char=2150
+7	подтвердил	подтвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2151|end_char=2161
+8	Хокинг	Хокинг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	7	nsubj	_	start_char=2162|end_char=2168
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2168|end_char=2169
+
+# text = - Мы уже встречались.
+# sent_id = 36
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	4	punct	_	start_char=2170|end_char=2171
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=2172|end_char=2174
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=2175|end_char=2178
+4	встречались	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2179|end_char=2190
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2190|end_char=2191
+
+# text = И с токлафанами тоже - на той самой вечеринке, на которую якобы не прибывали гости из будущего.
+# sent_id = 37
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	И	и	CCONJ	_	_	3	cc	_	start_char=2192|end_char=2193
+2	с	с	ADP	_	_	3	case	_	start_char=2194|end_char=2195
+3	токлафанами	токлафан	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	0	root	_	start_char=2196|end_char=2207
+4	тоже	тоже	PART	_	_	3	advmod	_	start_char=2208|end_char=2212
+5	-	-	PUNCT	_	_	9	punct	_	start_char=2213|end_char=2214
+6	на	на	ADP	_	_	9	case	_	start_char=2215|end_char=2217
+7	той	тот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=2218|end_char=2221
+8	самой	сам	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Emp	9	det	_	start_char=2222|end_char=2227
+9	вечеринке	вечеринка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	start_char=2228|end_char=2237
+10	,	,	PUNCT	_	_	15	punct	_	start_char=2237|end_char=2238
+11	на	на	ADP	_	_	12	case	_	start_char=2239|end_char=2241
+12	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	15	obl	_	start_char=2242|end_char=2249
+13	якобы	якобы	PART	_	_	15	advmod	_	start_char=2250|end_char=2255
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=2256|end_char=2258
+15	прибывали	прибывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=2259|end_char=2268
+16	гости	гость	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	start_char=2269|end_char=2274
+17	из	из	ADP	_	_	18	case	_	start_char=2275|end_char=2277
+18	будущего	будущее	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	nmod	_	start_char=2278|end_char=2286
+19	.	.	PUNCT	_	_	3	punct	_	start_char=2286|end_char=2287
+
+# text = - Рани! - воскликнул Мастер-Докинз, глядя на другой столик, будто отделенный от них невидимой стеной, и попытался помахать ей, чтобы оказаться замеченным.
+# sent_id = 38
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=2288|end_char=2289
+2	Рани	Рани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	start_char=2290|end_char=2294
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2294|end_char=2295
+4	-	-	PUNCT	_	_	5	punct	_	start_char=2296|end_char=2297
+5	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2298|end_char=2308
+6	Мастер-Докинз	Мастер-Докинз	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	5	nsubj	_	start_char=2309|end_char=2322
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2322|end_char=2323
+8	глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=2324|end_char=2329
+9	на	на	ADP	_	_	11	case	_	start_char=2330|end_char=2332
+10	другой	другой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	11	det	_	start_char=2333|end_char=2339
+11	столик	столик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=2340|end_char=2346
+12	,	,	PUNCT	_	_	14	punct	_	start_char=2346|end_char=2347
+13	будто	будто	SCONJ	_	_	14	mark	_	start_char=2348|end_char=2353
+14	отделенный	отделить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	start_char=2354|end_char=2364
+15	от	от	ADP	_	_	16	case	_	start_char=2365|end_char=2367
+16	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	14	obl	_	start_char=2368|end_char=2371
+17	невидимой	невидимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=2372|end_char=2381
+18	стеной	стена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	start_char=2382|end_char=2388
+19	,	,	PUNCT	_	_	21	punct	_	start_char=2388|end_char=2389
+20	и	и	CCONJ	_	_	21	cc	_	start_char=2390|end_char=2391
+21	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2392|end_char=2401
+22	помахать	помахать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=2402|end_char=2410
+23	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	iobj	_	start_char=2411|end_char=2413
+24	,	,	PUNCT	_	_	26	punct	_	start_char=2413|end_char=2414
+25	чтобы	чтобы	SCONJ	_	Mood=Cnd	26	mark	_	start_char=2415|end_char=2420
+26	оказаться	оказаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	22	advcl	_	start_char=2421|end_char=2430
+27	замеченным	замечить	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	26	xcomp	_	start_char=2431|end_char=2441
+28	.	.	PUNCT	_	_	2	punct	_	start_char=2441|end_char=2442
+
+# text = Но похоже, прибывшие видели совсем другое кафе.
+# sent_id = 39
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=2443|end_char=2445
+2	похоже	похоже	ADV	_	Degree=Pos	5	parataxis	_	start_char=2446|end_char=2452
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2452|end_char=2453
+4	прибывшие	прибыть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	start_char=2454|end_char=2463
+5	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2464|end_char=2470
+6	совсем	совсем	ADV	_	Degree=Pos	7	advmod	_	start_char=2471|end_char=2477
+7	другое	другой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	8	det	_	start_char=2478|end_char=2484
+8	кафе	кафе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=2485|end_char=2489
+9	.	.	PUNCT	_	_	5	punct	_	start_char=2489|end_char=2490
+
+# text = - Она самая, - подтвердил Доктор.
+# sent_id = 40
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=2491|end_char=2492
+2	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=2493|end_char=2496
+3	самая	самый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	2	det	_	start_char=2497|end_char=2502
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2502|end_char=2503
+5	-	-	PUNCT	_	_	6	punct	_	start_char=2504|end_char=2505
+6	подтвердил	подтвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2506|end_char=2516
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2517|end_char=2523
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2523|end_char=2524
+
+# text = - Только другая.
+# sent_id = 41
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	3	punct	_	start_char=2525|end_char=2526
+2	Только	только	PART	_	_	3	advmod	_	start_char=2527|end_char=2533
+3	другая	другой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	0	root	_	start_char=2534|end_char=2540
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2540|end_char=2541
+
+# text = С другим тобой.
+# sent_id = 42
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	С	с	ADP	_	_	3	case	_	start_char=2542|end_char=2543
+2	другим	другой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	3	det	_	start_char=2544|end_char=2550
+3	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	0	root	_	start_char=2551|end_char=2556
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2556|end_char=2557
+
+# text = - И чем они там занимаются в этом Новом Галлифрее?
+# sent_id = 43
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	6	punct	_	start_char=2559|end_char=2560
+2	И	и	CCONJ	_	_	6	cc	_	start_char=2561|end_char=2562
+3	чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Int	6	iobj	_	start_char=2563|end_char=2566
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=2567|end_char=2570
+5	там	там	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2571|end_char=2574
+6	занимаются	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2575|end_char=2585
+7	в	в	ADP	_	_	10	case	_	start_char=2586|end_char=2587
+8	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=2588|end_char=2592
+9	Новом	новый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=2593|end_char=2598
+10	Галлифрее	Галлифрей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	6	obl	_	start_char=2599|end_char=2608
+11	?	?	PUNCT	_	_	6	punct	_	start_char=2608|end_char=2609
+
+# text = - Чем, чем, эволюцией - множат вероятности, и кто знает, какие вероятности в итоге окажутся жизнеспособнее других.
+# sent_id = 44
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	8	punct	_	start_char=2610|end_char=2611
+2	Чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Int	8	iobj	_	start_char=2612|end_char=2615
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2615|end_char=2616
+4	чем	чем	SCONJ	_	_	6	case	_	start_char=2617|end_char=2620
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2620|end_char=2621
+6	эволюцией	эволюция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	conj	_	start_char=2622|end_char=2631
+7	-	-	PUNCT	_	_	6	punct	_	start_char=2632|end_char=2633
+8	множат	множать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2634|end_char=2640
+9	вероятности	вероятность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	start_char=2641|end_char=2652
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2652|end_char=2653
+11	и	и	CCONJ	_	_	13	cc	_	start_char=2654|end_char=2655
+12	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	start_char=2656|end_char=2659
+13	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	start_char=2660|end_char=2665
+14	,	,	PUNCT	_	_	19	punct	_	start_char=2665|end_char=2666
+15	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Rel	16	det	_	start_char=2667|end_char=2672
+16	вероятности	вероятность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	start_char=2673|end_char=2684
+17	в	в	ADP	_	_	18	case	_	start_char=2685|end_char=2686
+18	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	start_char=2687|end_char=2692
+19	окажутся	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	13	ccomp	_	start_char=2693|end_char=2701
+20	жизнеспособнее	жизнеспособный	ADJ	_	Degree=Cmp	19	xcomp	_	start_char=2702|end_char=2716
+21	других	другой	DET	_	Case=Gen|Number=Plur|PronType=Tot	20	obl	_	start_char=2717|end_char=2723
+22	.	.	PUNCT	_	_	8	punct	_	start_char=2723|end_char=2724
+
+# text = - Естественный отбор - такая штука... - со знанием дела покачал головой Мастер.
+# sent_id = 45
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	6	punct	_	start_char=2725|end_char=2726
+2	Естественный	естественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=2727|end_char=2739
+3	отбор	отбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2740|end_char=2745
+4	-	-	PUNCT	_	_	3	punct	_	start_char=2746|end_char=2747
+5	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=2748|end_char=2753
+6	штука	штука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2754|end_char=2759
+7	...	...	PUNCT	_	_	12	punct	_	start_char=2759|end_char=2762
+8	-	-	PUNCT	_	_	12	punct	_	start_char=2763|end_char=2764
+9	со	со	ADP	_	_	10	case	_	start_char=2765|end_char=2767
+10	знанием	знание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	start_char=2768|end_char=2775
+11	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	start_char=2776|end_char=2780
+12	покачал	покачать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2781|end_char=2788
+13	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	iobj	_	start_char=2789|end_char=2796
+14	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=2797|end_char=2803
+15	.	.	PUNCT	_	_	6	punct	_	start_char=2803|end_char=2804
+
+# text = - Главное, что никогда не останавливается, - кивнул Доктор.
+# sent_id = 46
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	2	punct	_	start_char=2805|end_char=2806
+2	Главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2807|end_char=2814
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2814|end_char=2815
+4	что	что	SCONJ	_	_	7	mark	_	start_char=2816|end_char=2819
+5	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	7	advmod	_	start_char=2820|end_char=2827
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2828|end_char=2830
+7	останавливается	останавливаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	ccomp	_	start_char=2831|end_char=2846
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2846|end_char=2847
+9	-	-	PUNCT	_	_	10	punct	_	start_char=2848|end_char=2849
+10	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2850|end_char=2856
+11	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=2857|end_char=2863
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2863|end_char=2864
+
+# text = - Ну, по первому коктейлю?..
+# sent_id = 47
+# metadata = Название: Квантовая запутанность, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469079d00000a7fb703c6e/1/Kvantovaya-zaputannost
+1	-	-	PUNCT	_	_	6	punct	_	start_char=2865|end_char=2866
+2	Ну	ну	PART	_	_	6	parataxis	_	start_char=2867|end_char=2869
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2869|end_char=2870
+4	по	по	ADP	_	_	6	case	_	start_char=2871|end_char=2873
+5	первому	первый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	6	amod	_	start_char=2874|end_char=2881
+6	коктейлю	коктейль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	_	start_char=2882|end_char=2890
+7	?..	?..	PUNCT	_	_	6	punct	_	start_char=2890|end_char=2893
+

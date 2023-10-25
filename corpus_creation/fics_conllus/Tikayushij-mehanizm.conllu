@@ -1,0 +1,1011 @@
+# text = За что я люблю тикающие механизмы?
+# sent_id = 0
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	За	за	ADP	_	_	2	case	_	start_char=0|end_char=2
+2	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	start_char=3|end_char=6
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=7|end_char=8
+4	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=9|end_char=14
+5	тикающие	тикающий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	start_char=15|end_char=23
+6	механизмы	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=24|end_char=33
+7	?	?	PUNCT	_	_	4	punct	_	start_char=33|end_char=34
+
+# text = За то, что однажды они замолкают.
+# sent_id = 1
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	За	за	ADP	_	_	2	case	_	start_char=35|end_char=37
+2	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=38|end_char=40
+3	,	,	PUNCT	_	_	7	punct	_	start_char=40|end_char=41
+4	что	что	SCONJ	_	_	7	mark	_	start_char=42|end_char=45
+5	однажды	однажды	ADV	_	Degree=Pos	7	advmod	_	start_char=46|end_char=53
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=54|end_char=57
+7	замолкают	замолкать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	start_char=58|end_char=67
+8	.	.	PUNCT	_	_	2	punct	_	start_char=67|end_char=68
+
+# text = Сами отмеряя время до собственного конца.
+# sent_id = 2
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	2	nsubj	_	start_char=69|end_char=73
+2	отмеряя	отмерять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	start_char=74|end_char=81
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=82|end_char=87
+4	до	до	ADP	_	_	6	case	_	start_char=88|end_char=90
+5	собственного	собственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=91|end_char=103
+6	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=104|end_char=109
+7	.	.	PUNCT	_	_	2	punct	_	start_char=109|end_char=110
+
+# text = Обычно это кончается взрывом, фейерверком, большим «бумом», когда они сметают все на своем пути, все вокруг!
+# sent_id = 3
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Обычно	обычно	ADV	_	Degree=Pos	3	advmod	_	start_char=111|end_char=117
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=118|end_char=121
+3	кончается	кончаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=122|end_char=131
+4	взрывом	взрыв	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=132|end_char=139
+5	,	,	PUNCT	_	_	6	punct	_	start_char=139|end_char=140
+6	фейерверком	фейерверк	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	start_char=141|end_char=152
+7	,	,	PUNCT	_	_	10	punct	_	start_char=152|end_char=153
+8	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=154|end_char=161
+9	«	«	PUNCT	_	_	10	punct	_	start_char=162|end_char=163
+10	бумом	бум	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	start_char=163|end_char=168
+11	»	»	PUNCT	_	_	10	punct	_	start_char=168|end_char=169
+12	,	,	PUNCT	_	_	15	punct	_	start_char=169|end_char=170
+13	когда	когда	SCONJ	_	_	15	mark	_	start_char=171|end_char=176
+14	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=177|end_char=180
+15	сметают	сметать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=181|end_char=188
+16	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	15	obj	_	start_char=189|end_char=192
+17	на	на	ADP	_	_	19	case	_	start_char=193|end_char=195
+18	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	start_char=196|end_char=201
+19	пути	путь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=202|end_char=206
+20	,	,	PUNCT	_	_	22	punct	_	start_char=206|end_char=207
+21	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	22	nsubj	_	start_char=208|end_char=211
+22	вокруг	вокруг	ADV	_	Degree=Pos	3	conj	_	start_char=212|end_char=218
+23	!	!	PUNCT	_	_	3	punct	_	start_char=218|end_char=219
+
+# text = В этом торжество конца, завершения, свершения.
+# sent_id = 4
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	В	в	ADP	_	_	2	case	_	start_char=220|end_char=221
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=222|end_char=226
+3	торжество	торжество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=227|end_char=236
+4	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=237|end_char=242
+5	,	,	PUNCT	_	_	6	punct	_	start_char=242|end_char=243
+6	завершения	завершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	start_char=244|end_char=254
+7	,	,	PUNCT	_	_	8	punct	_	start_char=254|end_char=255
+8	свершения	свершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	start_char=256|end_char=265
+9	.	.	PUNCT	_	_	2	punct	_	start_char=265|end_char=266
+
+# text = Бум!
+# sent_id = 5
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Бум	бум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=267|end_char=270
+2	!	!	PUNCT	_	_	1	punct	_	start_char=270|end_char=271
+
+# text = Праздник!
+# sent_id = 6
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Праздник	праздник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=272|end_char=280
+2	!	!	PUNCT	_	_	1	punct	_	start_char=280|end_char=281
+
+# text = Симфония!..
+# sent_id = 7
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Симфония	симфония	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=282|end_char=290
+2	!..	!..	PUNCT	_	_	1	punct	_	start_char=290|end_char=293
+
+# text = Это ритм, у которого есть конец.
+# sent_id = 8
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=294|end_char=297
+2	ритм	ритм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=298|end_char=302
+3	,	,	PUNCT	_	_	5	punct	_	start_char=302|end_char=303
+4	у	у	ADP	_	_	5	case	_	start_char=304|end_char=305
+5	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	2	acl:relcl	_	start_char=306|end_char=314
+6	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	start_char=315|end_char=319
+7	конец	конец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=320|end_char=325
+8	.	.	PUNCT	_	_	2	punct	_	start_char=325|end_char=326
+
+# text = В отличие от того, у которого его нет.
+# sent_id = 9
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	В	в	ADP	_	_	4	case	_	start_char=327|end_char=328
+2	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	start_char=329|end_char=336
+3	от	от	ADP	_	_	1	fixed	_	start_char=337|end_char=339
+4	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=340|end_char=344
+5	,	,	PUNCT	_	_	9	punct	_	start_char=344|end_char=345
+6	у	у	ADP	_	_	7	case	_	start_char=346|end_char=347
+7	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	9	obl	_	start_char=348|end_char=356
+8	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=357|end_char=360
+9	нет	нет	VERB	_	Polarity=Neg	4	acl:relcl	_	start_char=361|end_char=364
+10	.	.	PUNCT	_	_	4	punct	_	start_char=364|end_char=365
+
+# text = Вре-мя бе-жит, вре-мя бе-жит, вре-мя бе-жит…
+# sent_id = 10
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Вре-мя	вре-мя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=366|end_char=372
+2	бе-жит	бе-жать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=373|end_char=379
+3	,	,	PUNCT	_	_	5	punct	_	start_char=379|end_char=380
+4	вре-мя	вре-мя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=381|end_char=387
+5	бе-жит	бе-жать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=388|end_char=394
+6	,	,	PUNCT	_	_	8	punct	_	start_char=394|end_char=395
+7	вре-мя	вре-мя	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=396|end_char=402
+8	бе-жит	бе-жать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=403|end_char=409
+9	…	…	PUNCT	_	_	2	punct	_	start_char=409|end_char=410
+
+# text = Днем и ночью, без перерыва, громче, чем когда-либо прежде.
+# sent_id = 11
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Днем	день	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	start_char=411|end_char=415
+2	и	и	CCONJ	_	_	3	cc	_	start_char=416|end_char=417
+3	ночью	ночь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	conj	_	start_char=418|end_char=423
+4	,	,	PUNCT	_	_	6	punct	_	start_char=423|end_char=424
+5	без	без	ADP	_	_	6	case	_	start_char=425|end_char=428
+6	перерыва	перерыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	conj	_	start_char=429|end_char=437
+7	,	,	PUNCT	_	_	1	punct	_	start_char=437|end_char=438
+8	громче	громкий	ADJ	_	Degree=Cmp	0	root	_	start_char=439|end_char=445
+9	,	,	PUNCT	_	_	11	punct	_	start_char=445|end_char=446
+10	чем	чем	SCONJ	_	_	11	mark	_	start_char=447|end_char=450
+11	когда-либо	когда-либо	ADV	_	Degree=Pos|PronType=Ind	12	advmod	_	start_char=451|end_char=461
+12	прежде	прежде	ADV	_	Degree=Pos	8	advmod	_	start_char=462|end_char=468
+13	.	.	PUNCT	_	_	8	punct	_	start_char=468|end_char=469
+
+# text = Кто или что в ответе за эту напасть, недуг, дефект, не стирающийся столетиями, не сбрасываемый ни регенерациями, ни полной сменой жизненного цикла, усиливающийся?
+# sent_id = 12
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=470|end_char=473
+2	или	или	CCONJ	_	_	5	cc	_	start_char=474|end_char=477
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	start_char=478|end_char=481
+4	в	в	ADP	_	_	5	case	_	start_char=482|end_char=483
+5	ответе	ответ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	start_char=484|end_char=490
+6	за	за	ADP	_	_	8	case	_	start_char=491|end_char=493
+7	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=494|end_char=497
+8	напасть	напасть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	start_char=498|end_char=505
+9	,	,	PUNCT	_	_	10	punct	_	start_char=505|end_char=506
+10	недуг	недуг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	start_char=507|end_char=512
+11	,	,	PUNCT	_	_	12	punct	_	start_char=512|end_char=513
+12	дефект	дефект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	conj	_	start_char=514|end_char=520
+13	,	,	PUNCT	_	_	15	punct	_	start_char=520|end_char=521
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=522|end_char=524
+15	стирающийся	стираться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	_	start_char=525|end_char=536
+16	столетиями	столетие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	15	iobj	_	start_char=537|end_char=547
+17	,	,	PUNCT	_	_	19	punct	_	start_char=547|end_char=548
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=549|end_char=551
+19	сбрасываемый	сбрасывать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	start_char=552|end_char=564
+20	ни	ни	CCONJ	_	Polarity=Neg	21	cc	_	start_char=565|end_char=567
+21	регенерациями	регенерация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	19	iobj	_	start_char=568|end_char=581
+22	,	,	PUNCT	_	_	25	punct	_	start_char=581|end_char=582
+23	ни	ни	CCONJ	_	Polarity=Neg	25	cc	_	start_char=583|end_char=585
+24	полной	полный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=586|end_char=592
+25	сменой	смена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	conj	_	start_char=593|end_char=599
+26	жизненного	жизненный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	start_char=600|end_char=610
+27	цикла	цикл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	start_char=611|end_char=616
+28	,	,	PUNCT	_	_	29	punct	_	start_char=616|end_char=617
+29	усиливающийся	усиливаться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	19	conj	_	start_char=618|end_char=631
+30	?	?	PUNCT	_	_	1	punct	_	start_char=631|end_char=632
+
+# text = «Так вышло»?
+# sent_id = 13
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	«	«	PUNCT	_	_	3	punct	_	start_char=633|end_char=634
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=634|end_char=637
+3	вышло	выйти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=638|end_char=643
+4	»	»	PUNCT	_	_	3	punct	_	start_char=643|end_char=644
+5	?	?	PUNCT	_	_	3	punct	_	start_char=644|end_char=645
+
+# text = «Порядок вещей»?
+# sent_id = 14
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	«	«	PUNCT	_	_	2	punct	_	start_char=646|end_char=647
+2	Порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=647|end_char=654
+3	вещей	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	start_char=655|end_char=660
+4	»	»	PUNCT	_	_	2	punct	_	start_char=660|end_char=661
+5	?	?	PUNCT	_	_	2	punct	_	start_char=661|end_char=662
+
+# text = Порядок вещей напросился!
+# sent_id = 15
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=663|end_char=670
+2	вещей	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	start_char=671|end_char=676
+3	напросился	напроситься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=677|end_char=687
+4	!	!	PUNCT	_	_	3	punct	_	start_char=687|end_char=688
+
+# text = С каким наслаждением стоит сломать этой безликой безответной твари хребет!
+# sent_id = 16
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	С	с	ADP	_	_	3	case	_	start_char=689|end_char=690
+2	каким	какой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Int	3	det	_	start_char=691|end_char=696
+3	наслаждением	наслаждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	start_char=697|end_char=709
+4	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=710|end_char=715
+5	сломать	сломать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=716|end_char=723
+6	этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=724|end_char=728
+7	безликой	безликий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=729|end_char=737
+8	безответной	безответный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=738|end_char=749
+9	твари	тварь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	start_char=750|end_char=755
+10	хребет	хребет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=756|end_char=762
+11	!	!	PUNCT	_	_	4	punct	_	start_char=762|end_char=763
+
+# text = Заставить ответить.
+# sent_id = 17
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Заставить	заставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=764|end_char=773
+2	ответить	ответить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=774|end_char=782
+3	.	.	PUNCT	_	_	1	punct	_	start_char=782|end_char=783
+
+# text = Заплатить.
+# sent_id = 18
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Заплатить	заплатить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=784|end_char=793
+2	.	.	PUNCT	_	_	1	punct	_	start_char=793|end_char=794
+
+# text = За все, что в мире есть несовершенного.
+# sent_id = 19
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	За	за	ADP	_	_	2	case	_	start_char=795|end_char=797
+2	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=798|end_char=801
+3	,	,	PUNCT	_	_	7	punct	_	start_char=801|end_char=802
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	start_char=803|end_char=806
+5	в	в	ADP	_	_	6	case	_	start_char=807|end_char=808
+6	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=809|end_char=813
+7	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	start_char=814|end_char=818
+8	несовершенного	несовершенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	nsubj	_	start_char=819|end_char=833
+9	.	.	PUNCT	_	_	2	punct	_	start_char=833|end_char=834
+
+# text = А несовершенно в нем все.
+# sent_id = 20
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	А	а	CCONJ	_	_	2	cc	_	start_char=835|end_char=836
+2	несовершенно	несовершенный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=837|end_char=849
+3	в	в	ADP	_	_	4	case	_	start_char=850|end_char=851
+4	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=852|end_char=855
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nsubj	_	start_char=856|end_char=859
+6	.	.	PUNCT	_	_	2	punct	_	start_char=859|end_char=860
+
+# text = Каков же вывод?
+# sent_id = 21
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Каков	каков	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int|Variant=Short	0	root	_	start_char=861|end_char=866
+2	же	же	PART	_	_	1	advmod	_	start_char=867|end_char=869
+3	вывод	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=870|end_char=875
+4	?	?	PUNCT	_	_	1	punct	_	start_char=875|end_char=876
+
+# text = Все подлежит гибели.
+# sent_id = 22
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nsubj	_	start_char=877|end_char=880
+2	подлежит	подлежить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=881|end_char=889
+3	гибели	гибель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obj	_	start_char=890|end_char=896
+4	.	.	PUNCT	_	_	2	punct	_	start_char=896|end_char=897
+
+# text = По крайней мере – «порядок вещей», где все это норма.
+# sent_id = 23
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	По	по	ADP	_	_	6	advmod	_	start_char=898|end_char=900
+2	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	fixed	_	start_char=901|end_char=908
+3	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	fixed	_	start_char=909|end_char=913
+4	–	–	PUNCT	_	_	6	punct	_	start_char=914|end_char=915
+5	«	«	PUNCT	_	_	6	punct	_	start_char=916|end_char=917
+6	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=917|end_char=924
+7	вещей	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	start_char=925|end_char=930
+8	»	»	PUNCT	_	_	6	punct	_	start_char=930|end_char=931
+9	,	,	PUNCT	_	_	13	punct	_	start_char=931|end_char=932
+10	где	где	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=933|end_char=936
+11	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	12	det	_	start_char=937|end_char=940
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	start_char=941|end_char=944
+13	норма	норма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	acl:relcl	_	start_char=945|end_char=950
+14	.	.	PUNCT	_	_	6	punct	_	start_char=950|end_char=951
+
+# text = Как можно упустить тот восхитительный момент, когда понимаешь, что являешься единственным, обладающим ТАРДИС таймлордом во Вселенной?!
+# sent_id = 24
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	2	advmod	_	start_char=952|end_char=955
+2	можно	можно	VERB	_	_	0	root	_	start_char=956|end_char=961
+3	упустить	упустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=962|end_char=970
+4	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	start_char=971|end_char=974
+5	восхитительный	восхитительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=975|end_char=989
+6	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=990|end_char=996
+7	,	,	PUNCT	_	_	9	punct	_	start_char=996|end_char=997
+8	когда	когда	SCONJ	_	_	9	mark	_	start_char=998|end_char=1003
+9	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=1004|end_char=1013
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1013|end_char=1014
+11	что	что	SCONJ	_	_	12	mark	_	start_char=1015|end_char=1018
+12	являешься	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	9	ccomp	_	start_char=1019|end_char=1028
+13	единственным	единственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	xcomp	_	start_char=1029|end_char=1041
+14	,	,	PUNCT	_	_	15	punct	_	start_char=1041|end_char=1042
+15	обладающим	обладать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	conj	_	start_char=1043|end_char=1053
+16	ТАРДИС	тардис	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl:agent	_	start_char=1054|end_char=1060
+17	таймлордом	таймлорд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl:agent	_	start_char=1061|end_char=1071
+18	во	во	ADP	_	_	19	case	_	start_char=1072|end_char=1074
+19	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	15	obl	_	start_char=1075|end_char=1084
+20	?!	?!	PUNCT	_	_	2	punct	_	start_char=1084|end_char=1086
+
+# text = Пусть это старая развалюха, трещащая по швам сороковая модель, заблокированная моим старым врагом, которой доступен теперь только один канал, зато охватывающий промежуток от настоящего времени до самого конца
+# sent_id = 25
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Пусть	пусть	PART	_	_	4	advmod	_	start_char=1087|end_char=1092
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=1093|end_char=1096
+3	старая	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1097|end_char=1103
+4	развалюха	развалюха	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1104|end_char=1113
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1113|end_char=1114
+6	трещащая	трещать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	start_char=1115|end_char=1123
+7	по	по	ADP	_	_	8	case	_	start_char=1124|end_char=1126
+8	швам	швам	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	6	obl	_	start_char=1127|end_char=1131
+9	сороковая	сороковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=1132|end_char=1141
+10	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=1142|end_char=1148
+11	,	,	PUNCT	_	_	12	punct	_	start_char=1148|end_char=1149
+12	заблокированная	заблокировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	start_char=1150|end_char=1165
+13	моим	мой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=1166|end_char=1170
+14	старым	старый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=1171|end_char=1177
+15	врагом	враг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	start_char=1178|end_char=1184
+16	,	,	PUNCT	_	_	18	punct	_	start_char=1184|end_char=1185
+17	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	18	iobj	_	start_char=1186|end_char=1193
+18	доступен	доступить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	acl:relcl	_	start_char=1194|end_char=1202
+19	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=1203|end_char=1209
+20	только	только	PART	_	_	21	advmod	_	start_char=1210|end_char=1216
+21	один	один	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	22	nummod	_	start_char=1217|end_char=1221
+22	канал	канал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj:pass	_	start_char=1222|end_char=1227
+23	,	,	PUNCT	_	_	25	punct	_	start_char=1227|end_char=1228
+24	зато	зато	CCONJ	_	_	25	cc	_	start_char=1229|end_char=1233
+25	охватывающий	охватывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	acl	_	start_char=1234|end_char=1246
+26	промежуток	промежуток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obj	_	start_char=1247|end_char=1257
+27	от	от	ADP	_	_	29	case	_	start_char=1258|end_char=1260
+28	настоящего	настоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	start_char=1261|end_char=1271
+29	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	obl	_	start_char=1272|end_char=1279
+30	до	до	ADP	_	_	32	case	_	start_char=1280|end_char=1282
+31	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	32	det	_	start_char=1283|end_char=1289
+32	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	obl	_	start_char=1290|end_char=1295
+
+# text = Вселенной – а это куда больше, чем если охватить период от самого Большого Взрыва до настоящего времени.
+# sent_id = 26
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=1296|end_char=1305
+2	–	–	PUNCT	_	_	6	punct	_	start_char=1306|end_char=1307
+3	а	а	CCONJ	_	_	6	cc	_	start_char=1308|end_char=1309
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1310|end_char=1313
+5	куда	куда	ADV	_	Degree=Pos|PronType=Rel	6	advmod	_	start_char=1314|end_char=1318
+6	больше	большой	ADJ	_	Degree=Cmp	1	parataxis	_	start_char=1319|end_char=1325
+7	,	,	PUNCT	_	_	10	punct	_	start_char=1325|end_char=1326
+8	чем	чем	SCONJ	_	_	10	mark	_	start_char=1327|end_char=1330
+9	если	если	SCONJ	_	_	10	mark	_	start_char=1331|end_char=1335
+10	охватить	охватить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	start_char=1336|end_char=1344
+11	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=1345|end_char=1351
+12	от	от	ADP	_	_	15	case	_	start_char=1352|end_char=1354
+13	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	14	det	_	start_char=1355|end_char=1361
+14	Большого	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=1362|end_char=1370
+15	Взрыва	взрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	start_char=1371|end_char=1377
+16	до	до	ADP	_	_	18	case	_	start_char=1378|end_char=1380
+17	настоящего	настоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	start_char=1381|end_char=1391
+18	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	start_char=1392|end_char=1399
+19	.	.	PUNCT	_	_	1	punct	_	start_char=1399|end_char=1400
+
+# text = Никаких сомнений – «жизнь найдет выход».
+# sent_id = 27
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	2	det	_	start_char=1401|end_char=1408
+2	сомнений	сомнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	0	root	_	start_char=1409|end_char=1417
+3	–	–	PUNCT	_	_	6	punct	_	start_char=1418|end_char=1419
+4	«	«	PUNCT	_	_	6	punct	_	start_char=1420|end_char=1421
+5	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1421|end_char=1426
+6	найдет	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1427|end_char=1433
+7	выход	выход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=1434|end_char=1439
+8	»	»	PUNCT	_	_	6	punct	_	start_char=1439|end_char=1440
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1440|end_char=1441
+
+# text = Все даже к лучшему.
+# sent_id = 28
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=1442|end_char=1445
+2	даже	даже	PART	_	_	4	advmod	_	start_char=1446|end_char=1450
+3	к	к	ADP	_	_	4	case	_	start_char=1451|end_char=1452
+4	лучшему	лучший	ADJ	_	Case=Dat|Degree=Sup|Gender=Neut|Number=Sing	0	root	_	start_char=1453|end_char=1460
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1460|end_char=1461
+
+# text = Давно хотел осуществить одну идею, но жаль было пускать под лазерный резак исправно функционирующие инструменты.
+# sent_id = 29
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Давно	давно	ADV	_	Degree=Pos	2	advmod	_	start_char=1462|end_char=1467
+2	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1468|end_char=1473
+3	осуществить	осуществить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1474|end_char=1485
+4	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	5	nummod	_	start_char=1486|end_char=1490
+5	идею	идея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=1491|end_char=1495
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1495|end_char=1496
+7	но	но	CCONJ	_	_	8	cc	_	start_char=1497|end_char=1499
+8	жаль	жаль	VERB	_	_	2	conj	_	start_char=1500|end_char=1504
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=1505|end_char=1509
+10	пускать	пускать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=1510|end_char=1517
+11	под	под	ADP	_	_	13	case	_	start_char=1518|end_char=1521
+12	лазерный	лазерный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=1522|end_char=1530
+13	резак	резак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=1531|end_char=1536
+14	исправно	исправно	ADV	_	Degree=Pos	15	advmod	_	start_char=1537|end_char=1545
+15	функционирующие	функционировать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	start_char=1546|end_char=1561
+16	инструменты	инструмент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=1562|end_char=1573
+17	.	.	PUNCT	_	_	2	punct	_	start_char=1573|end_char=1574
+
+# text = Теперь же у меня есть материал для поделок!
+# sent_id = 30
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1575|end_char=1581
+2	же	же	PART	_	_	1	advmod	_	start_char=1582|end_char=1584
+3	у	у	ADP	_	_	4	case	_	start_char=1585|end_char=1586
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=1587|end_char=1591
+5	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1592|end_char=1596
+6	материал	материал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1597|end_char=1605
+7	для	для	ADP	_	_	8	case	_	start_char=1606|end_char=1609
+8	поделок	поделок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	start_char=1610|end_char=1617
+9	!	!	PUNCT	_	_	5	punct	_	start_char=1617|end_char=1618
+
+# text = Почему бы не нарушить все законы сразу?
+# sent_id = 31
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=1619|end_char=1625
+2	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=1626|end_char=1628
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1629|end_char=1631
+4	нарушить	нарушить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1632|end_char=1640
+5	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	6	det	_	start_char=1641|end_char=1644
+6	законы	закон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=1645|end_char=1651
+7	сразу	сразу	ADV	_	Degree=Pos	4	advmod	_	start_char=1652|end_char=1657
+8	?	?	PUNCT	_	_	4	punct	_	start_char=1657|end_char=1658
+
+# text = Чьи законы?
+# sent_id = 32
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Чьи	чей	DET	_	Case=Nom|Number=Plur|PronType=Int	2	det	_	start_char=1659|end_char=1662
+2	законы	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=1663|end_char=1669
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1669|end_char=1670
+
+# text = Кому они нужны?
+# sent_id = 33
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Int	3	iobj	_	start_char=1671|end_char=1675
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1676|end_char=1679
+3	нужны	нужный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1680|end_char=1685
+4	?	?	PUNCT	_	_	3	punct	_	start_char=1685|end_char=1686
+
+# text = То, что будет установлено – фактом, силой, знанием, искусством – то и будет законами.
+# sent_id = 34
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	18	nsubj	_	start_char=1687|end_char=1689
+2	,	,	PUNCT	_	_	5	punct	_	start_char=1689|end_char=1690
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj:pass	_	start_char=1691|end_char=1694
+4	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux:pass	_	start_char=1695|end_char=1700
+5	установлено	установить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl:relcl	_	start_char=1701|end_char=1712
+6	–	–	PUNCT	_	_	5	punct	_	start_char=1713|end_char=1714
+7	фактом	фактом	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl:agent	_	start_char=1715|end_char=1721
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1721|end_char=1722
+9	силой	сила	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	conj	_	start_char=1723|end_char=1728
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1728|end_char=1729
+11	знанием	знание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	conj	_	start_char=1730|end_char=1737
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1737|end_char=1738
+13	искусством	искусство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	start_char=1739|end_char=1749
+14	–	–	PUNCT	_	_	1	punct	_	start_char=1750|end_char=1751
+15	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	18	mark	_	start_char=1752|end_char=1754
+16	и	и	PART	_	_	18	advmod	_	start_char=1755|end_char=1756
+17	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	18	cop	_	start_char=1757|end_char=1762
+18	законами	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	0	root	_	start_char=1763|end_char=1771
+19	.	.	PUNCT	_	_	18	punct	_	start_char=1771|end_char=1772
+
+# text = Тем, что существует.
+# sent_id = 35
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=1773|end_char=1776
+2	,	,	PUNCT	_	_	4	punct	_	start_char=1776|end_char=1777
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj	_	start_char=1778|end_char=1781
+4	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=1782|end_char=1792
+5	.	.	PUNCT	_	_	1	punct	_	start_char=1792|end_char=1793
+
+# text = Это единственный закон.
+# sent_id = 36
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1794|end_char=1797
+2	единственный	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=1798|end_char=1810
+3	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1811|end_char=1816
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1816|end_char=1817
+
+# text = И то, что я могу его создать – факт.
+# sent_id = 37
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	И	и	CCONJ	_	_	10	cc	_	start_char=1818|end_char=1819
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=1820|end_char=1822
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1822|end_char=1823
+4	что	что	SCONJ	_	_	6	mark	_	start_char=1824|end_char=1827
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1828|end_char=1829
+6	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	start_char=1830|end_char=1834
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=1835|end_char=1838
+8	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=1839|end_char=1846
+9	–	–	PUNCT	_	_	2	punct	_	start_char=1847|end_char=1848
+10	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1849|end_char=1853
+11	.	.	PUNCT	_	_	10	punct	_	start_char=1853|end_char=1854
+
+# text = Значит, все правильно и закономерно.
+# sent_id = 38
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1855|end_char=1861
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1861|end_char=1862
+3	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=1863|end_char=1866
+4	правильно	правильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1867|end_char=1876
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1877|end_char=1878
+6	закономерно	закономерный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	conj	_	start_char=1879|end_char=1890
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1890|end_char=1891
+
+# text = Мы не обязаны вечно оставаться в колыбели того мира, что нас создал.
+# sent_id = 39
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=1892|end_char=1894
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1895|end_char=1897
+3	обязаны	обязанный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1898|end_char=1905
+4	вечно	вечно	ADV	_	Degree=Pos	5	advmod	_	start_char=1906|end_char=1911
+5	оставаться	оставаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=1912|end_char=1922
+6	в	в	ADP	_	_	7	case	_	start_char=1923|end_char=1924
+7	колыбели	колыбель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=1925|end_char=1933
+8	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	start_char=1934|end_char=1938
+9	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=1939|end_char=1943
+10	,	,	PUNCT	_	_	13	punct	_	start_char=1943|end_char=1944
+11	что	что	SCONJ	_	_	13	mark	_	start_char=1945|end_char=1948
+12	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obj	_	start_char=1949|end_char=1952
+13	создал	создать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=1953|end_char=1959
+14	.	.	PUNCT	_	_	3	punct	_	start_char=1959|end_char=1960
+
+# text = Мы можем творить его, перекраивать по своему вкусу, единственный предел тому – наша возможность это сделать.
+# sent_id = 40
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=1961|end_char=1963
+2	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1964|end_char=1969
+3	творить	творить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1970|end_char=1977
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=1978|end_char=1981
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1981|end_char=1982
+6	перекраивать	перекраивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	start_char=1983|end_char=1995
+7	по	по	ADP	_	_	9	case	_	start_char=1996|end_char=1998
+8	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=1999|end_char=2005
+9	вкусу	вкус	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=2006|end_char=2011
+10	,	,	PUNCT	_	_	12	punct	_	start_char=2011|end_char=2012
+11	единственный	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=2013|end_char=2025
+12	предел	предел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=2026|end_char=2032
+13	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	12	nmod	_	start_char=2033|end_char=2037
+14	–	–	PUNCT	_	_	16	punct	_	start_char=2038|end_char=2039
+15	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	start_char=2040|end_char=2044
+16	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	start_char=2045|end_char=2056
+17	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	18	obj	_	start_char=2057|end_char=2060
+18	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	csubj	_	start_char=2061|end_char=2068
+19	.	.	PUNCT	_	_	2	punct	_	start_char=2068|end_char=2069
+
+# text = Других пределов нет.
+# sent_id = 41
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Других	другой	DET	_	Case=Gen|Number=Plur|PronType=Tot	2	det	_	start_char=2070|end_char=2076
+2	пределов	предел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	start_char=2077|end_char=2085
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=2086|end_char=2089
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2089|end_char=2090
+
+# text = Иначе мы сами виновны во всем, что происходит, во всем, что нам не нравится.
+# sent_id = 42
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=2091|end_char=2096
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=2097|end_char=2099
+3	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	2	acl	_	start_char=2100|end_char=2104
+4	виновны	виновный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=2105|end_char=2112
+5	во	во	ADP	_	_	6	case	_	start_char=2113|end_char=2115
+6	всем	все	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	4	obl	_	start_char=2116|end_char=2120
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2120|end_char=2121
+8	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	_	start_char=2122|end_char=2125
+9	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=2126|end_char=2136
+10	,	,	PUNCT	_	_	12	punct	_	start_char=2136|end_char=2137
+11	во	во	ADP	_	_	12	case	_	start_char=2138|end_char=2140
+12	всем	все	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	6	conj	_	start_char=2141|end_char=2145
+13	,	,	PUNCT	_	_	17	punct	_	start_char=2145|end_char=2146
+14	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	17	nsubj	_	start_char=2147|end_char=2150
+15	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	17	iobj	_	start_char=2151|end_char=2154
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=2155|end_char=2157
+17	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	acl:relcl	_	start_char=2158|end_char=2166
+18	.	.	PUNCT	_	_	4	punct	_	start_char=2166|end_char=2167
+
+# text = Я и есть законы физики – остальные подстроятся, все подстраиваются под законы физики!
+# sent_id = 43
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2168|end_char=2169
+2	и	и	PART	_	_	3	advmod	_	start_char=2170|end_char=2171
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2172|end_char=2176
+4	законы	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=2177|end_char=2183
+5	физики	физика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=2184|end_char=2190
+6	–	–	PUNCT	_	_	8	punct	_	start_char=2191|end_char=2192
+7	остальные	остальной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	nsubj	_	start_char=2193|end_char=2202
+8	подстроятся	подстроиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2203|end_char=2214
+9	,	,	PUNCT	_	_	11	punct	_	start_char=2214|end_char=2215
+10	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	11	nsubj	_	start_char=2216|end_char=2219
+11	подстраиваются	подстраиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=2220|end_char=2234
+12	под	под	ADP	_	_	13	case	_	start_char=2235|end_char=2238
+13	законы	закон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	start_char=2239|end_char=2245
+14	физики	физика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=2246|end_char=2252
+15	!	!	PUNCT	_	_	3	punct	_	start_char=2252|end_char=2253
+
+# text = «Остановись, мгновенье, ты прекрасно!»
+# sent_id = 44
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	«	«	PUNCT	_	_	2	punct	_	start_char=2254|end_char=2255
+2	Остановись	остановиться	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=2255|end_char=2265
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2265|end_char=2266
+4	мгновенье	мгновенье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	vocative	_	start_char=2267|end_char=2276
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2276|end_char=2277
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=2278|end_char=2280
+7	прекрасно	прекрасный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2281|end_char=2290
+8	!	!	PUNCT	_	_	7	punct	_	start_char=2290|end_char=2291
+9	»	»	PUNCT	_	_	2	punct	_	start_char=2291|end_char=2292
+
+# text = Да, в отличие от кого бы то ни было, я могу его остановить!
+# sent_id = 45
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Да	да	PART	_	_	13	parataxis	_	start_char=2293|end_char=2295
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2295|end_char=2296
+3	в	в	ADP	_	_	6	case	_	start_char=2297|end_char=2298
+4	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	fixed	_	start_char=2299|end_char=2306
+5	от	от	ADP	_	_	3	fixed	_	start_char=2307|end_char=2309
+6	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	13	parataxis	_	start_char=2310|end_char=2314
+7	бы	бы	AUX	_	Mood=Cnd	3	fixed	_	start_char=2315|end_char=2317
+8	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	fixed	_	start_char=2318|end_char=2320
+9	ни	ни	PART	_	Polarity=Neg	3	fixed	_	start_char=2321|end_char=2323
+10	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	fixed	_	start_char=2324|end_char=2328
+11	,	,	PUNCT	_	_	6	punct	_	start_char=2328|end_char=2329
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=2330|end_char=2331
+13	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2332|end_char=2336
+14	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=2337|end_char=2340
+15	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=2341|end_char=2351
+16	!	!	PUNCT	_	_	13	punct	_	start_char=2351|end_char=2352
+
+# text = Могу смешать все времена в одном изумительном парадоксе, все они будут доступны, навечно сплетенные.
+# sent_id = 46
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2353|end_char=2357
+2	смешать	смешать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2358|end_char=2365
+3	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	4	det	_	start_char=2366|end_char=2369
+4	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obj	_	start_char=2370|end_char=2377
+5	в	в	ADP	_	_	8	case	_	start_char=2378|end_char=2379
+6	одном	один	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	start_char=2380|end_char=2385
+7	изумительном	изумительный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=2386|end_char=2398
+8	парадоксе	парадокс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=2399|end_char=2408
+9	,	,	PUNCT	_	_	13	punct	_	start_char=2408|end_char=2409
+10	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	11	det	_	start_char=2410|end_char=2413
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=2414|end_char=2417
+12	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	cop	_	start_char=2418|end_char=2423
+13	доступны	доступный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	1	conj	_	start_char=2424|end_char=2432
+14	,	,	PUNCT	_	_	16	punct	_	start_char=2432|end_char=2433
+15	навечно	навечно	ADV	_	Degree=Pos	16	advmod	_	start_char=2434|end_char=2441
+16	сплетенные	сплести	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	conj	_	start_char=2442|end_char=2452
+17	.	.	PUNCT	_	_	1	punct	_	start_char=2452|end_char=2453
+
+# text = Это будет новой Вселенной.
+# sent_id = 47
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2454|end_char=2457
+2	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	cop	_	start_char=2458|end_char=2463
+3	новой	новый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=2464|end_char=2469
+4	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	0	root	_	start_char=2470|end_char=2479
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2479|end_char=2480
+
+# text = Невиданной!
+# sent_id = 48
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Невиданной	невиданный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=2481|end_char=2491
+2	!	!	PUNCT	_	_	1	punct	_	start_char=2491|end_char=2492
+
+# text = Стоит попробовать – только ради того, чтобы она не оставалась прежней.
+# sent_id = 49
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2493|end_char=2498
+2	попробовать	попробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=2499|end_char=2510
+3	–	–	PUNCT	_	_	6	punct	_	start_char=2511|end_char=2512
+4	только	только	PART	_	_	6	advmod	_	start_char=2513|end_char=2519
+5	ради	ради	ADP	_	_	6	case	_	start_char=2520|end_char=2524
+6	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	2	obl	_	start_char=2525|end_char=2529
+7	,	,	PUNCT	_	_	11	punct	_	start_char=2529|end_char=2530
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	start_char=2531|end_char=2536
+9	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=2537|end_char=2540
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2541|end_char=2543
+11	оставалась	оставаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl	_	start_char=2544|end_char=2554
+12	прежней	прежний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	xcomp	_	start_char=2555|end_char=2562
+13	.	.	PUNCT	_	_	1	punct	_	start_char=2562|end_char=2563
+
+# text = Это же скучно, когда мы лишь принимаем данность, ради этого не стоит быть живым и высокоразвитым существом.
+# sent_id = 50
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2564|end_char=2567
+2	же	же	PART	_	_	1	advmod	_	start_char=2568|end_char=2570
+3	скучно	скучный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2571|end_char=2577
+4	,	,	PUNCT	_	_	8	punct	_	start_char=2577|end_char=2578
+5	когда	когда	SCONJ	_	_	8	mark	_	start_char=2579|end_char=2584
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=2585|end_char=2587
+7	лишь	лишь	PART	_	_	8	advmod	_	start_char=2588|end_char=2592
+8	принимаем	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=2593|end_char=2602
+9	данность	данность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=2603|end_char=2611
+10	,	,	PUNCT	_	_	14	punct	_	start_char=2611|end_char=2612
+11	ради	ради	ADP	_	_	12	case	_	start_char=2613|end_char=2617
+12	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	obl	_	start_char=2618|end_char=2623
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=2624|end_char=2626
+14	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2627|end_char=2632
+15	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	cop	_	start_char=2633|end_char=2637
+16	живым	живой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=2638|end_char=2643
+17	и	и	CCONJ	_	_	18	cc	_	start_char=2644|end_char=2645
+18	высокоразвитым	высокоразвитый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	conj	_	start_char=2646|end_char=2660
+19	существом	существо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	csubj	_	start_char=2661|end_char=2670
+20	.	.	PUNCT	_	_	3	punct	_	start_char=2670|end_char=2671
+
+# text = Не можешь изменить себя – измени мир.
+# sent_id = 51
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=2672|end_char=2674
+2	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2675|end_char=2681
+3	изменить	изменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2682|end_char=2690
+4	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	obj	_	start_char=2691|end_char=2695
+5	–	–	PUNCT	_	_	6	punct	_	start_char=2696|end_char=2697
+6	измени	изменить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2698|end_char=2704
+7	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=2705|end_char=2708
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2708|end_char=2709
+
+# text = Чего он стоит, если ты не можешь его изменить?
+# sent_id = 52
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	start_char=2710|end_char=2714
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2715|end_char=2717
+3	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2718|end_char=2723
+4	,	,	PUNCT	_	_	8	punct	_	start_char=2723|end_char=2724
+5	если	если	SCONJ	_	_	8	mark	_	start_char=2725|end_char=2729
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=2730|end_char=2732
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=2733|end_char=2735
+8	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=2736|end_char=2742
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=2743|end_char=2746
+10	изменить	изменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=2747|end_char=2755
+11	?	?	PUNCT	_	_	3	punct	_	start_char=2755|end_char=2756
+
+# text = Я назову свой собственный порядок – Новый Галлифрей.
+# sent_id = 53
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2757|end_char=2758
+2	назову	назвать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2759|end_char=2765
+3	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=2766|end_char=2770
+4	собственный	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=2771|end_char=2782
+5	порядок	порядок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=2783|end_char=2790
+6	–	–	PUNCT	_	_	8	punct	_	start_char=2791|end_char=2792
+7	Новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=2793|end_char=2798
+8	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	5	parataxis	_	start_char=2799|end_char=2808
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2808|end_char=2809
+
+# text = В память о старом, что не осмелился взять то, что ему принадлежало, и не смог сдержать тех, кто стремился вперед.
+# sent_id = 54
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	В	в	ADP	_	_	2	case	_	start_char=2810|end_char=2811
+2	память	память	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=2812|end_char=2818
+3	о	о	ADP	_	_	4	case	_	start_char=2819|end_char=2820
+4	старом	старый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	2	nmod	_	start_char=2821|end_char=2827
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2827|end_char=2828
+6	что	что	SCONJ	_	_	8	mark	_	start_char=2829|end_char=2832
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=2833|end_char=2835
+8	осмелился	осмелиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	_	start_char=2836|end_char=2845
+9	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=2846|end_char=2851
+10	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	start_char=2852|end_char=2854
+11	,	,	PUNCT	_	_	14	punct	_	start_char=2854|end_char=2855
+12	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	14	nsubj	_	start_char=2856|end_char=2859
+13	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	start_char=2860|end_char=2863
+14	принадлежало	принадлежать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	start_char=2864|end_char=2876
+15	,	,	PUNCT	_	_	18	punct	_	start_char=2876|end_char=2877
+16	и	и	CCONJ	_	_	18	cc	_	start_char=2878|end_char=2879
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=2880|end_char=2882
+18	смог	смочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=2883|end_char=2887
+19	сдержать	сдержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	xcomp	_	start_char=2888|end_char=2896
+20	тех	тот	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	19	obj	_	start_char=2897|end_char=2900
+21	,	,	PUNCT	_	_	23	punct	_	start_char=2900|end_char=2901
+22	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	23	nsubj	_	start_char=2902|end_char=2905
+23	стремился	стремиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	acl:relcl	_	start_char=2906|end_char=2915
+24	вперед	вперед	ADV	_	Degree=Pos	23	advmod	_	start_char=2916|end_char=2922
+25	.	.	PUNCT	_	_	8	punct	_	start_char=2922|end_char=2923
+
+# text = Он проиграл?
+# sent_id = 55
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2924|end_char=2926
+2	проиграл	проиграть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2927|end_char=2935
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2935|end_char=2936
+
+# text = Иначе где он?
+# sent_id = 56
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	2	advmod	_	start_char=2937|end_char=2942
+2	где	где	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=2943|end_char=2946
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2947|end_char=2949
+4	?	?	PUNCT	_	_	2	punct	_	start_char=2949|end_char=2950
+
+# text = Закономерно!
+# sent_id = 57
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Закономерно	закономерный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2951|end_char=2962
+2	!	!	PUNCT	_	_	1	punct	_	start_char=2962|end_char=2963
+
+# text = Как он, ты вечно совершаешь одну и ту же ошибку, Доктор.
+# sent_id = 58
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Как	как	SCONJ	_	_	2	mark	_	start_char=2964|end_char=2967
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=2968|end_char=2970
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2970|end_char=2971
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=2972|end_char=2974
+5	вечно	вечно	ADV	_	Degree=Pos	6	advmod	_	start_char=2975|end_char=2980
+6	совершаешь	совершать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2981|end_char=2991
+7	одну	один	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	start_char=2992|end_char=2996
+8	и	и	CCONJ	_	_	9	cc	_	start_char=2997|end_char=2998
+9	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	conj	_	start_char=2999|end_char=3001
+10	же	же	PART	_	_	9	advmod	_	start_char=3002|end_char=3004
+11	ошибку	ошибка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=3005|end_char=3011
+12	,	,	PUNCT	_	_	13	punct	_	start_char=3011|end_char=3012
+13	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	start_char=3013|end_char=3019
+14	.	.	PUNCT	_	_	6	punct	_	start_char=3019|end_char=3020
+
+# text = Неужели ты правда не понимаешь, что если ты не занимаешь вершину пищевой цепочки, ее займет кто-то другой?
+# sent_id = 59
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Неужели	неужели	PART	_	_	5	advmod	_	start_char=3021|end_char=3028
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=3029|end_char=3031
+3	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	start_char=3032|end_char=3038
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3039|end_char=3041
+5	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3042|end_char=3051
+6	,	,	PUNCT	_	_	17	punct	_	start_char=3051|end_char=3052
+7	что	что	SCONJ	_	_	17	mark	_	start_char=3053|end_char=3056
+8	если	если	SCONJ	_	_	11	mark	_	start_char=3057|end_char=3061
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=3062|end_char=3064
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=3065|end_char=3067
+11	занимаешь	занимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=3068|end_char=3077
+12	вершину	вершина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=3078|end_char=3085
+13	пищевой	пищевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=3086|end_char=3093
+14	цепочки	цепочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=3094|end_char=3101
+15	,	,	PUNCT	_	_	11	punct	_	start_char=3101|end_char=3102
+16	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=3103|end_char=3105
+17	займет	занять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=3106|end_char=3112
+18	кто-то	кто-то	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	start_char=3113|end_char=3119
+19	другой	другой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	18	det	_	start_char=3120|end_char=3126
+20	?	?	PUNCT	_	_	5	punct	_	start_char=3126|end_char=3127
+
+# text = Ты можешь сражаться с ним до самоуничтожения, а в это время подоспеет кто-нибудь еще, и еще.
+# sent_id = 60
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=3128|end_char=3130
+2	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3131|end_char=3137
+3	сражаться	сражаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=3138|end_char=3147
+4	с	с	ADP	_	_	5	case	_	start_char=3148|end_char=3149
+5	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=3150|end_char=3153
+6	до	до	ADP	_	_	7	case	_	start_char=3154|end_char=3156
+7	самоуничтожения	самоуничтожение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	start_char=3157|end_char=3172
+8	,	,	PUNCT	_	_	13	punct	_	start_char=3172|end_char=3173
+9	а	а	CCONJ	_	_	13	cc	_	start_char=3174|end_char=3175
+10	в	в	ADP	_	_	12	case	_	start_char=3176|end_char=3177
+11	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	start_char=3178|end_char=3181
+12	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	start_char=3182|end_char=3187
+13	подоспеет	подоспеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3188|end_char=3197
+14	кто-нибудь	кто-нибудь	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	start_char=3198|end_char=3208
+15	еще	еще	ADV	_	Degree=Pos	13	advmod	_	start_char=3209|end_char=3212
+16	,	,	PUNCT	_	_	18	punct	_	start_char=3212|end_char=3213
+17	и	и	CCONJ	_	_	18	cc	_	start_char=3214|end_char=3215
+18	еще	еще	ADV	_	Degree=Pos	2	conj	_	start_char=3216|end_char=3219
+19	.	.	PUNCT	_	_	2	punct	_	start_char=3219|end_char=3220
+
+# text = Ты не можешь остановить эволюцию, как бы ни старался.
+# sent_id = 61
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3221|end_char=3223
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3224|end_char=3226
+3	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3227|end_char=3233
+4	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=3234|end_char=3244
+5	эволюцию	эволюция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=3245|end_char=3253
+6	,	,	PUNCT	_	_	10	punct	_	start_char=3253|end_char=3254
+7	как	как	ADV	_	Degree=Pos|PronType=Rel	10	advmod	_	start_char=3255|end_char=3258
+8	бы	бы	AUX	_	Mood=Cnd	10	aux	_	start_char=3259|end_char=3261
+9	ни	ни	PART	_	Polarity=Neg	10	advmod	_	start_char=3262|end_char=3264
+10	старался	стараться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=3265|end_char=3273
+11	.	.	PUNCT	_	_	3	punct	_	start_char=3273|end_char=3274
+
+# text = Чем бы она ни кончилась.
+# sent_id = 62
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	5	obl	_	start_char=3275|end_char=3278
+2	бы	бы	X	_	_	5	aux	_	start_char=3279|end_char=3281
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3282|end_char=3285
+4	ни	ни	PART	_	Polarity=Neg	5	advmod	_	start_char=3286|end_char=3288
+5	кончилась	кончиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3289|end_char=3298
+6	.	.	PUNCT	_	_	5	punct	_	start_char=3298|end_char=3299
+
+# text = Ты можешь передумать в последний момент, но будет поздно, ты упустил свой шанс.
+# sent_id = 63
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=3300|end_char=3302
+2	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3303|end_char=3309
+3	передумать	передумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=3310|end_char=3320
+4	в	в	ADP	_	_	6	case	_	start_char=3321|end_char=3322
+5	последний	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=3323|end_char=3332
+6	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=3333|end_char=3339
+7	,	,	PUNCT	_	_	9	punct	_	start_char=3339|end_char=3340
+8	но	но	CCONJ	_	_	9	cc	_	start_char=3341|end_char=3343
+9	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3344|end_char=3349
+10	поздно	поздно	ADV	_	Degree=Pos	9	advmod	_	start_char=3350|end_char=3356
+11	,	,	PUNCT	_	_	13	punct	_	start_char=3356|end_char=3357
+12	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=3358|end_char=3360
+13	упустил	упустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3361|end_char=3368
+14	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	start_char=3369|end_char=3373
+15	шанс	шанс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=3374|end_char=3378
+16	.	.	PUNCT	_	_	2	punct	_	start_char=3378|end_char=3379
+
+# text = Ты не сделал того, что должен был... того, чего хотел.
+# sent_id = 64
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3380|end_char=3382
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3383|end_char=3385
+3	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3386|end_char=3392
+4	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=3393|end_char=3397
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3397|end_char=3398
+6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	start_char=3399|end_char=3402
+7	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	acl:relcl	_	start_char=3403|end_char=3409
+8	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=3410|end_char=3413
+9	...	...	PUNCT	_	_	7	punct	_	start_char=3413|end_char=3416
+10	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	start_char=3417|end_char=3421
+11	,	,	PUNCT	_	_	13	punct	_	start_char=3421|end_char=3422
+12	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	13	obj	_	start_char=3423|end_char=3427
+13	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=3428|end_char=3433
+14	.	.	PUNCT	_	_	3	punct	_	start_char=3433|end_char=3434
+
+# text = А это единственное, что имеет значение в этом мире – делать то, что хочешь!
+# sent_id = 65
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	А	а	CCONJ	_	_	3	cc	_	start_char=3435|end_char=3436
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=3437|end_char=3440
+3	единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=3441|end_char=3453
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3453|end_char=3454
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	6	nsubj	_	start_char=3455|end_char=3458
+6	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=3459|end_char=3464
+7	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	start_char=3465|end_char=3473
+8	в	в	ADP	_	_	10	case	_	start_char=3474|end_char=3475
+9	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=3476|end_char=3480
+10	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	start_char=3481|end_char=3485
+11	–	–	PUNCT	_	_	12	punct	_	start_char=3486|end_char=3487
+12	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	parataxis	_	start_char=3488|end_char=3494
+13	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	obj	_	start_char=3495|end_char=3497
+14	,	,	PUNCT	_	_	16	punct	_	start_char=3497|end_char=3498
+15	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	16	obj	_	start_char=3499|end_char=3502
+16	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	start_char=3503|end_char=3509
+17	!	!	PUNCT	_	_	3	punct	_	start_char=3509|end_char=3510
+
+# text = Обрывать вялотекущие процессы с треском.
+# sent_id = 66
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Обрывать	обрывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=3511|end_char=3519
+2	вялотекущие	вялотекущий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	start_char=3520|end_char=3531
+3	процессы	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	start_char=3532|end_char=3540
+4	с	с	ADP	_	_	5	case	_	start_char=3541|end_char=3542
+5	треском	треск	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	start_char=3543|end_char=3550
+6	.	.	PUNCT	_	_	1	punct	_	start_char=3550|end_char=3551
+
+# text = Превращать унылый, распадающийся сам по себе серый мир в фейерверк, в оглушительную симфонию.
+# sent_id = 67
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Превращать	превращать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=3552|end_char=3562
+2	унылый	унылый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=3563|end_char=3569
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3569|end_char=3570
+4	распадающийся	распадаться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	start_char=3571|end_char=3584
+5	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	9	det	_	start_char=3585|end_char=3588
+6	по	по	ADP	_	_	7	case	_	start_char=3589|end_char=3591
+7	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	obl	_	start_char=3592|end_char=3596
+8	серый	серый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=3597|end_char=3602
+9	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=3603|end_char=3606
+10	в	в	ADP	_	_	11	case	_	start_char=3607|end_char=3608
+11	фейерверк	фейерверк	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	start_char=3609|end_char=3618
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3618|end_char=3619
+13	в	в	ADP	_	_	15	case	_	start_char=3620|end_char=3621
+14	оглушительную	оглушительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=3622|end_char=3635
+15	симфонию	симфония	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	conj	_	start_char=3636|end_char=3644
+16	.	.	PUNCT	_	_	1	punct	_	start_char=3644|end_char=3645
+
+# text = Знаешь, почему?
+# sent_id = 68
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3646|end_char=3652
+2	,	,	PUNCT	_	_	3	punct	_	start_char=3652|end_char=3653
+3	почему	почему	ADV	_	Degree=Pos|PronType=Rel	1	advmod	_	start_char=3654|end_char=3660
+4	?	?	PUNCT	_	_	1	punct	_	start_char=3660|end_char=3661
+
+# text = Потому что это весело!!!
+# sent_id = 69
+# metadata = Название: Тикающий механизм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c59400000a7f33bf63fd/1/Tikayushij-mehanizm
+1	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	4	mark	_	start_char=3662|end_char=3668
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=3669|end_char=3672
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=3673|end_char=3676
+4	весело	веселый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3677|end_char=3683
+5	!!!	!!!	PUNCT	_	_	4	punct	_	start_char=3683|end_char=3686
+

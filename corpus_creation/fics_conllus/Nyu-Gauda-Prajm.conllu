@@ -1,0 +1,871 @@
+# text = – Проклятье, – пробормотал Мастер, стряхивая с себя мелкое крошево штукатурки.
+# sent_id = 0
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Проклятье	проклятье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2|end_char=11
+3	,	,	PUNCT	_	_	5	punct	_	start_char=11|end_char=12
+4	–	–	PUNCT	_	_	5	punct	_	start_char=13|end_char=14
+5	пробормотал	пробормотать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=15|end_char=26
+6	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=27|end_char=33
+7	,	,	PUNCT	_	_	8	punct	_	start_char=33|end_char=34
+8	стряхивая	стряхивать	VERB	_	Aspect=Imp|Case=Nom|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=35|end_char=44
+9	с	с	ADP	_	_	10	case	_	start_char=45|end_char=46
+10	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	8	obl	_	start_char=47|end_char=51
+11	мелкое	мелкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=52|end_char=58
+12	крошево	крошево	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=59|end_char=66
+13	штукатурки	штукатурка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=67|end_char=77
+14	.	.	PUNCT	_	_	2	punct	_	start_char=77|end_char=78
+
+# text = – А по нашим данным эта планета была необитаема!
+# sent_id = 1
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	9	punct	_	start_char=79|end_char=80
+2	А	а	CCONJ	_	_	9	cc	_	start_char=81|end_char=82
+3	по	по	ADP	_	_	5	case	_	start_char=83|end_char=85
+4	нашим	наш	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	start_char=86|end_char=91
+5	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	9	obl	_	start_char=92|end_char=98
+6	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=99|end_char=102
+7	планета	планета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=103|end_char=110
+8	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=111|end_char=115
+9	необитаема	необитаемый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=116|end_char=126
+10	!	!	PUNCT	_	_	9	punct	_	start_char=126|end_char=127
+
+# text = – Говорила я тебе, – закашлявшись и отгоняя рукой от носа облачко пыли, ответила Ривер Сонг, – она слишком близко от Звездной Федерации, маловероятно, чтобы ее не использовали.
+# sent_id = 2
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=128|end_char=129
+2	Говорила	говорить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=130|end_char=138
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=139|end_char=140
+4	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	start_char=141|end_char=145
+5	,	,	PUNCT	_	_	16	punct	_	start_char=145|end_char=146
+6	–	–	PUNCT	_	_	16	punct	_	start_char=147|end_char=148
+7	закашлявшись	закашляться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	16	advcl	_	start_char=149|end_char=161
+8	и	и	CCONJ	_	_	9	cc	_	start_char=162|end_char=163
+9	отгоняя	отгонять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	conj	_	start_char=164|end_char=171
+10	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	iobj	_	start_char=172|end_char=177
+11	от	от	ADP	_	_	12	case	_	start_char=178|end_char=180
+12	носа	нос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=181|end_char=185
+13	облачко	облачко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	start_char=186|end_char=193
+14	пыли	пыль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=194|end_char=198
+15	,	,	PUNCT	_	_	7	punct	_	start_char=198|end_char=199
+16	ответила	ответить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=200|end_char=208
+17	Ривер	Ривер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	16	nsubj	_	start_char=209|end_char=214
+18	Сонг	Сонг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	17	flat:name	_	start_char=215|end_char=219
+19	,	,	PUNCT	_	_	23	punct	_	start_char=219|end_char=220
+20	–	–	PUNCT	_	_	23	punct	_	start_char=221|end_char=222
+21	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=223|end_char=226
+22	слишком	слишком	ADV	_	Degree=Pos	23	advmod	_	start_char=227|end_char=234
+23	близко	близкий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	16	parataxis	_	start_char=235|end_char=241
+24	от	от	ADP	_	_	26	case	_	start_char=242|end_char=244
+25	Звездной	звездный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	start_char=245|end_char=253
+26	Федерации	федерация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	obl	_	start_char=254|end_char=263
+27	,	,	PUNCT	_	_	28	punct	_	start_char=263|end_char=264
+28	маловероятно	маловероятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	16	conj	_	start_char=265|end_char=277
+29	,	,	PUNCT	_	_	33	punct	_	start_char=277|end_char=278
+30	чтобы	чтобы	SCONJ	_	Mood=Cnd	33	mark	_	start_char=279|end_char=284
+31	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obj	_	start_char=285|end_char=287
+32	не	не	PART	_	Polarity=Neg	33	advmod	_	start_char=288|end_char=290
+33	использовали	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	28	ccomp	_	start_char=291|end_char=303
+34	.	.	PUNCT	_	_	2	punct	_	start_char=303|end_char=304
+
+# text = Хотя бы какие-то пираты, контрабандисты…
+# sent_id = 3
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Хотя	хотя	SCONJ	_	_	4	mark	_	start_char=305|end_char=309
+2	бы	бы	PART	_	_	1	fixed	_	start_char=310|end_char=312
+3	какие-то	какой-то	DET	_	Case=Nom|Number=Plur|PronType=Ind	4	det	_	start_char=313|end_char=321
+4	пираты	пирата	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=322|end_char=328
+5	,	,	PUNCT	_	_	6	punct	_	start_char=328|end_char=329
+6	контрабандисты	контрабандист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	start_char=330|end_char=344
+7	…	…	PUNCT	_	_	4	punct	_	start_char=344|end_char=345
+
+# text = Правда, эти как-то все в мундирах… в основном.
+# sent_id = 4
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	parataxis	_	start_char=346|end_char=352
+2	,	,	PUNCT	_	_	1	punct	_	start_char=352|end_char=353
+3	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	5	det	_	start_char=354|end_char=357
+4	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	7	advmod	_	start_char=358|end_char=364
+5	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	7	nsubj	_	start_char=365|end_char=368
+6	в	в	ADP	_	_	7	case	_	start_char=369|end_char=370
+7	мундирах	мундир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	0	root	_	start_char=371|end_char=379
+8	…	…	PUNCT	_	_	10	punct	_	start_char=379|end_char=380
+9	в	в	ADP	_	_	10	case	_	start_char=381|end_char=382
+10	основном	основной	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	7	parataxis	_	start_char=383|end_char=391
+11	.	.	PUNCT	_	_	7	punct	_	start_char=391|end_char=392
+
+# text = – "О поле, поле, кто тебя усеял…" – процитировал Мастер, не слушая и оглядывая коридоры, заваленные телами.
+# sent_id = 5
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	14	punct	_	start_char=393|end_char=394
+2	"	"	PUNCT	_	_	4	punct	_	start_char=395|end_char=396
+3	О	о	INTJ	_	_	4	discourse	_	start_char=396|end_char=397
+4	поле	поле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	vocative	_	start_char=398|end_char=402
+5	,	,	PUNCT	_	_	6	punct	_	start_char=402|end_char=403
+6	поле	поле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	conj	_	start_char=404|end_char=408
+7	,	,	PUNCT	_	_	10	punct	_	start_char=408|end_char=409
+8	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	start_char=410|end_char=413
+9	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	obj	_	start_char=414|end_char=418
+10	усеял	усеять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=419|end_char=424
+11	…	…	PUNCT	_	_	10	punct	_	start_char=424|end_char=425
+12	"	"	PUNCT	_	_	4	punct	_	start_char=425|end_char=426
+13	–	–	PUNCT	_	_	4	punct	_	start_char=427|end_char=428
+14	процитировал	процитировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=429|end_char=441
+15	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=442|end_char=448
+16	,	,	PUNCT	_	_	18	punct	_	start_char=448|end_char=449
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=450|end_char=452
+18	слушая	слушать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	advcl	_	start_char=453|end_char=459
+19	и	и	CCONJ	_	_	20	cc	_	start_char=460|end_char=461
+20	оглядывая	оглядывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	18	conj	_	start_char=462|end_char=471
+21	коридоры	коридор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	obj	_	start_char=472|end_char=480
+22	,	,	PUNCT	_	_	23	punct	_	start_char=480|end_char=481
+23	заваленные	завалить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	start_char=482|end_char=492
+24	телами	тело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	23	iobj	_	start_char=493|end_char=499
+25	.	.	PUNCT	_	_	14	punct	_	start_char=499|end_char=500
+
+# text = – Кто, кто… – раздражаясь, передразнила Ривер Сонг.
+# sent_id = 6
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	9	punct	_	start_char=501|end_char=502
+2	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	9	nsubj	_	start_char=503|end_char=506
+3	,	,	PUNCT	_	_	4	punct	_	start_char=506|end_char=507
+4	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	start_char=508|end_char=511
+5	…	…	PUNCT	_	_	4	punct	_	start_char=511|end_char=512
+6	–	–	PUNCT	_	_	7	punct	_	start_char=513|end_char=514
+7	раздражаясь	раздражаться	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Conv|Voice=Mid	9	advcl	_	start_char=515|end_char=526
+8	,	,	PUNCT	_	_	7	punct	_	start_char=526|end_char=527
+9	передразнила	передразнить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=528|end_char=540
+10	Ривер	Ривер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=541|end_char=546
+11	Сонг	Сонг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	flat:name	_	start_char=547|end_char=551
+12	.	.	PUNCT	_	_	9	punct	_	start_char=551|end_char=552
+
+# text = – Можно подумать, что, переместившись на вихревом манипуляторе в центр перестрелки, ты не положишь всех кругом своей лазерной отверткой – просто так, для профилактики…
+# sent_id = 7
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=553|end_char=554
+2	Можно	можно	VERB	_	_	0	root	_	start_char=555|end_char=560
+3	подумать	подумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=561|end_char=569
+4	,	,	PUNCT	_	_	17	punct	_	start_char=569|end_char=570
+5	что	что	SCONJ	_	_	17	mark	_	start_char=571|end_char=574
+6	,	,	PUNCT	_	_	7	punct	_	start_char=574|end_char=575
+7	переместившись	переместиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	17	advcl	_	start_char=576|end_char=590
+8	на	на	ADP	_	_	10	case	_	start_char=591|end_char=593
+9	вихревом	вихревый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=594|end_char=602
+10	манипуляторе	манипулятор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=603|end_char=615
+11	в	в	ADP	_	_	12	case	_	start_char=616|end_char=617
+12	центр	центр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=618|end_char=623
+13	перестрелки	перестрелка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=624|end_char=635
+14	,	,	PUNCT	_	_	7	punct	_	start_char=635|end_char=636
+15	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	start_char=637|end_char=639
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=640|end_char=642
+17	положишь	положить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=643|end_char=651
+18	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	17	obj	_	start_char=652|end_char=656
+19	кругом	кругом	ADV	_	Degree=Pos	17	advmod	_	start_char=657|end_char=663
+20	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	22	det	_	start_char=664|end_char=669
+21	лазерной	лазерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=670|end_char=678
+22	отверткой	отвертка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	iobj	_	start_char=679|end_char=688
+23	–	–	PUNCT	_	_	25	punct	_	start_char=689|end_char=690
+24	просто	просто	PART	_	_	25	advmod	_	start_char=691|end_char=697
+25	так	так	ADV	_	Degree=Pos|PronType=Dem	17	parataxis	_	start_char=698|end_char=701
+26	,	,	PUNCT	_	_	28	punct	_	start_char=701|end_char=702
+27	для	для	ADP	_	_	28	case	_	start_char=703|end_char=706
+28	профилактики	профилактика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	conj	_	start_char=707|end_char=719
+29	…	…	PUNCT	_	_	2	punct	_	start_char=719|end_char=720
+
+# text = – И чтобы кое-кого защитить, конечно.
+# sent_id = 8
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	7	punct	_	start_char=721|end_char=722
+2	И	и	CCONJ	_	_	7	cc	_	start_char=723|end_char=724
+3	чтобы	чтобы	SCONJ	_	Mood=Cnd	5	mark	_	start_char=725|end_char=730
+4	кое-кого	кое-кого	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	5	obj	_	start_char=731|end_char=739
+5	защитить	защитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=740|end_char=748
+6	,	,	PUNCT	_	_	7	punct	_	start_char=748|end_char=749
+7	конечно	конечно	ADV	_	Degree=Pos	0	root	_	start_char=750|end_char=757
+8	.	.	PUNCT	_	_	7	punct	_	start_char=757|end_char=758
+
+# text = Мастер красноречиво покосился на бластер в руке жены.
+# sent_id = 9
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=759|end_char=765
+2	красноречиво	красноречиво	ADV	_	Degree=Pos	3	advmod	_	start_char=766|end_char=778
+3	покосился	покоситься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=779|end_char=788
+4	на	на	ADP	_	_	5	case	_	start_char=789|end_char=791
+5	бластер	бластер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=792|end_char=799
+6	в	в	ADP	_	_	7	case	_	start_char=800|end_char=801
+7	руке	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=802|end_char=806
+8	жены	жена	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=807|end_char=811
+9	.	.	PUNCT	_	_	3	punct	_	start_char=811|end_char=812
+
+# text = – Ну хорошо, у меня тоже отличные рефлексы, – буркнула Ривер.
+# sent_id = 10
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	3	punct	_	start_char=813|end_char=814
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=815|end_char=817
+3	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=818|end_char=824
+4	,	,	PUNCT	_	_	6	punct	_	start_char=824|end_char=825
+5	у	у	ADP	_	_	6	case	_	start_char=826|end_char=827
+6	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	conj	_	start_char=828|end_char=832
+7	тоже	тоже	PART	_	_	6	advmod	_	start_char=833|end_char=837
+8	отличные	отличный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	start_char=838|end_char=846
+9	рефлексы	рефлекс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=847|end_char=855
+10	,	,	PUNCT	_	_	12	punct	_	start_char=855|end_char=856
+11	–	–	PUNCT	_	_	12	punct	_	start_char=857|end_char=858
+12	буркнула	буркнуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=859|end_char=867
+13	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	12	nsubj	_	start_char=868|end_char=873
+14	.	.	PUNCT	_	_	3	punct	_	start_char=873|end_char=874
+
+# text = – Когда вопрос стоит ребром…
+# sent_id = 11
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	4	punct	_	start_char=875|end_char=876
+2	Когда	когда	SCONJ	_	_	4	mark	_	start_char=877|end_char=882
+3	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=883|end_char=889
+4	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=890|end_char=895
+5	ребром	ребро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	iobj	_	start_char=896|end_char=902
+6	…	…	PUNCT	_	_	4	punct	_	start_char=902|end_char=903
+
+# text = – Ну, теперь, когда тут уже случайно исчезло население…
+# sent_id = 12
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	4	punct	_	start_char=904|end_char=905
+2	Ну	ну	PART	_	_	4	discourse	_	start_char=906|end_char=908
+3	,	,	PUNCT	_	_	2	punct	_	start_char=908|end_char=909
+4	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=910|end_char=916
+5	,	,	PUNCT	_	_	10	punct	_	start_char=916|end_char=917
+6	когда	когда	SCONJ	_	_	10	mark	_	start_char=918|end_char=923
+7	тут	тут	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=924|end_char=927
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	start_char=928|end_char=931
+9	случайно	случайно	ADV	_	Degree=Pos	10	advmod	_	start_char=932|end_char=940
+10	исчезло	исчезнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=941|end_char=948
+11	население	население	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	start_char=949|end_char=958
+12	…	…	PUNCT	_	_	4	punct	_	start_char=958|end_char=959
+
+# text = – Ма-а-астер!..
+# sent_id = 13
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=960|end_char=961
+2	Ма-а-астер	ма-а-астер	INTJ	_	_	0	root	_	start_char=962|end_char=972
+3	!..	!..	PUNCT	_	_	2	punct	_	start_char=972|end_char=975
+
+# text = – Ладно.
+# sent_id = 14
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=976|end_char=977
+2	Ладно	ладно	PART	_	_	0	root	_	start_char=978|end_char=983
+3	.	.	PUNCT	_	_	2	punct	_	start_char=983|end_char=984
+
+# text = Предлагаешь не колонизировать эту планету?
+# sent_id = 15
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Предлагаешь	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=985|end_char=996
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=997|end_char=999
+3	колонизировать	колонизировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=1000|end_char=1014
+4	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=1015|end_char=1018
+5	планету	планета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=1019|end_char=1026
+6	?	?	PUNCT	_	_	1	punct	_	start_char=1026|end_char=1027
+
+# text = А Звездную Федерацию?..
+# sent_id = 16
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	А	а	CCONJ	_	_	3	cc	_	start_char=1028|end_char=1029
+2	Звездную	звездный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=1030|end_char=1038
+3	Федерацию	федерация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=1039|end_char=1048
+4	?..	?..	PUNCT	_	_	3	punct	_	start_char=1048|end_char=1051
+
+# text = Нет, серьезно, я кое-что проверял, им хуже не будет…
+# sent_id = 17
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Нет	нет	PART	_	Polarity=Neg	3	parataxis	_	start_char=1052|end_char=1055
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1055|end_char=1056
+3	серьезно	серьезно	ADV	_	Degree=Pos	0	root	_	start_char=1057|end_char=1065
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1065|end_char=1066
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=1067|end_char=1068
+6	кое-что	кое-что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	obj	_	start_char=1069|end_char=1076
+7	проверял	проверять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1077|end_char=1085
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1085|end_char=1086
+9	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	iobj	_	start_char=1087|end_char=1089
+10	хуже	плохой	ADJ	_	Degree=Cmp	3	conj	_	start_char=1090|end_char=1094
+11	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1095|end_char=1097
+12	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	start_char=1098|end_char=1103
+13	…	…	PUNCT	_	_	3	punct	_	start_char=1103|end_char=1104
+
+# text = Ривер внимательно изучала свой браслет.
+# sent_id = 18
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	3	nsubj	_	start_char=1105|end_char=1110
+2	внимательно	внимательно	ADV	_	Degree=Pos	3	advmod	_	start_char=1111|end_char=1122
+3	изучала	изучать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1123|end_char=1130
+4	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=1131|end_char=1135
+5	браслет	браслет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=1136|end_char=1143
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1143|end_char=1144
+
+# text = – Так, котейко, прекрати.
+# sent_id = 19
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1145|end_char=1146
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=1147|end_char=1150
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1150|end_char=1151
+4	котейко	котейко	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1152|end_char=1159
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1159|end_char=1160
+6	прекрати	прекратить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1161|end_char=1169
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1169|end_char=1170
+
+# text = У нас ошибка в расчетах.
+# sent_id = 20
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	У	у	ADP	_	_	2	case	_	start_char=1171|end_char=1172
+2	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	obl	_	start_char=1173|end_char=1176
+3	ошибка	ошибка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=1177|end_char=1183
+4	в	в	ADP	_	_	5	case	_	start_char=1184|end_char=1185
+5	расчетах	расчет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	0	root	_	start_char=1186|end_char=1194
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1194|end_char=1195
+
+# text = – Какая еще ошибка?..
+# sent_id = 21
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1196|end_char=1197
+2	Какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	4	det	_	start_char=1198|end_char=1203
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=1204|end_char=1207
+4	ошибка	ошибка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1208|end_char=1214
+5	?..	?..	PUNCT	_	_	4	punct	_	start_char=1214|end_char=1217
+
+# text = – Маленькая математическая погрешность, которая обычно не имеет значения, но в условиях нашей формирующейся Вселенной…
+# sent_id = 22
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1218|end_char=1219
+2	Маленькая	маленький	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1220|end_char=1229
+3	математическая	математический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1230|end_char=1244
+4	погрешность	погрешность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1245|end_char=1256
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1256|end_char=1257
+6	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	start_char=1258|end_char=1265
+7	обычно	обычно	ADV	_	Degree=Pos	9	advmod	_	start_char=1266|end_char=1272
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1273|end_char=1275
+9	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=1276|end_char=1281
+10	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obj	_	start_char=1282|end_char=1290
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1290|end_char=1291
+12	но	но	CCONJ	_	_	14	cc	_	start_char=1292|end_char=1294
+13	в	в	ADP	_	_	14	case	_	start_char=1295|end_char=1296
+14	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	conj	_	start_char=1297|end_char=1305
+15	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	start_char=1306|end_char=1311
+16	формирующейся	формироваться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	amod	_	start_char=1312|end_char=1325
+17	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	14	nmod	_	start_char=1326|end_char=1335
+18	…	…	PUNCT	_	_	4	punct	_	start_char=1335|end_char=1336
+
+# text = – Мы что, опять не в том измерении?
+# sent_id = 23
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1337|end_char=1338
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=1339|end_char=1341
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1342|end_char=1345
+4	,	,	PUNCT	_	_	9	punct	_	start_char=1345|end_char=1346
+5	опять	опять	ADV	_	Degree=Pos	9	advmod	_	start_char=1347|end_char=1352
+6	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1353|end_char=1355
+7	в	в	ADP	_	_	9	case	_	start_char=1356|end_char=1357
+8	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	start_char=1358|end_char=1361
+9	измерении	измерение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	conj	_	start_char=1362|end_char=1371
+10	?	?	PUNCT	_	_	3	punct	_	start_char=1371|end_char=1372
+
+# text = – Браво, возьми с полки пирожок.
+# sent_id = 24
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1373|end_char=1374
+2	Браво	браво	INTJ	_	_	4	discourse	_	start_char=1375|end_char=1380
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1380|end_char=1381
+4	возьми	взять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1382|end_char=1388
+5	с	с	ADP	_	_	6	case	_	start_char=1389|end_char=1390
+6	полки	полк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=1391|end_char=1396
+7	пирожок	пирожок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1397|end_char=1404
+8	.	.	PUNCT	_	_	4	punct	_	start_char=1404|end_char=1405
+
+# text = – Да сколько ж можно…
+# sent_id = 25
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1406|end_char=1407
+2	Да	да	CCONJ	_	_	5	cc	_	start_char=1408|end_char=1410
+3	сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nsubj	_	start_char=1411|end_char=1418
+4	ж	ж	PART	_	_	3	advmod	_	start_char=1419|end_char=1420
+5	можно	можно	VERB	_	_	0	root	_	start_char=1421|end_char=1426
+6	…	…	PUNCT	_	_	5	punct	_	start_char=1426|end_char=1427
+
+# text = – Хорошо, не бери пирожок.
+# sent_id = 26
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1428|end_char=1429
+2	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1430|end_char=1436
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1436|end_char=1437
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1438|end_char=1440
+5	бери	брать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1441|end_char=1445
+6	пирожок	пирожок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1446|end_char=1453
+7	.	.	PUNCT	_	_	2	punct	_	start_char=1453|end_char=1454
+
+# text = – Тогда что ты предлагаешь?
+# sent_id = 27
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1455|end_char=1456
+2	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1457|end_char=1462
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=1463|end_char=1466
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=1467|end_char=1469
+5	предлагаешь	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1470|end_char=1481
+6	?	?	PUNCT	_	_	5	punct	_	start_char=1481|end_char=1482
+
+# text = – Переписать тут время, как будто не было нашего вмешательства…
+# sent_id = 28
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1483|end_char=1484
+2	Переписать	переписать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1485|end_char=1495
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=1496|end_char=1499
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=1500|end_char=1505
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1505|end_char=1506
+6	как	как	SCONJ	_	_	9	mark	_	start_char=1507|end_char=1510
+7	будто	будто	PART	_	_	6	fixed	_	start_char=1511|end_char=1516
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1517|end_char=1519
+9	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=1520|end_char=1524
+10	нашего	наш	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	start_char=1525|end_char=1531
+11	вмешательства	вмешательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nsubj	_	start_char=1532|end_char=1545
+12	…	…	PUNCT	_	_	2	punct	_	start_char=1545|end_char=1546
+
+# text = – До какого момента?
+# sent_id = 29
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1547|end_char=1548
+2	До	до	ADP	_	_	4	case	_	start_char=1549|end_char=1551
+3	какого	какой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	4	det	_	start_char=1552|end_char=1558
+4	момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=1559|end_char=1566
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1566|end_char=1567
+
+# text = Ривер пожала плечами.
+# sent_id = 30
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	2	nsubj	_	start_char=1568|end_char=1573
+2	пожала	пожать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1574|end_char=1580
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	iobj	_	start_char=1581|end_char=1588
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1588|end_char=1589
+
+# text = – Ну, не знаю…
+# sent_id = 31
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1591|end_char=1592
+2	Ну	ну	PART	_	_	5	discourse	_	start_char=1593|end_char=1595
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1595|end_char=1596
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1597|end_char=1599
+5	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1600|end_char=1604
+6	…	…	PUNCT	_	_	5	punct	_	start_char=1604|end_char=1605
+
+# text = Наверное, пока они все были живы.
+# sent_id = 32
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Наверное	наверное	ADV	_	Degree=Pos	7	parataxis	_	start_char=1606|end_char=1614
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1614|end_char=1615
+3	пока	пока	SCONJ	_	_	7	mark	_	start_char=1616|end_char=1620
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=1621|end_char=1624
+5	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	4	det	_	start_char=1625|end_char=1628
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=1629|end_char=1633
+7	живы	живой	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1634|end_char=1638
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1638|end_char=1639
+
+# text = – Все? – скептически переспросил Мастер.
+# sent_id = 33
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1640|end_char=1641
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=1642|end_char=1645
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1645|end_char=1646
+4	–	–	PUNCT	_	_	6	punct	_	start_char=1647|end_char=1648
+5	скептически	скептически	ADV	_	Degree=Pos	6	advmod	_	start_char=1649|end_char=1660
+6	переспросил	переспросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1661|end_char=1672
+7	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1673|end_char=1679
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1679|end_char=1680
+
+# text = – Все, – твердо ответила Ривер.
+# sent_id = 34
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1681|end_char=1682
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=1683|end_char=1686
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1686|end_char=1687
+4	–	–	PUNCT	_	_	6	punct	_	start_char=1688|end_char=1689
+5	твердо	твердо	ADV	_	Degree=Pos	6	advmod	_	start_char=1690|end_char=1696
+6	ответила	ответить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1697|end_char=1705
+7	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	6	nsubj	_	start_char=1706|end_char=1711
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1711|end_char=1712
+
+# text = – Иначе за последствия я не отвечаю.
+# sent_id = 35
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1713|end_char=1714
+2	Иначе	иначе	CCONJ	_	_	7	cc	_	start_char=1715|end_char=1720
+3	за	за	ADP	_	_	4	case	_	start_char=1721|end_char=1723
+4	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=1724|end_char=1735
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=1736|end_char=1737
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1738|end_char=1740
+7	отвечаю	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1741|end_char=1748
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1748|end_char=1749
+
+# text = – Но им же ничто не мешает снова…
+# sent_id = 36
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1750|end_char=1751
+2	Но	но	CCONJ	_	_	7	cc	_	start_char=1752|end_char=1754
+3	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	iobj	_	start_char=1755|end_char=1757
+4	же	же	PART	_	_	3	advmod	_	start_char=1758|end_char=1760
+5	ничто	ничто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	7	nsubj	_	start_char=1761|end_char=1766
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1767|end_char=1769
+7	мешает	мешать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1770|end_char=1776
+8	снова	снова	ADV	_	Degree=Pos	7	advmod	_	start_char=1777|end_char=1782
+9	…	…	PUNCT	_	_	7	punct	_	start_char=1782|end_char=1783
+
+# text = – А это, дорогой, уже их проблемы.
+# sent_id = 37
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	9	punct	_	start_char=1784|end_char=1785
+2	А	а	CCONJ	_	_	9	cc	_	start_char=1786|end_char=1787
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=1788|end_char=1791
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1791|end_char=1792
+5	дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1793|end_char=1800
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1800|end_char=1801
+7	уже	уже	ADV	_	Degree=Pos	8	advmod	_	start_char=1802|end_char=1805
+8	их	их	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=1806|end_char=1808
+9	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=1809|end_char=1817
+10	.	.	PUNCT	_	_	9	punct	_	start_char=1817|end_char=1818
+
+# text = Можем, правда, сделать кое-что еще…
+# sent_id = 38
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=1819|end_char=1824
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1824|end_char=1825
+3	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	start_char=1826|end_char=1832
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1832|end_char=1833
+5	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1834|end_char=1841
+6	кое	кое-что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind|Typo=Yes	5	obj	_	start_char=1842|end_char=1845
+7	-что	-что	X	_	_	6	advmod	_	start_char=1845|end_char=1849
+8	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=1850|end_char=1853
+9	…	…	PUNCT	_	_	5	punct	_	start_char=1853|end_char=1854
+
+# text = – Что?
+# sent_id = 39
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1855|end_char=1856
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1857|end_char=1860
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1860|end_char=1861
+
+# text = – Пустить в систему циркуляции воздуха на базе и вообще по планете немного веселящего газа.
+# sent_id = 40
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1862|end_char=1863
+2	Пустить	пустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1864|end_char=1871
+3	в	в	ADP	_	_	4	case	_	start_char=1872|end_char=1873
+4	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=1874|end_char=1881
+5	циркуляции	циркуляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=1882|end_char=1892
+6	воздуха	воздух	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=1893|end_char=1900
+7	на	на	ADP	_	_	8	case	_	start_char=1901|end_char=1903
+8	базе	база	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	start_char=1904|end_char=1908
+9	и	и	CCONJ	_	_	12	cc	_	start_char=1909|end_char=1910
+10	вообще	вообще	ADV	_	Degree=Pos	12	advmod	_	start_char=1911|end_char=1917
+11	по	по	ADP	_	_	12	case	_	start_char=1918|end_char=1920
+12	планете	планета	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	conj	_	start_char=1921|end_char=1928
+13	немного	немного	NUM	_	Case=Nom|NumForm=Word|NumType=Card	15	nummod:gov	_	start_char=1929|end_char=1936
+14	веселящего	веселящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=1937|end_char=1947
+15	газа	газ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=1948|end_char=1952
+16	.	.	PUNCT	_	_	2	punct	_	start_char=1952|end_char=1953
+
+# text = Это наверняка повысит у всех дружелюбие, по крайней мере, убережет от случайных фатальных ошибок.
+# sent_id = 41
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1954|end_char=1957
+2	наверняка	наверняка	ADV	_	Degree=Pos	3	advmod	_	start_char=1958|end_char=1967
+3	повысит	повысить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1968|end_char=1975
+4	у	у	ADP	_	_	5	case	_	start_char=1976|end_char=1977
+5	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Tot	3	obl	_	start_char=1978|end_char=1982
+6	дружелюбие	дружелюбие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	start_char=1983|end_char=1993
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1993|end_char=1994
+8	по	по	ADP	_	_	12	parataxis	_	start_char=1995|end_char=1997
+9	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	fixed	_	start_char=1998|end_char=2005
+10	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	fixed	_	start_char=2006|end_char=2010
+11	,	,	PUNCT	_	_	8	punct	_	start_char=2010|end_char=2011
+12	убережет	уберечь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2012|end_char=2020
+13	от	от	ADP	_	_	16	case	_	start_char=2021|end_char=2023
+14	случайных	случайный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	start_char=2024|end_char=2033
+15	фатальных	фатальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	start_char=2034|end_char=2043
+16	ошибок	ошибка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	obl	_	start_char=2044|end_char=2050
+17	.	.	PUNCT	_	_	3	punct	_	start_char=2050|end_char=2051
+
+# text = Мастер вздохнул.
+# sent_id = 42
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2052|end_char=2058
+2	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2059|end_char=2067
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2067|end_char=2068
+
+# text = – Почти как Звездная Федерация.
+# sent_id = 43
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2069|end_char=2070
+2	Почти	почти	ADV	_	Degree=Pos	5	advmod	_	start_char=2071|end_char=2076
+3	как	как	SCONJ	_	_	5	case	_	start_char=2077|end_char=2080
+4	Звездная	звездный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2081|end_char=2089
+5	Федерация	федерация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2090|end_char=2099
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2099|end_char=2100
+
+# text = Знаешь, они…
+# sent_id = 44
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2101|end_char=2107
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2107|end_char=2108
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	start_char=2109|end_char=2112
+4	…	…	PUNCT	_	_	1	punct	_	start_char=2112|end_char=2113
+
+# text = – Ну вот видишь, мы все вернем на место, в соответствии с их местными традициями.
+# sent_id = 45
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	8	punct	_	start_char=2114|end_char=2115
+2	Ну	ну	PART	_	_	4	discourse	_	start_char=2116|end_char=2118
+3	вот	вот	PART	_	_	4	advmod	_	start_char=2119|end_char=2122
+4	видишь	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=2123|end_char=2129
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2129|end_char=2130
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=2131|end_char=2133
+7	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	6	det	_	start_char=2134|end_char=2137
+8	вернем	вернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2138|end_char=2144
+9	на	на	ADP	_	_	10	case	_	start_char=2145|end_char=2147
+10	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	start_char=2148|end_char=2153
+11	,	,	PUNCT	_	_	17	punct	_	start_char=2153|end_char=2154
+12	в	в	ADP	_	_	17	case	_	start_char=2155|end_char=2156
+13	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	fixed	_	start_char=2157|end_char=2169
+14	с	с	ADP	_	_	12	fixed	_	start_char=2170|end_char=2171
+15	их	их	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=2172|end_char=2174
+16	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	start_char=2175|end_char=2183
+17	традициями	традиция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	8	obl	_	start_char=2184|end_char=2194
+18	.	.	PUNCT	_	_	8	punct	_	start_char=2194|end_char=2195
+
+# text = А потом уж как-нибудь разберутся.
+# sent_id = 46
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	А	а	CCONJ	_	_	5	cc	_	start_char=2196|end_char=2197
+2	потом	потом	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2198|end_char=2203
+3	уж	уж	PART	_	_	4	advmod	_	start_char=2204|end_char=2206
+4	как-нибудь	как-нибудь	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=2207|end_char=2217
+5	разберутся	разбераться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2218|end_char=2228
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2228|end_char=2229
+
+# text = Главное, без нас.
+# sent_id = 47
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	parataxis	_	start_char=2230|end_char=2237
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2237|end_char=2238
+3	без	без	ADP	_	_	4	case	_	start_char=2239|end_char=2242
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=2243|end_char=2246
+5	.	.	PUNCT	_	_	1	punct	_	start_char=2246|end_char=2247
+
+# text = Я даже знаю, кто им поможет разобраться…
+# sent_id = 48
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2248|end_char=2249
+2	даже	даже	PART	_	_	3	advmod	_	start_char=2250|end_char=2254
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2255|end_char=2259
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2259|end_char=2260
+5	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	start_char=2261|end_char=2264
+6	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	iobj	_	start_char=2265|end_char=2267
+7	поможет	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2268|end_char=2275
+8	разобраться	разобраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=2276|end_char=2287
+9	…	…	PUNCT	_	_	3	punct	_	start_char=2287|end_char=2288
+
+# text = – Кто? – спросил сбитый с толку Мастер.
+# sent_id = 49
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2289|end_char=2290
+2	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=2291|end_char=2294
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2294|end_char=2295
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2296|end_char=2297
+5	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2298|end_char=2305
+6	сбитый	сбить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	start_char=2306|end_char=2312
+7	с	с	ADP	_	_	8	case	_	start_char=2313|end_char=2314
+8	толку	толк	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	6	obl	_	start_char=2315|end_char=2320
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2321|end_char=2327
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2327|end_char=2328
+
+# text = – Терри Нейшн – был один такой земной мальчик, я ему когда-то рассказывала много сказок.
+# sent_id = 50
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2330|end_char=2331
+2	Терри	Терри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=2332|end_char=2337
+3	Нейшн	Нейшн	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=2338|end_char=2343
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2344|end_char=2345
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2346|end_char=2349
+6	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	start_char=2350|end_char=2354
+7	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	start_char=2355|end_char=2360
+8	земной	земный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=2361|end_char=2367
+9	мальчик	мальчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2368|end_char=2375
+10	,	,	PUNCT	_	_	14	punct	_	start_char=2375|end_char=2376
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=2377|end_char=2378
+12	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	start_char=2379|end_char=2382
+13	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	14	advmod	_	start_char=2383|end_char=2391
+14	рассказывала	рассказывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2392|end_char=2404
+15	много	много	NUM	_	Case=Acc|NumForm=Word|NumType=Card	16	nummod:gov	_	start_char=2405|end_char=2410
+16	сказок	сказка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	obj	_	start_char=2411|end_char=2417
+17	.	.	PUNCT	_	_	2	punct	_	start_char=2417|end_char=2418
+
+# text = Если мы перенесем его в итоге сюда, то в его личной хронологии ничего не изменится – скорбящие родственники ничего не заметят.
+# sent_id = 51
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Если	если	SCONJ	_	_	3	mark	_	start_char=2419|end_char=2423
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=2424|end_char=2426
+3	перенесем	перенести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=2427|end_char=2436
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=2437|end_char=2440
+5	в	в	ADP	_	_	6	case	_	start_char=2441|end_char=2442
+6	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=2443|end_char=2448
+7	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2449|end_char=2453
+8	,	,	PUNCT	_	_	3	punct	_	start_char=2453|end_char=2454
+9	то	то	SCONJ	_	_	16	mark	_	start_char=2455|end_char=2457
+10	в	в	ADP	_	_	13	case	_	start_char=2458|end_char=2459
+11	его	его	DET	_	Poss=Yes|PronType=Prs	13	det	_	start_char=2460|end_char=2463
+12	личной	личный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=2464|end_char=2470
+13	хронологии	хронология	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	_	start_char=2471|end_char=2481
+14	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	16	nsubj	_	start_char=2482|end_char=2488
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=2489|end_char=2491
+16	изменится	измениться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2492|end_char=2501
+17	–	–	PUNCT	_	_	22	punct	_	start_char=2502|end_char=2503
+18	скорбящие	скорбящий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	start_char=2504|end_char=2513
+19	родственники	родственник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	start_char=2514|end_char=2526
+20	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	22	obj	_	start_char=2527|end_char=2533
+21	не	не	PART	_	Polarity=Neg	22	advmod	_	start_char=2534|end_char=2536
+22	заметят	заметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	parataxis	_	start_char=2537|end_char=2544
+23	.	.	PUNCT	_	_	16	punct	_	start_char=2544|end_char=2545
+
+# text = – А. Гм…
+# sent_id = 52
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2546|end_char=2547
+2	А.	А.	PROPN	_	Abbr=Yes|NameType=Giv	0	root	_	start_char=2548|end_char=2550
+3	Гм	Гм	X	_	Abbr=Yes	2	flat:foreign	_	start_char=2551|end_char=2553
+4	…	…	PUNCT	_	_	2	punct	_	start_char=2553|end_char=2554
+
+# text = Я бы не сказал, что это место выглядит комфортно…
+# sent_id = 53
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2555|end_char=2556
+2	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=2557|end_char=2559
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2560|end_char=2562
+4	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2563|end_char=2569
+5	,	,	PUNCT	_	_	9	punct	_	start_char=2569|end_char=2570
+6	что	что	SCONJ	_	_	9	mark	_	start_char=2571|end_char=2574
+7	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	start_char=2575|end_char=2578
+8	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	start_char=2579|end_char=2584
+9	выглядит	выглядеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=2585|end_char=2593
+10	комфортно	комфортно	ADV	_	Degree=Pos	9	advmod	_	start_char=2594|end_char=2603
+11	…	…	PUNCT	_	_	4	punct	_	start_char=2603|end_char=2604
+
+# text = – Это если кто-то мечтал о комфорте.
+# sent_id = 54
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2605|end_char=2606
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2607|end_char=2610
+3	если	если	SCONJ	_	_	5	mark	_	start_char=2611|end_char=2615
+4	кто-то	кто-то	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	start_char=2616|end_char=2622
+5	мечтал	мечтать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2623|end_char=2629
+6	о	о	ADP	_	_	7	case	_	start_char=2630|end_char=2631
+7	комфорте	комфорт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=2632|end_char=2640
+8	.	.	PUNCT	_	_	5	punct	_	start_char=2640|end_char=2641
+
+# text = А если мы поступим, как ты хотел с Донной – сделаем для него клона, значительно моложе…
+# sent_id = 55
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	А	а	CCONJ	_	_	12	cc	_	start_char=2642|end_char=2643
+2	если	если	SCONJ	_	_	4	mark	_	start_char=2644|end_char=2648
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=2649|end_char=2651
+4	поступим	поступить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	12	advcl	_	start_char=2652|end_char=2660
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2660|end_char=2661
+6	как	как	SCONJ	_	_	8	mark	_	start_char=2662|end_char=2665
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=2666|end_char=2668
+8	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=2669|end_char=2674
+9	с	с	ADP	_	_	10	case	_	start_char=2675|end_char=2676
+10	Донной	Донной	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|NameType=Giv|Number=Sing	8	obl	_	start_char=2677|end_char=2683
+11	–	–	PUNCT	_	_	4	punct	_	start_char=2684|end_char=2685
+12	сделаем	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2686|end_char=2693
+13	для	для	ADP	_	_	14	case	_	start_char=2694|end_char=2697
+14	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=2698|end_char=2702
+15	клона	клона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=2703|end_char=2708
+16	,	,	PUNCT	_	_	18	punct	_	start_char=2708|end_char=2709
+17	значительно	значительно	ADV	_	Degree=Pos	18	advmod	_	start_char=2710|end_char=2721
+18	моложе	молодой	ADJ	_	Degree=Cmp	12	conj	_	start_char=2722|end_char=2728
+19	…	…	PUNCT	_	_	12	punct	_	start_char=2728|end_char=2729
+
+# text = – Не понимаю, для чего нужна такая возня с каким-то человеческим существом? – нахмурился Мастер.
+# sent_id = 56
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2730|end_char=2731
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2732|end_char=2734
+3	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2735|end_char=2742
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2742|end_char=2743
+5	для	для	ADP	_	_	6	case	_	start_char=2744|end_char=2747
+6	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	7	obl	_	start_char=2748|end_char=2752
+7	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	ccomp	_	start_char=2753|end_char=2758
+8	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=2759|end_char=2764
+9	возня	вознь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=2765|end_char=2770
+10	с	с	ADP	_	_	13	case	_	start_char=2771|end_char=2772
+11	каким-то	какой-то	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	13	det	_	start_char=2773|end_char=2781
+12	человеческим	человеческий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=2782|end_char=2794
+13	существом	существо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	nmod	_	start_char=2795|end_char=2804
+14	?	?	PUNCT	_	_	3	punct	_	start_char=2804|end_char=2805
+15	–	–	PUNCT	_	_	16	punct	_	start_char=2806|end_char=2807
+16	нахмурился	нахмуриться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=2808|end_char=2818
+17	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=2819|end_char=2825
+18	.	.	PUNCT	_	_	3	punct	_	start_char=2825|end_char=2826
+
+# text = – Просто ты еще не знаешь, какое значение он играет в нашей собственной истории.
+# sent_id = 57
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2827|end_char=2828
+2	Просто	просто	PART	_	_	6	advmod	_	start_char=2829|end_char=2835
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=2836|end_char=2838
+4	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=2839|end_char=2842
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2843|end_char=2845
+6	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2846|end_char=2852
+7	,	,	PUNCT	_	_	11	punct	_	start_char=2852|end_char=2853
+8	какое	какой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	det	_	start_char=2854|end_char=2859
+9	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	start_char=2860|end_char=2868
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=2869|end_char=2871
+11	играет	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=2872|end_char=2878
+12	в	в	ADP	_	_	15	case	_	start_char=2879|end_char=2880
+13	нашей	наш	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=2881|end_char=2886
+14	собственной	собственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=2887|end_char=2898
+15	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	start_char=2899|end_char=2906
+16	.	.	PUNCT	_	_	6	punct	_	start_char=2906|end_char=2907
+
+# text = – А… – Спойлеры, котейко!
+# sent_id = 58
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2908|end_char=2909
+2	А	а	CCONJ	_	_	5	cc	_	start_char=2910|end_char=2911
+3	…	…	PUNCT	_	_	5	punct	_	start_char=2911|end_char=2912
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2913|end_char=2914
+5	Спойлеры	спойлер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2915|end_char=2923
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2923|end_char=2924
+7	котейко	котейко	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	start_char=2925|end_char=2932
+8	!	!	PUNCT	_	_	5	punct	_	start_char=2932|end_char=2933
+
+# text = – Ладно, а если у него все-таки будут проблемы, прилетим и колонизируем эту планету, и будет тут Нью-Гауда Прайм!.. 2013
+# sent_id = 59
+# metadata = Название: Нью-Гауда Прайм, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479aad700000a7f19d5263a/1/Nyu-Gauda-Prajm
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2934|end_char=2935
+2	Ладно	ладно	PART	_	_	0	root	_	start_char=2936|end_char=2941
+3	,	,	PUNCT	_	_	12	punct	_	start_char=2941|end_char=2942
+4	а	а	CCONJ	_	_	12	cc	_	start_char=2943|end_char=2944
+5	если	если	SCONJ	_	_	7	mark	_	start_char=2945|end_char=2949
+6	у	у	ADP	_	_	7	case	_	start_char=2950|end_char=2951
+7	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	advcl	_	start_char=2952|end_char=2956
+8	все-таки	все-таки	PART	_	_	9	advmod	_	start_char=2957|end_char=2965
+9	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	advcl	_	start_char=2966|end_char=2971
+10	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	start_char=2972|end_char=2980
+11	,	,	PUNCT	_	_	7	punct	_	start_char=2980|end_char=2981
+12	прилетим	прилететь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2982|end_char=2990
+13	и	и	CCONJ	_	_	14	cc	_	start_char=2991|end_char=2992
+14	колонизируем	колонизировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	start_char=2993|end_char=3005
+15	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	start_char=3006|end_char=3009
+16	планету	планета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=3010|end_char=3017
+17	,	,	PUNCT	_	_	19	punct	_	start_char=3017|end_char=3018
+18	и	и	CCONJ	_	_	19	cc	_	start_char=3019|end_char=3020
+19	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	conj	_	start_char=3021|end_char=3026
+20	тут	тут	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=3027|end_char=3030
+21	Нью-Гауда	Нью-Гауд	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	19	nsubj	_	start_char=3031|end_char=3040
+22	Прайм	Прайм	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	21	appos	_	start_char=3041|end_char=3046
+23	!..	!..	PUNCT	_	_	24	punct	_	start_char=3046|end_char=3049
+24	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	21	nmod	_	start_char=3051|end_char=3055
+

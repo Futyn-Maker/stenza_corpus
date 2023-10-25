@@ -1,0 +1,572 @@
+# text = Джека застали едва не на пороге Черного Архива, и за каким занятием?!
+# sent_id = 0
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Джека	Джека	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	2	obj	_	start_char=0|end_char=5
+2	застали	застать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6|end_char=13
+3	едва	едва	ADV	_	Degree=Pos	6	advmod	_	start_char=14|end_char=18
+4	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=19|end_char=21
+5	на	на	ADP	_	_	6	case	_	start_char=22|end_char=24
+6	пороге	порог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=25|end_char=31
+7	Черного	черный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=32|end_char=39
+8	Архива	архив	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=40|end_char=46
+9	,	,	PUNCT	_	_	13	punct	_	start_char=46|end_char=47
+10	и	и	CCONJ	_	_	13	cc	_	start_char=48|end_char=49
+11	за	за	ADP	_	_	13	case	_	start_char=50|end_char=52
+12	каким	какой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	13	det	_	start_char=53|end_char=58
+13	занятием	занятие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	conj	_	start_char=59|end_char=67
+14	?!	?!	PUNCT	_	_	2	punct	_	start_char=67|end_char=69
+
+# text = Он не пытался взломать замок, не выносил редкие инопланетные артефакты, даже не листал секретные документы – он прилаживал омелу под потолок!
+# sent_id = 1
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=70|end_char=72
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=73|end_char=75
+3	пытался	пытаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=76|end_char=83
+4	взломать	взломать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=84|end_char=92
+5	замок	замок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=93|end_char=98
+6	,	,	PUNCT	_	_	8	punct	_	start_char=98|end_char=99
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=100|end_char=102
+8	выносил	выносить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=103|end_char=110
+9	редкие	редкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	start_char=111|end_char=117
+10	инопланетные	инопланетный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	start_char=118|end_char=130
+11	артефакты	артефакт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=131|end_char=140
+12	,	,	PUNCT	_	_	15	punct	_	start_char=140|end_char=141
+13	даже	даже	PART	_	_	15	advmod	_	start_char=142|end_char=146
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=147|end_char=149
+15	листал	листать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=150|end_char=156
+16	секретные	секретный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	start_char=157|end_char=166
+17	документы	документ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	start_char=167|end_char=176
+18	–	–	PUNCT	_	_	20	punct	_	start_char=177|end_char=178
+19	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=179|end_char=181
+20	прилаживал	прилаживать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=182|end_char=192
+21	омелу	омел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	start_char=193|end_char=198
+22	под	под	ADP	_	_	23	case	_	start_char=199|end_char=202
+23	потолок	потолок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	start_char=203|end_char=210
+24	!	!	PUNCT	_	_	3	punct	_	start_char=210|end_char=211
+
+# text = – Джек Харкнесс... – больше устало, чем раздраженно, начала речь глава ЮНИТа.
+# sent_id = 2
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=212|end_char=213
+2	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=214|end_char=218
+3	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=219|end_char=227
+4	...	...	PUNCT	_	_	2	punct	_	start_char=227|end_char=230
+5	–	–	PUNCT	_	_	12	punct	_	start_char=231|end_char=232
+6	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	7	advmod	_	start_char=233|end_char=239
+7	устало	устало	ADV	_	Degree=Pos	12	advmod	_	start_char=240|end_char=246
+8	,	,	PUNCT	_	_	10	punct	_	start_char=246|end_char=247
+9	чем	чем	SCONJ	_	_	10	case	_	start_char=248|end_char=251
+10	раздраженно	раздраженный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	advcl	_	start_char=252|end_char=263
+11	,	,	PUNCT	_	_	7	punct	_	start_char=263|end_char=264
+12	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=265|end_char=271
+13	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	start_char=272|end_char=276
+14	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=277|end_char=282
+15	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	14	nmod	_	start_char=283|end_char=288
+16	.	.	PUNCT	_	_	2	punct	_	start_char=288|end_char=289
+
+# text = – Капитан Джек Харкнесс! – автоматически поправил капитан, не забыв улыбнуться.
+# sent_id = 3
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=290|end_char=291
+2	Капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=292|end_char=299
+3	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	start_char=300|end_char=304
+4	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	start_char=305|end_char=313
+5	!	!	PUNCT	_	_	2	punct	_	start_char=313|end_char=314
+6	–	–	PUNCT	_	_	8	punct	_	start_char=315|end_char=316
+7	автоматически	автоматически	ADV	_	Degree=Pos	8	advmod	_	start_char=317|end_char=330
+8	поправил	поправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=331|end_char=339
+9	капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=340|end_char=347
+10	,	,	PUNCT	_	_	12	punct	_	start_char=347|end_char=348
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=349|end_char=351
+12	забыв	забыть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=352|end_char=357
+13	улыбнуться	улыбнуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	xcomp	_	start_char=358|end_char=368
+14	.	.	PUNCT	_	_	2	punct	_	start_char=368|end_char=369
+
+# text = – Капитан Джек Харкнесс, я даже не буду спрашивать, как вы пробрались сюда...
+# sent_id = 4
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	10	punct	_	start_char=370|end_char=371
+2	Капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	start_char=372|end_char=379
+3	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	start_char=380|end_char=384
+4	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	start_char=385|end_char=393
+5	,	,	PUNCT	_	_	2	punct	_	start_char=393|end_char=394
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=395|end_char=396
+7	даже	даже	PART	_	_	10	advmod	_	start_char=397|end_char=401
+8	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=402|end_char=404
+9	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	aux	_	start_char=405|end_char=409
+10	спрашивать	спрашивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=410|end_char=420
+11	,	,	PUNCT	_	_	14	punct	_	start_char=420|end_char=421
+12	как	как	ADV	_	Degree=Pos|PronType=Rel	14	advmod	_	start_char=422|end_char=425
+13	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	14	nsubj	_	start_char=426|end_char=428
+14	пробрались	пробраться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	10	ccomp	_	start_char=429|end_char=439
+15	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=440|end_char=444
+16	...	...	PUNCT	_	_	10	punct	_	start_char=444|end_char=447
+
+# text = – Как будто это такое засекреченное место!
+# sent_id = 5
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=448|end_char=449
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	7	advmod	_	start_char=450|end_char=453
+3	будто	будто	PART	_	_	2	fixed	_	start_char=454|end_char=459
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=460|end_char=463
+5	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	start_char=464|end_char=469
+6	засекреченное	засекреченный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=470|end_char=483
+7	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=484|end_char=489
+8	!	!	PUNCT	_	_	7	punct	_	start_char=489|end_char=490
+
+# text = У вас же сегодня здесь рождественская вечеринка, тут будет масса постороннего для вашей организации народа.
+# sent_id = 6
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	У	у	ADP	_	_	2	case	_	start_char=491|end_char=492
+2	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	0	root	_	start_char=493|end_char=496
+3	же	же	PART	_	_	2	advmod	_	start_char=497|end_char=499
+4	сегодня	сегодня	ADV	_	Degree=Pos	2	advmod	_	start_char=500|end_char=507
+5	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=508|end_char=513
+6	рождественская	рождественский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=514|end_char=528
+7	вечеринка	вечеринка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=529|end_char=538
+8	,	,	PUNCT	_	_	10	punct	_	start_char=538|end_char=539
+9	тут	тут	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=540|end_char=543
+10	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=544|end_char=549
+11	масса	масса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=550|end_char=555
+12	постороннего	посторонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	nmod	_	start_char=556|end_char=568
+13	для	для	ADP	_	_	15	case	_	start_char=569|end_char=572
+14	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=573|end_char=578
+15	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=579|end_char=590
+16	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	start_char=591|end_char=597
+17	.	.	PUNCT	_	_	2	punct	_	start_char=597|end_char=598
+
+# text = Куда более постороннего, чем я!
+# sent_id = 7
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Куда	куда	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=599|end_char=603
+2	более	более	ADV	_	Degree=Cmp|PronType=Tot	3	advmod	_	start_char=604|end_char=609
+3	постороннего	посторонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	nsubj	_	start_char=610|end_char=622
+4	,	,	PUNCT	_	_	6	punct	_	start_char=622|end_char=623
+5	чем	чем	SCONJ	_	_	6	case	_	start_char=624|end_char=627
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=628|end_char=629
+7	!	!	PUNCT	_	_	1	punct	_	start_char=629|end_char=630
+
+# text = Музыканты, официанты, повара, Санта Клаус!
+# sent_id = 8
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Музыканты	музыкант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=631|end_char=640
+2	,	,	PUNCT	_	_	3	punct	_	start_char=640|end_char=641
+3	официанты	официант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	start_char=642|end_char=651
+4	,	,	PUNCT	_	_	5	punct	_	start_char=651|end_char=652
+5	повара	повар	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	start_char=653|end_char=659
+6	,	,	PUNCT	_	_	7	punct	_	start_char=659|end_char=660
+7	Санта	Санта	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	conj	_	start_char=661|end_char=666
+8	Клаус	Клаус	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	7	flat:name	_	start_char=667|end_char=672
+9	!	!	PUNCT	_	_	1	punct	_	start_char=672|end_char=673
+
+# text = Заметьте, в отличие от меня совершенно подозрительный тип, прячущий свое истинное лицо за накладной бородой...
+# sent_id = 9
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Заметьте	заметить	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=674|end_char=682
+2	,	,	PUNCT	_	_	6	punct	_	start_char=682|end_char=683
+3	в	в	ADP	_	_	6	case	_	start_char=684|end_char=685
+4	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	fixed	_	start_char=686|end_char=693
+5	от	от	ADP	_	_	3	fixed	_	start_char=694|end_char=696
+6	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obl	_	start_char=697|end_char=701
+7	совершенно	совершенно	ADV	_	Degree=Pos	8	advmod	_	start_char=702|end_char=712
+8	подозрительный	подозрительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=713|end_char=727
+9	тип	тип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=728|end_char=731
+10	,	,	PUNCT	_	_	11	punct	_	start_char=731|end_char=732
+11	прячущий	прятать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	start_char=733|end_char=741
+12	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=742|end_char=746
+13	истинное	истинный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=747|end_char=755
+14	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	start_char=756|end_char=760
+15	за	за	ADP	_	_	17	case	_	start_char=761|end_char=763
+16	накладной	накладной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=764|end_char=773
+17	бородой	борода	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	start_char=774|end_char=781
+18	...	...	PUNCT	_	_	1	punct	_	start_char=781|end_char=784
+
+# text = Осгуд, все это время тихо стоявшая за своей начальницей, тихо хихикнула.
+# sent_id = 10
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Осгуд	осгуд	INTJ	_	_	13	discourse	_	start_char=785|end_char=790
+2	,	,	PUNCT	_	_	1	punct	_	start_char=790|end_char=791
+3	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	start_char=792|end_char=795
+4	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	start_char=796|end_char=799
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	start_char=800|end_char=805
+6	тихо	тихо	ADV	_	Degree=Pos	7	advmod	_	start_char=806|end_char=810
+7	стоявшая	стоять	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	13	advcl	_	start_char=811|end_char=819
+8	за	за	ADP	_	_	10	case	_	start_char=820|end_char=822
+9	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	start_char=823|end_char=828
+10	начальницей	начальница	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	start_char=829|end_char=840
+11	,	,	PUNCT	_	_	7	punct	_	start_char=840|end_char=841
+12	тихо	тихо	ADV	_	Degree=Pos	13	advmod	_	start_char=842|end_char=846
+13	хихикнула	хихикнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=847|end_char=856
+14	.	.	PUNCT	_	_	13	punct	_	start_char=856|end_char=857
+
+# text = – Они все прошли соответствующие проверки и обладают нужным уровнем доступа.
+# sent_id = 11
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=858|end_char=859
+2	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=860|end_char=863
+3	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	start_char=864|end_char=867
+4	прошли	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=868|end_char=874
+5	соответствующие	соответствующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	start_char=875|end_char=890
+6	проверки	проверка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=891|end_char=899
+7	и	и	CCONJ	_	_	8	cc	_	start_char=900|end_char=901
+8	обладают	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=902|end_char=910
+9	нужным	нужный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=911|end_char=917
+10	уровнем	уровень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	iobj	_	start_char=918|end_char=925
+11	доступа	доступ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=926|end_char=933
+12	.	.	PUNCT	_	_	4	punct	_	start_char=933|end_char=934
+
+# text = – Вы же понимаете, что только для знакомства со мной уже нужен уровень доступа, и возможно, повыше?
+# sent_id = 12
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=935|end_char=936
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=937|end_char=939
+3	же	же	PART	_	_	2	advmod	_	start_char=940|end_char=942
+4	понимаете	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=943|end_char=952
+5	,	,	PUNCT	_	_	13	punct	_	start_char=952|end_char=953
+6	что	что	SCONJ	_	_	13	mark	_	start_char=954|end_char=957
+7	только	только	PART	_	_	9	advmod	_	start_char=958|end_char=964
+8	для	для	ADP	_	_	9	case	_	start_char=965|end_char=968
+9	знакомства	знакомство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	start_char=969|end_char=979
+10	со	со	ADP	_	_	11	case	_	start_char=980|end_char=982
+11	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	9	nmod	_	start_char=983|end_char=987
+12	уже	уже	ADV	_	Degree=Pos	13	advmod	_	start_char=988|end_char=991
+13	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	ccomp	_	start_char=992|end_char=997
+14	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=998|end_char=1005
+15	доступа	доступ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=1006|end_char=1013
+16	,	,	PUNCT	_	_	20	punct	_	start_char=1013|end_char=1014
+17	и	и	CCONJ	_	_	20	cc	_	start_char=1015|end_char=1016
+18	возможно	возможно	ADV	_	Degree=Pos	20	parataxis	_	start_char=1017|end_char=1025
+19	,	,	PUNCT	_	_	18	punct	_	start_char=1025|end_char=1026
+20	повыше	высокий	ADJ	_	Degree=Cmp	13	conj	_	start_char=1027|end_char=1033
+21	?	?	PUNCT	_	_	4	punct	_	start_char=1033|end_char=1034
+
+# text = И если бы у вас была возможность, вы бы меня самого в качестве артефакта в своем самом тайном архиве заперли.
+# sent_id = 13
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	И	и	CCONJ	_	_	21	cc	_	start_char=1035|end_char=1036
+2	если	если	SCONJ	_	_	6	mark	_	start_char=1037|end_char=1041
+3	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=1042|end_char=1044
+4	у	у	ADP	_	_	5	case	_	start_char=1045|end_char=1046
+5	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	21	advcl	_	start_char=1047|end_char=1050
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	start_char=1051|end_char=1055
+7	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1056|end_char=1067
+8	,	,	PUNCT	_	_	6	punct	_	start_char=1067|end_char=1068
+9	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	21	nsubj	_	start_char=1069|end_char=1071
+10	бы	бы	AUX	_	Mood=Cnd	21	aux	_	start_char=1072|end_char=1074
+11	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	start_char=1075|end_char=1079
+12	самого	самый	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Emp	15	det	_	start_char=1080|end_char=1086
+13	в	в	ADP	_	_	15	case	_	start_char=1087|end_char=1088
+14	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	fixed	_	start_char=1089|end_char=1097
+15	артефакта	артефакт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	obl	_	start_char=1098|end_char=1107
+16	в	в	ADP	_	_	20	case	_	start_char=1108|end_char=1109
+17	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	start_char=1110|end_char=1115
+18	самом	самый	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Emp	19	det	_	start_char=1116|end_char=1121
+19	тайном	тайный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	start_char=1122|end_char=1128
+20	архиве	архив	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	obl	_	start_char=1129|end_char=1135
+21	заперли	запереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1136|end_char=1143
+22	.	.	PUNCT	_	_	21	punct	_	start_char=1143|end_char=1144
+
+# text = – Вы на это напрашиваетесь.
+# sent_id = 14
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1145|end_char=1146
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=1147|end_char=1149
+3	на	на	ADP	_	_	4	case	_	start_char=1150|end_char=1152
+4	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=1153|end_char=1156
+5	напрашиваетесь	напрашиваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1157|end_char=1171
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1171|end_char=1172
+
+# text = – Нет, совсем не на это, а на...
+# sent_id = 15
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1173|end_char=1174
+2	Нет	нет	PART	_	Polarity=Neg	7	parataxis	_	start_char=1175|end_char=1178
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1178|end_char=1179
+4	совсем	совсем	ADV	_	Degree=Pos	5	advmod	_	start_char=1180|end_char=1186
+5	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1187|end_char=1189
+6	на	на	ADP	_	_	7	case	_	start_char=1190|end_char=1192
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=1193|end_char=1196
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1196|end_char=1197
+9	а	а	CCONJ	_	_	10	cc	_	start_char=1198|end_char=1199
+10	на	на	ADP	_	_	7	conj	_	start_char=1200|end_char=1202
+11	...	...	PUNCT	_	_	7	punct	_	start_char=1202|end_char=1205
+
+# text = – Джек кивнул на наконец повешенную омелу.
+# sent_id = 16
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1206|end_char=1207
+2	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1208|end_char=1212
+3	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1213|end_char=1219
+4	на	на	ADP	_	_	7	case	_	start_char=1220|end_char=1222
+5	наконец	наконец	ADV	_	Degree=Pos	6	advmod	_	start_char=1223|end_char=1230
+6	повешенную	повестить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	start_char=1231|end_char=1241
+7	омелу	омел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=1242|end_char=1247
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1247|end_char=1248
+
+# text = – Джек Ха...
+# sent_id = 17
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1249|end_char=1250
+2	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=1251|end_char=1255
+3	Ха	Ха	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=1256|end_char=1258
+4	...	...	PUNCT	_	_	2	punct	_	start_char=1258|end_char=1261
+
+# text = Простите, капитан Джек Харкнесс!..
+# sent_id = 18
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1262|end_char=1270
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1270|end_char=1271
+3	капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	start_char=1272|end_char=1279
+4	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	appos	_	start_char=1280|end_char=1284
+5	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	start_char=1285|end_char=1293
+6	!..	!..	PUNCT	_	_	1	punct	_	start_char=1293|end_char=1296
+
+# text = Осгуд, ингалятор...
+# sent_id = 19
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Осгуд	осгуд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1297|end_char=1302
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1302|end_char=1303
+3	ингалятор	ингалятор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=1304|end_char=1313
+4	...	...	PUNCT	_	_	1	punct	_	start_char=1313|end_char=1316
+
+# text = Капитан Джек Харкнесс!
+# sent_id = 20
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1317|end_char=1324
+2	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	appos	_	start_char=1325|end_char=1329
+3	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=1330|end_char=1338
+4	!	!	PUNCT	_	_	1	punct	_	start_char=1338|end_char=1339
+
+# text = Кажется, вы отстали от жизни лет примерно на пятьдесят.
+# sent_id = 21
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=1340|end_char=1347
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1347|end_char=1348
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=1349|end_char=1351
+4	отстали	отстать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1352|end_char=1359
+5	от	от	ADP	_	_	6	case	_	start_char=1360|end_char=1362
+6	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=1363|end_char=1368
+7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	start_char=1369|end_char=1372
+8	примерно	примерно	ADV	_	Degree=Pos	10	advmod	_	start_char=1373|end_char=1381
+9	на	на	ADP	_	_	10	case	_	start_char=1382|end_char=1384
+10	пятьдесят	пятьдесьта	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	obl	_	start_char=1385|end_char=1394
+11	.	.	PUNCT	_	_	4	punct	_	start_char=1394|end_char=1395
+
+# text = – Это же традиция!
+# sent_id = 22
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1396|end_char=1397
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=1398|end_char=1401
+3	же	же	PART	_	_	2	advmod	_	start_char=1402|end_char=1404
+4	традиция	традиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1405|end_char=1413
+5	!	!	PUNCT	_	_	4	punct	_	start_char=1413|end_char=1414
+
+# text = – возмутился капитан.
+# sent_id = 23
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1415|end_char=1416
+2	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1417|end_char=1427
+3	капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1428|end_char=1435
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1435|end_char=1436
+
+# text = – Сейчас двум людям со взаимными чувствами нет необходимости оправдывать поцелуи стоянием под омелой и следованием древним традициям.
+# sent_id = 24
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	8	punct	_	start_char=1437|end_char=1438
+2	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=1439|end_char=1445
+3	двум	два	NUM	_	Case=Dat|NumForm=Word|NumType=Card	4	nummod	_	start_char=1446|end_char=1450
+4	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	start_char=1451|end_char=1456
+5	со	со	ADP	_	_	7	case	_	start_char=1457|end_char=1459
+6	взаимными	взаимный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	start_char=1460|end_char=1469
+7	чувствами	чувство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	8	obl	_	start_char=1470|end_char=1479
+8	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=1480|end_char=1483
+9	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nsubj	_	start_char=1484|end_char=1497
+10	оправдывать	оправдывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	acl	_	start_char=1498|end_char=1509
+11	поцелуи	поцелуй	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=1510|end_char=1517
+12	стоянием	стояние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	iobj	_	start_char=1518|end_char=1526
+13	под	под	ADP	_	_	14	case	_	start_char=1527|end_char=1530
+14	омелой	омела	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	start_char=1531|end_char=1537
+15	и	и	CCONJ	_	_	16	cc	_	start_char=1538|end_char=1539
+16	следованием	следование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	conj	_	start_char=1540|end_char=1551
+17	древним	древний	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	18	amod	_	start_char=1552|end_char=1559
+18	традициям	традиция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	16	nmod	_	start_char=1560|end_char=1569
+19	.	.	PUNCT	_	_	8	punct	_	start_char=1569|end_char=1570
+
+# text = А для всех остальных это может быть прекрасным поводом подать в суд за сексуальное преследование.
+# sent_id = 25
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	А	а	CCONJ	_	_	6	cc	_	start_char=1571|end_char=1572
+2	для	для	ADP	_	_	4	case	_	start_char=1573|end_char=1576
+3	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	4	det	_	start_char=1577|end_char=1581
+4	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	obl	_	start_char=1582|end_char=1591
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1592|end_char=1595
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1596|end_char=1601
+7	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	cop	_	start_char=1602|end_char=1606
+8	прекрасным	прекрасный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1607|end_char=1617
+9	поводом	повод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	xcomp	_	start_char=1618|end_char=1625
+10	подать	подать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	acl	_	start_char=1626|end_char=1632
+11	в	в	ADP	_	_	12	case	_	start_char=1633|end_char=1634
+12	суд	суд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=1635|end_char=1638
+13	за	за	ADP	_	_	15	case	_	start_char=1639|end_char=1641
+14	сексуальное	сексуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=1642|end_char=1653
+15	преследование	преследование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obl	_	start_char=1654|end_char=1667
+16	.	.	PUNCT	_	_	6	punct	_	start_char=1667|end_char=1668
+
+# text = – Кейт, вы же глава...
+# sent_id = 26
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1669|end_char=1670
+2	Кейт	Кейт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	vocative	_	start_char=1671|end_char=1675
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1675|end_char=1676
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	start_char=1677|end_char=1679
+5	же	же	PART	_	_	4	advmod	_	start_char=1680|end_char=1682
+6	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1683|end_char=1688
+7	...	...	PUNCT	_	_	6	punct	_	start_char=1688|end_char=1691
+
+# text = –
+# sent_id = 27
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	0	root	_	start_char=1692|end_char=1693
+
+# text = С использованием служебного положения, что будет являться отягчающим обстоятельством.
+# sent_id = 28
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	С	с	ADP	_	_	2	case	_	start_char=1694|end_char=1695
+2	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	0	root	_	start_char=1696|end_char=1710
+3	служебного	служебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=1711|end_char=1721
+4	положения	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	start_char=1722|end_char=1731
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1731|end_char=1732
+6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	start_char=1733|end_char=1736
+7	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	_	start_char=1737|end_char=1742
+8	являться	являться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	acl:relcl	_	start_char=1743|end_char=1751
+9	отягчающим	отягчать	VERB	_	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	amod	_	start_char=1752|end_char=1762
+10	обстоятельством	обстоятельство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	xcomp	_	start_char=1763|end_char=1778
+11	.	.	PUNCT	_	_	2	punct	_	start_char=1778|end_char=1779
+
+# text = – Зато я вам не начальник, и можете попытаться подать на меня в суд – по документам меня не существует!
+# sent_id = 29
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1780|end_char=1781
+2	Зато	зато	CCONJ	_	_	6	cc	_	start_char=1782|end_char=1786
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1787|end_char=1788
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	start_char=1789|end_char=1792
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1793|end_char=1795
+6	начальник	начальник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1796|end_char=1805
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1805|end_char=1806
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1807|end_char=1808
+9	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=1809|end_char=1815
+10	попытаться	попытаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=1816|end_char=1826
+11	подать	подать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=1827|end_char=1833
+12	на	на	ADP	_	_	13	case	_	start_char=1834|end_char=1836
+13	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obl	_	start_char=1837|end_char=1841
+14	в	в	ADP	_	_	15	case	_	start_char=1842|end_char=1843
+15	суд	суд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=1844|end_char=1847
+16	–	–	PUNCT	_	_	21	punct	_	start_char=1848|end_char=1849
+17	по	по	ADP	_	_	18	case	_	start_char=1850|end_char=1852
+18	документам	документ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	21	obl	_	start_char=1853|end_char=1863
+19	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=1864|end_char=1868
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=1869|end_char=1871
+21	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=1872|end_char=1882
+22	!	!	PUNCT	_	_	6	punct	_	start_char=1882|end_char=1883
+
+# text = – Джек лукаво подмигнул главе ЮНИТа, сгреб ее в охапку и "традиционно" поцеловал.
+# sent_id = 30
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1884|end_char=1885
+2	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1886|end_char=1890
+3	лукаво	лукаво	ADV	_	Degree=Pos	4	advmod	_	start_char=1891|end_char=1897
+4	подмигнул	подмигнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1898|end_char=1907
+5	главе	глава	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	start_char=1908|end_char=1913
+6	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	5	nmod	_	start_char=1914|end_char=1919
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1919|end_char=1920
+8	сгреб	сгребти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1921|end_char=1926
+9	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=1927|end_char=1929
+10	в	в	ADP	_	_	11	case	_	start_char=1930|end_char=1931
+11	охапку	охапка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=1932|end_char=1938
+12	и	и	CCONJ	_	_	16	cc	_	start_char=1939|end_char=1940
+13	"	"	PUNCT	_	_	14	punct	_	start_char=1941|end_char=1942
+14	традиционно	традиционно	ADV	_	Degree=Pos	16	advmod	_	start_char=1942|end_char=1953
+15	"	"	PUNCT	_	_	14	punct	_	start_char=1953|end_char=1954
+16	поцеловал	поцеловать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1955|end_char=1964
+17	.	.	PUNCT	_	_	4	punct	_	start_char=1964|end_char=1965
+
+# text = Осгуд, автоматически сделавшая шаг за начальницей, тоже оказалась в зоне досягаемости загребущих капитанских рук, и тоже была приобщена к традиции.
+# sent_id = 31
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Осгуд	осгуд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=1966|end_char=1971
+2	,	,	PUNCT	_	_	4	punct	_	start_char=1971|end_char=1972
+3	автоматически	автоматически	ADV	_	Degree=Pos	4	advmod	_	start_char=1973|end_char=1986
+4	сделавшая	сделать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	start_char=1987|end_char=1996
+5	шаг	шаг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1997|end_char=2000
+6	за	за	ADP	_	_	7	case	_	start_char=2001|end_char=2003
+7	начальницей	начальница	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	start_char=2004|end_char=2015
+8	,	,	PUNCT	_	_	4	punct	_	start_char=2015|end_char=2016
+9	тоже	тоже	PART	_	_	10	advmod	_	start_char=2017|end_char=2021
+10	оказалась	оказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2022|end_char=2031
+11	в	в	ADP	_	_	12	case	_	start_char=2032|end_char=2033
+12	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	start_char=2034|end_char=2038
+13	досягаемости	досягаемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=2039|end_char=2051
+14	загребущих	загребовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	amod	_	start_char=2052|end_char=2062
+15	капитанских	капитанский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	start_char=2063|end_char=2074
+16	рук	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	start_char=2075|end_char=2078
+17	,	,	PUNCT	_	_	21	punct	_	start_char=2078|end_char=2079
+18	и	и	CCONJ	_	_	21	cc	_	start_char=2080|end_char=2081
+19	тоже	тоже	PART	_	_	21	advmod	_	start_char=2082|end_char=2086
+20	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	aux:pass	_	start_char=2087|end_char=2091
+21	приобщена	приобщить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	conj	_	start_char=2092|end_char=2101
+22	к	к	ADP	_	_	23	case	_	start_char=2102|end_char=2103
+23	традиции	традиция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	obl	_	start_char=2104|end_char=2112
+24	.	.	PUNCT	_	_	10	punct	_	start_char=2112|end_char=2113
+
+# text = – Ну вот, теперь рождество пройдет хорошо, правильно!
+# sent_id = 32
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=2114|end_char=2115
+2	Ну	ну	PART	_	_	7	discourse	_	start_char=2116|end_char=2118
+3	вот	вот	PART	_	_	7	parataxis	_	start_char=2119|end_char=2122
+4	,	,	PUNCT	_	_	3	punct	_	start_char=2122|end_char=2123
+5	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2124|end_char=2130
+6	рождество	рождество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=2131|end_char=2140
+7	пройдет	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2141|end_char=2148
+8	хорошо	хорошо	ADV	_	Degree=Pos	7	advmod	_	start_char=2149|end_char=2155
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2155|end_char=2156
+10	правильно	правильно	ADV	_	Degree=Pos	7	advmod	_	start_char=2157|end_char=2166
+11	!	!	PUNCT	_	_	7	punct	_	start_char=2166|end_char=2167
+
+# text = – радостно возвестил капитан, обнимая обеих женщин.
+# sent_id = 33
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2168|end_char=2169
+2	радостно	радостно	ADV	_	Degree=Pos	3	advmod	_	start_char=2170|end_char=2178
+3	возвестил	возвестить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2179|end_char=2188
+4	капитан	капитан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2189|end_char=2196
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2196|end_char=2197
+6	обнимая	обнимать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=2198|end_char=2205
+7	обеих	оба	NUM	_	Animacy=Anim|Case=Acc|NumForm=Word|NumType=Sets	8	nummod:gov	_	start_char=2206|end_char=2211
+8	женщин	женщина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	6	obj	_	start_char=2212|end_char=2218
+9	.	.	PUNCT	_	_	3	punct	_	start_char=2218|end_char=2219
+
+# text = – Всех с праздником, всем счастья, радости, лю...
+# sent_id = 34
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2220|end_char=2221
+2	Всех	весь	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	0	root	_	start_char=2222|end_char=2226
+3	с	с	ADP	_	_	4	case	_	start_char=2227|end_char=2228
+4	праздником	праздник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	start_char=2229|end_char=2239
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2239|end_char=2240
+6	всем	весь	DET	_	Case=Dat|Number=Plur|PronType=Tot	7	det	_	start_char=2241|end_char=2245
+7	счастья	счастье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	start_char=2246|end_char=2253
+8	,	,	PUNCT	_	_	9	punct	_	start_char=2253|end_char=2254
+9	радости	радость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	conj	_	start_char=2255|end_char=2262
+10	,	,	PUNCT	_	_	11	punct	_	start_char=2262|end_char=2263
+11	лю	лю	PART	_	_	2	conj	_	start_char=2264|end_char=2266
+12	...	...	PUNCT	_	_	2	punct	_	start_char=2266|end_char=2269
+
+# text = Осгуд, ингалятор!
+# sent_id = 35
+# metadata = Название: Устаревшая традиция, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5470f94f00000a7d349e3053/1/Ustarevshaya-tradiciya
+1	Осгуд	осгуд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2270|end_char=2275
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2275|end_char=2276
+3	ингалятор	ингалятор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=2277|end_char=2286
+4	!	!	PUNCT	_	_	1	punct	_	start_char=2286|end_char=2287
+

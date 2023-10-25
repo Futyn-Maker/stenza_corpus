@@ -1,0 +1,2020 @@
+# text = Кричаще мигала неоновая реклама стриптиз-клуба, во дворе из каменных урн в человеческий рост взлетали языки пламени, вокруг них нарезали восьмерки, дуги и прочие геометрические фигуры потные нетрезвые байкеры на ревущих мотоциклах.
+# sent_id = 0
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Кричаще	кричаще	ADV	_	Degree=Pos	2	advmod	_	start_char=0|end_char=7
+2	мигала	мигать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8|end_char=14
+3	неоновая	неоновый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=15|end_char=23
+4	реклама	реклама	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=24|end_char=31
+5	стриптиз	стриптиза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=32|end_char=40
+6	-	-	PUNCT	_	_	7	punct	_	start_char=40|end_char=41
+7	клуба	клуб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	appos	_	start_char=41|end_char=46
+8	,	,	PUNCT	_	_	17	punct	_	start_char=46|end_char=47
+9	во	во	ADP	_	_	10	case	_	start_char=48|end_char=50
+10	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	start_char=51|end_char=56
+11	из	из	ADP	_	_	13	case	_	start_char=57|end_char=59
+12	каменных	каменный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	start_char=60|end_char=68
+13	урн	урна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	start_char=69|end_char=72
+14	в	в	ADP	_	_	16	case	_	start_char=73|end_char=74
+15	человеческий	человеческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=75|end_char=87
+16	рост	рост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obl	_	start_char=88|end_char=92
+17	взлетали	взлетать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=93|end_char=101
+18	языки	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	start_char=102|end_char=107
+19	пламени	пламень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	start_char=108|end_char=115
+20	,	,	PUNCT	_	_	23	punct	_	start_char=115|end_char=116
+21	вокруг	вокруг	ADP	_	_	22	case	_	start_char=117|end_char=123
+22	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	23	obl	_	start_char=124|end_char=127
+23	нарезали	нарезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=128|end_char=136
+24	восьмерки	восьмерка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obj	_	start_char=137|end_char=146
+25	,	,	PUNCT	_	_	26	punct	_	start_char=146|end_char=147
+26	дуги	дуга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	conj	_	start_char=148|end_char=152
+27	и	и	CCONJ	_	_	30	cc	_	start_char=153|end_char=154
+28	прочие	прочий	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	30	det	_	start_char=155|end_char=161
+29	геометрические	геометрический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	30	amod	_	start_char=162|end_char=176
+30	фигуры	фигура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	conj	_	start_char=177|end_char=183
+31	потные	потный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	33	amod	_	start_char=184|end_char=190
+32	нетрезвые	нетрезвый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	33	amod	_	start_char=191|end_char=200
+33	байкеры	байкер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	24	conj	_	start_char=201|end_char=208
+34	на	на	ADP	_	_	36	case	_	start_char=209|end_char=211
+35	ревущих	ревущий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	36	amod	_	start_char=212|end_char=219
+36	мотоциклах	мотоцикл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	33	nmod	_	start_char=220|end_char=230
+37	.	.	PUNCT	_	_	2	punct	_	start_char=230|end_char=231
+
+# text = Невысокий полноватый мужчина явно не местного вида – в пиджаке, шляпе, в жилете со знаками вопроса и даже с зонтиком-тростью в руке – и его спутница, спортивная кудрявая девушка в розовых гетрах, будто выскочившая прямо из восьмидесятых, стояли немного поодаль от этой оргии.
+# sent_id = 1
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Невысокий	невысокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=232|end_char=241
+2	полноватый	полноватый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=242|end_char=252
+3	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=253|end_char=260
+4	явно	явно	ADV	_	Degree=Pos	7	advmod	_	start_char=261|end_char=265
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=266|end_char=268
+6	местного	местный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=269|end_char=277
+7	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=278|end_char=282
+8	–	–	PUNCT	_	_	10	punct	_	start_char=283|end_char=284
+9	в	в	ADP	_	_	10	case	_	start_char=285|end_char=286
+10	пиджаке	пиджак	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	parataxis	_	start_char=287|end_char=294
+11	,	,	PUNCT	_	_	12	punct	_	start_char=294|end_char=295
+12	шляпе	шляпа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	conj	_	start_char=296|end_char=301
+13	,	,	PUNCT	_	_	15	punct	_	start_char=301|end_char=302
+14	в	в	ADP	_	_	15	case	_	start_char=303|end_char=304
+15	жилете	жилет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	conj	_	start_char=305|end_char=311
+16	со	со	ADP	_	_	17	case	_	start_char=312|end_char=314
+17	знаками	знак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	15	nmod	_	start_char=315|end_char=322
+18	вопроса	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	start_char=323|end_char=330
+19	и	и	CCONJ	_	_	22	cc	_	start_char=331|end_char=332
+20	даже	даже	PART	_	_	22	advmod	_	start_char=333|end_char=337
+21	с	с	ADP	_	_	22	case	_	start_char=338|end_char=339
+22	зонтиком	зонтик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	conj	_	start_char=340|end_char=348
+23	-	-	PUNCT	_	_	24	punct	_	start_char=348|end_char=349
+24	тростью	трость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	22	appos	_	start_char=349|end_char=356
+25	в	в	ADP	_	_	26	case	_	start_char=357|end_char=358
+26	руке	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	nmod	_	start_char=359|end_char=363
+27	–	–	PUNCT	_	_	22	punct	_	start_char=364|end_char=365
+28	и	и	CCONJ	_	_	30	cc	_	start_char=366|end_char=367
+29	его	его	DET	_	Poss=Yes|PronType=Prs	30	det	_	start_char=368|end_char=371
+30	спутница	спутница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	34	conj	_	start_char=372|end_char=380
+31	,	,	PUNCT	_	_	34	punct	_	start_char=380|end_char=381
+32	спортивная	спортивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	start_char=382|end_char=392
+33	кудрявая	кудрявый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	start_char=393|end_char=401
+34	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	conj	_	start_char=402|end_char=409
+35	в	в	ADP	_	_	37	case	_	start_char=410|end_char=411
+36	розовых	розовый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	37	amod	_	start_char=412|end_char=419
+37	гетрах	гетр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	34	nmod	_	start_char=420|end_char=426
+38	,	,	PUNCT	_	_	40	punct	_	start_char=426|end_char=427
+39	будто	будто	SCONJ	_	_	40	mark	_	start_char=428|end_char=433
+40	выскочившая	выскочить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	34	acl	_	start_char=434|end_char=445
+41	прямо	прямо	PART	_	_	43	advmod	_	start_char=446|end_char=451
+42	из	из	ADP	_	_	43	case	_	start_char=452|end_char=454
+43	восьмидесятых	восьмидесятый	ADJ	_	Case=Gen|Degree=Pos|NumForm=Word|NumType=Ord|Number=Plur	40	obl	_	start_char=455|end_char=468
+44	,	,	PUNCT	_	_	40	punct	_	start_char=468|end_char=469
+45	стояли	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=470|end_char=476
+46	немного	немного	ADV	_	Degree=Pos|PronType=Tot	47	advmod	_	start_char=477|end_char=484
+47	поодаль	поодаль	ADV	_	Degree=Pos	45	advmod	_	start_char=485|end_char=492
+48	от	от	ADP	_	_	50	case	_	start_char=493|end_char=495
+49	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	50	det	_	start_char=496|end_char=500
+50	оргии	оргия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	obl	_	start_char=501|end_char=506
+51	.	.	PUNCT	_	_	45	punct	_	start_char=506|end_char=507
+
+# text = Вообще было непонятно, как и что могло занести их туда.
+# sent_id = 2
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Вообще	вообще	ADV	_	Degree=Pos	3	advmod	_	start_char=508|end_char=514
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=515|end_char=519
+3	непонятно	непонятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=520|end_char=529
+4	,	,	PUNCT	_	_	8	punct	_	start_char=529|end_char=530
+5	как	как	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=531|end_char=534
+6	и	и	CCONJ	_	_	8	cc	_	start_char=535|end_char=536
+7	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	start_char=537|end_char=540
+8	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=541|end_char=546
+9	занести	занести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=547|end_char=554
+10	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	start_char=555|end_char=557
+11	туда	туда	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=558|end_char=562
+12	.	.	PUNCT	_	_	3	punct	_	start_char=562|end_char=563
+
+# text = – Доктор, я не могу, тут же нечем дышать!
+# sent_id = 3
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	6	punct	_	start_char=564|end_char=565
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	start_char=566|end_char=572
+3	,	,	PUNCT	_	_	2	punct	_	start_char=572|end_char=573
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=574|end_char=575
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=576|end_char=578
+6	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=579|end_char=583
+7	,	,	PUNCT	_	_	10	punct	_	start_char=583|end_char=584
+8	тут	тут	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=585|end_char=588
+9	же	же	PART	_	_	8	advmod	_	start_char=589|end_char=591
+10	нечем	нечего	VERB	_	_	6	conj	_	start_char=592|end_char=597
+11	дышать	дышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=598|end_char=604
+12	!	!	PUNCT	_	_	6	punct	_	start_char=604|end_char=605
+
+# text = – в очередной раз закашлялась от бензиновых выхлопов спутница.
+# sent_id = 4
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	5	punct	_	start_char=606|end_char=607
+2	в	в	ADP	_	_	4	case	_	start_char=608|end_char=609
+3	очередной	очередной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=610|end_char=619
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=620|end_char=623
+5	закашлялась	закашляться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=624|end_char=635
+6	от	от	ADP	_	_	8	case	_	start_char=636|end_char=638
+7	бензиновых	бензиновый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	start_char=639|end_char=649
+8	выхлопов	выхлоп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	start_char=650|end_char=658
+9	спутница	спутница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=659|end_char=667
+10	.	.	PUNCT	_	_	5	punct	_	start_char=667|end_char=668
+
+# text = – Ты уверен, что нам надо туда?
+# sent_id = 5
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=669|end_char=670
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=671|end_char=673
+3	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=674|end_char=680
+4	,	,	PUNCT	_	_	7	punct	_	start_char=680|end_char=681
+5	что	что	SCONJ	_	_	7	mark	_	start_char=682|end_char=685
+6	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	start_char=686|end_char=689
+7	надо	надо	VERB	_	_	3	ccomp	_	start_char=690|end_char=694
+8	туда	туда	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=695|end_char=699
+9	?	?	PUNCT	_	_	3	punct	_	start_char=699|end_char=700
+
+# text = – Да, Мелани, – очень терпеливо, но твёрдо ответил Доктор.
+# sent_id = 6
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	8	punct	_	start_char=701|end_char=702
+2	Да	да	PART	_	_	8	parataxis	_	start_char=703|end_char=705
+3	,	,	PUNCT	_	_	2	punct	_	start_char=705|end_char=706
+4	Мелани	Мелани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	vocative	_	start_char=707|end_char=713
+5	,	,	PUNCT	_	_	4	punct	_	start_char=713|end_char=714
+6	–	–	PUNCT	_	_	8	punct	_	start_char=715|end_char=716
+7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	start_char=717|end_char=722
+8	терпеливо	терпеливо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=723|end_char=732
+9	,	,	PUNCT	_	_	12	punct	_	start_char=732|end_char=733
+10	но	но	CCONJ	_	_	12	cc	_	start_char=734|end_char=736
+11	твёрдо	твердо	ADV	_	Degree=Pos	12	advmod	_	start_char=737|end_char=743
+12	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=744|end_char=751
+13	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=752|end_char=758
+14	.	.	PUNCT	_	_	8	punct	_	start_char=758|end_char=759
+
+# text = – И у них наверняка нет сока в баре, – уже смирившись, но ещё надеясь никуда не пойти, заметила Мел.
+# sent_id = 7
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	6	punct	_	start_char=760|end_char=761
+2	И	и	CCONJ	_	_	6	cc	_	start_char=762|end_char=763
+3	у	у	ADP	_	_	4	case	_	start_char=764|end_char=765
+4	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	obl	_	start_char=766|end_char=769
+5	наверняка	наверняка	ADV	_	Degree=Pos	6	advmod	_	start_char=770|end_char=779
+6	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=780|end_char=783
+7	сока	сок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	start_char=784|end_char=788
+8	в	в	ADP	_	_	9	case	_	start_char=789|end_char=790
+9	баре	бар	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	start_char=791|end_char=795
+10	,	,	PUNCT	_	_	13	punct	_	start_char=795|end_char=796
+11	–	–	PUNCT	_	_	13	punct	_	start_char=797|end_char=798
+12	уже	уже	ADV	_	Degree=Pos	13	advmod	_	start_char=799|end_char=802
+13	смирившись	смириться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	22	advcl	_	start_char=803|end_char=813
+14	,	,	PUNCT	_	_	17	punct	_	start_char=813|end_char=814
+15	но	но	CCONJ	_	_	22	cc	_	start_char=815|end_char=817
+16	ещё	еще	ADV	_	Degree=Pos	17	advmod	_	start_char=818|end_char=821
+17	надеясь	надеяться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	22	advcl	_	start_char=822|end_char=829
+18	никуда	никуда	ADV	_	Degree=Pos|PronType=Neg	20	advmod	_	start_char=830|end_char=836
+19	не	не	PART	_	Polarity=Neg	20	advmod	_	start_char=837|end_char=839
+20	пойти	пойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	start_char=840|end_char=845
+21	,	,	PUNCT	_	_	17	punct	_	start_char=845|end_char=846
+22	заметила	заметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=847|end_char=855
+23	Мел	мел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	start_char=856|end_char=859
+24	.	.	PUNCT	_	_	6	punct	_	start_char=859|end_char=860
+
+# text = – Боюсь, что так, Мелани, – подтвердил Доктор, но остался стоять на своём посту, ожидая...
+# sent_id = 8
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	2	punct	_	start_char=861|end_char=862
+2	Боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=863|end_char=868
+3	,	,	PUNCT	_	_	5	punct	_	start_char=868|end_char=869
+4	что	что	SCONJ	_	_	5	mark	_	start_char=870|end_char=873
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	2	ccomp	_	start_char=874|end_char=877
+6	,	,	PUNCT	_	_	7	punct	_	start_char=877|end_char=878
+7	Мелани	Мелани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	vocative	_	start_char=879|end_char=885
+8	,	,	PUNCT	_	_	10	punct	_	start_char=885|end_char=886
+9	–	–	PUNCT	_	_	10	punct	_	start_char=887|end_char=888
+10	подтвердил	подтвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=889|end_char=899
+11	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=900|end_char=906
+12	,	,	PUNCT	_	_	14	punct	_	start_char=906|end_char=907
+13	но	но	CCONJ	_	_	14	cc	_	start_char=908|end_char=910
+14	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=911|end_char=918
+15	стоять	стоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=919|end_char=925
+16	на	на	ADP	_	_	18	case	_	start_char=926|end_char=928
+17	своём	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	18	det	_	start_char=929|end_char=934
+18	посту	пост	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=935|end_char=940
+19	,	,	PUNCT	_	_	20	punct	_	start_char=940|end_char=941
+20	ожидая	ожидать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	15	advcl	_	start_char=942|end_char=948
+21	...	...	PUNCT	_	_	2	punct	_	start_char=948|end_char=951
+
+# text = Чего-то ожидая.
+# sent_id = 9
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	start_char=952|end_char=959
+2	ожидая	ожидать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	start_char=960|end_char=966
+3	.	.	PUNCT	_	_	2	punct	_	start_char=966|end_char=967
+
+# text = В дверях клуба появился зазывала и начал расхваливать само заведение и предоставляемые им услуги.
+# sent_id = 10
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	В	в	ADP	_	_	2	case	_	start_char=968|end_char=969
+2	дверях	дверь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	start_char=970|end_char=976
+3	клуба	клуб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=977|end_char=982
+4	появился	появиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=983|end_char=991
+5	зазывала	зазывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=992|end_char=1000
+6	и	и	CCONJ	_	_	7	cc	_	start_char=1001|end_char=1002
+7	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1003|end_char=1008
+8	расхваливать	расхваливать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=1009|end_char=1021
+9	само	сам	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Emp	10	det	_	start_char=1022|end_char=1026
+10	заведение	заведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=1027|end_char=1036
+11	и	и	CCONJ	_	_	14	cc	_	start_char=1037|end_char=1038
+12	предоставляемые	предоставлять	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	start_char=1039|end_char=1054
+13	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	12	iobj	_	start_char=1055|end_char=1057
+14	услуги	услуга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	conj	_	start_char=1058|end_char=1064
+15	.	.	PUNCT	_	_	4	punct	_	start_char=1064|end_char=1065
+
+# text = Мелани не могла не поморщиться – в её время, в её жизни женщину ценили не только в качестве весёлых или каких-либо других титек, но и как профессионала, как разумное существо, как личность, в конце концов, как бы ни банально для неё это звучало.
+# sent_id = 11
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мелани	Мелани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1066|end_char=1072
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1073|end_char=1075
+3	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1076|end_char=1081
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1082|end_char=1084
+5	поморщиться	поморщиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=1085|end_char=1096
+6	–	–	PUNCT	_	_	15	punct	_	start_char=1097|end_char=1098
+7	в	в	ADP	_	_	9	case	_	start_char=1099|end_char=1100
+8	её	ее	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=1101|end_char=1103
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obl	_	start_char=1104|end_char=1109
+10	,	,	PUNCT	_	_	9	punct	_	start_char=1109|end_char=1110
+11	в	в	ADP	_	_	13	case	_	start_char=1111|end_char=1112
+12	её	ее	DET	_	Poss=Yes|PronType=Prs	13	det	_	start_char=1113|end_char=1115
+13	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	start_char=1116|end_char=1121
+14	женщину	женщина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=1122|end_char=1129
+15	ценили	ценить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1130|end_char=1136
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=1137|end_char=1139
+17	только	только	PART	_	_	20	advmod	_	start_char=1140|end_char=1146
+18	в	в	ADP	_	_	20	case	_	start_char=1147|end_char=1148
+19	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	fixed	_	start_char=1149|end_char=1157
+20	весёлых	веселый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	start_char=1158|end_char=1165
+21	или	или	CCONJ	_	_	22	cc	_	start_char=1166|end_char=1169
+22	каких-либо	какой-либо	DET	_	Case=Gen|Number=Plur|PronType=Ind	20	conj	_	start_char=1170|end_char=1180
+23	других	другой	DET	_	Case=Gen|Number=Plur|PronType=Tot	24	det	_	start_char=1181|end_char=1187
+24	титек	титка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	obl	_	start_char=1188|end_char=1193
+25	,	,	PUNCT	_	_	29	punct	_	start_char=1193|end_char=1194
+26	но	но	CCONJ	_	_	29	cc	_	start_char=1195|end_char=1197
+27	и	и	PART	_	_	26	fixed	_	start_char=1198|end_char=1199
+28	как	как	SCONJ	_	_	29	case	_	start_char=1200|end_char=1203
+29	профессионала	профессионал	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	conj	_	start_char=1204|end_char=1217
+30	,	,	PUNCT	_	_	33	punct	_	start_char=1217|end_char=1218
+31	как	как	SCONJ	_	_	33	case	_	start_char=1219|end_char=1222
+32	разумное	разумный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	start_char=1223|end_char=1231
+33	существо	существо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing	29	nmod	_	start_char=1232|end_char=1240
+34	,	,	PUNCT	_	_	36	punct	_	start_char=1240|end_char=1241
+35	как	как	SCONJ	_	_	36	case	_	start_char=1242|end_char=1245
+36	личность	личность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	49	obl	_	start_char=1246|end_char=1254
+37	,	,	PUNCT	_	_	49	punct	_	start_char=1254|end_char=1255
+38	в	в	ADP	_	_	49	advmod	_	start_char=1256|end_char=1257
+39	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	38	fixed	_	start_char=1258|end_char=1263
+40	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	38	fixed	_	start_char=1264|end_char=1270
+41	,	,	PUNCT	_	_	38	punct	_	start_char=1270|end_char=1271
+42	как	как	ADV	_	Degree=Pos|PronType=Rel	49	advmod	_	start_char=1272|end_char=1275
+43	бы	бы	AUX	_	Mood=Cnd	42	fixed	_	start_char=1276|end_char=1278
+44	ни	ни	PART	_	Polarity=Neg	45	advmod	_	start_char=1279|end_char=1281
+45	банально	банально	ADV	_	Degree=Pos	49	advmod	_	start_char=1282|end_char=1290
+46	для	для	ADP	_	_	47	case	_	start_char=1291|end_char=1294
+47	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	49	obl	_	start_char=1295|end_char=1298
+48	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	49	nsubj	_	start_char=1299|end_char=1302
+49	звучало	звучать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	acl:relcl	_	start_char=1303|end_char=1310
+50	.	.	PUNCT	_	_	3	punct	_	start_char=1310|end_char=1311
+
+# text = Кажется, здесь это прозвучало бы действительно очень небанально.
+# sent_id = 12
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=1312|end_char=1319
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1319|end_char=1320
+3	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1321|end_char=1326
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1327|end_char=1330
+5	прозвучало	прозвучать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1331|end_char=1341
+6	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=1342|end_char=1344
+7	действительно	действительно	ADV	_	Degree=Pos	8	advmod	_	start_char=1345|end_char=1358
+8	очень	очень	ADV	_	Degree=Pos	9	advmod	_	start_char=1359|end_char=1364
+9	небанально	небанальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	xcomp	_	start_char=1365|end_char=1375
+10	.	.	PUNCT	_	_	5	punct	_	start_char=1375|end_char=1376
+
+# text = Может быть, Доктор как раз и прилетел сюда, чтобы объяснить этим отсталым аборигенам – кстати, интересно, где они, она как-то забыла спросить, – необходимость уважительного отношения к женщинам?
+# sent_id = 13
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=1377|end_char=1382
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=1383|end_char=1387
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1387|end_char=1388
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=1389|end_char=1395
+5	как	как	SCONJ	_	_	8	advmod	_	start_char=1396|end_char=1399
+6	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	fixed	_	start_char=1400|end_char=1403
+7	и	и	CCONJ	_	_	8	cc	_	start_char=1404|end_char=1405
+8	прилетел	прилететь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1406|end_char=1414
+9	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=1415|end_char=1419
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1419|end_char=1420
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	start_char=1421|end_char=1426
+12	объяснить	объяснить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	advcl	_	start_char=1427|end_char=1436
+13	этим	этот	DET	_	Case=Dat|Number=Plur|PronType=Dem	15	det	_	start_char=1437|end_char=1441
+14	отсталым	отсталый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	15	amod	_	start_char=1442|end_char=1450
+15	аборигенам	абориген	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	12	iobj	_	start_char=1451|end_char=1461
+16	–	–	PUNCT	_	_	19	punct	_	start_char=1462|end_char=1463
+17	кстати	кстати	ADV	_	Degree=Pos	19	parataxis	_	start_char=1464|end_char=1470
+18	,	,	PUNCT	_	_	17	punct	_	start_char=1470|end_char=1471
+19	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	parataxis	_	start_char=1472|end_char=1481
+20	,	,	PUNCT	_	_	21	punct	_	start_char=1481|end_char=1482
+21	где	где	ADV	_	Degree=Pos|PronType=Rel	19	ccomp	_	start_char=1483|end_char=1486
+22	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=1487|end_char=1490
+23	,	,	PUNCT	_	_	21	punct	_	start_char=1490|end_char=1491
+24	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=1492|end_char=1495
+25	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	26	advmod	_	start_char=1496|end_char=1502
+26	забыла	забыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	ccomp	_	start_char=1503|end_char=1509
+27	спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	xcomp	_	start_char=1510|end_char=1518
+28	,	,	PUNCT	_	_	30	punct	_	start_char=1518|end_char=1519
+29	–	–	PUNCT	_	_	30	punct	_	start_char=1520|end_char=1521
+30	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	parataxis	_	start_char=1522|end_char=1535
+31	уважительного	уважительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	start_char=1536|end_char=1549
+32	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	start_char=1550|end_char=1559
+33	к	к	ADP	_	_	34	case	_	start_char=1560|end_char=1561
+34	женщинам	женщина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur	32	nmod	_	start_char=1562|end_char=1570
+35	?	?	PUNCT	_	_	8	punct	_	start_char=1570|end_char=1571
+
+# text = Мел с сомнением посмотрела во двор.
+# sent_id = 14
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мел	мел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1572|end_char=1575
+2	с	с	ADP	_	_	3	case	_	start_char=1576|end_char=1577
+3	сомнением	сомнение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	start_char=1578|end_char=1587
+4	посмотрела	посмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1588|end_char=1598
+5	во	во	ADP	_	_	6	case	_	start_char=1599|end_char=1601
+6	двор	двор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=1602|end_char=1606
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1606|end_char=1607
+
+# text = Кажется, нести гуманистические идеи там надо было начинать с уважения жизни как таковой.
+# sent_id = 15
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=1608|end_char=1615
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1615|end_char=1616
+3	нести	нести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=1617|end_char=1622
+4	гуманистические	гуманистический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	start_char=1623|end_char=1638
+5	идеи	идея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	start_char=1639|end_char=1643
+6	там	там	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1644|end_char=1647
+7	надо	надо	VERB	_	_	0	root	_	start_char=1648|end_char=1652
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=1653|end_char=1657
+9	начинать	начинать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=1658|end_char=1666
+10	с	с	ADP	_	_	11	case	_	start_char=1667|end_char=1668
+11	уважения	уважение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	start_char=1669|end_char=1677
+12	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=1678|end_char=1683
+13	как	как	SCONJ	_	_	14	case	_	start_char=1684|end_char=1687
+14	таковой	таковой	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	11	nmod	_	start_char=1688|end_char=1695
+15	.	.	PUNCT	_	_	7	punct	_	start_char=1695|end_char=1696
+
+# text = В это время во дворе что-то изменилось.
+# sent_id = 16
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	В	в	ADP	_	_	3	case	_	start_char=1697|end_char=1698
+2	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=1699|end_char=1702
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	start_char=1703|end_char=1708
+4	во	во	ADP	_	_	5	case	_	start_char=1709|end_char=1711
+5	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=1712|end_char=1717
+6	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	nsubj	_	start_char=1718|end_char=1724
+7	изменилось	измениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1725|end_char=1735
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1735|end_char=1736
+
+# text = Подъехал странно выглядящий в этих местах большой семейный фургон, из него вышли пять человек – трое мужчин и двое почти детей, мальчик и девушка, – и пошли ко входу.
+# sent_id = 17
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Подъехал	подъехать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1737|end_char=1745
+2	странно	странно	ADV	_	Degree=Pos	3	advmod	_	start_char=1746|end_char=1753
+3	выглядящий	выглядеть	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	start_char=1754|end_char=1764
+4	в	в	ADP	_	_	6	case	_	start_char=1765|end_char=1766
+5	этих	этот	DET	_	Case=Loc|Number=Plur|PronType=Dem	6	det	_	start_char=1767|end_char=1771
+6	местах	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	3	obl	_	start_char=1772|end_char=1778
+7	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1779|end_char=1786
+8	семейный	семейный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1787|end_char=1795
+9	фургон	фургон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=1796|end_char=1802
+10	,	,	PUNCT	_	_	13	punct	_	start_char=1802|end_char=1803
+11	из	из	ADP	_	_	12	case	_	start_char=1804|end_char=1806
+12	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	start_char=1807|end_char=1811
+13	вышли	выйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1812|end_char=1817
+14	пять	пять	NUM	_	Case=Nom|NumForm=Word|NumType=Card	15	nummod:gov	_	start_char=1818|end_char=1822
+15	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	nsubj	_	start_char=1823|end_char=1830
+16	–	–	PUNCT	_	_	18	punct	_	start_char=1831|end_char=1832
+17	трое	трое	NUM	_	Case=Nom|NumForm=Word|NumType=Sets	18	nummod:gov	_	start_char=1833|end_char=1837
+18	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	parataxis	_	start_char=1838|end_char=1844
+19	и	и	CCONJ	_	_	22	cc	_	start_char=1845|end_char=1846
+20	двое	двое	NUM	_	Case=Nom|NumForm=Word|NumType=Sets	22	nummod:gov	_	start_char=1847|end_char=1851
+21	почти	почти	ADV	_	Degree=Pos	22	advmod	_	start_char=1852|end_char=1857
+22	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	conj	_	start_char=1858|end_char=1863
+23	,	,	PUNCT	_	_	24	punct	_	start_char=1863|end_char=1864
+24	мальчик	мальчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	conj	_	start_char=1865|end_char=1872
+25	и	и	CCONJ	_	_	26	cc	_	start_char=1873|end_char=1874
+26	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	18	conj	_	start_char=1875|end_char=1882
+27	,	,	PUNCT	_	_	30	punct	_	start_char=1882|end_char=1883
+28	–	–	PUNCT	_	_	30	punct	_	start_char=1884|end_char=1885
+29	и	и	CCONJ	_	_	30	cc	_	start_char=1886|end_char=1887
+30	пошли	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1888|end_char=1893
+31	ко	ко	ADP	_	_	32	case	_	start_char=1894|end_char=1896
+32	входу	вход	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	30	obl	_	start_char=1897|end_char=1902
+33	.	.	PUNCT	_	_	1	punct	_	start_char=1902|end_char=1903
+
+# text = Доктор махнул зонтиком, привлекая внимание Мелани к этой компании.
+# sent_id = 18
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1904|end_char=1910
+2	махнул	махнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1911|end_char=1917
+3	зонтиком	зонтик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	iobj	_	start_char=1918|end_char=1926
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1926|end_char=1927
+5	привлекая	привлекать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=1928|end_char=1937
+6	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=1938|end_char=1946
+7	Мелани	Мелани	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	6	nmod	_	start_char=1947|end_char=1953
+8	к	к	ADP	_	_	10	case	_	start_char=1954|end_char=1955
+9	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	start_char=1956|end_char=1960
+10	компании	компания	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	obl	_	start_char=1961|end_char=1969
+11	.	.	PUNCT	_	_	2	punct	_	start_char=1969|end_char=1970
+
+# text = Зазывала на входе оказался не только зазывалой, но ещё и фэйс-контролем.
+# sent_id = 19
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Зазывала	зазывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1971|end_char=1979
+2	на	на	ADP	_	_	3	case	_	start_char=1980|end_char=1982
+3	входе	вход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	start_char=1983|end_char=1988
+4	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=1989|end_char=1997
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1998|end_char=2000
+6	только	только	PART	_	_	7	advmod	_	start_char=2001|end_char=2007
+7	зазывалой	зазывалой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	xcomp	_	start_char=2008|end_char=2017
+8	,	,	PUNCT	_	_	12	punct	_	start_char=2017|end_char=2018
+9	но	но	CCONJ	_	_	12	cc	_	start_char=2019|end_char=2021
+10	ещё	еще	ADV	_	Degree=Pos	12	advmod	_	start_char=2022|end_char=2025
+11	и	и	PART	_	_	12	advmod	_	start_char=2026|end_char=2027
+12	фэйс-контролем	фэйс-контроль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	start_char=2028|end_char=2042
+13	.	.	PUNCT	_	_	1	punct	_	start_char=2042|end_char=2043
+
+# text = И чем-то фэйсы прибывших его не устроили.
+# sent_id = 20
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	И	и	CCONJ	_	_	7	cc	_	start_char=2044|end_char=2045
+2	чем-то	что-то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	7	iobj	_	start_char=2046|end_char=2052
+3	фэйсы	фэйс	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=2053|end_char=2058
+4	прибывших	прибыть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	start_char=2059|end_char=2068
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=2069|end_char=2072
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2073|end_char=2075
+7	устроили	устроить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2076|end_char=2084
+8	.	.	PUNCT	_	_	7	punct	_	start_char=2084|end_char=2085
+
+# text = Он прервал свою зазывную речь, которой перекрикивал рёв мотоциклов, и попытался преградить вход.
+# sent_id = 21
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2086|end_char=2088
+2	прервал	прервать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2089|end_char=2096
+3	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=2097|end_char=2101
+4	зазывную	зазывной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2102|end_char=2110
+5	речь	речь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=2111|end_char=2115
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2115|end_char=2116
+7	которой	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	start_char=2117|end_char=2124
+8	перекрикивал	перекрикивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=2125|end_char=2137
+9	рёв	рев	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=2138|end_char=2141
+10	мотоциклов	мотоцикл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	start_char=2142|end_char=2152
+11	,	,	PUNCT	_	_	13	punct	_	start_char=2152|end_char=2153
+12	и	и	CCONJ	_	_	13	cc	_	start_char=2154|end_char=2155
+13	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2156|end_char=2165
+14	преградить	преградить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=2166|end_char=2176
+15	вход	вход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	start_char=2177|end_char=2181
+16	.	.	PUNCT	_	_	2	punct	_	start_char=2181|end_char=2182
+
+# text = Мужчина, шедший первым, с татуировкой в виде чёрного пламени на шее, коротко ударил его в нос и вывихнул руку с микрофоном, от чего зазывала свалился на ступеньки.
+# sent_id = 22
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=2183|end_char=2190
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2190|end_char=2191
+3	шедший	идти	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	start_char=2192|end_char=2198
+4	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	3	obl:agent	_	start_char=2199|end_char=2205
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2205|end_char=2206
+6	с	с	ADP	_	_	7	case	_	start_char=2207|end_char=2208
+7	татуировкой	татуировка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	start_char=2209|end_char=2220
+8	в	в	ADP	_	_	11	case	_	start_char=2221|end_char=2222
+9	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	fixed	_	start_char=2223|end_char=2227
+10	чёрного	черный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=2228|end_char=2235
+11	пламени	пламень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=2236|end_char=2243
+12	на	на	ADP	_	_	13	case	_	start_char=2244|end_char=2246
+13	шее	шея	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	start_char=2247|end_char=2250
+14	,	,	PUNCT	_	_	3	punct	_	start_char=2250|end_char=2251
+15	коротко	коротко	ADV	_	Degree=Pos	16	advmod	_	start_char=2252|end_char=2259
+16	ударил	ударить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2260|end_char=2266
+17	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=2267|end_char=2270
+18	в	в	ADP	_	_	19	case	_	start_char=2271|end_char=2272
+19	нос	нос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	start_char=2273|end_char=2276
+20	и	и	CCONJ	_	_	21	cc	_	start_char=2277|end_char=2278
+21	вывихнул	вывихнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	start_char=2279|end_char=2287
+22	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	start_char=2288|end_char=2292
+23	с	с	ADP	_	_	24	case	_	start_char=2293|end_char=2294
+24	микрофоном	микрофон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	start_char=2295|end_char=2305
+25	,	,	PUNCT	_	_	28	punct	_	start_char=2305|end_char=2306
+26	от	от	ADP	_	_	27	case	_	start_char=2307|end_char=2309
+27	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	28	obl	_	start_char=2310|end_char=2314
+28	зазывала	зазывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	_	start_char=2315|end_char=2323
+29	свалился	свалиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	28	conj	_	start_char=2324|end_char=2332
+30	на	на	ADP	_	_	31	case	_	start_char=2333|end_char=2335
+31	ступеньки	ступенька	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	29	obl	_	start_char=2336|end_char=2345
+32	.	.	PUNCT	_	_	16	punct	_	start_char=2345|end_char=2346
+
+# text = Вся компания, возглавляемая этим самым татуированным, быстро прошла в стрип-клуб, только даже на вид неуравновешенный очкарик вернулся и ещё наподдал упавшему ногой по рёбрам.
+# sent_id = 23
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	2	det	_	start_char=2347|end_char=2350
+2	компания	компания	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=2351|end_char=2359
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2359|end_char=2360
+4	возглавляемая	возглавлять	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	start_char=2361|end_char=2374
+5	этим	этот	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=2375|end_char=2379
+6	самым	самый	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Emp	7	det	_	start_char=2380|end_char=2385
+7	татуированным	татуированный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	xcomp	_	start_char=2386|end_char=2399
+8	,	,	PUNCT	_	_	4	punct	_	start_char=2399|end_char=2400
+9	быстро	быстро	ADV	_	Degree=Pos	10	advmod	_	start_char=2401|end_char=2407
+10	прошла	пройти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2408|end_char=2414
+11	в	в	ADP	_	_	12	case	_	start_char=2415|end_char=2416
+12	стрип-клуб	стрип-клуб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=2417|end_char=2427
+13	,	,	PUNCT	_	_	20	punct	_	start_char=2427|end_char=2428
+14	только	только	PART	_	_	17	advmod	_	start_char=2429|end_char=2435
+15	даже	даже	PART	_	_	17	advmod	_	start_char=2436|end_char=2440
+16	на	на	ADP	_	_	17	case	_	start_char=2441|end_char=2443
+17	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	start_char=2444|end_char=2447
+18	неуравновешенный	неуравновешенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=2448|end_char=2464
+19	очкарик	очкарик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	start_char=2465|end_char=2472
+20	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=2473|end_char=2481
+21	и	и	CCONJ	_	_	23	cc	_	start_char=2482|end_char=2483
+22	ещё	еще	ADV	_	Degree=Pos	23	advmod	_	start_char=2484|end_char=2487
+23	наподдал	наподдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=2488|end_char=2496
+24	упавшему	упасть	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	25	amod	_	start_char=2497|end_char=2505
+25	ногой	нога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	iobj	_	start_char=2506|end_char=2511
+26	по	по	ADP	_	_	27	case	_	start_char=2512|end_char=2514
+27	рёбрам	ребро	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	23	obl	_	start_char=2515|end_char=2521
+28	.	.	PUNCT	_	_	10	punct	_	start_char=2521|end_char=2522
+
+# text = Доктор повторно махнул зонтиком и шустро засеменил в клуб, даже не проверяя, не отстала ли от него Мелани.
+# sent_id = 24
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2523|end_char=2529
+2	повторно	повторно	ADV	_	Degree=Pos	3	advmod	_	start_char=2530|end_char=2538
+3	махнул	махнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2539|end_char=2545
+4	зонтиком	зонтик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=2546|end_char=2554
+5	и	и	CCONJ	_	_	7	cc	_	start_char=2555|end_char=2556
+6	шустро	шустро	ADV	_	Degree=Pos	7	advmod	_	start_char=2557|end_char=2563
+7	засеменил	засеменить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2564|end_char=2573
+8	в	в	ADP	_	_	9	case	_	start_char=2574|end_char=2575
+9	клуб	клуб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=2576|end_char=2580
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2580|end_char=2581
+11	даже	даже	PART	_	_	13	advmod	_	start_char=2582|end_char=2586
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=2587|end_char=2589
+13	проверяя	проверять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=2590|end_char=2598
+14	,	,	PUNCT	_	_	16	punct	_	start_char=2598|end_char=2599
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=2600|end_char=2602
+16	отстала	отстать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2603|end_char=2610
+17	ли	ли	PART	_	_	16	advmod	_	start_char=2611|end_char=2613
+18	от	от	ADP	_	_	19	case	_	start_char=2614|end_char=2616
+19	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=2617|end_char=2621
+20	Мелани	Мелани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	16	nsubj	_	start_char=2622|end_char=2628
+21	.	.	PUNCT	_	_	3	punct	_	start_char=2628|end_char=2629
+
+# text = У той желания отставать не было, так что она едва не наступала ему на пятки.
+# sent_id = 25
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	У	у	ADP	_	_	3	case	_	start_char=2630|end_char=2631
+2	той	тот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	start_char=2632|end_char=2635
+3	желания	желание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	start_char=2636|end_char=2643
+4	отставать	отставать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=2644|end_char=2653
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2654|end_char=2656
+6	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2657|end_char=2661
+7	,	,	PUNCT	_	_	13	punct	_	start_char=2661|end_char=2662
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	13	mark	_	start_char=2663|end_char=2666
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=2667|end_char=2670
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=2671|end_char=2674
+11	едва	едва	ADV	_	Degree=Pos	13	advmod	_	start_char=2675|end_char=2679
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=2680|end_char=2682
+13	наступала	наступать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=2683|end_char=2692
+14	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	start_char=2693|end_char=2696
+15	на	на	ADP	_	_	16	case	_	start_char=2697|end_char=2699
+16	пятки	пятка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obl	_	start_char=2700|end_char=2705
+17	.	.	PUNCT	_	_	6	punct	_	start_char=2705|end_char=2706
+
+# text = Доктор чуть придержал острым кончиком зонта начавшегося подниматься зазывалу, чтобы
+# sent_id = 26
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2707|end_char=2713
+2	чуть	чуть	ADV	_	Degree=Pos	3	advmod	_	start_char=2714|end_char=2718
+3	придержал	придержать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2719|end_char=2728
+4	острым	острый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=2729|end_char=2735
+5	кончиком	кончик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	start_char=2736|end_char=2744
+6	зонта	зонт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=2745|end_char=2750
+7	начавшегося	начаться	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	start_char=2751|end_char=2762
+8	подниматься	подниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=2763|end_char=2774
+9	зазывалу	зазывал	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	start_char=2775|end_char=2783
+10	,	,	PUNCT	_	_	11	punct	_	start_char=2783|end_char=2784
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	8	mark	_	start_char=2785|end_char=2790
+
+# text = Мел могла спокойно пройти, и она проскакала вверх по ступенькам со скоростью и изяществом газели.
+# sent_id = 27
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мел	мел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2791|end_char=2794
+2	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2795|end_char=2800
+3	спокойно	спокойно	ADV	_	Degree=Pos	4	advmod	_	start_char=2801|end_char=2809
+4	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2810|end_char=2816
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2816|end_char=2817
+6	и	и	CCONJ	_	_	8	cc	_	start_char=2818|end_char=2819
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=2820|end_char=2823
+8	проскакала	проскакать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2824|end_char=2834
+9	вверх	вверх	ADV	_	Degree=Pos	8	advmod	_	start_char=2835|end_char=2840
+10	по	по	ADP	_	_	11	case	_	start_char=2841|end_char=2843
+11	ступенькам	ступенька	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	8	obl	_	start_char=2844|end_char=2854
+12	со	со	ADP	_	_	13	case	_	start_char=2855|end_char=2857
+13	скоростью	скорость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	nmod	_	start_char=2858|end_char=2867
+14	и	и	CCONJ	_	_	15	cc	_	start_char=2868|end_char=2869
+15	изяществом	изящество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	conj	_	start_char=2870|end_char=2880
+16	газели	газель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	start_char=2881|end_char=2887
+17	.	.	PUNCT	_	_	2	punct	_	start_char=2887|end_char=2888
+
+# text = Доктор чинно проследовал за ней.
+# sent_id = 28
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2889|end_char=2895
+2	чинно	чинно	ADV	_	Degree=Pos	3	advmod	_	start_char=2896|end_char=2901
+3	проследовал	проследовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2902|end_char=2913
+4	за	за	ADP	_	_	5	case	_	start_char=2914|end_char=2916
+5	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=2917|end_char=2920
+6	.	.	PUNCT	_	_	3	punct	_	start_char=2920|end_char=2921
+
+# text = Мелани остановилась почти в дверях, чтобы оглядеться.
+# sent_id = 29
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мелани	Мелани	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2922|end_char=2928
+2	остановилась	остановиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2929|end_char=2941
+3	почти	почти	ADV	_	Degree=Pos	5	advmod	_	start_char=2942|end_char=2947
+4	в	в	ADP	_	_	5	case	_	start_char=2948|end_char=2949
+5	дверях	дверь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	obl	_	start_char=2950|end_char=2956
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2956|end_char=2957
+7	чтобы	чтобы	SCONJ	_	Mood=Cnd	8	mark	_	start_char=2958|end_char=2963
+8	оглядеться	оглядеться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	advcl	_	start_char=2964|end_char=2974
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2974|end_char=2975
+
+# text = Свободных столиков не было.
+# sent_id = 30
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Свободных	свободный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	start_char=2976|end_char=2985
+2	столиков	столик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	start_char=2986|end_char=2994
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2995|end_char=2997
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2998|end_char=3002
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3002|end_char=3003
+
+# text = Или были, если не считать лежащих на них перепивших байкеров.
+# sent_id = 31
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Или	или	CCONJ	_	_	2	cc	_	start_char=3004|end_char=3007
+2	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3008|end_char=3012
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3012|end_char=3013
+4	если	если	SCONJ	_	_	6	mark	_	start_char=3014|end_char=3018
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=3019|end_char=3021
+6	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	advcl	_	start_char=3022|end_char=3029
+7	лежащих	лежать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	start_char=3030|end_char=3037
+8	на	на	ADP	_	_	9	case	_	start_char=3038|end_char=3040
+9	них	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obl	_	start_char=3041|end_char=3044
+10	перепивших	перепить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	start_char=3045|end_char=3055
+11	байкеров	байкер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	start_char=3056|end_char=3064
+12	.	.	PUNCT	_	_	2	punct	_	start_char=3064|end_char=3065
+
+# text = Под страстное латино в нишах по стенам извивались знойные красотки.
+# sent_id = 32
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Под	под	ADP	_	_	3	case	_	start_char=3066|end_char=3069
+2	страстное	страстный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=3070|end_char=3079
+3	латино	латино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	start_char=3080|end_char=3086
+4	в	в	ADP	_	_	5	case	_	start_char=3087|end_char=3088
+5	нишах	ниша	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	obl	_	start_char=3089|end_char=3094
+6	по	по	ADP	_	_	7	case	_	start_char=3095|end_char=3097
+7	стенам	стена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	8	obl	_	start_char=3098|end_char=3104
+8	извивались	извиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3105|end_char=3115
+9	знойные	знойной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	start_char=3116|end_char=3123
+10	красотки	красотка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	start_char=3124|end_char=3132
+11	.	.	PUNCT	_	_	8	punct	_	start_char=3132|end_char=3133
+
+# text = В воздухе меньше всего было именно воздуха, и много – алкогольных паров, табачного дыма и ещё чего-то сладкого на вкус.
+# sent_id = 33
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	В	в	ADP	_	_	2	case	_	start_char=3134|end_char=3135
+2	воздухе	воздух	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=3136|end_char=3143
+3	меньше	мало	ADV	_	Degree=Cmp|PronType=Tot	2	advmod	_	start_char=3144|end_char=3150
+4	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	2	nmod	_	start_char=3151|end_char=3156
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=3157|end_char=3161
+6	именно	именно	PART	_	_	7	advmod	_	start_char=3162|end_char=3168
+7	воздуха	воздух	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3169|end_char=3176
+8	,	,	PUNCT	_	_	10	punct	_	start_char=3176|end_char=3177
+9	и	и	CCONJ	_	_	10	cc	_	start_char=3178|end_char=3179
+10	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	2	conj	_	start_char=3180|end_char=3185
+11	–	–	PUNCT	_	_	13	punct	_	start_char=3186|end_char=3187
+12	алкогольных	алкогольный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	start_char=3188|end_char=3199
+13	паров	пар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nsubj	_	start_char=3200|end_char=3205
+14	,	,	PUNCT	_	_	16	punct	_	start_char=3205|end_char=3206
+15	табачного	табачный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=3207|end_char=3216
+16	дыма	дым	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	conj	_	start_char=3217|end_char=3221
+17	и	и	CCONJ	_	_	19	cc	_	start_char=3222|end_char=3223
+18	ещё	еще	ADV	_	Degree=Pos	19	advmod	_	start_char=3224|end_char=3227
+19	чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	13	conj	_	start_char=3228|end_char=3235
+20	сладкого	сладкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=3236|end_char=3244
+21	на	на	ADP	_	_	22	case	_	start_char=3245|end_char=3247
+22	вкус	вкус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	nmod	_	start_char=3248|end_char=3252
+23	.	.	PUNCT	_	_	2	punct	_	start_char=3252|end_char=3253
+
+# text = Доктор потихоньку освободил один столик в дальнем углу, переложив предыдущего клиента с него на пол к стеночке, и усадил Мелани, которая уже мечтала сбежать.
+# sent_id = 34
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3254|end_char=3260
+2	потихоньку	потихоньку	ADV	_	Degree=Pos	3	advmod	_	start_char=3261|end_char=3271
+3	освободил	освободить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3272|end_char=3281
+4	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	5	nummod	_	start_char=3282|end_char=3286
+5	столик	столик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=3287|end_char=3293
+6	в	в	ADP	_	_	8	case	_	start_char=3294|end_char=3295
+7	дальнем	дальний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=3296|end_char=3303
+8	углу	угол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=3304|end_char=3308
+9	,	,	PUNCT	_	_	10	punct	_	start_char=3308|end_char=3309
+10	переложив	переложить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=3310|end_char=3319
+11	предыдущего	предыдущий	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=3320|end_char=3331
+12	клиента	клиент	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=3332|end_char=3339
+13	с	с	ADP	_	_	14	case	_	start_char=3340|end_char=3341
+14	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=3342|end_char=3346
+15	на	на	ADP	_	_	16	case	_	start_char=3347|end_char=3349
+16	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=3350|end_char=3353
+17	к	к	ADP	_	_	18	case	_	start_char=3354|end_char=3355
+18	стеночке	стеночка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	start_char=3356|end_char=3364
+19	,	,	PUNCT	_	_	21	punct	_	start_char=3364|end_char=3365
+20	и	и	CCONJ	_	_	21	cc	_	start_char=3366|end_char=3367
+21	усадил	усадить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3368|end_char=3374
+22	Мелани	Мелани	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	21	obj	_	start_char=3375|end_char=3381
+23	,	,	PUNCT	_	_	26	punct	_	start_char=3381|end_char=3382
+24	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	26	nsubj	_	start_char=3383|end_char=3390
+25	уже	уже	ADV	_	Degree=Pos	26	advmod	_	start_char=3391|end_char=3394
+26	мечтала	мечтать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=3395|end_char=3402
+27	сбежать	сбежать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	xcomp	_	start_char=3403|end_char=3410
+28	.	.	PUNCT	_	_	3	punct	_	start_char=3410|end_char=3411
+
+# text = Шоу, ради которого, кажется, и собирались многие из присутствующих, между тем дошло до своей кульминации.
+# sent_id = 35
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Шоу	шоу	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3412|end_char=3415
+2	,	,	PUNCT	_	_	9	punct	_	start_char=3415|end_char=3416
+3	ради	ради	ADP	_	_	4	case	_	start_char=3417|end_char=3421
+4	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	9	obl	_	start_char=3422|end_char=3430
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3430|end_char=3431
+6	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=3432|end_char=3439
+7	,	,	PUNCT	_	_	6	punct	_	start_char=3439|end_char=3440
+8	и	и	PART	_	_	9	advmod	_	start_char=3441|end_char=3442
+9	собирались	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	1	acl:relcl	_	start_char=3443|end_char=3453
+10	многие	многие	PRON	_	Case=Nom|Number=Plur|PronType=Tot	9	nsubj	_	start_char=3454|end_char=3460
+11	из	из	ADP	_	_	12	case	_	start_char=3461|end_char=3463
+12	присутствующих	присутствовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	nmod	_	start_char=3464|end_char=3478
+13	,	,	PUNCT	_	_	16	punct	_	start_char=3478|end_char=3479
+14	между	между	ADP	_	_	15	case	_	start_char=3480|end_char=3485
+15	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	16	obl	_	start_char=3486|end_char=3489
+16	дошло	дойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=3490|end_char=3495
+17	до	до	ADP	_	_	19	case	_	start_char=3496|end_char=3498
+18	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	start_char=3499|end_char=3504
+19	кульминации	кульминация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	start_char=3505|end_char=3516
+20	.	.	PUNCT	_	_	1	punct	_	start_char=3516|end_char=3517
+
+# text = Бармен оказался одновременно и конфераньсе.
+# sent_id = 36
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Бармен	бармен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3518|end_char=3524
+2	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3525|end_char=3533
+3	одновременно	одновременно	ADV	_	Degree=Pos	2	advmod	_	start_char=3534|end_char=3546
+4	и	и	CCONJ	_	_	5	cc	_	start_char=3547|end_char=3548
+5	конфераньсе	конфераньс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	conj	_	start_char=3549|end_char=3560
+6	.	.	PUNCT	_	_	2	punct	_	start_char=3560|end_char=3561
+
+# text = Выскочив к сцене, он объявил: – А сейчас вашим взорам предстанет Королева Тьмы, Богиня Зла, самая жестокая Губительница Душ, которую носила Земля!
+# sent_id = 37
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Выскочив	выскочить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=3562|end_char=3570
+2	к	к	ADP	_	_	3	case	_	start_char=3571|end_char=3572
+3	сцене	сцена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	obl	_	start_char=3573|end_char=3578
+4	,	,	PUNCT	_	_	1	punct	_	start_char=3578|end_char=3579
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3580|end_char=3582
+6	объявил	объявить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3583|end_char=3590
+7	:	:	PUNCT	_	_	13	punct	_	start_char=3590|end_char=3591
+8	–	–	PUNCT	_	_	13	punct	_	start_char=3592|end_char=3593
+9	А	а	CCONJ	_	_	13	cc	_	start_char=3594|end_char=3595
+10	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=3596|end_char=3602
+11	вашим	ваш	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs	12	det	_	start_char=3603|end_char=3608
+12	взорам	взор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	13	iobj	_	start_char=3609|end_char=3615
+13	предстанет	предстать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=3616|end_char=3626
+14	Королева	королева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=3627|end_char=3635
+15	Тьмы	Тьма	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	14	nmod	_	start_char=3636|end_char=3640
+16	,	,	PUNCT	_	_	17	punct	_	start_char=3640|end_char=3641
+17	Богиня	богиня	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	start_char=3642|end_char=3648
+18	Зла	Зла	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	17	nmod	_	start_char=3649|end_char=3652
+19	,	,	PUNCT	_	_	22	punct	_	start_char=3652|end_char=3653
+20	самая	самый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	21	det	_	start_char=3654|end_char=3659
+21	жестокая	жестокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=3660|end_char=3668
+22	Губительница	губительница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	start_char=3669|end_char=3681
+23	Душ	душ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	appos	_	start_char=3682|end_char=3685
+24	,	,	PUNCT	_	_	26	punct	_	start_char=3685|end_char=3686
+25	которую	который	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	26	obj	_	start_char=3687|end_char=3694
+26	носила	носить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	acl:relcl	_	start_char=3695|end_char=3701
+27	Земля	Земля	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	26	nsubj	_	start_char=3702|end_char=3707
+28	!	!	PUNCT	_	_	6	punct	_	start_char=3707|end_char=3708
+
+# text = Преклоните колени и целуйте ноги Царице Демонов!
+# sent_id = 38
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Преклоните	преклонить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3709|end_char=3719
+2	колени	колено	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1	obj	_	start_char=3720|end_char=3726
+3	и	и	CCONJ	_	_	4	cc	_	start_char=3727|end_char=3728
+4	целуйте	целовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	start_char=3729|end_char=3736
+5	ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=3737|end_char=3741
+6	Царице	Царица	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|NameType=Giv|Number=Sing	4	iobj	_	start_char=3742|end_char=3748
+7	Демонов	демон	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	6	flat:name	_	start_char=3749|end_char=3756
+8	!	!	PUNCT	_	_	1	punct	_	start_char=3756|end_char=3757
+
+# text = На его последних словах заиграла музыка, раздвинулся легкий занавес из отдельных нитей, похожих на струйки крови, и предстала танцовщица, таинственно завёрнутая в плащ с изображением гигантской алой змеи.
+# sent_id = 39
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	На	на	ADP	_	_	4	case	_	start_char=3758|end_char=3760
+2	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=3761|end_char=3764
+3	последних	последний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	amod	_	start_char=3765|end_char=3774
+4	словах	слово	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	obl	_	start_char=3775|end_char=3781
+5	заиграла	заиграть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3782|end_char=3790
+6	музыка	музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=3791|end_char=3797
+7	,	,	PUNCT	_	_	8	punct	_	start_char=3797|end_char=3798
+8	раздвинулся	раздвинуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=3799|end_char=3810
+9	легкий	легкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=3811|end_char=3817
+10	занавес	занавес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=3818|end_char=3825
+11	из	из	ADP	_	_	13	case	_	start_char=3826|end_char=3828
+12	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	start_char=3829|end_char=3838
+13	нитей	нить	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	start_char=3839|end_char=3844
+14	,	,	PUNCT	_	_	15	punct	_	start_char=3844|end_char=3845
+15	похожих	похожий	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	start_char=3846|end_char=3853
+16	на	на	ADP	_	_	17	case	_	start_char=3854|end_char=3856
+17	струйки	струйка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	obl	_	start_char=3857|end_char=3864
+18	крови	кровь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=3865|end_char=3870
+19	,	,	PUNCT	_	_	21	punct	_	start_char=3870|end_char=3871
+20	и	и	CCONJ	_	_	21	cc	_	start_char=3872|end_char=3873
+21	предстала	предстать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=3874|end_char=3883
+22	танцовщица	танцовщица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	start_char=3884|end_char=3894
+23	,	,	PUNCT	_	_	25	punct	_	start_char=3894|end_char=3895
+24	таинственно	таинственно	ADV	_	Degree=Pos	25	advmod	_	start_char=3896|end_char=3907
+25	завёрнутая	завернуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	acl	_	start_char=3908|end_char=3918
+26	в	в	ADP	_	_	27	case	_	start_char=3919|end_char=3920
+27	плащ	плащ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obl	_	start_char=3921|end_char=3925
+28	с	с	ADP	_	_	29	case	_	start_char=3926|end_char=3927
+29	изображением	изображение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	obl	_	start_char=3928|end_char=3940
+30	гигантской	гигантский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	start_char=3941|end_char=3951
+31	алой	алой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	start_char=3952|end_char=3956
+32	змеи	змея	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	start_char=3957|end_char=3961
+33	.	.	PUNCT	_	_	5	punct	_	start_char=3961|end_char=3962
+
+# text = Она начала чуть извиваться под музыку, и змея на плаще словно зажила, извиваясь вместе с ней.
+# sent_id = 40
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=3963|end_char=3966
+2	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3967|end_char=3973
+3	чуть	чуть	ADV	_	Degree=Pos	4	advmod	_	start_char=3974|end_char=3978
+4	извиваться	извиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=3979|end_char=3989
+5	под	под	ADP	_	_	6	case	_	start_char=3990|end_char=3993
+6	музыку	музыка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=3994|end_char=4000
+7	,	,	PUNCT	_	_	13	punct	_	start_char=4000|end_char=4001
+8	и	и	CCONJ	_	_	13	cc	_	start_char=4002|end_char=4003
+9	змея	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=4004|end_char=4008
+10	на	на	ADP	_	_	11	case	_	start_char=4009|end_char=4011
+11	плаще	плаща	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	start_char=4012|end_char=4017
+12	словно	словно	SCONJ	_	_	13	mark	_	start_char=4018|end_char=4024
+13	зажила	зажить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4025|end_char=4031
+14	,	,	PUNCT	_	_	15	punct	_	start_char=4031|end_char=4032
+15	извиваясь	извиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	13	advcl	_	start_char=4033|end_char=4042
+16	вместе	вместе	ADV	_	Degree=Pos	15	advmod	_	start_char=4043|end_char=4049
+17	с	с	ADP	_	_	18	case	_	start_char=4050|end_char=4051
+18	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=4052|end_char=4055
+19	.	.	PUNCT	_	_	2	punct	_	start_char=4055|end_char=4056
+
+# text = Она распахнула плащ и скинула его на руки своим помощницам.
+# sent_id = 41
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=4057|end_char=4060
+2	распахнула	распахнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4061|end_char=4071
+3	плащ	плащ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=4072|end_char=4076
+4	и	и	CCONJ	_	_	5	cc	_	start_char=4077|end_char=4078
+5	скинула	скинуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4079|end_char=4086
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=4087|end_char=4090
+7	на	на	ADP	_	_	8	case	_	start_char=4091|end_char=4093
+8	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obl	_	start_char=4094|end_char=4098
+9	своим	свой	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	start_char=4099|end_char=4104
+10	помощницам	помощница	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	start_char=4105|end_char=4115
+11	.	.	PUNCT	_	_	2	punct	_	start_char=4115|end_char=4116
+
+# text = Под плащом оказалась татуировка – огромная красная змея, будто висящая на шее и спускающаяся по бокам девушки.
+# sent_id = 42
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Под	под	ADP	_	_	2	case	_	start_char=4117|end_char=4120
+2	плащом	плащ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	start_char=4121|end_char=4127
+3	оказалась	оказаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4128|end_char=4137
+4	татуировка	татуировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=4138|end_char=4148
+5	–	–	PUNCT	_	_	8	punct	_	start_char=4149|end_char=4150
+6	огромная	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=4151|end_char=4159
+7	красная	красный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=4160|end_char=4167
+8	змея	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	start_char=4168|end_char=4172
+9	,	,	PUNCT	_	_	11	punct	_	start_char=4172|end_char=4173
+10	будто	будто	SCONJ	_	_	11	mark	_	start_char=4174|end_char=4179
+11	висящая	висить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	start_char=4180|end_char=4187
+12	на	на	ADP	_	_	13	case	_	start_char=4188|end_char=4190
+13	шее	шея	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	start_char=4191|end_char=4194
+14	и	и	CCONJ	_	_	15	cc	_	start_char=4195|end_char=4196
+15	спускающаяся	спускаться	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	start_char=4197|end_char=4209
+16	по	по	ADP	_	_	17	case	_	start_char=4210|end_char=4212
+17	бокам	бок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	15	obl	_	start_char=4213|end_char=4218
+18	девушки	девушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=4219|end_char=4226
+19	.	.	PUNCT	_	_	3	punct	_	start_char=4226|end_char=4227
+
+# text = Один быстрый поворот – и эта змея уже настоящая, она поднимает голову и пробует воздух длинным раздвоенным языком.
+# sent_id = 43
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	start_char=4228|end_char=4232
+2	быстрый	быстрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=4233|end_char=4240
+3	поворот	поворот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4241|end_char=4248
+4	–	–	PUNCT	_	_	9	punct	_	start_char=4249|end_char=4250
+5	и	и	CCONJ	_	_	9	cc	_	start_char=4251|end_char=4252
+6	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=4253|end_char=4256
+7	змея	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=4257|end_char=4261
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	start_char=4262|end_char=4265
+9	настоящая	настоящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	start_char=4266|end_char=4275
+10	,	,	PUNCT	_	_	12	punct	_	start_char=4275|end_char=4276
+11	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=4277|end_char=4280
+12	поднимает	поднимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=4281|end_char=4290
+13	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=4291|end_char=4297
+14	и	и	CCONJ	_	_	15	cc	_	start_char=4298|end_char=4299
+15	пробует	пробовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=4300|end_char=4307
+16	воздух	воздух	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	start_char=4308|end_char=4314
+17	длинным	длинный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=4315|end_char=4322
+18	раздвоенным	раздвоенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=4323|end_char=4334
+19	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	iobj	_	start_char=4335|end_char=4341
+20	.	.	PUNCT	_	_	3	punct	_	start_char=4341|end_char=4342
+
+# text = Танцовщица наметила жертву – или счастливчика?
+# sent_id = 44
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Танцовщица	танцовщица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=4343|end_char=4353
+2	наметила	наметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4354|end_char=4362
+3	жертву	жертва	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=4363|end_char=4369
+4	–	–	PUNCT	_	_	6	punct	_	start_char=4370|end_char=4371
+5	или	или	CCONJ	_	_	6	cc	_	start_char=4372|end_char=4375
+6	счастливчика	счастливчика	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	conj	_	start_char=4376|end_char=4388
+7	?	?	PUNCT	_	_	2	punct	_	start_char=4388|end_char=4389
+
+# text = – из толпы, для кого сегодня она исполнит свой особый танец и, всё так же извиваясь, пошла к тому неуравновешенному очкарику...
+# sent_id = 45
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4390|end_char=4391
+2	из	из	ADP	_	_	3	case	_	start_char=4392|end_char=4394
+3	толпы	толпа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=4395|end_char=4400
+4	,	,	PUNCT	_	_	9	punct	_	start_char=4400|end_char=4401
+5	для	для	ADP	_	_	6	case	_	start_char=4402|end_char=4405
+6	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	9	obl	_	start_char=4406|end_char=4410
+7	сегодня	сегодня	ADV	_	Degree=Pos	9	advmod	_	start_char=4411|end_char=4418
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=4419|end_char=4422
+9	исполнит	исполнить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=4423|end_char=4431
+10	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=4432|end_char=4436
+11	особый	особый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=4437|end_char=4443
+12	танец	танец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=4444|end_char=4449
+13	и	и	CCONJ	_	_	20	cc	_	start_char=4450|end_char=4451
+14	,	,	PUNCT	_	_	18	punct	_	start_char=4451|end_char=4452
+15	всё	всё	ADV	_	Degree=Pos|PronType=Tot	16	advmod	_	start_char=4453|end_char=4456
+16	так	так	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=4457|end_char=4460
+17	же	же	PART	_	_	16	advmod	_	start_char=4461|end_char=4463
+18	извиваясь	извиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	20	advcl	_	start_char=4464|end_char=4473
+19	,	,	PUNCT	_	_	18	punct	_	start_char=4473|end_char=4474
+20	пошла	пойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=4475|end_char=4480
+21	к	к	ADP	_	_	24	case	_	start_char=4481|end_char=4482
+22	тому	тот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	start_char=4483|end_char=4487
+23	неуравновешенному	неуравновешенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=4488|end_char=4505
+24	очкарику	очкарик	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	20	obl	_	start_char=4506|end_char=4514
+25	...	...	PUNCT	_	_	3	punct	_	start_char=4514|end_char=4517
+
+# text = Доктор коротко кашлянул в своём углу.
+# sent_id = 46
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4518|end_char=4524
+2	коротко	коротко	ADV	_	Degree=Pos	3	advmod	_	start_char=4525|end_char=4532
+3	кашлянул	кашлянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4533|end_char=4541
+4	в	в	ADP	_	_	6	case	_	start_char=4542|end_char=4543
+5	своём	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=4544|end_char=4549
+6	углу	угол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=4550|end_char=4554
+7	.	.	PUNCT	_	_	3	punct	_	start_char=4554|end_char=4555
+
+# text = В зале, который боялся вздохнуть, это прозвучало оглушительно, танцовщица на миг сбилась с ритма, но поймала его снова, повернулась и направилась прямо к Доктору.
+# sent_id = 47
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	В	в	ADP	_	_	2	case	_	start_char=4556|end_char=4557
+2	зале	зал	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	start_char=4558|end_char=4562
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4562|end_char=4563
+4	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	start_char=4564|end_char=4571
+5	боялся	бояться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	start_char=4572|end_char=4578
+6	вздохнуть	вздохнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=4579|end_char=4588
+7	,	,	PUNCT	_	_	5	punct	_	start_char=4588|end_char=4589
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=4590|end_char=4593
+9	прозвучало	прозвучать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4594|end_char=4604
+10	оглушительно	оглушительно	ADV	_	Degree=Pos	9	advmod	_	start_char=4605|end_char=4617
+11	,	,	PUNCT	_	_	15	punct	_	start_char=4617|end_char=4618
+12	танцовщица	танцовщица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=4619|end_char=4629
+13	на	на	ADP	_	_	14	case	_	start_char=4630|end_char=4632
+14	миг	миг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=4633|end_char=4636
+15	сбилась	сбиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=4637|end_char=4644
+16	с	с	ADP	_	_	17	case	_	start_char=4645|end_char=4646
+17	ритма	ритма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	start_char=4647|end_char=4652
+18	,	,	PUNCT	_	_	20	punct	_	start_char=4652|end_char=4653
+19	но	но	CCONJ	_	_	20	cc	_	start_char=4654|end_char=4656
+20	поймала	поймать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=4657|end_char=4664
+21	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	start_char=4665|end_char=4668
+22	снова	снова	ADV	_	Degree=Pos	20	advmod	_	start_char=4669|end_char=4674
+23	,	,	PUNCT	_	_	24	punct	_	start_char=4674|end_char=4675
+24	повернулась	повернуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=4676|end_char=4687
+25	и	и	CCONJ	_	_	26	cc	_	start_char=4688|end_char=4689
+26	направилась	направиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=4690|end_char=4701
+27	прямо	прямо	PART	_	_	29	advmod	_	start_char=4702|end_char=4707
+28	к	к	ADP	_	_	29	case	_	start_char=4708|end_char=4709
+29	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	26	obl	_	start_char=4710|end_char=4717
+30	.	.	PUNCT	_	_	9	punct	_	start_char=4717|end_char=4718
+
+# text = Очкарик возмущённо подскочил на месте, но татуированный удержал его и подсунул ему бутылку виски.
+# sent_id = 48
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Очкарик	очкарик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4719|end_char=4726
+2	возмущённо	возмущенно	ADV	_	Degree=Pos	3	advmod	_	start_char=4727|end_char=4737
+3	подскочил	подскочить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4738|end_char=4747
+4	на	на	ADP	_	_	5	case	_	start_char=4748|end_char=4750
+5	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	start_char=4751|end_char=4756
+6	,	,	PUNCT	_	_	9	punct	_	start_char=4756|end_char=4757
+7	но	но	CCONJ	_	_	9	cc	_	start_char=4758|end_char=4760
+8	татуированный	татуировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	nsubj	_	start_char=4761|end_char=4774
+9	удержал	удержать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4775|end_char=4782
+10	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=4783|end_char=4786
+11	и	и	CCONJ	_	_	12	cc	_	start_char=4787|end_char=4788
+12	подсунул	подсунуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4789|end_char=4797
+13	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	start_char=4798|end_char=4801
+14	бутылку	бутылка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=4802|end_char=4809
+15	виски	виски	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=4810|end_char=4815
+16	.	.	PUNCT	_	_	3	punct	_	start_char=4815|end_char=4816
+
+# text = Танцовщица остановилась перед столом Доктора.
+# sent_id = 49
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Танцовщица	танцовщица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=4817|end_char=4827
+2	остановилась	остановиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4828|end_char=4840
+3	перед	перед	ADP	_	_	4	case	_	start_char=4841|end_char=4846
+4	столом	стол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=4847|end_char=4853
+5	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=4854|end_char=4861
+6	.	.	PUNCT	_	_	2	punct	_	start_char=4861|end_char=4862
+
+# text = Дальше по программе счастливчик – или всё же жертва?
+# sent_id = 50
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Дальше	дальше	ADV	_	Degree=Cmp	4	advmod	_	start_char=4863|end_char=4869
+2	по	по	ADP	_	_	3	case	_	start_char=4870|end_char=4872
+3	программе	программа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	start_char=4873|end_char=4882
+4	счастливчик	счастливчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4883|end_char=4894
+5	–	–	PUNCT	_	_	9	punct	_	start_char=4895|end_char=4896
+6	или	или	CCONJ	_	_	9	cc	_	start_char=4897|end_char=4900
+7	всё	все	PART	_	_	9	advmod	_	start_char=4901|end_char=4904
+8	же	же	PART	_	_	7	advmod	_	start_char=4905|end_char=4907
+9	жертва	жертва	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	start_char=4908|end_char=4914
+10	?	?	PUNCT	_	_	4	punct	_	start_char=4914|end_char=4915
+
+# text = – должен был пить с ноги Королевы Тьмы, однако на столе было пусто.
+# sent_id = 51
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4916|end_char=4917
+2	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=4918|end_char=4924
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	aux	_	start_char=4925|end_char=4928
+4	пить	пить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=4929|end_char=4933
+5	с	с	ADP	_	_	6	case	_	start_char=4934|end_char=4935
+6	ноги	нога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=4936|end_char=4940
+7	Королевы	королев	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=4941|end_char=4949
+8	Тьмы	Тьма	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	6	nmod	_	start_char=4950|end_char=4954
+9	,	,	PUNCT	_	_	14	punct	_	start_char=4954|end_char=4955
+10	однако	однако	CCONJ	_	_	14	cc	_	start_char=4956|end_char=4962
+11	на	на	ADP	_	_	12	case	_	start_char=4963|end_char=4965
+12	столе	стол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	start_char=4966|end_char=4971
+13	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=4972|end_char=4976
+14	пусто	пустой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	conj	_	start_char=4977|end_char=4982
+15	.	.	PUNCT	_	_	2	punct	_	start_char=4982|end_char=4983
+
+# text = Помощники Губительницы заволновались, но она просто улыбнулась, подтащила к себе пустой стул и уселась за стол.
+# sent_id = 52
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Помощники	помощник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=4984|end_char=4993
+2	Губительницы	губительница	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	start_char=4994|end_char=5006
+3	заволновались	заволноваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5007|end_char=5020
+4	,	,	PUNCT	_	_	8	punct	_	start_char=5020|end_char=5021
+5	но	но	CCONJ	_	_	8	cc	_	start_char=5022|end_char=5024
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=5025|end_char=5028
+7	просто	просто	PART	_	_	8	advmod	_	start_char=5029|end_char=5035
+8	улыбнулась	улыбнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=5036|end_char=5046
+9	,	,	PUNCT	_	_	10	punct	_	start_char=5046|end_char=5047
+10	подтащила	подтащить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5048|end_char=5057
+11	к	к	ADP	_	_	12	case	_	start_char=5058|end_char=5059
+12	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	10	obl	_	start_char=5060|end_char=5064
+13	пустой	пустой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=5065|end_char=5071
+14	стул	стул	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=5072|end_char=5076
+15	и	и	CCONJ	_	_	16	cc	_	start_char=5077|end_char=5078
+16	уселась	усесться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=5079|end_char=5086
+17	за	за	ADP	_	_	18	case	_	start_char=5087|end_char=5089
+18	стол	стол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	start_char=5090|end_char=5094
+19	.	.	PUNCT	_	_	3	punct	_	start_char=5094|end_char=5095
+
+# text = Змея снова стала татуировкой, но Доктор не обольщался.
+# sent_id = 53
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Змея	змея	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=5096|end_char=5100
+2	снова	снова	ADV	_	Degree=Pos	3	advmod	_	start_char=5101|end_char=5106
+3	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5107|end_char=5112
+4	татуировкой	татуировка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	xcomp	_	start_char=5113|end_char=5124
+5	,	,	PUNCT	_	_	9	punct	_	start_char=5124|end_char=5125
+6	но	но	CCONJ	_	_	9	cc	_	start_char=5126|end_char=5128
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=5129|end_char=5135
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=5136|end_char=5138
+9	обольщался	обольщаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=5139|end_char=5149
+10	.	.	PUNCT	_	_	3	punct	_	start_char=5149|end_char=5150
+
+# text = – Мы снова встретились, Мара.
+# sent_id = 54
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5151|end_char=5152
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=5153|end_char=5155
+3	снова	снова	ADV	_	Degree=Pos	4	advmod	_	start_char=5156|end_char=5161
+4	встретились	встретиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5162|end_char=5173
+5	,	,	PUNCT	_	_	6	punct	_	start_char=5173|end_char=5174
+6	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	vocative	_	start_char=5175|end_char=5179
+7	.	.	PUNCT	_	_	4	punct	_	start_char=5179|end_char=5180
+
+# text = – Да, Доктор.
+# sent_id = 55
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5181|end_char=5182
+2	Да	да	PART	_	_	4	parataxis	_	start_char=5183|end_char=5185
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5185|end_char=5186
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=5187|end_char=5193
+5	.	.	PUNCT	_	_	4	punct	_	start_char=5193|end_char=5194
+
+# text = Я вижу, у тебя новая спутница.
+# sent_id = 56
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=5195|end_char=5196
+2	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5197|end_char=5201
+3	,	,	PUNCT	_	_	5	punct	_	start_char=5201|end_char=5202
+4	у	у	ADP	_	_	5	case	_	start_char=5203|end_char=5204
+5	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	conj	_	start_char=5205|end_char=5209
+6	новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=5210|end_char=5215
+7	спутница	спутница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=5216|end_char=5224
+8	.	.	PUNCT	_	_	2	punct	_	start_char=5224|end_char=5225
+
+# text = – А я вижу, что ты нашла себе неплохой приют на Земле.
+# sent_id = 57
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5226|end_char=5227
+2	А	а	CCONJ	_	_	4	cc	_	start_char=5228|end_char=5229
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5230|end_char=5231
+4	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5232|end_char=5236
+5	,	,	PUNCT	_	_	8	punct	_	start_char=5236|end_char=5237
+6	что	что	SCONJ	_	_	8	mark	_	start_char=5238|end_char=5241
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=5242|end_char=5244
+8	нашла	найти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=5245|end_char=5250
+9	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	8	iobj	_	start_char=5251|end_char=5255
+10	неплохой	неплохой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=5256|end_char=5264
+11	приют	приют	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=5265|end_char=5270
+12	на	на	ADP	_	_	13	case	_	start_char=5271|end_char=5273
+13	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	start_char=5274|end_char=5279
+14	.	.	PUNCT	_	_	4	punct	_	start_char=5279|end_char=5280
+
+# text = – Я везде найду себе приют, где есть разумная жизнь, ты же знаешь.
+# sent_id = 58
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5281|end_char=5282
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5283|end_char=5284
+3	везде	везде	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=5285|end_char=5290
+4	найду	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=5291|end_char=5296
+5	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	iobj	_	start_char=5297|end_char=5301
+6	приют	приют	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=5302|end_char=5307
+7	,	,	PUNCT	_	_	9	punct	_	start_char=5307|end_char=5308
+8	где	где	ADV	_	Degree=Pos|PronType=Rel	9	advmod	_	start_char=5309|end_char=5312
+9	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=5313|end_char=5317
+10	разумная	разумный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=5318|end_char=5326
+11	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=5327|end_char=5332
+12	,	,	PUNCT	_	_	15	punct	_	start_char=5332|end_char=5333
+13	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=5334|end_char=5336
+14	же	же	PART	_	_	13	advmod	_	start_char=5337|end_char=5339
+15	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=5340|end_char=5346
+16	.	.	PUNCT	_	_	4	punct	_	start_char=5346|end_char=5347
+
+# text = Я в каждом человеке.
+# sent_id = 59
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5348|end_char=5349
+2	в	в	ADP	_	_	4	case	_	start_char=5350|end_char=5351
+3	каждом	каждый	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	4	det	_	start_char=5352|end_char=5358
+4	человеке	человек	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=5359|end_char=5367
+5	.	.	PUNCT	_	_	4	punct	_	start_char=5367|end_char=5368
+
+# text = – Я знаю, что когда-то тебя не было.
+# sent_id = 60
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5369|end_char=5370
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5371|end_char=5372
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5373|end_char=5377
+4	,	,	PUNCT	_	_	9	punct	_	start_char=5377|end_char=5378
+5	что	что	SCONJ	_	_	9	mark	_	start_char=5379|end_char=5382
+6	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	9	advmod	_	start_char=5383|end_char=5391
+7	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	obj	_	start_char=5392|end_char=5396
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=5397|end_char=5399
+9	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=5400|end_char=5404
+10	.	.	PUNCT	_	_	3	punct	_	start_char=5404|end_char=5405
+
+# text = А раз не было, значит, можно сделать так, чтобы опять не стало.
+# sent_id = 61
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	А	а	CCONJ	_	_	4	cc	_	start_char=5406|end_char=5407
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=5408|end_char=5411
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=5412|end_char=5414
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5415|end_char=5419
+5	,	,	PUNCT	_	_	8	punct	_	start_char=5419|end_char=5420
+6	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=5421|end_char=5427
+7	,	,	PUNCT	_	_	6	punct	_	start_char=5427|end_char=5428
+8	можно	можно	VERB	_	_	4	conj	_	start_char=5429|end_char=5434
+9	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	csubj	_	start_char=5435|end_char=5442
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=5443|end_char=5446
+11	,	,	PUNCT	_	_	15	punct	_	start_char=5446|end_char=5447
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	mark	_	start_char=5448|end_char=5453
+13	опять	опять	ADV	_	Degree=Pos	15	advmod	_	start_char=5454|end_char=5459
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=5460|end_char=5462
+15	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=5463|end_char=5468
+16	.	.	PUNCT	_	_	4	punct	_	start_char=5468|end_char=5469
+
+# text = Мара засмеялся низким, мужским голосом.
+# sent_id = 62
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=5470|end_char=5474
+2	засмеялся	засмеяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5475|end_char=5484
+3	низким	низкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=5485|end_char=5491
+4	,	,	PUNCT	_	_	5	punct	_	start_char=5491|end_char=5492
+5	мужским	мужской	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	start_char=5493|end_char=5500
+6	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=5501|end_char=5508
+7	.	.	PUNCT	_	_	2	punct	_	start_char=5508|end_char=5509
+
+# text = Слышать такой смех, исходящий от красивой женщины, было очень странно для всех, кроме Доктора.
+# sent_id = 63
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Слышать	слышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	csubj	_	start_char=5510|end_char=5517
+2	такой	такой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=5518|end_char=5523
+3	смех	смех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=5524|end_char=5528
+4	,	,	PUNCT	_	_	5	punct	_	start_char=5528|end_char=5529
+5	исходящий	исходить	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	start_char=5530|end_char=5539
+6	от	от	ADP	_	_	8	case	_	start_char=5540|end_char=5542
+7	красивой	красивый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=5543|end_char=5551
+8	женщины	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	start_char=5552|end_char=5559
+9	,	,	PUNCT	_	_	5	punct	_	start_char=5559|end_char=5560
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=5561|end_char=5565
+11	очень	очень	ADV	_	Degree=Pos	12	advmod	_	start_char=5566|end_char=5571
+12	странно	странный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5572|end_char=5579
+13	для	для	ADP	_	_	14	case	_	start_char=5580|end_char=5583
+14	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Tot	12	obl	_	start_char=5584|end_char=5588
+15	,	,	PUNCT	_	_	17	punct	_	start_char=5588|end_char=5589
+16	кроме	кроме	ADP	_	_	17	case	_	start_char=5590|end_char=5595
+17	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	conj	_	start_char=5596|end_char=5603
+18	.	.	PUNCT	_	_	12	punct	_	start_char=5603|end_char=5604
+
+# text = – Ты хочешь попытаться остановить прогресс, движение вперед?
+# sent_id = 64
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5605|end_char=5606
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=5607|end_char=5609
+3	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5610|end_char=5616
+4	попытаться	попытаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=5617|end_char=5627
+5	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=5628|end_char=5638
+6	прогресс	прогресс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=5639|end_char=5647
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5647|end_char=5648
+8	движение	движение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	conj	_	start_char=5649|end_char=5657
+9	вперед	вперед	ADV	_	Degree=Pos	8	advmod	_	start_char=5658|end_char=5664
+10	?	?	PUNCT	_	_	3	punct	_	start_char=5664|end_char=5665
+
+# text = – Ты – не движение вперед, ты – движение в хаос!
+# sent_id = 65
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5666|end_char=5667
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=5668|end_char=5670
+3	–	–	PUNCT	_	_	5	punct	_	start_char=5671|end_char=5672
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=5673|end_char=5675
+5	движение	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=5676|end_char=5684
+6	вперед	вперед	ADV	_	Degree=Pos	5	advmod	_	start_char=5685|end_char=5691
+7	,	,	PUNCT	_	_	10	punct	_	start_char=5691|end_char=5692
+8	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=5693|end_char=5695
+9	–	–	PUNCT	_	_	10	punct	_	start_char=5696|end_char=5697
+10	движение	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	start_char=5698|end_char=5706
+11	в	в	ADP	_	_	12	case	_	start_char=5707|end_char=5708
+12	хаос	хаос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	start_char=5709|end_char=5713
+13	!	!	PUNCT	_	_	5	punct	_	start_char=5713|end_char=5714
+
+# text = – Я – движение.
+# sent_id = 66
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5715|end_char=5716
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5717|end_char=5718
+3	–	–	PUNCT	_	_	4	punct	_	start_char=5719|end_char=5720
+4	движение	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=5721|end_char=5729
+5	.	.	PUNCT	_	_	4	punct	_	start_char=5729|end_char=5730
+
+# text = Я – стремление.
+# sent_id = 67
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5731|end_char=5732
+2	–	–	PUNCT	_	_	3	punct	_	start_char=5733|end_char=5734
+3	стремление	стремление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=5735|end_char=5745
+4	.	.	PUNCT	_	_	3	punct	_	start_char=5745|end_char=5746
+
+# text = Я есть в каждом, и я – то, что даёт людям смысл и мотивацию что-то делать.
+# sent_id = 68
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=5747|end_char=5748
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5749|end_char=5753
+3	в	в	ADP	_	_	4	case	_	start_char=5754|end_char=5755
+4	каждом	каждый	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	2	obl	_	start_char=5756|end_char=5762
+5	,	,	PUNCT	_	_	7	punct	_	start_char=5762|end_char=5763
+6	и	и	CCONJ	_	_	7	cc	_	start_char=5764|end_char=5765
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	_	start_char=5766|end_char=5767
+8	–	–	PUNCT	_	_	9	punct	_	start_char=5768|end_char=5769
+9	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=5770|end_char=5772
+10	,	,	PUNCT	_	_	12	punct	_	start_char=5772|end_char=5773
+11	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj	_	start_char=5774|end_char=5777
+12	даёт	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=5778|end_char=5782
+13	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	12	iobj	_	start_char=5783|end_char=5788
+14	смысл	смысл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=5789|end_char=5794
+15	и	и	CCONJ	_	_	16	cc	_	start_char=5795|end_char=5796
+16	мотивацию	мотивация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	conj	_	start_char=5797|end_char=5806
+17	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	18	obj	_	start_char=5807|end_char=5813
+18	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=5814|end_char=5820
+19	.	.	PUNCT	_	_	2	punct	_	start_char=5820|end_char=5821
+
+# text = – Ты – тёмные закоулки в их душе, самые низменные страсти и желания.
+# sent_id = 69
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5822|end_char=5823
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=5824|end_char=5826
+3	–	–	PUNCT	_	_	5	punct	_	start_char=5827|end_char=5828
+4	тёмные	темный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	start_char=5829|end_char=5835
+5	закоулки	закоулок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=5836|end_char=5844
+6	в	в	ADP	_	_	8	case	_	start_char=5845|end_char=5846
+7	их	их	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=5847|end_char=5849
+8	душе	душа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	start_char=5850|end_char=5854
+9	,	,	PUNCT	_	_	12	punct	_	start_char=5854|end_char=5855
+10	самые	самый	DET	_	Case=Nom|Number=Plur|PronType=Emp	11	det	_	start_char=5856|end_char=5861
+11	низменные	низменный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	start_char=5862|end_char=5871
+12	страсти	страсть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	conj	_	start_char=5872|end_char=5879
+13	и	и	CCONJ	_	_	14	cc	_	start_char=5880|end_char=5881
+14	желания	желание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	conj	_	start_char=5882|end_char=5889
+15	.	.	PUNCT	_	_	5	punct	_	start_char=5889|end_char=5890
+
+# text = – Много ли можно построить на одной гармонии, Доктор?
+# sent_id = 70
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5891|end_char=5892
+2	Много	много	NUM	_	Case=Acc|NumForm=Word|NumType=Card	5	obj	_	start_char=5893|end_char=5898
+3	ли	ли	PART	_	_	2	advmod	_	start_char=5899|end_char=5901
+4	можно	можно	VERB	_	_	0	root	_	start_char=5902|end_char=5907
+5	построить	построить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=5908|end_char=5917
+6	на	на	ADP	_	_	8	case	_	start_char=5918|end_char=5920
+7	одной	один	NUM	_	Case=Loc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	8	nummod	_	start_char=5921|end_char=5926
+8	гармонии	гармония	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=5927|end_char=5935
+9	,	,	PUNCT	_	_	10	punct	_	start_char=5935|end_char=5936
+10	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	start_char=5937|end_char=5943
+11	?	?	PUNCT	_	_	4	punct	_	start_char=5943|end_char=5944
+
+# text = Помнишь Кинда?
+# sent_id = 71
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Помнишь	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5945|end_char=5952
+2	Кинда	Кинда	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	1	obj	_	start_char=5953|end_char=5958
+3	?	?	PUNCT	_	_	1	punct	_	start_char=5958|end_char=5959
+
+# text = Они же рассказывали тебе, что когда-то было Колесо Мира, и оно стояло.
+# sent_id = 72
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=5960|end_char=5963
+2	же	же	PART	_	_	1	advmod	_	start_char=5964|end_char=5966
+3	рассказывали	рассказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5967|end_char=5979
+4	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	start_char=5980|end_char=5984
+5	,	,	PUNCT	_	_	7	punct	_	start_char=5984|end_char=5985
+6	что	что	SCONJ	_	_	7	mark	_	start_char=5986|end_char=5989
+7	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	9	advmod	_	start_char=5990|end_char=5998
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=5999|end_char=6003
+9	Колесо	колесо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	ccomp	_	start_char=6004|end_char=6010
+10	Мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	start_char=6011|end_char=6015
+11	,	,	PUNCT	_	_	14	punct	_	start_char=6015|end_char=6016
+12	и	и	CCONJ	_	_	14	cc	_	start_char=6017|end_char=6018
+13	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=6019|end_char=6022
+14	стояло	стоять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=6023|end_char=6029
+15	.	.	PUNCT	_	_	3	punct	_	start_char=6029|end_char=6030
+
+# text = Вечная гармония, вечное приспособление под природу и обстоятельства, вечная грань вымирания, потому что природа не так милосердна, ей вообще наплевать.
+# sent_id = 73
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Вечная	вечный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=6031|end_char=6037
+2	гармония	гармония	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=6038|end_char=6046
+3	,	,	PUNCT	_	_	5	punct	_	start_char=6046|end_char=6047
+4	вечное	вечный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=6048|end_char=6054
+5	приспособление	приспособление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	start_char=6055|end_char=6069
+6	под	под	ADP	_	_	7	case	_	start_char=6070|end_char=6073
+7	природу	природа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	start_char=6074|end_char=6081
+8	и	и	CCONJ	_	_	9	cc	_	start_char=6082|end_char=6083
+9	обстоятельства	обстоятельство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	conj	_	start_char=6084|end_char=6098
+10	,	,	PUNCT	_	_	12	punct	_	start_char=6098|end_char=6099
+11	вечная	вечный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=6100|end_char=6106
+12	грань	грань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=6107|end_char=6112
+13	вымирания	вымирание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	start_char=6113|end_char=6122
+14	,	,	PUNCT	_	_	20	punct	_	start_char=6122|end_char=6123
+15	потому	потому	ADV	_	Degree=Pos|PronType=Dem	20	mark	_	start_char=6124|end_char=6130
+16	что	что	SCONJ	_	_	15	fixed	_	start_char=6131|end_char=6134
+17	природа	природа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	start_char=6135|end_char=6142
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=6143|end_char=6145
+19	так	так	ADV	_	Degree=Pos|PronType=Dem	20	advmod	_	start_char=6146|end_char=6149
+20	милосердна	милосердный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	advcl	_	start_char=6150|end_char=6160
+21	,	,	PUNCT	_	_	24	punct	_	start_char=6160|end_char=6161
+22	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	iobj	_	start_char=6162|end_char=6164
+23	вообще	вообще	ADV	_	Degree=Pos	24	advmod	_	start_char=6165|end_char=6171
+24	наплевать	наплевать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	conj	_	start_char=6172|end_char=6181
+25	.	.	PUNCT	_	_	2	punct	_	start_char=6181|end_char=6182
+
+# text = А потом появился я, и людей изгнали из рая, и началась история, как говорят теперь уже и на этой планетке.
+# sent_id = 74
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	А	а	CCONJ	_	_	3	cc	_	start_char=6183|end_char=6184
+2	потом	потом	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=6185|end_char=6190
+3	появился	появиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6191|end_char=6199
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=6200|end_char=6201
+5	,	,	PUNCT	_	_	8	punct	_	start_char=6201|end_char=6202
+6	и	и	CCONJ	_	_	8	cc	_	start_char=6203|end_char=6204
+7	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=6205|end_char=6210
+8	изгнали	изгнать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=6211|end_char=6218
+9	из	из	ADP	_	_	10	case	_	start_char=6219|end_char=6221
+10	рая	рай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	start_char=6222|end_char=6225
+11	,	,	PUNCT	_	_	13	punct	_	start_char=6225|end_char=6226
+12	и	и	CCONJ	_	_	13	cc	_	start_char=6227|end_char=6228
+13	началась	начаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=6229|end_char=6237
+14	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=6238|end_char=6245
+15	,	,	PUNCT	_	_	17	punct	_	start_char=6245|end_char=6246
+16	как	как	SCONJ	_	_	17	mark	_	start_char=6247|end_char=6250
+17	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=6251|end_char=6258
+18	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=6259|end_char=6265
+19	уже	уже	ADV	_	Degree=Pos	23	advmod	_	start_char=6266|end_char=6269
+20	и	и	PART	_	_	23	advmod	_	start_char=6270|end_char=6271
+21	на	на	ADP	_	_	23	case	_	start_char=6272|end_char=6274
+22	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	start_char=6275|end_char=6279
+23	планетке	планетка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	start_char=6280|end_char=6288
+24	.	.	PUNCT	_	_	3	punct	_	start_char=6288|end_char=6289
+
+# text = – Ты несёшь зло.
+# sent_id = 75
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6290|end_char=6291
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=6292|end_char=6294
+3	несёшь	нести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6295|end_char=6301
+4	зло	зло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=6302|end_char=6305
+5	.	.	PUNCT	_	_	3	punct	_	start_char=6305|end_char=6306
+
+# text = – Я несу такие чувства, которые заставляют их шевелиться, что-то предпринимать.
+# sent_id = 76
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6307|end_char=6308
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=6309|end_char=6310
+3	несу	нести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6311|end_char=6315
+4	такие	такой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	5	det	_	start_char=6316|end_char=6321
+5	чувства	чувство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	start_char=6322|end_char=6329
+6	,	,	PUNCT	_	_	8	punct	_	start_char=6329|end_char=6330
+7	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	start_char=6331|end_char=6338
+8	заставляют	заставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=6339|end_char=6349
+9	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	obj	_	start_char=6350|end_char=6352
+10	шевелиться	шевелиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	8	xcomp	_	start_char=6353|end_char=6363
+11	,	,	PUNCT	_	_	13	punct	_	start_char=6363|end_char=6364
+12	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	13	obj	_	start_char=6365|end_char=6371
+13	предпринимать	предпринимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	conj	_	start_char=6372|end_char=6385
+14	.	.	PUNCT	_	_	3	punct	_	start_char=6385|end_char=6386
+
+# text = Если бы никто никогда не испытывал зависти, не хотел бананов больше, чем у соседа, они бы не научились брать палки и сшибать их.
+# sent_id = 77
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Если	если	SCONJ	_	_	6	mark	_	start_char=6387|end_char=6391
+2	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=6392|end_char=6394
+3	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	6	nsubj	_	start_char=6395|end_char=6400
+4	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	6	advmod	_	start_char=6401|end_char=6408
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=6409|end_char=6411
+6	испытывал	испытывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=6412|end_char=6421
+7	зависти	зависть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obj	_	start_char=6422|end_char=6429
+8	,	,	PUNCT	_	_	6	punct	_	start_char=6429|end_char=6430
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=6431|end_char=6433
+10	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6434|end_char=6439
+11	бананов	банан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	obj	_	start_char=6440|end_char=6447
+12	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	10	advmod	_	start_char=6448|end_char=6454
+13	,	,	PUNCT	_	_	16	punct	_	start_char=6454|end_char=6455
+14	чем	чем	SCONJ	_	_	16	case	_	start_char=6456|end_char=6459
+15	у	у	ADP	_	_	16	case	_	start_char=6460|end_char=6461
+16	соседа	сосед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	advcl	_	start_char=6462|end_char=6468
+17	,	,	PUNCT	_	_	21	punct	_	start_char=6468|end_char=6469
+18	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=6470|end_char=6473
+19	бы	бы	AUX	_	Mood=Cnd	21	aux	_	start_char=6474|end_char=6476
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=6477|end_char=6479
+21	научились	научиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=6480|end_char=6489
+22	брать	брать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=6490|end_char=6495
+23	палки	палка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	22	obj	_	start_char=6496|end_char=6501
+24	и	и	CCONJ	_	_	25	cc	_	start_char=6502|end_char=6503
+25	сшибать	сшибать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	conj	_	start_char=6504|end_char=6511
+26	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	obj	_	start_char=6512|end_char=6514
+27	.	.	PUNCT	_	_	10	punct	_	start_char=6514|end_char=6515
+
+# text = Хотя, возможно, ты и тогда любил бы этих обезьянок.
+# sent_id = 78
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Хотя	хотя	SCONJ	_	_	8	mark	_	start_char=6516|end_char=6520
+2	,	,	PUNCT	_	_	1	punct	_	start_char=6520|end_char=6521
+3	возможно	возможно	ADV	_	Degree=Pos	8	parataxis	_	start_char=6522|end_char=6530
+4	,	,	PUNCT	_	_	3	punct	_	start_char=6530|end_char=6531
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=6532|end_char=6534
+6	и	и	PART	_	_	7	advmod	_	start_char=6535|end_char=6536
+7	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=6537|end_char=6542
+8	любил	любить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6543|end_char=6548
+9	бы	бы	AUX	_	Mood=Cnd	8	aux	_	start_char=6549|end_char=6551
+10	этих	этот	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	11	det	_	start_char=6552|end_char=6556
+11	обезьянок	обезьянка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=6557|end_char=6566
+12	.	.	PUNCT	_	_	8	punct	_	start_char=6566|end_char=6567
+
+# text = – Это мог бы заставить делать и голод.
+# sent_id = 79
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6568|end_char=6569
+2	Это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	start_char=6570|end_char=6573
+3	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6574|end_char=6577
+4	бы	бы	AUX	_	Mood=Cnd	3	aux	_	start_char=6578|end_char=6580
+5	заставить	заставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=6581|end_char=6590
+6	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=6591|end_char=6597
+7	и	и	PART	_	_	8	advmod	_	start_char=6598|end_char=6599
+8	голод	голод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=6600|end_char=6605
+9	.	.	PUNCT	_	_	3	punct	_	start_char=6605|end_char=6606
+
+# text = – Ты предпочитаешь, чтобы смертные совершенствовались по нужде, под угрозой вымирания?
+# sent_id = 80
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6607|end_char=6608
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=6609|end_char=6611
+3	предпочитаешь	предпочитать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6612|end_char=6625
+4	,	,	PUNCT	_	_	7	punct	_	start_char=6625|end_char=6626
+5	чтобы	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	start_char=6627|end_char=6632
+6	смертные	смертный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	nsubj	_	start_char=6633|end_char=6641
+7	совершенствовались	совершенствоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=6642|end_char=6660
+8	по	по	ADP	_	_	9	case	_	start_char=6661|end_char=6663
+9	нужде	нужда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	obl	_	start_char=6664|end_char=6669
+10	,	,	PUNCT	_	_	12	punct	_	start_char=6669|end_char=6670
+11	под	под	ADP	_	_	12	case	_	start_char=6671|end_char=6674
+12	угрозой	угроза	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	conj	_	start_char=6675|end_char=6682
+13	вымирания	вымирание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	start_char=6683|end_char=6692
+14	?	?	PUNCT	_	_	3	punct	_	start_char=6692|end_char=6693
+
+# text = Я же только лишаю их невинности восприятия, даю возможность смотреть на мир здраво, оценивать его по тому, какой он есть на самом деле...
+# sent_id = 81
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6694|end_char=6695
+2	же	же	PART	_	_	1	advmod	_	start_char=6696|end_char=6698
+3	только	только	PART	_	_	4	advmod	_	start_char=6699|end_char=6705
+4	лишаю	лишать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6706|end_char=6711
+5	их	их	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=6712|end_char=6714
+6	невинности	невинность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obj	_	start_char=6715|end_char=6725
+7	восприятия	восприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=6726|end_char=6736
+8	,	,	PUNCT	_	_	9	punct	_	start_char=6736|end_char=6737
+9	даю	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=6738|end_char=6741
+10	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=6742|end_char=6753
+11	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	acl	_	start_char=6754|end_char=6762
+12	на	на	ADP	_	_	13	case	_	start_char=6763|end_char=6765
+13	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=6766|end_char=6769
+14	здраво	здраво	ADV	_	Degree=Pos	11	advmod	_	start_char=6770|end_char=6776
+15	,	,	PUNCT	_	_	16	punct	_	start_char=6776|end_char=6777
+16	оценивать	оценивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	conj	_	start_char=6778|end_char=6787
+17	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=6788|end_char=6791
+18	по	по	ADP	_	_	19	case	_	start_char=6792|end_char=6794
+19	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	16	obl	_	start_char=6795|end_char=6799
+20	,	,	PUNCT	_	_	21	punct	_	start_char=6799|end_char=6800
+21	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	19	acl	_	start_char=6801|end_char=6806
+22	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=6807|end_char=6809
+23	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	start_char=6810|end_char=6814
+24	на	на	ADP	_	_	26	case	_	start_char=6815|end_char=6817
+25	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	26	det	_	start_char=6818|end_char=6823
+26	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	obl	_	start_char=6824|end_char=6828
+27	...	...	PUNCT	_	_	4	punct	_	start_char=6828|end_char=6831
+
+# text = – Только по тому, как понимаешь его ты.
+# sent_id = 82
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	4	punct	_	start_char=6832|end_char=6833
+2	Только	только	PART	_	_	4	advmod	_	start_char=6834|end_char=6840
+3	по	по	ADP	_	_	4	case	_	start_char=6841|end_char=6843
+4	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=6844|end_char=6848
+5	,	,	PUNCT	_	_	7	punct	_	start_char=6848|end_char=6849
+6	как	как	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=6850|end_char=6853
+7	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	start_char=6854|end_char=6863
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=6864|end_char=6867
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=6868|end_char=6870
+10	.	.	PUNCT	_	_	4	punct	_	start_char=6870|end_char=6871
+
+# text = – Ты считаешь, что я не прав?
+# sent_id = 83
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6872|end_char=6873
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=6874|end_char=6876
+3	считаешь	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6877|end_char=6885
+4	,	,	PUNCT	_	_	8	punct	_	start_char=6885|end_char=6886
+5	что	что	SCONJ	_	_	8	mark	_	start_char=6887|end_char=6890
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=6891|end_char=6892
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=6893|end_char=6895
+8	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	ccomp	_	start_char=6896|end_char=6900
+9	?	?	PUNCT	_	_	3	punct	_	start_char=6900|end_char=6901
+
+# text = Ты идеалист, Доктор, и всегда им был.
+# sent_id = 84
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=6902|end_char=6904
+2	идеалист	идеалист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=6905|end_char=6913
+3	,	,	PUNCT	_	_	4	punct	_	start_char=6913|end_char=6914
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=6915|end_char=6921
+5	,	,	PUNCT	_	_	9	punct	_	start_char=6921|end_char=6922
+6	и	и	CCONJ	_	_	9	cc	_	start_char=6923|end_char=6924
+7	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	start_char=6925|end_char=6931
+8	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	iobj	_	start_char=6932|end_char=6934
+9	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6935|end_char=6938
+10	.	.	PUNCT	_	_	2	punct	_	start_char=6938|end_char=6939
+
+# text = – Однажды ты проиграешь окончательно.
+# sent_id = 85
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	4	punct	_	start_char=6940|end_char=6941
+2	Однажды	однажды	ADV	_	Degree=Pos	4	advmod	_	start_char=6942|end_char=6949
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=6950|end_char=6952
+4	проиграешь	проиграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6953|end_char=6963
+5	окончательно	окончательно	ADV	_	Degree=Pos	4	advmod	_	start_char=6964|end_char=6976
+6	.	.	PUNCT	_	_	4	punct	_	start_char=6976|end_char=6977
+
+# text = – Тогда вся Вселенная замрёт, покроется плесенью, и жизнь в ней исчезнет.
+# sent_id = 86
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	5	punct	_	start_char=6978|end_char=6979
+2	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=6980|end_char=6985
+3	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	start_char=6986|end_char=6989
+4	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=6990|end_char=6999
+5	замрёт	замереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=7000|end_char=7006
+6	,	,	PUNCT	_	_	7	punct	_	start_char=7006|end_char=7007
+7	покроется	покрыться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=7008|end_char=7017
+8	плесенью	плесень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	iobj	_	start_char=7018|end_char=7026
+9	,	,	PUNCT	_	_	14	punct	_	start_char=7026|end_char=7027
+10	и	и	CCONJ	_	_	14	cc	_	start_char=7028|end_char=7029
+11	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=7030|end_char=7035
+12	в	в	ADP	_	_	13	case	_	start_char=7036|end_char=7037
+13	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	start_char=7038|end_char=7041
+14	исчезнет	исчезнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	conj	_	start_char=7042|end_char=7050
+15	.	.	PUNCT	_	_	5	punct	_	start_char=7050|end_char=7051
+
+# text = И то, я, как питающийся хаосом, переживу её, потому что в любой системе энтропия возрастает, всё стремится к хаосу, таков порядок вещей в этом мире.
+# sent_id = 87
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	И	и	CCONJ	_	_	10	cc	_	start_char=7052|end_char=7053
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=7054|end_char=7056
+3	,	,	PUNCT	_	_	1	punct	_	start_char=7056|end_char=7057
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=7058|end_char=7059
+5	,	,	PUNCT	_	_	7	punct	_	start_char=7059|end_char=7060
+6	как	как	SCONJ	_	_	7	mark	_	start_char=7061|end_char=7064
+7	питающийся	питаться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	start_char=7065|end_char=7075
+8	хаосом	хаос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	iobj	_	start_char=7076|end_char=7082
+9	,	,	PUNCT	_	_	7	punct	_	start_char=7082|end_char=7083
+10	переживу	пережить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=7084|end_char=7092
+11	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=7093|end_char=7095
+12	,	,	PUNCT	_	_	19	punct	_	start_char=7095|end_char=7096
+13	потому	потому	ADV	_	Degree=Pos|PronType=Dem	19	mark	_	start_char=7097|end_char=7103
+14	что	что	SCONJ	_	_	13	fixed	_	start_char=7104|end_char=7107
+15	в	в	ADP	_	_	17	case	_	start_char=7108|end_char=7109
+16	любой	любой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	17	det	_	start_char=7110|end_char=7115
+17	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	start_char=7116|end_char=7123
+18	энтропия	энтропия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	start_char=7124|end_char=7132
+19	возрастает	возрастать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=7133|end_char=7143
+20	,	,	PUNCT	_	_	22	punct	_	start_char=7143|end_char=7144
+21	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	22	nsubj	_	start_char=7145|end_char=7148
+22	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=7149|end_char=7158
+23	к	к	ADP	_	_	24	case	_	start_char=7159|end_char=7160
+24	хаосу	хаос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	22	obl	_	start_char=7161|end_char=7166
+25	,	,	PUNCT	_	_	27	punct	_	start_char=7166|end_char=7167
+26	таков	таков	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	start_char=7168|end_char=7173
+27	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	start_char=7174|end_char=7181
+28	вещей	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	start_char=7182|end_char=7187
+29	в	в	ADP	_	_	31	case	_	start_char=7188|end_char=7189
+30	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	31	det	_	start_char=7190|end_char=7194
+31	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	nmod	_	start_char=7195|end_char=7199
+32	.	.	PUNCT	_	_	10	punct	_	start_char=7199|end_char=7200
+
+# text = Доктор резко поднялся, Мел вскочила следом за ним, встала за спиной.
+# sent_id = 88
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=7201|end_char=7207
+2	резко	резко	ADV	_	Degree=Pos	3	advmod	_	start_char=7208|end_char=7213
+3	поднялся	подняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7214|end_char=7222
+4	,	,	PUNCT	_	_	6	punct	_	start_char=7222|end_char=7223
+5	Мел	мел	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=7224|end_char=7227
+6	вскочила	вскочить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=7228|end_char=7236
+7	следом	следом	ADV	_	Degree=Pos	6	advmod	_	start_char=7237|end_char=7243
+8	за	за	ADP	_	_	9	case	_	start_char=7244|end_char=7246
+9	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=7247|end_char=7250
+10	,	,	PUNCT	_	_	11	punct	_	start_char=7250|end_char=7251
+11	встала	встать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=7252|end_char=7258
+12	за	за	ADP	_	_	13	case	_	start_char=7259|end_char=7261
+13	спиной	спина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	start_char=7262|end_char=7268
+14	.	.	PUNCT	_	_	3	punct	_	start_char=7268|end_char=7269
+
+# text = – До свидания, Доктор, – плавно поднялся со своего стула и Мара, и, взмахнув полами поднесённого ей плаща, распорядился: – На сегодня шоу окончено.
+# sent_id = 89
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	9	punct	_	start_char=7270|end_char=7271
+2	До	до	ADP	_	_	3	case	_	start_char=7272|end_char=7274
+3	свидания	свидание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	start_char=7275|end_char=7283
+4	,	,	PUNCT	_	_	5	punct	_	start_char=7283|end_char=7284
+5	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	start_char=7285|end_char=7291
+6	,	,	PUNCT	_	_	5	punct	_	start_char=7291|end_char=7292
+7	–	–	PUNCT	_	_	3	punct	_	start_char=7293|end_char=7294
+8	плавно	плавно	ADV	_	Degree=Pos	9	advmod	_	start_char=7295|end_char=7301
+9	поднялся	подняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7302|end_char=7310
+10	со	со	ADP	_	_	12	case	_	start_char=7311|end_char=7313
+11	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=7314|end_char=7320
+12	стула	стул	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=7321|end_char=7326
+13	и	и	CCONJ	_	_	14	cc	_	start_char=7327|end_char=7328
+14	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	12	conj	_	start_char=7329|end_char=7333
+15	,	,	PUNCT	_	_	24	punct	_	start_char=7333|end_char=7334
+16	и	и	CCONJ	_	_	24	cc	_	start_char=7335|end_char=7336
+17	,	,	PUNCT	_	_	18	punct	_	start_char=7336|end_char=7337
+18	взмахнув	взмахнуть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	24	advcl	_	start_char=7338|end_char=7346
+19	полами	пол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	18	iobj	_	start_char=7347|end_char=7353
+20	поднесённого	поднести	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	acl	_	start_char=7354|end_char=7366
+21	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	iobj	_	start_char=7367|end_char=7369
+22	плаща	плаща	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	start_char=7370|end_char=7375
+23	,	,	PUNCT	_	_	18	punct	_	start_char=7375|end_char=7376
+24	распорядился	распорядиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=7377|end_char=7389
+25	:	:	PUNCT	_	_	30	punct	_	start_char=7389|end_char=7390
+26	–	–	PUNCT	_	_	30	punct	_	start_char=7391|end_char=7392
+27	На	на	ADP	_	_	28	case	_	start_char=7393|end_char=7395
+28	сегодня	сегодня	ADV	_	Degree=Pos	30	advmod	_	start_char=7396|end_char=7403
+29	шоу	шоу	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	nsubj:pass	_	start_char=7404|end_char=7407
+30	окончено	окончить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	24	parataxis	_	start_char=7408|end_char=7416
+31	.	.	PUNCT	_	_	9	punct	_	start_char=7416|end_char=7417
+
+# text = Пусть все расходятся.
+# sent_id = 90
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Пусть	пусть	PART	_	_	3	advmod	_	start_char=7418|end_char=7423
+2	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	3	nsubj	_	start_char=7424|end_char=7427
+3	расходятся	расходиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7428|end_char=7438
+4	.	.	PUNCT	_	_	3	punct	_	start_char=7438|end_char=7439
+
+# text = Охранники начали выгонять всех из зала.
+# sent_id = 91
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Охранники	охранник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=7440|end_char=7449
+2	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7450|end_char=7456
+3	выгонять	выгонять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=7457|end_char=7465
+4	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	3	obj	_	start_char=7466|end_char=7470
+5	из	из	ADP	_	_	6	case	_	start_char=7471|end_char=7473
+6	зала	зал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	start_char=7474|end_char=7478
+7	.	.	PUNCT	_	_	2	punct	_	start_char=7478|end_char=7479
+
+# text = Та компания, благодаря которой Доктору удалось войти, пыталась сопротивляться дольше всех, пока самый пожилой из них не заметил, что они могли бы спокойно переночевать в его фургоне.
+# sent_id = 92
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	start_char=7480|end_char=7482
+2	компания	компания	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=7483|end_char=7491
+3	,	,	PUNCT	_	_	7	punct	_	start_char=7491|end_char=7492
+4	благодаря	благодаря	ADP	_	_	5	case	_	start_char=7493|end_char=7502
+5	которой	который	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	8	obl	_	start_char=7503|end_char=7510
+6	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	start_char=7511|end_char=7518
+7	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	start_char=7519|end_char=7526
+8	войти	войти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=7527|end_char=7532
+9	,	,	PUNCT	_	_	2	punct	_	start_char=7532|end_char=7533
+10	пыталась	пытаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7534|end_char=7542
+11	сопротивляться	сопротивляться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	xcomp	_	start_char=7543|end_char=7557
+12	дольше	долго	ADV	_	Degree=Cmp	11	advmod	_	start_char=7558|end_char=7564
+13	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Tot	12	obl	_	start_char=7565|end_char=7569
+14	,	,	PUNCT	_	_	21	punct	_	start_char=7569|end_char=7570
+15	пока	пока	SCONJ	_	_	21	mark	_	start_char=7571|end_char=7575
+16	самый	самый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	17	det	_	start_char=7576|end_char=7581
+17	пожилой	пожилой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	nsubj	_	start_char=7582|end_char=7589
+18	из	из	ADP	_	_	19	case	_	start_char=7590|end_char=7592
+19	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	17	nmod	_	start_char=7593|end_char=7596
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=7597|end_char=7599
+21	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=7600|end_char=7607
+22	,	,	PUNCT	_	_	25	punct	_	start_char=7607|end_char=7608
+23	что	что	SCONJ	_	_	25	mark	_	start_char=7609|end_char=7612
+24	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	start_char=7613|end_char=7616
+25	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	21	ccomp	_	start_char=7617|end_char=7622
+26	бы	бы	AUX	_	Mood=Cnd	25	aux	_	start_char=7623|end_char=7625
+27	спокойно	спокойно	ADV	_	Degree=Pos	28	advmod	_	start_char=7626|end_char=7634
+28	переночевать	переночевать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=7635|end_char=7647
+29	в	в	ADP	_	_	31	case	_	start_char=7648|end_char=7649
+30	его	его	DET	_	Poss=Yes|PronType=Prs	31	det	_	start_char=7650|end_char=7653
+31	фургоне	фургон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	obl	_	start_char=7654|end_char=7661
+32	.	.	PUNCT	_	_	10	punct	_	start_char=7661|end_char=7662
+
+# text = – Доктор, а мы так и оставим его... её... – спросила
+# sent_id = 93
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7663|end_char=7664
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=7665|end_char=7671
+3	,	,	PUNCT	_	_	8	punct	_	start_char=7671|end_char=7672
+4	а	а	CCONJ	_	_	8	cc	_	start_char=7673|end_char=7674
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=7675|end_char=7677
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=7678|end_char=7681
+7	и	и	PART	_	_	6	fixed	_	start_char=7682|end_char=7683
+8	оставим	оставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=7684|end_char=7691
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=7692|end_char=7695
+10	...	...	PUNCT	_	_	8	punct	_	start_char=7695|end_char=7698
+11	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=7699|end_char=7701
+12	...	...	PUNCT	_	_	14	punct	_	start_char=7701|end_char=7704
+13	–	–	PUNCT	_	_	14	punct	_	start_char=7705|end_char=7706
+14	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=7707|end_char=7715
+
+# text = Мел, бодро прыгая сбоку от вышагивающего Доктора.
+# sent_id = 94
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мел	мел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=7716|end_char=7719
+2	,	,	PUNCT	_	_	4	punct	_	start_char=7719|end_char=7720
+3	бодро	бодро	ADV	_	Degree=Pos	4	advmod	_	start_char=7721|end_char=7726
+4	прыгая	прыгать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1	acl	_	start_char=7727|end_char=7733
+5	сбоку	сбок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=7734|end_char=7739
+6	от	от	ADP	_	_	8	case	_	start_char=7740|end_char=7742
+7	вышагивающего	вышагивать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	amod	_	start_char=7743|end_char=7756
+8	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=7757|end_char=7764
+9	.	.	PUNCT	_	_	1	punct	_	start_char=7764|end_char=7765
+
+# text = – Мара?
+# sent_id = 95
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7766|end_char=7767
+2	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	0	root	_	start_char=7768|end_char=7772
+3	?	?	PUNCT	_	_	2	punct	_	start_char=7772|end_char=7773
+
+# text = Давай будем считать, что на сегодня мы выиграли – в конце концов, ему не удалось захватить ни одной новой души.
+# sent_id = 96
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=7774|end_char=7779
+2	будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	aux	_	start_char=7780|end_char=7785
+3	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=7786|end_char=7793
+4	,	,	PUNCT	_	_	9	punct	_	start_char=7793|end_char=7794
+5	что	что	SCONJ	_	_	9	mark	_	start_char=7795|end_char=7798
+6	на	на	ADP	_	_	7	case	_	start_char=7799|end_char=7801
+7	сегодня	сегодня	ADV	_	Degree=Pos	9	advmod	_	start_char=7802|end_char=7809
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=7810|end_char=7812
+9	выиграли	выиграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=7813|end_char=7821
+10	–	–	PUNCT	_	_	17	punct	_	start_char=7822|end_char=7823
+11	в	в	ADP	_	_	17	advmod	_	start_char=7824|end_char=7825
+12	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	fixed	_	start_char=7826|end_char=7831
+13	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	fixed	_	start_char=7832|end_char=7838
+14	,	,	PUNCT	_	_	11	punct	_	start_char=7838|end_char=7839
+15	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	iobj	_	start_char=7840|end_char=7843
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=7844|end_char=7846
+17	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=7847|end_char=7854
+18	захватить	захватить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	csubj	_	start_char=7855|end_char=7864
+19	ни	ни	PART	_	Polarity=Neg	20	advmod	_	start_char=7865|end_char=7867
+20	одной	один	NUM	_	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	22	nummod	_	start_char=7868|end_char=7873
+21	новой	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=7874|end_char=7879
+22	души	душа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	obj	_	start_char=7880|end_char=7884
+23	.	.	PUNCT	_	_	1	punct	_	start_char=7884|end_char=7885
+
+# text = А мы провели такую небольшую разведку!
+# sent_id = 97
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	А	а	CCONJ	_	_	3	cc	_	start_char=7886|end_char=7887
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=7888|end_char=7890
+3	провели	провести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7891|end_char=7898
+4	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=7899|end_char=7904
+5	небольшую	небольшой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=7905|end_char=7914
+6	разведку	разведка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=7915|end_char=7923
+7	!	!	PUNCT	_	_	3	punct	_	start_char=7923|end_char=7924
+
+# text = – веско подчеркнул Доктор.
+# sent_id = 98
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=7925|end_char=7926
+2	веско	веско	ADV	_	Degree=Pos	3	advmod	_	start_char=7927|end_char=7932
+3	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7933|end_char=7943
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=7944|end_char=7950
+5	.	.	PUNCT	_	_	3	punct	_	start_char=7950|end_char=7951
+
+# text = – А можно на самом деле её... его... до конца победить?
+# sent_id = 99
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	3	punct	_	start_char=7952|end_char=7953
+2	А	а	CCONJ	_	_	3	cc	_	start_char=7954|end_char=7955
+3	можно	можно	VERB	_	_	0	root	_	start_char=7956|end_char=7961
+4	на	на	ADP	_	_	6	case	_	start_char=7962|end_char=7964
+5	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	6	det	_	start_char=7965|end_char=7970
+6	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	start_char=7971|end_char=7975
+7	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=7976|end_char=7978
+8	...	...	PUNCT	_	_	3	punct	_	start_char=7978|end_char=7981
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=7982|end_char=7985
+10	...	...	PUNCT	_	_	3	punct	_	start_char=7985|end_char=7988
+11	до	до	ADP	_	_	12	case	_	start_char=7989|end_char=7991
+12	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=7992|end_char=7997
+13	победить	победить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=7998|end_char=8006
+14	?	?	PUNCT	_	_	3	punct	_	start_char=8006|end_char=8007
+
+# text = – Нет, Мел...
+# sent_id = 100
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	–	–	PUNCT	_	_	2	punct	_	start_char=8008|end_char=8009
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=8010|end_char=8013
+3	,	,	PUNCT	_	_	4	punct	_	start_char=8013|end_char=8014
+4	Мел	мел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=8015|end_char=8018
+5	...	...	PUNCT	_	_	2	punct	_	start_char=8018|end_char=8021
+
+# text = Мара не соврал, он есть в каждом человеке, он – его неотъемлемая часть...
+# sent_id = 101
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=8022|end_char=8026
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=8027|end_char=8029
+3	соврал	соврать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=8030|end_char=8036
+4	,	,	PUNCT	_	_	9	punct	_	start_char=8036|end_char=8037
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=8038|end_char=8040
+6	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	start_char=8041|end_char=8045
+7	в	в	ADP	_	_	9	case	_	start_char=8046|end_char=8047
+8	каждом	каждый	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	9	det	_	start_char=8048|end_char=8054
+9	человеке	человек	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	3	conj	_	start_char=8055|end_char=8063
+10	,	,	PUNCT	_	_	15	punct	_	start_char=8063|end_char=8064
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=8065|end_char=8067
+12	–	–	PUNCT	_	_	15	punct	_	start_char=8068|end_char=8069
+13	его	его	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=8070|end_char=8073
+14	неотъемлемая	неотъемлемый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=8074|end_char=8086
+15	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	start_char=8087|end_char=8092
+16	...	...	PUNCT	_	_	3	punct	_	start_char=8092|end_char=8095
+
+# text = Просто каждому надо самому бороться с темнотой в себе, ежедневно, от рассвета до рассвета, и тогда Мара будет слабеть.
+# sent_id = 102
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Просто	просто	PART	_	_	3	advmod	_	start_char=8096|end_char=8102
+2	каждому	каждый	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	3	iobj	_	start_char=8103|end_char=8110
+3	надо	надо	VERB	_	_	0	root	_	start_char=8111|end_char=8115
+4	самому	сам	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Emp	5	iobj	_	start_char=8116|end_char=8122
+5	бороться	бороться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	csubj	_	start_char=8123|end_char=8131
+6	с	с	ADP	_	_	7	case	_	start_char=8132|end_char=8133
+7	темнотой	темнота	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	start_char=8134|end_char=8142
+8	в	в	ADP	_	_	9	case	_	start_char=8143|end_char=8144
+9	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	5	obl	_	start_char=8145|end_char=8149
+10	,	,	PUNCT	_	_	11	punct	_	start_char=8149|end_char=8150
+11	ежедневно	ежедневно	ADV	_	Degree=Pos	5	advmod	_	start_char=8151|end_char=8160
+12	,	,	PUNCT	_	_	14	punct	_	start_char=8160|end_char=8161
+13	от	от	ADP	_	_	14	case	_	start_char=8162|end_char=8164
+14	рассвета	рассвет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	conj	_	start_char=8165|end_char=8173
+15	до	до	ADP	_	_	16	case	_	start_char=8174|end_char=8176
+16	рассвета	рассвет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=8177|end_char=8185
+17	,	,	PUNCT	_	_	22	punct	_	start_char=8185|end_char=8186
+18	и	и	CCONJ	_	_	22	cc	_	start_char=8187|end_char=8188
+19	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	22	advmod	_	start_char=8189|end_char=8194
+20	Мара	Мара	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	22	nsubj	_	start_char=8195|end_char=8199
+21	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	22	aux	_	start_char=8200|end_char=8205
+22	слабеть	слабеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	start_char=8206|end_char=8213
+23	.	.	PUNCT	_	_	3	punct	_	start_char=8213|end_char=8214
+
+# text = Но эта битва будет вечна до тех пор, пока существует само человечество.
+# sent_id = 103
+# metadata = Название: От рассвета до рассвета, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546e684300000a7d35ea3670/1/Ot-rassveta-do-rassveta
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=8215|end_char=8217
+2	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	start_char=8218|end_char=8221
+3	битва	битва	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=8222|end_char=8227
+4	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	cop	_	start_char=8228|end_char=8233
+5	вечна	вечный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=8234|end_char=8239
+6	до	до	ADP	_	_	5	advmod	_	start_char=8240|end_char=8242
+7	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	6	fixed	_	start_char=8243|end_char=8246
+8	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	fixed	_	start_char=8247|end_char=8250
+9	,	,	PUNCT	_	_	11	punct	_	start_char=8250|end_char=8251
+10	пока	пока	SCONJ	_	_	11	mark	_	start_char=8252|end_char=8256
+11	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=8257|end_char=8267
+12	само	сам	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	13	det	_	start_char=8268|end_char=8272
+13	человечество	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	start_char=8273|end_char=8285
+14	.	.	PUNCT	_	_	5	punct	_	start_char=8285|end_char=8286
+

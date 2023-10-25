@@ -1,0 +1,643 @@
+# text = Она была милой девушкой.
+# sent_id = 0
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=4|end_char=8
+3	милой	милый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=9|end_char=14
+4	девушкой	девушка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=15|end_char=23
+5	.	.	PUNCT	_	_	4	punct	_	start_char=23|end_char=24
+
+# text = Милой человеческой девушкой.
+# sent_id = 1
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Милой	милый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=25|end_char=30
+2	человеческой	человеческий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=31|end_char=43
+3	девушкой	девушка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=44|end_char=52
+4	.	.	PUNCT	_	_	3	punct	_	start_char=52|end_char=53
+
+# text = Но его соотечественников больше не существовало, так что он позволил себе привязаться к ней несколько больше, чем просто к одной из своих спутниц.
+# sent_id = 2
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=54|end_char=56
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=57|end_char=60
+3	соотечественников	соотечественник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nsubj	_	start_char=61|end_char=78
+4	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	6	advmod	_	start_char=79|end_char=85
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=86|end_char=88
+6	существовало	существовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=89|end_char=101
+7	,	,	PUNCT	_	_	11	punct	_	start_char=101|end_char=102
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	11	mark	_	start_char=103|end_char=106
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=107|end_char=110
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=111|end_char=113
+11	позволил	позволить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=114|end_char=122
+12	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	11	iobj	_	start_char=123|end_char=127
+13	привязаться	привязаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	start_char=128|end_char=139
+14	к	к	ADP	_	_	15	case	_	start_char=140|end_char=141
+15	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	start_char=142|end_char=145
+16	несколько	несколько	ADV	_	Degree=Pos|PronType=Tot	17	advmod	_	start_char=146|end_char=155
+17	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	13	advmod	_	start_char=156|end_char=162
+18	,	,	PUNCT	_	_	22	punct	_	start_char=162|end_char=163
+19	чем	чем	SCONJ	_	_	22	mark	_	start_char=164|end_char=167
+20	просто	просто	PART	_	_	22	advmod	_	start_char=168|end_char=174
+21	к	к	ADP	_	_	22	case	_	start_char=175|end_char=176
+22	одной	один	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	13	obl	_	start_char=177|end_char=182
+23	из	из	ADP	_	_	25	case	_	start_char=183|end_char=185
+24	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	25	det	_	start_char=186|end_char=191
+25	спутниц	спутница	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	start_char=192|end_char=199
+26	.	.	PUNCT	_	_	6	punct	_	start_char=199|end_char=200
+
+# text = Все равно теперь совершенно точно он никогда не испытает этого щекочущего чувства, похожего на каллиграфию кисточкой по обнаженной коже; чувства, которое возникает, когда на теле появляются слова, сказанные где-то далеко, кем-то еще незнакомым, но ты точно знаешь, что это твоя половинка.
+# sent_id = 3
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	9	advmod	_	start_char=201|end_char=204
+2	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	fixed	_	start_char=205|end_char=210
+3	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=211|end_char=217
+4	совершенно	совершенно	ADV	_	Degree=Pos	5	advmod	_	start_char=218|end_char=228
+5	точно	точно	ADV	_	Degree=Pos	9	advmod	_	start_char=229|end_char=234
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=235|end_char=237
+7	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	9	advmod	_	start_char=238|end_char=245
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=246|end_char=248
+9	испытает	испытать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=249|end_char=257
+10	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	start_char=258|end_char=263
+11	щекочущего	щекочущий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=264|end_char=274
+12	чувства	чувство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obj	_	start_char=275|end_char=282
+13	,	,	PUNCT	_	_	14	punct	_	start_char=282|end_char=283
+14	похожего	похожий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	acl	_	start_char=284|end_char=292
+15	на	на	ADP	_	_	16	case	_	start_char=293|end_char=295
+16	каллиграфию	каллиграфия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	start_char=296|end_char=307
+17	кисточкой	кисточка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	start_char=308|end_char=317
+18	по	по	ADP	_	_	20	case	_	start_char=318|end_char=320
+19	обнаженной	обнажить	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	amod	_	start_char=321|end_char=331
+20	коже	кожа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	14	obl	_	start_char=332|end_char=336
+21	;	;	PUNCT	_	_	22	punct	_	start_char=336|end_char=337
+22	чувства	чувство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	conj	_	start_char=338|end_char=345
+23	,	,	PUNCT	_	_	25	punct	_	start_char=345|end_char=346
+24	которое	который	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	25	nsubj	_	start_char=347|end_char=354
+25	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=355|end_char=364
+26	,	,	PUNCT	_	_	30	punct	_	start_char=364|end_char=365
+27	когда	когда	SCONJ	_	_	30	mark	_	start_char=366|end_char=371
+28	на	на	ADP	_	_	29	case	_	start_char=372|end_char=374
+29	теле	тело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	obl	_	start_char=375|end_char=379
+30	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	advcl	_	start_char=380|end_char=390
+31	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	start_char=391|end_char=396
+32	,	,	PUNCT	_	_	33	punct	_	start_char=396|end_char=397
+33	сказанные	сказать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	start_char=398|end_char=407
+34	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	35	advmod	_	start_char=408|end_char=414
+35	далеко	далеко	ADV	_	Degree=Pos	33	advmod	_	start_char=415|end_char=421
+36	,	,	PUNCT	_	_	39	punct	_	start_char=421|end_char=422
+37	кем-то	кто-то	PRON	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	39	obl:agent	_	start_char=423|end_char=429
+38	еще	еще	ADV	_	Degree=Pos	39	advmod	_	start_char=430|end_char=433
+39	незнакомым	незнакомый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	33	conj	_	start_char=434|end_char=444
+40	,	,	PUNCT	_	_	44	punct	_	start_char=444|end_char=445
+41	но	но	CCONJ	_	_	44	cc	_	start_char=446|end_char=448
+42	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	44	nsubj	_	start_char=449|end_char=451
+43	точно	точно	ADV	_	Degree=Pos	44	advmod	_	start_char=452|end_char=457
+44	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	30	conj	_	start_char=458|end_char=464
+45	,	,	PUNCT	_	_	49	punct	_	start_char=464|end_char=465
+46	что	что	SCONJ	_	_	49	mark	_	start_char=466|end_char=469
+47	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	49	nsubj	_	start_char=470|end_char=473
+48	твоя	твой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	49	det	_	start_char=474|end_char=478
+49	половинка	половинка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	44	ccomp	_	start_char=479|end_char=488
+50	.	.	PUNCT	_	_	9	punct	_	start_char=488|end_char=489
+
+# text = Твоя настоящая половинка.
+# sent_id = 4
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Твоя	твой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=490|end_char=494
+2	настоящая	настоящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=495|end_char=504
+3	половинка	половинка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=505|end_char=514
+4	.	.	PUNCT	_	_	3	punct	_	start_char=514|end_char=515
+
+# text = Он сжег солнце.
+# sent_id = 5
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=517|end_char=519
+2	сжег	сжечь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=520|end_char=524
+3	солнце	солнце	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=525|end_char=531
+4	.	.	PUNCT	_	_	2	punct	_	start_char=531|end_char=532
+
+# text = Этой энергии хватило бы не только на пятиминутную проекцию, а на полный переход в параллельную
+# sent_id = 6
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	start_char=533|end_char=537
+2	энергии	энергия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nsubj	_	start_char=538|end_char=545
+3	хватило	хватить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=546|end_char=553
+4	бы	бы	AUX	_	Mood=Cnd	3	aux	_	start_char=554|end_char=556
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=557|end_char=559
+6	только	только	PART	_	_	9	advmod	_	start_char=560|end_char=566
+7	на	на	ADP	_	_	9	case	_	start_char=567|end_char=569
+8	пятиминутную	пятиминутный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=570|end_char=582
+9	проекцию	проекция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=583|end_char=591
+10	,	,	PUNCT	_	_	14	punct	_	start_char=591|end_char=592
+11	а	а	CCONJ	_	_	14	cc	_	start_char=593|end_char=594
+12	на	на	ADP	_	_	14	case	_	start_char=595|end_char=597
+13	полный	полный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=598|end_char=604
+14	переход	переход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	conj	_	start_char=605|end_char=612
+15	в	в	ADP	_	_	16	case	_	start_char=613|end_char=614
+16	параллельную	параллельный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	nmod	_	start_char=615|end_char=627
+
+# text = Вселенную его самого вместе с ТАРДИС, но когда он уже поднес руку, чтобы нажать рычаг запуска перехода, он почувствовал, как вокруг пятки зазмеилось и засвербило.
+# sent_id = 7
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Вселенную	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	_	start_char=628|end_char=637
+2	его	его	DET	_	Poss=Yes|PronType=Prs	1	det	_	start_char=638|end_char=641
+3	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	4	det	_	start_char=642|end_char=648
+4	вместе	вместе	ADV	_	Degree=Pos	1	advmod	_	start_char=649|end_char=655
+5	с	с	ADP	_	_	6	case	_	start_char=656|end_char=657
+6	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	start_char=658|end_char=664
+7	,	,	PUNCT	_	_	22	punct	_	start_char=664|end_char=665
+8	но	но	CCONJ	_	_	22	cc	_	start_char=666|end_char=668
+9	когда	когда	SCONJ	_	_	12	mark	_	start_char=669|end_char=674
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=675|end_char=677
+11	уже	уже	ADV	_	Degree=Pos	12	advmod	_	start_char=678|end_char=681
+12	поднес	поднести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	start_char=682|end_char=688
+13	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=689|end_char=693
+14	,	,	PUNCT	_	_	16	punct	_	start_char=693|end_char=694
+15	чтобы	чтобы	SCONJ	_	Mood=Cnd	16	mark	_	start_char=695|end_char=700
+16	нажать	нажать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	advcl	_	start_char=701|end_char=707
+17	рычаг	рычага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	start_char=708|end_char=713
+18	запуска	запуска	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	start_char=714|end_char=721
+19	перехода	переход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	start_char=722|end_char=730
+20	,	,	PUNCT	_	_	16	punct	_	start_char=730|end_char=731
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=732|end_char=734
+22	почувствовал	почувствовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=735|end_char=747
+23	,	,	PUNCT	_	_	27	punct	_	start_char=747|end_char=748
+24	как	как	SCONJ	_	_	27	mark	_	start_char=749|end_char=752
+25	вокруг	вокруг	ADP	_	_	26	case	_	start_char=753|end_char=759
+26	пятки	пятка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	obl	_	start_char=760|end_char=765
+27	зазмеилось	зазмеиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	22	ccomp	_	start_char=766|end_char=776
+28	и	и	CCONJ	_	_	29	cc	_	start_char=777|end_char=778
+29	засвербило	засвербить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	_	start_char=779|end_char=789
+30	.	.	PUNCT	_	_	22	punct	_	start_char=789|end_char=790
+
+# text = Доктор не поверил собственным ощущениям; чертыхаясь и прыгая на одной ноге, он спешно расшнуровал красный кед.
+# sent_id = 8
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=791|end_char=797
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=798|end_char=800
+3	поверил	поверить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=801|end_char=808
+4	собственным	собственный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	5	amod	_	start_char=809|end_char=820
+5	ощущениям	ощущение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	3	iobj	_	start_char=821|end_char=830
+6	;	;	PUNCT	_	_	16	punct	_	start_char=830|end_char=831
+7	чертыхаясь	чертыхаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	16	advcl	_	start_char=832|end_char=842
+8	и	и	CCONJ	_	_	9	cc	_	start_char=843|end_char=844
+9	прыгая	прыгать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	conj	_	start_char=845|end_char=851
+10	на	на	ADP	_	_	12	case	_	start_char=852|end_char=854
+11	одной	один	NUM	_	Case=Loc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	12	nummod	_	start_char=855|end_char=860
+12	ноге	нога	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	start_char=861|end_char=865
+13	,	,	PUNCT	_	_	7	punct	_	start_char=865|end_char=866
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=867|end_char=869
+15	спешно	спешно	ADV	_	Degree=Pos	16	advmod	_	start_char=870|end_char=876
+16	расшнуровал	расшнуровать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=877|end_char=888
+17	красный	красный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=889|end_char=896
+18	кед	кед	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	start_char=897|end_char=900
+19	.	.	PUNCT	_	_	3	punct	_	start_char=900|end_char=901
+
+# text = "Надеюсь, мой бойфренд был не слишком груб с тобой", – вилась надпись на галлифрейском циркулярном вокруг пятки с заходом на стопу.
+# sent_id = 9
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	"	"	PUNCT	_	_	9	punct	_	start_char=902|end_char=903
+2	Надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=903|end_char=910
+3	,	,	PUNCT	_	_	2	punct	_	start_char=910|end_char=911
+4	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	start_char=912|end_char=915
+5	бойфренд	бойфренд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=916|end_char=924
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=925|end_char=928
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=929|end_char=931
+8	слишком	слишком	ADV	_	Degree=Pos	9	advmod	_	start_char=932|end_char=939
+9	груб	грубый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=940|end_char=944
+10	с	с	ADP	_	_	11	case	_	start_char=945|end_char=946
+11	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	9	obl	_	start_char=947|end_char=952
+12	"	"	PUNCT	_	_	9	punct	_	start_char=952|end_char=953
+13	,	,	PUNCT	_	_	15	punct	_	start_char=953|end_char=954
+14	–	–	PUNCT	_	_	15	punct	_	start_char=955|end_char=956
+15	вилась	виться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=957|end_char=963
+16	надпись	надпись	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=964|end_char=971
+17	на	на	ADP	_	_	19	case	_	start_char=972|end_char=974
+18	галлифрейском	галлифрейский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=975|end_char=988
+19	циркулярном	циркулярный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	nmod	_	start_char=989|end_char=1000
+20	вокруг	вокруг	ADP	_	_	21	case	_	start_char=1001|end_char=1007
+21	пятки	пятка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	start_char=1008|end_char=1013
+22	с	с	ADP	_	_	23	case	_	start_char=1014|end_char=1015
+23	заходом	заход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	start_char=1016|end_char=1023
+24	на	на	ADP	_	_	25	case	_	start_char=1024|end_char=1026
+25	стопу	стопа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	nmod	_	start_char=1027|end_char=1032
+26	.	.	PUNCT	_	_	9	punct	_	start_char=1032|end_char=1033
+
+# text = Солнце быстро прогорало, переводя колоссальную энергию вхолостую, потому что Доктор потрясенно смотрел на эту надпись и понимал, что он обязан теперь найти эту галлифрейскую душу, наверняка такую же потерянную, как его.
+# sent_id = 10
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Солнце	солнце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=1034|end_char=1040
+2	быстро	быстро	ADV	_	Degree=Pos	3	advmod	_	start_char=1041|end_char=1047
+3	прогорало	прогорать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1048|end_char=1057
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1057|end_char=1058
+5	переводя	переводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=1059|end_char=1067
+6	колоссальную	колоссальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=1068|end_char=1080
+7	энергию	энергия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=1081|end_char=1088
+8	вхолостую	вхолостую	ADV	_	Degree=Pos	5	advmod	_	start_char=1089|end_char=1098
+9	,	,	PUNCT	_	_	14	punct	_	start_char=1098|end_char=1099
+10	потому	потому	ADV	_	Degree=Pos|PronType=Dem	14	mark	_	start_char=1100|end_char=1106
+11	что	что	SCONJ	_	_	10	fixed	_	start_char=1107|end_char=1110
+12	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=1111|end_char=1117
+13	потрясенно	потрясенно	ADV	_	Degree=Pos	14	advmod	_	start_char=1118|end_char=1128
+14	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=1129|end_char=1136
+15	на	на	ADP	_	_	17	case	_	start_char=1137|end_char=1139
+16	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	start_char=1140|end_char=1143
+17	надпись	надпись	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	start_char=1144|end_char=1151
+18	и	и	CCONJ	_	_	19	cc	_	start_char=1152|end_char=1153
+19	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	start_char=1154|end_char=1161
+20	,	,	PUNCT	_	_	23	punct	_	start_char=1161|end_char=1162
+21	что	что	SCONJ	_	_	23	mark	_	start_char=1163|end_char=1166
+22	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=1167|end_char=1169
+23	обязан	обязанный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	19	ccomp	_	start_char=1170|end_char=1176
+24	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	25	advmod	_	start_char=1177|end_char=1183
+25	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	xcomp	_	start_char=1184|end_char=1189
+26	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	start_char=1190|end_char=1193
+27	галлифрейскую	галлифрейский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	start_char=1194|end_char=1207
+28	душу	душа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obj	_	start_char=1208|end_char=1212
+29	,	,	PUNCT	_	_	33	punct	_	start_char=1212|end_char=1213
+30	наверняка	наверняка	ADV	_	Degree=Pos	33	advmod	_	start_char=1214|end_char=1223
+31	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	start_char=1224|end_char=1229
+32	же	же	PART	_	_	31	advmod	_	start_char=1230|end_char=1232
+33	потерянную	потерянный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	start_char=1233|end_char=1243
+34	,	,	PUNCT	_	_	36	punct	_	start_char=1243|end_char=1244
+35	как	как	SCONJ	_	_	36	case	_	start_char=1245|end_char=1248
+36	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	obl	_	start_char=1249|end_char=1252
+37	.	.	PUNCT	_	_	3	punct	_	start_char=1252|end_char=1253
+
+# text = Но оставшейся энергии на проекцию и прощание хватило.
+# sent_id = 11
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Но	но	CCONJ	_	_	8	cc	_	start_char=1254|end_char=1256
+2	оставшейся	остаться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	amod	_	start_char=1257|end_char=1267
+3	энергии	энергия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nsubj	_	start_char=1268|end_char=1275
+4	на	на	ADP	_	_	5	case	_	start_char=1276|end_char=1278
+5	проекцию	проекция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=1279|end_char=1287
+6	и	и	CCONJ	_	_	7	cc	_	start_char=1288|end_char=1289
+7	прощание	прощание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	conj	_	start_char=1290|end_char=1298
+8	хватило	хватить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1299|end_char=1306
+9	.	.	PUNCT	_	_	8	punct	_	start_char=1306|end_char=1307
+
+# text = Почти.
+# sent_id = 12
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Почти	почти	ADV	_	Degree=Pos	0	root	_	start_char=1308|end_char=1313
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1313|end_char=1314
+
+# text = – Это не болезнь у тебя? – опасливо покосилась Марта на его шею.
+# sent_id = 13
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1316|end_char=1317
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1318|end_char=1321
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1322|end_char=1324
+4	болезнь	болезнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1325|end_char=1332
+5	у	у	ADP	_	_	6	case	_	start_char=1333|end_char=1334
+6	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	0	root	_	start_char=1335|end_char=1339
+7	?	?	PUNCT	_	_	6	punct	_	start_char=1339|end_char=1340
+8	–	–	PUNCT	_	_	10	punct	_	start_char=1341|end_char=1342
+9	опасливо	опасливо	ADV	_	Degree=Pos	10	advmod	_	start_char=1343|end_char=1351
+10	покосилась	покоситься	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=1352|end_char=1362
+11	Марта	Март	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=1363|end_char=1368
+12	на	на	ADP	_	_	14	case	_	start_char=1369|end_char=1371
+13	его	его	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=1372|end_char=1375
+14	шею	шея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	start_char=1376|end_char=1379
+15	.	.	PUNCT	_	_	6	punct	_	start_char=1379|end_char=1380
+
+# text = – Это не заразно?
+# sent_id = 14
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1381|end_char=1382
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=1383|end_char=1386
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1387|end_char=1389
+4	заразно	заразный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1390|end_char=1397
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1397|end_char=1398
+
+# text = Доктор метнулся к зеркалу.
+# sent_id = 15
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1399|end_char=1405
+2	метнулся	метнуться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1406|end_char=1414
+3	к	к	ADP	_	_	4	case	_	start_char=1415|end_char=1416
+4	зеркалу	зеркало	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	start_char=1417|end_char=1424
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1424|end_char=1425
+
+# text = "Наконец-то я тебя нашла", – выглядело как ошейник.
+# sent_id = 16
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	"	"	PUNCT	_	_	7	punct	_	start_char=1426|end_char=1427
+2	Наконец	наконец	ADV	_	Degree=Pos	7	advmod	_	start_char=1427|end_char=1434
+3	-	-	PUNCT	_	_	4	punct	_	start_char=1434|end_char=1435
+4	то	то	PART	_	_	2	advmod	_	start_char=1435|end_char=1437
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=1438|end_char=1439
+6	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	_	start_char=1440|end_char=1444
+7	нашла	найти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1445|end_char=1450
+8	"	"	PUNCT	_	_	7	punct	_	start_char=1450|end_char=1451
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1451|end_char=1452
+10	–	–	PUNCT	_	_	11	punct	_	start_char=1453|end_char=1454
+11	выглядело	выглядеть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1455|end_char=1464
+12	как	как	SCONJ	_	_	13	case	_	start_char=1465|end_char=1468
+13	ошейник	ошейник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	obl	_	start_char=1469|end_char=1476
+14	.	.	PUNCT	_	_	7	punct	_	start_char=1476|end_char=1477
+
+# text = Но кто, где?!
+# sent_id = 17
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=1478|end_char=1480
+2	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=1481|end_char=1484
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1484|end_char=1485
+4	где	где	ADV	_	Degree=Pos|PronType=Rel	2	acl:relcl	_	start_char=1486|end_char=1489
+5	?!	?!	PUNCT	_	_	2	punct	_	start_char=1489|end_char=1491
+
+# text = – Чесаться на людях неприлично!
+# sent_id = 18
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1493|end_char=1494
+2	Чесаться	чесаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	csubj	_	start_char=1495|end_char=1503
+3	на	на	ADP	_	_	4	case	_	start_char=1504|end_char=1506
+4	людях	человек	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	2	obl	_	start_char=1507|end_char=1512
+5	неприлично	неприличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1513|end_char=1523
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1523|end_char=1524
+
+# text = – дернула его Донна.
+# sent_id = 19
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1525|end_char=1526
+2	дернула	дернуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1527|end_char=1534
+3	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=1535|end_char=1538
+4	Донна	Донна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1539|end_char=1544
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1544|end_char=1545
+
+# text = Вокруг было полно магазинов, он заскочил в один из них, в примерочную, чтобы там прочитать "Мне кажется, что Доктор – ксенофоб, только тщательно это".
+# sent_id = 20
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Вокруг	вокруг	ADV	_	Degree=Pos	3	advmod	_	start_char=1546|end_char=1552
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=1553|end_char=1557
+3	полно	полно	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=1558|end_char=1563
+4	магазинов	магазин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	start_char=1564|end_char=1573
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1573|end_char=1574
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=1575|end_char=1577
+7	заскочил	заскочить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1578|end_char=1586
+8	в	в	ADP	_	_	9	case	_	start_char=1587|end_char=1588
+9	один	один	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	start_char=1589|end_char=1593
+10	из	из	ADP	_	_	11	case	_	start_char=1594|end_char=1596
+11	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	start_char=1597|end_char=1600
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1600|end_char=1601
+13	в	в	ADP	_	_	14	case	_	start_char=1602|end_char=1603
+14	примерочную	примерочный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	conj	_	start_char=1604|end_char=1615
+15	,	,	PUNCT	_	_	18	punct	_	start_char=1615|end_char=1616
+16	чтобы	чтобы	SCONJ	_	Mood=Cnd	18	mark	_	start_char=1617|end_char=1622
+17	там	там	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=1623|end_char=1626
+18	прочитать	прочесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=1627|end_char=1636
+19	"	"	PUNCT	_	_	21	punct	_	start_char=1637|end_char=1638
+20	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	21	iobj	_	start_char=1638|end_char=1641
+21	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	parataxis	_	start_char=1642|end_char=1649
+22	,	,	PUNCT	_	_	26	punct	_	start_char=1649|end_char=1650
+23	что	что	SCONJ	_	_	26	mark	_	start_char=1651|end_char=1654
+24	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	start_char=1655|end_char=1661
+25	–	–	PUNCT	_	_	26	punct	_	start_char=1662|end_char=1663
+26	ксенофоб	ксенофоб	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	ccomp	_	start_char=1664|end_char=1672
+27	,	,	PUNCT	_	_	29	punct	_	start_char=1672|end_char=1673
+28	только	только	PART	_	_	29	advmod	_	start_char=1674|end_char=1680
+29	тщательно	тщательно	ADV	_	Degree=Pos	26	conj	_	start_char=1681|end_char=1690
+30	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	26	conj	_	start_char=1691|end_char=1694
+31	"	"	PUNCT	_	_	21	punct	_	start_char=1694|end_char=1695
+32	.	.	PUNCT	_	_	3	punct	_	start_char=1695|end_char=1696
+
+# text = Дальше причудливо змеившаяся по телу надпись терялась так глубоко, что не было видно даже с зеркалом.
+# sent_id = 21
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Дальше	дальше	ADV	_	Degree=Cmp	3	advmod	_	start_char=1697|end_char=1703
+2	причудливо	причудливо	ADV	_	Degree=Pos	3	advmod	_	start_char=1704|end_char=1714
+3	змеившаяся	змеиться	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	6	acl	_	start_char=1715|end_char=1725
+4	по	по	ADP	_	_	5	case	_	start_char=1726|end_char=1728
+5	телу	тело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	obl	_	start_char=1729|end_char=1733
+6	надпись	надпись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=1734|end_char=1741
+7	терялась	теряться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1742|end_char=1750
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=1751|end_char=1754
+9	глубоко	глубоко	ADV	_	Degree=Pos	7	advmod	_	start_char=1755|end_char=1762
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1762|end_char=1763
+11	что	что	SCONJ	_	_	14	mark	_	start_char=1764|end_char=1767
+12	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1768|end_char=1770
+13	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=1771|end_char=1775
+14	видно	видный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	advcl	_	start_char=1776|end_char=1781
+15	даже	даже	PART	_	_	17	advmod	_	start_char=1782|end_char=1786
+16	с	с	ADP	_	_	17	case	_	start_char=1787|end_char=1788
+17	зеркалом	зеркалом	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	start_char=1789|end_char=1797
+18	.	.	PUNCT	_	_	7	punct	_	start_char=1797|end_char=1798
+
+# text = Женясь то на кинозвездах, то на королевах, то на заключенных самой страшной тюрьмы, он постоянно помнил, что это все может быть только мимолетно, пока во всей этой огромной
+# sent_id = 22
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Женясь	жениться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	19	advcl	_	start_char=1800|end_char=1806
+2	то	то	SCONJ	_	_	4	mark	_	start_char=1807|end_char=1809
+3	на	на	ADP	_	_	4	case	_	start_char=1810|end_char=1812
+4	кинозвездах	кинозвезд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	obl	_	start_char=1813|end_char=1824
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1824|end_char=1825
+6	то	то	SCONJ	_	_	8	mark	_	start_char=1826|end_char=1828
+7	на	на	ADP	_	_	8	case	_	start_char=1829|end_char=1831
+8	королевах	королева	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	obl	_	start_char=1832|end_char=1841
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1841|end_char=1842
+10	то	то	CCONJ	_	_	12	cc	_	start_char=1843|end_char=1845
+11	на	на	ADP	_	_	12	case	_	start_char=1846|end_char=1848
+12	заключенных	заключенный	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	8	conj	_	start_char=1849|end_char=1860
+13	самой	сам	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Emp	15	det	_	start_char=1861|end_char=1866
+14	страшной	страшный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=1867|end_char=1875
+15	тюрьмы	тюрьма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=1876|end_char=1882
+16	,	,	PUNCT	_	_	1	punct	_	start_char=1882|end_char=1883
+17	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=1884|end_char=1886
+18	постоянно	постоянно	ADV	_	Degree=Pos	19	advmod	_	start_char=1887|end_char=1896
+19	помнил	помнить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1897|end_char=1903
+20	,	,	PUNCT	_	_	24	punct	_	start_char=1903|end_char=1904
+21	что	что	SCONJ	_	_	24	mark	_	start_char=1905|end_char=1908
+22	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	24	nsubj	_	start_char=1909|end_char=1912
+23	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	24	nsubj	_	start_char=1913|end_char=1916
+24	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	start_char=1917|end_char=1922
+25	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	27	cop	_	start_char=1923|end_char=1927
+26	только	только	PART	_	_	27	advmod	_	start_char=1928|end_char=1934
+27	мимолетно	мимолетно	ADV	_	Degree=Pos	24	advmod	_	start_char=1935|end_char=1944
+28	,	,	PUNCT	_	_	33	punct	_	start_char=1944|end_char=1945
+29	пока	пока	SCONJ	_	_	33	mark	_	start_char=1946|end_char=1950
+30	во	во	ADP	_	_	33	case	_	start_char=1951|end_char=1953
+31	всей	весь	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	33	det	_	start_char=1954|end_char=1958
+32	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	33	det	_	start_char=1959|end_char=1963
+33	огромной	огромный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	advcl	_	start_char=1964|end_char=1972
+
+# text = Вселенной не отыщется та, что выжгла будто каленым железом у него на лбу "Доктор!".
+# sent_id = 23
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obj	_	start_char=1973|end_char=1982
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1983|end_char=1985
+3	отыщется	отысаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1986|end_char=1994
+4	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1995|end_char=1997
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1997|end_char=1998
+6	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	start_char=1999|end_char=2002
+7	выжгла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=2003|end_char=2009
+8	будто	будто	SCONJ	_	_	10	case	_	start_char=2010|end_char=2015
+9	каленым	каленый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=2016|end_char=2023
+10	железом	железо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=2024|end_char=2031
+11	у	у	ADP	_	_	12	case	_	start_char=2032|end_char=2033
+12	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	start_char=2034|end_char=2038
+13	на	на	ADP	_	_	14	case	_	start_char=2039|end_char=2041
+14	лбу	леб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=2042|end_char=2045
+15	"	"	PUNCT	_	_	16	punct	_	start_char=2046|end_char=2047
+16	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	appos	_	start_char=2047|end_char=2053
+17	!	!	PUNCT	_	_	16	punct	_	start_char=2053|end_char=2054
+18	"	"	PUNCT	_	_	16	punct	_	start_char=2054|end_char=2055
+19	.	.	PUNCT	_	_	3	punct	_	start_char=2055|end_char=2056
+
+# text = – Сладенький, ты боишься забыть, кто ты? – нервно рассмеялась Ривер, читающая на галлифрейском, забыв о прощальном поцелуе.
+# sent_id = 24
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2057|end_char=2058
+2	Сладенький	сладенький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	parataxis	_	start_char=2059|end_char=2069
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2069|end_char=2070
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2071|end_char=2073
+5	боишься	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2074|end_char=2081
+6	забыть	забыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=2082|end_char=2088
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2088|end_char=2089
+8	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	ccomp	_	start_char=2090|end_char=2093
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=2094|end_char=2096
+10	?	?	PUNCT	_	_	8	punct	_	start_char=2096|end_char=2097
+11	–	–	PUNCT	_	_	13	punct	_	start_char=2098|end_char=2099
+12	нервно	нервно	ADV	_	Degree=Pos	13	advmod	_	start_char=2100|end_char=2106
+13	рассмеялась	рассмеяться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=2107|end_char=2118
+14	Ривер	Ривер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	13	nsubj	_	start_char=2119|end_char=2124
+15	,	,	PUNCT	_	_	16	punct	_	start_char=2124|end_char=2125
+16	читающая	читать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	start_char=2126|end_char=2134
+17	на	на	ADP	_	_	18	case	_	start_char=2135|end_char=2137
+18	галлифрейском	галлифрейский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	obl	_	start_char=2138|end_char=2151
+19	,	,	PUNCT	_	_	20	punct	_	start_char=2151|end_char=2152
+20	забыв	забыть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	16	conj	_	start_char=2153|end_char=2158
+21	о	о	ADP	_	_	23	case	_	start_char=2159|end_char=2160
+22	прощальном	прощальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	start_char=2161|end_char=2171
+23	поцелуе	поцелуй	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	start_char=2172|end_char=2179
+24	.	.	PUNCT	_	_	5	punct	_	start_char=2179|end_char=2180
+
+# text = – Да!
+# sent_id = 25
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2181|end_char=2182
+2	Да	да	PART	_	_	0	root	_	start_char=2183|end_char=2185
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2185|end_char=2186
+
+# text = Я... так надо!
+# sent_id = 26
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2187|end_char=2188
+2	...	...	PUNCT	_	_	1	punct	_	start_char=2188|end_char=2191
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2192|end_char=2195
+4	надо	надо	VERB	_	_	0	root	_	start_char=2196|end_char=2200
+5	!	!	PUNCT	_	_	4	punct	_	start_char=2200|end_char=2201
+
+# text = – он быстро прикрыл предательские символы и вынужден был ретироваться в ТАРДИС, чтобы только там рассмотреть целиком: "Доктор Ченг!".
+# sent_id = 27
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2202|end_char=2203
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2204|end_char=2206
+3	быстро	быстро	ADV	_	Degree=Pos	4	advmod	_	start_char=2207|end_char=2213
+4	прикрыл	прикрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2214|end_char=2221
+5	предательские	предательский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	start_char=2222|end_char=2235
+6	символы	символ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=2236|end_char=2243
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2244|end_char=2245
+8	вынужден	вынужденный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	start_char=2246|end_char=2254
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	start_char=2255|end_char=2258
+10	ретироваться	ретироваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	start_char=2259|end_char=2271
+11	в	в	ADP	_	_	12	case	_	start_char=2272|end_char=2273
+12	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	10	obl	_	start_char=2274|end_char=2280
+13	,	,	PUNCT	_	_	17	punct	_	start_char=2280|end_char=2281
+14	чтобы	чтобы	SCONJ	_	Mood=Cnd	17	mark	_	start_char=2282|end_char=2287
+15	только	только	PART	_	_	16	advmod	_	start_char=2288|end_char=2294
+16	там	там	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=2295|end_char=2298
+17	рассмотреть	рассмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	advcl	_	start_char=2299|end_char=2310
+18	целиком	целиком	ADV	_	Degree=Pos	17	advmod	_	start_char=2311|end_char=2318
+19	:	:	PUNCT	_	_	21	punct	_	start_char=2318|end_char=2319
+20	"	"	PUNCT	_	_	21	punct	_	start_char=2320|end_char=2321
+21	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	parataxis	_	start_char=2321|end_char=2327
+22	Ченг	Ченг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	21	appos	_	start_char=2328|end_char=2332
+23	!	!	PUNCT	_	_	21	punct	_	start_char=2332|end_char=2333
+24	"	"	PUNCT	_	_	21	punct	_	start_char=2333|end_char=2334
+25	.	.	PUNCT	_	_	4	punct	_	start_char=2334|end_char=2335
+
+# text = Но раньше эти фразы появлялись редко, видимо, когда они совпадали если не в пространстве, то хотя бы во времени.
+# sent_id = 28
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=2337|end_char=2339
+2	раньше	раньше	ADV	_	Degree=Cmp	5	advmod	_	start_char=2340|end_char=2346
+3	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	4	det	_	start_char=2347|end_char=2350
+4	фразы	фраза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=2351|end_char=2356
+5	появлялись	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2357|end_char=2367
+6	редко	редко	ADV	_	Degree=Pos	5	advmod	_	start_char=2368|end_char=2373
+7	,	,	PUNCT	_	_	22	punct	_	start_char=2373|end_char=2374
+8	видимо	видимо	ADV	_	Degree=Pos	22	parataxis	_	start_char=2375|end_char=2381
+9	,	,	PUNCT	_	_	8	punct	_	start_char=2381|end_char=2382
+10	когда	когда	SCONJ	_	_	12	mark	_	start_char=2383|end_char=2388
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=2389|end_char=2392
+12	совпадали	совпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	start_char=2393|end_char=2402
+13	если	если	SCONJ	_	_	16	mark	_	start_char=2403|end_char=2407
+14	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=2408|end_char=2410
+15	в	в	ADP	_	_	16	case	_	start_char=2411|end_char=2412
+16	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	start_char=2413|end_char=2425
+17	,	,	PUNCT	_	_	12	punct	_	start_char=2425|end_char=2426
+18	то	то	SCONJ	_	_	22	mark	_	start_char=2427|end_char=2429
+19	хотя	хотя	PART	_	_	22	advmod	_	start_char=2430|end_char=2434
+20	бы	бы	PART	_	_	19	fixed	_	start_char=2435|end_char=2437
+21	во	во	ADP	_	_	22	case	_	start_char=2438|end_char=2440
+22	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	conj	_	start_char=2441|end_char=2448
+23	.	.	PUNCT	_	_	5	punct	_	start_char=2448|end_char=2449
+
+# text = А сейчас он чувствовал, как слова приветствия, произносимые якобы киборгом какой-то подозрительной организации, опутывают его, будто паутиной.
+# sent_id = 29
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	А	а	CCONJ	_	_	4	cc	_	start_char=2450|end_char=2451
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2452|end_char=2458
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2459|end_char=2461
+4	чувствовал	чувствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2462|end_char=2472
+5	,	,	PUNCT	_	_	17	punct	_	start_char=2472|end_char=2473
+6	как	как	SCONJ	_	_	17	mark	_	start_char=2474|end_char=2477
+7	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	17	nsubj	_	start_char=2478|end_char=2483
+8	приветствия	приветствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	appos	_	start_char=2484|end_char=2495
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2495|end_char=2496
+10	произносимые	произносить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	start_char=2497|end_char=2509
+11	якобы	якобы	PART	_	_	10	advmod	_	start_char=2510|end_char=2515
+12	киборгом	киборг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl:agent	_	start_char=2516|end_char=2524
+13	какой-то	какой-то	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	start_char=2525|end_char=2533
+14	подозрительной	подозрительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=2534|end_char=2548
+15	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=2549|end_char=2560
+16	,	,	PUNCT	_	_	10	punct	_	start_char=2560|end_char=2561
+17	опутывают	опутывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=2562|end_char=2571
+18	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=2572|end_char=2575
+19	,	,	PUNCT	_	_	21	punct	_	start_char=2575|end_char=2576
+20	будто	будто	SCONJ	_	_	21	case	_	start_char=2577|end_char=2582
+21	паутиной	паутина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	_	start_char=2583|end_char=2591
+22	.	.	PUNCT	_	_	4	punct	_	start_char=2591|end_char=2592
+
+# text = – Кто ты? – не смог больше терпеть он неизвестность.
+# sent_id = 30
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2593|end_char=2594
+2	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=2595|end_char=2598
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=2599|end_char=2601
+4	?	?	PUNCT	_	_	2	punct	_	start_char=2601|end_char=2602
+5	–	–	PUNCT	_	_	7	punct	_	start_char=2603|end_char=2604
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2605|end_char=2607
+7	смог	смочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2608|end_char=2612
+8	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	9	advmod	_	start_char=2613|end_char=2619
+9	терпеть	терпеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=2620|end_char=2627
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=2628|end_char=2630
+11	неизвестность	неизвестность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=2631|end_char=2644
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2644|end_char=2645
+
+# text = – Ну не могла же я называть себя по-прежнему – Мастер!
+# sent_id = 31
+# metadata = Название: Его настоящая половинка, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5626d66100000a7d12b04563/1/Ego-nastoyashaya-polovinka
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2646|end_char=2647
+2	Ну	ну	PART	_	_	4	discourse	_	start_char=2648|end_char=2650
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2651|end_char=2653
+4	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2654|end_char=2659
+5	же	же	PART	_	_	4	advmod	_	start_char=2660|end_char=2662
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2663|end_char=2664
+7	называть	называть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=2665|end_char=2673
+8	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obj	_	start_char=2674|end_char=2678
+9	по-прежнему	по-прежнему	ADV	_	Degree=Pos	7	advmod	_	start_char=2679|end_char=2690
+10	–	–	PUNCT	_	_	11	punct	_	start_char=2691|end_char=2692
+11	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	parataxis	_	start_char=2693|end_char=2699
+12	!	!	PUNCT	_	_	4	punct	_	start_char=2699|end_char=2700
+

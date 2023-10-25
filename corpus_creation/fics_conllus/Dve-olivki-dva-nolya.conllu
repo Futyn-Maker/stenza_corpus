@@ -1,0 +1,574 @@
+# text = Бурбон утратил свой аромат, превосходная гаванская сигара приобрела вкус пепла.
+# sent_id = 0
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Бурбон	Бурбон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	2	nsubj	_	start_char=0|end_char=6
+2	утратил	утратить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7|end_char=14
+3	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	start_char=15|end_char=19
+4	аромат	аромат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=20|end_char=26
+5	,	,	PUNCT	_	_	9	punct	_	start_char=26|end_char=27
+6	превосходная	превосходный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=28|end_char=40
+7	гаванская	гаванский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=41|end_char=50
+8	сигара	сигар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=51|end_char=57
+9	приобрела	приобрести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=58|end_char=67
+10	вкус	вкус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=68|end_char=72
+11	пепла	пепло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=73|end_char=78
+12	.	.	PUNCT	_	_	2	punct	_	start_char=78|end_char=79
+
+# text = Человек, сидевший за столиком напротив меня, потягивал коктейль из водки и мартини с двумя оливками.
+# sent_id = 1
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=80|end_char=87
+2	,	,	PUNCT	_	_	3	punct	_	start_char=87|end_char=88
+3	сидевший	сидеть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	start_char=89|end_char=97
+4	за	за	ADP	_	_	5	case	_	start_char=98|end_char=100
+5	столиком	столик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	start_char=101|end_char=109
+6	напротив	напротив	ADP	_	_	7	case	_	start_char=110|end_char=118
+7	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=119|end_char=123
+8	,	,	PUNCT	_	_	3	punct	_	start_char=123|end_char=124
+9	потягивал	потягивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=125|end_char=134
+10	коктейль	коктейль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=135|end_char=143
+11	из	из	ADP	_	_	12	case	_	start_char=144|end_char=146
+12	водки	водка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=147|end_char=152
+13	и	и	CCONJ	_	_	14	cc	_	start_char=153|end_char=154
+14	мартини	мартиня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	conj	_	start_char=155|end_char=162
+15	с	с	ADP	_	_	17	case	_	start_char=163|end_char=164
+16	двумя	два	NUM	_	Case=Ins|NumForm=Word|NumType=Card	17	nummod	_	start_char=165|end_char=170
+17	оливками	оливка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	14	nmod	_	start_char=171|end_char=179
+18	.	.	PUNCT	_	_	9	punct	_	start_char=179|end_char=180
+
+# text = Как и я, он напоминал здесь иностранца.
+# sent_id = 2
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Как	как	SCONJ	_	_	3	mark	_	start_char=181|end_char=184
+2	и	и	PART	_	_	3	advmod	_	start_char=185|end_char=186
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	obl	_	start_char=187|end_char=188
+4	,	,	PUNCT	_	_	3	punct	_	start_char=188|end_char=189
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=190|end_char=192
+6	напоминал	напоминать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=193|end_char=202
+7	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=203|end_char=208
+8	иностранца	иностранец	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=209|end_char=219
+9	.	.	PUNCT	_	_	6	punct	_	start_char=219|end_char=220
+
+# text = Слегка.
+# sent_id = 3
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Слегка	слегка	ADV	_	Degree=Pos	0	root	_	start_char=221|end_char=227
+2	.	.	PUNCT	_	_	1	punct	_	start_char=227|end_char=228
+
+# text = Даже это было своеобразным флером маскировки «Интеллиджент сервис».
+# sent_id = 4
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Даже	даже	PART	_	_	2	advmod	_	start_char=229|end_char=233
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=234|end_char=237
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=238|end_char=242
+4	своеобразным	своеобразный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=243|end_char=255
+5	флером	флер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=256|end_char=262
+6	маскировки	маскировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=263|end_char=273
+7	«	«	PUNCT	_	_	9	punct	_	start_char=274|end_char=275
+8	Интеллиджент	Интеллиджент	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	9	compound	_	start_char=275|end_char=287
+9	сервис	сервис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	start_char=288|end_char=294
+10	»	»	PUNCT	_	_	9	punct	_	start_char=294|end_char=295
+11	.	.	PUNCT	_	_	5	punct	_	start_char=295|end_char=296
+
+# text = Оливки мягко постукивали друг об дружку.
+# sent_id = 5
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Оливки	оливка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=297|end_char=303
+2	мягко	мягко	ADV	_	Degree=Pos	3	advmod	_	start_char=304|end_char=309
+3	постукивали	постукивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=310|end_char=321
+4	друг	друг	PRON	_	Case=Nom|PronType=Rcp	3	obl	_	start_char=322|end_char=326
+5	об	об	ADP	_	_	4	fixed	_	start_char=327|end_char=329
+6	дружку	дружка	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	4	fixed	_	start_char=330|end_char=336
+7	.	.	PUNCT	_	_	3	punct	_	start_char=336|end_char=337
+
+# text = На сцене, переливаясь в свете цветных прожекторов чешуйками блесток, пела не безмолвная, зато почти безголосая рыбка-певичка.
+# sent_id = 6
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	На	на	ADP	_	_	2	case	_	start_char=338|end_char=340
+2	сцене	сцена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	start_char=341|end_char=346
+3	,	,	PUNCT	_	_	4	punct	_	start_char=346|end_char=347
+4	переливаясь	переливаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	12	advcl	_	start_char=348|end_char=359
+5	в	в	ADP	_	_	6	case	_	start_char=360|end_char=361
+6	свете	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=362|end_char=367
+7	цветных	цветной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	start_char=368|end_char=375
+8	прожекторов	прожектор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=376|end_char=387
+9	чешуйками	чешуйка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	iobj	_	start_char=388|end_char=397
+10	блесток	блесток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	start_char=398|end_char=405
+11	,	,	PUNCT	_	_	4	punct	_	start_char=405|end_char=406
+12	пела	петь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=407|end_char=411
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=412|end_char=414
+14	безмолвная	безмолвный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	xcomp	_	start_char=415|end_char=425
+15	,	,	PUNCT	_	_	19	punct	_	start_char=425|end_char=426
+16	зато	зато	CCONJ	_	_	19	cc	_	start_char=427|end_char=431
+17	почти	почти	ADV	_	Degree=Pos	18	advmod	_	start_char=432|end_char=437
+18	безголосая	безголосый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=438|end_char=448
+19	рыбка	рыбка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	start_char=449|end_char=454
+20	-	-	PUNCT	_	_	21	punct	_	start_char=454|end_char=455
+21	певичка	певичка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	19	appos	_	start_char=455|end_char=462
+22	.	.	PUNCT	_	_	12	punct	_	start_char=462|end_char=463
+
+# text = – Опять удалось скрыться?
+# sent_id = 7
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=464|end_char=465
+2	Опять	опять	ADV	_	Degree=Pos	3	advmod	_	start_char=466|end_char=471
+3	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=472|end_char=479
+4	скрыться	скрыться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	csubj	_	start_char=480|end_char=488
+5	?	?	PUNCT	_	_	3	punct	_	start_char=488|end_char=489
+
+# text = Человек, скрывая свое смущение, а заодно и согласный кивок, отхлебнул коктейль.
+# sent_id = 8
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=490|end_char=497
+2	,	,	PUNCT	_	_	3	punct	_	start_char=497|end_char=498
+3	скрывая	скрывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	start_char=499|end_char=506
+4	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	start_char=507|end_char=511
+5	смущение	смущение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=512|end_char=520
+6	,	,	PUNCT	_	_	11	punct	_	start_char=520|end_char=521
+7	а	а	CCONJ	_	_	11	cc	_	start_char=522|end_char=523
+8	заодно	заодно	ADV	_	Degree=Pos	11	advmod	_	start_char=524|end_char=530
+9	и	и	PART	_	_	10	advmod	_	start_char=531|end_char=532
+10	согласный	согласныть	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	amod	_	start_char=533|end_char=542
+11	кивок	кивок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	start_char=543|end_char=548
+12	,	,	PUNCT	_	_	3	punct	_	start_char=548|end_char=549
+13	отхлебнул	отхлебнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=550|end_char=559
+14	коктейль	коктейль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=560|end_char=568
+15	.	.	PUNCT	_	_	13	punct	_	start_char=568|end_char=569
+
+# text = – Не скрыться.
+# sent_id = 9
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=570|end_char=571
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=572|end_char=574
+3	скрыться	скрыться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	start_char=575|end_char=583
+4	.	.	PUNCT	_	_	3	punct	_	start_char=583|end_char=584
+
+# text = Он находится под защитой ООН.
+# sent_id = 10
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=585|end_char=587
+2	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=588|end_char=597
+3	под	под	ADP	_	_	4	case	_	start_char=598|end_char=601
+4	защитой	защита	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	start_char=602|end_char=609
+5	ООН	ООН	PROPN	_	Abbr=Yes|NameType=Com	4	nmod	_	start_char=610|end_char=613
+6	.	.	PUNCT	_	_	2	punct	_	start_char=613|end_char=614
+
+# text = Это ведь ЮНИТ, сотрудничающая и конкурирующая организация одновременно.
+# sent_id = 11
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=615|end_char=618
+2	ведь	ведь	PART	_	_	3	advmod	_	start_char=619|end_char=623
+3	ЮНИТ	юнит	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=624|end_char=628
+4	,	,	PUNCT	_	_	8	punct	_	start_char=628|end_char=629
+5	сотрудничающая	сотрудничать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	start_char=630|end_char=644
+6	и	и	CCONJ	_	_	7	cc	_	start_char=645|end_char=646
+7	конкурирующая	конкурировать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	start_char=647|end_char=660
+8	организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	start_char=661|end_char=672
+9	одновременно	одновременно	ADV	_	Degree=Pos	8	advmod	_	start_char=673|end_char=685
+10	.	.	PUNCT	_	_	3	punct	_	start_char=685|end_char=686
+
+# text = – Вот именно.
+# sent_id = 12
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=687|end_char=688
+2	Вот	вот	PART	_	_	0	root	_	start_char=689|end_char=692
+3	именно	именно	PART	_	_	2	advmod	_	start_char=693|end_char=699
+4	.	.	PUNCT	_	_	2	punct	_	start_char=699|end_char=700
+
+# text = И находящаяся под влиянием пришельца с другой планеты.
+# sent_id = 13
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	И	и	CCONJ	_	_	2	cc	_	start_char=701|end_char=702
+2	находящаяся	находищаться	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	start_char=703|end_char=714
+3	под	под	ADP	_	_	4	case	_	start_char=715|end_char=718
+4	влиянием	влияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	start_char=719|end_char=727
+5	пришельца	пришельца	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=728|end_char=737
+6	с	с	ADP	_	_	8	case	_	start_char=738|end_char=739
+7	другой	другой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	8	det	_	start_char=740|end_char=746
+8	планеты	планета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=747|end_char=754
+9	.	.	PUNCT	_	_	2	punct	_	start_char=754|end_char=755
+
+# text = В этом главная опасность для всего мира.
+# sent_id = 14
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	В	в	ADP	_	_	2	case	_	start_char=756|end_char=757
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=758|end_char=762
+3	главная	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=763|end_char=770
+4	опасность	опасность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=771|end_char=780
+5	для	для	ADP	_	_	7	case	_	start_char=781|end_char=784
+6	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	start_char=785|end_char=790
+7	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=791|end_char=795
+8	.	.	PUNCT	_	_	2	punct	_	start_char=795|end_char=796
+
+# text = – Я понимаю, М… – не стоило упоминать даже кодовых букв, но мой собеседник утопил ее в очередном глотке, только я знал, что он произнес.
+# sent_id = 15
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=797|end_char=798
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=799|end_char=800
+3	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=801|end_char=808
+4	,	,	PUNCT	_	_	5	punct	_	start_char=808|end_char=809
+5	М…	м…	INTJ	_	_	3	discourse	_	start_char=810|end_char=812
+6	–	–	PUNCT	_	_	8	punct	_	start_char=813|end_char=814
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=815|end_char=817
+8	стоило	стоить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=818|end_char=824
+9	упоминать	упоминать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	start_char=825|end_char=834
+10	даже	даже	PART	_	_	11	advmod	_	start_char=835|end_char=839
+11	кодовых	кодовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=840|end_char=847
+12	букв	буква	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obj	_	start_char=848|end_char=852
+13	,	,	PUNCT	_	_	17	punct	_	start_char=852|end_char=853
+14	но	но	CCONJ	_	_	17	cc	_	start_char=854|end_char=856
+15	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	start_char=857|end_char=860
+16	собеседник	собеседник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	start_char=861|end_char=871
+17	утопил	утопить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=872|end_char=878
+18	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=879|end_char=881
+19	в	в	ADP	_	_	21	case	_	start_char=882|end_char=883
+20	очередном	очередной	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	start_char=884|end_char=893
+21	глотке	глотка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	start_char=894|end_char=900
+22	,	,	PUNCT	_	_	25	punct	_	start_char=900|end_char=901
+23	только	только	SCONJ	_	_	25	mark	_	start_char=902|end_char=908
+24	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	start_char=909|end_char=910
+25	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=911|end_char=915
+26	,	,	PUNCT	_	_	29	punct	_	start_char=915|end_char=916
+27	что	что	SCONJ	_	_	29	mark	_	start_char=917|end_char=920
+28	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	start_char=921|end_char=923
+29	произнес	произнести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	ccomp	_	start_char=924|end_char=932
+30	.	.	PUNCT	_	_	3	punct	_	start_char=932|end_char=933
+
+# text = – Все, разумеется, всё понимают.
+# sent_id = 16
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=934|end_char=935
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	start_char=936|end_char=939
+3	,	,	PUNCT	_	_	4	punct	_	start_char=939|end_char=940
+4	разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=941|end_char=951
+5	,	,	PUNCT	_	_	4	punct	_	start_char=951|end_char=952
+6	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	start_char=953|end_char=956
+7	понимают	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=957|end_char=965
+8	.	.	PUNCT	_	_	7	punct	_	start_char=965|end_char=966
+
+# text = А что-либо сделать – с этим всегда проблемы.
+# sent_id = 17
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	А	а	CCONJ	_	_	3	cc	_	start_char=967|end_char=968
+2	что-либо	что-либо	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	3	obj	_	start_char=969|end_char=977
+3	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=978|end_char=985
+4	–	–	PUNCT	_	_	3	punct	_	start_char=986|end_char=987
+5	с	с	ADP	_	_	6	case	_	start_char=988|end_char=989
+6	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	nmod	_	start_char=990|end_char=994
+7	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	8	advmod	_	start_char=995|end_char=1001
+8	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	parataxis	_	start_char=1002|end_char=1010
+9	.	.	PUNCT	_	_	3	punct	_	start_char=1010|end_char=1011
+
+# text = – Мир висит на волоске.
+# sent_id = 18
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1012|end_char=1013
+2	Мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1014|end_char=1017
+3	висит	висеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1018|end_char=1023
+4	на	на	ADP	_	_	5	case	_	start_char=1024|end_char=1026
+5	волоске	волоска	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=1027|end_char=1034
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1034|end_char=1035
+
+# text = Возможная эскалация
+# sent_id = 19
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Возможная	возможный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=1036|end_char=1045
+2	эскалация	эскалация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1046|end_char=1055
+
+# text = Холодной войны, если произойдет что-то нашумевшее с научным консультантом подразделения ООН…
+# sent_id = 20
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Холодной	холодной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=1056|end_char=1064
+2	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=1065|end_char=1070
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1070|end_char=1071
+4	если	если	SCONJ	_	_	5	mark	_	start_char=1072|end_char=1076
+5	произойдет	произойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=1077|end_char=1087
+6	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	nsubj	_	start_char=1088|end_char=1094
+7	нашумевшее	найти	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	start_char=1095|end_char=1105
+8	с	с	ADP	_	_	10	case	_	start_char=1106|end_char=1107
+9	научным	научный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=1108|end_char=1115
+10	консультантом	консультант	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=1116|end_char=1129
+11	подразделения	подразделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	start_char=1130|end_char=1143
+12	ООН	ООН	PROPN	_	Abbr=Yes|NameType=Com	11	nmod	_	start_char=1144|end_char=1147
+13	…	…	PUNCT	_	_	2	punct	_	start_char=1147|end_char=1148
+
+# text = – Разумеется.
+# sent_id = 21
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1149|end_char=1150
+2	Разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1151|end_char=1161
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1161|end_char=1162
+
+# text = – Простите.
+# sent_id = 22
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1163|end_char=1164
+2	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1165|end_char=1173
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1173|end_char=1174
+
+# text = Я лишь предполагаю, что тут нужна не грубая сила, которая может вызвать подозрения, а нечто более тонкое.
+# sent_id = 23
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=1175|end_char=1176
+2	лишь	лишь	PART	_	_	3	advmod	_	start_char=1177|end_char=1181
+3	предполагаю	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1182|end_char=1193
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1193|end_char=1194
+5	что	что	SCONJ	_	_	7	mark	_	start_char=1195|end_char=1198
+6	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1199|end_char=1202
+7	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	ccomp	_	start_char=1203|end_char=1208
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1209|end_char=1211
+9	грубая	грубый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=1212|end_char=1218
+10	сила	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=1219|end_char=1223
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1223|end_char=1224
+12	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	13	nsubj	_	start_char=1225|end_char=1232
+13	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=1233|end_char=1238
+14	вызвать	вызвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=1239|end_char=1246
+15	подозрения	подозрение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	obj	_	start_char=1247|end_char=1257
+16	,	,	PUNCT	_	_	20	punct	_	start_char=1257|end_char=1258
+17	а	а	CCONJ	_	_	20	cc	_	start_char=1259|end_char=1260
+18	нечто	нечто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	20	nsubj	_	start_char=1261|end_char=1266
+19	более	более	ADV	_	Degree=Cmp|PronType=Tot	20	advmod	_	start_char=1267|end_char=1272
+20	тонкое	тонкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	conj	_	start_char=1273|end_char=1279
+21	.	.	PUNCT	_	_	3	punct	_	start_char=1279|end_char=1280
+
+# text = Возможно, стоит обратиться не к кому-либо из агентов с лицензией, а напрямую к отделу Кью.
+# sent_id = 24
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Возможно	возможно	ADV	_	Degree=Pos	3	parataxis	_	start_char=1281|end_char=1289
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1289|end_char=1290
+3	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1291|end_char=1296
+4	обратиться	обратиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	csubj	_	start_char=1297|end_char=1307
+5	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1308|end_char=1310
+6	к	к	ADP	_	_	7	case	_	start_char=1311|end_char=1312
+7	кому-либо	кому-либый	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	start_char=1313|end_char=1322
+8	из	из	ADP	_	_	9	case	_	start_char=1323|end_char=1325
+9	агентов	агент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	start_char=1326|end_char=1333
+10	с	с	ADP	_	_	11	case	_	start_char=1334|end_char=1335
+11	лицензией	лицензия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	nmod	_	start_char=1336|end_char=1345
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1345|end_char=1346
+13	а	а	CCONJ	_	_	14	cc	_	start_char=1347|end_char=1348
+14	напрямую	напрямую	ADV	_	Degree=Pos	3	conj	_	start_char=1349|end_char=1357
+15	к	к	ADP	_	_	16	case	_	start_char=1358|end_char=1359
+16	отделу	отдел	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	obl	_	start_char=1360|end_char=1366
+17	Кью	Кью	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	16	appos	_	start_char=1367|end_char=1370
+18	.	.	PUNCT	_	_	3	punct	_	start_char=1370|end_char=1371
+
+# text = Неплохая мысль, именно к этому Игрушечнику из Кью-континуума, развлекающемуся изготовлением невероятных гаджетов для МИ-6, нарушающих все логически-пространственные построения вместе взятые, в порядке развлечения!
+# sent_id = 25
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Неплохая	неплохой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=1372|end_char=1380
+2	мысль	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1381|end_char=1386
+3	,	,	PUNCT	_	_	7	punct	_	start_char=1386|end_char=1387
+4	именно	именно	PART	_	_	7	advmod	_	start_char=1388|end_char=1394
+5	к	к	ADP	_	_	7	case	_	start_char=1395|end_char=1396
+6	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=1397|end_char=1402
+7	Игрушечнику	игрушечник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	start_char=1403|end_char=1414
+8	из	из	ADP	_	_	9	case	_	start_char=1415|end_char=1417
+9	Кью-континуума	Кью-континуум	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	7	nmod	_	start_char=1418|end_char=1432
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1432|end_char=1433
+11	развлекающемуся	развлекаться	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	start_char=1434|end_char=1449
+12	изготовлением	изготовление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl:agent	_	start_char=1450|end_char=1463
+13	невероятных	невероятный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	start_char=1464|end_char=1475
+14	гаджетов	гаджет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	start_char=1476|end_char=1484
+15	для	для	ADP	_	_	16	case	_	start_char=1485|end_char=1488
+16	МИ	МИ	PROPN	_	Abbr=Yes|NameType=Com	12	nmod	_	start_char=1489|end_char=1491
+17	-	-	PUNCT	_	_	18	punct	_	start_char=1491|end_char=1492
+18	6	6	NUM	_	NumForm=Digit|NumType=Card	16	appos	_	start_char=1492|end_char=1493
+19	,	,	PUNCT	_	_	20	punct	_	start_char=1493|end_char=1494
+20	нарушающих	нарушать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	start_char=1495|end_char=1505
+21	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	25	det	_	start_char=1506|end_char=1509
+22	логически	логически	ADV	_	Degree=Pos	24	advmod	_	start_char=1510|end_char=1519
+23	-	-	PUNCT	_	_	24	punct	_	start_char=1519|end_char=1520
+24	пространственные	пространственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	25	amod	_	start_char=1520|end_char=1536
+25	построения	построение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	obj	_	start_char=1537|end_char=1547
+26	вместе	вместе	ADV	_	Degree=Pos	27	advmod	_	start_char=1548|end_char=1554
+27	взятые	взять	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	25	acl	_	start_char=1555|end_char=1561
+28	,	,	PUNCT	_	_	30	punct	_	start_char=1561|end_char=1562
+29	в	в	ADP	_	_	30	case	_	start_char=1563|end_char=1564
+30	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	start_char=1565|end_char=1572
+31	развлечения	развлечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	start_char=1573|end_char=1584
+32	!	!	PUNCT	_	_	2	punct	_	start_char=1584|end_char=1585
+
+# text = – Что ж, Джеймс, пожалуй, вы правы!
+# sent_id = 26
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1586|end_char=1587
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1588|end_char=1591
+3	ж	ж	PART	_	_	2	advmod	_	start_char=1592|end_char=1593
+4	,	,	PUNCT	_	_	10	punct	_	start_char=1593|end_char=1594
+5	Джеймс	Джеймс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	nsubj	_	start_char=1595|end_char=1601
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1601|end_char=1602
+7	пожалуй	пожалуй	ADV	_	Degree=Pos	10	parataxis	_	start_char=1603|end_char=1610
+8	,	,	PUNCT	_	_	7	punct	_	start_char=1610|end_char=1611
+9	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	start_char=1612|end_char=1614
+10	правы	правый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	2	parataxis	_	start_char=1615|end_char=1620
+11	!	!	PUNCT	_	_	2	punct	_	start_char=1620|end_char=1621
+
+# text = – Было бы недурно, если бы Доктор нарвался на неприятности именно со стороны людей, которым так благоволит, но они способны на слишком малое.
+# sent_id = 27
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1622|end_char=1623
+2	Было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=1624|end_char=1628
+3	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=1629|end_char=1631
+4	недурно	недурный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1632|end_char=1639
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1639|end_char=1640
+6	если	если	SCONJ	_	_	9	mark	_	start_char=1641|end_char=1645
+7	бы	бы	AUX	_	Mood=Cnd	9	aux	_	start_char=1646|end_char=1648
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=1649|end_char=1655
+9	нарвался	нарваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	advcl	_	start_char=1656|end_char=1664
+10	на	на	ADP	_	_	11	case	_	start_char=1665|end_char=1667
+11	неприятности	неприятность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obl	_	start_char=1668|end_char=1680
+12	именно	именно	PART	_	_	15	advmod	_	start_char=1681|end_char=1687
+13	со	со	ADP	_	_	15	case	_	start_char=1688|end_char=1690
+14	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	fixed	_	start_char=1691|end_char=1698
+15	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	start_char=1699|end_char=1704
+16	,	,	PUNCT	_	_	19	punct	_	start_char=1704|end_char=1705
+17	которым	который	PRON	_	Case=Dat|Number=Plur|PronType=Rel	19	iobj	_	start_char=1706|end_char=1713
+18	так	так	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=1714|end_char=1717
+19	благоволит	благоволить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	start_char=1718|end_char=1728
+20	,	,	PUNCT	_	_	23	punct	_	start_char=1728|end_char=1729
+21	но	но	CCONJ	_	_	23	cc	_	start_char=1730|end_char=1732
+22	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	start_char=1733|end_char=1736
+23	способны	способный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	9	conj	_	start_char=1737|end_char=1745
+24	на	на	ADP	_	_	26	case	_	start_char=1746|end_char=1748
+25	слишком	слишком	ADV	_	Degree=Pos	26	advmod	_	start_char=1749|end_char=1756
+26	малое	малый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	obl	_	start_char=1757|end_char=1762
+27	.	.	PUNCT	_	_	4	punct	_	start_char=1762|end_char=1763
+
+# text = Правда, с теми, кто способен на слишком многое, хлопот не оберешься, но хотя бы действие может быть эффективнее.
+# sent_id = 28
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	parataxis	_	start_char=1764|end_char=1770
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1770|end_char=1771
+3	с	с	ADP	_	_	4	case	_	start_char=1772|end_char=1773
+4	теми	тот	DET	_	Case=Ins|Number=Plur|PronType=Dem	14	obl	_	start_char=1774|end_char=1778
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1778|end_char=1779
+6	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	start_char=1780|end_char=1783
+7	способен	способный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	acl:relcl	_	start_char=1784|end_char=1792
+8	на	на	ADP	_	_	10	case	_	start_char=1793|end_char=1795
+9	слишком	слишком	ADV	_	Degree=Pos	10	advmod	_	start_char=1796|end_char=1803
+10	многое	многое	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obl	_	start_char=1804|end_char=1810
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1810|end_char=1811
+12	хлопот	хлопот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	obj	_	start_char=1812|end_char=1818
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1819|end_char=1821
+14	оберешься	обереться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1822|end_char=1831
+15	,	,	PUNCT	_	_	20	punct	_	start_char=1831|end_char=1832
+16	но	но	CCONJ	_	_	20	cc	_	start_char=1833|end_char=1835
+17	хотя	хотя	PART	_	_	20	advmod	_	start_char=1836|end_char=1840
+18	бы	бы	PART	_	_	17	fixed	_	start_char=1841|end_char=1843
+19	действие	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	start_char=1844|end_char=1852
+20	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	start_char=1853|end_char=1858
+21	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	cop	_	start_char=1859|end_char=1863
+22	эффективнее	эффективный	ADJ	_	Degree=Cmp	20	xcomp	_	start_char=1864|end_char=1875
+23	.	.	PUNCT	_	_	14	punct	_	start_char=1875|end_char=1876
+
+# text = Нет, не пойдет, пожалуй, стоит убедить Кью, что есть что-то веселое в совсем другой части вселенной, где-нибудь в дельта-квадранте, и заняться всем самому без помех.
+# sent_id = 29
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Нет	нет	PART	_	Polarity=Neg	4	parataxis	_	start_char=1877|end_char=1880
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1880|end_char=1881
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1882|end_char=1884
+4	пойдет	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1885|end_char=1891
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1891|end_char=1892
+6	пожалуй	пожалуй	ADV	_	Degree=Pos	8	parataxis	_	start_char=1893|end_char=1900
+7	,	,	PUNCT	_	_	6	punct	_	start_char=1900|end_char=1901
+8	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1902|end_char=1907
+9	убедить	убедить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	csubj	_	start_char=1908|end_char=1915
+10	Кью	Кью	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=1916|end_char=1919
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1919|end_char=1920
+12	что	что	SCONJ	_	_	13	mark	_	start_char=1921|end_char=1924
+13	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	start_char=1925|end_char=1929
+14	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	13	nsubj	_	start_char=1930|end_char=1936
+15	веселое	веселый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=1937|end_char=1944
+16	в	в	ADP	_	_	19	case	_	start_char=1945|end_char=1946
+17	совсем	совсем	ADV	_	Degree=Pos	18	advmod	_	start_char=1947|end_char=1953
+18	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	19	det	_	start_char=1954|end_char=1960
+19	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	start_char=1961|end_char=1966
+20	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	start_char=1967|end_char=1976
+21	,	,	PUNCT	_	_	22	punct	_	start_char=1976|end_char=1977
+22	где-нибудь	где-нибудь	ADV	_	Degree=Pos|PronType=Ind	24	orphan	_	start_char=1978|end_char=1988
+23	в	в	ADP	_	_	26	case	_	start_char=1989|end_char=1990
+24	дельта	дельта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	compound	_	start_char=1991|end_char=1997
+25	-	-	PUNCT	_	_	26	punct	_	start_char=1997|end_char=1998
+26	квадранте	квадрант	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	conj	_	start_char=1998|end_char=2007
+27	,	,	PUNCT	_	_	29	punct	_	start_char=2007|end_char=2008
+28	и	и	CCONJ	_	_	29	cc	_	start_char=2009|end_char=2010
+29	заняться	заняться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	conj	_	start_char=2011|end_char=2019
+30	всем	все	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	29	iobj	_	start_char=2020|end_char=2024
+31	самому	сам	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Emp	29	iobj	_	start_char=2025|end_char=2031
+32	без	без	ADP	_	_	33	case	_	start_char=2032|end_char=2035
+33	помех	помеха	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	obl	_	start_char=2036|end_char=2041
+34	.	.	PUNCT	_	_	4	punct	_	start_char=2041|end_char=2042
+
+# text = Так что – дважды ноль, минус МИ-6.
+# sent_id = 30
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	mark	_	start_char=2043|end_char=2046
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=2047|end_char=2050
+3	–	–	PUNCT	_	_	1	punct	_	start_char=2051|end_char=2052
+4	дважды	дважды	ADV	_	Degree=Pos	0	root	_	start_char=2053|end_char=2059
+5	ноль	ноль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2060|end_char=2064
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2064|end_char=2065
+7	минус	минус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	start_char=2066|end_char=2071
+8	МИ	МИ	NOUN	_	Abbr=Yes	7	nmod	_	start_char=2072|end_char=2074
+9	-6	-6	NUM	_	NumForm=Digit|NumType=Card	8	appos	_	start_char=2074|end_char=2076
+10	.	.	PUNCT	_	_	4	punct	_	start_char=2076|end_char=2077
+
+# text = К чему нам Холодная война, если кто-то любит погорячее?..
+# sent_id = 31
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	К	к	ADP	_	_	2	case	_	start_char=2078|end_char=2079
+2	чему	что	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2080|end_char=2084
+3	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	start_char=2085|end_char=2088
+4	Холодная	холодный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2089|end_char=2097
+5	война	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=2098|end_char=2103
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2103|end_char=2104
+7	если	если	SCONJ	_	_	9	mark	_	start_char=2105|end_char=2109
+8	кто-то	кто-то	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	start_char=2110|end_char=2116
+9	любит	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=2117|end_char=2122
+10	погорячее	погорячий	ADJ	_	Degree=Cmp	9	xcomp	_	start_char=2123|end_char=2132
+11	?..	?..	PUNCT	_	_	2	punct	_	start_char=2132|end_char=2135
+
+# text = Над дверями кабаре, в котором мы сидели, горела неоновая реклама: «Shell всегда с тобой!»
+# sent_id = 32
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Над	над	ADP	_	_	2	case	_	start_char=2136|end_char=2139
+2	дверями	дверь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	obl	_	start_char=2140|end_char=2147
+3	кабаре	кабара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=2148|end_char=2154
+4	,	,	PUNCT	_	_	8	punct	_	start_char=2154|end_char=2155
+5	в	в	ADP	_	_	6	case	_	start_char=2156|end_char=2157
+6	котором	который	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	8	obl	_	start_char=2158|end_char=2165
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=2166|end_char=2168
+8	сидели	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=2169|end_char=2175
+9	,	,	PUNCT	_	_	8	punct	_	start_char=2175|end_char=2176
+10	горела	гореть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2177|end_char=2183
+11	неоновая	неоновый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=2184|end_char=2192
+12	реклама	реклама	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=2193|end_char=2200
+13	:	:	PUNCT	_	_	15	punct	_	start_char=2200|end_char=2201
+14	«	«	PUNCT	_	_	15	punct	_	start_char=2202|end_char=2203
+15	Shell	Shell	X	_	Foreign=Yes	18	nsubj	_	start_char=2203|end_char=2208
+16	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	18	advmod	_	start_char=2209|end_char=2215
+17	с	с	ADP	_	_	18	case	_	start_char=2216|end_char=2217
+18	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	12	parataxis	_	start_char=2218|end_char=2223
+19	!	!	PUNCT	_	_	18	punct	_	start_char=2223|end_char=2224
+20	»	»	PUNCT	_	_	15	punct	_	start_char=2224|end_char=2225
+
+# text = Без первой буквы, которая была чем-то безнадежно повреждена.
+# sent_id = 33
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	Без	без	ADP	_	_	3	case	_	start_char=2226|end_char=2229
+2	первой	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	3	amod	_	start_char=2230|end_char=2236
+3	буквы	буква	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=2237|end_char=2242
+4	,	,	PUNCT	_	_	9	punct	_	start_char=2242|end_char=2243
+5	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj:pass	_	start_char=2244|end_char=2251
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	start_char=2252|end_char=2256
+7	чем-то	что-то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	9	iobj	_	start_char=2257|end_char=2263
+8	безнадежно	безнадежно	ADV	_	Degree=Pos	9	advmod	_	start_char=2264|end_char=2274
+9	повреждена	повредить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	acl:relcl	_	start_char=2275|end_char=2285
+10	.	.	PUNCT	_	_	3	punct	_	start_char=2285|end_char=2286
+
+# text = 2013
+# sent_id = 34
+# metadata = Название: Две оливки - два ноля, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/546cf7d700000a7f15e1bebd/1/Dve-olivki-dva-nolya
+1	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	0	root	_	start_char=2288|end_char=2292
+

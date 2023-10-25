@@ -1,0 +1,1609 @@
+# text = Тайный план Мастера сработал на все сто – после того, как далеки уничтожили его очередное тело, урну с прахом забрал Доктор.
+# sent_id = 0
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Тайный	тайный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=0|end_char=6
+2	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=7|end_char=11
+3	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=12|end_char=19
+4	сработал	сработать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=20|end_char=28
+5	на	на	ADP	_	_	7	case	_	start_char=29|end_char=31
+6	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	start_char=32|end_char=35
+7	сто	сто	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	obl	_	start_char=36|end_char=39
+8	–	–	PUNCT	_	_	10	punct	_	start_char=40|end_char=41
+9	после	после	ADP	_	_	10	case	_	start_char=42|end_char=47
+10	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	start_char=48|end_char=52
+11	,	,	PUNCT	_	_	13	punct	_	start_char=52|end_char=53
+12	как	как	SCONJ	_	_	13	mark	_	start_char=54|end_char=57
+13	далеки	далекий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	10	acl	_	start_char=58|end_char=64
+14	уничтожили	уничтожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	start_char=65|end_char=75
+15	его	его	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=76|end_char=79
+16	очередное	очередной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	start_char=80|end_char=89
+17	тело	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	start_char=90|end_char=94
+18	,	,	PUNCT	_	_	22	punct	_	start_char=94|end_char=95
+19	урну	урна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	_	start_char=96|end_char=100
+20	с	с	ADP	_	_	21	case	_	start_char=101|end_char=102
+21	прахом	прах	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	obl	_	start_char=103|end_char=109
+22	забрал	забрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=110|end_char=116
+23	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	start_char=117|end_char=123
+24	.	.	PUNCT	_	_	4	punct	_	start_char=123|end_char=124
+
+# text = И в этот раз Мастер был рад, что Доктору удался его план – не так-то просто ему было прилететь к далекам и улететь целым обратно, у тех тоже был план – захватить и Доктора, используя прах Мастера как приманку.
+# sent_id = 1
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	И	и	CCONJ	_	_	7	cc	_	start_char=125|end_char=126
+2	в	в	ADP	_	_	4	case	_	start_char=127|end_char=128
+3	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=129|end_char=133
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=134|end_char=137
+5	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=138|end_char=144
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=145|end_char=148
+7	рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=149|end_char=152
+8	,	,	PUNCT	_	_	11	punct	_	start_char=152|end_char=153
+9	что	что	SCONJ	_	_	11	mark	_	start_char=154|end_char=157
+10	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	start_char=158|end_char=165
+11	удался	удаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	ccomp	_	start_char=166|end_char=172
+12	его	его	DET	_	Poss=Yes|PronType=Prs	13	det	_	start_char=173|end_char=176
+13	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=177|end_char=181
+14	–	–	PUNCT	_	_	20	punct	_	start_char=182|end_char=183
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=184|end_char=186
+16	так-то	так-то	ADV	_	Degree=Pos|PronType=Ind	20	advmod	_	start_char=187|end_char=193
+17	просто	просто	PART	_	_	20	advmod	_	start_char=194|end_char=200
+18	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	iobj	_	start_char=201|end_char=204
+19	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	aux	_	start_char=205|end_char=209
+20	прилететь	прилететь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	parataxis	_	start_char=210|end_char=219
+21	к	к	ADP	_	_	22	case	_	start_char=220|end_char=221
+22	далекам	далек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	20	obl	_	start_char=222|end_char=229
+23	и	и	CCONJ	_	_	24	cc	_	start_char=230|end_char=231
+24	улететь	улететь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	conj	_	start_char=232|end_char=239
+25	целым	целый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	start_char=240|end_char=245
+26	обратно	обратно	ADV	_	Degree=Pos	24	advmod	_	start_char=246|end_char=253
+27	,	,	PUNCT	_	_	29	punct	_	start_char=253|end_char=254
+28	у	у	ADP	_	_	29	case	_	start_char=255|end_char=256
+29	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	20	obl	_	start_char=257|end_char=260
+30	тоже	тоже	PART	_	_	29	advmod	_	start_char=261|end_char=265
+31	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	29	cop	_	start_char=266|end_char=269
+32	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	start_char=270|end_char=274
+33	–	–	PUNCT	_	_	34	punct	_	start_char=275|end_char=276
+34	захватить	захватить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	parataxis	_	start_char=277|end_char=286
+35	и	и	CCONJ	_	_	36	cc	_	start_char=287|end_char=288
+36	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	34	conj	_	start_char=289|end_char=296
+37	,	,	PUNCT	_	_	38	punct	_	start_char=296|end_char=297
+38	используя	использовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	34	advcl	_	start_char=298|end_char=307
+39	прах	прах	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	38	obj	_	start_char=308|end_char=312
+40	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	start_char=313|end_char=320
+41	как	как	SCONJ	_	_	42	case	_	start_char=321|end_char=324
+42	приманку	приманка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	38	obl	_	start_char=325|end_char=333
+43	.	.	PUNCT	_	_	7	punct	_	start_char=333|end_char=334
+
+# text = Понятное дело, в урне был не только он, но и та самая жизненная сила Мастера, благодаря которой он казался совершенно бессмертным, несмотря на все свои смерти.
+# sent_id = 2
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Понятное	понятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=335|end_char=343
+2	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=344|end_char=348
+3	,	,	PUNCT	_	_	5	punct	_	start_char=348|end_char=349
+4	в	в	ADP	_	_	5	case	_	start_char=350|end_char=351
+5	урне	урна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	conj	_	start_char=352|end_char=356
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=357|end_char=360
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=361|end_char=363
+8	только	только	PART	_	_	9	advmod	_	start_char=364|end_char=370
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=371|end_char=373
+10	,	,	PUNCT	_	_	16	punct	_	start_char=373|end_char=374
+11	но	но	CCONJ	_	_	16	cc	_	start_char=375|end_char=377
+12	и	и	PART	_	_	11	fixed	_	start_char=378|end_char=379
+13	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	start_char=380|end_char=382
+14	самая	самый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	15	det	_	start_char=383|end_char=388
+15	жизненная	жизненный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=389|end_char=398
+16	сила	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	start_char=399|end_char=403
+17	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	start_char=404|end_char=411
+18	,	,	PUNCT	_	_	22	punct	_	start_char=411|end_char=412
+19	благодаря	благодаря	ADP	_	_	20	case	_	start_char=413|end_char=422
+20	которой	который	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	22	obl	_	start_char=423|end_char=430
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=431|end_char=433
+22	казался	казаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	17	acl:relcl	_	start_char=434|end_char=441
+23	совершенно	совершенно	ADV	_	Degree=Pos	24	advmod	_	start_char=442|end_char=452
+24	бессмертным	бессмертный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	xcomp	_	start_char=453|end_char=464
+25	,	,	PUNCT	_	_	30	punct	_	start_char=464|end_char=465
+26	несмотря	несмотря	ADV	_	Degree=Pos	30	case	_	start_char=466|end_char=474
+27	на	на	ADP	_	_	26	fixed	_	start_char=475|end_char=477
+28	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	30	det	_	start_char=478|end_char=481
+29	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	30	det	_	start_char=482|end_char=486
+30	смерти	смерть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	obl	_	start_char=487|end_char=493
+31	.	.	PUNCT	_	_	2	punct	_	start_char=493|end_char=494
+
+# text = Итак, он чувствовал, что время пришло.
+# sent_id = 3
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Итак	итак	ADV	_	Degree=Pos	4	parataxis	_	start_char=495|end_char=499
+2	,	,	PUNCT	_	_	1	punct	_	start_char=499|end_char=500
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=501|end_char=503
+4	чувствовал	чувствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=504|end_char=514
+5	,	,	PUNCT	_	_	8	punct	_	start_char=514|end_char=515
+6	что	что	SCONJ	_	_	8	mark	_	start_char=516|end_char=519
+7	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	start_char=520|end_char=525
+8	пришло	прийти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=526|end_char=532
+9	.	.	PUNCT	_	_	4	punct	_	start_char=532|end_char=533
+
+# text = Он сконцентрировался – и урна дала трещину, небольшую, но достаточную, чтобы оттуда просочилась сила, оставив позади себя один прах.
+# sent_id = 4
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=534|end_char=536
+2	сконцентрировался	сконцентрироваться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=537|end_char=554
+3	–	–	PUNCT	_	_	6	punct	_	start_char=555|end_char=556
+4	и	и	CCONJ	_	_	6	cc	_	start_char=557|end_char=558
+5	урна	урна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=559|end_char=563
+6	дала	дать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=564|end_char=568
+7	трещину	трещина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=569|end_char=576
+8	,	,	PUNCT	_	_	9	punct	_	start_char=576|end_char=577
+9	небольшую	небольшой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=578|end_char=587
+10	,	,	PUNCT	_	_	12	punct	_	start_char=587|end_char=588
+11	но	но	CCONJ	_	_	12	cc	_	start_char=589|end_char=591
+12	достаточную	достаточный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	conj	_	start_char=592|end_char=603
+13	,	,	PUNCT	_	_	16	punct	_	start_char=603|end_char=604
+14	чтобы	чтобы	SCONJ	_	Mood=Cnd	16	mark	_	start_char=605|end_char=610
+15	оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=611|end_char=617
+16	просочилась	просочиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	advcl	_	start_char=618|end_char=629
+17	сила	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	start_char=630|end_char=634
+18	,	,	PUNCT	_	_	19	punct	_	start_char=634|end_char=635
+19	оставив	оставить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	16	advcl	_	start_char=636|end_char=643
+20	позади	позади	ADP	_	_	21	case	_	start_char=644|end_char=650
+21	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	19	obl	_	start_char=651|end_char=655
+22	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	23	nummod	_	start_char=656|end_char=660
+23	прах	прах	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	start_char=661|end_char=665
+24	.	.	PUNCT	_	_	2	punct	_	start_char=665|end_char=666
+
+# text = Она соскользнула на пол.
+# sent_id = 5
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=667|end_char=670
+2	соскользнула	соскользнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=671|end_char=683
+3	на	на	ADP	_	_	4	case	_	start_char=684|end_char=686
+4	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=687|end_char=690
+5	.	.	PUNCT	_	_	2	punct	_	start_char=690|end_char=691
+
+# text = Пора было, чтобы не рассеяться в пространстве, придать себе какую-нибудь форму...
+# sent_id = 6
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=692|end_char=696
+2	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	start_char=697|end_char=701
+3	,	,	PUNCT	_	_	6	punct	_	start_char=701|end_char=702
+4	чтобы	чтобы	SCONJ	_	Mood=Cnd	6	mark	_	start_char=703|end_char=708
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=709|end_char=711
+6	рассеяться	рассеяться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	advcl	_	start_char=712|end_char=722
+7	в	в	ADP	_	_	8	case	_	start_char=723|end_char=724
+8	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=725|end_char=737
+9	,	,	PUNCT	_	_	10	punct	_	start_char=737|end_char=738
+10	придать	придать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	conj	_	start_char=739|end_char=746
+11	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	10	iobj	_	start_char=747|end_char=751
+12	какую-нибудь	какой-нибудь	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	13	det	_	start_char=752|end_char=764
+13	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=765|end_char=770
+14	...	...	PUNCT	_	_	1	punct	_	start_char=770|end_char=773
+
+# text = Мастер почувствовал, что теперь у него есть голова, туловище, лысое, голое, хвост смешной колбаской... лапы со складочками...
+# sent_id = 7
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=774|end_char=780
+2	почувствовал	почувствовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=781|end_char=793
+3	,	,	PUNCT	_	_	8	punct	_	start_char=793|end_char=794
+4	что	что	SCONJ	_	_	8	mark	_	start_char=795|end_char=798
+5	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=799|end_char=805
+6	у	у	ADP	_	_	7	case	_	start_char=806|end_char=807
+7	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=808|end_char=812
+8	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=813|end_char=817
+9	голова	голова	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=818|end_char=824
+10	,	,	PUNCT	_	_	11	punct	_	start_char=824|end_char=825
+11	туловище	туловище	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	start_char=826|end_char=834
+12	,	,	PUNCT	_	_	13	punct	_	start_char=834|end_char=835
+13	лысое	лысый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	conj	_	start_char=836|end_char=841
+14	,	,	PUNCT	_	_	15	punct	_	start_char=841|end_char=842
+15	голое	голый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	conj	_	start_char=843|end_char=848
+16	,	,	PUNCT	_	_	17	punct	_	start_char=848|end_char=849
+17	хвост	хвост	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	conj	_	start_char=850|end_char=855
+18	смешной	смешной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=856|end_char=863
+19	колбаской	колбаска	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	nmod	_	start_char=864|end_char=873
+20	...	...	PUNCT	_	_	21	punct	_	start_char=873|end_char=876
+21	лапы	лапа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	conj	_	start_char=877|end_char=881
+22	со	со	ADP	_	_	23	case	_	start_char=882|end_char=884
+23	складочками	складочка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	21	nmod	_	start_char=885|end_char=896
+24	...	...	PUNCT	_	_	2	punct	_	start_char=896|end_char=899
+
+# text = Откуда у него лапы, он же хотел быть змеёй?!
+# sent_id = 8
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Откуда	откуда	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=900|end_char=906
+2	у	у	ADP	_	_	3	case	_	start_char=907|end_char=908
+3	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	start_char=909|end_char=913
+4	лапы	лапа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	start_char=914|end_char=918
+5	,	,	PUNCT	_	_	8	punct	_	start_char=918|end_char=919
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=920|end_char=922
+7	же	же	PART	_	_	6	advmod	_	start_char=923|end_char=925
+8	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=926|end_char=931
+9	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	cop	_	start_char=932|end_char=936
+10	змеёй	змея	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	8	xcomp	_	start_char=937|end_char=942
+11	?!	?!	PUNCT	_	_	1	punct	_	start_char=942|end_char=944
+
+# text = Качаясь, Мастер попытался подняться и пройти, тут же запутался в лапах и упал обратно.
+# sent_id = 9
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Качаясь	качаться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	4	advcl	_	start_char=945|end_char=952
+2	,	,	PUNCT	_	_	1	punct	_	start_char=952|end_char=953
+3	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=954|end_char=960
+4	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=961|end_char=970
+5	подняться	подняться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=971|end_char=980
+6	и	и	CCONJ	_	_	7	cc	_	start_char=981|end_char=982
+7	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	start_char=983|end_char=989
+8	,	,	PUNCT	_	_	11	punct	_	start_char=989|end_char=990
+9	тут	тут	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=991|end_char=994
+10	же	же	PART	_	_	9	advmod	_	start_char=995|end_char=997
+11	запутался	запутаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=998|end_char=1007
+12	в	в	ADP	_	_	13	case	_	start_char=1008|end_char=1009
+13	лапах	лапа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	obl	_	start_char=1010|end_char=1015
+14	и	и	CCONJ	_	_	15	cc	_	start_char=1016|end_char=1017
+15	упал	упасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1018|end_char=1022
+16	обратно	обратно	ADV	_	Degree=Pos	15	advmod	_	start_char=1023|end_char=1030
+17	.	.	PUNCT	_	_	4	punct	_	start_char=1030|end_char=1031
+
+# text = Вместо злобного змеиного шипения или хотя бы забористых галлифрейских ругательств из его пасти донёсся один слабый, жалобный "Мяу".
+# sent_id = 10
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Вместо	вместо	ADP	_	_	4	case	_	start_char=1032|end_char=1038
+2	злобного	злобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=1039|end_char=1047
+3	змеиного	змеиный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=1048|end_char=1056
+4	шипения	шипение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	start_char=1057|end_char=1064
+5	или	или	CCONJ	_	_	10	cc	_	start_char=1065|end_char=1068
+6	хотя	хотя	PART	_	_	8	advmod	_	start_char=1069|end_char=1073
+7	бы	бы	PART	_	_	6	fixed	_	start_char=1074|end_char=1076
+8	забористых	забористый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	start_char=1077|end_char=1087
+9	галлифрейских	галлифрейский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	start_char=1088|end_char=1101
+10	ругательств	ругательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	conj	_	start_char=1102|end_char=1113
+11	из	из	ADP	_	_	13	case	_	start_char=1114|end_char=1116
+12	его	его	DET	_	Poss=Yes|PronType=Prs	13	det	_	start_char=1117|end_char=1120
+13	пасти	пасть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=1121|end_char=1126
+14	донёсся	доноститься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1127|end_char=1134
+15	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	det	_	start_char=1135|end_char=1139
+16	слабый	слабый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	start_char=1140|end_char=1146
+17	,	,	PUNCT	_	_	18	punct	_	start_char=1146|end_char=1147
+18	жалобный	жалобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	conj	_	start_char=1148|end_char=1156
+19	"	"	PUNCT	_	_	20	punct	_	start_char=1157|end_char=1158
+20	Мяу	мяую	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=1158|end_char=1161
+21	"	"	PUNCT	_	_	20	punct	_	start_char=1161|end_char=1162
+22	.	.	PUNCT	_	_	14	punct	_	start_char=1162|end_char=1163
+
+# text = – Я – котёнок?!
+# sent_id = 11
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1164|end_char=1165
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=1166|end_char=1167
+3	–	–	PUNCT	_	_	4	punct	_	start_char=1168|end_char=1169
+4	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	start_char=1170|end_char=1177
+5	?!	?!	PUNCT	_	_	2	punct	_	start_char=1177|end_char=1179
+
+# text = – Мастер набрался сил, скоординировал движение лап и добрался до ближайшей отражающей поверхности.
+# sent_id = 12
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1180|end_char=1181
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1182|end_char=1188
+3	набрался	набраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1189|end_char=1197
+4	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obj	_	start_char=1198|end_char=1201
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1201|end_char=1202
+6	скоординировал	скоординировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1203|end_char=1217
+7	движение	движение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	start_char=1218|end_char=1226
+8	лап	лапа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	start_char=1227|end_char=1230
+9	и	и	CCONJ	_	_	10	cc	_	start_char=1231|end_char=1232
+10	добрался	добраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=1233|end_char=1241
+11	до	до	ADP	_	_	14	case	_	start_char=1242|end_char=1244
+12	ближайшей	ближайший	ADJ	_	Case=Gen|Degree=Sup|Gender=Fem|Number=Sing	14	amod	_	start_char=1245|end_char=1254
+13	отражающей	отражать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	amod	_	start_char=1255|end_char=1265
+14	поверхности	поверхность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	start_char=1266|end_char=1277
+15	.	.	PUNCT	_	_	3	punct	_	start_char=1277|end_char=1278
+
+# text = Котёнок.
+# sent_id = 13
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1279|end_char=1286
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1286|end_char=1287
+
+# text = Весь розовый, лысый, с ушками, завернутыми вниз, в складочку, да ещё лапы подгибаются.
+# sent_id = 14
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	det	_	start_char=1288|end_char=1292
+2	розовый	розовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=1293|end_char=1300
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1300|end_char=1301
+4	лысый	лысый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	start_char=1302|end_char=1307
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1307|end_char=1308
+6	с	с	ADP	_	_	7	case	_	start_char=1309|end_char=1310
+7	ушками	ушко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	conj	_	start_char=1311|end_char=1317
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1317|end_char=1318
+9	завернутыми	завернуть	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	start_char=1319|end_char=1330
+10	вниз	вниз	ADV	_	Degree=Pos	9	advmod	_	start_char=1331|end_char=1335
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1335|end_char=1336
+12	в	в	ADP	_	_	13	case	_	start_char=1337|end_char=1338
+13	складочку	складочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	conj	_	start_char=1339|end_char=1348
+14	,	,	PUNCT	_	_	18	punct	_	start_char=1348|end_char=1349
+15	да	да	CCONJ	_	_	18	cc	_	start_char=1350|end_char=1352
+16	ещё	еще	ADV	_	Degree=Pos	18	advmod	_	start_char=1353|end_char=1356
+17	лапы	лапа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	start_char=1357|end_char=1361
+18	подгибаются	подгибаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1362|end_char=1373
+19	.	.	PUNCT	_	_	2	punct	_	start_char=1373|end_char=1374
+
+# text = Мастер стал противен сам себе.
+# sent_id = 15
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1375|end_char=1381
+2	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1382|end_char=1386
+3	противен	противный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	xcomp	_	start_char=1387|end_char=1395
+4	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	3	obl	_	start_char=1396|end_char=1399
+5	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	3	obl	_	start_char=1400|end_char=1404
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1404|end_char=1405
+
+# text = Только глаза ему понравились – узкие, чёрные, злые.
+# sent_id = 16
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Только	только	PART	_	_	2	advmod	_	start_char=1406|end_char=1412
+2	глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=1413|end_char=1418
+3	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=1419|end_char=1422
+4	понравились	понравиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1423|end_char=1434
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1435|end_char=1436
+6	узкие	узкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	parataxis	_	start_char=1437|end_char=1442
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1442|end_char=1443
+8	чёрные	черный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	start_char=1444|end_char=1450
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1450|end_char=1451
+10	злые	злой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	start_char=1452|end_char=1456
+11	.	.	PUNCT	_	_	4	punct	_	start_char=1456|end_char=1457
+
+# text = Его глаза.
+# sent_id = 17
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Его	его	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=1458|end_char=1461
+2	глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=1462|end_char=1467
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1467|end_char=1468
+
+# text = На звук лопнувшего сосуда в комнату заглянул Доктор, не заметил ничего странного – котёнок успел спрятаться – и вышел, кажется, собираясь наружу.
+# sent_id = 18
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	На	на	ADP	_	_	2	case	_	start_char=1469|end_char=1471
+2	звук	звук	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=1472|end_char=1476
+3	лопнувшего	лопнуть	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	start_char=1477|end_char=1487
+4	сосуда	сосуд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=1488|end_char=1494
+5	в	в	ADP	_	_	6	case	_	start_char=1495|end_char=1496
+6	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=1497|end_char=1504
+7	заглянул	заглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1505|end_char=1513
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1514|end_char=1520
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1520|end_char=1521
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=1522|end_char=1524
+11	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1525|end_char=1532
+12	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	11	obj	_	start_char=1533|end_char=1539
+13	странного	странный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=1540|end_char=1549
+14	–	–	PUNCT	_	_	16	punct	_	start_char=1550|end_char=1551
+15	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=1552|end_char=1559
+16	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1560|end_char=1565
+17	спрятаться	спрятаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	16	xcomp	_	start_char=1566|end_char=1576
+18	–	–	PUNCT	_	_	20	punct	_	start_char=1577|end_char=1578
+19	и	и	CCONJ	_	_	20	cc	_	start_char=1579|end_char=1580
+20	вышел	выйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1581|end_char=1586
+21	,	,	PUNCT	_	_	22	punct	_	start_char=1586|end_char=1587
+22	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	20	parataxis	_	start_char=1588|end_char=1595
+23	,	,	PUNCT	_	_	24	punct	_	start_char=1595|end_char=1596
+24	собираясь	собираться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	20	advcl	_	start_char=1597|end_char=1606
+25	наружу	наружу	ADV	_	Degree=Pos	24	advmod	_	start_char=1607|end_char=1613
+26	.	.	PUNCT	_	_	7	punct	_	start_char=1613|end_char=1614
+
+# text = Котёнок заковылял за ним, с каждым шагом всё увереннее переставляя лапы.
+# sent_id = 19
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1615|end_char=1622
+2	заковылял	заковылять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1623|end_char=1632
+3	за	за	ADP	_	_	4	case	_	start_char=1633|end_char=1635
+4	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=1636|end_char=1639
+5	,	,	PUNCT	_	_	11	punct	_	start_char=1639|end_char=1640
+6	с	с	ADP	_	_	8	case	_	start_char=1641|end_char=1642
+7	каждым	каждый	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	8	det	_	start_char=1643|end_char=1649
+8	шагом	шаг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	start_char=1650|end_char=1655
+9	всё	всё	ADV	_	Degree=Pos|PronType=Tot	10	advmod	_	start_char=1656|end_char=1659
+10	увереннее	уверенный	ADV	_	Degree=Cmp	11	advmod	_	start_char=1660|end_char=1669
+11	переставляя	переставлять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=1670|end_char=1681
+12	лапы	лапа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obj	_	start_char=1682|end_char=1686
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1686|end_char=1687
+
+# text = Как Мастер ни старался, угнаться за Доктором ему не удалось.
+# sent_id = 20
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Как	как	SCONJ	_	_	4	mark	_	start_char=1689|end_char=1692
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1693|end_char=1699
+3	ни	ни	PART	_	Polarity=Neg	4	advmod	_	start_char=1700|end_char=1702
+4	старался	стараться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	advcl	_	start_char=1703|end_char=1711
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1711|end_char=1712
+6	угнаться	угнаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	csubj	_	start_char=1713|end_char=1721
+7	за	за	ADP	_	_	8	case	_	start_char=1722|end_char=1724
+8	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=1725|end_char=1733
+9	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=1734|end_char=1737
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=1738|end_char=1740
+11	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1741|end_char=1748
+12	.	.	PUNCT	_	_	11	punct	_	start_char=1748|end_char=1749
+
+# text = Когда он выбрался в приоткрытую дверь, Доктор лежал прямо возле ТАРДИС и готовился регенерировать.
+# sent_id = 21
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Когда	когда	SCONJ	_	_	3	mark	_	start_char=1750|end_char=1755
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1756|end_char=1758
+3	выбрался	выбраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	start_char=1759|end_char=1767
+4	в	в	ADP	_	_	6	case	_	start_char=1768|end_char=1769
+5	приоткрытую	приоткрыть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	start_char=1770|end_char=1781
+6	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=1782|end_char=1787
+7	,	,	PUNCT	_	_	3	punct	_	start_char=1787|end_char=1788
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=1789|end_char=1795
+9	лежал	лежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1796|end_char=1801
+10	прямо	прямо	PART	_	_	12	advmod	_	start_char=1802|end_char=1807
+11	возле	возле	ADP	_	_	12	case	_	start_char=1808|end_char=1813
+12	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Gender=Masc|NameType=Com|Number=Sing	9	obl	_	start_char=1814|end_char=1820
+13	и	и	CCONJ	_	_	14	cc	_	start_char=1821|end_char=1822
+14	готовился	готовиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=1823|end_char=1832
+15	регенерировать	регенерировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=1833|end_char=1847
+16	.	.	PUNCT	_	_	9	punct	_	start_char=1847|end_char=1848
+
+# text = – Идиот, ты бездарно истратил целую мою жизнь!
+# sent_id = 22
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1849|end_char=1850
+2	Идиот	идиот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	start_char=1851|end_char=1856
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1856|end_char=1857
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=1858|end_char=1860
+5	бездарно	бездарно	ADV	_	Degree=Pos	6	advmod	_	start_char=1861|end_char=1869
+6	истратил	истратить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1870|end_char=1878
+7	целую	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=1879|end_char=1884
+8	мою	мой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=1885|end_char=1888
+9	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=1889|end_char=1894
+10	!	!	PUNCT	_	_	6	punct	_	start_char=1894|end_char=1895
+
+# text = – взвыл Мастер.
+# sent_id = 23
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1896|end_char=1897
+2	взвыл	взвыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1898|end_char=1903
+3	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1904|end_char=1910
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1910|end_char=1911
+
+# text = Правда, со стороны это слышалось как "Маау, мяяяя-мр маааа!" – инфернально, но жалобно.
+# sent_id = 24
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	start_char=1912|end_char=1918
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1918|end_char=1919
+3	со	со	ADP	_	_	4	case	_	start_char=1920|end_char=1922
+4	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=1923|end_char=1930
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1931|end_char=1934
+6	слышалось	слышаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1935|end_char=1944
+7	как	как	SCONJ	_	_	9	case	_	start_char=1945|end_char=1948
+8	"	"	PUNCT	_	_	9	punct	_	start_char=1949|end_char=1950
+9	Маау	маа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	obl	_	start_char=1950|end_char=1954
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1954|end_char=1955
+11	мяяяя	мяяять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	acl	_	start_char=1956|end_char=1961
+12	-	-	PUNCT	_	_	13	punct	_	start_char=1961|end_char=1962
+13	мр	миллилитр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	xcomp	_	start_char=1962|end_char=1964
+14	маааа	маааа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	appos	_	start_char=1965|end_char=1970
+15	!	!	PUNCT	_	_	9	punct	_	start_char=1970|end_char=1971
+16	"	"	PUNCT	_	_	9	punct	_	start_char=1971|end_char=1972
+17	–	–	PUNCT	_	_	18	punct	_	start_char=1973|end_char=1974
+18	инфернально	инфернальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	parataxis	_	start_char=1975|end_char=1986
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1986|end_char=1987
+20	но	но	CCONJ	_	_	21	cc	_	start_char=1988|end_char=1990
+21	жалобно	жалобно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	18	conj	_	start_char=1991|end_char=1998
+22	.	.	PUNCT	_	_	6	punct	_	start_char=1998|end_char=1999
+
+# text = Лысый котёнок со злыми глазами залез на грудь Доктора, спрятавшись под полой его пиджака от предновогоднего мороза, и стал ожидать регенерации, чтобы в тот момент, когда сам
+# sent_id = 25
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Лысый	лысый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=2000|end_char=2005
+2	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2006|end_char=2013
+3	со	со	ADP	_	_	5	case	_	start_char=2014|end_char=2016
+4	злыми	злой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	amod	_	start_char=2017|end_char=2022
+5	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	nmod	_	start_char=2023|end_char=2030
+6	залез	залезть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2031|end_char=2036
+7	на	на	ADP	_	_	8	case	_	start_char=2037|end_char=2039
+8	грудь	грудь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=2040|end_char=2045
+9	Доктора	доктор	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	8	nmod	_	start_char=2046|end_char=2053
+10	,	,	PUNCT	_	_	11	punct	_	start_char=2053|end_char=2054
+11	спрятавшись	спрятаться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	6	advcl	_	start_char=2055|end_char=2066
+12	под	под	ADP	_	_	13	case	_	start_char=2067|end_char=2070
+13	полой	пола	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	start_char=2071|end_char=2076
+14	его	его	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=2077|end_char=2080
+15	пиджака	пиджак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	start_char=2081|end_char=2088
+16	от	от	ADP	_	_	18	case	_	start_char=2089|end_char=2091
+17	предновогоднего	предновогодний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=2092|end_char=2107
+18	мороза	мороз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	start_char=2108|end_char=2114
+19	,	,	PUNCT	_	_	21	punct	_	start_char=2114|end_char=2115
+20	и	и	CCONJ	_	_	21	cc	_	start_char=2116|end_char=2117
+21	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2118|end_char=2122
+22	ожидать	ожидать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=2123|end_char=2130
+23	регенерации	регенерация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	obj	_	start_char=2131|end_char=2142
+24	,	,	PUNCT	_	_	28	punct	_	start_char=2142|end_char=2143
+25	чтобы	чтобы	SCONJ	_	Mood=Cnd	28	mark	_	start_char=2144|end_char=2149
+26	в	в	ADP	_	_	28	case	_	start_char=2150|end_char=2151
+27	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	28	det	_	start_char=2152|end_char=2155
+28	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obl	_	start_char=2156|end_char=2162
+29	,	,	PUNCT	_	_	31	punct	_	start_char=2162|end_char=2163
+30	когда	когда	SCONJ	_	_	31	mark	_	start_char=2164|end_char=2169
+31	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	28	acl	_	start_char=2170|end_char=2173
+
+# text = Доктор потеряет контроль над своим телом, перехватить его, и таким образом забрать наконец нормальное таймлордовское тело себе.
+# sent_id = 26
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2174|end_char=2180
+2	потеряет	потерять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2181|end_char=2189
+3	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=2190|end_char=2198
+4	над	над	ADP	_	_	6	case	_	start_char=2199|end_char=2202
+5	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=2203|end_char=2208
+6	телом	тело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	nmod	_	start_char=2209|end_char=2214
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2214|end_char=2215
+8	перехватить	перехватить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	start_char=2216|end_char=2227
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=2228|end_char=2231
+10	,	,	PUNCT	_	_	14	punct	_	start_char=2231|end_char=2232
+11	и	и	CCONJ	_	_	14	cc	_	start_char=2233|end_char=2234
+12	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	start_char=2235|end_char=2240
+13	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	start_char=2241|end_char=2248
+14	забрать	забрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	start_char=2249|end_char=2256
+15	наконец	наконец	ADV	_	Degree=Pos	14	advmod	_	start_char=2257|end_char=2264
+16	нормальное	нормальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	start_char=2265|end_char=2275
+17	таймлордовское	таймлордовский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	start_char=2276|end_char=2290
+18	тело	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	start_char=2291|end_char=2295
+19	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	14	iobj	_	start_char=2296|end_char=2300
+20	.	.	PUNCT	_	_	2	punct	_	start_char=2300|end_char=2301
+
+# text = Но Доктор всё не умирал, так что Мастера опередили врачи со скорой помощи.
+# sent_id = 27
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=2302|end_char=2304
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2305|end_char=2311
+3	всё	всё	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=2312|end_char=2315
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2316|end_char=2318
+5	умирал	умирать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2319|end_char=2325
+6	,	,	PUNCT	_	_	10	punct	_	start_char=2325|end_char=2326
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	10	mark	_	start_char=2327|end_char=2330
+8	что	что	SCONJ	_	_	7	fixed	_	start_char=2331|end_char=2334
+9	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	start_char=2335|end_char=2342
+10	опередили	опередить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=2343|end_char=2352
+11	врачи	врач	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	start_char=2353|end_char=2358
+12	со	со	ADP	_	_	14	case	_	start_char=2359|end_char=2361
+13	скорой	скорый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=2362|end_char=2368
+14	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=2369|end_char=2375
+15	.	.	PUNCT	_	_	5	punct	_	start_char=2375|end_char=2376
+
+# text = Они собрались положить Доктора на носилки и забрать в машину, когда один из них заметил странно топорщившийся пиджак и нашёл котёнка.
+# sent_id = 28
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=2377|end_char=2380
+2	собрались	собраться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2381|end_char=2390
+3	положить	положить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2391|end_char=2399
+4	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2400|end_char=2407
+5	на	на	ADP	_	_	6	case	_	start_char=2408|end_char=2410
+6	носилки	носилка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obl	_	start_char=2411|end_char=2418
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2419|end_char=2420
+8	забрать	забрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	start_char=2421|end_char=2428
+9	в	в	ADP	_	_	10	case	_	start_char=2429|end_char=2430
+10	машину	машина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=2431|end_char=2437
+11	,	,	PUNCT	_	_	16	punct	_	start_char=2437|end_char=2438
+12	когда	когда	SCONJ	_	_	16	mark	_	start_char=2439|end_char=2444
+13	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	16	nsubj	_	start_char=2445|end_char=2449
+14	из	из	ADP	_	_	15	case	_	start_char=2450|end_char=2452
+15	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	nmod	_	start_char=2453|end_char=2456
+16	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=2457|end_char=2464
+17	странно	странно	ADV	_	Degree=Pos	18	advmod	_	start_char=2465|end_char=2472
+18	топорщившийся	топорщиться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	amod	_	start_char=2473|end_char=2486
+19	пиджак	пиджак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	start_char=2487|end_char=2493
+20	и	и	CCONJ	_	_	21	cc	_	start_char=2494|end_char=2495
+21	нашёл	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	start_char=2496|end_char=2501
+22	котёнка	котенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	21	obj	_	start_char=2502|end_char=2509
+23	.	.	PUNCT	_	_	2	punct	_	start_char=2509|end_char=2510
+
+# text = – Что за чёрт!
+# sent_id = 29
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2511|end_char=2512
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	start_char=2513|end_char=2516
+3	за	за	ADP	_	_	4	case	_	start_char=2517|end_char=2519
+4	чёрт	черт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2520|end_char=2524
+5	!	!	PUNCT	_	_	4	punct	_	start_char=2524|end_char=2525
+
+# text = – выругался он.
+# sent_id = 30
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2526|end_char=2527
+2	выругался	выругаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2528|end_char=2537
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2538|end_char=2540
+4	.	.	PUNCT	_	_	2	punct	_	start_char=2540|end_char=2541
+
+# text = – Напугал прямо...
+# sent_id = 31
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2542|end_char=2543
+2	Напугал	напугать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2544|end_char=2551
+3	прямо	прямо	PART	_	_	2	advmod	_	start_char=2552|end_char=2557
+4	...	...	PUNCT	_	_	2	punct	_	start_char=2557|end_char=2560
+
+# text = Другой медбрат заглянул из-за спины первого: – Да это котёнок!
+# sent_id = 32
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Другой	другой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	det	_	start_char=2561|end_char=2567
+2	медбрат	медбрат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2568|end_char=2575
+3	заглянул	заглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2576|end_char=2584
+4	из-за	из-за	ADP	_	_	5	case	_	start_char=2585|end_char=2590
+5	спины	спина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=2591|end_char=2596
+6	первого	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	5	nmod	_	start_char=2597|end_char=2604
+7	:	:	PUNCT	_	_	11	punct	_	start_char=2604|end_char=2605
+8	–	–	PUNCT	_	_	11	punct	_	start_char=2606|end_char=2607
+9	Да	да	CCONJ	_	_	11	cc	_	start_char=2608|end_char=2610
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=2611|end_char=2614
+11	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	start_char=2615|end_char=2622
+12	!	!	PUNCT	_	_	3	punct	_	start_char=2622|end_char=2623
+
+# text = – Он лысый, больной, наверное.
+# sent_id = 33
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2624|end_char=2625
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2626|end_char=2628
+3	лысый	лысый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=2629|end_char=2634
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2634|end_char=2635
+5	больной	больной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	start_char=2636|end_char=2643
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2643|end_char=2644
+7	наверное	наверное	ADV	_	Degree=Pos	3	parataxis	_	start_char=2645|end_char=2653
+8	.	.	PUNCT	_	_	3	punct	_	start_char=2653|end_char=2654
+
+# text = – Не, это породистый, как его...
+# sent_id = 34
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2655|end_char=2656
+2	Не	не	PART	_	Polarity=Neg	5	parataxis	_	start_char=2657|end_char=2659
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2659|end_char=2660
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2661|end_char=2664
+5	породистый	породистый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=2665|end_char=2675
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2675|end_char=2676
+7	как	как	SCONJ	_	_	8	case	_	start_char=2677|end_char=2680
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=2681|end_char=2684
+9	...	...	PUNCT	_	_	5	punct	_	start_char=2684|end_char=2687
+
+# text = Сфинкс, кажется.
+# sent_id = 35
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Сфинкс	сфинкс	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2688|end_char=2694
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2694|end_char=2695
+3	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	parataxis	_	start_char=2696|end_char=2703
+4	.	.	PUNCT	_	_	1	punct	_	start_char=2703|end_char=2704
+
+# text = У меня сестра кошек любит.
+# sent_id = 36
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	У	у	ADP	_	_	2	case	_	start_char=2705|end_char=2706
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=2707|end_char=2711
+3	сестра	сестра	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=2712|end_char=2718
+4	кошек	кошка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	start_char=2719|end_char=2724
+5	любит	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2725|end_char=2730
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2730|end_char=2731
+
+# text = – Интересно, откуда он тут, на улице?
+# sent_id = 37
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2732|end_char=2733
+2	Интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2734|end_char=2743
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2743|end_char=2744
+4	откуда	откуда	ADV	_	Degree=Pos|PronType=Rel	6	advmod	_	start_char=2745|end_char=2751
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=2752|end_char=2754
+6	тут	тут	ADV	_	Degree=Pos|PronType=Dem	2	ccomp	_	start_char=2755|end_char=2758
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2758|end_char=2759
+8	на	на	ADP	_	_	9	case	_	start_char=2760|end_char=2762
+9	улице	улица	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	conj	_	start_char=2763|end_char=2768
+10	?	?	PUNCT	_	_	2	punct	_	start_char=2768|end_char=2769
+
+# text = Загадка прямо.
+# sent_id = 38
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Загадка	загадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2770|end_char=2777
+2	прямо	прямо	ADV	_	Degree=Pos	1	advmod	_	start_char=2778|end_char=2783
+3	.	.	PUNCT	_	_	1	punct	_	start_char=2783|end_char=2784
+
+# text = И чего с ним делать?
+# sent_id = 39
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	И	и	CCONJ	_	_	5	cc	_	start_char=2785|end_char=2786
+2	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=2787|end_char=2791
+3	с	с	ADP	_	_	4	case	_	start_char=2792|end_char=2793
+4	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=2794|end_char=2797
+5	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2798|end_char=2804
+6	?	?	PUNCT	_	_	5	punct	_	start_char=2804|end_char=2805
+
+# text = – Ну не знаю...
+# sent_id = 40
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2807|end_char=2808
+2	Ну	ну	PART	_	_	4	discourse	_	start_char=2809|end_char=2811
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2812|end_char=2814
+4	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2815|end_char=2819
+5	...	...	PUNCT	_	_	4	punct	_	start_char=2819|end_char=2822
+
+# text = Вообще они дорогие.
+# sent_id = 41
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Вообще	вообще	ADV	_	Degree=Pos	3	advmod	_	start_char=2823|end_char=2829
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=2830|end_char=2833
+3	дорогие	дорогой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=2834|end_char=2841
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2841|end_char=2842
+
+# text = Можно взять к себе пока, если этот выживет – вернёшь ему, а нет...
+# sent_id = 42
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Можно	можно	VERB	_	_	0	root	_	start_char=2843|end_char=2848
+2	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=2849|end_char=2854
+3	к	к	ADP	_	_	4	case	_	start_char=2855|end_char=2856
+4	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	2	obl	_	start_char=2857|end_char=2861
+5	пока	пока	ADV	_	Degree=Pos	2	advmod	_	start_char=2862|end_char=2866
+6	,	,	PUNCT	_	_	11	punct	_	start_char=2866|end_char=2867
+7	если	если	SCONJ	_	_	9	mark	_	start_char=2868|end_char=2872
+8	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	start_char=2873|end_char=2877
+9	выживет	выжить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=2878|end_char=2885
+10	–	–	PUNCT	_	_	9	punct	_	start_char=2886|end_char=2887
+11	вернёшь	вернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=2888|end_char=2895
+12	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=2896|end_char=2899
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2899|end_char=2900
+14	а	а	CCONJ	_	_	15	cc	_	start_char=2901|end_char=2902
+15	нет	нет	PART	_	Polarity=Neg	11	conj	_	start_char=2903|end_char=2906
+16	...	...	PUNCT	_	_	1	punct	_	start_char=2906|end_char=2909
+
+# text = А хочешь, я сам заберу?
+# sent_id = 43
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	А	а	CCONJ	_	_	2	cc	_	start_char=2910|end_char=2911
+2	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2912|end_char=2918
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2918|end_char=2919
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=2920|end_char=2921
+5	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	4	acl	_	start_char=2922|end_char=2925
+6	заберу	забрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2926|end_char=2932
+7	?	?	PUNCT	_	_	6	punct	_	start_char=2932|end_char=2933
+
+# text = Сестра присмотрит.
+# sent_id = 44
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Сестра	сестра	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=2934|end_char=2940
+2	присмотрит	присмотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2941|end_char=2951
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2951|end_char=2952
+
+# text = – Нет, – решил первый медбрат.
+# sent_id = 45
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2953|end_char=2954
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2955|end_char=2958
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2958|end_char=2959
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2960|end_char=2961
+5	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2962|end_char=2967
+6	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	7	amod	_	start_char=2968|end_char=2974
+7	медбрат	медбрат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2975|end_char=2982
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2982|end_char=2983
+
+# text = Если что, небольшая прибавка к скромной зарплате медбрата на скорой ему бы не помешала.
+# sent_id = 46
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Если	если	SCONJ	_	_	2	mark	_	start_char=2984|end_char=2988
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	15	parataxis	_	start_char=2989|end_char=2992
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2992|end_char=2993
+4	небольшая	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2994|end_char=3003
+5	прибавка	прибавка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=3004|end_char=3012
+6	к	к	ADP	_	_	8	case	_	start_char=3013|end_char=3014
+7	скромной	скромный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=3015|end_char=3023
+8	зарплате	зарплата	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	start_char=3024|end_char=3032
+9	медбрата	медбрата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=3033|end_char=3041
+10	на	на	ADP	_	_	11	case	_	start_char=3042|end_char=3044
+11	скорой	скорый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=3045|end_char=3051
+12	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	iobj	_	start_char=3052|end_char=3055
+13	бы	бы	AUX	_	Mood=Cnd	15	aux	_	start_char=3056|end_char=3058
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=3059|end_char=3061
+15	помешала	помешать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3062|end_char=3070
+16	.	.	PUNCT	_	_	15	punct	_	start_char=3070|end_char=3071
+
+# text = Хотя если бы их пациент выжил, он тоже был бы рад и вернул ему его страховидлу, по недоразумению называемую котёнком.
+# sent_id = 47
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Хотя	хотя	SCONJ	_	_	12	mark	_	start_char=3072|end_char=3076
+2	если	если	SCONJ	_	_	6	mark	_	start_char=3077|end_char=3081
+3	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=3082|end_char=3084
+4	их	их	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=3085|end_char=3087
+5	пациент	пациент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=3088|end_char=3095
+6	выжил	выжить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	start_char=3096|end_char=3101
+7	,	,	PUNCT	_	_	6	punct	_	start_char=3101|end_char=3102
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=3103|end_char=3105
+9	тоже	тоже	PART	_	_	12	advmod	_	start_char=3106|end_char=3110
+10	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=3111|end_char=3114
+11	бы	бы	AUX	_	Mood=Cnd	12	aux	_	start_char=3115|end_char=3117
+12	рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=3118|end_char=3121
+13	и	и	CCONJ	_	_	14	cc	_	start_char=3122|end_char=3123
+14	вернул	вернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=3124|end_char=3130
+15	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	start_char=3131|end_char=3134
+16	его	его	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=3135|end_char=3138
+17	страховидлу	страховидл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=3139|end_char=3150
+18	,	,	PUNCT	_	_	21	punct	_	start_char=3150|end_char=3151
+19	по	по	ADP	_	_	20	case	_	start_char=3152|end_char=3154
+20	недоразумению	недоразумение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	obl	_	start_char=3155|end_char=3168
+21	называемую	называть	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	start_char=3169|end_char=3179
+22	котёнком	котенок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	21	iobj	_	start_char=3180|end_char=3188
+23	.	.	PUNCT	_	_	12	punct	_	start_char=3188|end_char=3189
+
+# text = – Мяу, – как можно трогательнее сказал Мастер и лизнул взявшую его руку.
+# sent_id = 48
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3190|end_char=3191
+2	Мяу	мяу	INTJ	_	_	0	root	_	start_char=3192|end_char=3195
+3	,	,	PUNCT	_	_	8	punct	_	start_char=3195|end_char=3196
+4	–	–	PUNCT	_	_	8	punct	_	start_char=3197|end_char=3198
+5	как	как	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=3199|end_char=3202
+6	можно	можно	VERB	_	_	5	fixed	_	start_char=3203|end_char=3208
+7	трогательнее	трогательно	ADV	_	Degree=Cmp	8	advmod	_	start_char=3209|end_char=3221
+8	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3222|end_char=3228
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=3229|end_char=3235
+10	и	и	CCONJ	_	_	11	cc	_	start_char=3236|end_char=3237
+11	лизнул	лизнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=3238|end_char=3244
+12	взявшую	взять	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	acl	_	start_char=3245|end_char=3252
+13	его	его	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=3253|end_char=3256
+14	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=3257|end_char=3261
+15	.	.	PUNCT	_	_	2	punct	_	start_char=3261|end_char=3262
+
+# text = – Брюс, ты ему понравился!
+# sent_id = 49
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3263|end_char=3264
+2	Брюс	Брюс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	vocative	_	start_char=3265|end_char=3269
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3269|end_char=3270
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=3271|end_char=3273
+5	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=3274|end_char=3277
+6	понравился	понравиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3278|end_char=3288
+7	!	!	PUNCT	_	_	6	punct	_	start_char=3288|end_char=3289
+
+# text = – засмеялся второй медбрат.
+# sent_id = 50
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3290|end_char=3291
+2	засмеялся	засмеяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3292|end_char=3301
+3	второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	4	amod	_	start_char=3302|end_char=3308
+4	медбрат	медбрат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3309|end_char=3316
+5	.	.	PUNCT	_	_	2	punct	_	start_char=3316|end_char=3317
+
+# text = "Ничего экземпляр, достаточно здоров, чтобы не помереть сразу", – отметил про себя Мастер.
+# sent_id = 51
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	"	"	PUNCT	_	_	2	punct	_	start_char=3318|end_char=3319
+2	Ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=3319|end_char=3325
+3	экземпляр	экземпляр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	start_char=3326|end_char=3335
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3335|end_char=3336
+5	достаточно	достаточно	ADV	_	Degree=Pos	6	advmod	_	start_char=3337|end_char=3347
+6	здоров	здоровый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	start_char=3348|end_char=3354
+7	,	,	PUNCT	_	_	10	punct	_	start_char=3354|end_char=3355
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	10	mark	_	start_char=3356|end_char=3361
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=3362|end_char=3364
+10	помереть	помереть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	start_char=3365|end_char=3373
+11	сразу	сразу	ADV	_	Degree=Pos	10	advmod	_	start_char=3374|end_char=3379
+12	"	"	PUNCT	_	_	2	punct	_	start_char=3379|end_char=3380
+13	,	,	PUNCT	_	_	15	punct	_	start_char=3380|end_char=3381
+14	–	–	PUNCT	_	_	15	punct	_	start_char=3382|end_char=3383
+15	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3384|end_char=3391
+16	про	про	ADP	_	_	17	case	_	start_char=3392|end_char=3395
+17	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	obl	_	start_char=3396|end_char=3400
+18	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=3401|end_char=3407
+19	.	.	PUNCT	_	_	2	punct	_	start_char=3407|end_char=3408
+
+# text = В автомобиле Брюс завернул котёнка в свою куртку и даже догадался купить молока и налить его в детскую бутылочку с соской.
+# sent_id = 52
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	В	в	ADP	_	_	2	case	_	start_char=3409|end_char=3410
+2	автомобиле	автомобиль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=3411|end_char=3421
+3	Брюс	Брюс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=3422|end_char=3426
+4	завернул	завернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3427|end_char=3435
+5	котёнка	котенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=3436|end_char=3443
+6	в	в	ADP	_	_	8	case	_	start_char=3444|end_char=3445
+7	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=3446|end_char=3450
+8	куртку	куртка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=3451|end_char=3457
+9	и	и	CCONJ	_	_	11	cc	_	start_char=3458|end_char=3459
+10	даже	даже	PART	_	_	11	advmod	_	start_char=3460|end_char=3464
+11	догадался	догадаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=3465|end_char=3474
+12	купить	купить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=3475|end_char=3481
+13	молока	молоко	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obj	_	start_char=3482|end_char=3488
+14	и	и	CCONJ	_	_	15	cc	_	start_char=3489|end_char=3490
+15	налить	налить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	conj	_	start_char=3491|end_char=3497
+16	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=3498|end_char=3501
+17	в	в	ADP	_	_	19	case	_	start_char=3502|end_char=3503
+18	детскую	детская	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=3504|end_char=3511
+19	бутылочку	бутылочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	start_char=3512|end_char=3521
+20	с	с	ADP	_	_	21	case	_	start_char=3522|end_char=3523
+21	соской	соска	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	start_char=3524|end_char=3530
+22	.	.	PUNCT	_	_	4	punct	_	start_char=3530|end_char=3531
+
+# text = Мастер было возмутился, что его принимают за малыша, но желудок требовательно заурчал, и он с чмоканием высосал всё.
+# sent_id = 53
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3532|end_char=3538
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	start_char=3539|end_char=3543
+3	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3544|end_char=3554
+4	,	,	PUNCT	_	_	7	punct	_	start_char=3554|end_char=3555
+5	что	что	SCONJ	_	_	7	mark	_	start_char=3556|end_char=3559
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=3560|end_char=3563
+7	принимают	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=3564|end_char=3573
+8	за	за	ADP	_	_	9	case	_	start_char=3574|end_char=3576
+9	малыша	малыш	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=3577|end_char=3583
+10	,	,	PUNCT	_	_	14	punct	_	start_char=3583|end_char=3584
+11	но	но	CCONJ	_	_	14	cc	_	start_char=3585|end_char=3587
+12	желудок	желудок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=3588|end_char=3595
+13	требовательно	требовательно	ADV	_	Degree=Pos	14	advmod	_	start_char=3596|end_char=3609
+14	заурчал	заурчать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3610|end_char=3617
+15	,	,	PUNCT	_	_	20	punct	_	start_char=3617|end_char=3618
+16	и	и	CCONJ	_	_	20	cc	_	start_char=3619|end_char=3620
+17	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=3621|end_char=3623
+18	с	с	ADP	_	_	19	case	_	start_char=3624|end_char=3625
+19	чмоканием	чмокание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	obl	_	start_char=3626|end_char=3635
+20	высосал	высосать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3636|end_char=3643
+21	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	20	obj	_	start_char=3644|end_char=3647
+22	.	.	PUNCT	_	_	3	punct	_	start_char=3647|end_char=3648
+
+# text = Пробраться в больницу вслед за Доктором Мастеру не удалось.
+# sent_id = 54
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Пробраться	пробраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	csubj	_	start_char=3649|end_char=3659
+2	в	в	ADP	_	_	3	case	_	start_char=3660|end_char=3661
+3	больницу	больница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obl	_	start_char=3662|end_char=3670
+4	вслед	вслед	ADV	_	Degree=Pos	9	advmod	_	start_char=3671|end_char=3676
+5	за	за	ADP	_	_	6	case	_	start_char=3677|end_char=3679
+6	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	start_char=3680|end_char=3688
+7	Мастеру	мастер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	start_char=3689|end_char=3696
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3697|end_char=3699
+9	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3700|end_char=3707
+10	.	.	PUNCT	_	_	9	punct	_	start_char=3707|end_char=3708
+
+# text = Он и не надеялся, уже начав осуществлять более долгий, но не менее верный план.
+# sent_id = 55
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=3709|end_char=3711
+2	и	и	PART	_	_	4	advmod	_	start_char=3712|end_char=3713
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3714|end_char=3716
+4	надеялся	надеяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3717|end_char=3725
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3725|end_char=3726
+6	уже	уже	ADV	_	Degree=Pos	7	advmod	_	start_char=3727|end_char=3730
+7	начав	начать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=3731|end_char=3736
+8	осуществлять	осуществлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=3737|end_char=3749
+9	более	более	ADV	_	Degree=Cmp|PronType=Tot	10	advmod	_	start_char=3750|end_char=3755
+10	долгий	долгий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=3756|end_char=3762
+11	,	,	PUNCT	_	_	15	punct	_	start_char=3762|end_char=3763
+12	но	но	CCONJ	_	_	15	cc	_	start_char=3764|end_char=3766
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=3767|end_char=3769
+14	менее	менее	ADV	_	Degree=Cmp|PronType=Tot	10	conj	_	start_char=3770|end_char=3775
+15	верный	верный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	conj	_	start_char=3776|end_char=3782
+16	план	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=3783|end_char=3787
+17	.	.	PUNCT	_	_	4	punct	_	start_char=3787|end_char=3788
+
+# text = Вместе с Брюсом он доездил до конца его смены, а потом в кармане куртки его принесли домой.
+# sent_id = 56
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Вместе	вместе	ADV	_	Degree=Pos	5	advmod	_	start_char=3789|end_char=3795
+2	с	с	ADP	_	_	3	case	_	start_char=3796|end_char=3797
+3	Брюсом	Брюс	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	1	obl	_	start_char=3798|end_char=3804
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3805|end_char=3807
+5	доездил	доездить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3808|end_char=3815
+6	до	до	ADP	_	_	7	case	_	start_char=3816|end_char=3818
+7	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=3819|end_char=3824
+8	его	его	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=3825|end_char=3828
+9	смены	смена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=3829|end_char=3834
+10	,	,	PUNCT	_	_	17	punct	_	start_char=3834|end_char=3835
+11	а	а	CCONJ	_	_	17	cc	_	start_char=3836|end_char=3837
+12	потом	потом	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=3838|end_char=3843
+13	в	в	ADP	_	_	14	case	_	start_char=3844|end_char=3845
+14	кармане	карман	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	start_char=3846|end_char=3853
+15	куртки	куртка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	start_char=3854|end_char=3860
+16	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=3861|end_char=3864
+17	принесли	принести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=3865|end_char=3873
+18	домой	домой	ADV	_	Degree=Pos	17	advmod	_	start_char=3874|end_char=3879
+19	.	.	PUNCT	_	_	5	punct	_	start_char=3879|end_char=3880
+
+# text = На кухне обнаружилась совершенно непредусмотренная планом посторонняя особь.
+# sent_id = 57
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	На	на	ADP	_	_	2	case	_	start_char=3881|end_char=3883
+2	кухне	кухня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=3884|end_char=3889
+3	обнаружилась	обнаружиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3890|end_char=3902
+4	совершенно	совершенно	ADV	_	Degree=Pos	5	advmod	_	start_char=3903|end_char=3913
+5	непредусмотренная	непредусмотрить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	start_char=3914|end_char=3931
+6	планом	план	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	iobj	_	start_char=3932|end_char=3938
+7	посторонняя	посторонний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=3939|end_char=3950
+8	особь	особь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=3951|end_char=3956
+9	.	.	PUNCT	_	_	3	punct	_	start_char=3956|end_char=3957
+
+# text = – Здравствуй, дорогой, – приветствовала она Брюса и ойкнула, увидев у того в руках лысого котёнка.
+# sent_id = 58
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3958|end_char=3959
+2	Здравствуй	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3960|end_char=3970
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3970|end_char=3971
+4	дорогой	дорогой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=3972|end_char=3979
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3979|end_char=3980
+6	–	–	PUNCT	_	_	7	punct	_	start_char=3981|end_char=3982
+7	приветствовала	приветствовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3983|end_char=3997
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=3998|end_char=4001
+9	Брюса	Брюса	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	7	obj	_	start_char=4002|end_char=4007
+10	и	и	CCONJ	_	_	11	cc	_	start_char=4008|end_char=4009
+11	ойкнула	ойкнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=4010|end_char=4017
+12	,	,	PUNCT	_	_	13	punct	_	start_char=4017|end_char=4018
+13	увидев	увидеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	11	advcl	_	start_char=4019|end_char=4025
+14	у	у	ADP	_	_	15	case	_	start_char=4026|end_char=4027
+15	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	start_char=4028|end_char=4032
+16	в	в	ADP	_	_	17	case	_	start_char=4033|end_char=4034
+17	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	obl	_	start_char=4035|end_char=4040
+18	лысого	лысовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=4041|end_char=4047
+19	котёнка	котенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	obj	_	start_char=4048|end_char=4055
+20	.	.	PUNCT	_	_	2	punct	_	start_char=4055|end_char=4056
+
+# text = – Что это?
+# sent_id = 59
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4057|end_char=4058
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=4059|end_char=4062
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=4063|end_char=4066
+4	?	?	PUNCT	_	_	2	punct	_	start_char=4066|end_char=4067
+
+# text = Какой страшненький, у меня от него мурашки.
+# sent_id = 60
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=4068|end_char=4073
+2	страшненький	страшненький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	nsubj	_	start_char=4074|end_char=4086
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4086|end_char=4087
+4	у	у	ADP	_	_	5	case	_	start_char=4088|end_char=4089
+5	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	conj	_	start_char=4090|end_char=4094
+6	от	от	ADP	_	_	7	case	_	start_char=4095|end_char=4097
+7	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=4098|end_char=4102
+8	мурашки	мурашки	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=4103|end_char=4110
+9	.	.	PUNCT	_	_	1	punct	_	start_char=4110|end_char=4111
+
+# text = Мастер пристально посмотрел на женщину и подписал ей смертный приговор – чтобы не зря боялась.
+# sent_id = 61
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4112|end_char=4118
+2	пристально	пристально	ADV	_	Degree=Pos	3	advmod	_	start_char=4119|end_char=4129
+3	посмотрел	посмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4130|end_char=4139
+4	на	на	ADP	_	_	5	case	_	start_char=4140|end_char=4142
+5	женщину	женщина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=4143|end_char=4150
+6	и	и	CCONJ	_	_	7	cc	_	start_char=4151|end_char=4152
+7	подписал	подписать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4153|end_char=4161
+8	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	start_char=4162|end_char=4164
+9	смертный	смертный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=4165|end_char=4173
+10	приговор	приговор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=4174|end_char=4182
+11	–	–	PUNCT	_	_	15	punct	_	start_char=4183|end_char=4184
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	mark	_	start_char=4185|end_char=4190
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=4191|end_char=4193
+14	зря	зря	ADV	_	Degree=Pos	15	advmod	_	start_char=4194|end_char=4197
+15	боялась	бояться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	advcl	_	start_char=4198|end_char=4205
+16	.	.	PUNCT	_	_	3	punct	_	start_char=4205|end_char=4206
+
+# text = – Ну что ты, это всего-навсего котёнок!
+# sent_id = 62
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4207|end_char=4208
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=4209|end_char=4211
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=4212|end_char=4215
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=4216|end_char=4218
+5	,	,	PUNCT	_	_	8	punct	_	start_char=4218|end_char=4219
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=4220|end_char=4223
+7	всего-навсего	всего-навсего	PART	_	_	8	advmod	_	start_char=4224|end_char=4237
+8	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	start_char=4238|end_char=4245
+9	!	!	PUNCT	_	_	3	punct	_	start_char=4245|end_char=4246
+
+# text = Я пока не знаю, на сколько он у нас...
+# sent_id = 63
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4247|end_char=4248
+2	пока	пока	ADV	_	Degree=Pos	4	advmod	_	start_char=4249|end_char=4253
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4254|end_char=4256
+4	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4257|end_char=4261
+5	,	,	PUNCT	_	_	10	punct	_	start_char=4261|end_char=4262
+6	на	на	ADP	_	_	7	case	_	start_char=4263|end_char=4265
+7	сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	10	obl	_	start_char=4266|end_char=4273
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=4274|end_char=4276
+9	у	у	ADP	_	_	10	case	_	start_char=4277|end_char=4278
+10	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	ccomp	_	start_char=4279|end_char=4282
+11	...	...	PUNCT	_	_	4	punct	_	start_char=4282|end_char=4285
+
+# text = И они заговорили о своём, каких-то планах на завтра и новый год.
+# sent_id = 64
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	И	и	CCONJ	_	_	3	cc	_	start_char=4286|end_char=4287
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=4288|end_char=4291
+3	заговорили	заговорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4292|end_char=4302
+4	о	о	ADP	_	_	8	case	_	start_char=4303|end_char=4304
+5	своём	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=4305|end_char=4310
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4310|end_char=4311
+7	каких-то	какой-то	DET	_	Case=Loc|Number=Plur|PronType=Ind	8	det	_	start_char=4312|end_char=4320
+8	планах	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	obl	_	start_char=4321|end_char=4327
+9	на	на	ADP	_	_	10	case	_	start_char=4328|end_char=4330
+10	завтра	завтра	ADV	_	Degree=Pos	8	nmod	_	start_char=4331|end_char=4337
+11	и	и	CCONJ	_	_	13	cc	_	start_char=4338|end_char=4339
+12	новый	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=4340|end_char=4345
+13	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	conj	_	start_char=4346|end_char=4349
+14	.	.	PUNCT	_	_	3	punct	_	start_char=4349|end_char=4350
+
+# text = Мастер усмехнулся, опуская мордочку в блюдце опять с молоком.
+# sent_id = 65
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4351|end_char=4357
+2	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4358|end_char=4368
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4368|end_char=4369
+4	опуская	опускать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=4370|end_char=4377
+5	мордочку	мордочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=4378|end_char=4386
+6	в	в	ADP	_	_	7	case	_	start_char=4387|end_char=4388
+7	блюдце	блюдцо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	start_char=4389|end_char=4395
+8	опять	опять	ADV	_	Degree=Pos	10	advmod	_	start_char=4396|end_char=4401
+9	с	с	ADP	_	_	10	case	_	start_char=4402|end_char=4403
+10	молоком	молоко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	start_char=4404|end_char=4411
+11	.	.	PUNCT	_	_	2	punct	_	start_char=4411|end_char=4412
+
+# text = Пока они смотрели телевизор, Мастер прятался под диваном.
+# sent_id = 66
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Пока	пока	SCONJ	_	_	3	mark	_	start_char=4413|end_char=4417
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=4418|end_char=4421
+3	смотрели	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=4422|end_char=4430
+4	телевизор	телевизор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=4431|end_char=4440
+5	,	,	PUNCT	_	_	3	punct	_	start_char=4440|end_char=4441
+6	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=4442|end_char=4448
+7	прятался	прятаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4449|end_char=4457
+8	под	под	ADP	_	_	9	case	_	start_char=4458|end_char=4461
+9	диваном	диван	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=4462|end_char=4469
+10	.	.	PUNCT	_	_	7	punct	_	start_char=4469|end_char=4470
+
+# text = На ночь она захотела выставить его из спальни на кухню, но Мастер вскочил на кровать, прошёл прямо по женщине и уставился на неё своими выразительными глазами.
+# sent_id = 67
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	На	на	ADP	_	_	2	case	_	start_char=4471|end_char=4473
+2	ночь	ночь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=4474|end_char=4478
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4479|end_char=4482
+4	захотела	захотеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4483|end_char=4491
+5	выставить	выставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=4492|end_char=4501
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=4502|end_char=4505
+7	из	из	ADP	_	_	8	case	_	start_char=4506|end_char=4508
+8	спальни	спальня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	start_char=4509|end_char=4516
+9	на	на	ADP	_	_	10	case	_	start_char=4517|end_char=4519
+10	кухню	кухня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=4520|end_char=4525
+11	,	,	PUNCT	_	_	14	punct	_	start_char=4525|end_char=4526
+12	но	но	CCONJ	_	_	14	cc	_	start_char=4527|end_char=4529
+13	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=4530|end_char=4536
+14	вскочил	вскочить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=4537|end_char=4544
+15	на	на	ADP	_	_	16	case	_	start_char=4545|end_char=4547
+16	кровать	кровать	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	start_char=4548|end_char=4555
+17	,	,	PUNCT	_	_	18	punct	_	start_char=4555|end_char=4556
+18	прошёл	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=4557|end_char=4563
+19	прямо	прямо	PART	_	_	21	advmod	_	start_char=4564|end_char=4569
+20	по	по	ADP	_	_	21	case	_	start_char=4570|end_char=4572
+21	женщине	женщина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	18	obl	_	start_char=4573|end_char=4580
+22	и	и	CCONJ	_	_	23	cc	_	start_char=4581|end_char=4582
+23	уставился	уставиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=4583|end_char=4592
+24	на	на	ADP	_	_	25	case	_	start_char=4593|end_char=4595
+25	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obl	_	start_char=4596|end_char=4599
+26	своими	свой	DET	_	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	28	det	_	start_char=4600|end_char=4606
+27	выразительными	выразительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	28	amod	_	start_char=4607|end_char=4621
+28	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	23	iobj	_	start_char=4622|end_char=4629
+29	.	.	PUNCT	_	_	4	punct	_	start_char=4629|end_char=4630
+
+# text = Брюс заметил: – Видишь, ты ему тоже нравишься, и он смотрит на тебя просительно!
+# sent_id = 68
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Брюс	Брюс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=4631|end_char=4635
+2	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4636|end_char=4643
+3	:	:	PUNCT	_	_	10	punct	_	start_char=4643|end_char=4644
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4645|end_char=4646
+5	Видишь	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=4647|end_char=4653
+6	,	,	PUNCT	_	_	5	punct	_	start_char=4653|end_char=4654
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=4655|end_char=4657
+8	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	start_char=4658|end_char=4661
+9	тоже	тоже	PART	_	_	10	advmod	_	start_char=4662|end_char=4666
+10	нравишься	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=4667|end_char=4676
+11	,	,	PUNCT	_	_	14	punct	_	start_char=4676|end_char=4677
+12	и	и	CCONJ	_	_	14	cc	_	start_char=4678|end_char=4679
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=4680|end_char=4682
+14	смотрит	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	start_char=4683|end_char=4690
+15	на	на	ADP	_	_	16	case	_	start_char=4691|end_char=4693
+16	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	14	obl	_	start_char=4694|end_char=4698
+17	просительно	просительно	ADV	_	Degree=Pos	14	advmod	_	start_char=4699|end_char=4710
+18	!	!	PUNCT	_	_	2	punct	_	start_char=4710|end_char=4711
+
+# text = Пусть остаётся, я его выгоню, если он будет шуметь.
+# sent_id = 69
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Пусть	пусть	PART	_	_	2	advmod	_	start_char=4712|end_char=4717
+2	остаётся	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4718|end_char=4726
+3	,	,	PUNCT	_	_	6	punct	_	start_char=4726|end_char=4727
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=4728|end_char=4729
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=4730|end_char=4733
+6	выгоню	выгонить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4734|end_char=4740
+7	,	,	PUNCT	_	_	11	punct	_	start_char=4740|end_char=4741
+8	если	если	SCONJ	_	_	11	mark	_	start_char=4742|end_char=4746
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=4747|end_char=4749
+10	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	aux	_	start_char=4750|end_char=4755
+11	шуметь	шуметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	advcl	_	start_char=4756|end_char=4762
+12	.	.	PUNCT	_	_	2	punct	_	start_char=4762|end_char=4763
+
+# text = – Хорошо, пусть остаётся, – подтвердила женщина и закрыла глаза.
+# sent_id = 70
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4764|end_char=4765
+2	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4766|end_char=4772
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4772|end_char=4773
+4	пусть	пусть	SCONJ	_	_	5	mark	_	start_char=4774|end_char=4779
+5	остаётся	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl	_	start_char=4780|end_char=4788
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4788|end_char=4789
+7	–	–	PUNCT	_	_	8	punct	_	start_char=4790|end_char=4791
+8	подтвердила	подтвердить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4792|end_char=4803
+9	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=4804|end_char=4811
+10	и	и	CCONJ	_	_	11	cc	_	start_char=4812|end_char=4813
+11	закрыла	закрыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=4814|end_char=4821
+12	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	start_char=4822|end_char=4827
+13	.	.	PUNCT	_	_	2	punct	_	start_char=4827|end_char=4828
+
+# text = Котёнок остался лежать у них в ногах.
+# sent_id = 71
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4829|end_char=4836
+2	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4837|end_char=4844
+3	лежать	лежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=4845|end_char=4851
+4	у	у	ADP	_	_	5	case	_	start_char=4852|end_char=4853
+5	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	obl	_	start_char=4854|end_char=4857
+6	в	в	ADP	_	_	7	case	_	start_char=4858|end_char=4859
+7	ногах	нога	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	3	obl	_	start_char=4860|end_char=4865
+8	.	.	PUNCT	_	_	2	punct	_	start_char=4865|end_char=4866
+
+# text = Свет фар проезжающих машин иногда проскакивал искрами в его глазах.
+# sent_id = 72
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Свет	свет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=4867|end_char=4871
+2	фар	фара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	start_char=4872|end_char=4875
+3	проезжающих	проезжать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	start_char=4876|end_char=4887
+4	машин	машина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	start_char=4888|end_char=4893
+5	иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=4894|end_char=4900
+6	проскакивал	проскакивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4901|end_char=4912
+7	искрами	искра	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	iobj	_	start_char=4913|end_char=4920
+8	в	в	ADP	_	_	10	case	_	start_char=4921|end_char=4922
+9	его	его	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=4923|end_char=4926
+10	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	6	obl	_	start_char=4927|end_char=4933
+11	.	.	PUNCT	_	_	6	punct	_	start_char=4933|end_char=4934
+
+# text = Через полтора часа он прислушался – дыхание у обоих было глубоким, медленным.
+# sent_id = 73
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Через	через	ADP	_	_	3	case	_	start_char=4935|end_char=4940
+2	полтора	полтора	NUM	_	Case=Acc|NumForm=Word|NumType=Frac	3	nummod:gov	_	start_char=4941|end_char=4948
+3	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=4949|end_char=4953
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4954|end_char=4956
+5	прислушался	прислушаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4957|end_char=4968
+6	–	–	PUNCT	_	_	11	punct	_	start_char=4969|end_char=4970
+7	дыхание	дыхание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	start_char=4971|end_char=4978
+8	у	у	ADP	_	_	9	case	_	start_char=4979|end_char=4980
+9	обоих	оба	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Sets	11	obl	_	start_char=4981|end_char=4986
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	start_char=4987|end_char=4991
+11	глубоким	глубокий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	parataxis	_	start_char=4992|end_char=5000
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5000|end_char=5001
+13	медленным	медленный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	start_char=5002|end_char=5011
+14	.	.	PUNCT	_	_	5	punct	_	start_char=5011|end_char=5012
+
+# text = Мастер подобрался к голове Брюса и прижался к ней своим горячим лысым лбом – точно, тот спал.
+# sent_id = 74
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=5013|end_char=5019
+2	подобрался	подобраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5020|end_char=5030
+3	к	к	ADP	_	_	4	case	_	start_char=5031|end_char=5032
+4	голове	голова	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	obl	_	start_char=5033|end_char=5039
+5	Брюса	Брюса	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	4	nmod	_	start_char=5040|end_char=5045
+6	и	и	CCONJ	_	_	7	cc	_	start_char=5046|end_char=5047
+7	прижался	прижаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=5048|end_char=5056
+8	к	к	ADP	_	_	9	case	_	start_char=5057|end_char=5058
+9	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=5059|end_char=5062
+10	своим	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	start_char=5063|end_char=5068
+11	горячим	горячий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=5069|end_char=5076
+12	лысым	лысый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=5077|end_char=5082
+13	лбом	лоб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	iobj	_	start_char=5083|end_char=5087
+14	–	–	PUNCT	_	_	18	punct	_	start_char=5088|end_char=5089
+15	точно	точно	ADV	_	Degree=Pos	18	parataxis	_	start_char=5090|end_char=5095
+16	,	,	PUNCT	_	_	18	punct	_	start_char=5095|end_char=5096
+17	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	start_char=5097|end_char=5100
+18	спал	спать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5101|end_char=5105
+19	.	.	PUNCT	_	_	2	punct	_	start_char=5105|end_char=5106
+
+# text = Мастер ещё углубил его сон, так что тот едва не начал напоминать потерю сознания, и переключился на женщину.
+# sent_id = 75
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=5107|end_char=5113
+2	ещё	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=5114|end_char=5117
+3	углубил	углубить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5118|end_char=5125
+4	его	его	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=5126|end_char=5129
+5	сон	сон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=5130|end_char=5133
+6	,	,	PUNCT	_	_	12	punct	_	start_char=5133|end_char=5134
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	12	mark	_	start_char=5135|end_char=5138
+8	что	что	SCONJ	_	_	7	fixed	_	start_char=5139|end_char=5142
+9	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	start_char=5143|end_char=5146
+10	едва	едва	ADV	_	Degree=Pos	12	advmod	_	start_char=5147|end_char=5151
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=5152|end_char=5154
+12	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=5155|end_char=5160
+13	напоминать	напоминать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=5161|end_char=5171
+14	потерю	потеря	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=5172|end_char=5178
+15	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	start_char=5179|end_char=5187
+16	,	,	PUNCT	_	_	18	punct	_	start_char=5187|end_char=5188
+17	и	и	CCONJ	_	_	18	cc	_	start_char=5189|end_char=5190
+18	переключился	переключиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=5191|end_char=5203
+19	на	на	ADP	_	_	20	case	_	start_char=5204|end_char=5206
+20	женщину	женщина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	18	obl	_	start_char=5207|end_char=5214
+21	.	.	PUNCT	_	_	3	punct	_	start_char=5214|end_char=5215
+
+# text = Тратить ментальные силы больше не хотелось.
+# sent_id = 76
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Тратить	тратить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=5216|end_char=5223
+2	ментальные	ментальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	start_char=5224|end_char=5234
+3	силы	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obj	_	start_char=5235|end_char=5239
+4	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	6	advmod	_	start_char=5240|end_char=5246
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=5247|end_char=5249
+6	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5250|end_char=5258
+7	.	.	PUNCT	_	_	6	punct	_	start_char=5258|end_char=5259
+
+# text = Он подобрался к спящей и одним ударом уже сильной лапки вспорол ей сонную артерию.
+# sent_id = 77
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5260|end_char=5262
+2	подобрался	подобраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5263|end_char=5273
+3	к	к	ADP	_	_	4	case	_	start_char=5274|end_char=5275
+4	спящей	спящий	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	2	obl	_	start_char=5276|end_char=5282
+5	и	и	CCONJ	_	_	11	cc	_	start_char=5283|end_char=5284
+6	одним	один	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	start_char=5285|end_char=5290
+7	ударом	удар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	start_char=5291|end_char=5297
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	start_char=5298|end_char=5301
+9	сильной	сильный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=5302|end_char=5309
+10	лапки	лапка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=5310|end_char=5315
+11	вспорол	вспороть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5316|end_char=5323
+12	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=5324|end_char=5326
+13	сонную	сонный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=5327|end_char=5333
+14	артерию	артерия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=5334|end_char=5341
+15	.	.	PUNCT	_	_	2	punct	_	start_char=5341|end_char=5342
+
+# text = Горячая кровь брызнула из раны, заливая постель тёмными липкими пятнами, женщина попыталась дёрнуться, но только еле слышно захрипела.
+# sent_id = 78
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Горячая	горячий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=5343|end_char=5350
+2	кровь	кровь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=5351|end_char=5356
+3	брызнула	брызнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5357|end_char=5365
+4	из	из	ADP	_	_	5	case	_	start_char=5366|end_char=5368
+5	раны	рана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=5369|end_char=5373
+6	,	,	PUNCT	_	_	7	punct	_	start_char=5373|end_char=5374
+7	заливая	заливать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=5375|end_char=5382
+8	постель	постель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=5383|end_char=5390
+9	тёмными	темный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	amod	_	start_char=5391|end_char=5398
+10	липкими	липкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	amod	_	start_char=5399|end_char=5406
+11	пятнами	пятно	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	iobj	_	start_char=5407|end_char=5414
+12	,	,	PUNCT	_	_	7	punct	_	start_char=5414|end_char=5415
+13	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=5416|end_char=5423
+14	попыталась	попытаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=5424|end_char=5434
+15	дёрнуться	дернуться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	14	xcomp	_	start_char=5435|end_char=5444
+16	,	,	PUNCT	_	_	21	punct	_	start_char=5444|end_char=5445
+17	но	но	CCONJ	_	_	21	cc	_	start_char=5446|end_char=5448
+18	только	только	PART	_	_	19	advmod	_	start_char=5449|end_char=5455
+19	еле	еле	PART	_	_	20	advmod	_	start_char=5456|end_char=5459
+20	слышно	слышный	ADV	_	Degree=Pos	21	advmod	_	start_char=5460|end_char=5466
+21	захрипела	захрипеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5467|end_char=5476
+22	.	.	PUNCT	_	_	3	punct	_	start_char=5476|end_char=5477
+
+# text = Мастер на всякий случай вцепился маленькими острыми зубками в её горло, вырвав кусок трахеи, выплюнул его, дёрнул подушку женщины – чтобы растекающаяся кровь не тревожила Брюса.
+# sent_id = 79
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5478|end_char=5484
+2	на	на	ADP	_	_	4	case	_	start_char=5485|end_char=5487
+3	всякий	всякий	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	4	det	_	start_char=5488|end_char=5494
+4	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	start_char=5495|end_char=5501
+5	вцепился	вцепиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5502|end_char=5510
+6	маленькими	маленький	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	amod	_	start_char=5511|end_char=5521
+7	острыми	острый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	amod	_	start_char=5522|end_char=5529
+8	зубками	зубок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	start_char=5530|end_char=5537
+9	в	в	ADP	_	_	11	case	_	start_char=5538|end_char=5539
+10	её	ее	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=5540|end_char=5542
+11	горло	горло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=5543|end_char=5548
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5548|end_char=5549
+13	вырвав	вырвать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	17	advcl	_	start_char=5550|end_char=5556
+14	кусок	кусок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=5557|end_char=5562
+15	трахеи	траха	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	start_char=5563|end_char=5569
+16	,	,	PUNCT	_	_	13	punct	_	start_char=5569|end_char=5570
+17	выплюнул	выплюнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5571|end_char=5579
+18	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=5580|end_char=5583
+19	,	,	PUNCT	_	_	20	punct	_	start_char=5583|end_char=5584
+20	дёрнул	дернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5585|end_char=5591
+21	подушку	подушка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	start_char=5592|end_char=5599
+22	женщины	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	start_char=5600|end_char=5607
+23	–	–	PUNCT	_	_	28	punct	_	start_char=5608|end_char=5609
+24	чтобы	чтобы	SCONJ	_	Mood=Cnd	28	mark	_	start_char=5610|end_char=5615
+25	растекающаяся	растекаться	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	26	amod	_	start_char=5616|end_char=5629
+26	кровь	кровь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	start_char=5630|end_char=5635
+27	не	не	PART	_	Polarity=Neg	28	advmod	_	start_char=5636|end_char=5638
+28	тревожила	тревожить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	start_char=5639|end_char=5648
+29	Брюса	Брюса	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	28	obj	_	start_char=5649|end_char=5654
+30	.	.	PUNCT	_	_	5	punct	_	start_char=5654|end_char=5655
+
+# text = Когда женщина перестала дёргаться и дышать, котёнок, уже не такой чистенький и розовенький, как раньше, подошёл к Брюсу, опять прижался лбом к голове человека, взял под пока очень слабый контроль нужные ему участки мозга.
+# sent_id = 80
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Когда	когда	SCONJ	_	_	3	mark	_	start_char=5656|end_char=5661
+2	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=5662|end_char=5669
+3	перестала	перестать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	start_char=5670|end_char=5679
+4	дёргаться	дергаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=5680|end_char=5689
+5	и	и	CCONJ	_	_	6	cc	_	start_char=5690|end_char=5691
+6	дышать	дышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=5692|end_char=5698
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5698|end_char=5699
+8	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	start_char=5700|end_char=5707
+9	,	,	PUNCT	_	_	13	punct	_	start_char=5707|end_char=5708
+10	уже	уже	ADV	_	Degree=Pos	13	advmod	_	start_char=5709|end_char=5712
+11	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=5713|end_char=5715
+12	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	start_char=5716|end_char=5721
+13	чистенький	чистенький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	acl	_	start_char=5722|end_char=5732
+14	и	и	CCONJ	_	_	15	cc	_	start_char=5733|end_char=5734
+15	розовенький	розовенький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	start_char=5735|end_char=5746
+16	,	,	PUNCT	_	_	13	punct	_	start_char=5746|end_char=5747
+17	как	как	SCONJ	_	_	18	mark	_	start_char=5748|end_char=5751
+18	раньше	раньше	ADV	_	Degree=Cmp	20	advmod	_	start_char=5752|end_char=5758
+19	,	,	PUNCT	_	_	18	punct	_	start_char=5758|end_char=5759
+20	подошёл	подойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5760|end_char=5767
+21	к	к	ADP	_	_	22	case	_	start_char=5768|end_char=5769
+22	Брюсу	Брюс	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	20	obl	_	start_char=5770|end_char=5775
+23	,	,	PUNCT	_	_	25	punct	_	start_char=5775|end_char=5776
+24	опять	опять	ADV	_	Degree=Pos	25	advmod	_	start_char=5777|end_char=5782
+25	прижался	прижаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	conj	_	start_char=5783|end_char=5791
+26	лбом	лоб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	25	iobj	_	start_char=5792|end_char=5796
+27	к	к	ADP	_	_	28	case	_	start_char=5797|end_char=5798
+28	голове	голова	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	25	obl	_	start_char=5799|end_char=5805
+29	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	start_char=5806|end_char=5814
+30	,	,	PUNCT	_	_	31	punct	_	start_char=5814|end_char=5815
+31	взял	взять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	start_char=5816|end_char=5820
+32	под	под	ADP	_	_	36	case	_	start_char=5821|end_char=5824
+33	пока	пока	ADV	_	Degree=Pos	31	advmod	_	start_char=5825|end_char=5829
+34	очень	очень	ADV	_	Degree=Pos	35	advmod	_	start_char=5830|end_char=5835
+35	слабый	слабый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	start_char=5836|end_char=5842
+36	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	obj	_	start_char=5843|end_char=5851
+37	нужные	нужный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	39	amod	_	start_char=5852|end_char=5858
+38	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	iobj	_	start_char=5859|end_char=5862
+39	участки	участок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	31	obj	_	start_char=5863|end_char=5870
+40	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	start_char=5871|end_char=5876
+41	.	.	PUNCT	_	_	20	punct	_	start_char=5876|end_char=5877
+
+# text = Тело открыло рот, и котёнок пополз внутрь, стараясь не пустить в ход коготки.
+# sent_id = 81
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=5878|end_char=5882
+2	открыло	открыть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5883|end_char=5890
+3	рот	рот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=5891|end_char=5894
+4	,	,	PUNCT	_	_	7	punct	_	start_char=5894|end_char=5895
+5	и	и	CCONJ	_	_	7	cc	_	start_char=5896|end_char=5897
+6	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=5898|end_char=5905
+7	пополз	поползти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5906|end_char=5912
+8	внутрь	внутрь	ADV	_	Degree=Pos	7	advmod	_	start_char=5913|end_char=5919
+9	,	,	PUNCT	_	_	10	punct	_	start_char=5919|end_char=5920
+10	стараясь	стараться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	start_char=5921|end_char=5929
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=5930|end_char=5932
+12	пустить	пустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=5933|end_char=5940
+13	в	в	ADP	_	_	14	case	_	start_char=5941|end_char=5942
+14	ход	ход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	start_char=5943|end_char=5946
+15	коготки	коготка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	start_char=5947|end_char=5954
+16	.	.	PUNCT	_	_	2	punct	_	start_char=5954|end_char=5955
+
+# text = Он прополз по узкой гортани, пищеводу, и только когда почувствовал, что стенки расширяются, и он где-то в районе желудка, на миг развоплотился и собрался снова с другой стороны, где-то в грудной полости.
+# sent_id = 82
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5956|end_char=5958
+2	прополз	проползти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5959|end_char=5966
+3	по	по	ADP	_	_	5	case	_	start_char=5967|end_char=5969
+4	узкой	узкий	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=5970|end_char=5975
+5	гортани	гортань	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	obl	_	start_char=5976|end_char=5983
+6	,	,	PUNCT	_	_	7	punct	_	start_char=5983|end_char=5984
+7	пищеводу	пищевод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	conj	_	start_char=5985|end_char=5993
+8	,	,	PUNCT	_	_	12	punct	_	start_char=5993|end_char=5994
+9	и	и	CCONJ	_	_	12	cc	_	start_char=5995|end_char=5996
+10	только	только	PART	_	_	12	advmod	_	start_char=5997|end_char=6003
+11	когда	когда	SCONJ	_	_	12	mark	_	start_char=6004|end_char=6009
+12	почувствовал	почувствовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6010|end_char=6022
+13	,	,	PUNCT	_	_	16	punct	_	start_char=6022|end_char=6023
+14	что	что	SCONJ	_	_	16	mark	_	start_char=6024|end_char=6027
+15	стенки	стенка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	16	nsubj	_	start_char=6028|end_char=6034
+16	расширяются	расширяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	ccomp	_	start_char=6035|end_char=6046
+17	,	,	PUNCT	_	_	27	punct	_	start_char=6046|end_char=6047
+18	и	и	CCONJ	_	_	27	cc	_	start_char=6048|end_char=6049
+19	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	start_char=6050|end_char=6052
+20	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	22	advmod	_	start_char=6053|end_char=6059
+21	в	в	ADP	_	_	22	case	_	start_char=6060|end_char=6061
+22	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	obl	_	start_char=6062|end_char=6068
+23	желудка	желудок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	start_char=6069|end_char=6076
+24	,	,	PUNCT	_	_	27	punct	_	start_char=6076|end_char=6077
+25	на	на	ADP	_	_	26	case	_	start_char=6078|end_char=6080
+26	миг	миг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	obl	_	start_char=6081|end_char=6084
+27	развоплотился	развоплотиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6085|end_char=6098
+28	и	и	CCONJ	_	_	29	cc	_	start_char=6099|end_char=6100
+29	собрался	собраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6101|end_char=6109
+30	снова	снова	ADV	_	Degree=Pos	29	advmod	_	start_char=6110|end_char=6115
+31	с	с	ADP	_	_	33	case	_	start_char=6116|end_char=6117
+32	другой	другой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	33	det	_	start_char=6118|end_char=6124
+33	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	obl	_	start_char=6125|end_char=6132
+34	,	,	PUNCT	_	_	38	punct	_	start_char=6132|end_char=6133
+35	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	38	advmod	_	start_char=6134|end_char=6140
+36	в	в	ADP	_	_	38	case	_	start_char=6141|end_char=6142
+37	грудной	грудной	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	start_char=6143|end_char=6150
+38	полости	полость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	conj	_	start_char=6151|end_char=6158
+39	.	.	PUNCT	_	_	2	punct	_	start_char=6158|end_char=6159
+
+# text = Оглядевшись, что можно подвинуть без особого ущерба для своего носителя, котёнок остался возле желудка.
+# sent_id = 83
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Оглядевшись	оглядеться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	14	advcl	_	start_char=6160|end_char=6171
+2	,	,	PUNCT	_	_	4	punct	_	start_char=6171|end_char=6172
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	start_char=6173|end_char=6176
+4	можно	можно	VERB	_	_	1	ccomp	_	start_char=6177|end_char=6182
+5	подвинуть	подвинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=6183|end_char=6192
+6	без	без	ADP	_	_	8	case	_	start_char=6193|end_char=6196
+7	особого	особый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=6197|end_char=6204
+8	ущерба	ущерба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=6205|end_char=6211
+9	для	для	ADP	_	_	11	case	_	start_char=6212|end_char=6215
+10	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	start_char=6216|end_char=6222
+11	носителя	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=6223|end_char=6231
+12	,	,	PUNCT	_	_	1	punct	_	start_char=6231|end_char=6232
+13	котёнок	котенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=6233|end_char=6240
+14	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6241|end_char=6248
+15	возле	возле	ADP	_	_	16	case	_	start_char=6249|end_char=6254
+16	желудка	желудок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	obl	_	start_char=6255|end_char=6262
+17	.	.	PUNCT	_	_	14	punct	_	start_char=6262|end_char=6263
+
+# text = Недалеко бухало сердце, мерно вздымались и опадали лёгкие.
+# sent_id = 84
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Недалеко	недалеко	ADV	_	Degree=Pos	2	advmod	_	start_char=6264|end_char=6272
+2	бухало	бухать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6273|end_char=6279
+3	сердце	сердце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=6280|end_char=6286
+4	,	,	PUNCT	_	_	6	punct	_	start_char=6286|end_char=6287
+5	мерно	мерно	ADV	_	Degree=Pos	6	advmod	_	start_char=6288|end_char=6293
+6	вздымались	вздыматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6294|end_char=6304
+7	и	и	CCONJ	_	_	8	cc	_	start_char=6305|end_char=6306
+8	опадали	опадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6307|end_char=6314
+9	лёгкие	легкий	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Number=Plur	8	nsubj	_	start_char=6315|end_char=6321
+10	.	.	PUNCT	_	_	2	punct	_	start_char=6321|end_char=6322
+
+# text = Мимо по нервным соединениям неслись искры связи.
+# sent_id = 85
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Мимо	мимо	ADV	_	Degree=Pos	5	advmod	_	start_char=6323|end_char=6327
+2	по	по	ADP	_	_	4	case	_	start_char=6328|end_char=6330
+3	нервным	нервный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	amod	_	start_char=6331|end_char=6338
+4	соединениям	соединение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	5	obl	_	start_char=6339|end_char=6350
+5	неслись	несться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6351|end_char=6358
+6	искры	искра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=6359|end_char=6364
+7	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=6365|end_char=6370
+8	.	.	PUNCT	_	_	5	punct	_	start_char=6370|end_char=6371
+
+# text = Котик начал плести из подобных же искр свою паутину – чтобы полностью взять под контроль мозг человека.
+# sent_id = 86
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	Котик	котик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6372|end_char=6377
+2	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6378|end_char=6383
+3	плести	плести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=6384|end_char=6390
+4	из	из	ADP	_	_	7	case	_	start_char=6391|end_char=6393
+5	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	start_char=6394|end_char=6402
+6	же	же	PART	_	_	5	advmod	_	start_char=6403|end_char=6405
+7	искр	искр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	start_char=6406|end_char=6410
+8	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=6411|end_char=6415
+9	паутину	паутина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=6416|end_char=6423
+10	–	–	PUNCT	_	_	13	punct	_	start_char=6424|end_char=6425
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	13	mark	_	start_char=6426|end_char=6431
+12	полностью	полностью	ADV	_	Degree=Pos	13	advmod	_	start_char=6432|end_char=6441
+13	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=6442|end_char=6447
+14	под	под	ADP	_	_	15	case	_	start_char=6448|end_char=6451
+15	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	start_char=6452|end_char=6460
+16	мозг	мозг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=6461|end_char=6465
+17	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	start_char=6466|end_char=6474
+18	.	.	PUNCT	_	_	2	punct	_	start_char=6474|end_char=6475
+
+# text = К утру человека не стало, появился новый Мастер.
+# sent_id = 87
+# metadata = Название: Загадки сфинкса, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5467c6f500000a7d250e4527/1/Zagadki-sfinksa
+1	К	к	ADP	_	_	2	case	_	start_char=6476|end_char=6477
+2	утру	утро	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	obl	_	start_char=6478|end_char=6482
+3	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nsubj	_	start_char=6483|end_char=6491
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=6492|end_char=6494
+5	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6495|end_char=6500
+6	,	,	PUNCT	_	_	7	punct	_	start_char=6500|end_char=6501
+7	появился	появиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=6502|end_char=6510
+8	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=6511|end_char=6516
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=6517|end_char=6523
+10	.	.	PUNCT	_	_	5	punct	_	start_char=6523|end_char=6524
+

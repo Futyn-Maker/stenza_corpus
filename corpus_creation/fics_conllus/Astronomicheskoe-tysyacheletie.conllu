@@ -1,0 +1,584 @@
+# text = Сан-Франциско – яркий город, живой, возбужденный, агрессивный.
+# sent_id = 0
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Сан-Франциско	Сан-Франциско	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	4	nsubj	_	start_char=0|end_char=13
+2	–	–	PUNCT	_	_	4	punct	_	start_char=14|end_char=15
+3	яркий	яркий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=16|end_char=21
+4	город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=22|end_char=27
+5	,	,	PUNCT	_	_	6	punct	_	start_char=27|end_char=28
+6	живой	живой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	start_char=29|end_char=34
+7	,	,	PUNCT	_	_	8	punct	_	start_char=34|end_char=35
+8	возбужденный	возбужденный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	start_char=36|end_char=48
+9	,	,	PUNCT	_	_	10	punct	_	start_char=48|end_char=49
+10	агрессивный	агрессивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	start_char=50|end_char=61
+11	.	.	PUNCT	_	_	4	punct	_	start_char=61|end_char=62
+
+# text = По сравнению с Лондоном и всей Британией, в которой мы чаще всего встречались с Доктором на Земле – взбудораженный, пронизанный электричеством и постоянной угрозой сейсмических катаклизмов.
+# sent_id = 1
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	По	по	ADP	_	_	4	case	_	start_char=63|end_char=65
+2	сравнению	сравнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	fixed	_	start_char=66|end_char=75
+3	с	с	ADP	_	_	1	fixed	_	start_char=76|end_char=77
+4	Лондоном	Лондон	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|NameType=Geo|Number=Sing	20	obl	_	start_char=78|end_char=86
+5	и	и	CCONJ	_	_	7	cc	_	start_char=87|end_char=88
+6	всей	весь	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	start_char=89|end_char=93
+7	Британией	Британие	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	4	conj	_	start_char=94|end_char=103
+8	,	,	PUNCT	_	_	14	punct	_	start_char=103|end_char=104
+9	в	в	ADP	_	_	10	case	_	start_char=105|end_char=106
+10	которой	который	PRON	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	14	obl	_	start_char=107|end_char=114
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=115|end_char=117
+12	чаще	часто	ADV	_	Degree=Cmp	14	advmod	_	start_char=118|end_char=122
+13	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	12	obl	_	start_char=123|end_char=128
+14	встречались	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	start_char=129|end_char=140
+15	с	с	ADP	_	_	16	case	_	start_char=141|end_char=142
+16	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	14	obl	_	start_char=143|end_char=151
+17	на	на	ADP	_	_	18	case	_	start_char=152|end_char=154
+18	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	start_char=155|end_char=160
+19	–	–	PUNCT	_	_	20	punct	_	start_char=161|end_char=162
+20	взбудораженный	взбудорадить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=163|end_char=177
+21	,	,	PUNCT	_	_	22	punct	_	start_char=177|end_char=178
+22	пронизанный	пронизать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	conj	_	start_char=179|end_char=190
+23	электричеством	электричество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	iobj	_	start_char=191|end_char=205
+24	и	и	CCONJ	_	_	26	cc	_	start_char=206|end_char=207
+25	постоянной	постоянный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	start_char=208|end_char=218
+26	угрозой	угроза	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	conj	_	start_char=219|end_char=226
+27	сейсмических	сейсмический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	start_char=227|end_char=239
+28	катаклизмов	катаклизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	start_char=240|end_char=251
+29	.	.	PUNCT	_	_	20	punct	_	start_char=251|end_char=252
+
+# text = Он всегда немного дрожит, пульсирует, готов взорваться и разрушиться, расцвести гибельным цветком.
+# sent_id = 2
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=253|end_char=255
+2	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=256|end_char=262
+3	немного	немного	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=263|end_char=270
+4	дрожит	дрожить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=271|end_char=277
+5	,	,	PUNCT	_	_	6	punct	_	start_char=277|end_char=278
+6	пульсирует	пульсировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=279|end_char=289
+7	,	,	PUNCT	_	_	8	punct	_	start_char=289|end_char=290
+8	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	start_char=291|end_char=296
+9	взорваться	взорваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	start_char=297|end_char=307
+10	и	и	CCONJ	_	_	11	cc	_	start_char=308|end_char=309
+11	разрушиться	разрушиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	conj	_	start_char=310|end_char=321
+12	,	,	PUNCT	_	_	13	punct	_	start_char=321|end_char=322
+13	расцвести	расцвести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	conj	_	start_char=323|end_char=332
+14	гибельным	гибельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=333|end_char=342
+15	цветком	цветок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	iobj	_	start_char=343|end_char=350
+16	.	.	PUNCT	_	_	4	punct	_	start_char=350|end_char=351
+
+# text = Город бериллиевых атомных часов, самых точных на этой примитивной планете, ждущей перехода в новое тысячелетие по своему самому распространенному календарю.
+# sent_id = 3
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=352|end_char=357
+2	бериллиевых	бериллиевый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=358|end_char=369
+3	атомных	атомный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=370|end_char=377
+4	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	start_char=378|end_char=383
+5	,	,	PUNCT	_	_	7	punct	_	start_char=383|end_char=384
+6	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	7	det	_	start_char=385|end_char=390
+7	точных	точный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	acl	_	start_char=391|end_char=397
+8	на	на	ADP	_	_	11	case	_	start_char=398|end_char=400
+9	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	start_char=401|end_char=405
+10	примитивной	примитивный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=406|end_char=417
+11	планете	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	start_char=418|end_char=425
+12	,	,	PUNCT	_	_	13	punct	_	start_char=425|end_char=426
+13	ждущей	ждать	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	start_char=427|end_char=433
+14	перехода	переход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obj	_	start_char=434|end_char=442
+15	в	в	ADP	_	_	17	case	_	start_char=443|end_char=444
+16	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	start_char=445|end_char=450
+17	тысячелетие	тысячелетие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	start_char=451|end_char=462
+18	по	по	ADP	_	_	22	case	_	start_char=463|end_char=465
+19	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	22	det	_	start_char=466|end_char=472
+20	самому	сам	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Emp	22	det	_	start_char=473|end_char=479
+21	распространенному	распространенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	start_char=480|end_char=497
+22	календарю	календарь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	obl	_	start_char=498|end_char=507
+23	.	.	PUNCT	_	_	1	punct	_	start_char=507|end_char=508
+
+# text = Не христианскому на самом деле, в нем нет нулевого года, а астрономическому – более математически удобному, в котором есть нулевой год и все начинается с нуля.
+# sent_id = 4
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=509|end_char=511
+2	христианскому	христианский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	9	iobj	_	start_char=512|end_char=525
+3	на	на	ADP	_	_	5	case	_	start_char=526|end_char=528
+4	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	5	det	_	start_char=529|end_char=534
+5	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	parataxis	_	start_char=535|end_char=539
+6	,	,	PUNCT	_	_	5	punct	_	start_char=539|end_char=540
+7	в	в	ADP	_	_	8	case	_	start_char=541|end_char=542
+8	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=543|end_char=546
+9	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=547|end_char=550
+10	нулевого	нулевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=551|end_char=559
+11	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nsubj	_	start_char=560|end_char=564
+12	,	,	PUNCT	_	_	18	punct	_	start_char=564|end_char=565
+13	а	а	CCONJ	_	_	18	cc	_	start_char=566|end_char=567
+14	астрономическому	астрономический	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	start_char=568|end_char=584
+15	–	–	PUNCT	_	_	18	punct	_	start_char=585|end_char=586
+16	более	более	ADV	_	Degree=Cmp|PronType=Tot	17	advmod	_	start_char=587|end_char=592
+17	математически	математически	ADV	_	Degree=Pos	18	advmod	_	start_char=593|end_char=606
+18	удобному	удобный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	start_char=607|end_char=615
+19	,	,	PUNCT	_	_	21	punct	_	start_char=615|end_char=616
+20	в	в	ADP	_	_	21	case	_	start_char=617|end_char=618
+21	котором	который	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	18	acl:relcl	_	start_char=619|end_char=626
+22	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	start_char=627|end_char=631
+23	нулевой	нулевой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=632|end_char=639
+24	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	start_char=640|end_char=643
+25	и	и	CCONJ	_	_	27	cc	_	start_char=644|end_char=645
+26	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	27	nsubj	_	start_char=646|end_char=649
+27	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	conj	_	start_char=650|end_char=660
+28	с	с	ADP	_	_	29	case	_	start_char=661|end_char=662
+29	нуля	нуля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	obl	_	start_char=663|end_char=667
+30	.	.	PUNCT	_	_	9	punct	_	start_char=667|end_char=668
+
+# text = Ab ovo.
+# sent_id = 5
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Ab	Ab	X	_	Foreign=Yes	0	root	_	start_char=669|end_char=671
+2	ovo	ovo	X	_	Foreign=Yes	1	flat:foreign	_	start_char=672|end_char=675
+3	.	.	PUNCT	_	_	1	punct	_	start_char=675|end_char=676
+
+# text = С яйца, имеющего ту же форму, что и нуль.
+# sent_id = 6
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	С	с	ADP	_	_	2	case	_	start_char=677|end_char=678
+2	яйца	яйцо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=679|end_char=683
+3	,	,	PUNCT	_	_	4	punct	_	start_char=683|end_char=684
+4	имеющего	иметь	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	start_char=685|end_char=693
+5	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=694|end_char=696
+6	же	же	PART	_	_	5	advmod	_	start_char=697|end_char=699
+7	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=700|end_char=705
+8	,	,	PUNCT	_	_	11	punct	_	start_char=705|end_char=706
+9	что	что	SCONJ	_	_	11	mark	_	start_char=707|end_char=710
+10	и	и	PART	_	_	11	advmod	_	start_char=711|end_char=712
+11	нуль	нуль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	acl	_	start_char=713|end_char=717
+12	.	.	PUNCT	_	_	2	punct	_	start_char=717|end_char=718
+
+# text = Знаменательно в каком-то смысле.
+# sent_id = 7
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Знаменательно	знаменательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=719|end_char=732
+2	в	в	ADP	_	_	4	case	_	start_char=733|end_char=734
+3	каком-то	какой-то	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	start_char=735|end_char=743
+4	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	start_char=744|end_char=750
+5	.	.	PUNCT	_	_	1	punct	_	start_char=750|end_char=751
+
+# text = Моя собственная жизнь сейчас очень близка – сброшена – к нулю.
+# sent_id = 8
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=752|end_char=755
+2	собственная	собственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=756|end_char=767
+3	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=768|end_char=773
+4	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=774|end_char=780
+5	очень	очень	ADV	_	Degree=Pos	6	advmod	_	start_char=781|end_char=786
+6	близка	близкий	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=787|end_char=793
+7	–	–	PUNCT	_	_	8	punct	_	start_char=794|end_char=795
+8	сброшена	сбросить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	parataxis	_	start_char=796|end_char=804
+9	–	–	PUNCT	_	_	11	punct	_	start_char=805|end_char=806
+10	к	к	ADP	_	_	11	case	_	start_char=807|end_char=808
+11	нулю	нуль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	obl	_	start_char=809|end_char=813
+12	.	.	PUNCT	_	_	6	punct	_	start_char=813|end_char=814
+
+# text = Но близка и к возрождению, которого я так долго ждал.
+# sent_id = 9
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=815|end_char=817
+2	близка	близкий	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=818|end_char=824
+3	и	и	CCONJ	_	_	5	cc	_	start_char=825|end_char=826
+4	к	к	ADP	_	_	5	case	_	start_char=827|end_char=828
+5	возрождению	возрождение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	obl	_	start_char=829|end_char=840
+6	,	,	PUNCT	_	_	11	punct	_	start_char=840|end_char=841
+7	которого	который	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	start_char=842|end_char=850
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=851|end_char=852
+9	так	так	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=853|end_char=856
+10	долго	долго	ADV	_	Degree=Pos	11	advmod	_	start_char=857|end_char=862
+11	ждал	ждать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=863|end_char=867
+12	.	.	PUNCT	_	_	2	punct	_	start_char=867|end_char=868
+
+# text = Полноценному, без использования «более-менее подходящей» замены.
+# sent_id = 10
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Полноценному	полноценный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=869|end_char=881
+2	,	,	PUNCT	_	_	4	punct	_	start_char=881|end_char=882
+3	без	без	ADP	_	_	4	case	_	start_char=883|end_char=886
+4	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	conj	_	start_char=887|end_char=900
+5	«	«	PUNCT	_	_	8	punct	_	start_char=901|end_char=902
+6	более	более	ADV	_	Degree=Cmp|PronType=Tot	7	advmod	_	start_char=902|end_char=907
+7	-менее	-менее	ADV	_	Degree=Cmp	8	advmod	_	start_char=907|end_char=913
+8	подходящей	подходящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=914|end_char=924
+9	»	»	PUNCT	_	_	8	punct	_	start_char=924|end_char=925
+10	замены	замена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=926|end_char=932
+11	.	.	PUNCT	_	_	1	punct	_	start_char=932|end_char=933
+
+# text = Как нелепо было со стороны Доктора тут же потерять одну из своих жизней, почти что на первом шаге в этом чудесном городе.
+# sent_id = 11
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Как	как	ADV	_	Degree=Pos|PronType=Rel	2	advmod	_	start_char=934|end_char=937
+2	нелепо	нелепо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=938|end_char=944
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=945|end_char=949
+4	со	со	ADP	_	_	6	case	_	start_char=950|end_char=952
+5	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	fixed	_	start_char=953|end_char=960
+6	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=961|end_char=968
+7	тут	тут	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=969|end_char=972
+8	же	же	PART	_	_	7	advmod	_	start_char=973|end_char=975
+9	потерять	потерять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=976|end_char=984
+10	одну	один	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	9	obj	_	start_char=985|end_char=989
+11	из	из	ADP	_	_	13	case	_	start_char=990|end_char=992
+12	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	start_char=993|end_char=998
+13	жизней	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	start_char=999|end_char=1005
+14	,	,	PUNCT	_	_	19	punct	_	start_char=1005|end_char=1006
+15	почти	почти	ADV	_	Degree=Pos	19	advmod	_	start_char=1007|end_char=1012
+16	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	19	nsubj	_	start_char=1013|end_char=1016
+17	на	на	ADP	_	_	19	case	_	start_char=1017|end_char=1019
+18	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	19	amod	_	start_char=1020|end_char=1026
+19	шаге	шаг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	start_char=1027|end_char=1031
+20	в	в	ADP	_	_	23	case	_	start_char=1032|end_char=1033
+21	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	23	det	_	start_char=1034|end_char=1038
+22	чудесном	чудесный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	start_char=1039|end_char=1047
+23	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	nmod	_	start_char=1048|end_char=1054
+24	.	.	PUNCT	_	_	2	punct	_	start_char=1054|end_char=1055
+
+# text = Что ж, тоже знаменательно.
+# sent_id = 12
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	parataxis	_	start_char=1056|end_char=1059
+2	ж	ж	PART	_	_	1	advmod	_	start_char=1060|end_char=1061
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1061|end_char=1062
+4	тоже	тоже	PART	_	_	5	advmod	_	start_char=1063|end_char=1067
+5	знаменательно	знаменательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1068|end_char=1081
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1081|end_char=1082
+
+# text = Хотя и жаль терять никогда не лишние жизни, даже если они пока не мои – особенно пока они не мои.
+# sent_id = 13
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Хотя	хотя	SCONJ	_	_	3	mark	_	start_char=1083|end_char=1087
+2	и	и	PART	_	_	3	advmod	_	start_char=1088|end_char=1089
+3	жаль	жаль	VERB	_	_	0	root	_	start_char=1090|end_char=1094
+4	терять	терять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1095|end_char=1101
+5	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	4	advmod	_	start_char=1102|end_char=1109
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1110|end_char=1112
+7	лишние	лишний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	start_char=1113|end_char=1119
+8	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=1120|end_char=1125
+9	,	,	PUNCT	_	_	15	punct	_	start_char=1125|end_char=1126
+10	даже	даже	PART	_	_	15	advmod	_	start_char=1127|end_char=1131
+11	если	если	SCONJ	_	_	15	mark	_	start_char=1132|end_char=1136
+12	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=1137|end_char=1140
+13	пока	пока	ADV	_	Degree=Pos	15	advmod	_	start_char=1141|end_char=1145
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=1146|end_char=1148
+15	мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	4	advcl	_	start_char=1149|end_char=1152
+16	–	–	PUNCT	_	_	21	punct	_	start_char=1153|end_char=1154
+17	особенно	особенно	ADV	_	Degree=Pos	21	advmod	_	start_char=1155|end_char=1163
+18	пока	пока	SCONJ	_	_	21	mark	_	start_char=1164|end_char=1168
+19	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=1169|end_char=1172
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=1173|end_char=1175
+21	мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	15	conj	_	start_char=1176|end_char=1179
+22	.	.	PUNCT	_	_	3	punct	_	start_char=1179|end_char=1180
+
+# text = Но если – когда – все пройдет успешно, то Доктор не последний во Вселенной повелитель времени.
+# sent_id = 14
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Но	но	CCONJ	_	_	16	cc	_	start_char=1181|end_char=1183
+2	если	если	SCONJ	_	_	7	mark	_	start_char=1184|end_char=1188
+3	–	–	PUNCT	_	_	7	punct	_	start_char=1189|end_char=1190
+4	когда	когда	SCONJ	_	_	7	mark	_	start_char=1191|end_char=1196
+5	–	–	PUNCT	_	_	7	punct	_	start_char=1197|end_char=1198
+6	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	start_char=1199|end_char=1202
+7	пройдет	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=1203|end_char=1210
+8	успешно	успешно	ADV	_	Degree=Pos	7	advmod	_	start_char=1211|end_char=1218
+9	,	,	PUNCT	_	_	7	punct	_	start_char=1218|end_char=1219
+10	то	то	SCONJ	_	_	16	mark	_	start_char=1220|end_char=1222
+11	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=1223|end_char=1229
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1230|end_char=1232
+13	последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=1233|end_char=1242
+14	во	во	ADP	_	_	15	case	_	start_char=1243|end_char=1245
+15	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	start_char=1246|end_char=1255
+16	повелитель	повелитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1256|end_char=1266
+17	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	start_char=1267|end_char=1274
+18	.	.	PUNCT	_	_	16	punct	_	start_char=1274|end_char=1275
+
+# text = Значит, перспективы мои бесконечны.
+# sent_id = 15
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=1276|end_char=1282
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1282|end_char=1283
+3	перспективы	перспектива	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=1284|end_char=1295
+4	мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	3	det	_	start_char=1296|end_char=1299
+5	бесконечны	бесконечный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1300|end_char=1310
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1310|end_char=1311
+
+# text = Приятная, греющая душу мысль…
+# sent_id = 16
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Приятная	приятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=1312|end_char=1320
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1320|end_char=1321
+3	греющая	греть	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	conj	_	start_char=1322|end_char=1329
+4	душу	душа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	start_char=1330|end_char=1334
+5	мысль	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1335|end_char=1340
+6	…	…	PUNCT	_	_	5	punct	_	start_char=1340|end_char=1341
+
+# text = Греющая?
+# sent_id = 17
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Греющая	греющий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=1342|end_char=1349
+2	?	?	PUNCT	_	_	1	punct	_	start_char=1349|end_char=1350
+
+# text = Ах да, это слишком горячее краткоживущее человеческое тело.
+# sent_id = 18
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Ах	ах	INTJ	_	_	9	discourse	_	start_char=1351|end_char=1353
+2	да	да	PART	_	_	9	parataxis	_	start_char=1354|end_char=1356
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1356|end_char=1357
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=1358|end_char=1361
+5	слишком	слишком	ADV	_	Degree=Pos	6	advmod	_	start_char=1362|end_char=1369
+6	горячее	горячее	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=1370|end_char=1377
+7	краткоживущее	краткожить	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	amod	_	start_char=1378|end_char=1391
+8	человеческое	человеческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=1392|end_char=1404
+9	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1405|end_char=1409
+10	.	.	PUNCT	_	_	9	punct	_	start_char=1409|end_char=1410
+
+# text = Долго оно не протянет.
+# sent_id = 19
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Долго	долго	ADV	_	Degree=Pos	4	advmod	_	start_char=1411|end_char=1416
+2	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1417|end_char=1420
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1421|end_char=1423
+4	протянет	протянуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1424|end_char=1432
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1432|end_char=1433
+
+# text = Наверное, таким же бестолковым казался бы человеку организм кролика или еще более мелкого грызуна – с повышенной температурой, неудержимым метаболизмом, пляской гормонов и естественной копрофагией.
+# sent_id = 20
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Наверное	наверное	ADV	_	Degree=Pos	6	parataxis	_	start_char=1434|end_char=1442
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1442|end_char=1443
+3	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	start_char=1444|end_char=1449
+4	же	же	PART	_	_	3	advmod	_	start_char=1450|end_char=1452
+5	бестолковым	бестолковый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	xcomp	_	start_char=1453|end_char=1464
+6	казался	казаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1465|end_char=1472
+7	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=1473|end_char=1475
+8	человеку	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	start_char=1476|end_char=1484
+9	организм	организм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1485|end_char=1493
+10	кролика	кролика	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	start_char=1494|end_char=1501
+11	или	или	CCONJ	_	_	15	cc	_	start_char=1502|end_char=1505
+12	еще	еще	ADV	_	Degree=Pos	13	advmod	_	start_char=1506|end_char=1509
+13	более	более	ADV	_	Degree=Cmp|PronType=Tot	14	advmod	_	start_char=1510|end_char=1515
+14	мелкого	мелкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=1516|end_char=1523
+15	грызуна	грызуна	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	start_char=1524|end_char=1531
+16	–	–	PUNCT	_	_	19	punct	_	start_char=1532|end_char=1533
+17	с	с	ADP	_	_	19	case	_	start_char=1534|end_char=1535
+18	повышенной	повышенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=1536|end_char=1546
+19	температурой	температура	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	parataxis	_	start_char=1547|end_char=1559
+20	,	,	PUNCT	_	_	22	punct	_	start_char=1559|end_char=1560
+21	неудержимым	неудержимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	start_char=1561|end_char=1572
+22	метаболизмом	метаболизм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	conj	_	start_char=1573|end_char=1585
+23	,	,	PUNCT	_	_	24	punct	_	start_char=1585|end_char=1586
+24	пляской	пляска	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	conj	_	start_char=1587|end_char=1594
+25	гормонов	гормон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	start_char=1595|end_char=1603
+26	и	и	CCONJ	_	_	28	cc	_	start_char=1604|end_char=1605
+27	естественной	естественный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	start_char=1606|end_char=1618
+28	копрофагией	копрофагия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	conj	_	start_char=1619|end_char=1630
+29	.	.	PUNCT	_	_	6	punct	_	start_char=1630|end_char=1631
+
+# text = Это в любом случае ненадолго.
+# sent_id = 21
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1632|end_char=1635
+2	в	в	ADP	_	_	4	case	_	start_char=1636|end_char=1637
+3	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	4	det	_	start_char=1638|end_char=1643
+4	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=1644|end_char=1650
+5	ненадолго	ненадолго	ADV	_	Degree=Pos	0	root	_	start_char=1651|end_char=1660
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1660|end_char=1661
+
+# text = По счастью.
+# sent_id = 22
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	По	по	ADP	_	_	2	case	_	start_char=1662|end_char=1664
+2	счастью	счастье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	0	root	_	start_char=1665|end_char=1672
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1672|end_char=1673
+
+# text = Я рассчитываю на успех, а не на то, что это тело раньше развалится на части, не в силах меня выдержать.
+# sent_id = 23
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1674|end_char=1675
+2	рассчитываю	рассчитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1676|end_char=1687
+3	на	на	ADP	_	_	4	case	_	start_char=1688|end_char=1690
+4	успех	успех	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1691|end_char=1696
+5	,	,	PUNCT	_	_	9	punct	_	start_char=1696|end_char=1697
+6	а	а	CCONJ	_	_	9	cc	_	start_char=1698|end_char=1699
+7	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=1700|end_char=1702
+8	на	на	ADP	_	_	9	case	_	start_char=1703|end_char=1705
+9	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	conj	_	start_char=1706|end_char=1708
+10	,	,	PUNCT	_	_	15	punct	_	start_char=1708|end_char=1709
+11	что	что	SCONJ	_	_	15	mark	_	start_char=1710|end_char=1713
+12	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	start_char=1714|end_char=1717
+13	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	start_char=1718|end_char=1722
+14	раньше	раньше	ADV	_	Degree=Cmp	15	advmod	_	start_char=1723|end_char=1729
+15	развалится	развалиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	9	acl	_	start_char=1730|end_char=1740
+16	на	на	ADP	_	_	17	case	_	start_char=1741|end_char=1743
+17	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	start_char=1744|end_char=1749
+18	,	,	PUNCT	_	_	21	punct	_	start_char=1749|end_char=1750
+19	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=1751|end_char=1753
+20	в	в	ADP	_	_	21	case	_	start_char=1754|end_char=1755
+21	силах	сила	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	conj	_	start_char=1756|end_char=1761
+22	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	obj	_	start_char=1762|end_char=1766
+23	выдержать	выдержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	csubj	_	start_char=1767|end_char=1776
+24	.	.	PUNCT	_	_	2	punct	_	start_char=1776|end_char=1777
+
+# text = Но пока я могу держаться и в нем, находя в этой упрямой победе свидетельство своего величия.
+# sent_id = 24
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=1778|end_char=1780
+2	пока	пока	SCONJ	_	_	4	mark	_	start_char=1781|end_char=1785
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1786|end_char=1787
+4	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1788|end_char=1792
+5	держаться	держаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=1793|end_char=1802
+6	и	и	PART	_	_	8	advmod	_	start_char=1803|end_char=1804
+7	в	в	ADP	_	_	8	case	_	start_char=1805|end_char=1806
+8	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=1807|end_char=1810
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1810|end_char=1811
+10	находя	находить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=1812|end_char=1818
+11	в	в	ADP	_	_	14	case	_	start_char=1819|end_char=1820
+12	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	start_char=1821|end_char=1825
+13	упрямой	упрямой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=1826|end_char=1833
+14	победе	победа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	start_char=1834|end_char=1840
+15	свидетельство	свидетельство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	start_char=1841|end_char=1854
+16	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	start_char=1855|end_char=1861
+17	величия	величие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	start_char=1862|end_char=1869
+18	.	.	PUNCT	_	_	4	punct	_	start_char=1869|end_char=1870
+
+# text = От самых высот до самого дна простирается власть воли и разума, заключая в себе бесконечность.
+# sent_id = 25
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	От	от	ADP	_	_	3	case	_	start_char=1871|end_char=1873
+2	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	3	det	_	start_char=1874|end_char=1879
+3	высот	высота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	obl	_	start_char=1880|end_char=1885
+4	до	до	ADP	_	_	6	case	_	start_char=1886|end_char=1888
+5	самого	самый	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Emp	6	det	_	start_char=1889|end_char=1895
+6	дна	дена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	start_char=1896|end_char=1899
+7	простирается	простираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1900|end_char=1912
+8	власть	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=1913|end_char=1919
+9	воли	воля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1920|end_char=1924
+10	и	и	CCONJ	_	_	11	cc	_	start_char=1925|end_char=1926
+11	разума	разума	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	start_char=1927|end_char=1933
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1933|end_char=1934
+13	заключая	заключать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=1935|end_char=1943
+14	в	в	ADP	_	_	15	case	_	start_char=1944|end_char=1945
+15	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	13	obl	_	start_char=1946|end_char=1950
+16	бесконечность	бесконечность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=1951|end_char=1964
+17	.	.	PUNCT	_	_	7	punct	_	start_char=1964|end_char=1965
+
+# text = Бесконечность, что в традициях землян обозначается тем же символом, что восьмерка – опрокинутая, поверженная.
+# sent_id = 26
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Бесконечность	бесконечность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1966|end_char=1979
+2	,	,	PUNCT	_	_	7	punct	_	start_char=1979|end_char=1980
+3	что	что	SCONJ	_	_	7	mark	_	start_char=1981|end_char=1984
+4	в	в	ADP	_	_	5	case	_	start_char=1985|end_char=1986
+5	традициях	традиция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	7	obl	_	start_char=1987|end_char=1996
+6	землян	землян	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	start_char=1997|end_char=2003
+7	обозначается	обозначаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	ccomp	_	start_char=2004|end_char=2016
+8	тем	тот	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=2017|end_char=2020
+9	же	же	PART	_	_	8	advmod	_	start_char=2021|end_char=2023
+10	символом	символ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	xcomp	_	start_char=2024|end_char=2032
+11	,	,	PUNCT	_	_	15	punct	_	start_char=2032|end_char=2033
+12	что	что	SCONJ	_	_	15	mark	_	start_char=2034|end_char=2037
+13	восьмерка	восьмерка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=2038|end_char=2047
+14	–	–	PUNCT	_	_	13	punct	_	start_char=2048|end_char=2049
+15	опрокинутая	опрокинуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	start_char=2050|end_char=2061
+16	,	,	PUNCT	_	_	17	punct	_	start_char=2061|end_char=2062
+17	поверженная	повержить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	conj	_	start_char=2063|end_char=2074
+18	.	.	PUNCT	_	_	1	punct	_	start_char=2074|end_char=2075
+
+# text = Восьмая жизнь Доктора, только начавшаяся, когда он неуклюж, нестабилен и беспомощен как ребенок, и моя бесконечность, когда он падет.
+# sent_id = 27
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Восьмая	восьмой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	2	amod	_	start_char=2076|end_char=2083
+2	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2084|end_char=2089
+3	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=2090|end_char=2097
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2097|end_char=2098
+5	только	только	PART	_	_	6	advmod	_	start_char=2099|end_char=2105
+6	начавшаяся	начаться	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	2	acl	_	start_char=2106|end_char=2116
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2116|end_char=2117
+8	когда	когда	SCONJ	_	_	10	mark	_	start_char=2118|end_char=2123
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=2124|end_char=2126
+10	неуклюж	неуклюжий	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	advcl	_	start_char=2127|end_char=2134
+11	,	,	PUNCT	_	_	10	punct	_	start_char=2134|end_char=2135
+12	нестабилен	нестабильный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	start_char=2136|end_char=2146
+13	и	и	CCONJ	_	_	14	cc	_	start_char=2147|end_char=2148
+14	беспомощен	беспомощин	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	conj	_	start_char=2149|end_char=2159
+15	как	как	SCONJ	_	_	16	case	_	start_char=2160|end_char=2163
+16	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	obl	_	start_char=2164|end_char=2171
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2171|end_char=2172
+18	и	и	CCONJ	_	_	20	cc	_	start_char=2173|end_char=2174
+19	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	start_char=2175|end_char=2178
+20	бесконечность	бесконечность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=2179|end_char=2192
+21	,	,	PUNCT	_	_	24	punct	_	start_char=2192|end_char=2193
+22	когда	когда	SCONJ	_	_	24	mark	_	start_char=2194|end_char=2199
+23	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	start_char=2200|end_char=2202
+24	падет	пасать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	advcl	_	start_char=2203|end_char=2208
+25	.	.	PUNCT	_	_	2	punct	_	start_char=2208|end_char=2209
+
+# text = В городе, сотрясаемом Колебателем Земли Посейдоном, в городе самых точных часов, в вечном грохочущем празднике и каменных джунглях.
+# sent_id = 28
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	В	в	ADP	_	_	2	case	_	start_char=2210|end_char=2211
+2	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=2212|end_char=2218
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2218|end_char=2219
+4	сотрясаемом	сотрясать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	start_char=2220|end_char=2231
+5	Колебателем	колебатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	obl:agent	_	start_char=2232|end_char=2243
+6	Земли	Земля	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	5	nmod	_	start_char=2244|end_char=2249
+7	Посейдоном	Посейдон	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|NameType=Geo|Number=Sing	5	nmod	_	start_char=2250|end_char=2260
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2260|end_char=2261
+9	в	в	ADP	_	_	10	case	_	start_char=2262|end_char=2263
+10	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=2264|end_char=2270
+11	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	12	det	_	start_char=2271|end_char=2276
+12	точных	точный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	start_char=2277|end_char=2283
+13	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	start_char=2284|end_char=2289
+14	,	,	PUNCT	_	_	18	punct	_	start_char=2289|end_char=2290
+15	в	в	ADP	_	_	18	case	_	start_char=2291|end_char=2292
+16	вечном	вечный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=2293|end_char=2299
+17	грохочущем	грохотеть	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	amod	_	start_char=2300|end_char=2310
+18	празднике	праздник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	conj	_	start_char=2311|end_char=2320
+19	и	и	CCONJ	_	_	21	cc	_	start_char=2321|end_char=2322
+20	каменных	каменный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	21	amod	_	start_char=2323|end_char=2331
+21	джунглях	джунгль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	conj	_	start_char=2332|end_char=2340
+22	.	.	PUNCT	_	_	2	punct	_	start_char=2340|end_char=2341
+
+# text = Пора менять Старый Свет на Новый, Лондон на Сан-Франциско, менять эпохи, менять вселенные, менять тела и души, жизнь на смерть, и смерть – на жизнь.
+# sent_id = 29
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2342|end_char=2346
+2	менять	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=2347|end_char=2353
+3	Старый	старый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=2354|end_char=2360
+4	Свет	свет	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	2	obj	_	start_char=2361|end_char=2365
+5	на	на	ADP	_	_	6	case	_	start_char=2366|end_char=2368
+6	Новый	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	obl	_	start_char=2369|end_char=2374
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2374|end_char=2375
+8	Лондон	Лондон	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	6	conj	_	start_char=2376|end_char=2382
+9	на	на	ADP	_	_	10	case	_	start_char=2383|end_char=2385
+10	Сан-Франциско	Сан-Франциско	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	2	obl	_	start_char=2386|end_char=2399
+11	,	,	PUNCT	_	_	12	punct	_	start_char=2399|end_char=2400
+12	менять	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	start_char=2401|end_char=2407
+13	эпохи	эпоха	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	start_char=2408|end_char=2413
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2413|end_char=2414
+15	менять	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	start_char=2415|end_char=2421
+16	вселенные	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	start_char=2422|end_char=2431
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2431|end_char=2432
+18	менять	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	start_char=2433|end_char=2439
+19	тела	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	obj	_	start_char=2440|end_char=2444
+20	и	и	CCONJ	_	_	21	cc	_	start_char=2445|end_char=2446
+21	души	душа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	conj	_	start_char=2447|end_char=2451
+22	,	,	PUNCT	_	_	23	punct	_	start_char=2451|end_char=2452
+23	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	conj	_	start_char=2453|end_char=2458
+24	на	на	ADP	_	_	25	case	_	start_char=2459|end_char=2461
+25	смерть	смерть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	nmod	_	start_char=2462|end_char=2468
+26	,	,	PUNCT	_	_	28	punct	_	start_char=2468|end_char=2469
+27	и	и	CCONJ	_	_	28	cc	_	start_char=2470|end_char=2471
+28	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	start_char=2472|end_char=2478
+29	–	–	PUNCT	_	_	31	punct	_	start_char=2479|end_char=2480
+30	на	на	ADP	_	_	31	case	_	start_char=2481|end_char=2483
+31	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	nmod	_	start_char=2484|end_char=2489
+32	.	.	PUNCT	_	_	1	punct	_	start_char=2489|end_char=2490
+
+# text = Пора!.. 2013
+# sent_id = 30
+# metadata = Название: Астрономическое тысячелетие, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454c1d600000a7f3631d7a4/1/Astronomicheskoe-tysyacheletie
+1	Пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2491|end_char=2495
+2	!..	!..	PUNCT	_	_	1	punct	_	start_char=2495|end_char=2498
+3	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	1	nmod	_	start_char=2500|end_char=2504
+

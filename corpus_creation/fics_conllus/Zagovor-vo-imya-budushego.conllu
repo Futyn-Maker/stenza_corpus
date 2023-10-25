@@ -1,0 +1,2123 @@
+# text = Барбара раздраженно захлопнула тетрадку.
+# sent_id = 0
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=0|end_char=7
+2	раздраженно	раздраженно	ADV	_	Degree=Pos	3	advmod	_	start_char=8|end_char=19
+3	захлопнула	захлопнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=20|end_char=30
+4	тетрадку	тетрадка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=31|end_char=39
+5	.	.	PUNCT	_	_	3	punct	_	start_char=39|end_char=40
+
+# text = – Нет, я положительно не могу больше делать вид, что ничего не случилось!
+# sent_id = 1
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	7	punct	_	start_char=41|end_char=42
+2	Нет	нет	PART	_	Polarity=Neg	7	parataxis	_	start_char=43|end_char=46
+3	,	,	PUNCT	_	_	2	punct	_	start_char=46|end_char=47
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=48|end_char=49
+5	положительно	положительно	ADV	_	Degree=Pos	7	advmod	_	start_char=50|end_char=62
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=63|end_char=65
+7	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=66|end_char=70
+8	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	9	advmod	_	start_char=71|end_char=77
+9	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=78|end_char=84
+10	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=85|end_char=88
+11	,	,	PUNCT	_	_	15	punct	_	start_char=88|end_char=89
+12	что	что	SCONJ	_	_	15	mark	_	start_char=90|end_char=93
+13	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	15	nsubj	_	start_char=94|end_char=100
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=101|end_char=103
+15	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	acl	_	start_char=104|end_char=113
+16	!	!	PUNCT	_	_	7	punct	_	start_char=113|end_char=114
+
+# text = – Что случилось, дорогая? – обеспокоенно поднял голову от проверки тетрадей Йен.
+# sent_id = 2
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=115|end_char=116
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=117|end_char=120
+3	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=121|end_char=130
+4	,	,	PUNCT	_	_	5	punct	_	start_char=130|end_char=131
+5	дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	start_char=132|end_char=139
+6	?	?	PUNCT	_	_	3	punct	_	start_char=139|end_char=140
+7	–	–	PUNCT	_	_	9	punct	_	start_char=141|end_char=142
+8	обеспокоенно	обеспокоенно	ADV	_	Degree=Pos	9	advmod	_	start_char=143|end_char=155
+9	поднял	поднять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=156|end_char=162
+10	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=163|end_char=169
+11	от	от	ADP	_	_	12	case	_	start_char=170|end_char=172
+12	проверки	проверка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=173|end_char=181
+13	тетрадей	тетрадь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	start_char=182|end_char=190
+14	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	13	appos	_	start_char=191|end_char=194
+15	.	.	PUNCT	_	_	3	punct	_	start_char=194|end_char=195
+
+# text = – Больше тебе скажу, я не могу больше делать вид, что ничего не случится!
+# sent_id = 3
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=196|end_char=197
+2	Больше	больше	ADV	_	Degree=Cmp|PronType=Tot	4	advmod	_	start_char=198|end_char=204
+3	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	start_char=205|end_char=209
+4	скажу	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=210|end_char=215
+5	,	,	PUNCT	_	_	8	punct	_	start_char=215|end_char=216
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=217|end_char=218
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=219|end_char=221
+8	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=222|end_char=226
+9	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	10	advmod	_	start_char=227|end_char=233
+10	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=234|end_char=240
+11	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=241|end_char=244
+12	,	,	PUNCT	_	_	16	punct	_	start_char=244|end_char=245
+13	что	что	SCONJ	_	_	16	mark	_	start_char=246|end_char=249
+14	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	16	nsubj	_	start_char=250|end_char=256
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=257|end_char=259
+16	случится	случиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	11	acl	_	start_char=260|end_char=268
+17	!	!	PUNCT	_	_	4	punct	_	start_char=268|end_char=269
+
+# text = – продолжала возмущаться Барбара.
+# sent_id = 4
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=270|end_char=271
+2	продолжала	продолжать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=272|end_char=282
+3	возмущаться	возмущаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=283|end_char=294
+4	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=295|end_char=302
+5	.	.	PUNCT	_	_	2	punct	_	start_char=302|end_char=303
+
+# text = Очень странно было видеть её, всегда выдержанную, такой эмоционально возбуждённой.
+# sent_id = 5
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	start_char=304|end_char=309
+2	странно	странный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=310|end_char=317
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=318|end_char=322
+4	видеть	видеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=323|end_char=329
+5	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=330|end_char=332
+6	,	,	PUNCT	_	_	8	punct	_	start_char=332|end_char=333
+7	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	8	advmod	_	start_char=334|end_char=340
+8	выдержанную	выдержать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	start_char=341|end_char=352
+9	,	,	PUNCT	_	_	12	punct	_	start_char=352|end_char=353
+10	такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	start_char=354|end_char=359
+11	эмоционально	эмоционально	ADV	_	Degree=Pos	12	advmod	_	start_char=360|end_char=372
+12	возбуждённой	возбудить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	conj	_	start_char=373|end_char=385
+13	.	.	PUNCT	_	_	2	punct	_	start_char=385|end_char=386
+
+# text = – А что должно случится? – поинтересовался Йен.
+# sent_id = 6
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=387|end_char=388
+2	А	а	CCONJ	_	_	4	cc	_	start_char=389|end_char=390
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	start_char=391|end_char=394
+4	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=395|end_char=401
+5	случится	случиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	4	xcomp	_	start_char=402|end_char=410
+6	?	?	PUNCT	_	_	4	punct	_	start_char=410|end_char=411
+7	–	–	PUNCT	_	_	8	punct	_	start_char=412|end_char=413
+8	поинтересовался	поинтересоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=414|end_char=429
+9	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=430|end_char=433
+10	.	.	PUNCT	_	_	4	punct	_	start_char=433|end_char=434
+
+# text = – Успокой меня, ты же гороскоп сейчас читала?
+# sent_id = 7
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=435|end_char=436
+2	Успокой	успокать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=437|end_char=444
+3	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=445|end_char=449
+4	,	,	PUNCT	_	_	9	punct	_	start_char=449|end_char=450
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=451|end_char=453
+6	же	же	PART	_	_	5	advmod	_	start_char=454|end_char=456
+7	гороскоп	гороскоп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=457|end_char=465
+8	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=466|end_char=472
+9	читала	читать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=473|end_char=479
+10	?	?	PUNCT	_	_	2	punct	_	start_char=479|end_char=480
+
+# text = – Нет, даже не надейся.
+# sent_id = 8
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	6	punct	_	start_char=481|end_char=482
+2	Нет	нет	PART	_	Polarity=Neg	6	parataxis	_	start_char=483|end_char=486
+3	,	,	PUNCT	_	_	2	punct	_	start_char=486|end_char=487
+4	даже	даже	PART	_	_	6	advmod	_	start_char=488|end_char=492
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=493|end_char=495
+6	надейся	надеяться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=496|end_char=503
+7	.	.	PUNCT	_	_	6	punct	_	start_char=503|end_char=504
+
+# text = Я просматривала эссе по вчерашнему уроку по великим географическим открытиям.
+# sent_id = 9
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=505|end_char=506
+2	просматривала	просматривать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=507|end_char=520
+3	эссе	эссе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=521|end_char=525
+4	по	по	ADP	_	_	6	case	_	start_char=526|end_char=528
+5	вчерашнему	вчерашний	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=529|end_char=539
+6	уроку	урок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	start_char=540|end_char=545
+7	по	по	ADP	_	_	10	case	_	start_char=546|end_char=548
+8	великим	великий	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	amod	_	start_char=549|end_char=556
+9	географическим	географический	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	amod	_	start_char=557|end_char=571
+10	открытиям	открытие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	6	nmod	_	start_char=572|end_char=581
+11	.	.	PUNCT	_	_	2	punct	_	start_char=581|end_char=582
+
+# text = Колумб, Америка, индейцы!
+# sent_id = 10
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Колумб	Колумб	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=583|end_char=589
+2	,	,	PUNCT	_	_	3	punct	_	start_char=589|end_char=590
+3	Америка	Америка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	1	conj	_	start_char=591|end_char=598
+4	,	,	PUNCT	_	_	5	punct	_	start_char=598|end_char=599
+5	индейцы	индеец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	start_char=600|end_char=607
+6	!	!	PUNCT	_	_	1	punct	_	start_char=607|end_char=608
+
+# text = – Барбара выжидающе замолчала, ожидая, что муж продолжит цепочку ассоциаций.
+# sent_id = 11
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=609|end_char=610
+2	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=611|end_char=618
+3	выжидающе	выжидающе	ADV	_	Degree=Pos	4	advmod	_	start_char=619|end_char=628
+4	замолчала	замолчать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=629|end_char=638
+5	,	,	PUNCT	_	_	6	punct	_	start_char=638|end_char=639
+6	ожидая	ожидать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=640|end_char=646
+7	,	,	PUNCT	_	_	10	punct	_	start_char=646|end_char=647
+8	что	что	SCONJ	_	_	10	mark	_	start_char=648|end_char=651
+9	муж	муж	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=652|end_char=655
+10	продолжит	продолжить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=656|end_char=665
+11	цепочку	цепочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=666|end_char=673
+12	ассоциаций	ассоциация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	start_char=674|end_char=684
+13	.	.	PUNCT	_	_	4	punct	_	start_char=684|end_char=685
+
+# text = – Нам грозит неурожай какао-бобов?
+# sent_id = 12
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=686|end_char=687
+2	Нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	iobj	_	start_char=688|end_char=691
+3	грозит	грозить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=692|end_char=698
+4	неурожай	неурожа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=699|end_char=707
+5	какао-бобов	кака--боб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	start_char=708|end_char=719
+6	?	?	PUNCT	_	_	3	punct	_	start_char=719|end_char=720
+
+# text = – сделал предположение он.
+# sent_id = 13
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=721|end_char=722
+2	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=723|end_char=729
+3	предположение	предположение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=730|end_char=743
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=744|end_char=746
+5	.	.	PUNCT	_	_	2	punct	_	start_char=746|end_char=747
+
+# text = – Нет же!
+# sent_id = 14
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=748|end_char=749
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=750|end_char=753
+3	же	же	PART	_	_	2	advmod	_	start_char=754|end_char=756
+4	!	!	PUNCT	_	_	2	punct	_	start_char=756|end_char=757
+
+# text = Скаро, далеки, будущее!
+# sent_id = 15
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Скаро	скарый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=758|end_char=763
+2	,	,	PUNCT	_	_	3	punct	_	start_char=763|end_char=764
+3	далеки	далекий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	1	conj	_	start_char=765|end_char=771
+4	,	,	PUNCT	_	_	5	punct	_	start_char=771|end_char=772
+5	будущее	будущее	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	start_char=773|end_char=780
+6	!	!	PUNCT	_	_	1	punct	_	start_char=780|end_char=781
+
+# text = – она поднялась, глаза её сияли грозным пламенем, будто очи грозной и милосердной богини Итаксы.
+# sent_id = 16
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=782|end_char=783
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=784|end_char=787
+3	поднялась	подняться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=788|end_char=797
+4	,	,	PUNCT	_	_	7	punct	_	start_char=797|end_char=798
+5	глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=799|end_char=804
+6	её	ее	DET	_	Poss=Yes|PronType=Prs	5	det	_	start_char=805|end_char=807
+7	сияли	сиять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=808|end_char=813
+8	грозным	грозный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=814|end_char=821
+9	пламенем	пламень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	iobj	_	start_char=822|end_char=830
+10	,	,	PUNCT	_	_	12	punct	_	start_char=830|end_char=831
+11	будто	будто	SCONJ	_	_	12	case	_	start_char=832|end_char=837
+12	очи	око	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	advcl	_	start_char=838|end_char=841
+13	грозной	грозный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=842|end_char=849
+14	и	и	CCONJ	_	_	15	cc	_	start_char=850|end_char=851
+15	милосердной	милосердный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	start_char=852|end_char=863
+16	богини	богиня	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=864|end_char=870
+17	Итаксы	Итакс	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	16	nmod	_	start_char=871|end_char=877
+18	.	.	PUNCT	_	_	3	punct	_	start_char=877|end_char=878
+
+# text = – А что с далеками не так?
+# sent_id = 17
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	7	punct	_	start_char=879|end_char=880
+2	А	а	CCONJ	_	_	7	cc	_	start_char=881|end_char=882
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	nsubj	_	start_char=883|end_char=886
+4	с	с	ADP	_	_	5	case	_	start_char=887|end_char=888
+5	далеками	далек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	start_char=889|end_char=897
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=898|end_char=900
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=901|end_char=904
+8	?	?	PUNCT	_	_	7	punct	_	start_char=904|end_char=905
+
+# text = – Йен попытался успокоить жену.
+# sent_id = 18
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=906|end_char=907
+2	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=908|end_char=911
+3	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=912|end_char=921
+4	успокоить	успокоить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=922|end_char=931
+5	жену	жена	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=932|end_char=936
+6	.	.	PUNCT	_	_	3	punct	_	start_char=936|end_char=937
+
+# text = – По-моему, с ними всё прекрасно, они где-то там...
+# sent_id = 19
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	7	punct	_	start_char=938|end_char=939
+2	По-моему	по-моему	ADV	_	Degree=Pos	7	parataxis	_	start_char=940|end_char=948
+3	,	,	PUNCT	_	_	2	punct	_	start_char=948|end_char=949
+4	с	с	ADP	_	_	5	case	_	start_char=950|end_char=951
+5	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	7	obl	_	start_char=952|end_char=956
+6	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	start_char=957|end_char=960
+7	прекрасно	прекрасный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=961|end_char=970
+8	,	,	PUNCT	_	_	11	punct	_	start_char=970|end_char=971
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=972|end_char=975
+10	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	11	advmod	_	start_char=976|end_char=982
+11	там	там	ADV	_	Degree=Pos|PronType=Dem	7	conj	_	start_char=983|end_char=986
+12	...	...	PUNCT	_	_	7	punct	_	start_char=986|end_char=989
+
+# text = – Осталось меньше ста лет!
+# sent_id = 20
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=990|end_char=991
+2	Осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=992|end_char=1000
+3	меньше	мало	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=1001|end_char=1007
+4	ста	ста	NUM	_	Case=Gen|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=1008|end_char=1011
+5	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	start_char=1012|end_char=1015
+6	!	!	PUNCT	_	_	2	punct	_	start_char=1015|end_char=1016
+
+# text = Подумай, Йен, сто лет – и они завоюют Землю, разграбят наши ресурсы, разгромят Лондон!
+# sent_id = 21
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Подумай	подумать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1017|end_char=1024
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1024|end_char=1025
+3	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	vocative	_	start_char=1026|end_char=1029
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1029|end_char=1030
+5	сто	сто	NUM	_	Case=Nom|NumForm=Word|NumType=Card	6	nummod:gov	_	start_char=1031|end_char=1034
+6	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	conj	_	start_char=1035|end_char=1038
+7	–	–	PUNCT	_	_	10	punct	_	start_char=1039|end_char=1040
+8	и	и	CCONJ	_	_	10	cc	_	start_char=1041|end_char=1042
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=1043|end_char=1046
+10	завоюют	завоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1047|end_char=1054
+11	Землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=1055|end_char=1060
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1060|end_char=1061
+13	разграбят	разграбить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1062|end_char=1071
+14	наши	наш	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	15	det	_	start_char=1072|end_char=1076
+15	ресурсы	ресурс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	start_char=1077|end_char=1084
+16	,	,	PUNCT	_	_	17	punct	_	start_char=1084|end_char=1085
+17	разгромят	разгромить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	start_char=1086|end_char=1095
+18	Лондон	Лондон	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	17	obj	_	start_char=1096|end_char=1102
+19	!	!	PUNCT	_	_	1	punct	_	start_char=1102|end_char=1103
+
+# text = Мы должны это предотвратить!
+# sent_id = 22
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=1104|end_char=1106
+2	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1107|end_char=1113
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	start_char=1114|end_char=1117
+4	предотвратить	предотвратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1118|end_char=1131
+5	!	!	PUNCT	_	_	2	punct	_	start_char=1131|end_char=1132
+
+# text = – Мы не проживём столько, – заметил Йен.
+# sent_id = 23
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1133|end_char=1134
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=1135|end_char=1137
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1138|end_char=1140
+4	проживём	прожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1141|end_char=1149
+5	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	obj	_	start_char=1150|end_char=1157
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1157|end_char=1158
+7	–	–	PUNCT	_	_	8	punct	_	start_char=1159|end_char=1160
+8	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1161|end_char=1168
+9	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=1169|end_char=1172
+10	.	.	PUNCT	_	_	4	punct	_	start_char=1172|end_char=1173
+
+# text = – Не ради нас, ради будущего человечества!
+# sent_id = 24
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1174|end_char=1175
+2	Не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1176|end_char=1178
+3	ради	ради	ADP	_	_	4	case	_	start_char=1179|end_char=1183
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=1184|end_char=1187
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1187|end_char=1188
+6	ради	ради	ADP	_	_	8	case	_	start_char=1189|end_char=1193
+7	будущего	будущее	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=1194|end_char=1202
+8	человечества	человечество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	start_char=1203|end_char=1215
+9	!	!	PUNCT	_	_	4	punct	_	start_char=1215|end_char=1216
+
+# text = Уже сейчас пора начать предпринимать шаги, делать что-то, чтобы в будущем мы, человечество, могли оказать достойное сопротивление этим далекам!
+# sent_id = 25
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Уже	уже	ADV	_	Degree=Pos	2	advmod	_	start_char=1217|end_char=1220
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1221|end_char=1227
+3	пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1228|end_char=1232
+4	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=1233|end_char=1239
+5	предпринимать	предпринимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1240|end_char=1253
+6	шаги	шаг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=1254|end_char=1258
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1258|end_char=1259
+8	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	conj	_	start_char=1260|end_char=1266
+9	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	8	obj	_	start_char=1267|end_char=1273
+10	,	,	PUNCT	_	_	18	punct	_	start_char=1273|end_char=1274
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	18	mark	_	start_char=1275|end_char=1280
+12	в	в	ADP	_	_	13	case	_	start_char=1281|end_char=1282
+13	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	start_char=1283|end_char=1290
+14	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	start_char=1291|end_char=1293
+15	,	,	PUNCT	_	_	16	punct	_	start_char=1293|end_char=1294
+16	человечество	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	appos	_	start_char=1295|end_char=1307
+17	,	,	PUNCT	_	_	16	punct	_	start_char=1307|end_char=1308
+18	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	start_char=1309|end_char=1314
+19	оказать	оказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	xcomp	_	start_char=1315|end_char=1322
+20	достойное	достойный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	start_char=1323|end_char=1332
+21	сопротивление	сопротивление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obj	_	start_char=1333|end_char=1346
+22	этим	этот	DET	_	Case=Dat|Number=Plur|PronType=Dem	23	det	_	start_char=1347|end_char=1351
+23	далекам	далек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	19	iobj	_	start_char=1352|end_char=1359
+24	!	!	PUNCT	_	_	3	punct	_	start_char=1359|end_char=1360
+
+# text = И почему я не подумала об этом сразу?
+# sent_id = 26
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	И	и	CCONJ	_	_	5	cc	_	start_char=1361|end_char=1362
+2	почему	почему	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=1363|end_char=1369
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=1370|end_char=1371
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1372|end_char=1374
+5	подумала	подумать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1375|end_char=1383
+6	об	об	ADP	_	_	7	case	_	start_char=1384|end_char=1386
+7	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=1387|end_char=1391
+8	сразу	сразу	ADV	_	Degree=Pos	5	advmod	_	start_char=1392|end_char=1397
+9	?	?	PUNCT	_	_	5	punct	_	start_char=1397|end_char=1398
+
+# text = Или хотя бы в прошлом году?..
+# sent_id = 27
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Или	или	CCONJ	_	_	6	cc	_	start_char=1399|end_char=1402
+2	хотя	хотя	PART	_	_	6	advmod	_	start_char=1403|end_char=1407
+3	бы	бы	PART	_	_	2	fixed	_	start_char=1408|end_char=1410
+4	в	в	ADP	_	_	6	case	_	start_char=1411|end_char=1412
+5	прошлом	прошлый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1413|end_char=1420
+6	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=1421|end_char=1425
+7	?..	?..	PUNCT	_	_	6	punct	_	start_char=1425|end_char=1428
+
+# text = – Барбара недоуменно посмотрела на эссе, сдаваемые из года в год согласно программе.
+# sent_id = 28
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1429|end_char=1430
+2	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1431|end_char=1438
+3	недоуменно	недоуменно	ADV	_	Degree=Pos	4	advmod	_	start_char=1439|end_char=1449
+4	посмотрела	посмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1450|end_char=1460
+5	на	на	ADP	_	_	6	case	_	start_char=1461|end_char=1463
+6	эссе	эссе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obl	_	start_char=1464|end_char=1468
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1468|end_char=1469
+8	сдаваемые	сдавать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	start_char=1470|end_char=1479
+9	из	из	ADP	_	_	10	case	_	start_char=1480|end_char=1482
+10	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	start_char=1483|end_char=1487
+11	в	в	ADP	_	_	12	case	_	start_char=1488|end_char=1489
+12	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=1490|end_char=1493
+13	согласно	согласно	ADP	_	_	14	case	_	start_char=1494|end_char=1502
+14	программе	программа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	start_char=1503|end_char=1512
+15	.	.	PUNCT	_	_	4	punct	_	start_char=1512|end_char=1513
+
+# text = – Но, дорогая, если продолжать ассоциативный ряд с индейцами, точнее, ацтеками, то Доктор сказал, что в историю вмешиваться нельзя.
+# sent_id = 29
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	19	punct	_	start_char=1514|end_char=1515
+2	Но	но	CCONJ	_	_	19	cc	_	start_char=1516|end_char=1518
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1518|end_char=1519
+4	дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	advcl	_	start_char=1520|end_char=1527
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1527|end_char=1528
+6	если	если	SCONJ	_	_	7	mark	_	start_char=1529|end_char=1533
+7	продолжать	продолжать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	advcl	_	start_char=1534|end_char=1544
+8	ассоциативный	ассоциативный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1545|end_char=1558
+9	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=1559|end_char=1562
+10	с	с	ADP	_	_	11	case	_	start_char=1563|end_char=1564
+11	индейцами	индеец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	9	nmod	_	start_char=1565|end_char=1574
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1574|end_char=1575
+13	точнее	точнее	ADV	_	Degree=Cmp	15	advmod	_	start_char=1576|end_char=1582
+14	,	,	PUNCT	_	_	13	punct	_	start_char=1582|end_char=1583
+15	ацтеками	ацтека	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	conj	_	start_char=1584|end_char=1592
+16	,	,	PUNCT	_	_	7	punct	_	start_char=1592|end_char=1593
+17	то	то	SCONJ	_	_	19	mark	_	start_char=1594|end_char=1596
+18	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=1597|end_char=1603
+19	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1604|end_char=1610
+20	,	,	PUNCT	_	_	25	punct	_	start_char=1610|end_char=1611
+21	что	что	SCONJ	_	_	25	mark	_	start_char=1612|end_char=1615
+22	в	в	ADP	_	_	23	case	_	start_char=1616|end_char=1617
+23	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	obl	_	start_char=1618|end_char=1625
+24	вмешиваться	вмешиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	25	csubj	_	start_char=1626|end_char=1637
+25	нельзя	нельзя	VERB	_	Polarity=Neg	19	ccomp	_	start_char=1638|end_char=1644
+26	.	.	PUNCT	_	_	19	punct	_	start_char=1644|end_char=1645
+
+# text = И, если позволишь напомнить, у тебя тогда ничего и не получилось.
+# sent_id = 30
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	И	и	CCONJ	_	_	13	cc	_	start_char=1646|end_char=1647
+2	,	,	PUNCT	_	_	4	punct	_	start_char=1647|end_char=1648
+3	если	если	SCONJ	_	_	4	mark	_	start_char=1649|end_char=1653
+4	позволишь	позволить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=1654|end_char=1663
+5	напомнить	напомнить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1664|end_char=1673
+6	,	,	PUNCT	_	_	4	punct	_	start_char=1673|end_char=1674
+7	у	у	ADP	_	_	8	case	_	start_char=1675|end_char=1676
+8	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	13	obl	_	start_char=1677|end_char=1681
+9	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=1682|end_char=1687
+10	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	13	nsubj	_	start_char=1688|end_char=1694
+11	и	и	PART	_	_	13	advmod	_	start_char=1695|end_char=1696
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1697|end_char=1699
+13	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1700|end_char=1710
+14	.	.	PUNCT	_	_	13	punct	_	start_char=1710|end_char=1711
+
+# text = – У меня всё получится!
+# sent_id = 31
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1712|end_char=1713
+2	У	у	ADP	_	_	3	case	_	start_char=1714|end_char=1715
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=1716|end_char=1720
+4	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	nsubj	_	start_char=1721|end_char=1724
+5	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1725|end_char=1734
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1734|end_char=1735
+
+# text = У нас всё получится! – воодушевлению Барбары не было предела.
+# sent_id = 32
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	У	у	ADP	_	_	2	case	_	start_char=1736|end_char=1737
+2	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	obl	_	start_char=1738|end_char=1741
+3	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=1742|end_char=1745
+4	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1746|end_char=1755
+5	!	!	PUNCT	_	_	4	punct	_	start_char=1755|end_char=1756
+6	–	–	PUNCT	_	_	10	punct	_	start_char=1757|end_char=1758
+7	воодушевлению	воодушевление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	iobj	_	start_char=1759|end_char=1772
+8	Барбары	Барбара	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Giv|Number=Sing	7	nmod	_	start_char=1773|end_char=1780
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1781|end_char=1783
+10	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1784|end_char=1788
+11	предела	предел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nsubj	_	start_char=1789|end_char=1796
+12	.	.	PUNCT	_	_	4	punct	_	start_char=1796|end_char=1797
+
+# text = – Тогда у меня просто не было опыта, и вокруг была чужеродная и агрессивная среда!
+# sent_id = 33
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1798|end_char=1799
+2	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1800|end_char=1805
+3	у	у	ADP	_	_	4	case	_	start_char=1806|end_char=1807
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=1808|end_char=1812
+5	просто	просто	PART	_	_	7	advmod	_	start_char=1813|end_char=1819
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1820|end_char=1822
+7	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1823|end_char=1827
+8	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1828|end_char=1833
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1833|end_char=1834
+10	и	и	CCONJ	_	_	11	cc	_	start_char=1835|end_char=1836
+11	вокруг	вокруг	ADV	_	Degree=Pos	7	conj	_	start_char=1837|end_char=1843
+12	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1844|end_char=1848
+13	чужеродная	чужеродный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=1849|end_char=1859
+14	и	и	CCONJ	_	_	15	cc	_	start_char=1860|end_char=1861
+15	агрессивная	агрессивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	start_char=1862|end_char=1873
+16	среда	среда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=1874|end_char=1879
+17	!	!	PUNCT	_	_	7	punct	_	start_char=1879|end_char=1880
+
+# text = А теперь я знаю, как!
+# sent_id = 34
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	А	а	CCONJ	_	_	4	cc	_	start_char=1881|end_char=1882
+2	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=1883|end_char=1889
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1890|end_char=1891
+4	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1892|end_char=1896
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1896|end_char=1897
+6	как	как	ADV	_	Degree=Pos|PronType=Rel	4	advmod	_	start_char=1898|end_char=1901
+7	!	!	PUNCT	_	_	4	punct	_	start_char=1901|end_char=1902
+
+# text = Я же была в будущем, я столько всего повидала, я могу и обязана вмешаться в историю, чтобы она не пошла по пути, который едва не привёл к гибели человеческой цивилизации!
+# sent_id = 35
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=1903|end_char=1904
+2	же	же	PART	_	_	1	advmod	_	start_char=1905|end_char=1907
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=1908|end_char=1912
+4	в	в	ADP	_	_	5	case	_	start_char=1913|end_char=1914
+5	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=1915|end_char=1922
+6	,	,	PUNCT	_	_	10	punct	_	start_char=1922|end_char=1923
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=1924|end_char=1925
+8	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	9	nummod:gov	_	start_char=1926|end_char=1933
+9	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	10	obl	_	start_char=1934|end_char=1939
+10	повидала	повидать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=1940|end_char=1948
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1948|end_char=1949
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=1950|end_char=1951
+13	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	start_char=1952|end_char=1956
+14	и	и	CCONJ	_	_	15	cc	_	start_char=1957|end_char=1958
+15	обязана	обязанный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	conj	_	start_char=1959|end_char=1966
+16	вмешаться	вмешаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	15	xcomp	_	start_char=1967|end_char=1976
+17	в	в	ADP	_	_	18	case	_	start_char=1977|end_char=1978
+18	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	start_char=1979|end_char=1986
+19	,	,	PUNCT	_	_	23	punct	_	start_char=1986|end_char=1987
+20	чтобы	чтобы	SCONJ	_	Mood=Cnd	23	mark	_	start_char=1988|end_char=1993
+21	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=1994|end_char=1997
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=1998|end_char=2000
+23	пошла	пойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=2001|end_char=2006
+24	по	по	ADP	_	_	25	case	_	start_char=2007|end_char=2009
+25	пути	путь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	23	obl	_	start_char=2010|end_char=2014
+26	,	,	PUNCT	_	_	30	punct	_	start_char=2014|end_char=2015
+27	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	30	nsubj	_	start_char=2016|end_char=2023
+28	едва	едва	ADV	_	Degree=Pos	30	advmod	_	start_char=2024|end_char=2028
+29	не	не	PART	_	Polarity=Neg	30	advmod	_	start_char=2029|end_char=2031
+30	привёл	привести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	acl:relcl	_	start_char=2032|end_char=2038
+31	к	к	ADP	_	_	32	case	_	start_char=2039|end_char=2040
+32	гибели	гибель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	30	obl	_	start_char=2041|end_char=2047
+33	человеческой	человеческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	start_char=2048|end_char=2060
+34	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	start_char=2061|end_char=2072
+35	!	!	PUNCT	_	_	5	punct	_	start_char=2072|end_char=2073
+
+# text = Высшее предназначение историков – изучать прошлое, чтобы делать из его ошибок выводы, которые не должны повториться в будущем.
+# sent_id = 36
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Высшее	высший	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	2	amod	_	start_char=2074|end_char=2080
+2	предназначение	предназначение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=2081|end_char=2095
+3	историков	историк	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=2096|end_char=2105
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2106|end_char=2107
+5	изучать	изучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2108|end_char=2115
+6	прошлое	прошлое	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=2116|end_char=2123
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2123|end_char=2124
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	9	mark	_	start_char=2125|end_char=2130
+9	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	advcl	_	start_char=2131|end_char=2137
+10	из	из	ADP	_	_	12	case	_	start_char=2138|end_char=2140
+11	его	его	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=2141|end_char=2144
+12	ошибок	ошибка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	start_char=2145|end_char=2151
+13	выводы	вывод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obj	_	start_char=2152|end_char=2158
+14	,	,	PUNCT	_	_	17	punct	_	start_char=2158|end_char=2159
+15	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	17	nsubj	_	start_char=2160|end_char=2167
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=2168|end_char=2170
+17	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	13	acl:relcl	_	start_char=2171|end_char=2177
+18	повториться	повториться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	17	xcomp	_	start_char=2178|end_char=2189
+19	в	в	ADP	_	_	20	case	_	start_char=2190|end_char=2191
+20	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	start_char=2192|end_char=2199
+21	.	.	PUNCT	_	_	5	punct	_	start_char=2199|end_char=2200
+
+# text = У меня же уникальная ситуация, я видела будущее, которое не должно случиться, и у меня есть шанс его предотвратить!
+# sent_id = 37
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	У	у	ADP	_	_	2	case	_	start_char=2201|end_char=2202
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=2203|end_char=2207
+3	же	же	PART	_	_	2	advmod	_	start_char=2208|end_char=2210
+4	уникальная	уникальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=2211|end_char=2221
+5	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=2222|end_char=2230
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2230|end_char=2231
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=2232|end_char=2233
+8	видела	видеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2234|end_char=2240
+9	будущее	будущее	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=2241|end_char=2248
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2248|end_char=2249
+11	которое	который	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	start_char=2250|end_char=2257
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=2258|end_char=2260
+13	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	acl:relcl	_	start_char=2261|end_char=2267
+14	случиться	случиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	13	xcomp	_	start_char=2268|end_char=2277
+15	,	,	PUNCT	_	_	19	punct	_	start_char=2277|end_char=2278
+16	и	и	CCONJ	_	_	19	cc	_	start_char=2279|end_char=2280
+17	у	у	ADP	_	_	18	case	_	start_char=2281|end_char=2282
+18	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	obl	_	start_char=2283|end_char=2287
+19	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2288|end_char=2292
+20	шанс	шанс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=2293|end_char=2297
+21	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=2298|end_char=2301
+22	предотвратить	предотвратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	acl	_	start_char=2302|end_char=2315
+23	!	!	PUNCT	_	_	2	punct	_	start_char=2315|end_char=2316
+
+# text = И я сделаю это!
+# sent_id = 38
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	И	и	CCONJ	_	_	3	cc	_	start_char=2317|end_char=2318
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2319|end_char=2320
+3	сделаю	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2321|end_char=2327
+4	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=2328|end_char=2331
+5	!	!	PUNCT	_	_	3	punct	_	start_char=2331|end_char=2332
+
+# text = Йен тяжело вдохнул.
+# sent_id = 39
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=2333|end_char=2336
+2	тяжело	тяжело	ADV	_	Degree=Pos	3	advmod	_	start_char=2337|end_char=2343
+3	вдохнул	вдохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2344|end_char=2351
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2351|end_char=2352
+
+# text = – Что, ты против? – свела брови Барбара.
+# sent_id = 40
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2353|end_char=2354
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	start_char=2355|end_char=2358
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2358|end_char=2359
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2360|end_char=2362
+5	против	против	VERB	_	_	0	root	_	start_char=2363|end_char=2369
+6	?	?	PUNCT	_	_	5	punct	_	start_char=2369|end_char=2370
+7	–	–	PUNCT	_	_	8	punct	_	start_char=2371|end_char=2372
+8	свела	свести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2373|end_char=2378
+9	брови	бровь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=2379|end_char=2384
+10	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	9	appos	_	start_char=2385|end_char=2392
+11	.	.	PUNCT	_	_	2	punct	_	start_char=2392|end_char=2393
+
+# text = – Нет, дорогая, конечно, нет.
+# sent_id = 41
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2394|end_char=2395
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2396|end_char=2399
+3	,	,	PUNCT	_	_	8	punct	_	start_char=2399|end_char=2400
+4	дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nsubj	_	start_char=2401|end_char=2408
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2408|end_char=2409
+6	конечно	конечно	ADV	_	Degree=Pos	8	parataxis	_	start_char=2410|end_char=2417
+7	,	,	PUNCT	_	_	6	punct	_	start_char=2417|end_char=2418
+8	нет	нет	VERB	_	Polarity=Neg	2	conj	_	start_char=2419|end_char=2422
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2422|end_char=2423
+
+# text = Раз уж ты что-то решила, и мне не удаётся тебя переубедить, значит, я буду с тобой до конца.
+# sent_id = 42
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Раз	раз	SCONJ	_	_	5	mark	_	start_char=2424|end_char=2427
+2	уж	уж	PART	_	_	5	advmod	_	start_char=2428|end_char=2430
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2431|end_char=2433
+4	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	obj	_	start_char=2434|end_char=2440
+5	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2441|end_char=2447
+6	,	,	PUNCT	_	_	10	punct	_	start_char=2447|end_char=2448
+7	и	и	CCONJ	_	_	10	cc	_	start_char=2449|end_char=2450
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	iobj	_	start_char=2451|end_char=2454
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=2455|end_char=2457
+10	удаётся	удаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2458|end_char=2465
+11	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	12	obj	_	start_char=2466|end_char=2470
+12	переубедить	переубедить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=2471|end_char=2482
+13	,	,	PUNCT	_	_	21	punct	_	start_char=2482|end_char=2483
+14	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=2484|end_char=2490
+15	,	,	PUNCT	_	_	14	punct	_	start_char=2490|end_char=2491
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=2492|end_char=2493
+17	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	19	cop	_	start_char=2494|end_char=2498
+18	с	с	ADP	_	_	19	case	_	start_char=2499|end_char=2500
+19	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	21	obl	_	start_char=2501|end_char=2506
+20	до	до	ADP	_	_	21	case	_	start_char=2507|end_char=2509
+21	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	start_char=2510|end_char=2515
+22	.	.	PUNCT	_	_	5	punct	_	start_char=2515|end_char=2516
+
+# text = Принести чаю?
+# sent_id = 43
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Принести	принести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=2517|end_char=2525
+2	чаю	чай	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	start_char=2526|end_char=2529
+3	?	?	PUNCT	_	_	1	punct	_	start_char=2529|end_char=2530
+
+# text = – Да, пожалуй.
+# sent_id = 44
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2531|end_char=2532
+2	Да	да	PART	_	_	0	root	_	start_char=2533|end_char=2535
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2535|end_char=2536
+4	пожалуй	пожалуй	ADV	_	Degree=Pos	2	parataxis	_	start_char=2537|end_char=2544
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2544|end_char=2545
+
+# text = Йен вышел на кухню, пробыл там какое-то время и вернулся с подносом с тремя чашками.
+# sent_id = 45
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2546|end_char=2549
+2	вышел	выйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2550|end_char=2555
+3	на	на	ADP	_	_	4	case	_	start_char=2556|end_char=2558
+4	кухню	кухня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=2559|end_char=2564
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2564|end_char=2565
+6	пробыл	пробыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2566|end_char=2572
+7	там	там	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2573|end_char=2576
+8	какое-то	какой-то	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	9	det	_	start_char=2577|end_char=2585
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	start_char=2586|end_char=2591
+10	и	и	CCONJ	_	_	11	cc	_	start_char=2592|end_char=2593
+11	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2594|end_char=2602
+12	с	с	ADP	_	_	13	case	_	start_char=2603|end_char=2604
+13	подносом	поднос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	start_char=2605|end_char=2613
+14	с	с	ADP	_	_	16	case	_	start_char=2614|end_char=2615
+15	тремя	три	NUM	_	Case=Ins|NumForm=Word|NumType=Card	16	nummod	_	start_char=2616|end_char=2621
+16	чашками	чашка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	obl	_	start_char=2622|end_char=2629
+17	.	.	PUNCT	_	_	2	punct	_	start_char=2629|end_char=2630
+
+# text = – А третья кому? – удивилась Барбара.
+# sent_id = 46
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2631|end_char=2632
+2	А	а	CCONJ	_	_	4	cc	_	start_char=2633|end_char=2634
+3	третья	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	4	amod	_	start_char=2635|end_char=2641
+4	кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=2642|end_char=2646
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2646|end_char=2647
+6	–	–	PUNCT	_	_	7	punct	_	start_char=2648|end_char=2649
+7	удивилась	удивиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2650|end_char=2659
+8	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	start_char=2660|end_char=2667
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2667|end_char=2668
+
+# text = – Я забыл предупредить, сегодня должен зайти один мой... знакомый с ещё доучительских времен.
+# sent_id = 47
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2669|end_char=2670
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2671|end_char=2672
+3	забыл	забыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2673|end_char=2678
+4	предупредить	предупредить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2679|end_char=2691
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2691|end_char=2692
+6	сегодня	сегодня	ADV	_	Degree=Pos	7	advmod	_	start_char=2693|end_char=2700
+7	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	conj	_	start_char=2701|end_char=2707
+8	зайти	зайти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=2708|end_char=2713
+9	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	start_char=2714|end_char=2718
+10	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=2719|end_char=2722
+11	...	...	PUNCT	_	_	12	punct	_	start_char=2722|end_char=2725
+12	знакомый	знакомый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	parataxis	_	start_char=2726|end_char=2734
+13	с	с	ADP	_	_	16	case	_	start_char=2735|end_char=2736
+14	ещё	еще	ADV	_	Degree=Pos	15	advmod	_	start_char=2737|end_char=2740
+15	доучительских	доучительский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	start_char=2741|end_char=2754
+16	времен	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	obl	_	start_char=2755|end_char=2761
+17	.	.	PUNCT	_	_	3	punct	_	start_char=2761|end_char=2762
+
+# text = Не беспокойся, дорогая, он всего на пару минут, разве что чай с нами выпьет.
+# sent_id = 48
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=2763|end_char=2765
+2	беспокойся	беспокоиться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2766|end_char=2776
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2776|end_char=2777
+4	дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=2778|end_char=2785
+5	,	,	PUNCT	_	_	9	punct	_	start_char=2785|end_char=2786
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=2787|end_char=2789
+7	всего	всего	PART	_	_	9	advmod	_	start_char=2790|end_char=2795
+8	на	на	ADP	_	_	9	case	_	start_char=2796|end_char=2798
+9	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	conj	_	start_char=2799|end_char=2803
+10	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	start_char=2804|end_char=2809
+11	,	,	PUNCT	_	_	17	punct	_	start_char=2809|end_char=2810
+12	разве	разве	PART	_	_	17	advmod	_	start_char=2811|end_char=2816
+13	что	что	SCONJ	_	_	12	fixed	_	start_char=2817|end_char=2820
+14	чай	чай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	start_char=2821|end_char=2824
+15	с	с	ADP	_	_	16	case	_	start_char=2825|end_char=2826
+16	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	17	obl	_	start_char=2827|end_char=2831
+17	выпьет	выпить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2832|end_char=2838
+18	.	.	PUNCT	_	_	2	punct	_	start_char=2838|end_char=2839
+
+# text = – А, ну хорошо, если ненадолго.
+# sent_id = 49
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2840|end_char=2841
+2	А	а	CCONJ	_	_	5	cc	_	start_char=2842|end_char=2843
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2843|end_char=2844
+4	ну	ну	PART	_	_	5	discourse	_	start_char=2845|end_char=2847
+5	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2848|end_char=2854
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2854|end_char=2855
+7	если	если	SCONJ	_	_	8	mark	_	start_char=2856|end_char=2860
+8	ненадолго	ненадолго	ADV	_	Degree=Pos	5	advcl	_	start_char=2861|end_char=2870
+9	.	.	PUNCT	_	_	5	punct	_	start_char=2870|end_char=2871
+
+# text = Знаешь, что я думаю сделать?
+# sent_id = 50
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2872|end_char=2878
+2	,	,	PUNCT	_	_	5	punct	_	start_char=2878|end_char=2879
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	_	start_char=2880|end_char=2883
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2884|end_char=2885
+5	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	start_char=2886|end_char=2891
+6	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=2892|end_char=2899
+7	?	?	PUNCT	_	_	1	punct	_	start_char=2899|end_char=2900
+
+# text = – Нет, но ты мне это сейчас расскажешь, – Йен начал разливать чай.
+# sent_id = 51
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2901|end_char=2902
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2903|end_char=2906
+3	,	,	PUNCT	_	_	9	punct	_	start_char=2906|end_char=2907
+4	но	но	CCONJ	_	_	9	cc	_	start_char=2908|end_char=2910
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=2911|end_char=2913
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	start_char=2914|end_char=2917
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	start_char=2918|end_char=2921
+8	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=2922|end_char=2928
+9	расскажешь	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2929|end_char=2939
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2939|end_char=2940
+11	–	–	PUNCT	_	_	13	punct	_	start_char=2941|end_char=2942
+12	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	13	nsubj	_	start_char=2943|end_char=2946
+13	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2947|end_char=2952
+14	разливать	разливать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=2953|end_char=2962
+15	чай	чай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	start_char=2963|end_char=2966
+16	.	.	PUNCT	_	_	2	punct	_	start_char=2966|end_char=2967
+
+# text = – Да, откуда ты знаешь?
+# sent_id = 52
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2968|end_char=2969
+2	Да	да	PART	_	_	6	parataxis	_	start_char=2970|end_char=2972
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2972|end_char=2973
+4	откуда	откуда	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=2974|end_char=2980
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=2981|end_char=2983
+6	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2984|end_char=2990
+7	?	?	PUNCT	_	_	6	punct	_	start_char=2990|end_char=2991
+
+# text = – Я предположил.
+# sent_id = 53
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2992|end_char=2993
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2994|end_char=2995
+3	предположил	предположить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2996|end_char=3007
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3007|end_char=3008
+
+# text = Это всего лишь предположение.
+# sent_id = 54
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=3009|end_char=3012
+2	всего	всего	PART	_	_	3	advmod	_	start_char=3013|end_char=3018
+3	лишь	лишь	PART	_	_	4	advmod	_	start_char=3019|end_char=3023
+4	предположение	предположение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3024|end_char=3037
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3037|end_char=3038
+
+# text = Но я тебя внимательно слушаю.
+# sent_id = 55
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Но	но	CCONJ	_	_	5	cc	_	start_char=3039|end_char=3041
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=3042|end_char=3043
+3	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	start_char=3044|end_char=3048
+4	внимательно	внимательно	ADV	_	Degree=Pos	5	advmod	_	start_char=3049|end_char=3060
+5	слушаю	слушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3061|end_char=3067
+6	.	.	PUNCT	_	_	5	punct	_	start_char=3067|end_char=3068
+
+# text = – Итак, мы должны открыть свою школу!
+# sent_id = 56
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3069|end_char=3070
+2	Итак	итак	ADV	_	Degree=Pos	5	parataxis	_	start_char=3071|end_char=3075
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3075|end_char=3076
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=3077|end_char=3079
+5	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=3080|end_char=3086
+6	открыть	открыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=3087|end_char=3094
+7	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=3095|end_char=3099
+8	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=3100|end_char=3105
+9	!	!	PUNCT	_	_	5	punct	_	start_char=3105|end_char=3106
+
+# text = Ты правильно сказал, что мы до вторжения далеков не доживем, даже дети и внуки наши не доживут, но всё равно, это будет наш маленький заговор во имя будущего!
+# sent_id = 57
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3107|end_char=3109
+2	правильно	правильно	ADV	_	Degree=Pos	3	advmod	_	start_char=3110|end_char=3119
+3	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3120|end_char=3126
+4	,	,	PUNCT	_	_	11	punct	_	start_char=3126|end_char=3127
+5	что	что	SCONJ	_	_	11	mark	_	start_char=3128|end_char=3131
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=3132|end_char=3134
+7	до	до	ADP	_	_	8	case	_	start_char=3135|end_char=3137
+8	вторжения	вторжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	start_char=3138|end_char=3147
+9	далеков	далек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	obj	_	start_char=3148|end_char=3155
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=3156|end_char=3158
+11	доживем	дожить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=3159|end_char=3166
+12	,	,	PUNCT	_	_	19	punct	_	start_char=3166|end_char=3167
+13	даже	даже	PART	_	_	14	advmod	_	start_char=3168|end_char=3172
+14	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	start_char=3173|end_char=3177
+15	и	и	CCONJ	_	_	16	cc	_	start_char=3178|end_char=3179
+16	внуки	внук	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	14	conj	_	start_char=3180|end_char=3185
+17	наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	14	det	_	start_char=3186|end_char=3190
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=3191|end_char=3193
+19	доживут	дожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	_	start_char=3194|end_char=3201
+20	,	,	PUNCT	_	_	29	punct	_	start_char=3201|end_char=3202
+21	но	но	CCONJ	_	_	29	cc	_	start_char=3203|end_char=3205
+22	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	29	advmod	_	start_char=3206|end_char=3209
+23	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	22	fixed	_	start_char=3210|end_char=3215
+24	,	,	PUNCT	_	_	29	punct	_	start_char=3215|end_char=3216
+25	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	29	nsubj	_	start_char=3217|end_char=3220
+26	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	29	cop	_	start_char=3221|end_char=3226
+27	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	det	_	start_char=3227|end_char=3230
+28	маленький	маленький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	start_char=3231|end_char=3240
+29	заговор	заговор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	conj	_	start_char=3241|end_char=3248
+30	во	во	ADP	_	_	32	case	_	start_char=3249|end_char=3251
+31	имя	имя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	fixed	_	start_char=3252|end_char=3255
+32	будущего	будущее	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	start_char=3256|end_char=3264
+33	!	!	PUNCT	_	_	3	punct	_	start_char=3264|end_char=3265
+
+# text = Мы должны оставить такое наследие, чтобы к две тысячи сто шестьдесят четвертому году оно было живо, работало и занималось необходимым для защиты землян делом!
+# sent_id = 58
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=3266|end_char=3268
+2	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=3269|end_char=3275
+3	оставить	оставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=3276|end_char=3284
+4	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	start_char=3285|end_char=3290
+5	наследие	наследие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=3291|end_char=3299
+6	,	,	PUNCT	_	_	17	punct	_	start_char=3299|end_char=3300
+7	чтобы	чтобы	SCONJ	_	Mood=Cnd	17	mark	_	start_char=3301|end_char=3306
+8	к	к	ADP	_	_	10	case	_	start_char=3307|end_char=3308
+9	две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem|NumForm=Word|NumType=Card	10	nummod:gov	_	start_char=3309|end_char=3312
+10	тысячи	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	start_char=3313|end_char=3319
+11	сто	сто	NUM	_	Case=Acc|NumForm=Word|NumType=Card	14	nummod:gov	_	start_char=3320|end_char=3323
+12	шестьдесят	шестьдесята	NUM	_	Case=Acc|NumForm=Word|NumType=Card	14	nummod:gov	_	start_char=3324|end_char=3334
+13	четвертому	четвертый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	14	amod	_	start_char=3335|end_char=3345
+14	году	год	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	obl	_	start_char=3346|end_char=3350
+15	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=3351|end_char=3354
+16	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	start_char=3355|end_char=3359
+17	живо	живой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	advcl	_	start_char=3360|end_char=3364
+18	,	,	PUNCT	_	_	19	punct	_	start_char=3364|end_char=3365
+19	работало	работать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	start_char=3366|end_char=3374
+20	и	и	CCONJ	_	_	21	cc	_	start_char=3375|end_char=3376
+21	занималось	заниматься	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	17	conj	_	start_char=3377|end_char=3387
+22	необходимым	необходимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	21	xcomp	_	start_char=3388|end_char=3399
+23	для	для	ADP	_	_	24	case	_	start_char=3400|end_char=3403
+24	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	start_char=3404|end_char=3410
+25	землян	землян	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	start_char=3411|end_char=3417
+26	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	nmod	_	start_char=3418|end_char=3423
+27	!	!	PUNCT	_	_	2	punct	_	start_char=3423|end_char=3424
+
+# text = – А как школа сочетается с наследием?
+# sent_id = 59
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3426|end_char=3427
+2	А	а	CCONJ	_	_	5	cc	_	start_char=3428|end_char=3429
+3	как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=3430|end_char=3433
+4	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=3434|end_char=3439
+5	сочетается	сочетаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3440|end_char=3450
+6	с	с	ADP	_	_	7	case	_	start_char=3451|end_char=3452
+7	наследием	наследие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	start_char=3453|end_char=3462
+8	?	?	PUNCT	_	_	5	punct	_	start_char=3462|end_char=3463
+
+# text = – Это должна быть не просто школа.
+# sent_id = 60
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3464|end_char=3465
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=3466|end_char=3469
+3	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=3470|end_char=3476
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	start_char=3477|end_char=3481
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=3482|end_char=3484
+6	просто	просто	PART	_	_	7	advmod	_	start_char=3485|end_char=3491
+7	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	xcomp	_	start_char=3492|end_char=3497
+8	.	.	PUNCT	_	_	3	punct	_	start_char=3497|end_char=3498
+
+# text = То есть школа – потому что мы с тобой учителя, и лучше всего умеем учить.
+# sent_id = 61
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	mark	_	start_char=3499|end_char=3501
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	start_char=3502|end_char=3506
+3	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3507|end_char=3512
+4	–	–	PUNCT	_	_	10	punct	_	start_char=3513|end_char=3514
+5	потому	потому	ADV	_	Degree=Pos|PronType=Dem	10	mark	_	start_char=3515|end_char=3521
+6	что	что	SCONJ	_	_	5	fixed	_	start_char=3522|end_char=3525
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=3526|end_char=3528
+8	с	с	ADP	_	_	9	case	_	start_char=3529|end_char=3530
+9	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	10	nmod	_	start_char=3531|end_char=3536
+10	учителя	учитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	advcl	_	start_char=3537|end_char=3544
+11	,	,	PUNCT	_	_	15	punct	_	start_char=3544|end_char=3545
+12	и	и	CCONJ	_	_	15	cc	_	start_char=3546|end_char=3547
+13	лучше	хорошо	ADV	_	Degree=Cmp	15	advmod	_	start_char=3548|end_char=3553
+14	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	13	obl	_	start_char=3554|end_char=3559
+15	умеем	уметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	start_char=3560|end_char=3565
+16	учить	учить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=3566|end_char=3571
+17	.	.	PUNCT	_	_	3	punct	_	start_char=3571|end_char=3572
+
+# text = Мы должны искать и находить необходимые для нашего дела таланты у наших учеников.
+# sent_id = 62
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=3573|end_char=3575
+2	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=3576|end_char=3582
+3	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=3583|end_char=3589
+4	и	и	CCONJ	_	_	5	cc	_	start_char=3590|end_char=3591
+5	находить	находить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	start_char=3592|end_char=3600
+6	необходимые	необходимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	acl	_	start_char=3601|end_char=3612
+7	для	для	ADP	_	_	9	case	_	start_char=3613|end_char=3616
+8	нашего	наш	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=3617|end_char=3623
+9	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	start_char=3624|end_char=3628
+10	таланты	талант	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=3629|end_char=3636
+11	у	у	ADP	_	_	13	case	_	start_char=3637|end_char=3638
+12	наших	наш	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	13	det	_	start_char=3639|end_char=3644
+13	учеников	ученик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	start_char=3645|end_char=3653
+14	.	.	PUNCT	_	_	2	punct	_	start_char=3653|end_char=3654
+
+# text = Ты же согласен с тем, что не бывает совершенно бесталанных детей?
+# sent_id = 63
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3655|end_char=3657
+2	же	же	PART	_	_	1	advmod	_	start_char=3658|end_char=3660
+3	согласен	согласный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=3661|end_char=3669
+4	с	с	ADP	_	_	5	case	_	start_char=3670|end_char=3671
+5	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	start_char=3672|end_char=3675
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3675|end_char=3676
+7	что	что	SCONJ	_	_	9	mark	_	start_char=3677|end_char=3680
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3681|end_char=3683
+9	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	start_char=3684|end_char=3690
+10	совершенно	совершенно	ADV	_	Degree=Pos	11	advmod	_	start_char=3691|end_char=3701
+11	бесталанных	бесталанный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=3702|end_char=3713
+12	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nsubj	_	start_char=3714|end_char=3719
+13	?	?	PUNCT	_	_	3	punct	_	start_char=3719|end_char=3720
+
+# text = Только их способности надо выявить...
+# sent_id = 64
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Только	только	PART	_	_	2	advmod	_	start_char=3721|end_char=3727
+2	их	их	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=3728|end_char=3730
+3	способности	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=3731|end_char=3742
+4	надо	надо	VERB	_	_	0	root	_	start_char=3743|end_char=3747
+5	выявить	выявить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=3748|end_char=3755
+6	...	...	PUNCT	_	_	4	punct	_	start_char=3755|end_char=3758
+
+# text = Йен согласно кивал, кажется, даже не особо прислушиваясь.
+# sent_id = 65
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	nsubj	_	start_char=3759|end_char=3762
+2	согласно	согласно	ADP	_	_	3	case	_	start_char=3763|end_char=3771
+3	кивал	кивал	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	obl	_	start_char=3772|end_char=3777
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3777|end_char=3778
+5	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	parataxis	_	start_char=3779|end_char=3786
+6	,	,	PUNCT	_	_	5	punct	_	start_char=3786|end_char=3787
+7	даже	даже	PART	_	_	9	advmod	_	start_char=3788|end_char=3792
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3793|end_char=3795
+9	особо	особо	ADV	_	Degree=Pos	10	advmod	_	start_char=3796|end_char=3801
+10	прислушиваясь	прислушиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	0	root	_	start_char=3802|end_char=3815
+11	.	.	PUNCT	_	_	10	punct	_	start_char=3815|end_char=3816
+
+# text = – Но это должна быть не просто школа, а своего рода тайная организация, которая будет следить за прибывающими на Землю инопланетянами, перенимать у них опыт, технологии, и готовиться, готовиться, в любой момент быть готовой сплотить все страны, все нации против внешнего агрессора!
+# sent_id = 66
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3817|end_char=3818
+2	Но	но	CCONJ	_	_	4	cc	_	start_char=3819|end_char=3821
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=3822|end_char=3825
+4	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=3826|end_char=3832
+5	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	cop	_	start_char=3833|end_char=3837
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3838|end_char=3840
+7	просто	просто	PART	_	_	8	advmod	_	start_char=3841|end_char=3847
+8	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	xcomp	_	start_char=3848|end_char=3853
+9	,	,	PUNCT	_	_	14	punct	_	start_char=3853|end_char=3854
+10	а	а	CCONJ	_	_	14	cc	_	start_char=3855|end_char=3856
+11	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=3857|end_char=3863
+12	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=3864|end_char=3868
+13	тайная	тайный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=3869|end_char=3875
+14	организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	start_char=3876|end_char=3887
+15	,	,	PUNCT	_	_	18	punct	_	start_char=3887|end_char=3888
+16	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	start_char=3889|end_char=3896
+17	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	18	aux	_	start_char=3897|end_char=3902
+18	следить	следить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	acl:relcl	_	start_char=3903|end_char=3910
+19	за	за	ADP	_	_	23	case	_	start_char=3911|end_char=3913
+20	прибывающими	прибывать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	acl	_	start_char=3914|end_char=3926
+21	на	на	ADP	_	_	22	case	_	start_char=3927|end_char=3929
+22	Землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obl	_	start_char=3930|end_char=3935
+23	инопланетянами	инопланетян	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	18	obl	_	start_char=3936|end_char=3950
+24	,	,	PUNCT	_	_	25	punct	_	start_char=3950|end_char=3951
+25	перенимать	перенимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	conj	_	start_char=3952|end_char=3962
+26	у	у	ADP	_	_	27	case	_	start_char=3963|end_char=3964
+27	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	25	obl	_	start_char=3965|end_char=3968
+28	опыт	опыт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obj	_	start_char=3969|end_char=3973
+29	,	,	PUNCT	_	_	30	punct	_	start_char=3973|end_char=3974
+30	технологии	технология	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	28	conj	_	start_char=3975|end_char=3985
+31	,	,	PUNCT	_	_	33	punct	_	start_char=3985|end_char=3986
+32	и	и	CCONJ	_	_	33	cc	_	start_char=3987|end_char=3988
+33	готовиться	готовиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	25	conj	_	start_char=3989|end_char=3999
+34	,	,	PUNCT	_	_	35	punct	_	start_char=3999|end_char=4000
+35	готовиться	готовиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	25	conj	_	start_char=4001|end_char=4011
+36	,	,	PUNCT	_	_	41	punct	_	start_char=4011|end_char=4012
+37	в	в	ADP	_	_	39	case	_	start_char=4013|end_char=4014
+38	любой	любой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	39	det	_	start_char=4015|end_char=4020
+39	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	41	obl	_	start_char=4021|end_char=4027
+40	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	41	cop	_	start_char=4028|end_char=4032
+41	готовой	готовый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	35	xcomp	_	start_char=4033|end_char=4040
+42	сплотить	сплотить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	41	xcomp	_	start_char=4041|end_char=4049
+43	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	44	det	_	start_char=4050|end_char=4053
+44	страны	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	42	obj	_	start_char=4054|end_char=4060
+45	,	,	PUNCT	_	_	47	punct	_	start_char=4060|end_char=4061
+46	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	47	det	_	start_char=4062|end_char=4065
+47	нации	нация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	44	conj	_	start_char=4066|end_char=4071
+48	против	против	ADP	_	_	50	case	_	start_char=4072|end_char=4078
+49	внешнего	внешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	start_char=4079|end_char=4087
+50	агрессора	агрессор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	47	nmod	_	start_char=4088|end_char=4097
+51	!	!	PUNCT	_	_	4	punct	_	start_char=4097|end_char=4098
+
+# text = Наши выпускники, а потом уже выпускники наших преемников со способностями в области управления должны занять самые ключевые позиции в правительствах всех крупных государств, чтобы ударить совместно, учёные – к нужному времени разработать оружие, которое может противодействовать оружию далеков...
+# sent_id = 67
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	2	det	_	start_char=4099|end_char=4103
+2	выпускники	выпускник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	start_char=4104|end_char=4114
+3	,	,	PUNCT	_	_	15	punct	_	start_char=4114|end_char=4115
+4	а	а	CCONJ	_	_	15	cc	_	start_char=4116|end_char=4117
+5	потом	потом	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=4118|end_char=4123
+6	уже	уже	ADV	_	Degree=Pos	7	advmod	_	start_char=4124|end_char=4127
+7	выпускники	выпускник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	start_char=4128|end_char=4138
+8	наших	наш	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	9	det	_	start_char=4139|end_char=4144
+9	преемников	преемник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	start_char=4145|end_char=4155
+10	со	со	ADP	_	_	11	case	_	start_char=4156|end_char=4158
+11	способностями	способность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	7	nmod	_	start_char=4159|end_char=4172
+12	в	в	ADP	_	_	13	case	_	start_char=4173|end_char=4174
+13	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	start_char=4175|end_char=4182
+14	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	start_char=4183|end_char=4193
+15	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=4194|end_char=4200
+16	занять	занять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=4201|end_char=4207
+17	самые	самый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Emp	18	det	_	start_char=4208|end_char=4213
+18	ключевые	ключевой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	start_char=4214|end_char=4222
+19	позиции	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obj	_	start_char=4223|end_char=4230
+20	в	в	ADP	_	_	21	case	_	start_char=4231|end_char=4232
+21	правительствах	правительство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	19	nmod	_	start_char=4233|end_char=4247
+22	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	24	det	_	start_char=4248|end_char=4252
+23	крупных	крупный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	start_char=4253|end_char=4260
+24	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	start_char=4261|end_char=4271
+25	,	,	PUNCT	_	_	27	punct	_	start_char=4271|end_char=4272
+26	чтобы	чтобы	SCONJ	_	Mood=Cnd	27	mark	_	start_char=4273|end_char=4278
+27	ударить	ударить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	advcl	_	start_char=4279|end_char=4286
+28	совместно	совместно	ADV	_	Degree=Pos	27	advmod	_	start_char=4287|end_char=4296
+29	,	,	PUNCT	_	_	35	punct	_	start_char=4296|end_char=4297
+30	учёные	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	35	nsubj	_	start_char=4298|end_char=4304
+31	–	–	PUNCT	_	_	35	punct	_	start_char=4305|end_char=4306
+32	к	к	ADP	_	_	34	case	_	start_char=4307|end_char=4308
+33	нужному	нужный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	start_char=4309|end_char=4316
+34	времени	время	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	35	obl	_	start_char=4317|end_char=4324
+35	разработать	разработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	27	conj	_	start_char=4325|end_char=4336
+36	оружие	оружие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	35	obj	_	start_char=4337|end_char=4343
+37	,	,	PUNCT	_	_	39	punct	_	start_char=4343|end_char=4344
+38	которое	который	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	39	nsubj	_	start_char=4345|end_char=4352
+39	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	acl:relcl	_	start_char=4353|end_char=4358
+40	противодействовать	противодействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	39	xcomp	_	start_char=4359|end_char=4377
+41	оружию	оружие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	40	iobj	_	start_char=4378|end_char=4384
+42	далеков	далек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	41	nmod	_	start_char=4385|end_char=4392
+43	...	...	PUNCT	_	_	15	punct	_	start_char=4392|end_char=4395
+
+# text = В дверь позвонили.
+# sent_id = 68
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	В	в	ADP	_	_	2	case	_	start_char=4396|end_char=4397
+2	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=4398|end_char=4403
+3	позвонили	позвонить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4404|end_char=4413
+4	.	.	PUNCT	_	_	3	punct	_	start_char=4413|end_char=4414
+
+# text = – О, наверное, это мой знакомый! – оживился Йен и пошёл открывать.
+# sent_id = 69
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	8	punct	_	start_char=4415|end_char=4416
+2	О	о	INTJ	_	_	8	discourse	_	start_char=4417|end_char=4418
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4418|end_char=4419
+4	наверное	наверное	ADV	_	Degree=Pos	8	parataxis	_	start_char=4420|end_char=4428
+5	,	,	PUNCT	_	_	4	punct	_	start_char=4428|end_char=4429
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=4430|end_char=4433
+7	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=4434|end_char=4437
+8	знакомый	знакомый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4438|end_char=4446
+9	!	!	PUNCT	_	_	8	punct	_	start_char=4446|end_char=4447
+10	–	–	PUNCT	_	_	11	punct	_	start_char=4448|end_char=4449
+11	оживился	оживиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	parataxis	_	start_char=4450|end_char=4458
+12	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	nsubj	_	start_char=4459|end_char=4462
+13	и	и	CCONJ	_	_	14	cc	_	start_char=4463|end_char=4464
+14	пошёл	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	start_char=4465|end_char=4470
+15	открывать	открывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=4471|end_char=4480
+16	.	.	PUNCT	_	_	8	punct	_	start_char=4480|end_char=4481
+
+# text = В коридоре послышался незнакомый голос, хозяина которого Йен уговаривал заглянуть на пять минут и хотя бы выпить с ними, с ним и его женой, с которой он сейчас познакомит гостя, чашечку чая.
+# sent_id = 70
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	В	в	ADP	_	_	2	case	_	start_char=4482|end_char=4483
+2	коридоре	коридор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=4484|end_char=4492
+3	послышался	послышаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4493|end_char=4503
+4	незнакомый	незнакомый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=4504|end_char=4514
+5	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4515|end_char=4520
+6	,	,	PUNCT	_	_	10	punct	_	start_char=4520|end_char=4521
+7	хозяина	хозяин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=4522|end_char=4529
+8	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	7	nmod	_	start_char=4530|end_char=4538
+9	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	nsubj	_	start_char=4539|end_char=4542
+10	уговаривал	уговаривать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=4543|end_char=4553
+11	заглянуть	заглянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=4554|end_char=4563
+12	на	на	ADP	_	_	14	case	_	start_char=4564|end_char=4566
+13	пять	пять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	14	nummod:gov	_	start_char=4567|end_char=4571
+14	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	obl	_	start_char=4572|end_char=4577
+15	и	и	CCONJ	_	_	18	cc	_	start_char=4578|end_char=4579
+16	хотя	хотя	PART	_	_	18	advmod	_	start_char=4580|end_char=4584
+17	бы	бы	PART	_	_	16	fixed	_	start_char=4585|end_char=4587
+18	выпить	выпить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	conj	_	start_char=4588|end_char=4594
+19	с	с	ADP	_	_	20	case	_	start_char=4595|end_char=4596
+20	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	18	obl	_	start_char=4597|end_char=4601
+21	,	,	PUNCT	_	_	23	punct	_	start_char=4601|end_char=4602
+22	с	с	ADP	_	_	23	case	_	start_char=4603|end_char=4604
+23	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	conj	_	start_char=4605|end_char=4608
+24	и	и	CCONJ	_	_	26	cc	_	start_char=4609|end_char=4610
+25	его	его	DET	_	Poss=Yes|PronType=Prs	26	det	_	start_char=4611|end_char=4614
+26	женой	жена	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	20	conj	_	start_char=4615|end_char=4620
+27	,	,	PUNCT	_	_	32	punct	_	start_char=4620|end_char=4621
+28	с	с	ADP	_	_	29	case	_	start_char=4622|end_char=4623
+29	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	32	obl	_	start_char=4624|end_char=4631
+30	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	start_char=4632|end_char=4634
+31	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	32	advmod	_	start_char=4635|end_char=4641
+32	познакомит	познакомить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	26	acl:relcl	_	start_char=4642|end_char=4652
+33	гостя	гость	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	32	obj	_	start_char=4653|end_char=4658
+34	,	,	PUNCT	_	_	35	punct	_	start_char=4658|end_char=4659
+35	чашечку	чашечка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	33	conj	_	start_char=4660|end_char=4667
+36	чая	чай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	start_char=4668|end_char=4671
+37	.	.	PUNCT	_	_	3	punct	_	start_char=4671|end_char=4672
+
+# text = Барбара мало обратила внимания на приход постороннего человека, целиком погрузившись в размышления о своих планах.
+# sent_id = 71
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=4673|end_char=4680
+2	мало	мало	NUM	_	Case=Acc|NumForm=Word|NumType=Card	3	obj	_	start_char=4681|end_char=4685
+3	обратила	обратить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4686|end_char=4694
+4	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obj	_	start_char=4695|end_char=4703
+5	на	на	ADP	_	_	6	case	_	start_char=4704|end_char=4706
+6	приход	приход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=4707|end_char=4713
+7	постороннего	посторонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4714|end_char=4726
+8	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=4727|end_char=4735
+9	,	,	PUNCT	_	_	11	punct	_	start_char=4735|end_char=4736
+10	целиком	целиком	ADV	_	Degree=Pos	11	advmod	_	start_char=4737|end_char=4744
+11	погрузившись	погрузиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	3	advcl	_	start_char=4745|end_char=4757
+12	в	в	ADP	_	_	13	case	_	start_char=4758|end_char=4759
+13	размышления	размышление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obl	_	start_char=4760|end_char=4771
+14	о	о	ADP	_	_	16	case	_	start_char=4772|end_char=4773
+15	своих	свой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	start_char=4774|end_char=4779
+16	планах	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	nmod	_	start_char=4780|end_char=4786
+17	.	.	PUNCT	_	_	3	punct	_	start_char=4786|end_char=4787
+
+# text = Открыть школу – не шутка, нужно помещение, мебель, специалисты, а для её целей – в весьма специфических областях...
+# sent_id = 72
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Открыть	открыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=4788|end_char=4795
+2	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	start_char=4796|end_char=4801
+3	–	–	PUNCT	_	_	5	punct	_	start_char=4802|end_char=4803
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4804|end_char=4806
+5	шутка	шутка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4807|end_char=4812
+6	,	,	PUNCT	_	_	7	punct	_	start_char=4812|end_char=4813
+7	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	start_char=4814|end_char=4819
+8	помещение	помещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=4820|end_char=4829
+9	,	,	PUNCT	_	_	10	punct	_	start_char=4829|end_char=4830
+10	мебель	мебель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	start_char=4831|end_char=4837
+11	,	,	PUNCT	_	_	12	punct	_	start_char=4837|end_char=4838
+12	специалисты	специалист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	conj	_	start_char=4839|end_char=4850
+13	,	,	PUNCT	_	_	17	punct	_	start_char=4850|end_char=4851
+14	а	а	CCONJ	_	_	17	cc	_	start_char=4852|end_char=4853
+15	для	для	ADP	_	_	17	case	_	start_char=4854|end_char=4857
+16	её	ее	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=4858|end_char=4860
+17	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	conj	_	start_char=4861|end_char=4866
+18	–	–	PUNCT	_	_	22	punct	_	start_char=4867|end_char=4868
+19	в	в	ADP	_	_	22	case	_	start_char=4869|end_char=4870
+20	весьма	весьма	ADV	_	Degree=Pos	21	advmod	_	start_char=4871|end_char=4877
+21	специфических	специфический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	22	amod	_	start_char=4878|end_char=4891
+22	областях	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	conj	_	start_char=4892|end_char=4900
+23	...	...	PUNCT	_	_	5	punct	_	start_char=4900|end_char=4903
+
+# text = Хотя для начала можно было начать обучать на базе их настоящего рабочего места...
+# sent_id = 73
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Хотя	хотя	SCONJ	_	_	4	mark	_	start_char=4904|end_char=4908
+2	для	для	ADP	_	_	3	case	_	start_char=4909|end_char=4912
+3	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=4913|end_char=4919
+4	можно	можно	VERB	_	_	0	root	_	start_char=4920|end_char=4925
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=4926|end_char=4930
+6	начать	начать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=4931|end_char=4937
+7	обучать	обучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=4938|end_char=4945
+8	на	на	ADP	_	_	9	case	_	start_char=4946|end_char=4948
+9	базе	база	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	start_char=4949|end_char=4953
+10	их	их	DET	_	Poss=Yes|PronType=Prs	13	det	_	start_char=4954|end_char=4956
+11	настоящего	настоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=4957|end_char=4967
+12	рабочего	рабочий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=4968|end_char=4976
+13	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	start_char=4977|end_char=4982
+14	...	...	PUNCT	_	_	4	punct	_	start_char=4982|end_char=4985
+
+# text = – Вот, Барбара, знакомься, это Джек Харкнесс!
+# sent_id = 74
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	9	punct	_	start_char=4986|end_char=4987
+2	Вот	вот	PART	_	_	9	advmod	_	start_char=4988|end_char=4991
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4991|end_char=4992
+4	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	9	vocative	_	start_char=4993|end_char=5000
+5	,	,	PUNCT	_	_	4	punct	_	start_char=5000|end_char=5001
+6	знакомься	знакомиться	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=5002|end_char=5011
+7	,	,	PUNCT	_	_	6	punct	_	start_char=5011|end_char=5012
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=5013|end_char=5016
+9	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=5017|end_char=5021
+10	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	start_char=5022|end_char=5030
+11	!	!	PUNCT	_	_	9	punct	_	start_char=5030|end_char=5031
+
+# text = – Йен всё-таки уговорил своего знакомого.
+# sent_id = 75
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5032|end_char=5033
+2	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=5034|end_char=5037
+3	всё-таки	все-таки	ADV	_	Degree=Pos	4	advmod	_	start_char=5038|end_char=5046
+4	уговорил	уговорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5047|end_char=5055
+5	своего	свой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=5056|end_char=5062
+6	знакомого	знакомый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=5063|end_char=5072
+7	.	.	PUNCT	_	_	4	punct	_	start_char=5072|end_char=5073
+
+# text = – Это моя жена, Барбара.
+# sent_id = 76
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5074|end_char=5075
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=5076|end_char=5079
+3	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=5080|end_char=5083
+4	жена	жена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=5084|end_char=5088
+5	,	,	PUNCT	_	_	6	punct	_	start_char=5088|end_char=5089
+6	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	vocative	_	start_char=5090|end_char=5097
+7	.	.	PUNCT	_	_	4	punct	_	start_char=5097|end_char=5098
+
+# text = – Очень приятно, – пришедший несколько старомодно поцеловал женщине руку.
+# sent_id = 77
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5099|end_char=5100
+2	Очень	очень	ADV	_	Degree=Pos	3	advmod	_	start_char=5101|end_char=5106
+3	приятно	приятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5107|end_char=5114
+4	,	,	PUNCT	_	_	9	punct	_	start_char=5114|end_char=5115
+5	–	–	PUNCT	_	_	9	punct	_	start_char=5116|end_char=5117
+6	пришедший	прийти	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	nsubj	_	start_char=5118|end_char=5127
+7	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=5128|end_char=5137
+8	старомодно	старомодно	ADV	_	Degree=Pos	9	advmod	_	start_char=5138|end_char=5148
+9	поцеловал	поцеловать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=5149|end_char=5158
+10	женщине	женщина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	start_char=5159|end_char=5166
+11	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=5167|end_char=5171
+12	.	.	PUNCT	_	_	3	punct	_	start_char=5171|end_char=5172
+
+# text = Барбара, не ожидавшая такой галантности от молодого человека во второй половине ХХ века, смутилась.
+# sent_id = 78
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	16	nsubj	_	start_char=5173|end_char=5180
+2	,	,	PUNCT	_	_	4	punct	_	start_char=5180|end_char=5181
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=5182|end_char=5184
+4	ожидавшая	ожидать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	start_char=5185|end_char=5194
+5	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=5195|end_char=5200
+6	галантности	галантность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obj	_	start_char=5201|end_char=5212
+7	от	от	ADP	_	_	9	case	_	start_char=5213|end_char=5215
+8	молодого	молодой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=5216|end_char=5224
+9	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=5225|end_char=5233
+10	во	во	ADP	_	_	12	case	_	start_char=5234|end_char=5236
+11	второй	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	12	amod	_	start_char=5237|end_char=5243
+12	половине	половина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=5244|end_char=5252
+13	ХХ	ХХ	ADJ	_	NumForm=Roman|NumType=Ord	14	amod	_	start_char=5253|end_char=5255
+14	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=5256|end_char=5260
+15	,	,	PUNCT	_	_	4	punct	_	start_char=5260|end_char=5261
+16	смутилась	смутиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5262|end_char=5271
+17	.	.	PUNCT	_	_	16	punct	_	start_char=5271|end_char=5272
+
+# text = – Простите, я не ожидала гостей...
+# sent_id = 79
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5273|end_char=5274
+2	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5275|end_char=5283
+3	,	,	PUNCT	_	_	6	punct	_	start_char=5283|end_char=5284
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=5285|end_char=5286
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=5287|end_char=5289
+6	ожидала	ожидать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5290|end_char=5297
+7	гостей	гость	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	start_char=5298|end_char=5304
+8	...	...	PUNCT	_	_	2	punct	_	start_char=5304|end_char=5307
+
+# text = Йен только за несколько минут до вашего прихода предупредил, – она попыталась поправить выбившийся из прически и свисающий на глаз локон и укоризненно посмотрела на мужа.
+# sent_id = 80
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=5308|end_char=5311
+2	только	только	PART	_	_	5	advmod	_	start_char=5312|end_char=5318
+3	за	за	ADP	_	_	5	case	_	start_char=5319|end_char=5321
+4	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=5322|end_char=5331
+5	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	start_char=5332|end_char=5337
+6	до	до	ADP	_	_	8	case	_	start_char=5338|end_char=5340
+7	вашего	ваш	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=5341|end_char=5347
+8	прихода	приход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=5348|end_char=5355
+9	предупредил	предупредить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5356|end_char=5367
+10	,	,	PUNCT	_	_	13	punct	_	start_char=5367|end_char=5368
+11	–	–	PUNCT	_	_	13	punct	_	start_char=5369|end_char=5370
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=5371|end_char=5374
+13	попыталась	попытаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=5375|end_char=5385
+14	поправить	поправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=5386|end_char=5395
+15	выбившийся	выбиться	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	obj	_	start_char=5396|end_char=5406
+16	из	из	ADP	_	_	17	case	_	start_char=5407|end_char=5409
+17	прически	прическа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	start_char=5410|end_char=5418
+18	и	и	CCONJ	_	_	19	cc	_	start_char=5419|end_char=5420
+19	свисающий	свисать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	conj	_	start_char=5421|end_char=5430
+20	на	на	ADP	_	_	21	case	_	start_char=5431|end_char=5433
+21	глаз	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	start_char=5434|end_char=5438
+22	локон	локон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	start_char=5439|end_char=5444
+23	и	и	CCONJ	_	_	25	cc	_	start_char=5445|end_char=5446
+24	укоризненно	укоризненно	ADV	_	Degree=Pos	25	advmod	_	start_char=5447|end_char=5458
+25	посмотрела	посмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=5459|end_char=5469
+26	на	на	ADP	_	_	27	case	_	start_char=5470|end_char=5472
+27	мужа	муж	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	25	obl	_	start_char=5473|end_char=5477
+28	.	.	PUNCT	_	_	9	punct	_	start_char=5477|end_char=5478
+
+# text = Тот невозмутимо сел за стол и взял свою чашку.
+# sent_id = 81
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	start_char=5479|end_char=5482
+2	невозмутимо	невозмутимо	ADV	_	Degree=Pos	3	advmod	_	start_char=5483|end_char=5494
+3	сел	сесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5495|end_char=5498
+4	за	за	ADP	_	_	5	case	_	start_char=5499|end_char=5501
+5	стол	стол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=5502|end_char=5506
+6	и	и	CCONJ	_	_	7	cc	_	start_char=5507|end_char=5508
+7	взял	взять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5509|end_char=5513
+8	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=5514|end_char=5518
+9	чашку	чашка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=5519|end_char=5524
+10	.	.	PUNCT	_	_	3	punct	_	start_char=5524|end_char=5525
+
+# text = – Я на секунду...
+# sent_id = 82
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5526|end_char=5527
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5528|end_char=5529
+3	на	на	ADP	_	_	4	case	_	start_char=5530|end_char=5532
+4	секунду	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=5533|end_char=5540
+5	...	...	PUNCT	_	_	4	punct	_	start_char=5540|end_char=5543
+
+# text = – Вам совершенно незачем так беспокоиться, вы прекрасно выглядите!
+# sent_id = 83
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5544|end_char=5545
+2	Вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	iobj	_	start_char=5546|end_char=5549
+3	совершенно	совершенно	ADV	_	Degree=Pos	4	advmod	_	start_char=5550|end_char=5560
+4	незачем	незачать	VERB	_	_	0	root	_	start_char=5561|end_char=5568
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=5569|end_char=5572
+6	беспокоиться	беспокоиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	csubj	_	start_char=5573|end_char=5585
+7	,	,	PUNCT	_	_	10	punct	_	start_char=5585|end_char=5586
+8	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	start_char=5587|end_char=5589
+9	прекрасно	прекрасно	ADV	_	Degree=Pos	10	advmod	_	start_char=5590|end_char=5599
+10	выглядите	выглядеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=5600|end_char=5609
+11	!	!	PUNCT	_	_	4	punct	_	start_char=5609|end_char=5610
+
+# text = – сообщил Барбаре гость, под прикрытием спины Йена наливая что-то в чашку хозяйки.
+# sent_id = 84
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5611|end_char=5612
+2	сообщил	сообщить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5613|end_char=5620
+3	Барбаре	Барбар	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|NameType=Giv|Number=Sing	2	iobj	_	start_char=5621|end_char=5628
+4	гость	гость	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=5629|end_char=5634
+5	,	,	PUNCT	_	_	10	punct	_	start_char=5634|end_char=5635
+6	под	под	ADP	_	_	7	case	_	start_char=5636|end_char=5639
+7	прикрытием	прикрытие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	start_char=5640|end_char=5650
+8	спины	спина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	start_char=5651|end_char=5656
+9	Йена	Йена	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	8	nmod	_	start_char=5657|end_char=5661
+10	наливая	наливать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=5662|end_char=5669
+11	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	10	obj	_	start_char=5670|end_char=5676
+12	в	в	ADP	_	_	13	case	_	start_char=5677|end_char=5678
+13	чашку	чашка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	start_char=5679|end_char=5684
+14	хозяйки	хозяйка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	start_char=5685|end_char=5692
+15	.	.	PUNCT	_	_	2	punct	_	start_char=5692|end_char=5693
+
+# text = Поправив прическу, она вернулась, предложила к чаю тосты или печенье, завела светский разговор о погоде, но неожиданно зевнула.
+# sent_id = 85
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Поправив	поправить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=5694|end_char=5702
+2	прическу	прическа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	start_char=5703|end_char=5711
+3	,	,	PUNCT	_	_	1	punct	_	start_char=5711|end_char=5712
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=5713|end_char=5716
+5	вернулась	вернуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5717|end_char=5726
+6	,	,	PUNCT	_	_	7	punct	_	start_char=5726|end_char=5727
+7	предложила	предложить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5728|end_char=5738
+8	к	к	ADP	_	_	9	case	_	start_char=5739|end_char=5740
+9	чаю	чай	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	obl	_	start_char=5741|end_char=5744
+10	тосты	тост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=5745|end_char=5750
+11	или	или	CCONJ	_	_	12	cc	_	start_char=5751|end_char=5754
+12	печенье	печенье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	conj	_	start_char=5755|end_char=5762
+13	,	,	PUNCT	_	_	14	punct	_	start_char=5762|end_char=5763
+14	завела	завести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5764|end_char=5770
+15	светский	светский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=5771|end_char=5779
+16	разговор	разговор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	start_char=5780|end_char=5788
+17	о	о	ADP	_	_	18	case	_	start_char=5789|end_char=5790
+18	погоде	погода	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	start_char=5791|end_char=5797
+19	,	,	PUNCT	_	_	22	punct	_	start_char=5797|end_char=5798
+20	но	но	CCONJ	_	_	22	cc	_	start_char=5799|end_char=5801
+21	неожиданно	неожиданно	ADV	_	Degree=Pos	22	advmod	_	start_char=5802|end_char=5812
+22	зевнула	зевнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5813|end_char=5820
+23	.	.	PUNCT	_	_	5	punct	_	start_char=5820|end_char=5821
+
+# text = – Простите... что-то я сегодня устала... мне надо прилечь, – она немного неуверенно поднялась из-за стола и направилась в спальню, не обращая больше внимания на гостя.
+# sent_id = 86
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5822|end_char=5823
+2	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5824|end_char=5832
+3	...	...	PUNCT	_	_	7	punct	_	start_char=5832|end_char=5835
+4	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	obj	_	start_char=5836|end_char=5842
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=5843|end_char=5844
+6	сегодня	сегодня	ADV	_	Degree=Pos	7	advmod	_	start_char=5845|end_char=5852
+7	устала	устать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=5853|end_char=5859
+8	...	...	PUNCT	_	_	10	punct	_	start_char=5859|end_char=5862
+9	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	iobj	_	start_char=5863|end_char=5866
+10	надо	надо	VERB	_	_	7	parataxis	_	start_char=5867|end_char=5871
+11	прилечь	прилечь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=5872|end_char=5879
+12	,	,	PUNCT	_	_	17	punct	_	start_char=5879|end_char=5880
+13	–	–	PUNCT	_	_	17	punct	_	start_char=5881|end_char=5882
+14	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=5883|end_char=5886
+15	немного	немного	ADV	_	Degree=Pos|PronType=Tot	16	advmod	_	start_char=5887|end_char=5894
+16	неуверенно	неуверенно	ADV	_	Degree=Pos	17	advmod	_	start_char=5895|end_char=5905
+17	поднялась	подняться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=5906|end_char=5915
+18	из-за	из-за	ADP	_	_	19	case	_	start_char=5916|end_char=5921
+19	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obl	_	start_char=5922|end_char=5927
+20	и	и	CCONJ	_	_	21	cc	_	start_char=5928|end_char=5929
+21	направилась	направиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	17	conj	_	start_char=5930|end_char=5941
+22	в	в	ADP	_	_	23	case	_	start_char=5942|end_char=5943
+23	спальню	спальня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obl	_	start_char=5944|end_char=5951
+24	,	,	PUNCT	_	_	26	punct	_	start_char=5951|end_char=5952
+25	не	не	PART	_	Polarity=Neg	26	advmod	_	start_char=5953|end_char=5955
+26	обращая	обращать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	21	advcl	_	start_char=5956|end_char=5963
+27	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	26	advmod	_	start_char=5964|end_char=5970
+28	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	obj	_	start_char=5971|end_char=5979
+29	на	на	ADP	_	_	30	case	_	start_char=5980|end_char=5982
+30	гостя	гость	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	26	obl	_	start_char=5983|end_char=5988
+31	.	.	PUNCT	_	_	2	punct	_	start_char=5988|end_char=5989
+
+# text = Йен проводил её, убедился, что она легла и уже почти спит, и вернулся к гостю, чтобы проводить его до двери.
+# sent_id = 87
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=5990|end_char=5993
+2	проводил	проводить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5994|end_char=6002
+3	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=6003|end_char=6005
+4	,	,	PUNCT	_	_	5	punct	_	start_char=6005|end_char=6006
+5	убедился	убедиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6007|end_char=6015
+6	,	,	PUNCT	_	_	9	punct	_	start_char=6015|end_char=6016
+7	что	что	SCONJ	_	_	9	mark	_	start_char=6017|end_char=6020
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=6021|end_char=6024
+9	легла	лечь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=6025|end_char=6030
+10	и	и	CCONJ	_	_	13	cc	_	start_char=6031|end_char=6032
+11	уже	уже	ADV	_	Degree=Pos	12	advmod	_	start_char=6033|end_char=6036
+12	почти	почти	ADV	_	Degree=Pos	13	advmod	_	start_char=6037|end_char=6042
+13	спит	спать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=6043|end_char=6047
+14	,	,	PUNCT	_	_	16	punct	_	start_char=6047|end_char=6048
+15	и	и	CCONJ	_	_	16	cc	_	start_char=6049|end_char=6050
+16	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6051|end_char=6059
+17	к	к	ADP	_	_	18	case	_	start_char=6060|end_char=6061
+18	гостю	гость	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	16	obl	_	start_char=6062|end_char=6067
+19	,	,	PUNCT	_	_	21	punct	_	start_char=6067|end_char=6068
+20	чтобы	чтобы	SCONJ	_	Mood=Cnd	21	mark	_	start_char=6069|end_char=6074
+21	проводить	проводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	advcl	_	start_char=6075|end_char=6084
+22	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=6085|end_char=6088
+23	до	до	ADP	_	_	24	case	_	start_char=6089|end_char=6091
+24	двери	дверь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	start_char=6092|end_char=6097
+25	.	.	PUNCT	_	_	2	punct	_	start_char=6097|end_char=6098
+
+# text = – Как обычно, снотворное и это... как его?..
+# sent_id = 88
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6099|end_char=6100
+2	Как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=6101|end_char=6104
+3	обычно	обычно	ADV	_	Degree=Pos	0	root	_	start_char=6105|end_char=6111
+4	,	,	PUNCT	_	_	5	punct	_	start_char=6111|end_char=6112
+5	снотворное	снотворный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	conj	_	start_char=6113|end_char=6123
+6	и	и	CCONJ	_	_	7	cc	_	start_char=6124|end_char=6125
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	conj	_	start_char=6126|end_char=6129
+8	...	...	PUNCT	_	_	5	punct	_	start_char=6129|end_char=6132
+9	как	как	SCONJ	_	_	10	case	_	start_char=6133|end_char=6136
+10	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=6137|end_char=6140
+11	?..	?..	PUNCT	_	_	3	punct	_	start_char=6140|end_char=6143
+
+# text = – Да, как обычно.
+# sent_id = 89
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6144|end_char=6145
+2	Да	да	PART	_	_	0	root	_	start_char=6146|end_char=6148
+3	,	,	PUNCT	_	_	5	punct	_	start_char=6148|end_char=6149
+4	как	как	SCONJ	_	_	5	mark	_	start_char=6150|end_char=6153
+5	обычно	обычно	ADV	_	Degree=Pos	2	advcl	_	start_char=6154|end_char=6160
+6	.	.	PUNCT	_	_	2	punct	_	start_char=6160|end_char=6161
+
+# text = – Может быть, вы бы дали мне эту вещь, чтобы не вызывать вас каждый год?
+# sent_id = 90
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	7	punct	_	start_char=6162|end_char=6163
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=6164|end_char=6169
+3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=6170|end_char=6174
+4	,	,	PUNCT	_	_	2	punct	_	start_char=6174|end_char=6175
+5	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=6176|end_char=6178
+6	бы	бы	AUX	_	Mood=Cnd	7	aux	_	start_char=6179|end_char=6181
+7	дали	дать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6182|end_char=6186
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=6187|end_char=6190
+9	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	start_char=6191|end_char=6194
+10	вещь	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=6195|end_char=6199
+11	,	,	PUNCT	_	_	14	punct	_	start_char=6199|end_char=6200
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	14	mark	_	start_char=6201|end_char=6206
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=6207|end_char=6209
+14	вызывать	вызывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=6210|end_char=6218
+15	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	14	obj	_	start_char=6219|end_char=6222
+16	каждый	каждый	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	17	det	_	start_char=6223|end_char=6229
+17	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	start_char=6230|end_char=6233
+18	?	?	PUNCT	_	_	7	punct	_	start_char=6233|end_char=6234
+
+# text = – А мне приятно видеть людей, которые общались с Доктором, – обезоруживающе улыбнулся гость.
+# sent_id = 91
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=6235|end_char=6236
+2	А	а	CCONJ	_	_	4	cc	_	start_char=6237|end_char=6238
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=6239|end_char=6242
+4	приятно	приятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6243|end_char=6250
+5	видеть	видеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=6251|end_char=6257
+6	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=6258|end_char=6263
+7	,	,	PUNCT	_	_	9	punct	_	start_char=6263|end_char=6264
+8	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	9	nsubj	_	start_char=6265|end_char=6272
+9	общались	общаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	start_char=6273|end_char=6281
+10	с	с	ADP	_	_	11	case	_	start_char=6282|end_char=6283
+11	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	9	obl	_	start_char=6284|end_char=6292
+12	,	,	PUNCT	_	_	15	punct	_	start_char=6292|end_char=6293
+13	–	–	PUNCT	_	_	15	punct	_	start_char=6294|end_char=6295
+14	обезоруживающе	обезоруживающе	ADV	_	Degree=Pos	15	advmod	_	start_char=6296|end_char=6310
+15	улыбнулся	улыбнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=6311|end_char=6320
+16	гость	гость	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=6321|end_char=6326
+17	.	.	PUNCT	_	_	4	punct	_	start_char=6326|end_char=6327
+
+# text = – А она опять решила, что надо переписать историю?
+# sent_id = 92
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=6328|end_char=6329
+2	А	а	CCONJ	_	_	5	cc	_	start_char=6330|end_char=6331
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=6332|end_char=6335
+4	опять	опять	ADV	_	Degree=Pos	5	advmod	_	start_char=6336|end_char=6341
+5	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6342|end_char=6348
+6	,	,	PUNCT	_	_	8	punct	_	start_char=6348|end_char=6349
+7	что	что	SCONJ	_	_	8	mark	_	start_char=6350|end_char=6353
+8	надо	надо	VERB	_	_	5	ccomp	_	start_char=6354|end_char=6358
+9	переписать	переписать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	csubj	_	start_char=6359|end_char=6369
+10	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=6370|end_char=6377
+11	?	?	PUNCT	_	_	5	punct	_	start_char=6377|end_char=6378
+
+# text = – Да, и создать тайную организацию для противодействия инопланетянам, – подтвердил Йен.
+# sent_id = 93
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=6379|end_char=6380
+2	Да	да	PART	_	_	5	parataxis	_	start_char=6381|end_char=6383
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6383|end_char=6384
+4	и	и	CCONJ	_	_	5	cc	_	start_char=6385|end_char=6386
+5	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=6387|end_char=6394
+6	тайную	тайный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=6395|end_char=6401
+7	организацию	организация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=6402|end_char=6413
+8	для	для	ADP	_	_	9	case	_	start_char=6414|end_char=6417
+9	противодействия	противодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	start_char=6418|end_char=6433
+10	инопланетянам	инопланетян	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	9	nmod	_	start_char=6434|end_char=6447
+11	,	,	PUNCT	_	_	13	punct	_	start_char=6447|end_char=6448
+12	–	–	PUNCT	_	_	13	punct	_	start_char=6449|end_char=6450
+13	подтвердил	подтвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=6451|end_char=6461
+14	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	13	nsubj	_	start_char=6462|end_char=6465
+15	.	.	PUNCT	_	_	5	punct	_	start_char=6465|end_char=6466
+
+# text = Гость хмыкнул.
+# sent_id = 94
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Гость	гость	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6467|end_char=6472
+2	хмыкнул	хмыкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6473|end_char=6480
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6480|end_char=6481
+
+# text = – А что, вы считаете, что справляетесь?
+# sent_id = 95
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	6	punct	_	start_char=6482|end_char=6483
+2	А	а	CCONJ	_	_	6	cc	_	start_char=6484|end_char=6485
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	parataxis	_	start_char=6486|end_char=6489
+4	,	,	PUNCT	_	_	3	punct	_	start_char=6489|end_char=6490
+5	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	start_char=6491|end_char=6493
+6	считаете	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6494|end_char=6502
+7	,	,	PUNCT	_	_	9	punct	_	start_char=6502|end_char=6503
+8	что	что	SCONJ	_	_	9	mark	_	start_char=6504|end_char=6507
+9	справляетесь	справляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	6	ccomp	_	start_char=6508|end_char=6520
+10	?	?	PUNCT	_	_	6	punct	_	start_char=6520|end_char=6521
+
+# text = – Стараемся.
+# sent_id = 96
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6522|end_char=6523
+2	Стараемся	стараться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6524|end_char=6533
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6533|end_char=6534
+
+# text = Вычислили же мы вас тогда, когда это произошло в первый раз.
+# sent_id = 97
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Вычислили	вычислить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6535|end_char=6544
+2	же	же	PART	_	_	1	advmod	_	start_char=6545|end_char=6547
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	start_char=6548|end_char=6550
+4	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	obj	_	start_char=6551|end_char=6554
+5	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	start_char=6555|end_char=6560
+6	,	,	PUNCT	_	_	9	punct	_	start_char=6560|end_char=6561
+7	когда	когда	SCONJ	_	_	9	mark	_	start_char=6562|end_char=6567
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=6568|end_char=6571
+9	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=6572|end_char=6581
+10	в	в	ADP	_	_	12	case	_	start_char=6582|end_char=6583
+11	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	12	amod	_	start_char=6584|end_char=6590
+12	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=6591|end_char=6594
+13	.	.	PUNCT	_	_	1	punct	_	start_char=6594|end_char=6595
+
+# text = – Я до сих пор удивляюсь, как.
+# sent_id = 98
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	6	punct	_	start_char=6596|end_char=6597
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=6598|end_char=6599
+3	до	до	ADP	_	_	6	advmod	_	start_char=6600|end_char=6602
+4	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	3	fixed	_	start_char=6603|end_char=6606
+5	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	fixed	_	start_char=6607|end_char=6610
+6	удивляюсь	удивляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6611|end_char=6620
+7	,	,	PUNCT	_	_	8	punct	_	start_char=6620|end_char=6621
+8	как	как	ADV	_	Degree=Pos|PronType=Rel	6	advmod	_	start_char=6622|end_char=6625
+9	.	.	PUNCT	_	_	6	punct	_	start_char=6625|end_char=6626
+
+# text = – По странным результатам, которые показывали в тестах её ученики.
+# sent_id = 99
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	4	punct	_	start_char=6627|end_char=6628
+2	По	по	ADP	_	_	4	case	_	start_char=6629|end_char=6631
+3	странным	странный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	amod	_	start_char=6632|end_char=6640
+4	результатам	результат	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	0	root	_	start_char=6641|end_char=6652
+5	,	,	PUNCT	_	_	7	punct	_	start_char=6652|end_char=6653
+6	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	start_char=6654|end_char=6661
+7	показывали	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=6662|end_char=6672
+8	в	в	ADP	_	_	9	case	_	start_char=6673|end_char=6674
+9	тестах	тест	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	start_char=6675|end_char=6681
+10	её	ее	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=6682|end_char=6684
+11	ученики	ученик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=6685|end_char=6692
+12	.	.	PUNCT	_	_	4	punct	_	start_char=6692|end_char=6693
+
+# text = Они были слишком хороши, даже сначала заподозрили, что не обошлось без криллитанского масла.
+# sent_id = 100
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=6694|end_char=6697
+2	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=6698|end_char=6702
+3	слишком	слишком	ADV	_	Degree=Pos	4	advmod	_	start_char=6703|end_char=6710
+4	хороши	хороший	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=6711|end_char=6717
+5	,	,	PUNCT	_	_	8	punct	_	start_char=6717|end_char=6718
+6	даже	даже	PART	_	_	7	advmod	_	start_char=6719|end_char=6723
+7	сначала	сначала	ADV	_	Degree=Pos	8	advmod	_	start_char=6724|end_char=6731
+8	заподозрили	заподозрить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=6732|end_char=6743
+9	,	,	PUNCT	_	_	12	punct	_	start_char=6743|end_char=6744
+10	что	что	SCONJ	_	_	12	mark	_	start_char=6745|end_char=6748
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=6749|end_char=6751
+12	обошлось	обойтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	ccomp	_	start_char=6752|end_char=6760
+13	без	без	ADP	_	_	15	case	_	start_char=6761|end_char=6764
+14	криллитанского	криллитанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=6765|end_char=6779
+15	масла	масло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	start_char=6780|end_char=6785
+16	.	.	PUNCT	_	_	4	punct	_	start_char=6785|end_char=6786
+
+# text = Мы следим не только за небом.
+# sent_id = 101
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=6787|end_char=6789
+2	следим	следить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6790|end_char=6796
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=6797|end_char=6799
+4	только	только	PART	_	_	6	advmod	_	start_char=6800|end_char=6806
+5	за	за	ADP	_	_	6	case	_	start_char=6807|end_char=6809
+6	небом	небо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	start_char=6810|end_char=6815
+7	.	.	PUNCT	_	_	2	punct	_	start_char=6815|end_char=6816
+
+# text = – Но вы... и всё?
+# sent_id = 102
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6817|end_char=6818
+2	Но	но	CCONJ	_	_	3	cc	_	start_char=6819|end_char=6821
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	0	root	_	start_char=6822|end_char=6824
+4	...	...	PUNCT	_	_	6	punct	_	start_char=6824|end_char=6827
+5	и	и	CCONJ	_	_	6	cc	_	start_char=6828|end_char=6829
+6	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	conj	_	start_char=6830|end_char=6833
+7	?	?	PUNCT	_	_	3	punct	_	start_char=6833|end_char=6834
+
+# text = Джек улыбнулся.
+# sent_id = 103
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=6835|end_char=6839
+2	улыбнулся	улыбнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6840|end_char=6849
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6849|end_char=6850
+
+# text = – Ничего, даже меня одного на многое хватит.
+# sent_id = 104
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	9	punct	_	start_char=6851|end_char=6852
+2	Ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	9	nsubj	_	start_char=6853|end_char=6859
+3	,	,	PUNCT	_	_	9	punct	_	start_char=6859|end_char=6860
+4	даже	даже	PART	_	_	5	advmod	_	start_char=6861|end_char=6865
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	start_char=6866|end_char=6870
+6	одного	один	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	start_char=6871|end_char=6877
+7	на	на	ADP	_	_	8	case	_	start_char=6878|end_char=6880
+8	многое	многое	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	obl	_	start_char=6881|end_char=6887
+9	хватит	хватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6888|end_char=6894
+10	.	.	PUNCT	_	_	9	punct	_	start_char=6894|end_char=6895
+
+# text = Йен начал прощаться: – Ну, спасибо, что помогли и в этот раз...
+# sent_id = 105
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=6896|end_char=6899
+2	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6900|end_char=6905
+3	прощаться	прощаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=6906|end_char=6915
+4	:	:	PUNCT	_	_	8	punct	_	start_char=6915|end_char=6916
+5	–	–	PUNCT	_	_	8	punct	_	start_char=6917|end_char=6918
+6	Ну	ну	PART	_	_	8	discourse	_	start_char=6919|end_char=6921
+7	,	,	PUNCT	_	_	6	punct	_	start_char=6921|end_char=6922
+8	спасибо	спасибо	PART	_	_	2	parataxis	_	start_char=6923|end_char=6930
+9	,	,	PUNCT	_	_	11	punct	_	start_char=6930|end_char=6931
+10	что	что	SCONJ	_	_	11	mark	_	start_char=6932|end_char=6935
+11	помогли	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	start_char=6936|end_char=6943
+12	и	и	CCONJ	_	_	15	cc	_	start_char=6944|end_char=6945
+13	в	в	ADP	_	_	15	case	_	start_char=6946|end_char=6947
+14	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	start_char=6948|end_char=6952
+15	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=6953|end_char=6956
+16	...	...	PUNCT	_	_	2	punct	_	start_char=6956|end_char=6959
+
+# text = –
+# sent_id = 106
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	0	root	_	start_char=6960|end_char=6961
+
+# text = Спасибо, что позвонили.
+# sent_id = 107
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=6962|end_char=6969
+2	,	,	PUNCT	_	_	4	punct	_	start_char=6969|end_char=6970
+3	что	что	SCONJ	_	_	4	mark	_	start_char=6971|end_char=6974
+4	позвонили	позвонить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	start_char=6975|end_char=6984
+5	.	.	PUNCT	_	_	1	punct	_	start_char=6984|end_char=6985
+
+# text = – Да, я вот подумал: программа же не меняется, каждый год будут эти ацтеки и эссе... в смысле, как долго мне вот так вас вызывать?
+# sent_id = 108
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	6	punct	_	start_char=6986|end_char=6987
+2	Да	да	PART	_	_	6	parataxis	_	start_char=6988|end_char=6990
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6990|end_char=6991
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=6992|end_char=6993
+5	вот	вот	PART	_	_	6	advmod	_	start_char=6994|end_char=6997
+6	подумал	подумать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6998|end_char=7005
+7	:	:	PUNCT	_	_	11	punct	_	start_char=7005|end_char=7006
+8	программа	программа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=7007|end_char=7016
+9	же	же	PART	_	_	8	advmod	_	start_char=7017|end_char=7019
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=7020|end_char=7022
+11	меняется	меняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=7023|end_char=7031
+12	,	,	PUNCT	_	_	15	punct	_	start_char=7031|end_char=7032
+13	каждый	каждый	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	14	det	_	start_char=7033|end_char=7039
+14	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=7040|end_char=7043
+15	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	_	start_char=7044|end_char=7049
+16	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	17	det	_	start_char=7050|end_char=7053
+17	ацтеки	ацтека	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	start_char=7054|end_char=7060
+18	и	и	CCONJ	_	_	19	cc	_	start_char=7061|end_char=7062
+19	эссе	эссе	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	conj	_	start_char=7063|end_char=7067
+20	...	...	PUNCT	_	_	22	punct	_	start_char=7067|end_char=7070
+21	в	в	ADP	_	_	22	case	_	start_char=7071|end_char=7072
+22	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	obl	_	start_char=7073|end_char=7079
+23	,	,	PUNCT	_	_	30	punct	_	start_char=7079|end_char=7080
+24	как	как	ADV	_	Degree=Pos|PronType=Int	30	advmod	_	start_char=7081|end_char=7084
+25	долго	долго	ADV	_	Degree=Pos	30	advmod	_	start_char=7085|end_char=7090
+26	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	30	iobj	_	start_char=7091|end_char=7094
+27	вот	вот	PART	_	_	28	advmod	_	start_char=7095|end_char=7098
+28	так	так	ADV	_	Degree=Pos|PronType=Dem	30	advmod	_	start_char=7099|end_char=7102
+29	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	30	obj	_	start_char=7103|end_char=7106
+30	вызывать	вызывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	parataxis	_	start_char=7107|end_char=7115
+31	?	?	PUNCT	_	_	6	punct	_	start_char=7115|end_char=7116
+
+# text = До конца жизни?
+# sent_id = 109
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	До	до	ADP	_	_	2	case	_	start_char=7117|end_char=7119
+2	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=7120|end_char=7125
+3	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=7126|end_char=7131
+4	?	?	PUNCT	_	_	2	punct	_	start_char=7131|end_char=7132
+
+# text = Джек пожал плечами: – Память – очень хитрая штука.
+# sent_id = 110
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=7133|end_char=7137
+2	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7138|end_char=7143
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	obj	_	start_char=7144|end_char=7151
+4	:	:	PUNCT	_	_	10	punct	_	start_char=7151|end_char=7152
+5	–	–	PUNCT	_	_	10	punct	_	start_char=7153|end_char=7154
+6	Память	память	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=7155|end_char=7161
+7	–	–	PUNCT	_	_	6	punct	_	start_char=7162|end_char=7163
+8	очень	очень	ADV	_	Degree=Pos	9	advmod	_	start_char=7164|end_char=7169
+9	хитрая	хитрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=7170|end_char=7176
+10	штука	штука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	start_char=7177|end_char=7182
+11	.	.	PUNCT	_	_	2	punct	_	start_char=7182|end_char=7183
+
+# text = Однажды, когда всё происходит, она записывается, а потом, когда вы это вспоминаете, стирается и записывается заново, уже с искажениями, внесёнными в нее обстоятельствами, при которых вспоминалось.
+# sent_id = 111
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Однажды	однажды	ADV	_	Degree=Pos	8	advmod	_	start_char=7184|end_char=7191
+2	,	,	PUNCT	_	_	5	punct	_	start_char=7191|end_char=7192
+3	когда	когда	SCONJ	_	_	5	mark	_	start_char=7193|end_char=7198
+4	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	nsubj	_	start_char=7199|end_char=7202
+5	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=7203|end_char=7213
+6	,	,	PUNCT	_	_	5	punct	_	start_char=7213|end_char=7214
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=7215|end_char=7218
+8	записывается	записывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7219|end_char=7231
+9	,	,	PUNCT	_	_	18	punct	_	start_char=7231|end_char=7232
+10	а	а	CCONJ	_	_	18	cc	_	start_char=7233|end_char=7234
+11	потом	потом	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=7235|end_char=7240
+12	,	,	PUNCT	_	_	16	punct	_	start_char=7240|end_char=7241
+13	когда	когда	SCONJ	_	_	16	mark	_	start_char=7242|end_char=7247
+14	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	start_char=7248|end_char=7250
+15	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	16	obj	_	start_char=7251|end_char=7254
+16	вспоминаете	вспоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=7255|end_char=7266
+17	,	,	PUNCT	_	_	16	punct	_	start_char=7266|end_char=7267
+18	стирается	стираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=7268|end_char=7277
+19	и	и	CCONJ	_	_	20	cc	_	start_char=7278|end_char=7279
+20	записывается	записывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	conj	_	start_char=7280|end_char=7292
+21	заново	заново	ADV	_	Degree=Pos	20	advmod	_	start_char=7293|end_char=7299
+22	,	,	PUNCT	_	_	25	punct	_	start_char=7299|end_char=7300
+23	уже	уже	ADV	_	Degree=Pos	25	advmod	_	start_char=7301|end_char=7304
+24	с	с	ADP	_	_	25	case	_	start_char=7305|end_char=7306
+25	искажениями	искажение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	18	obl	_	start_char=7307|end_char=7318
+26	,	,	PUNCT	_	_	27	punct	_	start_char=7318|end_char=7319
+27	внесёнными	внестить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	25	acl	_	start_char=7320|end_char=7330
+28	в	в	ADP	_	_	29	case	_	start_char=7331|end_char=7332
+29	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obl	_	start_char=7333|end_char=7336
+30	обстоятельствами	обстоятельство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	27	iobj	_	start_char=7337|end_char=7353
+31	,	,	PUNCT	_	_	34	punct	_	start_char=7353|end_char=7354
+32	при	при	ADP	_	_	33	case	_	start_char=7355|end_char=7358
+33	которых	который	PRON	_	Case=Loc|Number=Plur|PronType=Rel	34	obl	_	start_char=7359|end_char=7366
+34	вспоминалось	вспоминаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	30	acl:relcl	_	start_char=7367|end_char=7379
+35	.	.	PUNCT	_	_	8	punct	_	start_char=7379|end_char=7380
+
+# text = Так что вполне вероятно, что однажды ассоциативная цепочка прервется или сформируется какая-то другая.
+# sent_id = 112
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	mark	_	start_char=7381|end_char=7384
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=7385|end_char=7388
+3	вполне	вполне	ADV	_	Degree=Pos	4	advmod	_	start_char=7389|end_char=7395
+4	вероятно	вероятно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=7396|end_char=7404
+5	,	,	PUNCT	_	_	10	punct	_	start_char=7404|end_char=7405
+6	что	что	SCONJ	_	_	10	mark	_	start_char=7406|end_char=7409
+7	однажды	однажды	ADV	_	Degree=Pos	10	advmod	_	start_char=7410|end_char=7417
+8	ассоциативная	ассоциативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=7418|end_char=7431
+9	цепочка	цепочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=7432|end_char=7439
+10	прервется	прерваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	ccomp	_	start_char=7440|end_char=7449
+11	или	или	CCONJ	_	_	12	cc	_	start_char=7450|end_char=7453
+12	сформируется	сформироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=7454|end_char=7466
+13	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	start_char=7467|end_char=7475
+14	другая	другой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	12	nsubj	_	start_char=7476|end_char=7482
+15	.	.	PUNCT	_	_	4	punct	_	start_char=7482|end_char=7483
+
+# text = А вообще мой вам совет – подумайте о детях.
+# sent_id = 113
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	А	а	CCONJ	_	_	5	cc	_	start_char=7484|end_char=7485
+2	вообще	вообще	ADV	_	Degree=Pos	5	advmod	_	start_char=7486|end_char=7492
+3	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	start_char=7493|end_char=7496
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	iobj	_	start_char=7497|end_char=7500
+5	совет	совет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=7501|end_char=7506
+6	–	–	PUNCT	_	_	7	punct	_	start_char=7507|end_char=7508
+7	подумайте	подумать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=7509|end_char=7518
+8	о	о	ADP	_	_	9	case	_	start_char=7519|end_char=7520
+9	детях	ребенок	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur	7	obl	_	start_char=7521|end_char=7526
+10	.	.	PUNCT	_	_	5	punct	_	start_char=7526|end_char=7527
+
+# text = – Что?
+# sent_id = 114
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7528|end_char=7529
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=7530|end_char=7533
+3	?	?	PUNCT	_	_	2	punct	_	start_char=7533|end_char=7534
+
+# text = – Йен подумал, что ослышался.
+# sent_id = 115
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	3	punct	_	start_char=7535|end_char=7536
+2	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=7537|end_char=7540
+3	подумал	подумать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7541|end_char=7548
+4	,	,	PUNCT	_	_	6	punct	_	start_char=7548|end_char=7549
+5	что	что	SCONJ	_	_	6	mark	_	start_char=7550|end_char=7553
+6	ослышался	ослышаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=7554|end_char=7563
+7	.	.	PUNCT	_	_	3	punct	_	start_char=7563|end_char=7564
+
+# text = – Ну, это обеспечит ей перерыв в учительской деятельности.
+# sent_id = 116
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	5	punct	_	start_char=7565|end_char=7566
+2	Ну	ну	PART	_	_	5	discourse	_	start_char=7567|end_char=7569
+3	,	,	PUNCT	_	_	2	punct	_	start_char=7569|end_char=7570
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=7571|end_char=7574
+5	обеспечит	обеспечать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=7575|end_char=7584
+6	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	iobj	_	start_char=7585|end_char=7587
+7	перерыв	перерыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=7588|end_char=7595
+8	в	в	ADP	_	_	10	case	_	start_char=7596|end_char=7597
+9	учительской	учительский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=7598|end_char=7609
+10	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	start_char=7610|end_char=7622
+11	.	.	PUNCT	_	_	5	punct	_	start_char=7622|end_char=7623
+
+# text = Год, а то и два, она не будет читать про этих ацтеков.
+# sent_id = 117
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	Год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=7624|end_char=7627
+2	,	,	PUNCT	_	_	6	punct	_	start_char=7627|end_char=7628
+3	а	а	CCONJ	_	_	6	cc	_	start_char=7629|end_char=7630
+4	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	fixed	_	start_char=7631|end_char=7633
+5	и	и	PART	_	_	6	advmod	_	start_char=7634|end_char=7635
+6	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card	1	conj	_	start_char=7636|end_char=7639
+7	,	,	PUNCT	_	_	1	punct	_	start_char=7639|end_char=7640
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=7641|end_char=7644
+9	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=7645|end_char=7647
+10	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	aux	_	start_char=7648|end_char=7653
+11	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=7654|end_char=7660
+12	про	про	ADP	_	_	14	case	_	start_char=7661|end_char=7664
+13	этих	этот	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	14	det	_	start_char=7665|end_char=7669
+14	ацтеков	ацтек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	start_char=7670|end_char=7677
+15	.	.	PUNCT	_	_	11	punct	_	start_char=7677|end_char=7678
+
+# text = А потом, глядишь, появится другая ассоциация, скажем, что Доктор там был со своей внучкой, своим потомком, и она начнет думать о ближайшем потомке, а не о каких-то будущих временах, которые, как ни путешествуй, остаются больше абстракцией.
+# sent_id = 118
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	А	а	CCONJ	_	_	6	cc	_	start_char=7679|end_char=7680
+2	потом	потом	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=7681|end_char=7686
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7686|end_char=7687
+4	глядишь	глядеть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=7688|end_char=7695
+5	,	,	PUNCT	_	_	4	punct	_	start_char=7695|end_char=7696
+6	появится	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7697|end_char=7705
+7	другая	другой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	8	det	_	start_char=7706|end_char=7712
+8	ассоциация	ассоциация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=7713|end_char=7723
+9	,	,	PUNCT	_	_	10	punct	_	start_char=7723|end_char=7724
+10	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	start_char=7725|end_char=7731
+11	,	,	PUNCT	_	_	15	punct	_	start_char=7731|end_char=7732
+12	что	что	SCONJ	_	_	15	mark	_	start_char=7733|end_char=7736
+13	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=7737|end_char=7743
+14	там	там	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=7744|end_char=7747
+15	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	start_char=7748|end_char=7751
+16	со	со	ADP	_	_	18	case	_	start_char=7752|end_char=7754
+17	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	18	det	_	start_char=7755|end_char=7760
+18	внучкой	внучка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	start_char=7761|end_char=7768
+19	,	,	PUNCT	_	_	21	punct	_	start_char=7768|end_char=7769
+20	своим	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	21	det	_	start_char=7770|end_char=7775
+21	потомком	потомок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	18	conj	_	start_char=7776|end_char=7784
+22	,	,	PUNCT	_	_	25	punct	_	start_char=7784|end_char=7785
+23	и	и	CCONJ	_	_	25	cc	_	start_char=7786|end_char=7787
+24	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=7788|end_char=7791
+25	начнет	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	start_char=7792|end_char=7798
+26	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=7799|end_char=7805
+27	о	о	ADP	_	_	29	case	_	start_char=7806|end_char=7807
+28	ближайшем	ближайший	ADJ	_	Case=Loc|Degree=Sup|Gender=Masc|Number=Sing	29	amod	_	start_char=7808|end_char=7817
+29	потомке	потомок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	obl	_	start_char=7818|end_char=7825
+30	,	,	PUNCT	_	_	36	punct	_	start_char=7825|end_char=7826
+31	а	а	CCONJ	_	_	36	cc	_	start_char=7827|end_char=7828
+32	не	не	PART	_	Polarity=Neg	36	advmod	_	start_char=7829|end_char=7831
+33	о	о	ADP	_	_	36	case	_	start_char=7832|end_char=7833
+34	каких-то	какой-то	DET	_	Case=Loc|Number=Plur|PronType=Ind	36	det	_	start_char=7834|end_char=7842
+35	будущих	будущий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	36	amod	_	start_char=7843|end_char=7850
+36	временах	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	29	conj	_	start_char=7851|end_char=7859
+37	,	,	PUNCT	_	_	44	punct	_	start_char=7859|end_char=7860
+38	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	44	nsubj	_	start_char=7861|end_char=7868
+39	,	,	PUNCT	_	_	42	punct	_	start_char=7868|end_char=7869
+40	как	как	SCONJ	_	_	42	mark	_	start_char=7870|end_char=7873
+41	ни	ни	PART	_	Polarity=Neg	42	advmod	_	start_char=7874|end_char=7876
+42	путешествуй	путешести	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	44	parataxis	_	start_char=7877|end_char=7888
+43	,	,	PUNCT	_	_	42	punct	_	start_char=7888|end_char=7889
+44	остаются	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	36	acl:relcl	_	start_char=7890|end_char=7898
+45	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	44	advmod	_	start_char=7899|end_char=7905
+46	абстракцией	абстракция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	44	obl	_	start_char=7906|end_char=7917
+47	.	.	PUNCT	_	_	6	punct	_	start_char=7917|end_char=7918
+
+# text = – Да, наверное, надо будет подумать о детях, – взглянул на необходимость продолжения рода с другой стороны Йен.
+# sent_id = 119
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	6	punct	_	start_char=7919|end_char=7920
+2	Да	да	PART	_	_	6	parataxis	_	start_char=7921|end_char=7923
+3	,	,	PUNCT	_	_	2	punct	_	start_char=7923|end_char=7924
+4	наверное	наверное	ADV	_	Degree=Pos	6	parataxis	_	start_char=7925|end_char=7933
+5	,	,	PUNCT	_	_	4	punct	_	start_char=7933|end_char=7934
+6	надо	надо	VERB	_	_	0	root	_	start_char=7935|end_char=7939
+7	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=7940|end_char=7945
+8	подумать	подумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=7946|end_char=7954
+9	о	о	ADP	_	_	10	case	_	start_char=7955|end_char=7956
+10	детях	ребенок	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Plur	8	obl	_	start_char=7957|end_char=7962
+11	,	,	PUNCT	_	_	13	punct	_	start_char=7962|end_char=7963
+12	–	–	PUNCT	_	_	13	punct	_	start_char=7964|end_char=7965
+13	взглянул	взглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=7966|end_char=7974
+14	на	на	ADP	_	_	15	case	_	start_char=7975|end_char=7977
+15	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	start_char=7978|end_char=7991
+16	продолжения	продолжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	start_char=7992|end_char=8003
+17	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	start_char=8004|end_char=8008
+18	с	с	ADP	_	_	20	case	_	start_char=8009|end_char=8010
+19	другой	другой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	20	det	_	start_char=8011|end_char=8017
+20	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	start_char=8018|end_char=8025
+21	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	13	nsubj	_	start_char=8026|end_char=8029
+22	.	.	PUNCT	_	_	6	punct	_	start_char=8029|end_char=8030
+
+# text = – Спасибо за совет.
+# sent_id = 120
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	–	–	PUNCT	_	_	2	punct	_	start_char=8031|end_char=8032
+2	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=8033|end_char=8040
+3	за	за	ADP	_	_	4	case	_	start_char=8041|end_char=8043
+4	совет	совет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	start_char=8044|end_char=8049
+5	.	.	PUNCT	_	_	2	punct	_	start_char=8049|end_char=8050
+
+# text = И как насчет считать, что это наш небольшой мужской заговор во имя будущего?
+# sent_id = 121
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	И	и	CCONJ	_	_	4	cc	_	start_char=8051|end_char=8052
+2	как	как	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=8053|end_char=8056
+3	насчет	насчет	ADV	_	Degree=Pos	4	advmod	_	start_char=8057|end_char=8063
+4	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=8064|end_char=8071
+5	,	,	PUNCT	_	_	11	punct	_	start_char=8071|end_char=8072
+6	что	что	SCONJ	_	_	11	mark	_	start_char=8073|end_char=8076
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=8077|end_char=8080
+8	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	start_char=8081|end_char=8084
+9	небольшой	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=8085|end_char=8094
+10	мужской	мужской	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=8095|end_char=8102
+11	заговор	заговор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	ccomp	_	start_char=8103|end_char=8110
+12	во	во	ADP	_	_	14	case	_	start_char=8111|end_char=8113
+13	имя	имя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	fixed	_	start_char=8114|end_char=8117
+14	будущего	будущее	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	start_char=8118|end_char=8126
+15	?	?	PUNCT	_	_	4	punct	_	start_char=8126|end_char=8127
+
+# text = В конце концов, уж своего-то ребёнка мы подготовим ко встрече с ним!
+# sent_id = 122
+# metadata = Название: Заговор во имя будущего, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546bc66800000a7d22c0059a/1/Zagovor-vo-imya-budushego
+1	В	в	ADP	_	_	9	parataxis	_	start_char=8128|end_char=8129
+2	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	fixed	_	start_char=8130|end_char=8135
+3	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	fixed	_	start_char=8136|end_char=8142
+4	,	,	PUNCT	_	_	1	punct	_	start_char=8142|end_char=8143
+5	уж	уж	PART	_	_	6	advmod	_	start_char=8144|end_char=8146
+6	своего-то	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	start_char=8147|end_char=8156
+7	ребёнка	ребенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=8157|end_char=8164
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=8165|end_char=8167
+9	подготовим	подготовить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=8168|end_char=8178
+10	ко	ко	ADP	_	_	11	case	_	start_char=8179|end_char=8181
+11	встрече	встреча	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	obl	_	start_char=8182|end_char=8189
+12	с	с	ADP	_	_	13	case	_	start_char=8190|end_char=8191
+13	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	start_char=8192|end_char=8195
+14	!	!	PUNCT	_	_	9	punct	_	start_char=8195|end_char=8196
+

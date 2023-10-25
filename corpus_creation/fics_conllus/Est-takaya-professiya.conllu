@@ -1,0 +1,458 @@
+# text = - Не могу, не могу я так больше!
+# sent_id = 0
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	3	punct	_	start_char=0|end_char=1
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2|end_char=4
+3	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5|end_char=9
+4	,	,	PUNCT	_	_	6	punct	_	start_char=9|end_char=10
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=11|end_char=13
+6	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=14|end_char=18
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=19|end_char=20
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=21|end_char=24
+9	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	6	advmod	_	start_char=25|end_char=31
+10	!	!	PUNCT	_	_	3	punct	_	start_char=31|end_char=32
+
+# text = - рыдала Джо в кабинете Бригадира.
+# sent_id = 1
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	2	punct	_	start_char=33|end_char=34
+2	рыдала	рыдать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=35|end_char=41
+3	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=42|end_char=45
+4	в	в	ADP	_	_	5	case	_	start_char=46|end_char=47
+5	кабинете	кабинет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=48|end_char=56
+6	Бригадира	Бригадир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	nmod	_	start_char=57|end_char=66
+7	.	.	PUNCT	_	_	2	punct	_	start_char=66|end_char=67
+
+# text = - Он такой!
+# sent_id = 2
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	3	punct	_	start_char=68|end_char=69
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=70|end_char=72
+3	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	start_char=73|end_char=78
+4	!	!	PUNCT	_	_	3	punct	_	start_char=78|end_char=79
+
+# text = Он... он смотрит на меня, как на... на дочь!
+# sent_id = 3
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=80|end_char=82
+2	...	...	PUNCT	_	_	1	punct	_	start_char=82|end_char=85
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=86|end_char=88
+4	смотрит	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=89|end_char=96
+5	на	на	ADP	_	_	6	case	_	start_char=97|end_char=99
+6	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=100|end_char=104
+7	,	,	PUNCT	_	_	9	punct	_	start_char=104|end_char=105
+8	как	как	SCONJ	_	_	9	case	_	start_char=106|end_char=109
+9	на	на	ADP	_	_	12	case	_	start_char=110|end_char=112
+10	...	...	PUNCT	_	_	9	punct	_	start_char=112|end_char=115
+11	на	на	ADP	_	_	12	case	_	start_char=116|end_char=118
+12	дочь	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	obl	_	start_char=119|end_char=123
+13	!	!	PUNCT	_	_	4	punct	_	start_char=123|end_char=124
+
+# text = А я... я его!...
+# sent_id = 4
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	А	а	CCONJ	_	_	2	cc	_	start_char=125|end_char=126
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=127|end_char=128
+3	...	...	PUNCT	_	_	2	punct	_	start_char=128|end_char=131
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	vocative	_	start_char=132|end_char=133
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	orphan	_	start_char=134|end_char=137
+6	!...	!...	PUNCT	_	_	2	punct	_	start_char=137|end_char=141
+
+# text = Бригадир молча подвинул ей стакан воды.
+# sent_id = 5
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=142|end_char=150
+2	молча	молча	ADV	_	Degree=Pos	3	advmod	_	start_char=151|end_char=156
+3	подвинул	подвинуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=157|end_char=165
+4	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=166|end_char=168
+5	стакан	стакан	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=169|end_char=175
+6	воды	вода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=176|end_char=180
+7	.	.	PUNCT	_	_	3	punct	_	start_char=180|end_char=181
+
+# text = Девушка сделала несколько глотков.
+# sent_id = 6
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=182|end_char=189
+2	сделала	сделать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=190|end_char=197
+3	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	nummod:gov	_	start_char=198|end_char=207
+4	глотков	глоток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	start_char=208|end_char=215
+5	.	.	PUNCT	_	_	2	punct	_	start_char=215|end_char=216
+
+# text = Зубы немилосердно стучали о стекло, но она начала успокаиваться.
+# sent_id = 7
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Зубы	зуб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=217|end_char=221
+2	немилосердно	немилосердно	ADV	_	Degree=Pos	3	advmod	_	start_char=222|end_char=234
+3	стучали	стучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=235|end_char=242
+4	о	о	ADP	_	_	5	case	_	start_char=243|end_char=244
+5	стекло	стекло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	start_char=245|end_char=251
+6	,	,	PUNCT	_	_	9	punct	_	start_char=251|end_char=252
+7	но	но	CCONJ	_	_	9	cc	_	start_char=253|end_char=255
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=256|end_char=259
+9	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=260|end_char=266
+10	успокаиваться	успокаиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=267|end_char=280
+11	.	.	PUNCT	_	_	3	punct	_	start_char=280|end_char=281
+
+# text = Только тогда Бригадир заговорил: - Есть такая профессия, лейтенант Грант - родину защищать.
+# sent_id = 8
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Только	только	PART	_	_	2	advmod	_	start_char=282|end_char=288
+2	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=289|end_char=294
+3	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=295|end_char=303
+4	заговорил	заговорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=304|end_char=313
+5	:	:	PUNCT	_	_	7	punct	_	start_char=313|end_char=314
+6	-	-	PUNCT	_	_	7	punct	_	start_char=315|end_char=316
+7	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=317|end_char=321
+8	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=322|end_char=327
+9	профессия	профессия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=328|end_char=337
+10	,	,	PUNCT	_	_	15	punct	_	start_char=337|end_char=338
+11	лейтенант	лейтенант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=339|end_char=348
+12	Грант	Грант	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	appos	_	start_char=349|end_char=354
+13	-	-	PUNCT	_	_	14	punct	_	start_char=355|end_char=356
+14	родину	родина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=357|end_char=363
+15	защищать	защищать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=364|end_char=372
+16	.	.	PUNCT	_	_	4	punct	_	start_char=372|end_char=373
+
+# text = А вы сейчас на самом передовом рубеже, в самой горячей точке!
+# sent_id = 9
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	А	а	CCONJ	_	_	7	cc	_	start_char=374|end_char=375
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=376|end_char=378
+3	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=379|end_char=385
+4	на	на	ADP	_	_	7	case	_	start_char=386|end_char=388
+5	самом	самый	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Emp	6	det	_	start_char=389|end_char=394
+6	передовом	передов	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=395|end_char=404
+7	рубеже	рубеж	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=405|end_char=411
+8	,	,	PUNCT	_	_	12	punct	_	start_char=411|end_char=412
+9	в	в	ADP	_	_	12	case	_	start_char=413|end_char=414
+10	самой	сам	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Emp	12	det	_	start_char=415|end_char=420
+11	горячей	горячий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=421|end_char=428
+12	точке	точка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	conj	_	start_char=429|end_char=434
+13	!	!	PUNCT	_	_	7	punct	_	start_char=434|end_char=435
+
+# text = Не могу сказать, что страна смотрит на вас - простым гражданам о вашем существовании знать не положено.
+# sent_id = 10
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=436|end_char=438
+2	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=439|end_char=443
+3	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=444|end_char=451
+4	,	,	PUNCT	_	_	7	punct	_	start_char=451|end_char=452
+5	что	что	SCONJ	_	_	7	mark	_	start_char=453|end_char=456
+6	страна	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=457|end_char=463
+7	смотрит	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=464|end_char=471
+8	на	на	ADP	_	_	9	case	_	start_char=472|end_char=474
+9	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	obl	_	start_char=475|end_char=478
+10	-	-	PUNCT	_	_	18	punct	_	start_char=479|end_char=480
+11	простым	простой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	12	amod	_	start_char=481|end_char=488
+12	гражданам	гражданин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	18	iobj	_	start_char=489|end_char=498
+13	о	о	ADP	_	_	15	case	_	start_char=499|end_char=500
+14	вашем	ваш	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=501|end_char=506
+15	существовании	существование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	obl	_	start_char=507|end_char=520
+16	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	start_char=521|end_char=526
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=527|end_char=529
+18	положено	положенный	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	parataxis	_	start_char=530|end_char=538
+19	.	.	PUNCT	_	_	2	punct	_	start_char=538|end_char=539
+
+# text = Но от вас, вашего ума, вашей наблюдательности, вашей реакции столько зависит - страшно представить.
+# sent_id = 11
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Но	но	CCONJ	_	_	14	cc	_	start_char=540|end_char=542
+2	от	от	ADP	_	_	3	case	_	start_char=543|end_char=545
+3	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	14	obl	_	start_char=546|end_char=549
+4	,	,	PUNCT	_	_	6	punct	_	start_char=549|end_char=550
+5	вашего	ваш	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=551|end_char=557
+6	ума	ум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	start_char=558|end_char=561
+7	,	,	PUNCT	_	_	9	punct	_	start_char=561|end_char=562
+8	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=563|end_char=568
+9	наблюдательности	наблюдательность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	conj	_	start_char=569|end_char=585
+10	,	,	PUNCT	_	_	3	punct	_	start_char=585|end_char=586
+11	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	start_char=587|end_char=592
+12	реакции	реакция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obj	_	start_char=593|end_char=600
+13	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	12	nummod:gov	_	start_char=601|end_char=608
+14	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=609|end_char=616
+15	-	-	PUNCT	_	_	16	punct	_	start_char=617|end_char=618
+16	страшно	страшный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	parataxis	_	start_char=619|end_char=626
+17	представить	представлять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	csubj	_	start_char=627|end_char=638
+18	.	.	PUNCT	_	_	14	punct	_	start_char=638|end_char=639
+
+# text = Так что прекращайте тут мне истерику и возвращайтесь на рабочее место, пока ваш подшефный ничего не натворил и никуда не вляпался.
+# sent_id = 12
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	mark	_	start_char=640|end_char=643
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=644|end_char=647
+3	прекращайте	прекращать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=648|end_char=659
+4	тут	тут	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=660|end_char=663
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=664|end_char=667
+6	истерику	истерика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=668|end_char=676
+7	и	и	CCONJ	_	_	8	cc	_	start_char=677|end_char=678
+8	возвращайтесь	возвращаться	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=679|end_char=692
+9	на	на	ADP	_	_	11	case	_	start_char=693|end_char=695
+10	рабочее	рабочий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	start_char=696|end_char=703
+11	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	start_char=704|end_char=709
+12	,	,	PUNCT	_	_	18	punct	_	start_char=709|end_char=710
+13	пока	пока	SCONJ	_	_	18	mark	_	start_char=711|end_char=715
+14	ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=716|end_char=719
+15	подшефный	подшефный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nsubj	_	start_char=720|end_char=729
+16	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	18	obj	_	start_char=730|end_char=736
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=737|end_char=739
+18	натворил	натворить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=740|end_char=748
+19	и	и	CCONJ	_	_	22	cc	_	start_char=749|end_char=750
+20	никуда	никуда	ADV	_	Degree=Pos|PronType=Neg	22	advmod	_	start_char=751|end_char=757
+21	не	не	PART	_	Polarity=Neg	22	advmod	_	start_char=758|end_char=760
+22	вляпался	вляпаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	conj	_	start_char=761|end_char=769
+23	.	.	PUNCT	_	_	3	punct	_	start_char=769|end_char=770
+
+# text = Это приказ.
+# sent_id = 13
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=771|end_char=774
+2	приказ	приказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=775|end_char=781
+3	.	.	PUNCT	_	_	2	punct	_	start_char=781|end_char=782
+
+# text = Исполнять.
+# sent_id = 14
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Исполнять	исполнять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=783|end_char=792
+2	.	.	PUNCT	_	_	1	punct	_	start_char=792|end_char=793
+
+# text = - Есть, сэр! - мисс Грант отточенным движением отдала честь, щелкнула каблуками модных туфель и повернулась кругом.
+# sent_id = 15
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	10	punct	_	start_char=794|end_char=795
+2	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=796|end_char=800
+3	,	,	PUNCT	_	_	10	punct	_	start_char=800|end_char=801
+4	сэр!	сэр!	NOUN	_	_	10	nsubj	_	start_char=802|end_char=806
+5	-	-	PUNCT	_	_	6	punct	_	start_char=807|end_char=808
+6	мисс	мисс	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	start_char=809|end_char=813
+7	Грант	Грант	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	appos	_	start_char=814|end_char=819
+8	отточенным	отточить	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	start_char=820|end_char=830
+9	движением	движение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	start_char=831|end_char=840
+10	отдала	отдать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=841|end_char=847
+11	честь	честь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=848|end_char=853
+12	,	,	PUNCT	_	_	13	punct	_	start_char=853|end_char=854
+13	щелкнула	щелкнуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=855|end_char=863
+14	каблуками	каблук	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	iobj	_	start_char=864|end_char=873
+15	модных	модный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	start_char=874|end_char=880
+16	туфель	туфель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	start_char=881|end_char=887
+17	и	и	CCONJ	_	_	18	cc	_	start_char=888|end_char=889
+18	повернулась	повернуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=890|end_char=901
+19	кругом	кругом	ADV	_	Degree=Pos	18	advmod	_	start_char=902|end_char=908
+20	.	.	PUNCT	_	_	2	punct	_	start_char=908|end_char=909
+
+# text = - Униформу не забудьте!
+# sent_id = 16
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	4	punct	_	start_char=910|end_char=911
+2	Униформу	униформа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=912|end_char=920
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=921|end_char=923
+4	забудьте	забыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=924|end_char=932
+5	!	!	PUNCT	_	_	4	punct	_	start_char=932|end_char=933
+
+# text = - Бригадир протянул ей скинутую в начале разговора коротенькую шубку из искусственного розового меха.
+# sent_id = 17
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	3	punct	_	start_char=934|end_char=935
+2	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=936|end_char=944
+3	протянул	протянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=945|end_char=953
+4	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=954|end_char=956
+5	скинутую	скинуть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	acl	_	start_char=957|end_char=965
+6	в	в	ADP	_	_	7	case	_	start_char=966|end_char=967
+7	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=968|end_char=974
+8	разговора	разговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=975|end_char=984
+9	коротенькую	коротенький	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=985|end_char=996
+10	шубку	шубка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=997|end_char=1002
+11	из	из	ADP	_	_	14	case	_	start_char=1003|end_char=1005
+12	искусственного	искусственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=1006|end_char=1020
+13	розового	розовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=1021|end_char=1029
+14	меха	мех	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=1030|end_char=1034
+15	.	.	PUNCT	_	_	3	punct	_	start_char=1034|end_char=1035
+
+# text = - О, простите, сэр, - уже совершенно другим тоном произнесла она, улыбнулась и вышла из кабинета.
+# sent_id = 18
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	4	punct	_	start_char=1036|end_char=1037
+2	О	о	INTJ	_	_	4	discourse	_	start_char=1038|end_char=1039
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1039|end_char=1040
+4	простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1041|end_char=1049
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1049|end_char=1050
+6	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	start_char=1051|end_char=1054
+7	,	,	PUNCT	_	_	13	punct	_	start_char=1054|end_char=1055
+8	-	-	PUNCT	_	_	13	punct	_	start_char=1056|end_char=1057
+9	уже	уже	ADV	_	Degree=Pos	10	advmod	_	start_char=1058|end_char=1061
+10	совершенно	совершенно	ADV	_	Degree=Pos	11	advmod	_	start_char=1062|end_char=1072
+11	другим	другой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	12	det	_	start_char=1073|end_char=1079
+12	тоном	тон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	iobj	_	start_char=1080|end_char=1085
+13	произнесла	произнести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1086|end_char=1096
+14	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=1097|end_char=1100
+15	,	,	PUNCT	_	_	16	punct	_	start_char=1100|end_char=1101
+16	улыбнулась	улыбнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	conj	_	start_char=1102|end_char=1112
+17	и	и	CCONJ	_	_	18	cc	_	start_char=1113|end_char=1114
+18	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=1115|end_char=1120
+19	из	из	ADP	_	_	20	case	_	start_char=1121|end_char=1123
+20	кабинета	кабинет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	obl	_	start_char=1124|end_char=1132
+21	.	.	PUNCT	_	_	4	punct	_	start_char=1132|end_char=1133
+
+# text = За дверью ее дожидался ее подопечный.
+# sent_id = 19
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	За	за	ADP	_	_	2	case	_	start_char=1134|end_char=1136
+2	дверью	дверь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	start_char=1137|end_char=1143
+3	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=1144|end_char=1146
+4	дожидался	дожидаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1147|end_char=1156
+5	ее	ее	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=1157|end_char=1159
+6	подопечный	подопечный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1160|end_char=1170
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1170|end_char=1171
+
+# text = - Джо, что случилось?
+# sent_id = 20
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	5	punct	_	start_char=1172|end_char=1173
+2	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	vocative	_	start_char=1174|end_char=1177
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1177|end_char=1178
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	start_char=1179|end_char=1182
+5	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1183|end_char=1192
+6	?	?	PUNCT	_	_	5	punct	_	start_char=1192|end_char=1193
+
+# text = Бригадир тебя вызывал?
+# sent_id = 21
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1194|end_char=1202
+2	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	start_char=1203|end_char=1207
+3	вызывал	вызывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1208|end_char=1215
+4	?	?	PUNCT	_	_	3	punct	_	start_char=1215|end_char=1216
+
+# text = Он чем-то тебя расстроил?
+# sent_id = 22
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1217|end_char=1219
+2	чем-то	что-то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	4	iobj	_	start_char=1220|end_char=1226
+3	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	start_char=1227|end_char=1231
+4	расстроил	расстроить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1232|end_char=1241
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1241|end_char=1242
+
+# text = У тебя глаза красные.
+# sent_id = 23
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	У	у	ADP	_	_	2	case	_	start_char=1243|end_char=1244
+2	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	obl	_	start_char=1245|end_char=1249
+3	глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=1250|end_char=1255
+4	красные	красный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=1256|end_char=1263
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1263|end_char=1264
+
+# text = И нос.
+# sent_id = 24
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	И	и	CCONJ	_	_	2	cc	_	start_char=1265|end_char=1266
+2	нос	нос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1267|end_char=1270
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1270|end_char=1271
+
+# text = - О нет, ничего-ничего.
+# sent_id = 25
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1272|end_char=1273
+2	О	о	INTJ	_	_	3	discourse	_	start_char=1274|end_char=1275
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=1276|end_char=1279
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1279|end_char=1280
+5	ничего-ничего	ничего-ничо	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	3	conj	_	start_char=1281|end_char=1294
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1294|end_char=1295
+
+# text = Просто не очень хорошие вести из дома.
+# sent_id = 26
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Просто	просто	PART	_	_	5	advmod	_	start_char=1296|end_char=1302
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1303|end_char=1305
+3	очень	очень	ADV	_	Degree=Pos	4	advmod	_	start_char=1306|end_char=1311
+4	хорошие	хороший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	0	root	_	start_char=1312|end_char=1319
+5	вести	вести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=1320|end_char=1325
+6	из	из	ADP	_	_	7	case	_	start_char=1326|end_char=1328
+7	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=1329|end_char=1333
+8	.	.	PUNCT	_	_	4	punct	_	start_char=1333|end_char=1334
+
+# text = - Может, тебе взять отпуск?
+# sent_id = 27
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	5	punct	_	start_char=1335|end_char=1336
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=1337|end_char=1342
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1342|end_char=1343
+4	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	start_char=1344|end_char=1348
+5	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1349|end_char=1354
+6	отпуск	отпуск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1355|end_char=1361
+7	?	?	PUNCT	_	_	5	punct	_	start_char=1361|end_char=1362
+
+# text = Или он тебе не дал его?
+# sent_id = 28
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Или	или	CCONJ	_	_	5	cc	_	start_char=1363|end_char=1366
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1367|end_char=1369
+3	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	start_char=1370|end_char=1374
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1375|end_char=1377
+5	дал	дать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1378|end_char=1381
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=1382|end_char=1385
+7	?	?	PUNCT	_	_	5	punct	_	start_char=1385|end_char=1386
+
+# text = - Доктор проявлял искреннее участие.
+# sent_id = 29
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1387|end_char=1388
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1389|end_char=1395
+3	проявлял	проявлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1396|end_char=1404
+4	искреннее	искренний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=1405|end_char=1414
+5	участие	участие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=1415|end_char=1422
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1422|end_char=1423
+
+# text = Джо сцепила зубы.
+# sent_id = 30
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1424|end_char=1427
+2	сцепила	сцепить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1428|end_char=1435
+3	зубы	зуб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	start_char=1436|end_char=1440
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1440|end_char=1441
+
+# text = "Я должна помнить - это ради безопасности страны".
+# sent_id = 31
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	"	"	PUNCT	_	_	3	punct	_	start_char=1442|end_char=1443
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=1443|end_char=1444
+3	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=1445|end_char=1451
+4	помнить	помнить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1452|end_char=1459
+5	-	-	PUNCT	_	_	8	punct	_	start_char=1460|end_char=1461
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=1462|end_char=1465
+7	ради	ради	ADP	_	_	8	case	_	start_char=1466|end_char=1470
+8	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	parataxis	_	start_char=1471|end_char=1483
+9	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1484|end_char=1490
+10	"	"	PUNCT	_	_	8	punct	_	start_char=1490|end_char=1491
+11	.	.	PUNCT	_	_	3	punct	_	start_char=1491|end_char=1492
+
+# text = - Нет, не надо, все уже утряслось.
+# sent_id = 32
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1493|end_char=1494
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=1495|end_char=1498
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1498|end_char=1499
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1500|end_char=1502
+5	надо	надо	VERB	_	_	2	parataxis	_	start_char=1503|end_char=1507
+6	,	,	PUNCT	_	_	9	punct	_	start_char=1507|end_char=1508
+7	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	9	nsubj	_	start_char=1509|end_char=1512
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	start_char=1513|end_char=1516
+9	утряслось	утристись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1517|end_char=1526
+10	.	.	PUNCT	_	_	2	punct	_	start_char=1526|end_char=1527
+
+# text = Ну, чем мы сегодня займемся?
+# sent_id = 33
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Ну	ну	PART	_	_	6	discourse	_	start_char=1528|end_char=1530
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1530|end_char=1531
+3	чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Int	6	iobj	_	start_char=1532|end_char=1535
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=1536|end_char=1538
+5	сегодня	сегодня	ADV	_	Degree=Pos	6	advmod	_	start_char=1539|end_char=1546
+6	займемся	заняться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1547|end_char=1555
+7	?	?	PUNCT	_	_	6	punct	_	start_char=1555|end_char=1556
+
+# text = Опять ремонтом Тардис?
+# sent_id = 34
+# metadata = Название: Есть такая профессия..., автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546fcfa300000a7d18b16942/1/Est-takaya-professiya
+1	Опять	опять	ADV	_	Degree=Pos	2	advmod	_	start_char=1557|end_char=1562
+2	ремонтом	ремонт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=1563|end_char=1571
+3	Тардис	Тардис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	appos	_	start_char=1572|end_char=1578
+4	?	?	PUNCT	_	_	2	punct	_	start_char=1578|end_char=1579
+

@@ -1,0 +1,1709 @@
+# text = Сержант Бентон четко, по-военному, постучал в дверь.
+# sent_id = 0
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=0|end_char=7
+2	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=8|end_char=14
+3	четко	четко	ADV	_	Degree=Pos	7	advmod	_	start_char=15|end_char=20
+4	,	,	PUNCT	_	_	5	punct	_	start_char=20|end_char=21
+5	по-военному	по-военный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	start_char=22|end_char=33
+6	,	,	PUNCT	_	_	5	punct	_	start_char=33|end_char=34
+7	постучал	постучать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=35|end_char=43
+8	в	в	ADP	_	_	9	case	_	start_char=44|end_char=45
+9	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=46|end_char=51
+10	.	.	PUNCT	_	_	7	punct	_	start_char=51|end_char=52
+
+# text = – Вызывали, сэр? – поинтересовался он, входя в кабинет Бригадира.
+# sent_id = 1
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=54|end_char=55
+2	Вызывали	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=56|end_char=64
+3	,	,	PUNCT	_	_	4	punct	_	start_char=64|end_char=65
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=66|end_char=69
+5	?	?	PUNCT	_	_	2	punct	_	start_char=69|end_char=70
+6	–	–	PUNCT	_	_	7	punct	_	start_char=71|end_char=72
+7	поинтересовался	поинтересоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=73|end_char=88
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=89|end_char=91
+9	,	,	PUNCT	_	_	10	punct	_	start_char=91|end_char=92
+10	входя	входить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=93|end_char=98
+11	в	в	ADP	_	_	12	case	_	start_char=99|end_char=100
+12	кабинет	кабинет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=101|end_char=108
+13	Бригадира	Бригадир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	12	nmod	_	start_char=109|end_char=118
+14	.	.	PUNCT	_	_	2	punct	_	start_char=118|end_char=119
+
+# text = – Да.
+# sent_id = 2
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=121|end_char=122
+2	Да	да	PART	_	_	0	root	_	start_char=123|end_char=125
+3	.	.	PUNCT	_	_	2	punct	_	start_char=125|end_char=126
+
+# text = Сержант, у нас ситуация еще не критическая, но стать таковой она может.
+# sent_id = 3
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	vocative	_	start_char=127|end_char=134
+2	,	,	PUNCT	_	_	1	punct	_	start_char=134|end_char=135
+3	у	у	ADP	_	_	4	case	_	start_char=136|end_char=137
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	obl	_	start_char=138|end_char=141
+5	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=142|end_char=150
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=151|end_char=154
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=155|end_char=157
+8	критическая	критический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=158|end_char=169
+9	,	,	PUNCT	_	_	14	punct	_	start_char=169|end_char=170
+10	но	но	CCONJ	_	_	14	cc	_	start_char=171|end_char=173
+11	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=174|end_char=179
+12	таковой	таковой	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	11	obl	_	start_char=180|end_char=187
+13	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=188|end_char=191
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	start_char=192|end_char=197
+15	.	.	PUNCT	_	_	8	punct	_	start_char=197|end_char=198
+
+# text = Вы видели сегодня Доктора?
+# sent_id = 4
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=199|end_char=201
+2	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=202|end_char=208
+3	сегодня	сегодня	ADV	_	Degree=Pos	2	advmod	_	start_char=209|end_char=216
+4	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=217|end_char=224
+5	?	?	PUNCT	_	_	2	punct	_	start_char=224|end_char=225
+
+# text = Сержант задумался, но всего на несколько секунд.
+# sent_id = 5
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=227|end_char=234
+2	задумался	задуматься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=235|end_char=244
+3	,	,	PUNCT	_	_	8	punct	_	start_char=244|end_char=245
+4	но	но	CCONJ	_	_	8	cc	_	start_char=246|end_char=248
+5	всего	всего	PART	_	_	8	advmod	_	start_char=249|end_char=254
+6	на	на	ADP	_	_	8	case	_	start_char=255|end_char=257
+7	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=258|end_char=267
+8	секунд	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	conj	_	start_char=268|end_char=274
+9	.	.	PUNCT	_	_	2	punct	_	start_char=274|end_char=275
+
+# text = – Нет, со вчерашнего дня я его не видел.
+# sent_id = 6
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	10	punct	_	start_char=277|end_char=278
+2	Нет	нет	PART	_	Polarity=Neg	10	parataxis	_	start_char=279|end_char=282
+3	,	,	PUNCT	_	_	2	punct	_	start_char=282|end_char=283
+4	со	со	ADP	_	_	6	case	_	start_char=284|end_char=286
+5	вчерашнего	вчерашний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=287|end_char=297
+6	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	start_char=298|end_char=301
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=302|end_char=303
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=304|end_char=307
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=308|end_char=310
+10	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=311|end_char=316
+11	.	.	PUNCT	_	_	10	punct	_	start_char=316|end_char=317
+
+# text = Я сегодня был...
+# sent_id = 7
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=318|end_char=319
+2	сегодня	сегодня	ADV	_	Degree=Pos	3	advmod	_	start_char=320|end_char=327
+3	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=328|end_char=331
+4	...	...	PUNCT	_	_	3	punct	_	start_char=331|end_char=334
+
+# text = – Да мне неважно, где вы были, – устало махнул рукой Бригадир.
+# sent_id = 8
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	4	punct	_	start_char=336|end_char=337
+2	Да	да	CCONJ	_	_	4	cc	_	start_char=338|end_char=340
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=341|end_char=344
+4	неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=345|end_char=352
+5	,	,	PUNCT	_	_	6	punct	_	start_char=352|end_char=353
+6	где	где	ADV	_	Degree=Pos|PronType=Rel	4	ccomp	_	start_char=354|end_char=357
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	start_char=358|end_char=360
+8	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=361|end_char=365
+9	,	,	PUNCT	_	_	12	punct	_	start_char=365|end_char=366
+10	–	–	PUNCT	_	_	12	punct	_	start_char=367|end_char=368
+11	устало	устало	ADV	_	Degree=Pos	12	advmod	_	start_char=369|end_char=375
+12	махнул	махнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=376|end_char=382
+13	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	iobj	_	start_char=383|end_char=388
+14	Бригадир	Бригадир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	12	nsubj	_	start_char=389|end_char=397
+15	.	.	PUNCT	_	_	4	punct	_	start_char=397|end_char=398
+
+# text = – У нас проблема.
+# sent_id = 9
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=399|end_char=400
+2	У	у	ADP	_	_	3	case	_	start_char=401|end_char=402
+3	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=403|end_char=406
+4	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=407|end_char=415
+5	.	.	PUNCT	_	_	3	punct	_	start_char=415|end_char=416
+
+# text = Доктор пропал.
+# sent_id = 10
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=417|end_char=423
+2	пропал	пропасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=424|end_char=430
+3	.	.	PUNCT	_	_	2	punct	_	start_char=430|end_char=431
+
+# text = – Может быть, его соплеменники куда-нибудь по своим делам утащили? – предположил сержант.
+# sent_id = 11
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	11	punct	_	start_char=433|end_char=434
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	start_char=435|end_char=440
+3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=441|end_char=445
+4	,	,	PUNCT	_	_	2	punct	_	start_char=445|end_char=446
+5	его	его	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=447|end_char=450
+6	соплеменники	соплеменник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	start_char=451|end_char=463
+7	куда-нибудь	куда-нибудь	ADV	_	Degree=Pos|PronType=Ind	11	advmod	_	start_char=464|end_char=475
+8	по	по	ADP	_	_	10	case	_	start_char=476|end_char=478
+9	своим	свой	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	start_char=479|end_char=484
+10	делам	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	11	obl	_	start_char=485|end_char=490
+11	утащили	утащить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=491|end_char=498
+12	?	?	PUNCT	_	_	11	punct	_	start_char=498|end_char=499
+13	–	–	PUNCT	_	_	14	punct	_	start_char=500|end_char=501
+14	предположил	предположить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	parataxis	_	start_char=502|end_char=513
+15	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=514|end_char=521
+16	.	.	PUNCT	_	_	11	punct	_	start_char=521|end_char=522
+
+# text = – Так уже бывало.
+# sent_id = 12
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	4	punct	_	start_char=523|end_char=524
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=525|end_char=528
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=529|end_char=532
+4	бывало	бывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=533|end_char=539
+5	.	.	PUNCT	_	_	4	punct	_	start_char=539|end_char=540
+
+# text = – Бывало.
+# sent_id = 13
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=542|end_char=543
+2	Бывало	бывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=544|end_char=550
+3	.	.	PUNCT	_	_	2	punct	_	start_char=550|end_char=551
+
+# text = Но сегодня он пропал прямо накануне сдачи отчета.
+# sent_id = 14
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=552|end_char=554
+2	сегодня	сегодня	ADV	_	Degree=Pos	4	advmod	_	start_char=555|end_char=562
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=563|end_char=565
+4	пропал	пропасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=566|end_char=572
+5	прямо	прямо	PART	_	_	7	advmod	_	start_char=573|end_char=578
+6	накануне	накануне	ADP	_	_	7	case	_	start_char=579|end_char=587
+7	сдачи	сдача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=588|end_char=593
+8	отчета	отчет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=594|end_char=600
+9	.	.	PUNCT	_	_	4	punct	_	start_char=600|end_char=601
+
+# text = – Бригадир потряс в воздухе папкой с логотипом ЮНИТа и надписью "Совершенно секретно".
+# sent_id = 15
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=602|end_char=603
+2	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=604|end_char=612
+3	потряс	потрясти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=613|end_char=619
+4	в	в	ADP	_	_	5	case	_	start_char=620|end_char=621
+5	воздухе	воздух	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=622|end_char=629
+6	папкой	папка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	start_char=630|end_char=636
+7	с	с	ADP	_	_	8	case	_	start_char=637|end_char=638
+8	логотипом	логотип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	start_char=639|end_char=648
+9	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	8	nmod	_	start_char=649|end_char=654
+10	и	и	CCONJ	_	_	11	cc	_	start_char=655|end_char=656
+11	надписью	надпись	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	conj	_	start_char=657|end_char=665
+12	"	"	PUNCT	_	_	14	punct	_	start_char=666|end_char=667
+13	Совершенно	совершенно	ADV	_	Degree=Pos	14	advmod	_	start_char=667|end_char=677
+14	секретно	секретный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	appos	_	start_char=678|end_char=686
+15	"	"	PUNCT	_	_	14	punct	_	start_char=686|end_char=687
+16	.	.	PUNCT	_	_	3	punct	_	start_char=687|end_char=688
+
+# text = – Мне с него надо получить его часть отчета по лаборатории – а его нет!
+# sent_id = 16
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	5	punct	_	start_char=689|end_char=690
+2	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=691|end_char=694
+3	с	с	ADP	_	_	4	case	_	start_char=695|end_char=696
+4	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=697|end_char=701
+5	надо	надо	VERB	_	_	0	root	_	start_char=702|end_char=706
+6	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=707|end_char=715
+7	его	его	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=716|end_char=719
+8	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=720|end_char=725
+9	отчета	отчет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=726|end_char=732
+10	по	по	ADP	_	_	11	case	_	start_char=733|end_char=735
+11	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	start_char=736|end_char=747
+12	–	–	PUNCT	_	_	15	punct	_	start_char=748|end_char=749
+13	а	а	CCONJ	_	_	15	cc	_	start_char=750|end_char=751
+14	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=752|end_char=755
+15	нет	нет	VERB	_	Polarity=Neg	5	conj	_	start_char=756|end_char=759
+16	!	!	PUNCT	_	_	5	punct	_	start_char=759|end_char=760
+
+# text = Бентон оценил всю катастрофичность ситуации.
+# sent_id = 17
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	_	start_char=762|end_char=768
+2	оценил	оценить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=769|end_char=775
+3	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	start_char=776|end_char=779
+4	катастрофичность	катастрофичность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=780|end_char=796
+5	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=797|end_char=805
+6	.	.	PUNCT	_	_	2	punct	_	start_char=805|end_char=806
+
+# text = Начальство обычно мало интересовало, сколько учений они провели, сколько набрали новеньких или сколько потеряли состава после очередного отражения нашествия инопланетян, даже вторжения этих самых инопланетян их мало интересовали, как будто они до сих пор в них не верили.
+# sent_id = 18
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Начальство	начальство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=807|end_char=817
+2	обычно	обычно	ADV	_	Degree=Pos	4	advmod	_	start_char=818|end_char=824
+3	мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	4	obj	_	start_char=825|end_char=829
+4	интересовало	интересовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=830|end_char=842
+5	,	,	PUNCT	_	_	9	punct	_	start_char=842|end_char=843
+6	сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=844|end_char=851
+7	учений	учение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	obj	_	start_char=852|end_char=858
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=859|end_char=862
+9	провели	провести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=863|end_char=870
+10	,	,	PUNCT	_	_	12	punct	_	start_char=870|end_char=871
+11	сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	12	obj	_	start_char=872|end_char=879
+12	набрали	набрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=880|end_char=887
+13	новеньких	новенький	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	12	obj	_	start_char=888|end_char=897
+14	или	или	CCONJ	_	_	16	cc	_	start_char=898|end_char=901
+15	сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	16	obj	_	start_char=902|end_char=909
+16	потеряли	потерять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=910|end_char=918
+17	состава	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obj	_	start_char=919|end_char=926
+18	после	после	ADP	_	_	20	case	_	start_char=927|end_char=932
+19	очередного	очередной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	start_char=933|end_char=943
+20	отражения	отражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	start_char=944|end_char=953
+21	нашествия	нашествие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	start_char=954|end_char=963
+22	инопланетян	инопланетян	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	start_char=964|end_char=975
+23	,	,	PUNCT	_	_	31	punct	_	start_char=975|end_char=976
+24	даже	даже	PART	_	_	25	advmod	_	start_char=977|end_char=981
+25	вторжения	вторжение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	31	nsubj	_	start_char=982|end_char=991
+26	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	28	det	_	start_char=992|end_char=996
+27	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	28	det	_	start_char=997|end_char=1002
+28	инопланетян	инопланетян	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	start_char=1003|end_char=1014
+29	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	31	obj	_	start_char=1015|end_char=1017
+30	мало	мало	NUM	_	Case=Acc|NumForm=Word|NumType=Card	31	obj	_	start_char=1018|end_char=1022
+31	интересовали	интересовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1023|end_char=1035
+32	,	,	PUNCT	_	_	42	punct	_	start_char=1035|end_char=1036
+33	как	как	SCONJ	_	_	42	mark	_	start_char=1037|end_char=1040
+34	будто	будто	PART	_	_	33	fixed	_	start_char=1041|end_char=1046
+35	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	42	nsubj	_	start_char=1047|end_char=1050
+36	до	до	ADP	_	_	42	advmod	_	start_char=1051|end_char=1053
+37	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	36	fixed	_	start_char=1054|end_char=1057
+38	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	fixed	_	start_char=1058|end_char=1061
+39	в	в	ADP	_	_	40	case	_	start_char=1062|end_char=1063
+40	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	42	obl	_	start_char=1064|end_char=1067
+41	не	не	PART	_	Polarity=Neg	42	advmod	_	start_char=1068|end_char=1070
+42	верили	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	31	advcl	_	start_char=1071|end_char=1077
+43	.	.	PUNCT	_	_	4	punct	_	start_char=1077|end_char=1078
+
+# text = Но вот отчет – это было святое.
+# sent_id = 19
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=1079|end_char=1081
+2	вот	вот	PART	_	_	3	advmod	_	start_char=1082|end_char=1085
+3	отчет	отчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1086|end_char=1091
+4	–	–	PUNCT	_	_	7	punct	_	start_char=1092|end_char=1093
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=1094|end_char=1097
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=1098|end_char=1102
+7	святое	святой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	parataxis	_	start_char=1103|end_char=1109
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1109|end_char=1110
+
+# text = Что бы ни творилось в их квадранте, на Земле, в Британии и вокруг их отделения ЮНИТа, местонахождение которого было строго засекречено, это никого никогда не интересовало.
+# sent_id = 20
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Что	что	SCONJ	_	Mood=Cnd|Typo=Yes	4	mark	_	start_char=1111|end_char=1114
+2	бы	бы	X	_	_	4	aux	_	start_char=1115|end_char=1117
+3	ни	ни	PART	_	Polarity=Neg	4	advmod	_	start_char=1118|end_char=1120
+4	творилось	твориться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	30	advcl	_	start_char=1121|end_char=1130
+5	в	в	ADP	_	_	7	case	_	start_char=1131|end_char=1132
+6	их	их	DET	_	Poss=Yes|PronType=Prs	7	det	_	start_char=1133|end_char=1135
+7	квадранте	квадрант	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=1136|end_char=1145
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1145|end_char=1146
+9	на	на	ADP	_	_	10	case	_	start_char=1147|end_char=1149
+10	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	obl	_	start_char=1150|end_char=1155
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1155|end_char=1156
+12	в	в	ADP	_	_	13	case	_	start_char=1157|end_char=1158
+13	Британии	Британия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	10	conj	_	start_char=1159|end_char=1167
+14	и	и	CCONJ	_	_	17	cc	_	start_char=1168|end_char=1169
+15	вокруг	вокруг	ADP	_	_	17	case	_	start_char=1170|end_char=1176
+16	их	их	DET	_	Poss=Yes|PronType=Prs	17	det	_	start_char=1177|end_char=1179
+17	отделения	отделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	start_char=1180|end_char=1189
+18	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	17	nmod	_	start_char=1190|end_char=1195
+19	,	,	PUNCT	_	_	24	punct	_	start_char=1195|end_char=1196
+20	местонахождение	местонахождение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj:pass	_	start_char=1197|end_char=1212
+21	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	20	nmod	_	start_char=1213|end_char=1221
+22	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	aux:pass	_	start_char=1222|end_char=1226
+23	строго	строго	ADV	_	Degree=Pos	24	advmod	_	start_char=1227|end_char=1233
+24	засекречено	засекречить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	18	acl:relcl	_	start_char=1234|end_char=1245
+25	,	,	PUNCT	_	_	4	punct	_	start_char=1245|end_char=1246
+26	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	30	nsubj	_	start_char=1247|end_char=1250
+27	никого	никто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	30	obj	_	start_char=1251|end_char=1257
+28	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	30	advmod	_	start_char=1258|end_char=1265
+29	не	не	PART	_	Polarity=Neg	30	advmod	_	start_char=1266|end_char=1268
+30	интересовало	интересовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1269|end_char=1281
+31	.	.	PUNCT	_	_	30	punct	_	start_char=1281|end_char=1282
+
+# text = Интересовал всегда только один вопрос – чтобы отчеты появлялись у вышестоящего начальства из Женевы вовремя.
+# sent_id = 21
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Интересовал	интересовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1283|end_char=1294
+2	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	1	advmod	_	start_char=1295|end_char=1301
+3	только	только	PART	_	_	4	advmod	_	start_char=1302|end_char=1308
+4	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	5	nummod	_	start_char=1309|end_char=1313
+5	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=1314|end_char=1320
+6	–	–	PUNCT	_	_	9	punct	_	start_char=1321|end_char=1322
+7	чтобы	чтобы	SCONJ	_	Mood=Cnd	9	mark	_	start_char=1323|end_char=1328
+8	отчеты	отчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	start_char=1329|end_char=1335
+9	появлялись	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	5	acl	_	start_char=1336|end_char=1346
+10	у	у	ADP	_	_	12	case	_	start_char=1347|end_char=1348
+11	вышестоящего	вышестоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=1349|end_char=1361
+12	начальства	начальство	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=1362|end_char=1372
+13	из	из	ADP	_	_	14	case	_	start_char=1373|end_char=1375
+14	Женевы	Женева	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	9	obl	_	start_char=1376|end_char=1382
+15	вовремя	вовремя	ADV	_	Degree=Pos	9	advmod	_	start_char=1383|end_char=1390
+16	.	.	PUNCT	_	_	1	punct	_	start_char=1390|end_char=1391
+
+# text = И насколько сержант Бентон был в курсе, а он, как хороший сержант, был всегда в курсе всего, курьер должен был отбыть не позже, чем через час.
+# sent_id = 22
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	И	и	CCONJ	_	_	7	cc	_	start_char=1392|end_char=1393
+2	насколько	насколько	SCONJ	_	_	7	mark	_	start_char=1394|end_char=1403
+3	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1404|end_char=1411
+4	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	start_char=1412|end_char=1418
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=1419|end_char=1422
+6	в	в	ADP	_	_	7	case	_	start_char=1423|end_char=1424
+7	курсе	курс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=1425|end_char=1430
+8	,	,	PUNCT	_	_	16	punct	_	start_char=1430|end_char=1431
+9	а	а	CCONJ	_	_	16	cc	_	start_char=1432|end_char=1433
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=1434|end_char=1436
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1436|end_char=1437
+12	как	как	SCONJ	_	_	14	case	_	start_char=1438|end_char=1441
+13	хороший	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=1442|end_char=1449
+14	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	obl	_	start_char=1450|end_char=1457
+15	,	,	PUNCT	_	_	14	punct	_	start_char=1457|end_char=1458
+16	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1459|end_char=1462
+17	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	16	advmod	_	start_char=1463|end_char=1469
+18	в	в	ADP	_	_	19	case	_	start_char=1470|end_char=1471
+19	курсе	курс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	start_char=1472|end_char=1477
+20	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	19	nmod	_	start_char=1478|end_char=1483
+21	,	,	PUNCT	_	_	23	punct	_	start_char=1483|end_char=1484
+22	курьер	курьер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	start_char=1485|end_char=1491
+23	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	conj	_	start_char=1492|end_char=1498
+24	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	start_char=1499|end_char=1502
+25	отбыть	отбыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	xcomp	_	start_char=1503|end_char=1509
+26	не	не	PART	_	Polarity=Neg	27	advmod	_	start_char=1510|end_char=1512
+27	позже	позже	ADV	_	Degree=Cmp	25	advmod	_	start_char=1513|end_char=1518
+28	,	,	PUNCT	_	_	31	punct	_	start_char=1518|end_char=1519
+29	чем	чем	SCONJ	_	_	31	case	_	start_char=1520|end_char=1523
+30	через	через	ADP	_	_	31	case	_	start_char=1524|end_char=1529
+31	час	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	advcl	_	start_char=1530|end_char=1533
+32	.	.	PUNCT	_	_	7	punct	_	start_char=1533|end_char=1534
+
+# text = – Вот что, Бентон, – в голосе Бригадира зазвенела та сталь, которая показывала, что сейчас он уже не делится своими опасениями и не жалуется на жизнь, а ставит боевую задачу.
+# sent_id = 23
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	11	punct	_	start_char=1536|end_char=1537
+2	Вот	вот	PART	_	_	3	advmod	_	start_char=1538|end_char=1541
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	11	nsubj	_	start_char=1542|end_char=1545
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1545|end_char=1546
+5	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	vocative	_	start_char=1547|end_char=1553
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1553|end_char=1554
+7	–	–	PUNCT	_	_	11	punct	_	start_char=1555|end_char=1556
+8	в	в	ADP	_	_	9	case	_	start_char=1557|end_char=1558
+9	голосе	голос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	start_char=1559|end_char=1565
+10	Бригадира	Бригадир	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	nmod	_	start_char=1566|end_char=1575
+11	зазвенела	зазвенеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1576|end_char=1585
+12	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	start_char=1586|end_char=1588
+13	сталь	сталь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=1589|end_char=1594
+14	,	,	PUNCT	_	_	16	punct	_	start_char=1594|end_char=1595
+15	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	start_char=1596|end_char=1603
+16	показывала	показывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	start_char=1604|end_char=1614
+17	,	,	PUNCT	_	_	23	punct	_	start_char=1614|end_char=1615
+18	что	что	SCONJ	_	_	23	mark	_	start_char=1616|end_char=1619
+19	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	23	advmod	_	start_char=1620|end_char=1626
+20	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=1627|end_char=1629
+21	уже	уже	ADV	_	Degree=Pos	23	advmod	_	start_char=1630|end_char=1633
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=1634|end_char=1636
+23	делится	делиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	16	ccomp	_	start_char=1637|end_char=1644
+24	своими	свой	DET	_	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	25	det	_	start_char=1645|end_char=1651
+25	опасениями	опасение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	23	iobj	_	start_char=1652|end_char=1662
+26	и	и	CCONJ	_	_	28	cc	_	start_char=1663|end_char=1664
+27	не	не	PART	_	Polarity=Neg	28	advmod	_	start_char=1665|end_char=1667
+28	жалуется	жаловаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	23	conj	_	start_char=1668|end_char=1676
+29	на	на	ADP	_	_	30	case	_	start_char=1677|end_char=1679
+30	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obl	_	start_char=1680|end_char=1685
+31	,	,	PUNCT	_	_	33	punct	_	start_char=1685|end_char=1686
+32	а	а	CCONJ	_	_	33	cc	_	start_char=1687|end_char=1688
+33	ставит	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	start_char=1689|end_char=1695
+34	боевую	боевой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	start_char=1696|end_char=1702
+35	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	33	obj	_	start_char=1703|end_char=1709
+36	.	.	PUNCT	_	_	11	punct	_	start_char=1709|end_char=1710
+
+# text = – Вы пойдете и напишите отчет за него.
+# sent_id = 24
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1711|end_char=1712
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=1713|end_char=1715
+3	пойдете	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1716|end_char=1723
+4	и	и	CCONJ	_	_	5	cc	_	start_char=1724|end_char=1725
+5	напишите	написать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1726|end_char=1734
+6	отчет	отчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1735|end_char=1740
+7	за	за	ADP	_	_	8	case	_	start_char=1741|end_char=1743
+8	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=1744|end_char=1748
+9	.	.	PUNCT	_	_	3	punct	_	start_char=1748|end_char=1749
+
+# text = – Я, Бригадир?
+# sent_id = 25
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1751|end_char=1752
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=1753|end_char=1754
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1754|end_char=1755
+4	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=1756|end_char=1764
+5	?	?	PUNCT	_	_	2	punct	_	start_char=1764|end_char=1765
+
+# text = – опешил сержант, но тут же понял, что обсуждений не будет: – Слушаюсь, сэр. – У вас в распоряжении сорок пять минут, – продолжал вбивать гвозди в крышку гроба Бригадир.
+# sent_id = 26
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1766|end_char=1767
+2	опешил	опешить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1768|end_char=1774
+3	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1775|end_char=1782
+4	,	,	PUNCT	_	_	8	punct	_	start_char=1782|end_char=1783
+5	но	но	CCONJ	_	_	8	cc	_	start_char=1784|end_char=1786
+6	тут	тут	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=1787|end_char=1790
+7	же	же	PART	_	_	6	advmod	_	start_char=1791|end_char=1793
+8	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1794|end_char=1799
+9	,	,	PUNCT	_	_	13	punct	_	start_char=1799|end_char=1800
+10	что	что	SCONJ	_	_	13	mark	_	start_char=1801|end_char=1804
+11	обсуждений	обсуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nsubj	_	start_char=1805|end_char=1815
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1816|end_char=1818
+13	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	ccomp	_	start_char=1819|end_char=1824
+14	:	:	PUNCT	_	_	16	punct	_	start_char=1824|end_char=1825
+15	–	–	PUNCT	_	_	16	punct	_	start_char=1826|end_char=1827
+16	Слушаюсь	слушаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	parataxis	_	start_char=1828|end_char=1836
+17	,	,	PUNCT	_	_	18	punct	_	start_char=1836|end_char=1837
+18	сэр.	сэра	NOUN	_	Abbr=Yes	16	vocative	_	start_char=1838|end_char=1842
+19	–	–	PUNCT	_	_	21	punct	_	start_char=1844|end_char=1845
+20	У	у	ADP	_	_	21	case	_	start_char=1846|end_char=1847
+21	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	16	parataxis	_	start_char=1848|end_char=1851
+22	в	в	ADP	_	_	23	case	_	start_char=1852|end_char=1853
+23	распоряжении	распоряжение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	obl	_	start_char=1854|end_char=1866
+24	сорок	сорок	NUM	_	Case=Nom|NumForm=Word|NumType=Card	26	nummod:gov	_	start_char=1867|end_char=1872
+25	пять	пять	NUM	_	Case=Nom|NumForm=Word|NumType=Card	26	nummod:gov	_	start_char=1873|end_char=1877
+26	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nsubj	_	start_char=1878|end_char=1883
+27	,	,	PUNCT	_	_	29	punct	_	start_char=1883|end_char=1884
+28	–	–	PUNCT	_	_	29	punct	_	start_char=1885|end_char=1886
+29	продолжал	продолжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	start_char=1887|end_char=1896
+30	вбивать	вбивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	start_char=1897|end_char=1904
+31	гвозди	гвоздь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	30	obj	_	start_char=1905|end_char=1911
+32	в	в	ADP	_	_	33	case	_	start_char=1912|end_char=1913
+33	крышку	крышка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	obl	_	start_char=1914|end_char=1920
+34	гроба	гроб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	start_char=1921|end_char=1926
+35	Бригадир	Бригадир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	34	appos	_	start_char=1927|end_char=1935
+36	.	.	PUNCT	_	_	2	punct	_	start_char=1935|end_char=1936
+
+# text = – Слушаюсь, сэр. – И помните, главное – цифры.
+# sent_id = 27
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1938|end_char=1939
+2	Слушаюсь	слушаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1940|end_char=1948
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1948|end_char=1949
+4	сэр.	сэра	NOUN	_	Abbr=Yes	2	vocative	_	start_char=1950|end_char=1954
+5	–	–	PUNCT	_	_	7	punct	_	start_char=1956|end_char=1957
+6	И	и	CCONJ	_	_	7	cc	_	start_char=1958|end_char=1959
+7	помните	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1960|end_char=1967
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1967|end_char=1968
+9	главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	start_char=1969|end_char=1976
+10	–	–	PUNCT	_	_	11	punct	_	start_char=1977|end_char=1978
+11	цифры	цифра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	parataxis	_	start_char=1979|end_char=1984
+12	.	.	PUNCT	_	_	2	punct	_	start_char=1984|end_char=1985
+
+# text = Мы должны показать, что мы что-то делали и сделали, а не просто так разбазарили финансирование!
+# sent_id = 28
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=1986|end_char=1988
+2	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1989|end_char=1995
+3	показать	показать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1996|end_char=2004
+4	,	,	PUNCT	_	_	8	punct	_	start_char=2004|end_char=2005
+5	что	что	SCONJ	_	_	8	mark	_	start_char=2006|end_char=2009
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=2010|end_char=2012
+7	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	8	obj	_	start_char=2013|end_char=2019
+8	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2020|end_char=2026
+9	и	и	CCONJ	_	_	10	cc	_	start_char=2027|end_char=2028
+10	сделали	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=2029|end_char=2036
+11	,	,	PUNCT	_	_	16	punct	_	start_char=2036|end_char=2037
+12	а	а	CCONJ	_	_	16	cc	_	start_char=2038|end_char=2039
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=2040|end_char=2042
+14	просто	просто	PART	_	_	15	advmod	_	start_char=2043|end_char=2049
+15	так	так	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=2050|end_char=2053
+16	разбазарили	разбазарить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=2054|end_char=2065
+17	финансирование	финансирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obj	_	start_char=2066|end_char=2080
+18	!	!	PUNCT	_	_	2	punct	_	start_char=2080|end_char=2081
+
+# text = А остальное – так, рюши.
+# sent_id = 29
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	А	а	CCONJ	_	_	4	cc	_	start_char=2082|end_char=2083
+2	остальное	остальной	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=2084|end_char=2093
+3	–	–	PUNCT	_	_	4	punct	_	start_char=2094|end_char=2095
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=2096|end_char=2099
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2099|end_char=2100
+6	рюши	рюшь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	conj	_	start_char=2101|end_char=2105
+7	.	.	PUNCT	_	_	4	punct	_	start_char=2105|end_char=2106
+
+# text = – Слушаюсь, сэр. Рюши.
+# sent_id = 30
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2108|end_char=2109
+2	Слушаюсь	слушаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2110|end_char=2118
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2118|end_char=2119
+4	сэр.	сэрокий	ADJ	_	Abbr=Yes	5	amod	_	start_char=2120|end_char=2124
+5	Рюши	Рюшь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Plur	2	vocative	_	start_char=2125|end_char=2129
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2129|end_char=2130
+
+# text = – Цифры, Бентон!
+# sent_id = 31
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2132|end_char=2133
+2	Цифры	цифра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2134|end_char=2139
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2139|end_char=2140
+4	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	conj	_	start_char=2141|end_char=2147
+5	!	!	PUNCT	_	_	2	punct	_	start_char=2147|end_char=2148
+
+# text = – Так точно, цифры!
+# sent_id = 32
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2150|end_char=2151
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2152|end_char=2155
+3	точно	точно	ADV	_	Degree=Pos	0	root	_	start_char=2156|end_char=2161
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2161|end_char=2162
+5	цифры	цифра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	parataxis	_	start_char=2163|end_char=2168
+6	!	!	PUNCT	_	_	3	punct	_	start_char=2168|end_char=2169
+
+# text = Разрешите идти?
+# sent_id = 33
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Разрешите	разрести	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2170|end_char=2179
+2	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2180|end_char=2184
+3	?	?	PUNCT	_	_	1	punct	_	start_char=2184|end_char=2185
+
+# text = – Иди...
+# sent_id = 34
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2187|end_char=2188
+2	Иди	идти	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2189|end_char=2192
+3	...	...	PUNCT	_	_	2	punct	_	start_char=2192|end_char=2195
+
+# text = – Бригадир чуть запнулся, едва не назвав Бентона, который был ненамного моложе его, "сынок", но вовремя спохватился: – Идите, сержант.
+# sent_id = 35
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2196|end_char=2197
+2	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2198|end_char=2206
+3	чуть	чуть	ADV	_	Degree=Pos	4	advmod	_	start_char=2207|end_char=2211
+4	запнулся	запнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2212|end_char=2220
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2220|end_char=2221
+6	едва	едва	ADV	_	Degree=Pos	8	advmod	_	start_char=2222|end_char=2226
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=2227|end_char=2229
+8	назвав	назвать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=2230|end_char=2236
+9	Бентона	Бентон	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	8	obj	_	start_char=2237|end_char=2244
+10	,	,	PUNCT	_	_	14	punct	_	start_char=2244|end_char=2245
+11	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	start_char=2246|end_char=2253
+12	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=2254|end_char=2257
+13	ненамного	ненамного	ADV	_	Degree=Pos	14	advmod	_	start_char=2258|end_char=2267
+14	моложе	молодой	ADJ	_	Degree=Cmp	9	acl:relcl	_	start_char=2268|end_char=2274
+15	его	его	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=2275|end_char=2278
+16	,	,	PUNCT	_	_	18	punct	_	start_char=2278|end_char=2279
+17	"	"	PUNCT	_	_	18	punct	_	start_char=2280|end_char=2281
+18	сынок	сынок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	start_char=2281|end_char=2286
+19	"	"	PUNCT	_	_	18	punct	_	start_char=2286|end_char=2287
+20	,	,	PUNCT	_	_	23	punct	_	start_char=2287|end_char=2288
+21	но	но	CCONJ	_	_	23	cc	_	start_char=2289|end_char=2291
+22	вовремя	вовремя	ADV	_	Degree=Pos	23	advmod	_	start_char=2292|end_char=2299
+23	спохватился	спохватиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=2300|end_char=2311
+24	:	:	PUNCT	_	_	26	punct	_	start_char=2311|end_char=2312
+25	–	–	PUNCT	_	_	26	punct	_	start_char=2313|end_char=2314
+26	Идите	идти	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	23	parataxis	_	start_char=2315|end_char=2320
+27	,	,	PUNCT	_	_	28	punct	_	start_char=2320|end_char=2321
+28	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	vocative	_	start_char=2322|end_char=2329
+29	.	.	PUNCT	_	_	4	punct	_	start_char=2329|end_char=2330
+
+# text = В лаборатории Бентон первым делом огляделся и осмотрел все имеющиеся горизонтальные поверхности.
+# sent_id = 36
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	В	в	ADP	_	_	2	case	_	start_char=2332|end_char=2333
+2	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=2334|end_char=2345
+3	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	6	nsubj	_	start_char=2346|end_char=2352
+4	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	5	amod	_	start_char=2353|end_char=2359
+5	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	start_char=2360|end_char=2365
+6	огляделся	оглядеться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2366|end_char=2375
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2376|end_char=2377
+8	осмотрел	осмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2378|end_char=2386
+9	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	12	det	_	start_char=2387|end_char=2390
+10	имеющиеся	иметься	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	amod	_	start_char=2391|end_char=2400
+11	горизонтальные	горизонтальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	start_char=2401|end_char=2415
+12	поверхности	поверхность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=2416|end_char=2427
+13	.	.	PUNCT	_	_	6	punct	_	start_char=2427|end_char=2428
+
+# text = Во-первых, ТАРДИС была на месте, так что вряд ли Доктора утащили его земляки.
+# sent_id = 37
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Во-первых	во-первых	ADV	_	Degree=Pos	6	parataxis	_	start_char=2429|end_char=2438
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2438|end_char=2439
+3	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	6	nsubj	_	start_char=2440|end_char=2446
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=2447|end_char=2451
+5	на	на	ADP	_	_	6	case	_	start_char=2452|end_char=2454
+6	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=2455|end_char=2460
+7	,	,	PUNCT	_	_	13	punct	_	start_char=2460|end_char=2461
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	13	mark	_	start_char=2462|end_char=2465
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=2466|end_char=2469
+10	вряд	вряд	ADV	_	Degree=Pos	13	advmod	_	start_char=2470|end_char=2474
+11	ли	ли	PART	_	_	10	advmod	_	start_char=2475|end_char=2477
+12	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=2478|end_char=2485
+13	утащили	утащить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=2486|end_char=2493
+14	его	его	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=2494|end_char=2497
+15	земляки	земляк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	start_char=2498|end_char=2505
+16	.	.	PUNCT	_	_	6	punct	_	start_char=2505|end_char=2506
+
+# text = Во-вторых, готового отчета нигде видно не было.
+# sent_id = 38
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Во-вторых	во-вторых	ADV	_	Degree=Pos	8	parataxis	_	start_char=2507|end_char=2516
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2516|end_char=2517
+3	готового	готовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=2518|end_char=2526
+4	отчета	отчет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2527|end_char=2533
+5	нигде	нигде	ADV	_	Degree=Pos|PronType=Neg	6	advmod	_	start_char=2534|end_char=2539
+6	видно	видный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2540|end_char=2545
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=2546|end_char=2548
+8	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=2549|end_char=2553
+9	.	.	PUNCT	_	_	8	punct	_	start_char=2553|end_char=2554
+
+# text = В-третьих... а что бы сделал
+# sent_id = 39
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	В-третьих	в-третьих	ADV	_	Degree=Pos	0	root	_	start_char=2555|end_char=2564
+2	...	...	PUNCT	_	_	1	punct	_	start_char=2564|end_char=2567
+3	а	а	CCONJ	_	_	6	cc	_	start_char=2568|end_char=2569
+4	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	_	start_char=2570|end_char=2573
+5	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=2574|end_char=2576
+6	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=2577|end_char=2583
+
+# text = Доктор на его месте?
+# sent_id = 40
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2584|end_char=2590
+2	на	на	ADP	_	_	4	case	_	start_char=2591|end_char=2593
+3	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=2594|end_char=2597
+4	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=2598|end_char=2603
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2603|end_char=2604
+
+# text = Точнее, что бы сделал Доктор на своем месте?
+# sent_id = 41
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Точнее	точный	ADV	_	Degree=Cmp	0	root	_	start_char=2605|end_char=2611
+2	,	,	PUNCT	_	_	5	punct	_	start_char=2611|end_char=2612
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	start_char=2613|end_char=2616
+4	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=2617|end_char=2619
+5	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=2620|end_char=2626
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2627|end_char=2633
+7	на	на	ADP	_	_	9	case	_	start_char=2634|end_char=2636
+8	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=2637|end_char=2642
+9	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	start_char=2643|end_char=2648
+10	?	?	PUNCT	_	_	1	punct	_	start_char=2648|end_char=2649
+
+# text = Конечно, вызвал бы Джо Грант с булочками!
+# sent_id = 42
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Конечно	конечно	ADV	_	Degree=Pos	3	parataxis	_	start_char=2650|end_char=2657
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2657|end_char=2658
+3	вызвал	вызвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2659|end_char=2665
+4	бы	бы	AUX	_	Mood=Cnd	3	aux	_	start_char=2666|end_char=2668
+5	Джо	Джо	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	3	obj	_	start_char=2669|end_char=2672
+6	Грант	Грант	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	5	flat:name	_	start_char=2673|end_char=2678
+7	с	с	ADP	_	_	8	case	_	start_char=2679|end_char=2680
+8	булочками	булочка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	obl	_	start_char=2681|end_char=2690
+9	!	!	PUNCT	_	_	3	punct	_	start_char=2690|end_char=2691
+
+# text = Сержант присмотрелся к селектору и нажал самую стертую кнопку.
+# sent_id = 43
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2693|end_char=2700
+2	присмотрелся	присмотреться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2701|end_char=2713
+3	к	к	ADP	_	_	4	case	_	start_char=2714|end_char=2715
+4	селектору	селектор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	start_char=2716|end_char=2725
+5	и	и	CCONJ	_	_	6	cc	_	start_char=2726|end_char=2727
+6	нажал	нажать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2728|end_char=2733
+7	самую	самый	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Emp	8	det	_	start_char=2734|end_char=2739
+8	стертую	стертый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=2740|end_char=2747
+9	кнопку	кнопка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=2748|end_char=2754
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2754|end_char=2755
+
+# text = Ему действительно ответил бодрый голосок Джозефины: – Да, Доктор?
+# sent_id = 44
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=2756|end_char=2759
+2	действительно	действительно	ADV	_	Degree=Pos	3	advmod	_	start_char=2760|end_char=2773
+3	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2774|end_char=2781
+4	бодрый	бодрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=2782|end_char=2788
+5	голосок	голосок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2789|end_char=2796
+6	Джозефины	Джозефина	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	5	appos	_	start_char=2797|end_char=2806
+7	:	:	PUNCT	_	_	11	punct	_	start_char=2806|end_char=2807
+8	–	–	PUNCT	_	_	11	punct	_	start_char=2809|end_char=2810
+9	Да	да	PART	_	_	11	parataxis	_	start_char=2811|end_char=2813
+10	,	,	PUNCT	_	_	9	punct	_	start_char=2813|end_char=2814
+11	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	start_char=2815|end_char=2821
+12	?	?	PUNCT	_	_	3	punct	_	start_char=2821|end_char=2822
+
+# text = – Это не Доктор, Джо, – сразу сознался Бентон.
+# sent_id = 45
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2824|end_char=2825
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2826|end_char=2829
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2830|end_char=2832
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2833|end_char=2839
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2839|end_char=2840
+6	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	vocative	_	start_char=2841|end_char=2844
+7	,	,	PUNCT	_	_	6	punct	_	start_char=2844|end_char=2845
+8	–	–	PUNCT	_	_	10	punct	_	start_char=2846|end_char=2847
+9	сразу	сразу	ADV	_	Degree=Pos	10	advmod	_	start_char=2848|end_char=2853
+10	сознался	сознаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2854|end_char=2862
+11	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	10	nsubj	_	start_char=2863|end_char=2869
+12	.	.	PUNCT	_	_	4	punct	_	start_char=2869|end_char=2870
+
+# text = – Но ты мне нужна в лаборатории.
+# sent_id = 46
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2871|end_char=2872
+2	Но	но	CCONJ	_	_	5	cc	_	start_char=2873|end_char=2875
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2876|end_char=2878
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=2879|end_char=2882
+5	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=2883|end_char=2888
+6	в	в	ADP	_	_	7	case	_	start_char=2889|end_char=2890
+7	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=2891|end_char=2902
+8	.	.	PUNCT	_	_	5	punct	_	start_char=2902|end_char=2903
+
+# text = Зайди, пожалуйста.
+# sent_id = 47
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Зайди	зайти	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2904|end_char=2909
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2909|end_char=2910
+3	пожалуйста	пожалуйста	PART	_	_	1	discourse	_	start_char=2911|end_char=2921
+4	.	.	PUNCT	_	_	1	punct	_	start_char=2921|end_char=2922
+
+# text = А Доктора рядом с тобой нет?
+# sent_id = 48
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	А	а	CCONJ	_	_	6	cc	_	start_char=2923|end_char=2924
+2	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=2925|end_char=2932
+3	рядом	рядом	ADV	_	Degree=Pos	6	advmod	_	start_char=2933|end_char=2938
+4	с	с	ADP	_	_	5	case	_	start_char=2939|end_char=2940
+5	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	6	obl	_	start_char=2941|end_char=2946
+6	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=2947|end_char=2950
+7	?	?	PUNCT	_	_	6	punct	_	start_char=2950|end_char=2951
+
+# text = – Нет, я думала, это он в лаборатории.
+# sent_id = 49
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2953|end_char=2954
+2	Нет	нет	PART	_	Polarity=Neg	5	parataxis	_	start_char=2955|end_char=2958
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2958|end_char=2959
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2960|end_char=2961
+5	думала	думать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2962|end_char=2968
+6	,	,	PUNCT	_	_	10	punct	_	start_char=2968|end_char=2969
+7	это	это	PART	_	_	10	expl	_	start_char=2970|end_char=2973
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=2974|end_char=2976
+9	в	в	ADP	_	_	10	case	_	start_char=2977|end_char=2978
+10	лаборатории	лаборатория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	parataxis	_	start_char=2979|end_char=2990
+11	.	.	PUNCT	_	_	5	punct	_	start_char=2990|end_char=2991
+
+# text = Сейчас зайду, Джон. – С булочками!
+# sent_id = 50
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=2992|end_char=2998
+2	зайду	зайти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2999|end_char=3004
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3004|end_char=3005
+4	Джон	Джон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	vocative	_	start_char=3006|end_char=3010
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3010|end_char=3011
+6	–	–	PUNCT	_	_	8	punct	_	start_char=3013|end_char=3014
+7	С	с	ADP	_	_	8	case	_	start_char=3015|end_char=3016
+8	булочками	булочка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	parataxis	_	start_char=3017|end_char=3026
+9	!	!	PUNCT	_	_	2	punct	_	start_char=3026|end_char=3027
+
+# text = – поспешно добавил сержант, но в ответ услышал только, как Джо отключилась.
+# sent_id = 51
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3028|end_char=3029
+2	поспешно	поспешно	ADV	_	Degree=Pos	3	advmod	_	start_char=3030|end_char=3038
+3	добавил	добавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3039|end_char=3046
+4	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3047|end_char=3054
+5	,	,	PUNCT	_	_	9	punct	_	start_char=3054|end_char=3055
+6	но	но	CCONJ	_	_	9	cc	_	start_char=3056|end_char=3058
+7	в	в	ADP	_	_	8	case	_	start_char=3059|end_char=3060
+8	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=3061|end_char=3066
+9	услышал	услышать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3067|end_char=3074
+10	только	только	PART	_	_	9	advmod	_	start_char=3075|end_char=3081
+11	,	,	PUNCT	_	_	14	punct	_	start_char=3081|end_char=3082
+12	как	как	SCONJ	_	_	14	mark	_	start_char=3083|end_char=3086
+13	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	14	nsubj	_	start_char=3087|end_char=3090
+14	отключилась	отключиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	ccomp	_	start_char=3091|end_char=3102
+15	.	.	PUNCT	_	_	3	punct	_	start_char=3102|end_char=3103
+
+# text = Через пару минут за дверью раздался цокот каблучков Джо.
+# sent_id = 52
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Через	через	ADP	_	_	2	case	_	start_char=3105|end_char=3110
+2	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=3111|end_char=3115
+3	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	start_char=3116|end_char=3121
+4	за	за	ADP	_	_	5	case	_	start_char=3122|end_char=3124
+5	дверью	дверь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	start_char=3125|end_char=3131
+6	раздался	раздаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3132|end_char=3140
+7	цокот	цокот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=3141|end_char=3146
+8	каблучков	каблучка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	start_char=3147|end_char=3156
+9	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	appos	_	start_char=3157|end_char=3160
+10	.	.	PUNCT	_	_	6	punct	_	start_char=3160|end_char=3161
+
+# text = – Знаешь, я никогда не понимала, когда все говорят, чтобы я пришла с булочками, что они имеют в виду? – спросила она, входя.
+# sent_id = 53
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3163|end_char=3164
+2	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=3165|end_char=3171
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3171|end_char=3172
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=3173|end_char=3174
+5	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	7	advmod	_	start_char=3175|end_char=3182
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3183|end_char=3185
+7	понимала	понимать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3186|end_char=3194
+8	,	,	PUNCT	_	_	11	punct	_	start_char=3194|end_char=3195
+9	когда	когда	SCONJ	_	_	11	mark	_	start_char=3196|end_char=3201
+10	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	11	nsubj	_	start_char=3202|end_char=3205
+11	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=3206|end_char=3213
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3213|end_char=3214
+13	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	mark	_	start_char=3215|end_char=3220
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=3221|end_char=3222
+15	пришла	прийти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	start_char=3223|end_char=3229
+16	с	с	ADP	_	_	17	case	_	start_char=3230|end_char=3231
+17	булочками	булочка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	15	obl	_	start_char=3232|end_char=3241
+18	,	,	PUNCT	_	_	21	punct	_	start_char=3241|end_char=3242
+19	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	21	obj	_	start_char=3243|end_char=3246
+20	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=3247|end_char=3250
+21	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=3251|end_char=3256
+22	в	в	ADP	_	_	21	advmod	_	start_char=3257|end_char=3258
+23	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	fixed	_	start_char=3259|end_char=3263
+24	?	?	PUNCT	_	_	21	punct	_	start_char=3263|end_char=3264
+25	–	–	PUNCT	_	_	26	punct	_	start_char=3265|end_char=3266
+26	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=3267|end_char=3275
+27	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=3276|end_char=3279
+28	,	,	PUNCT	_	_	29	punct	_	start_char=3279|end_char=3280
+29	входя	входить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	26	advcl	_	start_char=3281|end_char=3286
+30	.	.	PUNCT	_	_	7	punct	_	start_char=3286|end_char=3287
+
+# text = На ней, как обычно, был модный свитер слегка в обтяжку и юбка чуть ниже талии.
+# sent_id = 54
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	На	на	ADP	_	_	2	case	_	start_char=3288|end_char=3290
+2	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=3291|end_char=3294
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3294|end_char=3295
+4	как	как	SCONJ	_	_	5	mark	_	start_char=3296|end_char=3299
+5	обычно	обычно	ADV	_	Degree=Pos	7	parataxis	_	start_char=3300|end_char=3306
+6	,	,	PUNCT	_	_	5	punct	_	start_char=3306|end_char=3307
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3308|end_char=3311
+8	модный	модный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=3312|end_char=3318
+9	свитер	свитер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=3319|end_char=3325
+10	слегка	слегка	ADV	_	Degree=Pos	12	advmod	_	start_char=3326|end_char=3332
+11	в	в	ADP	_	_	12	case	_	start_char=3333|end_char=3334
+12	обтяжку	обтяжка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=3335|end_char=3342
+13	и	и	CCONJ	_	_	16	cc	_	start_char=3343|end_char=3344
+14	юбка	юбка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	start_char=3345|end_char=3349
+15	чуть	чуть	ADV	_	Degree=Pos	16	advmod	_	start_char=3350|end_char=3354
+16	ниже	низкий	ADJ	_	Degree=Cmp	7	conj	_	start_char=3355|end_char=3359
+17	талии	талия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	start_char=3360|end_char=3365
+18	.	.	PUNCT	_	_	7	punct	_	start_char=3365|end_char=3366
+
+# text = – Джон, ты же прекрасно знаешь, что столовая уже закрыта!
+# sent_id = 55
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3367|end_char=3368
+2	Джон	Джон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	vocative	_	start_char=3369|end_char=3373
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3373|end_char=3374
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=3375|end_char=3377
+5	же	же	PART	_	_	4	advmod	_	start_char=3378|end_char=3380
+6	прекрасно	прекрасно	ADV	_	Degree=Pos	7	advmod	_	start_char=3381|end_char=3390
+7	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3391|end_char=3397
+8	,	,	PUNCT	_	_	12	punct	_	start_char=3397|end_char=3398
+9	что	что	SCONJ	_	_	12	mark	_	start_char=3399|end_char=3402
+10	столовая	столовая	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	_	start_char=3403|end_char=3411
+11	уже	уже	ADV	_	Degree=Pos	12	advmod	_	start_char=3412|end_char=3415
+12	закрыта	закрыть	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	ccomp	_	start_char=3416|end_char=3423
+13	!	!	PUNCT	_	_	7	punct	_	start_char=3423|end_char=3424
+
+# text = – А вдруг у тебя где-нибудь припрятано?
+# sent_id = 56
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3426|end_char=3427
+2	А	а	CCONJ	_	_	7	cc	_	start_char=3428|end_char=3429
+3	вдруг	вдруг	ADV	_	Degree=Pos	7	advmod	_	start_char=3430|end_char=3435
+4	у	у	ADP	_	_	5	case	_	start_char=3436|end_char=3437
+5	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	obl	_	start_char=3438|end_char=3442
+6	где-нибудь	где-нибудь	ADV	_	Degree=Pos|PronType=Ind	7	advmod	_	start_char=3443|end_char=3453
+7	припрятано	припрятать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=3454|end_char=3464
+8	?	?	PUNCT	_	_	7	punct	_	start_char=3464|end_char=3465
+
+# text = Специально для Доктора или Мастера?
+# sent_id = 57
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Специально	специально	ADV	_	Degree=Pos	3	advmod	_	start_char=3466|end_char=3476
+2	для	для	ADP	_	_	3	case	_	start_char=3477|end_char=3480
+3	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=3481|end_char=3488
+4	или	или	CCONJ	_	_	5	cc	_	start_char=3489|end_char=3492
+5	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	start_char=3493|end_char=3500
+6	?	?	PUNCT	_	_	3	punct	_	start_char=3500|end_char=3501
+
+# text = – Джооон!
+# sent_id = 58
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3503|end_char=3504
+2	Джооон	Джооон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=3505|end_char=3511
+3	!	!	PUNCT	_	_	2	punct	_	start_char=3511|end_char=3512
+
+# text = Хотя ты прав, я с утра приносила сюда булочки, и если их никто не нашел, то так и быть, можешь взять.
+# sent_id = 59
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Хотя	хотя	SCONJ	_	_	3	mark	_	start_char=3513|end_char=3517
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=3518|end_char=3520
+3	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	obj	_	start_char=3521|end_char=3525
+4	,	,	PUNCT	_	_	3	punct	_	start_char=3525|end_char=3526
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=3527|end_char=3528
+6	с	с	ADP	_	_	7	case	_	start_char=3529|end_char=3530
+7	утра	утро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	start_char=3531|end_char=3535
+8	приносила	приносить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3536|end_char=3545
+9	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=3546|end_char=3550
+10	булочки	булочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=3551|end_char=3558
+11	,	,	PUNCT	_	_	24	punct	_	start_char=3558|end_char=3559
+12	и	и	CCONJ	_	_	24	cc	_	start_char=3560|end_char=3561
+13	если	если	SCONJ	_	_	17	mark	_	start_char=3562|end_char=3566
+14	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	start_char=3567|end_char=3569
+15	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	17	nsubj	_	start_char=3570|end_char=3575
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=3576|end_char=3578
+17	нашел	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	start_char=3579|end_char=3584
+18	,	,	PUNCT	_	_	17	punct	_	start_char=3584|end_char=3585
+19	то	то	SCONJ	_	_	24	mark	_	start_char=3586|end_char=3588
+20	так	так	ADV	_	Degree=Pos|PronType=Dem	22	advmod	_	start_char=3589|end_char=3592
+21	и	и	PART	_	_	22	advmod	_	start_char=3593|end_char=3594
+22	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	start_char=3595|end_char=3599
+23	,	,	PUNCT	_	_	24	punct	_	start_char=3599|end_char=3600
+24	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	start_char=3601|end_char=3607
+25	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	xcomp	_	start_char=3608|end_char=3613
+26	.	.	PUNCT	_	_	8	punct	_	start_char=3613|end_char=3614
+
+# text = Посмотри в нижнем ящике стола.
+# sent_id = 60
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Посмотри	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3615|end_char=3623
+2	в	в	ADP	_	_	4	case	_	start_char=3624|end_char=3625
+3	нижнем	нижний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=3626|end_char=3632
+4	ящике	ящик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	start_char=3633|end_char=3638
+5	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=3639|end_char=3644
+6	.	.	PUNCT	_	_	1	punct	_	start_char=3644|end_char=3645
+
+# text = Да, а что ты делаешь за столом Доктора?
+# sent_id = 61
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Да	да	PART	_	_	6	parataxis	_	start_char=3646|end_char=3648
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3648|end_char=3649
+3	а	а	CCONJ	_	_	6	cc	_	start_char=3650|end_char=3651
+4	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	start_char=3652|end_char=3655
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=3656|end_char=3658
+6	делаешь	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3659|end_char=3666
+7	за	за	ADP	_	_	8	case	_	start_char=3667|end_char=3669
+8	столом	стол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=3670|end_char=3676
+9	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=3677|end_char=3684
+10	?	?	PUNCT	_	_	6	punct	_	start_char=3684|end_char=3685
+
+# text = – Нужно срочно написать отчет за него.
+# sent_id = 62
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3687|end_char=3688
+2	Нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3689|end_char=3694
+3	срочно	срочно	ADV	_	Degree=Pos	4	advmod	_	start_char=3695|end_char=3701
+4	написать	написать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=3702|end_char=3710
+5	отчет	отчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=3711|end_char=3716
+6	за	за	ADP	_	_	7	case	_	start_char=3717|end_char=3719
+7	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=3720|end_char=3724
+8	.	.	PUNCT	_	_	2	punct	_	start_char=3724|end_char=3725
+
+# text = Сегодня же последний день, осталось от силы сорок минут... тридцать восемь.
+# sent_id = 63
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Сегодня	сегодня	ADV	_	Degree=Pos	6	advmod	_	start_char=3726|end_char=3733
+2	же	же	PART	_	_	1	advmod	_	start_char=3734|end_char=3736
+3	последний	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=3737|end_char=3746
+4	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	start_char=3747|end_char=3751
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3751|end_char=3752
+6	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3753|end_char=3761
+7	от	от	ADP	_	_	8	case	_	start_char=3762|end_char=3764
+8	силы	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=3765|end_char=3769
+9	сорок	сорок	NUM	_	Case=Acc|NumForm=Word|NumType=Card	10	nummod:gov	_	start_char=3770|end_char=3775
+10	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obl	_	start_char=3776|end_char=3781
+11	...	...	PUNCT	_	_	6	punct	_	start_char=3781|end_char=3784
+12	тридцать	тридцать	NUM	_	Case=Nom|NumForm=Word|NumType=Card	13	nummod:gov	_	start_char=3785|end_char=3793
+13	восемь	восемь	NUM	_	Case=Nom|NumForm=Word|NumType=Card	6	parataxis	_	start_char=3794|end_char=3800
+14	.	.	PUNCT	_	_	6	punct	_	start_char=3800|end_char=3801
+
+# text = А я не представляю, где и что, и как его писать.
+# sent_id = 64
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	А	а	CCONJ	_	_	4	cc	_	start_char=3802|end_char=3803
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=3804|end_char=3805
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3806|end_char=3808
+4	представляю	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3809|end_char=3820
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3820|end_char=3821
+6	где	где	ADV	_	Degree=Pos|PronType=Rel	4	ccomp	_	start_char=3822|end_char=3825
+7	и	и	CCONJ	_	_	8	cc	_	start_char=3826|end_char=3827
+8	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	6	conj	_	start_char=3828|end_char=3831
+9	,	,	PUNCT	_	_	13	punct	_	start_char=3831|end_char=3832
+10	и	и	CCONJ	_	_	13	cc	_	start_char=3833|end_char=3834
+11	как	как	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=3835|end_char=3838
+12	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=3839|end_char=3842
+13	писать	писать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	conj	_	start_char=3843|end_char=3849
+14	.	.	PUNCT	_	_	4	punct	_	start_char=3849|end_char=3850
+
+# text = Джо задумалась.
+# sent_id = 65
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=3852|end_char=3855
+2	задумалась	задуматься	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3856|end_char=3866
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3866|end_char=3867
+
+# text = – Знаешь, я иногда помогала Доктору.
+# sent_id = 66
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3869|end_char=3870
+2	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3871|end_char=3877
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3877|end_char=3878
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=3879|end_char=3880
+5	иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=3881|end_char=3887
+6	помогала	помогать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3888|end_char=3896
+7	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	start_char=3897|end_char=3904
+8	.	.	PUNCT	_	_	2	punct	_	start_char=3904|end_char=3905
+
+# text = Он диктовал мне цифры, а я к ним прибавляла или отнимала проценты, и получившееся диктовала ему, а он вносил в какую-то таблицу.
+# sent_id = 67
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=3906|end_char=3908
+2	диктовал	диктовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3909|end_char=3917
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	start_char=3918|end_char=3921
+4	цифры	цифра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=3922|end_char=3927
+5	,	,	PUNCT	_	_	10	punct	_	start_char=3927|end_char=3928
+6	а	а	CCONJ	_	_	10	cc	_	start_char=3929|end_char=3930
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=3931|end_char=3932
+8	к	к	ADP	_	_	9	case	_	start_char=3933|end_char=3934
+9	ним	он	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	obl	_	start_char=3935|end_char=3938
+10	прибавляла	прибавлять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3939|end_char=3949
+11	или	или	CCONJ	_	_	12	cc	_	start_char=3950|end_char=3953
+12	отнимала	отнимать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3954|end_char=3962
+13	проценты	процент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	obj	_	start_char=3963|end_char=3971
+14	,	,	PUNCT	_	_	17	punct	_	start_char=3971|end_char=3972
+15	и	и	CCONJ	_	_	17	cc	_	start_char=3973|end_char=3974
+16	получившееся	получиться	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	17	nsubj	_	start_char=3975|end_char=3987
+17	диктовала	диктовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3988|end_char=3997
+18	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	iobj	_	start_char=3998|end_char=4001
+19	,	,	PUNCT	_	_	22	punct	_	start_char=4001|end_char=4002
+20	а	а	CCONJ	_	_	22	cc	_	start_char=4003|end_char=4004
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=4005|end_char=4007
+22	вносил	вносить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4008|end_char=4014
+23	в	в	ADP	_	_	25	case	_	start_char=4015|end_char=4016
+24	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	25	det	_	start_char=4017|end_char=4025
+25	таблицу	таблица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obl	_	start_char=4026|end_char=4033
+26	.	.	PUNCT	_	_	2	punct	_	start_char=4033|end_char=4034
+
+# text = – А откуда брал цифры он?
+# sent_id = 68
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4036|end_char=4037
+2	А	а	CCONJ	_	_	4	cc	_	start_char=4038|end_char=4039
+3	откуда	откуда	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=4040|end_char=4046
+4	брал	брать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4047|end_char=4051
+5	цифры	цифра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=4052|end_char=4057
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4058|end_char=4060
+7	?	?	PUNCT	_	_	4	punct	_	start_char=4060|end_char=4061
+
+# text = – Из старого отчета, – не моргнув глазом, сдала Доктора его помощница.
+# sent_id = 69
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	11	punct	_	start_char=4063|end_char=4064
+2	Из	из	ADP	_	_	4	case	_	start_char=4065|end_char=4067
+3	старого	старый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=4068|end_char=4075
+4	отчета	отчет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	start_char=4076|end_char=4082
+5	,	,	PUNCT	_	_	8	punct	_	start_char=4082|end_char=4083
+6	–	–	PUNCT	_	_	8	punct	_	start_char=4084|end_char=4085
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=4086|end_char=4088
+8	моргнув	моргнуть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	11	advcl	_	start_char=4089|end_char=4096
+9	глазом	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	iobj	_	start_char=4097|end_char=4103
+10	,	,	PUNCT	_	_	8	punct	_	start_char=4103|end_char=4104
+11	сдала	сдать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4105|end_char=4110
+12	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=4111|end_char=4118
+13	его	его	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=4119|end_char=4122
+14	помощница	помощница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=4123|end_char=4132
+15	.	.	PUNCT	_	_	11	punct	_	start_char=4132|end_char=4133
+
+# text = Бентон опешил.
+# sent_id = 70
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	_	start_char=4135|end_char=4141
+2	опешил	опешить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4142|end_char=4148
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4148|end_char=4149
+
+# text = Все было так просто!
+# sent_id = 71
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	nsubj	_	start_char=4150|end_char=4153
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=4154|end_char=4158
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=4159|end_char=4162
+4	просто	просто	PART	_	_	3	advmod	_	start_char=4163|end_char=4169
+5	!	!	PUNCT	_	_	3	punct	_	start_char=4169|end_char=4170
+
+# text = Правда...
+# sent_id = 72
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4171|end_char=4177
+2	...	...	PUNCT	_	_	1	punct	_	start_char=4177|end_char=4180
+
+# text = – А где старый отчет?
+# sent_id = 73
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4182|end_char=4183
+2	А	а	CCONJ	_	_	3	cc	_	start_char=4184|end_char=4185
+3	где	где	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=4186|end_char=4189
+4	старый	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=4190|end_char=4196
+5	отчет	отчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4197|end_char=4202
+6	?	?	PUNCT	_	_	3	punct	_	start_char=4202|end_char=4203
+
+# text = – Пошарь у ТАРДИС на крыше, где-то ближе к фонарю.
+# sent_id = 74
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4205|end_char=4206
+2	Пошарь	пошарь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4207|end_char=4213
+3	у	у	ADP	_	_	4	case	_	start_char=4214|end_char=4215
+4	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	2	nmod	_	start_char=4216|end_char=4222
+5	на	на	ADP	_	_	6	case	_	start_char=4223|end_char=4225
+6	крыше	крыша	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	start_char=4226|end_char=4231
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4231|end_char=4232
+8	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	9	advmod	_	start_char=4233|end_char=4239
+9	ближе	близко	ADV	_	Degree=Cmp	2	conj	_	start_char=4240|end_char=4245
+10	к	к	ADP	_	_	11	case	_	start_char=4246|end_char=4247
+11	фонарю	фонарь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	obl	_	start_char=4248|end_char=4254
+12	.	.	PUNCT	_	_	2	punct	_	start_char=4254|end_char=4255
+
+# text = Сержанту пришлось встать на табуретку, но листок – копию предыдущего суперсекретного отчета – он нашел.
+# sent_id = 75
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Сержанту	сержант	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	start_char=4257|end_char=4265
+2	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4266|end_char=4274
+3	встать	встать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=4275|end_char=4281
+4	на	на	ADP	_	_	5	case	_	start_char=4282|end_char=4284
+5	табуретку	табуретка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=4285|end_char=4294
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4294|end_char=4295
+7	но	но	CCONJ	_	_	8	cc	_	start_char=4296|end_char=4298
+8	листок	листок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=4299|end_char=4305
+9	–	–	PUNCT	_	_	10	punct	_	start_char=4306|end_char=4307
+10	копию	копия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	orphan	_	start_char=4308|end_char=4313
+11	предыдущего	предыдущий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=4314|end_char=4325
+12	суперсекретного	суперсекретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=4326|end_char=4341
+13	отчета	отчет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=4342|end_char=4348
+14	–	–	PUNCT	_	_	16	punct	_	start_char=4349|end_char=4350
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=4351|end_char=4353
+16	нашел	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4354|end_char=4359
+17	.	.	PUNCT	_	_	2	punct	_	start_char=4359|end_char=4360
+
+# text = – Ну что, будешь диктовать? – спросила
+# sent_id = 76
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4362|end_char=4363
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=4364|end_char=4366
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	vocative	_	start_char=4367|end_char=4370
+4	,	,	PUNCT	_	_	3	punct	_	start_char=4370|end_char=4371
+5	будешь	быть	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	_	start_char=4372|end_char=4378
+6	диктовать	диктовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=4379|end_char=4388
+7	?	?	PUNCT	_	_	6	punct	_	start_char=4388|end_char=4389
+8	–	–	PUNCT	_	_	9	punct	_	start_char=4390|end_char=4391
+9	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=4392|end_char=4400
+
+# text = Джо, доставая арифмометр.
+# sent_id = 77
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=4401|end_char=4404
+2	,	,	PUNCT	_	_	3	punct	_	start_char=4404|end_char=4405
+3	доставая	доставать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	start_char=4406|end_char=4414
+4	арифмометр	арифмометр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=4415|end_char=4425
+5	.	.	PUNCT	_	_	1	punct	_	start_char=4425|end_char=4426
+
+# text = – А то я готова.
+# sent_id = 78
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4427|end_char=4428
+2	А	а	CCONJ	_	_	5	cc	_	start_char=4429|end_char=4430
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	start_char=4431|end_char=4433
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4434|end_char=4435
+5	готова	готовый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=4436|end_char=4442
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4442|end_char=4443
+
+# text = – Сейчас-сейчас... вот, "Необходимое оборудование: Иридиевые пластины", пять тысяч.
+# sent_id = 79
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4445|end_char=4446
+2	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=4447|end_char=4453
+3	-	-	PUNCT	_	_	4	punct	_	start_char=4453|end_char=4454
+4	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=4454|end_char=4460
+5	...	...	PUNCT	_	_	4	punct	_	start_char=4460|end_char=4463
+6	вот	вот	PART	_	_	4	parataxis	_	start_char=4464|end_char=4467
+7	,	,	PUNCT	_	_	10	punct	_	start_char=4467|end_char=4468
+8	"	"	PUNCT	_	_	10	punct	_	start_char=4469|end_char=4470
+9	Необходимое	необходимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	start_char=4470|end_char=4481
+10	оборудование	оборудование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=4482|end_char=4494
+11	:	:	PUNCT	_	_	13	punct	_	start_char=4494|end_char=4495
+12	Иридиевые	иридиевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	start_char=4496|end_char=4505
+13	пластины	пластина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	appos	_	start_char=4506|end_char=4514
+14	"	"	PUNCT	_	_	13	punct	_	start_char=4514|end_char=4515
+15	,	,	PUNCT	_	_	17	punct	_	start_char=4515|end_char=4516
+16	пять	пять	NUM	_	Case=Nom|NumForm=Word|NumType=Card	17	nummod:gov	_	start_char=4517|end_char=4521
+17	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	conj	_	start_char=4522|end_char=4527
+18	.	.	PUNCT	_	_	2	punct	_	start_char=4527|end_char=4528
+
+# text = – Увеличить до десяти.
+# sent_id = 80
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4530|end_char=4531
+2	Увеличить	увеличить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=4532|end_char=4541
+3	до	до	ADP	_	_	4	case	_	start_char=4542|end_char=4544
+4	десяти	десять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	2	obl	_	start_char=4545|end_char=4551
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4551|end_char=4552
+
+# text = – А не слишком ли? – озадачился Бентон.
+# sent_id = 81
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4554|end_char=4555
+2	А	а	CCONJ	_	_	4	cc	_	start_char=4556|end_char=4557
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4558|end_char=4560
+4	слишком	слишком	ADV	_	Degree=Pos	0	root	_	start_char=4561|end_char=4568
+5	ли	ли	PART	_	_	4	advmod	_	start_char=4569|end_char=4571
+6	?	?	PUNCT	_	_	4	punct	_	start_char=4571|end_char=4572
+7	–	–	PUNCT	_	_	8	punct	_	start_char=4573|end_char=4574
+8	озадачился	озадачиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=4575|end_char=4585
+9	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	nsubj	_	start_char=4586|end_char=4592
+10	.	.	PUNCT	_	_	4	punct	_	start_char=4592|end_char=4593
+
+# text = – Все равно финансирование не увеличат, – пожала плечами Джо.
+# sent_id = 82
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4595|end_char=4596
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	advmod	_	start_char=4597|end_char=4600
+3	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	fixed	_	start_char=4601|end_char=4606
+4	финансирование	финансирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	start_char=4607|end_char=4621
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=4622|end_char=4624
+6	увеличат	увеличить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4625|end_char=4633
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4633|end_char=4634
+8	–	–	PUNCT	_	_	9	punct	_	start_char=4635|end_char=4636
+9	пожала	пожать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=4637|end_char=4643
+10	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	9	iobj	_	start_char=4644|end_char=4651
+11	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=4652|end_char=4655
+12	.	.	PUNCT	_	_	6	punct	_	start_char=4655|end_char=4656
+
+# text = – Количество трудодней гражданских сотрудников – 25.
+# sent_id = 83
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	7	punct	_	start_char=4658|end_char=4659
+2	Количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=4660|end_char=4670
+3	трудодней	трудодния	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	start_char=4671|end_char=4680
+4	гражданских	гражданский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	start_char=4681|end_char=4692
+5	сотрудников	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	start_char=4693|end_char=4704
+6	–	–	PUNCT	_	_	7	punct	_	start_char=4705|end_char=4706
+7	25	25	NUM	_	NumForm=Digit|NumType=Card	0	root	_	start_char=4707|end_char=4709
+8	.	.	PUNCT	_	_	7	punct	_	start_char=4709|end_char=4710
+
+# text = – Пиши – 26.
+# sent_id = 84
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4712|end_char=4713
+2	Пиши	писать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4714|end_char=4718
+3	–	–	PUNCT	_	_	4	punct	_	start_char=4719|end_char=4720
+4	26	26	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	start_char=4721|end_char=4723
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4723|end_char=4724
+
+# text = – Ну много же!
+# sent_id = 85
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4726|end_char=4727
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=4728|end_char=4730
+3	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=4731|end_char=4736
+4	же	же	PART	_	_	3	advmod	_	start_char=4737|end_char=4739
+5	!	!	PUNCT	_	_	3	punct	_	start_char=4739|end_char=4740
+
+# text = – А ты видел когда-нибудь, чтобы у меня был выходной?
+# sent_id = 86
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4742|end_char=4743
+2	А	а	CCONJ	_	_	4	cc	_	start_char=4744|end_char=4745
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=4746|end_char=4748
+4	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4749|end_char=4754
+5	когда-нибудь	когда-нибудь	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=4755|end_char=4767
+6	,	,	PUNCT	_	_	9	punct	_	start_char=4767|end_char=4768
+7	чтобы	чтобы	SCONJ	_	Mood=Cnd	9	mark	_	start_char=4769|end_char=4774
+8	у	у	ADP	_	_	9	case	_	start_char=4775|end_char=4776
+9	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	ccomp	_	start_char=4777|end_char=4781
+10	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=4782|end_char=4785
+11	выходной	выходной	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=4786|end_char=4794
+12	?	?	PUNCT	_	_	4	punct	_	start_char=4794|end_char=4795
+
+# text = Так что это мало.
+# sent_id = 87
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	mark	_	start_char=4796|end_char=4799
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=4800|end_char=4803
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=4804|end_char=4807
+4	мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=4808|end_char=4812
+5	.	.	PUNCT	_	_	4	punct	_	start_char=4812|end_char=4813
+
+# text = Просто этот месяц на день больше, чем прошлый.
+# sent_id = 88
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Просто	просто	PART	_	_	6	advmod	_	start_char=4814|end_char=4820
+2	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=4821|end_char=4825
+3	месяц	месяц	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=4826|end_char=4831
+4	на	на	ADP	_	_	5	case	_	start_char=4832|end_char=4834
+5	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=4835|end_char=4839
+6	больше	большой	ADJ	_	Degree=Cmp	0	root	_	start_char=4840|end_char=4846
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4846|end_char=4847
+8	чем	чем	SCONJ	_	_	9	case	_	start_char=4848|end_char=4851
+9	прошлый	прошлый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	obl	_	start_char=4852|end_char=4859
+10	.	.	PUNCT	_	_	6	punct	_	start_char=4859|end_char=4860
+
+# text = – Ладно, дальше.
+# sent_id = 89
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4862|end_char=4863
+2	Ладно	ладно	PART	_	_	0	root	_	start_char=4864|end_char=4869
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4869|end_char=4870
+4	дальше	дальше	ADV	_	Degree=Cmp	2	conj	_	start_char=4871|end_char=4877
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4877|end_char=4878
+
+# text = "Освоено средств"...
+# sent_id = 90
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	"	"	PUNCT	_	_	2	punct	_	start_char=4879|end_char=4880
+2	Освоено	освоенуть	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=4880|end_char=4887
+3	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nsubj:pass	_	start_char=4888|end_char=4895
+4	"	"	PUNCT	_	_	2	punct	_	start_char=4895|end_char=4896
+5	...	...	PUNCT	_	_	2	punct	_	start_char=4896|end_char=4899
+
+# text = Через 15 минут вся огромная таблица с кучей цифр была готова.
+# sent_id = 91
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Через	через	ADP	_	_	3	case	_	start_char=4901|end_char=4906
+2	15	15	NUM	_	NumForm=Digit|NumType=Card	3	nummod:gov	_	start_char=4907|end_char=4909
+3	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	obl	_	start_char=4910|end_char=4915
+4	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	6	det	_	start_char=4916|end_char=4919
+5	огромная	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=4920|end_char=4928
+6	таблица	таблица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=4929|end_char=4936
+7	с	с	ADP	_	_	8	case	_	start_char=4937|end_char=4938
+8	кучей	куча	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	nmod	_	start_char=4939|end_char=4944
+9	цифр	цифра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	start_char=4945|end_char=4949
+10	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	start_char=4950|end_char=4954
+11	готова	готовый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=4955|end_char=4961
+12	.	.	PUNCT	_	_	11	punct	_	start_char=4961|end_char=4962
+
+# text = – А остальное – рюши, как говорит Доктор, – завершила работу
+# sent_id = 92
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	12	punct	_	start_char=4964|end_char=4965
+2	А	а	CCONJ	_	_	12	cc	_	start_char=4966|end_char=4967
+3	остальное	остальной	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	nsubj	_	start_char=4968|end_char=4977
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4978|end_char=4979
+5	рюши	рюшь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	appos	_	start_char=4980|end_char=4984
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4984|end_char=4985
+7	как	как	SCONJ	_	_	8	mark	_	start_char=4986|end_char=4989
+8	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	start_char=4990|end_char=4997
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4998|end_char=5004
+10	,	,	PUNCT	_	_	8	punct	_	start_char=5004|end_char=5005
+11	–	–	PUNCT	_	_	3	punct	_	start_char=5006|end_char=5007
+12	завершила	завершить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5008|end_char=5017
+13	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=5018|end_char=5024
+
+# text = Джо, соскакивая со стола.
+# sent_id = 93
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=5025|end_char=5028
+2	,	,	PUNCT	_	_	3	punct	_	start_char=5028|end_char=5029
+3	соскакивая	соскакивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	start_char=5030|end_char=5040
+4	со	со	ADP	_	_	5	case	_	start_char=5041|end_char=5043
+5	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	start_char=5044|end_char=5049
+6	.	.	PUNCT	_	_	3	punct	_	start_char=5049|end_char=5050
+
+# text = – Да, еще рюши... – озадачился сержант.
+# sent_id = 94
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5052|end_char=5053
+2	Да	да	PART	_	_	5	parataxis	_	start_char=5054|end_char=5056
+3	,	,	PUNCT	_	_	2	punct	_	start_char=5056|end_char=5057
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=5058|end_char=5061
+5	рюши	рюшь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=5062|end_char=5066
+6	...	...	PUNCT	_	_	5	punct	_	start_char=5066|end_char=5069
+7	–	–	PUNCT	_	_	8	punct	_	start_char=5070|end_char=5071
+8	озадачился	озадачиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=5072|end_char=5082
+9	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=5083|end_char=5090
+10	.	.	PUNCT	_	_	5	punct	_	start_char=5090|end_char=5091
+
+# text = Джо с жалостью посмотрела на него, на что-то решилась и тряхнула светлой головой: – Ну ладно, только я тебе этого не говорила и не показывала!
+# sent_id = 95
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=5093|end_char=5096
+2	с	с	ADP	_	_	3	case	_	start_char=5097|end_char=5098
+3	жалостью	жалость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	start_char=5099|end_char=5107
+4	посмотрела	посмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5108|end_char=5118
+5	на	на	ADP	_	_	6	case	_	start_char=5119|end_char=5121
+6	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=5122|end_char=5126
+7	,	,	PUNCT	_	_	10	punct	_	start_char=5126|end_char=5127
+8	на	на	ADP	_	_	9	case	_	start_char=5128|end_char=5130
+9	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	10	obl	_	start_char=5131|end_char=5137
+10	решилась	решиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=5138|end_char=5146
+11	и	и	CCONJ	_	_	12	cc	_	start_char=5147|end_char=5148
+12	тряхнула	тряхнуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=5149|end_char=5157
+13	светлой	светлой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=5158|end_char=5165
+14	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	start_char=5166|end_char=5173
+15	:	:	PUNCT	_	_	18	punct	_	start_char=5173|end_char=5174
+16	–	–	PUNCT	_	_	18	punct	_	start_char=5176|end_char=5177
+17	Ну	ну	PART	_	_	18	discourse	_	start_char=5178|end_char=5180
+18	ладно	ладно	PART	_	_	4	parataxis	_	start_char=5181|end_char=5186
+19	,	,	PUNCT	_	_	25	punct	_	start_char=5186|end_char=5187
+20	только	только	PART	_	_	25	advmod	_	start_char=5188|end_char=5194
+21	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	start_char=5195|end_char=5196
+22	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	25	iobj	_	start_char=5197|end_char=5201
+23	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	25	obj	_	start_char=5202|end_char=5207
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=5208|end_char=5210
+25	говорила	говорить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	parataxis	_	start_char=5211|end_char=5219
+26	и	и	CCONJ	_	_	28	cc	_	start_char=5220|end_char=5221
+27	не	не	PART	_	Polarity=Neg	28	advmod	_	start_char=5222|end_char=5224
+28	показывала	показывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	conj	_	start_char=5225|end_char=5235
+29	!	!	PUNCT	_	_	4	punct	_	start_char=5235|end_char=5236
+
+# text = Она приоткрыла дверь ТАРДИС, протянула туда руку, где-то немного в стороне нащупала нечто и вытащила.
+# sent_id = 96
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5238|end_char=5241
+2	приоткрыла	приоткрыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5242|end_char=5252
+3	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=5253|end_char=5258
+4	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Com|Number=Sing	3	nmod	_	start_char=5259|end_char=5265
+5	,	,	PUNCT	_	_	6	punct	_	start_char=5265|end_char=5266
+6	протянула	протянуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5267|end_char=5276
+7	туда	туда	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=5277|end_char=5281
+8	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=5282|end_char=5286
+9	,	,	PUNCT	_	_	14	punct	_	start_char=5286|end_char=5287
+10	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	11	advmod	_	start_char=5288|end_char=5294
+11	немного	немного	ADV	_	Degree=Pos|PronType=Tot	14	advmod	_	start_char=5295|end_char=5302
+12	в	в	ADP	_	_	13	case	_	start_char=5303|end_char=5304
+13	стороне	сторона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	start_char=5305|end_char=5312
+14	нащупала	нащупать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5313|end_char=5321
+15	нечто	нечто	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	14	obj	_	start_char=5322|end_char=5327
+16	и	и	CCONJ	_	_	17	cc	_	start_char=5328|end_char=5329
+17	вытащила	вытащить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5330|end_char=5338
+18	.	.	PUNCT	_	_	2	punct	_	start_char=5338|end_char=5339
+
+# text = В ее руках оказались несколько листов, исписанные мелким-мелким шрифтом.
+# sent_id = 97
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	В	в	ADP	_	_	3	case	_	start_char=5340|end_char=5341
+2	ее	ее	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=5342|end_char=5344
+3	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	start_char=5345|end_char=5350
+4	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5351|end_char=5360
+5	несколько	несколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	6	nummod:gov	_	start_char=5361|end_char=5370
+6	листов	лист	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	start_char=5371|end_char=5377
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5377|end_char=5378
+8	исписанные	исписать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	start_char=5379|end_char=5389
+9	мелким	мелкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	start_char=5390|end_char=5396
+10	-	-	PUNCT	_	_	12	punct	_	start_char=5396|end_char=5397
+11	мелким	мелкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=5397|end_char=5403
+12	шрифтом	шрифт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	_	start_char=5404|end_char=5411
+13	.	.	PUNCT	_	_	4	punct	_	start_char=5411|end_char=5412
+
+# text = "Рюши, рюши, рюширюши, рю-ширю.
+# sent_id = 98
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	"	"	PUNCT	_	_	2	punct	_	start_char=5413|end_char=5414
+2	Рюши	рюша	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	0	root	_	start_char=5414|end_char=5418
+3	,	,	PUNCT	_	_	4	punct	_	start_char=5418|end_char=5419
+4	рюши	рюшь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	conj	_	start_char=5420|end_char=5424
+5	,	,	PUNCT	_	_	6	punct	_	start_char=5424|end_char=5425
+6	рюширюши	рюширюш	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	conj	_	start_char=5426|end_char=5434
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5434|end_char=5435
+8	рю-ширю	рю-шир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	conj	_	start_char=5436|end_char=5443
+9	.	.	PUNCT	_	_	2	punct	_	start_char=5443|end_char=5444
+
+# text = Ши, рюши, рюш ирюши" – начал читать Бентон и замер с открытым ртом.
+# sent_id = 99
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Ши	ши	INTJ	_	_	9	nsubj	_	start_char=5445|end_char=5447
+2	,	,	PUNCT	_	_	3	punct	_	start_char=5447|end_char=5448
+3	рюши	рюшь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	start_char=5449|end_char=5453
+4	,	,	PUNCT	_	_	5	punct	_	start_char=5453|end_char=5454
+5	рюш	рюш	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	start_char=5455|end_char=5458
+6	ирюши	ирюшь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	appos	_	start_char=5459|end_char=5464
+7	"	"	PUNCT	_	_	1	punct	_	start_char=5464|end_char=5465
+8	–	–	PUNCT	_	_	1	punct	_	start_char=5466|end_char=5467
+9	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5468|end_char=5473
+10	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=5474|end_char=5480
+11	Бентон	Бентон	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	10	obj	_	start_char=5481|end_char=5487
+12	и	и	CCONJ	_	_	13	cc	_	start_char=5488|end_char=5489
+13	замер	замереть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=5490|end_char=5495
+14	с	с	ADP	_	_	16	case	_	start_char=5496|end_char=5497
+15	открытым	открытый	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	start_char=5498|end_char=5506
+16	ртом	рот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	obl	_	start_char=5507|end_char=5511
+17	.	.	PUNCT	_	_	9	punct	_	start_char=5511|end_char=5512
+
+# text = – Это что, никто никогда не читал?
+# sent_id = 100
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5514|end_char=5515
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=5516|end_char=5519
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=5520|end_char=5523
+4	,	,	PUNCT	_	_	8	punct	_	start_char=5523|end_char=5524
+5	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	8	nsubj	_	start_char=5525|end_char=5530
+6	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	8	advmod	_	start_char=5531|end_char=5538
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=5539|end_char=5541
+8	читал	читать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5542|end_char=5547
+9	?	?	PUNCT	_	_	3	punct	_	start_char=5547|end_char=5548
+
+# text = – Разумеется, – довольно ответила Джо.
+# sent_id = 101
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5550|end_char=5551
+2	Разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5552|end_char=5562
+3	,	,	PUNCT	_	_	6	punct	_	start_char=5562|end_char=5563
+4	–	–	PUNCT	_	_	6	punct	_	start_char=5564|end_char=5565
+5	довольно	довольно	ADV	_	Degree=Pos	6	advmod	_	start_char=5566|end_char=5574
+6	ответила	ответить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=5575|end_char=5583
+7	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=5584|end_char=5587
+8	.	.	PUNCT	_	_	2	punct	_	start_char=5587|end_char=5588
+
+# text = – Если бы читали... а почему, ты думаешь, мы отчет всегда так поздно сдаем?
+# sent_id = 102
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	10	punct	_	start_char=5589|end_char=5590
+2	Если	если	SCONJ	_	_	4	mark	_	start_char=5591|end_char=5595
+3	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=5596|end_char=5598
+4	читали	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	start_char=5599|end_char=5605
+5	...	...	PUNCT	_	_	4	punct	_	start_char=5605|end_char=5608
+6	а	а	CCONJ	_	_	10	cc	_	start_char=5609|end_char=5610
+7	почему	почему	ADV	_	Degree=Pos|PronType=Rel	10	advmod	_	start_char=5611|end_char=5617
+8	,	,	PUNCT	_	_	7	punct	_	start_char=5617|end_char=5618
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=5619|end_char=5621
+10	думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5622|end_char=5629
+11	,	,	PUNCT	_	_	17	punct	_	start_char=5629|end_char=5630
+12	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	start_char=5631|end_char=5633
+13	отчет	отчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	start_char=5634|end_char=5639
+14	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	17	advmod	_	start_char=5640|end_char=5646
+15	так	так	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=5647|end_char=5650
+16	поздно	поздно	ADV	_	Degree=Pos	17	advmod	_	start_char=5651|end_char=5657
+17	сдаем	сдать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	start_char=5658|end_char=5663
+18	?	?	PUNCT	_	_	17	punct	_	start_char=5663|end_char=5664
+
+# text = – Чтобы у Бригадира не было времени заглянуть дальше таблицы, – мрачно предположил сержант, прикладывая листки к вышеозначенной таблице.
+# sent_id = 103
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	14	punct	_	start_char=5666|end_char=5667
+2	Чтобы	чтобы	SCONJ	_	Mood=Cnd	6	mark	_	start_char=5668|end_char=5673
+3	у	у	ADP	_	_	4	case	_	start_char=5674|end_char=5675
+4	Бригадира	бригадира	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	start_char=5676|end_char=5685
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=5686|end_char=5688
+6	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	start_char=5689|end_char=5693
+7	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nsubj	_	start_char=5694|end_char=5701
+8	заглянуть	заглянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	acl	_	start_char=5702|end_char=5711
+9	дальше	дальше	ADV	_	Degree=Cmp	8	advmod	_	start_char=5712|end_char=5718
+10	таблицы	таблица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=5719|end_char=5726
+11	,	,	PUNCT	_	_	6	punct	_	start_char=5726|end_char=5727
+12	–	–	PUNCT	_	_	6	punct	_	start_char=5728|end_char=5729
+13	мрачно	мрачно	ADV	_	Degree=Pos	14	advmod	_	start_char=5730|end_char=5736
+14	предположил	предположить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5737|end_char=5748
+15	сержант	сержант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=5749|end_char=5756
+16	,	,	PUNCT	_	_	17	punct	_	start_char=5756|end_char=5757
+17	прикладывая	прикладывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	advcl	_	start_char=5758|end_char=5769
+18	листки	листка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	start_char=5770|end_char=5776
+19	к	к	ADP	_	_	21	case	_	start_char=5777|end_char=5778
+20	вышеозначенной	вышеозначенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	start_char=5779|end_char=5793
+21	таблице	таблица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	obl	_	start_char=5794|end_char=5801
+22	.	.	PUNCT	_	_	14	punct	_	start_char=5801|end_char=5802
+
+# text = – Правильно!
+# sent_id = 104
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5804|end_char=5805
+2	Правильно	правильно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5806|end_char=5815
+3	!	!	PUNCT	_	_	2	punct	_	start_char=5815|end_char=5816
+
+# text = – захлопала в ладоши Джо.
+# sent_id = 105
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5817|end_char=5818
+2	захлопала	захлопать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5819|end_char=5828
+3	в	в	ADP	_	_	4	case	_	start_char=5829|end_char=5830
+4	ладоши	ладошь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=5831|end_char=5837
+5	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=5838|end_char=5841
+6	.	.	PUNCT	_	_	2	punct	_	start_char=5841|end_char=5842
+
+# text = – Только ты никому-никому!
+# sent_id = 106
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5843|end_char=5844
+2	Только	только	PART	_	_	3	advmod	_	start_char=5845|end_char=5851
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	start_char=5852|end_char=5854
+4	никому-никому	никтому-ник	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	3	orphan	_	start_char=5855|end_char=5868
+5	!	!	PUNCT	_	_	3	punct	_	start_char=5868|end_char=5869
+
+# text = Я строго по секрету!
+# sent_id = 107
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=5870|end_char=5871
+2	строго	строго	ADV	_	Degree=Pos	4	advmod	_	start_char=5872|end_char=5878
+3	по	по	ADP	_	_	4	case	_	start_char=5879|end_char=5881
+4	секрету	секрета	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	_	start_char=5882|end_char=5889
+5	!	!	PUNCT	_	_	2	punct	_	start_char=5889|end_char=5890
+
+# text = – Я понял, – с каменным лицом ответил Бентон, прикидывая, как он сейчас понесет отчет в рюшах Бригадиру.
+# sent_id = 108
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5892|end_char=5893
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5894|end_char=5895
+3	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5896|end_char=5901
+4	,	,	PUNCT	_	_	9	punct	_	start_char=5901|end_char=5902
+5	–	–	PUNCT	_	_	9	punct	_	start_char=5903|end_char=5904
+6	с	с	ADP	_	_	8	case	_	start_char=5905|end_char=5906
+7	каменным	каменный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=5907|end_char=5915
+8	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	obl	_	start_char=5916|end_char=5921
+9	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=5922|end_char=5929
+10	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	nsubj	_	start_char=5930|end_char=5936
+11	,	,	PUNCT	_	_	12	punct	_	start_char=5936|end_char=5937
+12	прикидывая	прикидывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=5938|end_char=5948
+13	,	,	PUNCT	_	_	17	punct	_	start_char=5948|end_char=5949
+14	как	как	ADV	_	Degree=Pos|PronType=Rel	17	advmod	_	start_char=5950|end_char=5953
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=5954|end_char=5956
+16	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=5957|end_char=5963
+17	понесет	понести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	ccomp	_	start_char=5964|end_char=5971
+18	отчет	отчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	start_char=5972|end_char=5977
+19	в	в	ADP	_	_	20	case	_	start_char=5978|end_char=5979
+20	рюшах	рюша	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	17	obl	_	start_char=5980|end_char=5985
+21	Бригадиру	Бригадир	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	20	appos	_	start_char=5986|end_char=5995
+22	.	.	PUNCT	_	_	3	punct	_	start_char=5995|end_char=5996
+
+# text = – Так, до курьера еще минут двадцать.
+# sent_id = 109
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5997|end_char=5998
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	parataxis	_	start_char=5999|end_char=6002
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6002|end_char=6003
+4	до	до	ADP	_	_	5	case	_	start_char=6004|end_char=6006
+5	курьера	курьер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=6007|end_char=6014
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=6015|end_char=6018
+7	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	start_char=6019|end_char=6024
+8	двадцать	двадцать	NUM	_	Case=Nom|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=6025|end_char=6033
+9	.	.	PUNCT	_	_	5	punct	_	start_char=6033|end_char=6034
+
+# text = Успеем же выпить чайку, да?
+# sent_id = 110
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	Успеем	успеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=6035|end_char=6041
+2	же	же	PART	_	_	1	advmod	_	start_char=6042|end_char=6044
+3	выпить	выпить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=6045|end_char=6051
+4	чайку	чайка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=6052|end_char=6057
+5	,	,	PUNCT	_	_	6	punct	_	start_char=6057|end_char=6058
+6	да	да	PART	_	_	1	parataxis	_	start_char=6059|end_char=6061
+7	?	?	PUNCT	_	_	1	punct	_	start_char=6061|end_char=6062
+
+# text = По паре чашек?
+# sent_id = 111
+# metadata = Название: Отчет с рюшами, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5463e29e00000a7d121a9abe/1/Otchet-s-ryushami
+1	По	по	ADP	_	_	2	case	_	start_char=6063|end_char=6065
+2	паре	пара	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	root	_	start_char=6066|end_char=6070
+3	чашек	чашка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	start_char=6071|end_char=6076
+4	?	?	PUNCT	_	_	2	punct	_	start_char=6076|end_char=6077
+

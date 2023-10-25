@@ -1,0 +1,1160 @@
+# text = Давным-давно, изрядное количество триллионов наносекунд назад, которые в условиях перемещения во времени всегда могут оказаться и вперед, и вбок и... в общем, неважно; в далекой-далекой вселенной, которая вполне может оказаться на том же самом месте, что и наша с вами
+# sent_id = 0
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Давным	давным	ADV	_	Degree=Pos	0	root	_	start_char=0|end_char=6
+2	-	-	PUNCT	_	_	3	punct	_	start_char=6|end_char=7
+3	давно	давно	ADV	_	Degree=Pos	1	advmod	_	start_char=7|end_char=12
+4	,	,	PUNCT	_	_	6	punct	_	start_char=12|end_char=13
+5	изрядное	изрядный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=14|end_char=22
+6	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	start_char=23|end_char=33
+7	триллионов	триллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=34|end_char=44
+8	наносекунд	наносекунд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	start_char=45|end_char=55
+9	назад	назад	ADV	_	Degree=Pos	8	advmod	_	start_char=56|end_char=61
+10	,	,	PUNCT	_	_	18	punct	_	start_char=61|end_char=62
+11	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	18	nsubj	_	start_char=63|end_char=70
+12	в	в	ADP	_	_	13	case	_	start_char=71|end_char=72
+13	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	18	obl	_	start_char=73|end_char=81
+14	перемещения	перемещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	start_char=82|end_char=93
+15	во	во	ADP	_	_	16	case	_	start_char=94|end_char=96
+16	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	nmod	_	start_char=97|end_char=104
+17	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	18	advmod	_	start_char=105|end_char=111
+18	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=112|end_char=117
+19	оказаться	оказаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	18	xcomp	_	start_char=118|end_char=127
+20	и	и	CCONJ	_	_	21	cc	_	start_char=128|end_char=129
+21	вперед	вперед	ADV	_	Degree=Pos	19	advmod	_	start_char=130|end_char=136
+22	,	,	PUNCT	_	_	30	punct	_	start_char=136|end_char=137
+23	и	и	CCONJ	_	_	30	cc	_	start_char=138|end_char=139
+24	вбок	вбок	ADV	_	Degree=Pos	30	advmod	_	start_char=140|end_char=144
+25	и	и	CCONJ	_	_	30	cc	_	start_char=145|end_char=146
+26	...	...	PUNCT	_	_	24	punct	_	start_char=146|end_char=149
+27	в	в	ADP	_	_	28	case	_	start_char=150|end_char=151
+28	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	30	parataxis	_	start_char=152|end_char=157
+29	,	,	PUNCT	_	_	28	punct	_	start_char=157|end_char=158
+30	неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	18	conj	_	start_char=159|end_char=166
+31	;	;	PUNCT	_	_	36	punct	_	start_char=166|end_char=167
+32	в	в	ADP	_	_	36	case	_	start_char=168|end_char=169
+33	далекой	далекий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	start_char=170|end_char=177
+34	-	-	PUNCT	_	_	35	punct	_	start_char=177|end_char=178
+35	далекой	далекий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	33	conj	_	start_char=178|end_char=185
+36	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	obl	_	start_char=186|end_char=195
+37	,	,	PUNCT	_	_	40	punct	_	start_char=195|end_char=196
+38	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	40	nsubj	_	start_char=197|end_char=204
+39	вполне	вполне	ADV	_	Degree=Pos	40	advmod	_	start_char=205|end_char=211
+40	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	acl:relcl	_	start_char=212|end_char=217
+41	оказаться	оказаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	40	xcomp	_	start_char=218|end_char=227
+42	на	на	ADP	_	_	46	case	_	start_char=228|end_char=230
+43	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	46	det	_	start_char=231|end_char=234
+44	же	же	PART	_	_	43	advmod	_	start_char=235|end_char=237
+45	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	46	det	_	start_char=238|end_char=243
+46	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	41	obl	_	start_char=244|end_char=249
+47	,	,	PUNCT	_	_	50	punct	_	start_char=249|end_char=250
+48	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	50	nsubj	_	start_char=251|end_char=254
+49	и	и	PART	_	_	50	advmod	_	start_char=255|end_char=256
+50	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	46	det	_	start_char=257|end_char=261
+51	с	с	ADP	_	_	52	case	_	start_char=262|end_char=263
+52	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2|PronType=Prs	50	obl	_	start_char=264|end_char=268
+
+# text = Вселенная, но пребывающая с ней в декогерентности...
+# sent_id = 1
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=269|end_char=278
+2	,	,	PUNCT	_	_	4	punct	_	start_char=278|end_char=279
+3	но	но	CCONJ	_	_	4	cc	_	start_char=280|end_char=282
+4	пребывающая	пребывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	start_char=283|end_char=294
+5	с	с	ADP	_	_	6	case	_	start_char=295|end_char=296
+6	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=297|end_char=300
+7	в	в	ADP	_	_	8	case	_	start_char=301|end_char=302
+8	декогерентности	декогерентность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=303|end_char=318
+9	...	...	PUNCT	_	_	1	punct	_	start_char=318|end_char=321
+
+# text = а может, и не пребывающая...
+# sent_id = 2
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	а	а	CCONJ	_	_	6	cc	_	start_char=322|end_char=323
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=324|end_char=329
+3	,	,	PUNCT	_	_	2	punct	_	start_char=329|end_char=330
+4	и	и	CCONJ	_	_	6	cc	_	start_char=331|end_char=332
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=333|end_char=335
+6	пребывающая	пребывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	start_char=336|end_char=347
+7	...	...	PUNCT	_	_	6	punct	_	start_char=347|end_char=350
+
+# text = Мастер закрыл браузер, ретвитнув несколько записей с упоминанием о нем самом, а также о вопиющих случаях мракобесия, имеющих место на варварской планетке Земля.
+# sent_id = 3
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=351|end_char=357
+2	закрыл	закрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=358|end_char=364
+3	браузер	браузер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=365|end_char=372
+4	,	,	PUNCT	_	_	5	punct	_	start_char=372|end_char=373
+5	ретвитнув	ретвить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=374|end_char=383
+6	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=384|end_char=393
+7	записей	запись	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	obj	_	start_char=394|end_char=401
+8	с	с	ADP	_	_	9	case	_	start_char=402|end_char=403
+9	упоминанием	упоминание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	start_char=404|end_char=415
+10	о	о	ADP	_	_	11	case	_	start_char=416|end_char=417
+11	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	start_char=418|end_char=421
+12	самом	самый	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Emp	9	det	_	start_char=422|end_char=427
+13	,	,	PUNCT	_	_	18	punct	_	start_char=427|end_char=428
+14	а	а	CCONJ	_	_	18	cc	_	start_char=429|end_char=430
+15	также	также	PART	_	_	14	fixed	_	start_char=431|end_char=436
+16	о	о	ADP	_	_	18	case	_	start_char=437|end_char=438
+17	вопиющих	вопиющий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	start_char=439|end_char=447
+18	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	conj	_	start_char=448|end_char=455
+19	мракобесия	мракобесия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	start_char=456|end_char=466
+20	,	,	PUNCT	_	_	21	punct	_	start_char=466|end_char=467
+21	имеющих	иметь	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	_	start_char=468|end_char=475
+22	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	start_char=476|end_char=481
+23	на	на	ADP	_	_	25	case	_	start_char=482|end_char=484
+24	варварской	варварский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	start_char=485|end_char=495
+25	планетке	планетка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	obl	_	start_char=496|end_char=504
+26	Земля	Земля	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	25	appos	_	start_char=505|end_char=510
+27	.	.	PUNCT	_	_	2	punct	_	start_char=510|end_char=511
+
+# text = С некоторых пор, а вернее, почти с тех самых, как Галлифрей оказался извлечен из своего врЕменного и временнОго тайника, он решил, что надо бы передохнуть и поразмыслить о том, что делать дальше.
+# sent_id = 4
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	С	с	ADP	_	_	3	case	_	start_char=512|end_char=513
+2	некоторых	некоторый	DET	_	Case=Gen|Number=Plur|PronType=Ind	3	det	_	start_char=514|end_char=523
+3	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	obl	_	start_char=524|end_char=527
+4	,	,	PUNCT	_	_	6	punct	_	start_char=527|end_char=528
+5	а	а	CCONJ	_	_	6	cc	_	start_char=529|end_char=530
+6	вернее	вернее	ADV	_	Degree=Cmp	3	parataxis	_	start_char=531|end_char=537
+7	,	,	PUNCT	_	_	6	punct	_	start_char=537|end_char=538
+8	почти	почти	ADV	_	Degree=Pos	10	advmod	_	start_char=539|end_char=544
+9	с	с	ADP	_	_	10	case	_	start_char=545|end_char=546
+10	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	3	conj	_	start_char=547|end_char=550
+11	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	10	det	_	start_char=551|end_char=556
+12	,	,	PUNCT	_	_	15	punct	_	start_char=556|end_char=557
+13	как	как	SCONJ	_	_	15	mark	_	start_char=558|end_char=561
+14	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	15	nsubj	_	start_char=562|end_char=571
+15	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	acl	_	start_char=572|end_char=580
+16	извлечен	извлечить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	xcomp	_	start_char=581|end_char=589
+17	из	из	ADP	_	_	19	case	_	start_char=590|end_char=592
+18	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	start_char=593|end_char=599
+19	врЕменного	врЕменный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	obl	_	start_char=600|end_char=610
+20	и	и	CCONJ	_	_	22	cc	_	start_char=611|end_char=612
+21	временнОго	временный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	start_char=613|end_char=623
+22	тайника	тайника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	conj	_	start_char=624|end_char=631
+23	,	,	PUNCT	_	_	16	punct	_	start_char=631|end_char=632
+24	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=633|end_char=635
+25	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=636|end_char=641
+26	,	,	PUNCT	_	_	28	punct	_	start_char=641|end_char=642
+27	что	что	SCONJ	_	_	28	mark	_	start_char=643|end_char=646
+28	надо	надо	VERB	_	_	25	ccomp	_	start_char=647|end_char=651
+29	бы	бы	AUX	_	Mood=Cnd	28	aux	_	start_char=652|end_char=654
+30	передохнуть	передохнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	csubj	_	start_char=655|end_char=666
+31	и	и	CCONJ	_	_	32	cc	_	start_char=667|end_char=668
+32	поразмыслить	поразмыслить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	conj	_	start_char=669|end_char=681
+33	о	о	ADP	_	_	34	case	_	start_char=682|end_char=683
+34	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	32	obl	_	start_char=684|end_char=687
+35	,	,	PUNCT	_	_	37	punct	_	start_char=687|end_char=688
+36	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	37	obj	_	start_char=689|end_char=692
+37	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	34	acl	_	start_char=693|end_char=699
+38	дальше	дальше	ADV	_	Degree=Cmp	37	advmod	_	start_char=700|end_char=706
+39	.	.	PUNCT	_	_	25	punct	_	start_char=706|end_char=707
+
+# text = Завоевать мир?
+# sent_id = 5
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Завоевать	завоевать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=708|end_char=717
+2	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=718|end_char=721
+3	?	?	PUNCT	_	_	1	punct	_	start_char=721|end_char=722
+
+# text = Спасти мир?
+# sent_id = 6
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Спасти	спасти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=723|end_char=729
+2	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=730|end_char=733
+3	?	?	PUNCT	_	_	1	punct	_	start_char=733|end_char=734
+
+# text = Теперь, когда настоящие враги были выявлены, хотя и не уничтожены полностью, многое представало в ином свете.
+# sent_id = 7
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=735|end_char=741
+2	,	,	PUNCT	_	_	7	punct	_	start_char=741|end_char=742
+3	когда	когда	SCONJ	_	_	7	mark	_	start_char=743|end_char=748
+4	настоящие	настоящий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	start_char=749|end_char=758
+5	враги	враг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	start_char=759|end_char=764
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	_	start_char=765|end_char=769
+7	выявлены	выявить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	16	advcl	_	start_char=770|end_char=778
+8	,	,	PUNCT	_	_	12	punct	_	start_char=778|end_char=779
+9	хотя	хотя	SCONJ	_	_	12	mark	_	start_char=780|end_char=784
+10	и	и	PART	_	_	12	advmod	_	start_char=785|end_char=786
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=787|end_char=789
+12	уничтожены	уничтожить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	advcl	_	start_char=790|end_char=800
+13	полностью	полностью	ADV	_	Degree=Pos	12	advmod	_	start_char=801|end_char=810
+14	,	,	PUNCT	_	_	7	punct	_	start_char=810|end_char=811
+15	многое	многое	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	16	nsubj	_	start_char=812|end_char=818
+16	представало	представать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=819|end_char=830
+17	в	в	ADP	_	_	19	case	_	start_char=831|end_char=832
+18	ином	иной	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	19	det	_	start_char=833|end_char=837
+19	свете	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	start_char=838|end_char=843
+20	.	.	PUNCT	_	_	16	punct	_	start_char=843|end_char=844
+
+# text = Почти как в конце Вселенной, только в другом ее "конце" – своеобразном начале посередине.
+# sent_id = 8
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Почти	почти	ADV	_	Degree=Pos	4	advmod	_	start_char=845|end_char=850
+2	как	как	SCONJ	_	_	4	case	_	start_char=851|end_char=854
+3	в	в	ADP	_	_	4	case	_	start_char=855|end_char=856
+4	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	start_char=857|end_char=862
+5	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	4	nmod	_	start_char=863|end_char=872
+6	,	,	PUNCT	_	_	12	punct	_	start_char=872|end_char=873
+7	только	только	PART	_	_	12	advmod	_	start_char=874|end_char=880
+8	в	в	ADP	_	_	12	case	_	start_char=881|end_char=882
+9	другом	другой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	12	det	_	start_char=883|end_char=889
+10	ее	ее	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=890|end_char=892
+11	"	"	PUNCT	_	_	12	punct	_	start_char=893|end_char=894
+12	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	conj	_	start_char=894|end_char=899
+13	"	"	PUNCT	_	_	12	punct	_	start_char=899|end_char=900
+14	–	–	PUNCT	_	_	16	punct	_	start_char=901|end_char=902
+15	своеобразном	своеобразный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	start_char=903|end_char=915
+16	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=916|end_char=922
+17	посередине	посередине	ADV	_	Degree=Pos	16	advmod	_	start_char=923|end_char=933
+18	.	.	PUNCT	_	_	16	punct	_	start_char=933|end_char=934
+
+# text = На данный момент он выбрал себе такую мишень, как иллюзии.
+# sent_id = 9
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	На	на	ADP	_	_	3	case	_	start_char=935|end_char=937
+2	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=938|end_char=944
+3	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=945|end_char=951
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=952|end_char=954
+5	выбрал	выбрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=955|end_char=961
+6	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	5	iobj	_	start_char=962|end_char=966
+7	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=967|end_char=972
+8	мишень	мишень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=973|end_char=979
+9	,	,	PUNCT	_	_	11	punct	_	start_char=979|end_char=980
+10	как	как	SCONJ	_	_	11	case	_	start_char=981|end_char=984
+11	иллюзии	иллюзия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obl	_	start_char=985|end_char=992
+12	.	.	PUNCT	_	_	5	punct	_	start_char=992|end_char=993
+
+# text = Начнем с человеческих иллюзий.
+# sent_id = 10
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Начнем	начь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=994|end_char=1000
+2	с	с	ADP	_	_	4	case	_	start_char=1001|end_char=1002
+3	человеческих	человеческий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=1003|end_char=1015
+4	иллюзий	иллюзия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	obl	_	start_char=1016|end_char=1023
+5	.	.	PUNCT	_	_	1	punct	_	start_char=1023|end_char=1024
+
+# text = Уже привычные, похожие на повелителей времени, приматы.
+# sent_id = 11
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Уже	уже	ADV	_	Degree=Pos	2	advmod	_	start_char=1025|end_char=1028
+2	привычные	привычный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=1029|end_char=1038
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1038|end_char=1039
+4	похожие	похожий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	conj	_	start_char=1040|end_char=1047
+5	на	на	ADP	_	_	6	case	_	start_char=1048|end_char=1050
+6	повелителей	повелитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	obl	_	start_char=1051|end_char=1062
+7	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=1063|end_char=1070
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1070|end_char=1071
+9	приматы	примат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	start_char=1072|end_char=1079
+10	.	.	PUNCT	_	_	2	punct	_	start_char=1079|end_char=1080
+
+# text = Очень часто упирающиеся против этого фактического звания, но против науки не попрешь.
+# sent_id = 12
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	start_char=1081|end_char=1086
+2	часто	часто	ADV	_	Degree=Pos	3	advmod	_	start_char=1087|end_char=1092
+3	упирающиеся	упираться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	start_char=1093|end_char=1104
+4	против	против	ADP	_	_	7	case	_	start_char=1105|end_char=1111
+5	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	start_char=1112|end_char=1117
+6	фактического	фактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=1118|end_char=1130
+7	звания	звание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	start_char=1131|end_char=1137
+8	,	,	PUNCT	_	_	13	punct	_	start_char=1137|end_char=1138
+9	но	но	CCONJ	_	_	13	cc	_	start_char=1139|end_char=1141
+10	против	против	ADP	_	_	11	case	_	start_char=1142|end_char=1148
+11	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	start_char=1149|end_char=1154
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1155|end_char=1157
+13	попрешь	попрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1158|end_char=1165
+14	.	.	PUNCT	_	_	3	punct	_	start_char=1165|end_char=1166
+
+# text = Вот кстати, может быть и хуже: приматы или нет, а все мы – машины, обеспечивающие существование мельчайших реплицирующихся кирпичиков – генов.
+# sent_id = 13
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=1167|end_char=1170
+2	кстати	кстати	ADV	_	Degree=Pos	7	parataxis	_	start_char=1171|end_char=1177
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1177|end_char=1178
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1179|end_char=1184
+5	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1185|end_char=1189
+6	и	и	PART	_	_	7	advmod	_	start_char=1190|end_char=1191
+7	хуже	плохой	ADJ	_	Degree=Cmp	0	root	_	start_char=1192|end_char=1196
+8	:	:	PUNCT	_	_	7	punct	_	start_char=1196|end_char=1197
+9	приматы	примат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	parataxis	_	start_char=1198|end_char=1205
+10	или	или	CCONJ	_	_	11	cc	_	start_char=1206|end_char=1209
+11	нет	нет	VERB	_	Polarity=Neg	9	conj	_	start_char=1210|end_char=1213
+12	,	,	PUNCT	_	_	17	punct	_	start_char=1213|end_char=1214
+13	а	а	CCONJ	_	_	17	cc	_	start_char=1215|end_char=1216
+14	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	15	det	_	start_char=1217|end_char=1220
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	start_char=1221|end_char=1223
+16	–	–	PUNCT	_	_	17	punct	_	start_char=1224|end_char=1225
+17	машины	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	conj	_	start_char=1226|end_char=1232
+18	,	,	PUNCT	_	_	19	punct	_	start_char=1232|end_char=1233
+19	обеспечивающие	обеспечивать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	start_char=1234|end_char=1248
+20	существование	существование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obj	_	start_char=1249|end_char=1262
+21	мельчайших	мельчайший	ADJ	_	Case=Gen|Degree=Sup|Number=Plur	23	amod	_	start_char=1263|end_char=1273
+22	реплицирующихся	реплицироваться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	amod	_	start_char=1274|end_char=1289
+23	кирпичиков	кирпичик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	start_char=1290|end_char=1300
+24	–	–	PUNCT	_	_	25	punct	_	start_char=1301|end_char=1302
+25	генов	ген	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	appos	_	start_char=1303|end_char=1308
+26	.	.	PUNCT	_	_	7	punct	_	start_char=1308|end_char=1309
+
+# text = И гены эти дьявольски эгоистичны.
+# sent_id = 14
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	И	и	CCONJ	_	_	5	cc	_	start_char=1310|end_char=1311
+2	гены	гена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=1312|end_char=1316
+3	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	2	det	_	start_char=1317|end_char=1320
+4	дьявольски	дьявольски	ADV	_	Degree=Pos	5	advmod	_	start_char=1321|end_char=1331
+5	эгоистичны	эгоистичный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1332|end_char=1342
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1342|end_char=1343
+
+# text = Вы думаете, что они существуют для поддержания вашей формы, являются вашим прописанным машинным кодом, по которому вас можно восстановить, и в них нет ничего лишнего?
+# sent_id = 15
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=1344|end_char=1346
+2	думаете	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1347|end_char=1354
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1354|end_char=1355
+4	что	что	SCONJ	_	_	6	mark	_	start_char=1356|end_char=1359
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=1360|end_char=1363
+6	существуют	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1364|end_char=1374
+7	для	для	ADP	_	_	8	case	_	start_char=1375|end_char=1378
+8	поддержания	поддержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	start_char=1379|end_char=1390
+9	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	start_char=1391|end_char=1396
+10	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1397|end_char=1402
+11	,	,	PUNCT	_	_	12	punct	_	start_char=1402|end_char=1403
+12	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1404|end_char=1412
+13	вашим	ваш	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	start_char=1413|end_char=1418
+14	прописанным	прописать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	start_char=1419|end_char=1430
+15	машинным	машинный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=1431|end_char=1439
+16	кодом	код	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	start_char=1440|end_char=1445
+17	,	,	PUNCT	_	_	21	punct	_	start_char=1445|end_char=1446
+18	по	по	ADP	_	_	19	case	_	start_char=1447|end_char=1449
+19	которому	который	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	22	obl	_	start_char=1450|end_char=1458
+20	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	22	obj	_	start_char=1459|end_char=1462
+21	можно	можно	VERB	_	_	16	acl:relcl	_	start_char=1463|end_char=1468
+22	восстановить	восстановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	csubj	_	start_char=1469|end_char=1481
+23	,	,	PUNCT	_	_	27	punct	_	start_char=1481|end_char=1482
+24	и	и	CCONJ	_	_	27	cc	_	start_char=1483|end_char=1484
+25	в	в	ADP	_	_	26	case	_	start_char=1485|end_char=1486
+26	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	27	obl	_	start_char=1487|end_char=1490
+27	нет	нет	VERB	_	Polarity=Neg	12	conj	_	start_char=1491|end_char=1494
+28	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	27	nsubj	_	start_char=1495|end_char=1501
+29	лишнего	лишний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	start_char=1502|end_char=1509
+30	?	?	PUNCT	_	_	2	punct	_	start_char=1509|end_char=1510
+
+# text = Ничего подобного.
+# sent_id = 16
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=1511|end_char=1517
+2	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	start_char=1518|end_char=1527
+3	.	.	PUNCT	_	_	1	punct	_	start_char=1527|end_char=1528
+
+# text = Количество паразитов в любом коде огромное, и все они реплицируются, и вы все их переносите и множите, ничего о том не зная, и не собираясь ничего такого делать.
+# sent_id = 17
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=1529|end_char=1539
+2	паразитов	паразит	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	start_char=1540|end_char=1549
+3	в	в	ADP	_	_	5	case	_	start_char=1550|end_char=1551
+4	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	5	det	_	start_char=1552|end_char=1557
+5	коде	код	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	start_char=1558|end_char=1562
+6	огромное	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=1563|end_char=1571
+7	,	,	PUNCT	_	_	11	punct	_	start_char=1571|end_char=1572
+8	и	и	CCONJ	_	_	11	cc	_	start_char=1573|end_char=1574
+9	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	10	det	_	start_char=1575|end_char=1578
+10	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=1579|end_char=1582
+11	реплицируются	реплицироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=1583|end_char=1596
+12	,	,	PUNCT	_	_	17	punct	_	start_char=1596|end_char=1597
+13	и	и	CCONJ	_	_	17	cc	_	start_char=1598|end_char=1599
+14	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	17	nsubj	_	start_char=1600|end_char=1602
+15	все	весь	DET	_	Case=Acc|Number=Plur|PronType=Tot	16	det	_	start_char=1603|end_char=1606
+16	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	start_char=1607|end_char=1609
+17	переносите	переносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=1610|end_char=1620
+18	и	и	CCONJ	_	_	19	cc	_	start_char=1621|end_char=1622
+19	множите	мночь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	start_char=1623|end_char=1630
+20	,	,	PUNCT	_	_	25	punct	_	start_char=1630|end_char=1631
+21	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	25	obj	_	start_char=1632|end_char=1638
+22	о	о	ADP	_	_	23	case	_	start_char=1639|end_char=1640
+23	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	25	obl	_	start_char=1641|end_char=1644
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=1645|end_char=1647
+25	зная	знать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	17	advcl	_	start_char=1648|end_char=1652
+26	,	,	PUNCT	_	_	29	punct	_	start_char=1652|end_char=1653
+27	и	и	CCONJ	_	_	29	cc	_	start_char=1654|end_char=1655
+28	не	не	PART	_	Polarity=Neg	29	advmod	_	start_char=1656|end_char=1658
+29	собираясь	собираться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	25	advcl	_	start_char=1659|end_char=1668
+30	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	32	obj	_	start_char=1669|end_char=1675
+31	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	30	det	_	start_char=1676|end_char=1682
+32	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	start_char=1683|end_char=1689
+33	.	.	PUNCT	_	_	6	punct	_	start_char=1689|end_char=1690
+
+# text = А между тем – вот она судьба, то, что подталкивает к действиям вместо вас самих, то, что определяет срок и качество вашей жизни.
+# sent_id = 18
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	А	а	CCONJ	_	_	5	cc	_	start_char=1691|end_char=1692
+2	между	между	ADP	_	_	3	case	_	start_char=1693|end_char=1698
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	parataxis	_	start_char=1699|end_char=1702
+4	–	–	PUNCT	_	_	3	punct	_	start_char=1703|end_char=1704
+5	вот	вот	PART	_	_	6	advmod	_	start_char=1705|end_char=1708
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=1709|end_char=1712
+7	судьба	судьба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1713|end_char=1719
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1719|end_char=1720
+9	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	conj	_	start_char=1721|end_char=1723
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1723|end_char=1724
+11	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj	_	start_char=1725|end_char=1728
+12	подталкивает	подталкивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=1729|end_char=1741
+13	к	к	ADP	_	_	14	case	_	start_char=1742|end_char=1743
+14	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	12	obl	_	start_char=1744|end_char=1753
+15	вместо	вместо	ADP	_	_	16	case	_	start_char=1754|end_char=1760
+16	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	12	obl	_	start_char=1761|end_char=1764
+17	самих	сам	DET	_	Case=Gen|Number=Plur|PronType=Emp	16	det	_	start_char=1765|end_char=1770
+18	,	,	PUNCT	_	_	12	punct	_	start_char=1770|end_char=1771
+19	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	conj	_	start_char=1772|end_char=1774
+20	,	,	PUNCT	_	_	22	punct	_	start_char=1774|end_char=1775
+21	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	22	nsubj	_	start_char=1776|end_char=1779
+22	определяет	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	start_char=1780|end_char=1790
+23	срок	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	start_char=1791|end_char=1795
+24	и	и	CCONJ	_	_	25	cc	_	start_char=1796|end_char=1797
+25	качество	качество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	conj	_	start_char=1798|end_char=1806
+26	вашей	ваш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	27	det	_	start_char=1807|end_char=1812
+27	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	start_char=1813|end_char=1818
+28	.	.	PUNCT	_	_	7	punct	_	start_char=1818|end_char=1819
+
+# text = И у них нет никакой цели усложнять свои машины.
+# sent_id = 19
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	И	и	CCONJ	_	_	4	cc	_	start_char=1820|end_char=1821
+2	у	у	ADP	_	_	3	case	_	start_char=1822|end_char=1823
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=1824|end_char=1827
+4	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=1828|end_char=1831
+5	никакой	никакой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Neg	6	det	_	start_char=1832|end_char=1839
+6	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nsubj	_	start_char=1840|end_char=1844
+7	усложнять	усложнять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=1845|end_char=1854
+8	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=1855|end_char=1859
+9	машины	машина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=1860|end_char=1866
+10	.	.	PUNCT	_	_	4	punct	_	start_char=1866|end_char=1867
+
+# text = Это получается просто так.
+# sent_id = 20
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=1868|end_char=1871
+2	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1872|end_char=1882
+3	просто	просто	PART	_	_	4	advmod	_	start_char=1883|end_char=1889
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=1890|end_char=1893
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1893|end_char=1894
+
+# text = То, что случайно выжило, то выжило и закрепилось, если этому ничего не мешало.
+# sent_id = 21
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=1895|end_char=1897
+2	,	,	PUNCT	_	_	5	punct	_	start_char=1897|end_char=1898
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	start_char=1899|end_char=1902
+4	случайно	случайно	ADV	_	Degree=Pos	5	advmod	_	start_char=1903|end_char=1911
+5	выжило	выжить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=1912|end_char=1918
+6	,	,	PUNCT	_	_	1	punct	_	start_char=1918|end_char=1919
+7	то	то	SCONJ	_	_	8	mark	_	start_char=1920|end_char=1922
+8	выжило	выжить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1923|end_char=1929
+9	и	и	CCONJ	_	_	10	cc	_	start_char=1930|end_char=1931
+10	закрепилось	закрепиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=1932|end_char=1943
+11	,	,	PUNCT	_	_	16	punct	_	start_char=1943|end_char=1944
+12	если	если	SCONJ	_	_	16	mark	_	start_char=1945|end_char=1949
+13	этому	это	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	16	iobj	_	start_char=1950|end_char=1955
+14	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	16	nsubj	_	start_char=1956|end_char=1962
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=1963|end_char=1965
+16	мешало	мешать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=1966|end_char=1972
+17	.	.	PUNCT	_	_	8	punct	_	start_char=1972|end_char=1973
+
+# text = Или не выжило, если мешало.
+# sent_id = 22
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Или	или	CCONJ	_	_	3	cc	_	start_char=1974|end_char=1977
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1978|end_char=1980
+3	выжило	выжить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1981|end_char=1987
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1987|end_char=1988
+5	если	если	SCONJ	_	_	6	mark	_	start_char=1989|end_char=1993
+6	мешало	мешать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=1994|end_char=2000
+7	.	.	PUNCT	_	_	3	punct	_	start_char=2000|end_char=2001
+
+# text = Повелители времени, конечно, сложнее людей, а люди гораздо сложнее крыс, но в чем занятность – нельзя сказать, кто из них всех успешней.
+# sent_id = 23
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Повелители	повелитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=2002|end_char=2012
+2	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	start_char=2013|end_char=2020
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2020|end_char=2021
+4	конечно	конечно	ADV	_	Degree=Pos	6	parataxis	_	start_char=2022|end_char=2029
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2029|end_char=2030
+6	сложнее	сложный	ADJ	_	Degree=Cmp	0	root	_	start_char=2031|end_char=2038
+7	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nsubj	_	start_char=2039|end_char=2044
+8	,	,	PUNCT	_	_	12	punct	_	start_char=2044|end_char=2045
+9	а	а	CCONJ	_	_	12	cc	_	start_char=2046|end_char=2047
+10	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	start_char=2048|end_char=2052
+11	гораздо	гораздо	ADV	_	Degree=Pos	12	advmod	_	start_char=2053|end_char=2060
+12	сложнее	сложный	ADJ	_	Degree=Cmp	6	conj	_	start_char=2061|end_char=2068
+13	крыс	крыса	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	12	nsubj	_	start_char=2069|end_char=2073
+14	,	,	PUNCT	_	_	17	punct	_	start_char=2073|end_char=2074
+15	но	но	CCONJ	_	_	17	cc	_	start_char=2075|end_char=2077
+16	в	в	ADP	_	_	17	case	_	start_char=2078|end_char=2079
+17	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	6	conj	_	start_char=2080|end_char=2083
+18	занятность	занятность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	start_char=2084|end_char=2094
+19	–	–	PUNCT	_	_	20	punct	_	start_char=2095|end_char=2096
+20	нельзя	нельзя	VERB	_	_	17	parataxis	_	start_char=2097|end_char=2103
+21	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	csubj	_	start_char=2104|end_char=2111
+22	,	,	PUNCT	_	_	27	punct	_	start_char=2111|end_char=2112
+23	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	27	nsubj	_	start_char=2113|end_char=2116
+24	из	из	ADP	_	_	25	case	_	start_char=2117|end_char=2119
+25	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	23	nmod	_	start_char=2120|end_char=2123
+26	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	27	det	_	start_char=2124|end_char=2128
+27	успешней	успешний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	ccomp	_	start_char=2129|end_char=2137
+28	.	.	PUNCT	_	_	6	punct	_	start_char=2137|end_char=2138
+
+# text = Кто живет, тот живет, каждый приспособился настолько, насколько мог.
+# sent_id = 24
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	2	nsubj	_	start_char=2139|end_char=2142
+2	живет	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=2143|end_char=2148
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2148|end_char=2149
+4	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2150|end_char=2153
+5	живет	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2154|end_char=2159
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2159|end_char=2160
+7	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	8	nsubj	_	start_char=2161|end_char=2167
+8	приспособился	приспособиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2168|end_char=2181
+9	настолько	настолько	ADV	_	Degree=Pos	8	advmod	_	start_char=2182|end_char=2191
+10	,	,	PUNCT	_	_	12	punct	_	start_char=2191|end_char=2192
+11	насколько	насколько	SCONJ	_	_	12	mark	_	start_char=2193|end_char=2202
+12	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=2203|end_char=2206
+13	.	.	PUNCT	_	_	5	punct	_	start_char=2206|end_char=2207
+
+# text = И все мы дружно бороздим пространство-время, гм… успешно принуждая его к сожительству, пока мы существуем.
+# sent_id = 25
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	И	и	CCONJ	_	_	5	cc	_	start_char=2208|end_char=2209
+2	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	_	start_char=2210|end_char=2213
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=2214|end_char=2216
+4	дружно	дружно	ADV	_	Degree=Pos	5	advmod	_	start_char=2217|end_char=2223
+5	бороздим	бороздить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2224|end_char=2232
+6	пространство	пространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=2233|end_char=2245
+7	-	-	PUNCT	_	_	8	punct	_	start_char=2245|end_char=2246
+8	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	parataxis	_	start_char=2246|end_char=2251
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2251|end_char=2252
+10	гм	гад	NOUN	_	Abbr=Yes	8	conj	_	start_char=2253|end_char=2255
+11	…	…	PUNCT	_	_	13	punct	_	start_char=2255|end_char=2256
+12	успешно	успешно	ADV	_	Degree=Pos	13	advmod	_	start_char=2257|end_char=2264
+13	принуждая	принуждать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=2265|end_char=2274
+14	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=2275|end_char=2278
+15	к	к	ADP	_	_	16	case	_	start_char=2279|end_char=2280
+16	сожительству	сожительство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	obl	_	start_char=2281|end_char=2293
+17	,	,	PUNCT	_	_	20	punct	_	start_char=2293|end_char=2294
+18	пока	пока	SCONJ	_	_	20	mark	_	start_char=2295|end_char=2299
+19	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	start_char=2300|end_char=2302
+20	существуем	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=2303|end_char=2313
+21	.	.	PUNCT	_	_	5	punct	_	start_char=2313|end_char=2314
+
+# text = Ладно, дорогой профессор Фрейд, вчерашняя беседа с вами, несомненно была по-своему полезна.
+# sent_id = 26
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Ладно	ладно	PART	_	_	15	parataxis	_	start_char=2315|end_char=2320
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2320|end_char=2321
+3	дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=2322|end_char=2329
+4	профессор	профессор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=2330|end_char=2339
+5	Фрейд	Фрейд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	appos	_	start_char=2340|end_char=2345
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2345|end_char=2346
+7	вчерашняя	вчерашний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=2347|end_char=2356
+8	беседа	беседа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	start_char=2357|end_char=2363
+9	с	с	ADP	_	_	10	case	_	start_char=2364|end_char=2365
+10	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2|PronType=Prs	8	nmod	_	start_char=2366|end_char=2370
+11	,	,	PUNCT	_	_	15	punct	_	start_char=2370|end_char=2371
+12	несомненно	несомненно	ADV	_	Degree=Pos	15	advmod	_	start_char=2372|end_char=2382
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	start_char=2383|end_char=2387
+14	по-своему	по-своему	ADV	_	Degree=Pos	15	advmod	_	start_char=2388|end_char=2397
+15	полезна	полезный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=2398|end_char=2405
+16	.	.	PUNCT	_	_	15	punct	_	start_char=2405|end_char=2406
+
+# text = – Дорогой, ты собираешься на встречу? – позвала Романа, тоже с некоторых пор поселившаяся на Земле и взявшая себе имя Лалла Вард.
+# sent_id = 27
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2407|end_char=2408
+2	Дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	parataxis	_	start_char=2409|end_char=2416
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2416|end_char=2417
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2418|end_char=2420
+5	собираешься	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2421|end_char=2432
+6	на	на	ADP	_	_	7	case	_	start_char=2433|end_char=2435
+7	встречу	встреча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=2436|end_char=2443
+8	?	?	PUNCT	_	_	5	punct	_	start_char=2443|end_char=2444
+9	–	–	PUNCT	_	_	10	punct	_	start_char=2445|end_char=2446
+10	позвала	позвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2447|end_char=2454
+11	Романа	Роман	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	10	obj	_	start_char=2455|end_char=2461
+12	,	,	PUNCT	_	_	17	punct	_	start_char=2461|end_char=2462
+13	тоже	тоже	PART	_	_	17	advmod	_	start_char=2463|end_char=2467
+14	с	с	ADP	_	_	16	case	_	start_char=2468|end_char=2469
+15	некоторых	некоторый	DET	_	Case=Gen|Number=Plur|PronType=Ind	16	det	_	start_char=2470|end_char=2479
+16	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	obl	_	start_char=2480|end_char=2483
+17	поселившаяся	поселившаться	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	start_char=2484|end_char=2496
+18	на	на	ADP	_	_	19	case	_	start_char=2497|end_char=2499
+19	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	start_char=2500|end_char=2505
+20	и	и	CCONJ	_	_	21	cc	_	start_char=2506|end_char=2507
+21	взявшая	взять	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	17	conj	_	start_char=2508|end_char=2515
+22	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	21	iobj	_	start_char=2516|end_char=2520
+23	имя	имя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	start_char=2521|end_char=2524
+24	Лалла	Лалла	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	23	nmod	_	start_char=2525|end_char=2530
+25	Вард	Вард	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	24	flat:name	_	start_char=2531|end_char=2535
+26	.	.	PUNCT	_	_	5	punct	_	start_char=2535|end_char=2536
+
+# text = Она открыла дверцу кухонного шкафа, оказавшуюся дверью в ТАРДИС.
+# sent_id = 28
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2537|end_char=2540
+2	открыла	открыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2541|end_char=2548
+3	дверцу	дверца	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=2549|end_char=2555
+4	кухонного	кухонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=2556|end_char=2565
+5	шкафа	шкаф	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=2566|end_char=2571
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2571|end_char=2572
+7	оказавшуюся	оказаться	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	start_char=2573|end_char=2584
+8	дверью	дверь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl:agent	_	start_char=2585|end_char=2591
+9	в	в	ADP	_	_	10	case	_	start_char=2592|end_char=2593
+10	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	7	obl	_	start_char=2594|end_char=2600
+11	.	.	PUNCT	_	_	2	punct	_	start_char=2600|end_char=2601
+
+# text = – Доктор, наверное, заждался.
+# sent_id = 29
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2602|end_char=2603
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2604|end_char=2610
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2610|end_char=2611
+4	наверное	наверное	ADV	_	Degree=Pos	6	parataxis	_	start_char=2612|end_char=2620
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2620|end_char=2621
+6	заждался	заждаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2622|end_char=2630
+7	.	.	PUNCT	_	_	6	punct	_	start_char=2630|end_char=2631
+
+# text = – Доктор? – усмехнулся Мастер.
+# sent_id = 30
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2632|end_char=2633
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2634|end_char=2640
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2640|end_char=2641
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2642|end_char=2643
+5	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=2644|end_char=2654
+6	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2655|end_char=2661
+7	.	.	PUNCT	_	_	2	punct	_	start_char=2661|end_char=2662
+
+# text = – Он же всегда опаздывает.
+# sent_id = 31
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2663|end_char=2664
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=2665|end_char=2667
+3	же	же	PART	_	_	2	advmod	_	start_char=2668|end_char=2670
+4	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=2671|end_char=2677
+5	опаздывает	опаздывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2678|end_char=2688
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2688|end_char=2689
+
+# text = Даже в «Квантовое кафе».
+# sent_id = 32
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Даже	даже	PART	_	_	5	advmod	_	start_char=2690|end_char=2694
+2	в	в	ADP	_	_	5	case	_	start_char=2695|end_char=2696
+3	«	«	PUNCT	_	_	5	punct	_	start_char=2697|end_char=2698
+4	Квантовое	квантовый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=2698|end_char=2707
+5	кафе	кафе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	root	_	start_char=2708|end_char=2712
+6	»	»	PUNCT	_	_	5	punct	_	start_char=2712|end_char=2713
+7	.	.	PUNCT	_	_	5	punct	_	start_char=2713|end_char=2714
+
+# text = И что такое «заждался», если у нас всех есть машины времени?
+# sent_id = 33
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	И	и	CCONJ	_	_	5	cc	_	start_char=2715|end_char=2716
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	start_char=2717|end_char=2720
+3	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	start_char=2721|end_char=2726
+4	«	«	PUNCT	_	_	5	punct	_	start_char=2727|end_char=2728
+5	заждался	заждаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2728|end_char=2736
+6	»	»	PUNCT	_	_	5	punct	_	start_char=2736|end_char=2737
+7	,	,	PUNCT	_	_	12	punct	_	start_char=2737|end_char=2738
+8	если	если	SCONJ	_	_	12	mark	_	start_char=2739|end_char=2743
+9	у	у	ADP	_	_	10	case	_	start_char=2744|end_char=2745
+10	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	12	obl	_	start_char=2746|end_char=2749
+11	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Tot	12	obl	_	start_char=2750|end_char=2754
+12	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=2755|end_char=2759
+13	машины	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	start_char=2760|end_char=2766
+14	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	start_char=2767|end_char=2774
+15	?	?	PUNCT	_	_	5	punct	_	start_char=2774|end_char=2775
+
+# text = – Отлично, – надулась Романа-Лалла.
+# sent_id = 34
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2776|end_char=2777
+2	Отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2778|end_char=2785
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2785|end_char=2786
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2787|end_char=2788
+5	надулась	надуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=2789|end_char=2797
+6	Романа	Роман	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	5	obj	_	start_char=2798|end_char=2804
+7	-	-	PUNCT	_	_	8	punct	_	start_char=2804|end_char=2805
+8	Лалла	Лалла	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	appos	_	start_char=2805|end_char=2810
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2810|end_char=2811
+
+# text = – Тогда заждалась я.
+# sent_id = 35
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2812|end_char=2813
+2	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2814|end_char=2819
+3	заждалась	заждаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2820|end_char=2829
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2830|end_char=2831
+5	.	.	PUNCT	_	_	3	punct	_	start_char=2831|end_char=2832
+
+# text = Неужели этого мало?
+# sent_id = 36
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Неужели	неужели	PART	_	_	3	advmod	_	start_char=2833|end_char=2840
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2841|end_char=2846
+3	мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=2847|end_char=2851
+4	?	?	PUNCT	_	_	3	punct	_	start_char=2851|end_char=2852
+
+# text = – Конечно, нет! – вздохнул Мастер.
+# sent_id = 37
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2853|end_char=2854
+2	Конечно	конечно	ADV	_	Degree=Pos	4	parataxis	_	start_char=2855|end_char=2862
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2862|end_char=2863
+4	нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2864|end_char=2867
+5	!	!	PUNCT	_	_	4	punct	_	start_char=2867|end_char=2868
+6	–	–	PUNCT	_	_	7	punct	_	start_char=2869|end_char=2870
+7	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2871|end_char=2879
+8	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=2880|end_char=2886
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2886|end_char=2887
+
+# text = – Но сегодня же мы еще встречаемся с Рани.
+# sent_id = 38
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	7	punct	_	start_char=2888|end_char=2889
+2	Но	но	CCONJ	_	_	7	cc	_	start_char=2890|end_char=2892
+3	сегодня	сегодня	ADV	_	Degree=Pos	7	advmod	_	start_char=2893|end_char=2900
+4	же	же	PART	_	_	3	advmod	_	start_char=2901|end_char=2903
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=2904|end_char=2906
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=2907|end_char=2910
+7	встречаемся	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2911|end_char=2922
+8	с	с	ADP	_	_	9	case	_	start_char=2923|end_char=2924
+9	Рани	Рани	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|NameType=Giv|Number=Sing	7	obl	_	start_char=2925|end_char=2929
+10	.	.	PUNCT	_	_	7	punct	_	start_char=2929|end_char=2930
+
+# text = Опять она будет ворчать, что я все путаю!
+# sent_id = 39
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Опять	опять	ADV	_	Degree=Pos	4	advmod	_	start_char=2931|end_char=2936
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2937|end_char=2940
+3	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	aux	_	start_char=2941|end_char=2946
+4	ворчать	ворчать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2947|end_char=2954
+5	,	,	PUNCT	_	_	9	punct	_	start_char=2954|end_char=2955
+6	что	что	SCONJ	_	_	9	mark	_	start_char=2956|end_char=2959
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=2960|end_char=2961
+8	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	obj	_	start_char=2962|end_char=2965
+9	путаю	путать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=2966|end_char=2971
+10	!	!	PUNCT	_	_	4	punct	_	start_char=2971|end_char=2972
+
+# text = Романа махнула рукой.
+# sent_id = 40
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Романа	Роман	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	2	obj	_	start_char=2973|end_char=2979
+2	махнула	махнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2980|end_char=2987
+3	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	start_char=2988|end_char=2993
+4	.	.	PUNCT	_	_	2	punct	_	start_char=2993|end_char=2994
+
+# text = – Для людей это допустимо.
+# sent_id = 41
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2996|end_char=2997
+2	Для	для	ADP	_	_	3	case	_	start_char=2998|end_char=3001
+3	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	start_char=3002|end_char=3007
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3008|end_char=3011
+5	допустимо	допустимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3012|end_char=3021
+6	.	.	PUNCT	_	_	5	punct	_	start_char=3021|end_char=3022
+
+# text = Раньше же ты не увлекался настолько биологией, все больше машинами.
+# sent_id = 42
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Раньше	раньше	ADV	_	Degree=Cmp	5	advmod	_	start_char=3023|end_char=3029
+2	же	же	PART	_	_	1	advmod	_	start_char=3030|end_char=3032
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=3033|end_char=3035
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3036|end_char=3038
+5	увлекался	увлекаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3039|end_char=3048
+6	настолько	настолько	ADV	_	Degree=Pos	7	advmod	_	start_char=3049|end_char=3058
+7	биологией	биология	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	iobj	_	start_char=3059|end_char=3068
+8	,	,	PUNCT	_	_	10	punct	_	start_char=3068|end_char=3069
+9	все	всё	ADV	_	Degree=Pos|PronType=Tot	10	advmod	_	start_char=3070|end_char=3073
+10	больше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	11	nummod:gov	_	start_char=3074|end_char=3080
+11	машинами	машина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	5	obl	_	start_char=3081|end_char=3089
+12	.	.	PUNCT	_	_	5	punct	_	start_char=3089|end_char=3090
+
+# text = – Я бы не сказал, что разница велика!
+# sent_id = 43
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3091|end_char=3092
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=3093|end_char=3094
+3	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=3095|end_char=3097
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3098|end_char=3100
+5	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3101|end_char=3107
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3107|end_char=3108
+7	что	что	SCONJ	_	_	9	mark	_	start_char=3109|end_char=3112
+8	разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=3113|end_char=3120
+9	велика	большой	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	ccomp	_	start_char=3121|end_char=3127
+10	!	!	PUNCT	_	_	5	punct	_	start_char=3127|end_char=3128
+
+# text = – Ну вот, уже это некоторых и раздражает.
+# sent_id = 44
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	9	punct	_	start_char=3129|end_char=3130
+2	Ну	ну	PART	_	_	9	discourse	_	start_char=3131|end_char=3133
+3	вот	вот	PART	_	_	9	parataxis	_	start_char=3134|end_char=3137
+4	,	,	PUNCT	_	_	3	punct	_	start_char=3137|end_char=3138
+5	уже	уже	ADV	_	Degree=Pos	9	advmod	_	start_char=3139|end_char=3142
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=3143|end_char=3146
+7	некоторых	некоторый	DET	_	Case=Gen|Number=Plur|PronType=Ind	6	det	_	start_char=3147|end_char=3156
+8	и	и	PART	_	_	9	advmod	_	start_char=3157|end_char=3158
+9	раздражает	раздражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3159|end_char=3169
+10	.	.	PUNCT	_	_	9	punct	_	start_char=3169|end_char=3170
+
+# text = Хотя я бы сказала, это скорее вопрос философии.
+# sent_id = 45
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Хотя	хотя	SCONJ	_	_	4	mark	_	start_char=3171|end_char=3175
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=3176|end_char=3177
+3	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=3178|end_char=3180
+4	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=3181|end_char=3188
+5	,	,	PUNCT	_	_	4	punct	_	start_char=3188|end_char=3189
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=3190|end_char=3193
+7	скорее	скорее	ADV	_	Degree=Cmp	8	advmod	_	start_char=3194|end_char=3200
+8	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3201|end_char=3207
+9	философии	философия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=3208|end_char=3217
+10	.	.	PUNCT	_	_	8	punct	_	start_char=3217|end_char=3218
+
+# text = – В самом деле.
+# sent_id = 46
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3219|end_char=3220
+2	В	в	ADP	_	_	4	case	_	start_char=3221|end_char=3222
+3	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	4	det	_	start_char=3223|end_char=3228
+4	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=3229|end_char=3233
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3233|end_char=3234
+
+# text = – А посмотри на программы Доктора по теоретической физике, для повелителей времени тоже не совсем бы подошло.
+# sent_id = 47
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3235|end_char=3236
+2	А	а	CCONJ	_	_	3	cc	_	start_char=3237|end_char=3238
+3	посмотри	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3239|end_char=3247
+4	на	на	ADP	_	_	5	case	_	start_char=3248|end_char=3250
+5	программы	программа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obl	_	start_char=3251|end_char=3260
+6	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=3261|end_char=3268
+7	по	по	ADP	_	_	9	case	_	start_char=3269|end_char=3271
+8	теоретической	теоретический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=3272|end_char=3285
+9	физике	физика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	start_char=3286|end_char=3292
+10	,	,	PUNCT	_	_	18	punct	_	start_char=3292|end_char=3293
+11	для	для	ADP	_	_	12	case	_	start_char=3294|end_char=3297
+12	повелителей	повелитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	obl	_	start_char=3298|end_char=3309
+13	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	start_char=3310|end_char=3317
+14	тоже	тоже	PART	_	_	18	advmod	_	start_char=3318|end_char=3322
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=3323|end_char=3325
+16	совсем	совсем	ADV	_	Degree=Pos	18	advmod	_	start_char=3326|end_char=3332
+17	бы	бы	AUX	_	Mood=Cnd	18	aux	_	start_char=3333|end_char=3335
+18	подошло	подойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3336|end_char=3343
+19	.	.	PUNCT	_	_	3	punct	_	start_char=3343|end_char=3344
+
+# text = Но надо же брать в расчет, что это люди.
+# sent_id = 48
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=3345|end_char=3347
+2	надо	надо	VERB	_	_	0	root	_	start_char=3348|end_char=3352
+3	же	же	PART	_	_	2	advmod	_	start_char=3353|end_char=3355
+4	брать	брать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=3356|end_char=3361
+5	в	в	ADP	_	_	6	case	_	start_char=3362|end_char=3363
+6	расчет	расчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=3364|end_char=3370
+7	,	,	PUNCT	_	_	10	punct	_	start_char=3370|end_char=3371
+8	что	что	SCONJ	_	_	10	mark	_	start_char=3372|end_char=3375
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=3376|end_char=3379
+10	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	ccomp	_	start_char=3380|end_char=3384
+11	.	.	PUNCT	_	_	2	punct	_	start_char=3384|end_char=3385
+
+# text = – Надо, надо.
+# sent_id = 49
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3386|end_char=3387
+2	Надо	надо	VERB	_	_	0	root	_	start_char=3388|end_char=3392
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3392|end_char=3393
+4	надо	надо	VERB	_	_	2	conj	_	start_char=3394|end_char=3398
+5	.	.	PUNCT	_	_	2	punct	_	start_char=3398|end_char=3399
+
+# text = Тут со смешных азов надо.
+# sent_id = 50
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Тут	тут	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3400|end_char=3403
+2	со	со	ADP	_	_	4	case	_	start_char=3404|end_char=3406
+3	смешных	смешной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=3407|end_char=3414
+4	азов	аз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	start_char=3415|end_char=3419
+5	надо	надо	VERB	_	_	0	root	_	start_char=3420|end_char=3424
+6	.	.	PUNCT	_	_	5	punct	_	start_char=3424|end_char=3425
+
+# text = – Если, конечно, вам еще не надоело.
+# sent_id = 51
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	9	punct	_	start_char=3426|end_char=3427
+2	Если	если	SCONJ	_	_	9	mark	_	start_char=3428|end_char=3432
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3432|end_char=3433
+4	конечно	конечно	ADV	_	Degree=Pos	9	parataxis	_	start_char=3434|end_char=3441
+5	,	,	PUNCT	_	_	4	punct	_	start_char=3441|end_char=3442
+6	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	iobj	_	start_char=3443|end_char=3446
+7	еще	еще	ADV	_	Degree=Pos	9	advmod	_	start_char=3447|end_char=3450
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3451|end_char=3453
+9	надоело	надоесть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3454|end_char=3461
+10	.	.	PUNCT	_	_	9	punct	_	start_char=3461|end_char=3462
+
+# text = – Э… – Мастер задумался на мгновение.
+# sent_id = 52
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3463|end_char=3464
+2	Э…	э…	INTJ	_	_	5	discourse	_	start_char=3465|end_char=3467
+3	–	–	PUNCT	_	_	2	punct	_	start_char=3468|end_char=3469
+4	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=3470|end_char=3476
+5	задумался	задуматься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3477|end_char=3486
+6	на	на	ADP	_	_	7	case	_	start_char=3487|end_char=3489
+7	мгновение	мгновение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=3490|end_char=3499
+8	.	.	PUNCT	_	_	5	punct	_	start_char=3499|end_char=3500
+
+# text = – Надоело, конечно, но надо же как-то все-таки подавить это мракобесие, этак они никогда из колыбели не выберутся.
+# sent_id = 53
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3501|end_char=3502
+2	Надоело	надоесть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3503|end_char=3510
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3510|end_char=3511
+4	конечно	конечно	ADV	_	Degree=Pos	2	parataxis	_	start_char=3512|end_char=3519
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3519|end_char=3520
+6	но	но	CCONJ	_	_	7	cc	_	start_char=3521|end_char=3523
+7	надо	надо	VERB	_	_	2	conj	_	start_char=3524|end_char=3528
+8	же	же	PART	_	_	7	advmod	_	start_char=3529|end_char=3531
+9	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	11	advmod	_	start_char=3532|end_char=3538
+10	все-таки	все-таки	PART	_	_	11	advmod	_	start_char=3539|end_char=3547
+11	подавить	подавить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=3548|end_char=3556
+12	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	start_char=3557|end_char=3560
+13	мракобесие	мракобесие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	start_char=3561|end_char=3571
+14	,	,	PUNCT	_	_	21	punct	_	start_char=3571|end_char=3572
+15	этак	этак	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=3573|end_char=3577
+16	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=3578|end_char=3581
+17	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	21	advmod	_	start_char=3582|end_char=3589
+18	из	из	ADP	_	_	19	case	_	start_char=3590|end_char=3592
+19	колыбели	колыбель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	start_char=3593|end_char=3601
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=3602|end_char=3604
+21	выберутся	выбраться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=3605|end_char=3614
+22	.	.	PUNCT	_	_	2	punct	_	start_char=3614|end_char=3615
+
+# text = И не только они.
+# sent_id = 54
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	И	и	CCONJ	_	_	4	cc	_	start_char=3616|end_char=3617
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=3618|end_char=3620
+3	только	только	PART	_	_	4	advmod	_	start_char=3621|end_char=3627
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	root	_	start_char=3628|end_char=3631
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3631|end_char=3632
+
+# text = Люди – это такая упрощенная модель цивилизованного общества.
+# sent_id = 55
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=3633|end_char=3637
+2	–	–	PUNCT	_	_	1	punct	_	start_char=3638|end_char=3639
+3	это	это	PART	_	_	6	expl	_	start_char=3640|end_char=3643
+4	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=3644|end_char=3649
+5	упрощенная	упрощенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=3650|end_char=3660
+6	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3661|end_char=3667
+7	цивилизованного	цивилизованный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=3668|end_char=3683
+8	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=3684|end_char=3692
+9	.	.	PUNCT	_	_	6	punct	_	start_char=3692|end_char=3693
+
+# text = – Конечно, конечно.
+# sent_id = 56
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3694|end_char=3695
+2	Конечно	конечно	ADV	_	Degree=Pos	0	root	_	start_char=3696|end_char=3703
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3703|end_char=3704
+4	конечно	конечно	ADV	_	Degree=Pos	2	parataxis	_	start_char=3705|end_char=3712
+5	.	.	PUNCT	_	_	2	punct	_	start_char=3712|end_char=3713
+
+# text = – На примере которой можно проверить, насколько мы все инертны или не инертны в своей эволюции, насколько мы властны над собственным разумом и собственными инстинктами, наследием тысячелетий, миллионов и миллиардов лет развития.
+# sent_id = 57
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3715|end_char=3716
+2	На	на	ADP	_	_	3	case	_	start_char=3717|end_char=3719
+3	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=3720|end_char=3727
+4	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	3	nmod	_	start_char=3728|end_char=3735
+5	можно	можно	VERB	_	_	0	root	_	start_char=3736|end_char=3741
+6	проверить	проверить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=3742|end_char=3751
+7	,	,	PUNCT	_	_	11	punct	_	start_char=3751|end_char=3752
+8	насколько	насколько	SCONJ	_	_	11	mark	_	start_char=3753|end_char=3762
+9	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=3763|end_char=3765
+10	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	9	det	_	start_char=3766|end_char=3769
+11	инертны	инертный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	6	ccomp	_	start_char=3770|end_char=3777
+12	или	или	CCONJ	_	_	14	cc	_	start_char=3778|end_char=3781
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=3782|end_char=3784
+14	инертны	инертный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	11	conj	_	start_char=3785|end_char=3792
+15	в	в	ADP	_	_	17	case	_	start_char=3793|end_char=3794
+16	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	start_char=3795|end_char=3800
+17	эволюции	эволюция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	start_char=3801|end_char=3809
+18	,	,	PUNCT	_	_	21	punct	_	start_char=3809|end_char=3810
+19	насколько	насколько	SCONJ	_	_	21	mark	_	start_char=3811|end_char=3820
+20	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	start_char=3821|end_char=3823
+21	властны	властный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	11	conj	_	start_char=3824|end_char=3831
+22	над	над	ADP	_	_	24	case	_	start_char=3832|end_char=3835
+23	собственным	собственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=3836|end_char=3847
+24	разумом	разум	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	start_char=3848|end_char=3855
+25	и	и	CCONJ	_	_	27	cc	_	start_char=3856|end_char=3857
+26	собственными	собственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	27	amod	_	start_char=3858|end_char=3870
+27	инстинктами	инстинкт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	24	conj	_	start_char=3871|end_char=3882
+28	,	,	PUNCT	_	_	29	punct	_	start_char=3882|end_char=3883
+29	наследием	наследие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	conj	_	start_char=3884|end_char=3893
+30	тысячелетий	тысячелетие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	nmod	_	start_char=3894|end_char=3905
+31	,	,	PUNCT	_	_	32	punct	_	start_char=3905|end_char=3906
+32	миллионов	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	conj	_	start_char=3907|end_char=3916
+33	и	и	CCONJ	_	_	34	cc	_	start_char=3917|end_char=3918
+34	миллиардов	миллиард	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	35	nummod:gov	_	start_char=3919|end_char=3929
+35	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	conj	_	start_char=3930|end_char=3933
+36	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	start_char=3934|end_char=3942
+37	.	.	PUNCT	_	_	5	punct	_	start_char=3942|end_char=3943
+
+# text = Насколько мы можем вырваться из всего этого, сделать что-то самостоятельное, хорошее, правильное, вопреки и благодаря всему, что нас создало…
+# sent_id = 58
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Насколько	насколько	ADV	_	Degree=Pos	3	advmod	_	start_char=3944|end_char=3953
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=3954|end_char=3956
+3	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3957|end_char=3962
+4	вырваться	вырваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=3963|end_char=3972
+5	из	из	ADP	_	_	7	case	_	start_char=3973|end_char=3975
+6	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	start_char=3976|end_char=3981
+7	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	start_char=3982|end_char=3987
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3987|end_char=3988
+9	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	conj	_	start_char=3989|end_char=3996
+10	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	9	obj	_	start_char=3997|end_char=4003
+11	самостоятельное	самостоятельный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	start_char=4004|end_char=4019
+12	,	,	PUNCT	_	_	13	punct	_	start_char=4019|end_char=4020
+13	хорошее	хороший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	conj	_	start_char=4021|end_char=4028
+14	,	,	PUNCT	_	_	15	punct	_	start_char=4028|end_char=4029
+15	правильное	правильный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	conj	_	start_char=4030|end_char=4040
+16	,	,	PUNCT	_	_	17	punct	_	start_char=4040|end_char=4041
+17	вопреки	вопреки	ADV	_	Degree=Pos	11	conj	_	start_char=4042|end_char=4049
+18	и	и	CCONJ	_	_	20	cc	_	start_char=4050|end_char=4051
+19	благодаря	благодаря	ADP	_	_	20	case	_	start_char=4052|end_char=4061
+20	всему	всё	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	10	conj	_	start_char=4062|end_char=4067
+21	,	,	PUNCT	_	_	24	punct	_	start_char=4067|end_char=4068
+22	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	24	nsubj	_	start_char=4069|end_char=4072
+23	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	24	obj	_	start_char=4073|end_char=4076
+24	создало	создать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	start_char=4077|end_char=4084
+25	…	…	PUNCT	_	_	3	punct	_	start_char=4084|end_char=4085
+
+# text = Романа только улыбалась.
+# sent_id = 59
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Романа	Роман	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=4086|end_char=4092
+2	только	только	PART	_	_	3	advmod	_	start_char=4093|end_char=4099
+3	улыбалась	улыбаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4100|end_char=4109
+4	.	.	PUNCT	_	_	3	punct	_	start_char=4109|end_char=4110
+
+# text = Мастер опомнился и усмехнулся, поправляя черный галстук-бабочку.
+# sent_id = 60
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4111|end_char=4117
+2	опомнился	опомниться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4118|end_char=4127
+3	и	и	CCONJ	_	_	4	cc	_	start_char=4128|end_char=4129
+4	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=4130|end_char=4140
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4140|end_char=4141
+6	поправляя	поправлять	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=4142|end_char=4151
+7	черный	черный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4152|end_char=4158
+8	галстук	галстук	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=4159|end_char=4166
+9	-	-	PUNCT	_	_	10	punct	_	start_char=4166|end_char=4167
+10	бабочку	бабочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	appos	_	start_char=4167|end_char=4174
+11	.	.	PUNCT	_	_	2	punct	_	start_char=4174|end_char=4175
+
+# text = – Хорошо, дорогая, идем на встречу!
+# sent_id = 61
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4176|end_char=4177
+2	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4178|end_char=4184
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4184|end_char=4185
+4	дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=4186|end_char=4193
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4193|end_char=4194
+6	идем	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4195|end_char=4199
+7	на	на	ADP	_	_	8	case	_	start_char=4200|end_char=4202
+8	встречу	встреча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	start_char=4203|end_char=4210
+9	!	!	PUNCT	_	_	2	punct	_	start_char=4210|end_char=4211
+
+# text = Нельзя же отсиживаться тут вечно.
+# sent_id = 62
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Нельзя	нельзя	VERB	_	_	0	root	_	start_char=4212|end_char=4218
+2	же	же	PART	_	_	1	advmod	_	start_char=4219|end_char=4221
+3	отсиживаться	отсиживаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1	csubj	_	start_char=4222|end_char=4234
+4	тут	тут	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=4235|end_char=4238
+5	вечно	вечно	ADV	_	Degree=Pos	3	advmod	_	start_char=4239|end_char=4244
+6	.	.	PUNCT	_	_	1	punct	_	start_char=4244|end_char=4245
+
+# text = Знаешь, каков основной закон эволюции?
+# sent_id = 63
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4246|end_char=4252
+2	,	,	PUNCT	_	_	3	punct	_	start_char=4252|end_char=4253
+3	каков	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	det	_	start_char=4254|end_char=4259
+4	основной	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=4260|end_char=4268
+5	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	start_char=4269|end_char=4274
+6	эволюции	эволюция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=4275|end_char=4283
+7	?	?	PUNCT	_	_	1	punct	_	start_char=4283|end_char=4284
+
+# text = – Понятия не имею, какой из них ты сейчас имеешь в виду, Ричард!
+# sent_id = 64
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4285|end_char=4286
+2	Понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obj	_	start_char=4287|end_char=4294
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4295|end_char=4297
+4	имею	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4298|end_char=4302
+5	,	,	PUNCT	_	_	11	punct	_	start_char=4302|end_char=4303
+6	какой	какой	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	11	obl	_	start_char=4304|end_char=4309
+7	из	из	ADP	_	_	8	case	_	start_char=4310|end_char=4312
+8	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	nmod	_	start_char=4313|end_char=4316
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=4317|end_char=4319
+10	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=4320|end_char=4326
+11	имеешь	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=4327|end_char=4333
+12	в	в	ADP	_	_	11	advmod	_	start_char=4334|end_char=4335
+13	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	fixed	_	start_char=4336|end_char=4340
+14	,	,	PUNCT	_	_	15	punct	_	start_char=4340|end_char=4341
+15	Ричард	Ричард	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	vocative	_	start_char=4342|end_char=4348
+16	!	!	PUNCT	_	_	4	punct	_	start_char=4348|end_char=4349
+
+# text = – Кто хочет мира, пусть готовится к войне!
+# sent_id = 65
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4350|end_char=4351
+2	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	start_char=4352|end_char=4355
+3	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=4356|end_char=4361
+4	мира	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=4362|end_char=4366
+5	,	,	PUNCT	_	_	3	punct	_	start_char=4366|end_char=4367
+6	пусть	пусть	SCONJ	_	_	7	mark	_	start_char=4368|end_char=4373
+7	готовится	готовиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4374|end_char=4383
+8	к	к	ADP	_	_	9	case	_	start_char=4384|end_char=4385
+9	войне	война	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	obl	_	start_char=4386|end_char=4391
+10	!	!	PUNCT	_	_	7	punct	_	start_char=4391|end_char=4392
+
+# text = – воскликнул Мастер, одновременно шутливо и грозно сдвинув брови, и, смеясь, прошел вслед за супругой в ТАРДИС.
+# sent_id = 66
+# metadata = Название: Хочешь мира - готовься к войне, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5469066e00000a7f25c5eb7f/1/Hochesh-mira-gotovsya-k-vojne
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4393|end_char=4394
+2	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4395|end_char=4405
+3	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4406|end_char=4412
+4	,	,	PUNCT	_	_	9	punct	_	start_char=4412|end_char=4413
+5	одновременно	одновременно	ADV	_	Degree=Pos	6	advmod	_	start_char=4414|end_char=4426
+6	шутливо	шутливо	ADV	_	Degree=Pos	9	advmod	_	start_char=4427|end_char=4434
+7	и	и	CCONJ	_	_	8	cc	_	start_char=4435|end_char=4436
+8	грозно	грозно	ADV	_	Degree=Pos	6	conj	_	start_char=4437|end_char=4443
+9	сдвинув	сдвинуть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=4444|end_char=4451
+10	брови	бровь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obj	_	start_char=4452|end_char=4457
+11	,	,	PUNCT	_	_	16	punct	_	start_char=4457|end_char=4458
+12	и	и	CCONJ	_	_	16	cc	_	start_char=4459|end_char=4460
+13	,	,	PUNCT	_	_	14	punct	_	start_char=4460|end_char=4461
+14	смеясь	смеяться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	16	advcl	_	start_char=4462|end_char=4468
+15	,	,	PUNCT	_	_	14	punct	_	start_char=4468|end_char=4469
+16	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4470|end_char=4476
+17	вслед	вслед	ADV	_	Degree=Pos	16	advmod	_	start_char=4477|end_char=4482
+18	за	за	ADP	_	_	19	case	_	start_char=4483|end_char=4485
+19	супругой	супруга	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	16	obl	_	start_char=4486|end_char=4494
+20	в	в	ADP	_	_	21	case	_	start_char=4495|end_char=4496
+21	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	19	nmod	_	start_char=4497|end_char=4503
+22	.	.	PUNCT	_	_	2	punct	_	start_char=4503|end_char=4504
+

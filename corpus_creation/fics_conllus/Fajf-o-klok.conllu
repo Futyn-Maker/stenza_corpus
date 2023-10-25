@@ -1,0 +1,1475 @@
+# text = Доктору казалось, он уже вечность сидит за этим столом.
+# sent_id = 0
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	start_char=0|end_char=7
+2	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=8|end_char=16
+3	,	,	PUNCT	_	_	2	punct	_	start_char=16|end_char=17
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=18|end_char=20
+5	уже	уже	ADV	_	Degree=Pos	6	advmod	_	start_char=21|end_char=24
+6	вечность	вечность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=25|end_char=33
+7	сидит	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=34|end_char=39
+8	за	за	ADP	_	_	10	case	_	start_char=40|end_char=42
+9	этим	этот	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=43|end_char=47
+10	столом	стол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	start_char=48|end_char=54
+11	.	.	PUNCT	_	_	7	punct	_	start_char=54|end_char=55
+
+# text = Слева была стена: обои в желтый цветочек.
+# sent_id = 1
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Слева	слева	ADV	_	Degree=Pos	2	advmod	_	start_char=56|end_char=61
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=62|end_char=66
+3	стена	стена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=67|end_char=72
+4	:	:	PUNCT	_	_	3	punct	_	start_char=72|end_char=73
+5	обои	обои	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	parataxis	_	start_char=74|end_char=78
+6	в	в	ADP	_	_	8	case	_	start_char=79|end_char=80
+7	желтый	желтый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=81|end_char=87
+8	цветочек	цветочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	start_char=88|end_char=96
+9	.	.	PUNCT	_	_	2	punct	_	start_char=96|end_char=97
+
+# text = Если долго на них смотреть, в глазах рябило и казалось, что узор двигается.
+# sent_id = 2
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Если	если	SCONJ	_	_	5	mark	_	start_char=98|end_char=102
+2	долго	долго	ADV	_	Degree=Pos	5	advmod	_	start_char=103|end_char=108
+3	на	на	ADP	_	_	4	case	_	start_char=109|end_char=111
+4	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=112|end_char=115
+5	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	advcl	_	start_char=116|end_char=124
+6	,	,	PUNCT	_	_	5	punct	_	start_char=124|end_char=125
+7	в	в	ADP	_	_	8	case	_	start_char=126|end_char=127
+8	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	start_char=128|end_char=134
+9	рябило	рябить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=135|end_char=141
+10	и	и	CCONJ	_	_	11	cc	_	start_char=142|end_char=143
+11	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=144|end_char=152
+12	,	,	PUNCT	_	_	15	punct	_	start_char=152|end_char=153
+13	что	что	SCONJ	_	_	15	mark	_	start_char=154|end_char=157
+14	узор	узор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=158|end_char=162
+15	двигается	двигаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	ccomp	_	start_char=163|end_char=172
+16	.	.	PUNCT	_	_	9	punct	_	start_char=172|end_char=173
+
+# text = Справа — ослепительно яркие прожектора.
+# sent_id = 3
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Справа	справа	ADV	_	Degree=Pos	0	root	_	start_char=174|end_char=180
+2	—	—	PUNCT	_	_	1	punct	_	start_char=181|end_char=182
+3	ослепительно	ослепительно	ADV	_	Degree=Pos	4	advmod	_	start_char=183|end_char=195
+4	яркие	яркий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	start_char=196|end_char=201
+5	прожектора	прожектор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	start_char=202|end_char=212
+6	.	.	PUNCT	_	_	1	punct	_	start_char=212|end_char=213
+
+# text = А за ними — вглядывайся, не вглядывайся, разве что глаза заслезятся — плескалась чернильная темнота.
+# sent_id = 4
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	А	а	CCONJ	_	_	5	cc	_	start_char=214|end_char=215
+2	за	за	ADP	_	_	3	case	_	start_char=216|end_char=218
+3	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=219|end_char=223
+4	—	—	PUNCT	_	_	5	punct	_	start_char=224|end_char=225
+5	вглядывайся	вглядываться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=226|end_char=237
+6	,	,	PUNCT	_	_	8	punct	_	start_char=237|end_char=238
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=239|end_char=241
+8	вглядывайся	вглядываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=242|end_char=253
+9	,	,	PUNCT	_	_	13	punct	_	start_char=253|end_char=254
+10	разве	разве	PART	_	_	13	advmod	_	start_char=255|end_char=260
+11	что	что	SCONJ	_	_	10	fixed	_	start_char=261|end_char=264
+12	глаза	глаз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	start_char=265|end_char=270
+13	заслезятся	заслезиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	5	advcl	_	start_char=271|end_char=281
+14	—	—	PUNCT	_	_	15	punct	_	start_char=282|end_char=283
+15	плескалась	плескаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	parataxis	_	start_char=284|end_char=294
+16	чернильная	чернильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=295|end_char=305
+17	темнота	темнота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=306|end_char=313
+18	.	.	PUNCT	_	_	5	punct	_	start_char=313|end_char=314
+
+# text = Напротив него Мисси, глядя в карманное зеркальце, расправляла черные кружевные цветочки на тулье.
+# sent_id = 5
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Напротив	напротив	ADP	_	_	2	case	_	start_char=315|end_char=323
+2	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=324|end_char=328
+3	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=329|end_char=334
+4	,	,	PUNCT	_	_	5	punct	_	start_char=334|end_char=335
+5	глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	start_char=336|end_char=341
+6	в	в	ADP	_	_	8	case	_	start_char=342|end_char=343
+7	карманное	карманный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=344|end_char=353
+8	зеркальце	зеркальце	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=354|end_char=363
+9	,	,	PUNCT	_	_	5	punct	_	start_char=363|end_char=364
+10	расправляла	расправлять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=365|end_char=376
+11	черные	черный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	start_char=377|end_char=383
+12	кружевные	кружевный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	start_char=384|end_char=393
+13	цветочки	цветочек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	start_char=394|end_char=402
+14	на	на	ADP	_	_	15	case	_	start_char=403|end_char=405
+15	тулье	тулье	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	start_char=406|end_char=411
+16	.	.	PUNCT	_	_	10	punct	_	start_char=411|end_char=412
+
+# text = Позади клубился белый дым, отделяя ее от размытого заднего плана.
+# sent_id = 6
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Позади	позади	ADV	_	Degree=Pos	2	advmod	_	start_char=413|end_char=419
+2	клубился	клубиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=420|end_char=428
+3	белый	белый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=429|end_char=434
+4	дым	дым	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=435|end_char=438
+5	,	,	PUNCT	_	_	6	punct	_	start_char=438|end_char=439
+6	отделяя	отделять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=440|end_char=447
+7	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=448|end_char=450
+8	от	от	ADP	_	_	11	case	_	start_char=451|end_char=453
+9	размытого	размыть	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	start_char=454|end_char=463
+10	заднего	задний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=464|end_char=471
+11	плана	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	start_char=472|end_char=477
+12	.	.	PUNCT	_	_	2	punct	_	start_char=477|end_char=478
+
+# text = — Знаешь, я три дня искала эту шляпку, — она неожиданно подняла взгляд, и Доктор поймал себя на мысли, что хочет намазать ее нос джемом, чтобы Мисси спряталась в чайник и уснула.
+# sent_id = 7
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=479|end_char=480
+2	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=481|end_char=487
+3	,	,	PUNCT	_	_	7	punct	_	start_char=487|end_char=488
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=489|end_char=490
+5	три	три	NUM	_	Animacy=Inan|Case=Acc|NumForm=Word|NumType=Card	6	nummod:gov	_	start_char=491|end_char=494
+6	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=495|end_char=498
+7	искала	искать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=499|end_char=505
+8	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	start_char=506|end_char=509
+9	шляпку	шляпка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=510|end_char=516
+10	,	,	PUNCT	_	_	14	punct	_	start_char=516|end_char=517
+11	—	—	PUNCT	_	_	14	punct	_	start_char=518|end_char=519
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=520|end_char=523
+13	неожиданно	неожиданно	ADV	_	Degree=Pos	14	advmod	_	start_char=524|end_char=534
+14	подняла	поднять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=535|end_char=542
+15	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	start_char=543|end_char=549
+16	,	,	PUNCT	_	_	19	punct	_	start_char=549|end_char=550
+17	и	и	CCONJ	_	_	19	cc	_	start_char=551|end_char=552
+18	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=553|end_char=559
+19	поймал	поймать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=560|end_char=566
+20	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	19	obj	_	start_char=567|end_char=571
+21	на	на	ADP	_	_	22	case	_	start_char=572|end_char=574
+22	мысли	мысль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	start_char=575|end_char=580
+23	,	,	PUNCT	_	_	25	punct	_	start_char=580|end_char=581
+24	что	что	SCONJ	_	_	25	mark	_	start_char=582|end_char=585
+25	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl	_	start_char=586|end_char=591
+26	намазать	намазать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=592|end_char=600
+27	ее	ее	DET	_	Poss=Yes|PronType=Prs	28	det	_	start_char=601|end_char=603
+28	нос	нос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obj	_	start_char=604|end_char=607
+29	джемом	джем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	iobj	_	start_char=608|end_char=614
+30	,	,	PUNCT	_	_	33	punct	_	start_char=614|end_char=615
+31	чтобы	чтобы	SCONJ	_	Mood=Cnd	33	mark	_	start_char=616|end_char=621
+32	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	33	nsubj	_	start_char=622|end_char=627
+33	спряталась	спрятаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	25	advcl	_	start_char=628|end_char=638
+34	в	в	ADP	_	_	35	case	_	start_char=639|end_char=640
+35	чайник	чайник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	33	obl	_	start_char=641|end_char=647
+36	и	и	CCONJ	_	_	37	cc	_	start_char=648|end_char=649
+37	уснула	уснуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	start_char=650|end_char=656
+38	.	.	PUNCT	_	_	7	punct	_	start_char=656|end_char=657
+
+# text = Он с сожалением оглядел стол: джема там не было.
+# sent_id = 8
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=658|end_char=660
+2	с	с	ADP	_	_	3	case	_	start_char=661|end_char=662
+3	сожалением	сожаление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	start_char=663|end_char=673
+4	оглядел	оглядеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=674|end_char=681
+5	стол	стол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=682|end_char=686
+6	:	:	PUNCT	_	_	10	punct	_	start_char=686|end_char=687
+7	джема	джема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nsubj	_	start_char=688|end_char=693
+8	там	там	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=694|end_char=697
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=698|end_char=700
+10	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=701|end_char=705
+11	.	.	PUNCT	_	_	4	punct	_	start_char=705|end_char=706
+
+# text = Только два пустых стеклянных бокала и вазочка с бутафорскими яблоками.
+# sent_id = 9
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Только	только	PART	_	_	2	advmod	_	start_char=707|end_char=713
+2	два	два	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	5	nummod:gov	_	start_char=714|end_char=717
+3	пустых	пустой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	start_char=718|end_char=724
+4	стеклянных	стеклянный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	start_char=725|end_char=735
+5	бокала	бокал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=736|end_char=742
+6	и	и	CCONJ	_	_	7	cc	_	start_char=743|end_char=744
+7	вазочка	вазочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	start_char=745|end_char=752
+8	с	с	ADP	_	_	10	case	_	start_char=753|end_char=754
+9	бутафорскими	бутафорский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	start_char=755|end_char=767
+10	яблоками	яблоко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	nmod	_	start_char=768|end_char=776
+11	.	.	PUNCT	_	_	5	punct	_	start_char=776|end_char=777
+
+# text = — Ну же, ну скажи что-нибудь милое.
+# sent_id = 10
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	6	punct	_	start_char=778|end_char=779
+2	Ну	ну	PART	_	_	6	discourse	_	start_char=780|end_char=782
+3	же	же	PART	_	_	2	advmod	_	start_char=783|end_char=785
+4	,	,	PUNCT	_	_	2	punct	_	start_char=785|end_char=786
+5	ну	ну	PART	_	_	6	discourse	_	start_char=787|end_char=789
+6	скажи	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=790|end_char=795
+7	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	obj	_	start_char=796|end_char=806
+8	милое	милый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=807|end_char=812
+9	.	.	PUNCT	_	_	6	punct	_	start_char=812|end_char=813
+
+# text = Не в привычках Мастера было напрашиваться на комплименты, и сейчас
+# sent_id = 11
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=814|end_char=816
+2	в	в	ADP	_	_	3	case	_	start_char=817|end_char=818
+3	привычках	привычка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	0	root	_	start_char=819|end_char=828
+4	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=829|end_char=836
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	start_char=837|end_char=841
+6	напрашиваться	напрашиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	csubj	_	start_char=842|end_char=855
+7	на	на	ADP	_	_	8	case	_	start_char=856|end_char=858
+8	комплименты	комплимент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obl	_	start_char=859|end_char=870
+9	,	,	PUNCT	_	_	11	punct	_	start_char=870|end_char=871
+10	и	и	CCONJ	_	_	11	cc	_	start_char=872|end_char=873
+11	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=874|end_char=880
+
+# text = Доктор совсем не понимал, к чему она клонит.
+# sent_id = 12
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=881|end_char=887
+2	совсем	совсем	ADV	_	Degree=Pos	3	advmod	_	start_char=888|end_char=894
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=895|end_char=897
+4	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=898|end_char=905
+5	,	,	PUNCT	_	_	9	punct	_	start_char=905|end_char=906
+6	к	к	ADP	_	_	7	case	_	start_char=907|end_char=908
+7	чему	что	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	9	obl	_	start_char=909|end_char=913
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=914|end_char=917
+9	клонит	клонить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=918|end_char=924
+10	.	.	PUNCT	_	_	4	punct	_	start_char=924|end_char=925
+
+# text = — Трибблы, — наугад попробовал Доктор.
+# sent_id = 13
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=926|end_char=927
+2	Трибблы	трибблы	INTJ	_	_	0	root	_	start_char=928|end_char=935
+3	,	,	PUNCT	_	_	6	punct	_	start_char=935|end_char=936
+4	—	—	PUNCT	_	_	6	punct	_	start_char=937|end_char=938
+5	наугад	наугад	ADV	_	Degree=Pos	6	advmod	_	start_char=939|end_char=945
+6	попробовал	попробовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=946|end_char=956
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=957|end_char=963
+8	.	.	PUNCT	_	_	2	punct	_	start_char=963|end_char=964
+
+# text = — Ты уходишь от ответа, — Мисси резко захлопнула зеркальце.
+# sent_id = 14
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=966|end_char=967
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=968|end_char=970
+3	уходишь	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=971|end_char=978
+4	от	от	ADP	_	_	5	case	_	start_char=979|end_char=981
+5	ответа	ответ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	start_char=982|end_char=988
+6	,	,	PUNCT	_	_	10	punct	_	start_char=988|end_char=989
+7	—	—	PUNCT	_	_	10	punct	_	start_char=990|end_char=991
+8	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=992|end_char=997
+9	резко	резко	ADV	_	Degree=Pos	10	advmod	_	start_char=998|end_char=1003
+10	захлопнула	захлопнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1004|end_char=1014
+11	зеркальце	зеркальце	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	start_char=1015|end_char=1024
+12	.	.	PUNCT	_	_	3	punct	_	start_char=1024|end_char=1025
+
+# text = Похоже, пушистые зверушки с Йоты Близнецов IV были ей не по душе.
+# sent_id = 15
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Похоже	похожий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	13	parataxis	_	start_char=1026|end_char=1032
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1032|end_char=1033
+3	пушистые	пушистый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=1034|end_char=1042
+4	зверушки	зверушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	start_char=1043|end_char=1051
+5	с	с	ADP	_	_	6	case	_	start_char=1052|end_char=1053
+6	Йоты	эот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=1054|end_char=1058
+7	Близнецов	близнец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=1059|end_char=1068
+8	IV	IV	ADJ	_	NumForm=Roman|NumType=Ord	7	amod	_	start_char=1069|end_char=1071
+9	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=1072|end_char=1076
+10	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	iobj	_	start_char=1077|end_char=1079
+11	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1080|end_char=1082
+12	по	по	ADP	_	_	13	case	_	start_char=1083|end_char=1085
+13	душе	душа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	root	_	start_char=1086|end_char=1090
+14	.	.	PUNCT	_	_	13	punct	_	start_char=1090|end_char=1091
+
+# text = — Концовка «Неспящих в Сиэтле».
+# sent_id = 16
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1092|end_char=1093
+2	Концовка	концовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1094|end_char=1102
+3	«	«	PUNCT	_	_	4	punct	_	start_char=1103|end_char=1104
+4	Неспящих	неспящий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	nmod	_	start_char=1104|end_char=1112
+5	в	в	ADP	_	_	6	case	_	start_char=1113|end_char=1114
+6	Сиэтле	Сиэтли	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	4	nmod	_	start_char=1115|end_char=1121
+7	»	»	PUNCT	_	_	4	punct	_	start_char=1121|end_char=1122
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1122|end_char=1123
+
+# text = — Скажи, а не назови, — категорично покачала головой Мисси и щелкнула пальцами.
+# sent_id = 17
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1124|end_char=1125
+2	Скажи	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1126|end_char=1131
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1131|end_char=1132
+4	а	а	CCONJ	_	_	6	cc	_	start_char=1133|end_char=1134
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1135|end_char=1137
+6	назови	назвать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1138|end_char=1144
+7	,	,	PUNCT	_	_	10	punct	_	start_char=1144|end_char=1145
+8	—	—	PUNCT	_	_	10	punct	_	start_char=1146|end_char=1147
+9	категорично	категорично	ADV	_	Degree=Pos	10	advmod	_	start_char=1148|end_char=1159
+10	покачала	покачать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1160|end_char=1168
+11	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	start_char=1169|end_char=1176
+12	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=1177|end_char=1182
+13	и	и	CCONJ	_	_	14	cc	_	start_char=1183|end_char=1184
+14	щелкнула	щелкнуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=1185|end_char=1193
+15	пальцами	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	iobj	_	start_char=1194|end_char=1202
+16	.	.	PUNCT	_	_	2	punct	_	start_char=1202|end_char=1203
+
+# text = Токлафан появился буквально из ниоткуда.
+# sent_id = 18
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Токлафан	Токлафан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	2	nsubj	_	start_char=1204|end_char=1212
+2	появился	появиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1213|end_char=1221
+3	буквально	буквально	ADV	_	Degree=Pos	5	advmod	_	start_char=1222|end_char=1231
+4	из	из	ADP	_	_	5	case	_	start_char=1232|end_char=1234
+5	ниоткуда	ниоткуда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=1235|end_char=1243
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1243|end_char=1244
+
+# text = Она молча указала ему на бокалы, и тот исчез в неизвестном направлении.
+# sent_id = 19
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1245|end_char=1248
+2	молча	молча	ADV	_	Degree=Pos	3	advmod	_	start_char=1249|end_char=1254
+3	указала	указать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1255|end_char=1262
+4	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=1263|end_char=1266
+5	на	на	ADP	_	_	6	case	_	start_char=1267|end_char=1269
+6	бокалы	бокал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obl	_	start_char=1270|end_char=1276
+7	,	,	PUNCT	_	_	10	punct	_	start_char=1276|end_char=1277
+8	и	и	CCONJ	_	_	10	cc	_	start_char=1278|end_char=1279
+9	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	start_char=1280|end_char=1283
+10	исчез	исчезнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1284|end_char=1289
+11	в	в	ADP	_	_	13	case	_	start_char=1290|end_char=1291
+12	неизвестном	неизвестный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=1292|end_char=1303
+13	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	start_char=1304|end_char=1315
+14	.	.	PUNCT	_	_	3	punct	_	start_char=1315|end_char=1316
+
+# text = — Не хочешь коньяка?
+# sent_id = 20
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1317|end_char=1318
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1319|end_char=1321
+3	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1322|end_char=1328
+4	коньяка	коньяк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obj	_	start_char=1329|end_char=1336
+5	?	?	PUNCT	_	_	3	punct	_	start_char=1336|end_char=1337
+
+# text = Доктор неопределенно покачал головой.
+# sent_id = 21
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1338|end_char=1344
+2	неопределенно	неопределенно	ADV	_	Degree=Pos	3	advmod	_	start_char=1345|end_char=1358
+3	покачал	покачать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1359|end_char=1366
+4	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	start_char=1367|end_char=1374
+5	.	.	PUNCT	_	_	3	punct	_	start_char=1374|end_char=1375
+
+# text = — Неважно, его все равно нет.
+# sent_id = 22
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1376|end_char=1377
+2	Неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1378|end_char=1385
+3	,	,	PUNCT	_	_	7	punct	_	start_char=1385|end_char=1386
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=1387|end_char=1390
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	advmod	_	start_char=1391|end_char=1394
+6	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	fixed	_	start_char=1395|end_char=1400
+7	нет	нет	VERB	_	Polarity=Neg	2	conj	_	start_char=1401|end_char=1404
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1404|end_char=1405
+
+# text = Токлафан вернулся с большим фарфоровым чайником и на секунду завис слева от Мастера.
+# sent_id = 23
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Токлафан	Токлафан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1406|end_char=1414
+2	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1415|end_char=1423
+3	с	с	ADP	_	_	6	case	_	start_char=1424|end_char=1425
+4	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1426|end_char=1433
+5	фарфоровым	фарфоровый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1434|end_char=1444
+6	чайником	чайник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=1445|end_char=1453
+7	и	и	CCONJ	_	_	10	cc	_	start_char=1454|end_char=1455
+8	на	на	ADP	_	_	9	case	_	start_char=1456|end_char=1458
+9	секунду	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	start_char=1459|end_char=1466
+10	завис	зависнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1467|end_char=1472
+11	слева	слева	ADV	_	Degree=Pos	10	advmod	_	start_char=1473|end_char=1478
+12	от	от	ADP	_	_	13	case	_	start_char=1479|end_char=1481
+13	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	start_char=1482|end_char=1489
+14	.	.	PUNCT	_	_	2	punct	_	start_char=1489|end_char=1490
+
+# text = Доктору этого хватило, чтобы понять намек.
+# sent_id = 24
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	start_char=1491|end_char=1498
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1499|end_char=1504
+3	хватило	хватить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1505|end_char=1512
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1512|end_char=1513
+5	чтобы	чтобы	SCONJ	_	Mood=Cnd	6	mark	_	start_char=1514|end_char=1519
+6	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=1520|end_char=1526
+7	намек	намек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=1527|end_char=1532
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1532|end_char=1533
+
+# text = Цветочки, которыми был расписан китайский фарфор, идеально подходили к украшениям на шляпке.
+# sent_id = 25
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Цветочки	цветочек	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	start_char=1534|end_char=1542
+2	,	,	PUNCT	_	_	5	punct	_	start_char=1542|end_char=1543
+3	которыми	который	PRON	_	Case=Ins|Number=Plur|PronType=Rel	5	obl:agent	_	start_char=1544|end_char=1552
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	start_char=1553|end_char=1556
+5	расписан	расписать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl:relcl	_	start_char=1557|end_char=1565
+6	китайский	китайский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1566|end_char=1575
+7	фарфор	фарфор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=1576|end_char=1582
+8	,	,	PUNCT	_	_	5	punct	_	start_char=1582|end_char=1583
+9	идеально	идеально	ADV	_	Degree=Pos	10	advmod	_	start_char=1584|end_char=1592
+10	подходили	подходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1593|end_char=1602
+11	к	к	ADP	_	_	12	case	_	start_char=1603|end_char=1604
+12	украшениям	украшение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	10	obl	_	start_char=1605|end_char=1615
+13	на	на	ADP	_	_	14	case	_	start_char=1616|end_char=1618
+14	шляпке	шляпка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	start_char=1619|end_char=1625
+15	.	.	PUNCT	_	_	10	punct	_	start_char=1625|end_char=1626
+
+# text = Отмечать это вслух
+# sent_id = 26
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Отмечать	отмечать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=1627|end_char=1635
+2	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	obj	_	start_char=1636|end_char=1639
+3	вслух	вслух	ADV	_	Degree=Pos	1	advmod	_	start_char=1640|end_char=1645
+
+# text = Доктор не собирался.
+# sent_id = 27
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1646|end_char=1652
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1653|end_char=1655
+3	собирался	собираться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1656|end_char=1665
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1665|end_char=1666
+
+# text = — Пять часов, — объявила Мисси и подняла бокал.
+# sent_id = 28
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1667|end_char=1668
+2	Пять	пять	NUM	_	Case=Nom|NumForm=Word|NumType=Card	3	nummod:gov	_	start_char=1669|end_char=1673
+3	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	start_char=1674|end_char=1679
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1679|end_char=1680
+5	—	—	PUNCT	_	_	6	punct	_	start_char=1681|end_char=1682
+6	объявила	объявить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1683|end_char=1691
+7	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=1692|end_char=1697
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1698|end_char=1699
+9	подняла	поднять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=1700|end_char=1707
+10	бокал	бокал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=1708|end_char=1713
+11	.	.	PUNCT	_	_	3	punct	_	start_char=1713|end_char=1714
+
+# text = При созданном освещении чай в нем выглядел совершенно как коньяк, и пила она так, словно это и правда был дорогой алкоголь.
+# sent_id = 29
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	При	при	ADP	_	_	3	case	_	start_char=1715|end_char=1718
+2	созданном	создать	VERB	_	Aspect=Perf|Case=Loc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	start_char=1719|end_char=1728
+3	освещении	освещение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	start_char=1729|end_char=1738
+4	чай	чай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1739|end_char=1742
+5	в	в	ADP	_	_	6	case	_	start_char=1743|end_char=1744
+6	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=1745|end_char=1748
+7	выглядел	выглядеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1749|end_char=1757
+8	совершенно	совершенно	ADV	_	Degree=Pos	10	advmod	_	start_char=1758|end_char=1768
+9	как	как	SCONJ	_	_	10	case	_	start_char=1769|end_char=1772
+10	коньяк	коньяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obl	_	start_char=1773|end_char=1779
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1779|end_char=1780
+12	и	и	CCONJ	_	_	13	cc	_	start_char=1781|end_char=1782
+13	пила	пить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1783|end_char=1787
+14	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=1788|end_char=1791
+15	так	так	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=1792|end_char=1795
+16	,	,	PUNCT	_	_	23	punct	_	start_char=1795|end_char=1796
+17	словно	словно	SCONJ	_	_	23	mark	_	start_char=1797|end_char=1803
+18	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	23	nsubj	_	start_char=1804|end_char=1807
+19	и	и	PART	_	_	20	advmod	_	start_char=1808|end_char=1809
+20	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	parataxis	_	start_char=1810|end_char=1816
+21	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	start_char=1817|end_char=1820
+22	дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	start_char=1821|end_char=1828
+23	алкоголь	алкоголь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	advcl	_	start_char=1829|end_char=1837
+24	.	.	PUNCT	_	_	7	punct	_	start_char=1837|end_char=1838
+
+# text = — Ну что, даже не чокнешься со мной?
+# sent_id = 30
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	7	punct	_	start_char=1839|end_char=1840
+2	Ну	ну	PART	_	_	7	discourse	_	start_char=1841|end_char=1843
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	parataxis	_	start_char=1844|end_char=1847
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1847|end_char=1848
+5	даже	даже	PART	_	_	7	advmod	_	start_char=1849|end_char=1853
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1854|end_char=1856
+7	чокнешься	чокнуться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1857|end_char=1866
+8	со	со	ADP	_	_	9	case	_	start_char=1867|end_char=1869
+9	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=1870|end_char=1874
+10	?	?	PUNCT	_	_	7	punct	_	start_char=1874|end_char=1875
+
+# text = В таких обстоятельствах это было бы как минимум неразумно, хоть каламбур и выходил довольно дурной.
+# sent_id = 31
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	В	в	ADP	_	_	3	case	_	start_char=1876|end_char=1877
+2	таких	такой	DET	_	Case=Loc|Number=Plur|PronType=Dem	3	det	_	start_char=1878|end_char=1883
+3	обстоятельствах	обстоятельство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	obl	_	start_char=1884|end_char=1899
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=1900|end_char=1903
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=1904|end_char=1908
+6	бы	бы	AUX	_	Mood=Cnd	9	aux	_	start_char=1909|end_char=1911
+7	как	как	SCONJ	_	_	9	advmod	_	start_char=1912|end_char=1915
+8	минимум	минимум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	fixed	_	start_char=1916|end_char=1923
+9	неразумно	неразумный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1924|end_char=1933
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1933|end_char=1934
+11	хоть	хоть	SCONJ	_	_	12	case	_	start_char=1935|end_char=1939
+12	каламбур	каламбура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	obl	_	start_char=1940|end_char=1948
+13	и	и	CCONJ	_	_	14	cc	_	start_char=1949|end_char=1950
+14	выходил	выходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1951|end_char=1958
+15	довольно	довольно	ADV	_	Degree=Pos	16	advmod	_	start_char=1959|end_char=1967
+16	дурной	дурный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	xcomp	_	start_char=1968|end_char=1974
+17	.	.	PUNCT	_	_	9	punct	_	start_char=1974|end_char=1975
+
+# text = Доктор со вздохом приподнял бокал на пару сантиметров от стола, и Мисси так энергично ударила об него своим, что тот зазвенел.
+# sent_id = 32
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1976|end_char=1982
+2	со	со	ADP	_	_	3	case	_	start_char=1983|end_char=1985
+3	вздохом	вздох	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	start_char=1986|end_char=1993
+4	приподнял	приподнять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1994|end_char=2003
+5	бокал	бокал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=2004|end_char=2009
+6	на	на	ADP	_	_	7	case	_	start_char=2010|end_char=2012
+7	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=2013|end_char=2017
+8	сантиметров	сантиметр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	start_char=2018|end_char=2029
+9	от	от	ADP	_	_	10	case	_	start_char=2030|end_char=2032
+10	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=2033|end_char=2038
+11	,	,	PUNCT	_	_	16	punct	_	start_char=2038|end_char=2039
+12	и	и	CCONJ	_	_	16	cc	_	start_char=2040|end_char=2041
+13	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	16	nsubj	_	start_char=2042|end_char=2047
+14	так	так	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=2048|end_char=2051
+15	энергично	энергично	ADV	_	Degree=Pos	16	advmod	_	start_char=2052|end_char=2061
+16	ударила	ударить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2062|end_char=2069
+17	об	об	ADP	_	_	18	case	_	start_char=2070|end_char=2072
+18	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=2073|end_char=2077
+19	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	obj	_	start_char=2078|end_char=2083
+20	,	,	PUNCT	_	_	23	punct	_	start_char=2083|end_char=2084
+21	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	23	obj	_	start_char=2085|end_char=2088
+22	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	23	nsubj	_	start_char=2089|end_char=2092
+23	зазвенел	зазвенеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	acl:relcl	_	start_char=2093|end_char=2101
+24	.	.	PUNCT	_	_	4	punct	_	start_char=2101|end_char=2102
+
+# text = Дым за ней успел немного рассеяться, но, прежде чем стало возможно хоть что-то разглядеть, послышался шипящий звук, и Доктор почувствовал характерный запах, который издавала работающая дымовая установка.
+# sent_id = 33
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Дым	дым	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2103|end_char=2106
+2	за	за	ADP	_	_	3	case	_	start_char=2107|end_char=2109
+3	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=2110|end_char=2113
+4	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2114|end_char=2119
+5	немного	немного	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=2120|end_char=2127
+6	рассеяться	рассеяться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=2128|end_char=2138
+7	,	,	PUNCT	_	_	18	punct	_	start_char=2138|end_char=2139
+8	но	но	CCONJ	_	_	18	cc	_	start_char=2140|end_char=2142
+9	,	,	PUNCT	_	_	18	punct	_	start_char=2142|end_char=2143
+10	прежде	прежде	ADV	_	Degree=Pos	12	mark	_	start_char=2144|end_char=2150
+11	чем	чем	SCONJ	_	_	10	fixed	_	start_char=2151|end_char=2154
+12	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=2155|end_char=2160
+13	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	parataxis	_	start_char=2161|end_char=2169
+14	хоть	хоть	PART	_	_	15	advmod	_	start_char=2170|end_char=2174
+15	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	16	obj	_	start_char=2175|end_char=2181
+16	разглядеть	разглядеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=2182|end_char=2192
+17	,	,	PUNCT	_	_	12	punct	_	start_char=2192|end_char=2193
+18	послышался	послышаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=2194|end_char=2204
+19	шипящий	шипеть	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	amod	_	start_char=2205|end_char=2212
+20	звук	звук	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	start_char=2213|end_char=2217
+21	,	,	PUNCT	_	_	24	punct	_	start_char=2217|end_char=2218
+22	и	и	CCONJ	_	_	24	cc	_	start_char=2219|end_char=2220
+23	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	start_char=2221|end_char=2227
+24	почувствовал	почувствовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2228|end_char=2240
+25	характерный	характерный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	start_char=2241|end_char=2252
+26	запах	запах	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obj	_	start_char=2253|end_char=2258
+27	,	,	PUNCT	_	_	29	punct	_	start_char=2258|end_char=2259
+28	который	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	29	obj	_	start_char=2260|end_char=2267
+29	издавала	издавать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	acl:relcl	_	start_char=2268|end_char=2276
+30	работающая	работать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	32	amod	_	start_char=2277|end_char=2287
+31	дымовая	дымовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	start_char=2288|end_char=2295
+32	установка	установка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	start_char=2296|end_char=2305
+33	.	.	PUNCT	_	_	4	punct	_	start_char=2305|end_char=2306
+
+# text = Задний план вновь заволокло.
+# sent_id = 34
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Задний	задний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=2307|end_char=2313
+2	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2314|end_char=2318
+3	вновь	вновь	ADV	_	Degree=Pos	4	advmod	_	start_char=2319|end_char=2324
+4	заволокло	заволокнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2325|end_char=2334
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2334|end_char=2335
+
+# text = — Хотя какое значение имеет время для того, кто им повелевает?
+# sent_id = 35
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	5	punct	_	start_char=2337|end_char=2338
+2	Хотя	хотя	SCONJ	_	_	5	mark	_	start_char=2339|end_char=2343
+3	какое	какой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	det	_	start_char=2344|end_char=2349
+4	значение	значение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=2350|end_char=2358
+5	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2359|end_char=2364
+6	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=2365|end_char=2370
+7	для	для	ADP	_	_	8	case	_	start_char=2371|end_char=2374
+8	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=2375|end_char=2379
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2379|end_char=2380
+10	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	start_char=2381|end_char=2384
+11	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	12	iobj	_	start_char=2385|end_char=2387
+12	повелевает	повелевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=2388|end_char=2398
+13	?	?	PUNCT	_	_	5	punct	_	start_char=2398|end_char=2399
+
+# text = — Мисси поставила бокал и продолжила.
+# sent_id = 36
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2400|end_char=2401
+2	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=2402|end_char=2407
+3	поставила	поставить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2408|end_char=2417
+4	бокал	бокал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2418|end_char=2423
+5	и	и	CCONJ	_	_	6	cc	_	start_char=2424|end_char=2425
+6	продолжила	продолжить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2426|end_char=2436
+7	.	.	PUNCT	_	_	3	punct	_	start_char=2436|end_char=2437
+
+# text = — Пустые условности, не находишь?
+# sent_id = 37
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2438|end_char=2439
+2	Пустые	пустой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	start_char=2440|end_char=2446
+3	условности	условность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=2447|end_char=2457
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2457|end_char=2458
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2459|end_char=2461
+6	находишь	находить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2462|end_char=2470
+7	?	?	PUNCT	_	_	3	punct	_	start_char=2470|end_char=2471
+
+# text = Тот, у кого есть машина времени, никогда не опоздает к чаю.
+# sent_id = 38
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	nsubj	_	start_char=2472|end_char=2475
+2	,	,	PUNCT	_	_	4	punct	_	start_char=2475|end_char=2476
+3	у	у	ADP	_	_	4	case	_	start_char=2477|end_char=2478
+4	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	1	acl:relcl	_	start_char=2479|end_char=2483
+5	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	start_char=2484|end_char=2488
+6	машина	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=2489|end_char=2495
+7	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=2496|end_char=2503
+8	,	,	PUNCT	_	_	1	punct	_	start_char=2503|end_char=2504
+9	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	11	advmod	_	start_char=2505|end_char=2512
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2513|end_char=2515
+11	опоздает	опоздать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2516|end_char=2524
+12	к	к	ADP	_	_	13	case	_	start_char=2525|end_char=2526
+13	чаю	чай	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obl	_	start_char=2527|end_char=2530
+14	.	.	PUNCT	_	_	11	punct	_	start_char=2530|end_char=2531
+
+# text = За историю Вселенной на разных планетах столько раз наступало пять часов, что жизни не хватит, чтобы выпить чаю на каждой из них.
+# sent_id = 39
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	За	за	ADP	_	_	2	case	_	start_char=2532|end_char=2534
+2	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	start_char=2535|end_char=2542
+3	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	2	nmod	_	start_char=2543|end_char=2552
+4	на	на	ADP	_	_	6	case	_	start_char=2553|end_char=2555
+5	разных	разный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	start_char=2556|end_char=2562
+6	планетах	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	9	obl	_	start_char=2563|end_char=2571
+7	столько	столько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=2572|end_char=2579
+8	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	start_char=2580|end_char=2583
+9	наступало	наступать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2584|end_char=2593
+10	пять	пять	NUM	_	Case=Nom|NumForm=Word|NumType=Card	11	nummod:gov	_	start_char=2594|end_char=2598
+11	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nsubj	_	start_char=2599|end_char=2604
+12	,	,	PUNCT	_	_	16	punct	_	start_char=2604|end_char=2605
+13	что	что	SCONJ	_	_	16	mark	_	start_char=2606|end_char=2609
+14	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nsubj	_	start_char=2610|end_char=2615
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=2616|end_char=2618
+16	хватит	хватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=2619|end_char=2625
+17	,	,	PUNCT	_	_	19	punct	_	start_char=2625|end_char=2626
+18	чтобы	чтобы	SCONJ	_	Mood=Cnd	19	mark	_	start_char=2627|end_char=2632
+19	выпить	выпить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	advcl	_	start_char=2633|end_char=2639
+20	чаю	чай	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	start_char=2640|end_char=2643
+21	на	на	ADP	_	_	22	case	_	start_char=2644|end_char=2646
+22	каждой	каждый	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	19	obl	_	start_char=2647|end_char=2653
+23	из	из	ADP	_	_	24	case	_	start_char=2654|end_char=2656
+24	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	22	nmod	_	start_char=2657|end_char=2660
+25	.	.	PUNCT	_	_	9	punct	_	start_char=2660|end_char=2661
+
+# text = — Ты так считаешь?
+# sent_id = 40
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2662|end_char=2663
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=2664|end_char=2666
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2667|end_char=2670
+4	считаешь	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2671|end_char=2679
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2679|end_char=2680
+
+# text = — как можно более ровно спросил Доктор.
+# sent_id = 41
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	6	punct	_	start_char=2681|end_char=2682
+2	как	как	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=2683|end_char=2686
+3	можно	можно	VERB	_	_	2	fixed	_	start_char=2687|end_char=2692
+4	более	более	ADV	_	Degree=Cmp|PronType=Tot	5	advmod	_	start_char=2693|end_char=2698
+5	ровно	равный	ADV	_	Degree=Pos	6	advmod	_	start_char=2699|end_char=2704
+6	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2705|end_char=2712
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2713|end_char=2719
+8	.	.	PUNCT	_	_	6	punct	_	start_char=2719|end_char=2720
+
+# text = Чай оказался таким крепким, что от горечи сводило зубы.
+# sent_id = 42
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Чай	чай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2721|end_char=2724
+2	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2725|end_char=2733
+3	таким	такой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	start_char=2734|end_char=2739
+4	крепким	крепкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	start_char=2740|end_char=2747
+5	,	,	PUNCT	_	_	9	punct	_	start_char=2747|end_char=2748
+6	что	что	SCONJ	_	_	9	mark	_	start_char=2749|end_char=2752
+7	от	от	ADP	_	_	8	case	_	start_char=2753|end_char=2755
+8	горечи	горечь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=2756|end_char=2762
+9	сводило	сводить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=2763|end_char=2770
+10	зубы	зуб	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obj	_	start_char=2771|end_char=2775
+11	.	.	PUNCT	_	_	2	punct	_	start_char=2775|end_char=2776
+
+# text = — Почему ты задаешь вопросы, на которые знаешь ответ?
+# sent_id = 43
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2777|end_char=2778
+2	Почему	почему	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=2779|end_char=2785
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=2786|end_char=2788
+4	задаешь	задавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2789|end_char=2796
+5	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=2797|end_char=2804
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2804|end_char=2805
+7	на	на	ADP	_	_	8	case	_	start_char=2806|end_char=2808
+8	которые	который	PRON	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Rel	9	obl	_	start_char=2809|end_char=2816
+9	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=2817|end_char=2823
+10	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=2824|end_char=2829
+11	?	?	PUNCT	_	_	4	punct	_	start_char=2829|end_char=2830
+
+# text = Лучше скажи что-нибудь милое.
+# sent_id = 44
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Лучше	лучше	ADJ	_	Degree=Cmp	0	root	_	start_char=2831|end_char=2836
+2	скажи	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=2837|end_char=2842
+3	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	start_char=2843|end_char=2853
+4	милое	милый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=2854|end_char=2859
+5	.	.	PUNCT	_	_	1	punct	_	start_char=2859|end_char=2860
+
+# text = Даю еще одну попытку.
+# sent_id = 45
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Даю	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2861|end_char=2864
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=2865|end_char=2868
+3	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	4	nummod	_	start_char=2869|end_char=2873
+4	попытку	попытка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	start_char=2874|end_char=2881
+5	.	.	PUNCT	_	_	1	punct	_	start_char=2881|end_char=2882
+
+# text = Сверху Доктора осветил еще один прожектор, — Я не понимаю твоих намеков.
+# sent_id = 46
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Сверху	сверху	ADV	_	Degree=Pos	3	advmod	_	start_char=2883|end_char=2889
+2	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2890|end_char=2897
+3	осветил	осветить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2898|end_char=2905
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=2906|end_char=2909
+5	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=2910|end_char=2914
+6	прожектор	прожектор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2915|end_char=2924
+7	,	,	PUNCT	_	_	11	punct	_	start_char=2924|end_char=2925
+8	—	—	PUNCT	_	_	11	punct	_	start_char=2927|end_char=2928
+9	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=2929|end_char=2930
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2931|end_char=2933
+11	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2934|end_char=2941
+12	твоих	твой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	13	det	_	start_char=2942|end_char=2947
+13	намеков	намек	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	obj	_	start_char=2948|end_char=2955
+14	.	.	PUNCT	_	_	3	punct	_	start_char=2955|end_char=2956
+
+# text = Я не понимаю, что ты от меня хочешь услышать.
+# sent_id = 47
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2957|end_char=2958
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2959|end_char=2961
+3	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2962|end_char=2969
+4	,	,	PUNCT	_	_	9	punct	_	start_char=2969|end_char=2970
+5	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	10	obj	_	start_char=2971|end_char=2974
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=2975|end_char=2977
+7	от	от	ADP	_	_	8	case	_	start_char=2978|end_char=2980
+8	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	obl	_	start_char=2981|end_char=2985
+9	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2986|end_char=2992
+10	услышать	услышать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=2993|end_char=3001
+11	.	.	PUNCT	_	_	3	punct	_	start_char=3001|end_char=3002
+
+# text = — О, тебе не все равно, что я хочу от тебя слышать!
+# sent_id = 48
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	6	punct	_	start_char=3003|end_char=3004
+2	О	о	INTJ	_	_	6	discourse	_	start_char=3005|end_char=3006
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3006|end_char=3007
+4	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	iobj	_	start_char=3008|end_char=3012
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=3013|end_char=3015
+6	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=3016|end_char=3019
+7	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	fixed	_	start_char=3020|end_char=3025
+8	,	,	PUNCT	_	_	11	punct	_	start_char=3025|end_char=3026
+9	что	что	SCONJ	_	_	11	mark	_	start_char=3027|end_char=3030
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=3031|end_char=3032
+11	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	start_char=3033|end_char=3037
+12	от	от	ADP	_	_	13	case	_	start_char=3038|end_char=3040
+13	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	obl	_	start_char=3041|end_char=3045
+14	слышать	слышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=3046|end_char=3053
+15	!	!	PUNCT	_	_	6	punct	_	start_char=3053|end_char=3054
+
+# text = Это мило!
+# sent_id = 49
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=3055|end_char=3058
+2	мило	милый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3059|end_char=3063
+3	!	!	PUNCT	_	_	2	punct	_	start_char=3063|end_char=3064
+
+# text = — Мисси неестественно резко наклонилась над столом, широко улыбаясь.
+# sent_id = 50
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	5	punct	_	start_char=3065|end_char=3066
+2	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	nsubj	_	start_char=3067|end_char=3072
+3	неестественно	неестественно	ADV	_	Degree=Pos	5	advmod	_	start_char=3073|end_char=3086
+4	резко	резко	ADV	_	Degree=Pos	5	advmod	_	start_char=3087|end_char=3092
+5	наклонилась	наклониться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3093|end_char=3104
+6	над	над	ADP	_	_	7	case	_	start_char=3105|end_char=3108
+7	столом	стол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	start_char=3109|end_char=3115
+8	,	,	PUNCT	_	_	10	punct	_	start_char=3115|end_char=3116
+9	широко	широко	ADV	_	Degree=Pos	10	advmod	_	start_char=3117|end_char=3123
+10	улыбаясь	улыбаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=3124|end_char=3132
+11	.	.	PUNCT	_	_	5	punct	_	start_char=3132|end_char=3133
+
+# text = Доктор инстинктивно откинулся назад, покачнувшись вместе со стулом.
+# sent_id = 51
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3134|end_char=3140
+2	инстинктивно	инстинктивно	ADV	_	Degree=Pos	3	advmod	_	start_char=3141|end_char=3153
+3	откинулся	откинуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3154|end_char=3163
+4	назад	назад	ADV	_	Degree=Pos	3	advmod	_	start_char=3164|end_char=3169
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3169|end_char=3170
+6	покачнувшись	покачнуться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	3	advcl	_	start_char=3171|end_char=3183
+7	вместе	вместе	ADV	_	Degree=Pos	6	advmod	_	start_char=3184|end_char=3190
+8	со	со	ADP	_	_	9	case	_	start_char=3191|end_char=3193
+9	стулом	стул	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=3194|end_char=3200
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3200|end_char=3201
+
+# text = Пустые расширенные зрачки Мастера были темнее сверхмассивной черной дыры.
+# sent_id = 52
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Пустые	пустой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	start_char=3202|end_char=3208
+2	расширенные	расширить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	start_char=3209|end_char=3220
+3	зрачки	зрачки	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=3221|end_char=3227
+4	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	start_char=3228|end_char=3235
+5	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=3236|end_char=3240
+6	темнее	темный	ADJ	_	Degree=Cmp	0	root	_	start_char=3241|end_char=3247
+7	сверхмассивной	сверхмассивный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=3248|end_char=3262
+8	черной	черный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=3263|end_char=3269
+9	дыры	дыра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=3270|end_char=3274
+10	.	.	PUNCT	_	_	6	punct	_	start_char=3274|end_char=3275
+
+# text = — Ты пей, пей.
+# sent_id = 53
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=3276|end_char=3277
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3278|end_char=3280
+3	пей	петь	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3281|end_char=3284
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3284|end_char=3285
+5	пей	петь	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3286|end_char=3289
+6	.	.	PUNCT	_	_	3	punct	_	start_char=3289|end_char=3290
+
+# text = Я остановила часы в этой комнате.
+# sent_id = 54
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=3291|end_char=3292
+2	остановила	остановить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3293|end_char=3303
+3	часы	часы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	start_char=3304|end_char=3308
+4	в	в	ADP	_	_	6	case	_	start_char=3309|end_char=3310
+5	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=3311|end_char=3315
+6	комнате	комната	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=3316|end_char=3323
+7	.	.	PUNCT	_	_	2	punct	_	start_char=3323|end_char=3324
+
+# text = Так что тут всегда подходящее для чая время.
+# sent_id = 55
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	mark	_	start_char=3325|end_char=3328
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=3329|end_char=3332
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3333|end_char=3336
+4	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=3337|end_char=3343
+5	подходящее	подходящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=3344|end_char=3354
+6	для	для	ADP	_	_	7	case	_	start_char=3355|end_char=3358
+7	чая	чай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=3359|end_char=3362
+8	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=3363|end_char=3368
+9	.	.	PUNCT	_	_	5	punct	_	start_char=3368|end_char=3369
+
+# text = Верхний прожектор метнулся по цветочкам на обоях и погас.
+# sent_id = 56
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Верхний	верхний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=3370|end_char=3377
+2	прожектор	прожектор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3378|end_char=3387
+3	метнулся	метнуться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3388|end_char=3396
+4	по	по	ADP	_	_	5	case	_	start_char=3397|end_char=3399
+5	цветочкам	цветочек	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	obl	_	start_char=3400|end_char=3409
+6	на	на	ADP	_	_	7	case	_	start_char=3410|end_char=3412
+7	обоях	обои	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	obl	_	start_char=3413|end_char=3418
+8	и	и	CCONJ	_	_	9	cc	_	start_char=3419|end_char=3420
+9	погас	погаснуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3421|end_char=3426
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3426|end_char=3427
+
+# text = — К чему это?
+# sent_id = 57
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=3428|end_char=3429
+2	К	к	ADP	_	_	3	case	_	start_char=3430|end_char=3431
+3	чему	что	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=3432|end_char=3436
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=3437|end_char=3440
+5	?	?	PUNCT	_	_	3	punct	_	start_char=3440|end_char=3441
+
+# text = — Знаешь, думаю, тебе было бы некомфортно распивать чай не ровно в пять.
+# sent_id = 58
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=3442|end_char=3443
+2	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3444|end_char=3450
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3450|end_char=3451
+4	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3452|end_char=3457
+5	,	,	PUNCT	_	_	9	punct	_	start_char=3457|end_char=3458
+6	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	9	iobj	_	start_char=3459|end_char=3463
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=3464|end_char=3468
+8	бы	бы	AUX	_	Mood=Cnd	9	aux	_	start_char=3469|end_char=3471
+9	некомфортно	некомфортный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	parataxis	_	start_char=3472|end_char=3483
+10	распивать	распивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	start_char=3484|end_char=3493
+11	чай	чай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=3494|end_char=3497
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=3498|end_char=3500
+13	ровно	равный	ADV	_	Degree=Pos	10	advmod	_	start_char=3501|end_char=3506
+14	в	в	ADP	_	_	15	case	_	start_char=3507|end_char=3508
+15	пять	пять	NUM	_	Case=Acc|NumForm=Word|NumType=Card	13	obl	_	start_char=3509|end_char=3513
+16	.	.	PUNCT	_	_	2	punct	_	start_char=3513|end_char=3514
+
+# text = Ты всегда был склонен к точным подсчетам, — дым за Мисси клубился, в нем свивались и тут же рассеивались сотни галактик и звездных систем.
+# sent_id = 59
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=3515|end_char=3517
+2	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=3518|end_char=3524
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=3525|end_char=3528
+4	склонен	склоненный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=3529|end_char=3536
+5	к	к	ADP	_	_	7	case	_	start_char=3537|end_char=3538
+6	точным	точный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	amod	_	start_char=3539|end_char=3545
+7	подсчетам	подсчет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	4	obl	_	start_char=3546|end_char=3555
+8	,	,	PUNCT	_	_	13	punct	_	start_char=3555|end_char=3556
+9	—	—	PUNCT	_	_	13	punct	_	start_char=3557|end_char=3558
+10	дым	дым	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=3559|end_char=3562
+11	за	за	ADP	_	_	12	case	_	start_char=3563|end_char=3565
+12	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	10	nmod	_	start_char=3566|end_char=3571
+13	клубился	клубиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=3572|end_char=3580
+14	,	,	PUNCT	_	_	17	punct	_	start_char=3580|end_char=3581
+15	в	в	ADP	_	_	16	case	_	start_char=3582|end_char=3583
+16	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	start_char=3584|end_char=3587
+17	свивались	свиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	13	conj	_	start_char=3588|end_char=3597
+18	и	и	CCONJ	_	_	21	cc	_	start_char=3598|end_char=3599
+19	тут	тут	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=3600|end_char=3603
+20	же	же	PART	_	_	19	advmod	_	start_char=3604|end_char=3606
+21	рассеивались	рассеиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	13	conj	_	start_char=3607|end_char=3619
+22	сотни	сотня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	21	nsubj	_	start_char=3620|end_char=3625
+23	галактик	галактик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	start_char=3626|end_char=3634
+24	и	и	CCONJ	_	_	26	cc	_	start_char=3635|end_char=3636
+25	звездных	звездный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	start_char=3637|end_char=3645
+26	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	conj	_	start_char=3646|end_char=3652
+27	.	.	PUNCT	_	_	4	punct	_	start_char=3652|end_char=3653
+
+# text = — Даже знал, сколько детей было на Галлифрее.
+# sent_id = 60
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	3	punct	_	start_char=3654|end_char=3655
+2	Даже	даже	PART	_	_	3	advmod	_	start_char=3656|end_char=3660
+3	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3661|end_char=3665
+4	,	,	PUNCT	_	_	9	punct	_	start_char=3665|end_char=3666
+5	сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	6	nummod:gov	_	start_char=3667|end_char=3674
+6	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nsubj	_	start_char=3675|end_char=3680
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=3681|end_char=3685
+8	на	на	ADP	_	_	9	case	_	start_char=3686|end_char=3688
+9	Галлифрее	Галлифрей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	3	ccomp	_	start_char=3689|end_char=3698
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3698|end_char=3699
+
+# text = Видимо, ты и свой возраст тоже считал по привычке.
+# sent_id = 61
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Видимо	видимо	ADV	_	Degree=Pos	8	parataxis	_	start_char=3700|end_char=3706
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3706|end_char=3707
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=3708|end_char=3710
+4	и	и	PART	_	_	5	advmod	_	start_char=3711|end_char=3712
+5	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=3713|end_char=3717
+6	возраст	возраст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=3718|end_char=3725
+7	тоже	тоже	PART	_	_	8	advmod	_	start_char=3726|end_char=3730
+8	считал	считать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3731|end_char=3737
+9	по	по	ADP	_	_	10	case	_	start_char=3738|end_char=3740
+10	привычке	привычка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	start_char=3741|end_char=3749
+11	.	.	PUNCT	_	_	8	punct	_	start_char=3749|end_char=3750
+
+# text = — Меня часто спрашивают, сколько мне лет.
+# sent_id = 62
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	4	punct	_	start_char=3751|end_char=3752
+2	Меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=3753|end_char=3757
+3	часто	часто	ADV	_	Degree=Pos	4	advmod	_	start_char=3758|end_char=3763
+4	спрашивают	спрашивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3764|end_char=3774
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3774|end_char=3775
+6	сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=3776|end_char=3783
+7	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	start_char=3784|end_char=3787
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	ccomp	_	start_char=3788|end_char=3791
+9	.	.	PUNCT	_	_	4	punct	_	start_char=3791|end_char=3792
+
+# text = Надо бы знать, что отвечать.
+# sent_id = 63
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Надо	надо	VERB	_	_	0	root	_	start_char=3793|end_char=3797
+2	бы	бы	AUX	_	Mood=Cnd	1	aux	_	start_char=3798|end_char=3800
+3	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=3801|end_char=3806
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3806|end_char=3807
+5	что	что	SCONJ	_	_	6	mark	_	start_char=3808|end_char=3811
+6	отвечать	отвечать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	ccomp	_	start_char=3812|end_char=3820
+7	.	.	PUNCT	_	_	1	punct	_	start_char=3820|end_char=3821
+
+# text = Доктор как мог давал понять, что разговор его тяготил.
+# sent_id = 64
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=3822|end_char=3828
+2	как	как	SCONJ	_	_	3	mark	_	start_char=3829|end_char=3832
+3	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=3833|end_char=3836
+4	давал	давать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3837|end_char=3842
+5	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=3843|end_char=3849
+6	,	,	PUNCT	_	_	10	punct	_	start_char=3849|end_char=3850
+7	что	что	SCONJ	_	_	10	mark	_	start_char=3851|end_char=3854
+8	разговор	разговор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=3855|end_char=3863
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=3864|end_char=3867
+10	тяготил	тяготить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=3868|end_char=3875
+11	.	.	PUNCT	_	_	4	punct	_	start_char=3875|end_char=3876
+
+# text = — Для путешественника во времени это, в сущности, такая условность.
+# sent_id = 65
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	12	punct	_	start_char=3877|end_char=3878
+2	Для	для	ADP	_	_	3	case	_	start_char=3879|end_char=3882
+3	путешественника	путешественник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=3883|end_char=3898
+4	во	во	ADP	_	_	5	case	_	start_char=3899|end_char=3901
+5	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	start_char=3902|end_char=3909
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	start_char=3910|end_char=3913
+7	,	,	PUNCT	_	_	9	punct	_	start_char=3913|end_char=3914
+8	в	в	ADP	_	_	9	case	_	start_char=3915|end_char=3916
+9	сущности	сущность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	parataxis	_	start_char=3917|end_char=3925
+10	,	,	PUNCT	_	_	9	punct	_	start_char=3925|end_char=3926
+11	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	start_char=3927|end_char=3932
+12	условность	условность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3933|end_char=3943
+13	.	.	PUNCT	_	_	12	punct	_	start_char=3943|end_char=3944
+
+# text = Так тяжело было решить, относительно чего считать земную дату твоего дня рождения.
+# sent_id = 66
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=3945|end_char=3948
+2	тяжело	тяжелый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3949|end_char=3955
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=3956|end_char=3960
+4	решить	решить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=3961|end_char=3967
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3967|end_char=3968
+6	относительно	относительно	ADP	_	_	7	case	_	start_char=3969|end_char=3981
+7	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	8	obl	_	start_char=3982|end_char=3986
+8	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=3987|end_char=3994
+9	земную	земный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=3995|end_char=4001
+10	дату	дата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=4002|end_char=4006
+11	твоего	твой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	start_char=4007|end_char=4013
+12	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=4014|end_char=4017
+13	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	start_char=4018|end_char=4026
+14	.	.	PUNCT	_	_	2	punct	_	start_char=4026|end_char=4027
+
+# text = А подарок!
+# sent_id = 67
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	А	а	CCONJ	_	_	2	cc	_	start_char=4028|end_char=4029
+2	подарок	подарок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4030|end_char=4037
+3	!	!	PUNCT	_	_	2	punct	_	start_char=4037|end_char=4038
+
+# text = Я так долго выбирала тебе подарок, — теперь Мисси смотрела жалобно, даже губы поджала.
+# sent_id = 68
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4039|end_char=4040
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=4041|end_char=4044
+3	долго	долго	ADV	_	Degree=Pos	4	advmod	_	start_char=4045|end_char=4050
+4	выбирала	выбирать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4051|end_char=4059
+5	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	start_char=4060|end_char=4064
+6	подарок	подарок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=4065|end_char=4072
+7	,	,	PUNCT	_	_	11	punct	_	start_char=4072|end_char=4073
+8	—	—	PUNCT	_	_	11	punct	_	start_char=4074|end_char=4075
+9	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=4076|end_char=4082
+10	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	11	nsubj	_	start_char=4083|end_char=4088
+11	смотрела	смотреть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4089|end_char=4097
+12	жалобно	жалобно	ADV	_	Degree=Pos	11	advmod	_	start_char=4098|end_char=4105
+13	,	,	PUNCT	_	_	16	punct	_	start_char=4105|end_char=4106
+14	даже	даже	PART	_	_	15	advmod	_	start_char=4107|end_char=4111
+15	губы	губа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obj	_	start_char=4112|end_char=4116
+16	поджала	поджать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	start_char=4117|end_char=4124
+17	.	.	PUNCT	_	_	4	punct	_	start_char=4124|end_char=4125
+
+# text = — Они были уже мертвы.
+# sent_id = 69
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	5	punct	_	start_char=4126|end_char=4127
+2	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=4128|end_char=4131
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=4132|end_char=4136
+4	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=4137|end_char=4140
+5	мертвы	мертвый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=4141|end_char=4147
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4147|end_char=4148
+
+# text = То, что мертво, умереть не может.
+# sent_id = 70
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=4149|end_char=4151
+2	,	,	PUNCT	_	_	4	punct	_	start_char=4151|end_char=4152
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj	_	start_char=4153|end_char=4156
+4	мертво	мертвый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	acl:relcl	_	start_char=4157|end_char=4163
+5	,	,	PUNCT	_	_	4	punct	_	start_char=4163|end_char=4164
+6	умереть	умереть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=4165|end_char=4172
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=4173|end_char=4175
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4176|end_char=4181
+9	.	.	PUNCT	_	_	8	punct	_	start_char=4181|end_char=4182
+
+# text = Я же знала, что ты со своими моральными принципами-шминципами не оценишь, например, взвод подчиняющихся исключительно тебе сонтаранцев.
+# sent_id = 71
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4183|end_char=4184
+2	же	же	PART	_	_	1	advmod	_	start_char=4185|end_char=4187
+3	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4188|end_char=4193
+4	,	,	PUNCT	_	_	14	punct	_	start_char=4193|end_char=4194
+5	что	что	SCONJ	_	_	14	mark	_	start_char=4195|end_char=4198
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	start_char=4199|end_char=4201
+7	со	со	ADP	_	_	10	case	_	start_char=4202|end_char=4204
+8	своими	свой	DET	_	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	start_char=4205|end_char=4211
+9	моральными	моральный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	start_char=4212|end_char=4222
+10	принципами	принцип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	obl	_	start_char=4223|end_char=4233
+11	-	-	PUNCT	_	_	12	punct	_	start_char=4233|end_char=4234
+12	шминципами	шминцип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	appos	_	start_char=4234|end_char=4244
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=4245|end_char=4247
+14	оценишь	оценить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=4248|end_char=4255
+15	,	,	PUNCT	_	_	18	punct	_	start_char=4255|end_char=4256
+16	например	например	ADV	_	Degree=Pos	18	parataxis	_	start_char=4257|end_char=4265
+17	,	,	PUNCT	_	_	16	punct	_	start_char=4265|end_char=4266
+18	взвод	взвод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	parataxis	_	start_char=4267|end_char=4272
+19	подчиняющихся	подчиняться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	acl	_	start_char=4273|end_char=4286
+20	исключительно	исключительно	ADV	_	Degree=Pos	19	advmod	_	start_char=4287|end_char=4300
+21	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	19	iobj	_	start_char=4301|end_char=4305
+22	сонтаранцев	сонтаранец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	start_char=4306|end_char=4317
+23	.	.	PUNCT	_	_	3	punct	_	start_char=4317|end_char=4318
+
+# text = Начнешь про эксплуатацию задвигать.
+# sent_id = 72
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Начнешь	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4319|end_char=4326
+2	про	про	ADP	_	_	3	case	_	start_char=4327|end_char=4330
+3	эксплуатацию	эксплуатация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=4331|end_char=4343
+4	задвигать	задвигать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=4344|end_char=4353
+5	.	.	PUNCT	_	_	1	punct	_	start_char=4353|end_char=4354
+
+# text = — Я тебе уже объяснял.
+# sent_id = 73
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	5	punct	_	start_char=4355|end_char=4356
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4357|end_char=4358
+3	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	start_char=4359|end_char=4363
+4	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=4364|end_char=4367
+5	объяснял	объяснять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4368|end_char=4376
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4376|end_char=4377
+
+# text = Мне не нужна армия!
+# sent_id = 74
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=4378|end_char=4381
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4382|end_char=4384
+3	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=4385|end_char=4390
+4	армия	армия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=4391|end_char=4396
+5	!	!	PUNCT	_	_	3	punct	_	start_char=4396|end_char=4397
+
+# text = К чему ты клонишь?!
+# sent_id = 75
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	К	к	ADP	_	_	2	case	_	start_char=4398|end_char=4399
+2	чему	что	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	start_char=4400|end_char=4404
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=4405|end_char=4407
+4	клонишь	клонить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4408|end_char=4415
+5	?!	?!	PUNCT	_	_	4	punct	_	start_char=4415|end_char=4417
+
+# text = — Доктор раздраженно взмахнул руками, и пробил левой натянутые обои.
+# sent_id = 76
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	4	punct	_	start_char=4418|end_char=4419
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4420|end_char=4426
+3	раздраженно	раздраженно	ADV	_	Degree=Pos	4	advmod	_	start_char=4427|end_char=4438
+4	взмахнул	взмахнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4439|end_char=4447
+5	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	iobj	_	start_char=4448|end_char=4454
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4454|end_char=4455
+7	и	и	CCONJ	_	_	8	cc	_	start_char=4456|end_char=4457
+8	пробил	пробить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=4458|end_char=4464
+9	левой	левый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=4465|end_char=4470
+10	натянутые	натянуть	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	start_char=4471|end_char=4480
+11	обои	обои	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=4481|end_char=4485
+12	.	.	PUNCT	_	_	4	punct	_	start_char=4485|end_char=4486
+
+# text = Стены за ними не было, только темнота.
+# sent_id = 77
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Стены	стена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=4487|end_char=4492
+2	за	за	ADP	_	_	3	case	_	start_char=4493|end_char=4495
+3	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	1	nmod	_	start_char=4496|end_char=4500
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4501|end_char=4503
+5	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4504|end_char=4508
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4508|end_char=4509
+7	только	только	PART	_	_	8	advmod	_	start_char=4510|end_char=4516
+8	темнота	темнота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	start_char=4517|end_char=4524
+9	.	.	PUNCT	_	_	5	punct	_	start_char=4524|end_char=4525
+
+# text = — Ты же так любишь человеческие традиции.
+# sent_id = 78
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	5	punct	_	start_char=4527|end_char=4528
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=4529|end_char=4531
+3	же	же	PART	_	_	2	advmod	_	start_char=4532|end_char=4534
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=4535|end_char=4538
+5	любишь	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4539|end_char=4545
+6	человеческие	человеческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	start_char=4546|end_char=4558
+7	традиции	традиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=4559|end_char=4567
+8	.	.	PUNCT	_	_	5	punct	_	start_char=4567|end_char=4568
+
+# text = Так зачем все портить?
+# sent_id = 79
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4569|end_char=4572
+2	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=4573|end_char=4578
+3	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	4	obj	_	start_char=4579|end_char=4582
+4	портить	портить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=4583|end_char=4590
+5	?	?	PUNCT	_	_	4	punct	_	start_char=4590|end_char=4591
+
+# text = Что стояло за этой фразой, Доктор догадался не по словам; скорее, по пробивавшимся даже сквозь новую регенерацию, таким характерным еще для Кощея жестам.
+# sent_id = 80
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	2	nsubj	_	start_char=4592|end_char=4595
+2	стояло	стоять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=4596|end_char=4602
+3	за	за	ADP	_	_	5	case	_	start_char=4603|end_char=4605
+4	этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=4606|end_char=4610
+5	фразой	фраза	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	start_char=4611|end_char=4617
+6	,	,	PUNCT	_	_	2	punct	_	start_char=4617|end_char=4618
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4619|end_char=4625
+8	догадался	догадаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4626|end_char=4635
+9	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=4636|end_char=4638
+10	по	по	ADP	_	_	11	case	_	start_char=4639|end_char=4641
+11	словам	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	8	obl	_	start_char=4642|end_char=4648
+12	;	;	PUNCT	_	_	20	punct	_	start_char=4648|end_char=4649
+13	скорее	скорее	ADV	_	Degree=Cmp	20	parataxis	_	start_char=4650|end_char=4656
+14	,	,	PUNCT	_	_	13	punct	_	start_char=4656|end_char=4657
+15	по	по	ADP	_	_	20	case	_	start_char=4658|end_char=4660
+16	пробивавшимся	пробиваться	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	start_char=4661|end_char=4674
+17	даже	даже	PART	_	_	20	advmod	_	start_char=4675|end_char=4679
+18	сквозь	сквозь	ADP	_	_	20	case	_	start_char=4680|end_char=4686
+19	новую	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	start_char=4687|end_char=4692
+20	регенерацию	регенерация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=4693|end_char=4704
+21	,	,	PUNCT	_	_	23	punct	_	start_char=4704|end_char=4705
+22	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	23	det	_	start_char=4706|end_char=4711
+23	характерным	характерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	20	acl	_	start_char=4712|end_char=4723
+24	еще	еще	ADV	_	Degree=Pos	26	advmod	_	start_char=4724|end_char=4727
+25	для	для	ADP	_	_	26	case	_	start_char=4728|end_char=4731
+26	Кощея	Кощея	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	23	obl	_	start_char=4732|end_char=4737
+27	жестам	жеста	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	23	iobj	_	start_char=4738|end_char=4744
+28	.	.	PUNCT	_	_	8	punct	_	start_char=4744|end_char=4745
+
+# text = — Так не получится, — Доктор покачал головой, заглядывая то в бездну за стеной, то обжигая глаза прожекторами.
+# sent_id = 81
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	4	punct	_	start_char=4746|end_char=4747
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4748|end_char=4751
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4752|end_char=4754
+4	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4755|end_char=4764
+5	,	,	PUNCT	_	_	8	punct	_	start_char=4764|end_char=4765
+6	—	—	PUNCT	_	_	8	punct	_	start_char=4766|end_char=4767
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4768|end_char=4774
+8	покачал	покачать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4775|end_char=4782
+9	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	iobj	_	start_char=4783|end_char=4790
+10	,	,	PUNCT	_	_	11	punct	_	start_char=4790|end_char=4791
+11	заглядывая	заглядывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=4792|end_char=4802
+12	то	то	CCONJ	_	_	14	cc	_	start_char=4803|end_char=4805
+13	в	в	ADP	_	_	14	case	_	start_char=4806|end_char=4807
+14	бездну	бездна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	start_char=4808|end_char=4814
+15	за	за	ADP	_	_	16	case	_	start_char=4815|end_char=4817
+16	стеной	стена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	start_char=4818|end_char=4824
+17	,	,	PUNCT	_	_	19	punct	_	start_char=4824|end_char=4825
+18	то	то	CCONJ	_	_	19	cc	_	start_char=4826|end_char=4828
+19	обжигая	обжигать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=4829|end_char=4836
+20	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	obj	_	start_char=4837|end_char=4842
+21	прожекторами	прожектор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	19	iobj	_	start_char=4843|end_char=4855
+22	.	.	PUNCT	_	_	4	punct	_	start_char=4855|end_char=4856
+
+# text = — Но я бы тоже хотел, чтобы все у нас было, как у людей.
+# sent_id = 82
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	6	punct	_	start_char=4857|end_char=4858
+2	Но	но	CCONJ	_	_	6	cc	_	start_char=4859|end_char=4861
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=4862|end_char=4863
+4	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=4864|end_char=4866
+5	тоже	тоже	PART	_	_	6	advmod	_	start_char=4867|end_char=4871
+6	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4872|end_char=4877
+7	,	,	PUNCT	_	_	12	punct	_	start_char=4877|end_char=4878
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	start_char=4879|end_char=4884
+9	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	12	nsubj	_	start_char=4885|end_char=4888
+10	у	у	ADP	_	_	11	case	_	start_char=4889|end_char=4890
+11	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	12	obl	_	start_char=4891|end_char=4894
+12	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=4895|end_char=4899
+13	,	,	PUNCT	_	_	16	punct	_	start_char=4899|end_char=4900
+14	как	как	SCONJ	_	_	16	case	_	start_char=4901|end_char=4904
+15	у	у	ADP	_	_	16	case	_	start_char=4905|end_char=4906
+16	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	obl	_	start_char=4907|end_char=4912
+17	.	.	PUNCT	_	_	6	punct	_	start_char=4912|end_char=4913
+
+# text = Мастер искренне считал, что подарить локальный зомби-апокалипсис с восстающими из могил кибер-мертвецами — это по-человечески.
+# sent_id = 83
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4914|end_char=4920
+2	искренне	искренне	ADV	_	Degree=Pos	3	advmod	_	start_char=4921|end_char=4929
+3	считал	считать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4930|end_char=4936
+4	,	,	PUNCT	_	_	20	punct	_	start_char=4936|end_char=4937
+5	что	что	SCONJ	_	_	6	mark	_	start_char=4938|end_char=4941
+6	подарить	подарить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	ccomp	_	start_char=4942|end_char=4950
+7	локальный	локальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=4951|end_char=4960
+8	зомби	зомбь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=4961|end_char=4966
+9	-	-	PUNCT	_	_	10	punct	_	start_char=4966|end_char=4967
+10	апокалипсис	апокалипсис	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	appos	_	start_char=4967|end_char=4978
+11	с	с	ADP	_	_	14	case	_	start_char=4979|end_char=4980
+12	восстающими	восставать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	start_char=4981|end_char=4992
+13	из	из	ADP	_	_	14	case	_	start_char=4993|end_char=4995
+14	могил	могила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	obl	_	start_char=4996|end_char=5001
+15	кибер	кибер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	compound	_	start_char=5002|end_char=5007
+16	-	-	PUNCT	_	_	17	punct	_	start_char=5007|end_char=5008
+17	мертвецами	мертвец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	15	appos	_	start_char=5008|end_char=5018
+18	—	—	PUNCT	_	_	20	punct	_	start_char=5019|end_char=5020
+19	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	nsubj	_	start_char=5021|end_char=5024
+20	по-человечески	по-человечески	ADV	_	Degree=Pos	3	parataxis	_	start_char=5025|end_char=5039
+21	.	.	PUNCT	_	_	3	punct	_	start_char=5039|end_char=5040
+
+# text = И Доктор за все деньги банка Карабраксос не признался бы, что считает это по-своему трогательным.
+# sent_id = 84
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	И	и	CCONJ	_	_	9	cc	_	start_char=5041|end_char=5042
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=5043|end_char=5049
+3	за	за	ADP	_	_	5	case	_	start_char=5050|end_char=5052
+4	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	5	det	_	start_char=5053|end_char=5056
+5	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obl	_	start_char=5057|end_char=5063
+6	банка	банк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=5064|end_char=5069
+7	Карабраксос	Карабраксос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	nsubj	_	start_char=5070|end_char=5081
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=5082|end_char=5084
+9	признался	признаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5085|end_char=5094
+10	бы	бы	AUX	_	Mood=Cnd	9	aux	_	start_char=5095|end_char=5097
+11	,	,	PUNCT	_	_	13	punct	_	start_char=5097|end_char=5098
+12	что	что	SCONJ	_	_	13	mark	_	start_char=5099|end_char=5102
+13	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	start_char=5103|end_char=5110
+14	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	obj	_	start_char=5111|end_char=5114
+15	по-своему	по-своему	ADV	_	Degree=Pos	16	advmod	_	start_char=5115|end_char=5124
+16	трогательным	трогательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	xcomp	_	start_char=5125|end_char=5137
+17	.	.	PUNCT	_	_	9	punct	_	start_char=5137|end_char=5138
+
+# text = Мисси резко подняла бокал: — За хороших людей!
+# sent_id = 85
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Мисси	мисси	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=5139|end_char=5144
+2	резко	резко	ADV	_	Degree=Pos	3	advmod	_	start_char=5145|end_char=5150
+3	подняла	поднять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5151|end_char=5158
+4	бокал	бокал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=5159|end_char=5164
+5	:	:	PUNCT	_	_	9	punct	_	start_char=5164|end_char=5165
+6	—	—	PUNCT	_	_	9	punct	_	start_char=5166|end_char=5167
+7	За	за	ADP	_	_	9	case	_	start_char=5168|end_char=5170
+8	хороших	хороший	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	start_char=5171|end_char=5178
+9	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	3	parataxis	_	start_char=5179|end_char=5184
+10	!	!	PUNCT	_	_	3	punct	_	start_char=5184|end_char=5185
+
+# text = — звякнуло стекло, и остатки чая чуть не перехлестнули через край.
+# sent_id = 86
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=5186|end_char=5187
+2	звякнуло	звякнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5188|end_char=5196
+3	стекло	стекло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	start_char=5197|end_char=5203
+4	,	,	PUNCT	_	_	10	punct	_	start_char=5203|end_char=5204
+5	и	и	CCONJ	_	_	10	cc	_	start_char=5205|end_char=5206
+6	остатки	остаток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=5207|end_char=5214
+7	чая	чай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=5215|end_char=5218
+8	чуть	чуть	ADV	_	Degree=Pos	10	advmod	_	start_char=5219|end_char=5223
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=5224|end_char=5226
+10	перехлестнули	перехлестнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5227|end_char=5240
+11	через	через	ADP	_	_	12	case	_	start_char=5241|end_char=5246
+12	край	край	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=5247|end_char=5251
+13	.	.	PUNCT	_	_	2	punct	_	start_char=5251|end_char=5252
+
+# text = Доктор очень хотел бы поверить в это, но не мог удержаться.
+# sent_id = 87
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=5253|end_char=5259
+2	очень	очень	ADV	_	Degree=Pos	3	advmod	_	start_char=5260|end_char=5265
+3	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5266|end_char=5271
+4	бы	бы	AUX	_	Mood=Cnd	3	aux	_	start_char=5272|end_char=5274
+5	поверить	поверить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=5275|end_char=5283
+6	в	в	ADP	_	_	7	case	_	start_char=5284|end_char=5285
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=5286|end_char=5289
+8	,	,	PUNCT	_	_	11	punct	_	start_char=5289|end_char=5290
+9	но	но	CCONJ	_	_	11	cc	_	start_char=5291|end_char=5293
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=5294|end_char=5296
+11	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5297|end_char=5300
+12	удержаться	удержаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	start_char=5301|end_char=5311
+13	.	.	PUNCT	_	_	3	punct	_	start_char=5311|end_char=5312
+
+# text = — И за нас тоже, — провозгласил он тост ей в тон, зная, что это сейчас все разрушит.
+# sent_id = 88
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	4	punct	_	start_char=5313|end_char=5314
+2	И	и	CCONJ	_	_	4	cc	_	start_char=5315|end_char=5316
+3	за	за	ADP	_	_	4	case	_	start_char=5317|end_char=5319
+4	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=5320|end_char=5323
+5	тоже	тоже	PART	_	_	4	advmod	_	start_char=5324|end_char=5328
+6	,	,	PUNCT	_	_	8	punct	_	start_char=5328|end_char=5329
+7	—	—	PUNCT	_	_	8	punct	_	start_char=5330|end_char=5331
+8	провозгласил	провозгласить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=5332|end_char=5344
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=5345|end_char=5347
+10	тост	тост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=5348|end_char=5352
+11	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	start_char=5353|end_char=5355
+12	в	в	ADP	_	_	13	case	_	start_char=5356|end_char=5357
+13	тон	тон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=5358|end_char=5361
+14	,	,	PUNCT	_	_	15	punct	_	start_char=5361|end_char=5362
+15	зная	знать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=5363|end_char=5367
+16	,	,	PUNCT	_	_	21	punct	_	start_char=5367|end_char=5368
+17	что	что	SCONJ	_	_	21	mark	_	start_char=5369|end_char=5372
+18	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	nsubj	_	start_char=5373|end_char=5376
+19	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=5377|end_char=5383
+20	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	21	nsubj	_	start_char=5384|end_char=5387
+21	разрушит	разрушать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	ccomp	_	start_char=5388|end_char=5396
+22	.	.	PUNCT	_	_	4	punct	_	start_char=5396|end_char=5397
+
+# text = Мисси поморщилась, достала из рукава черный кружевной платок и почти беззвучно чихнула.
+# sent_id = 89
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Мисси	мисси	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=5398|end_char=5403
+2	поморщилась	поморщиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5404|end_char=5415
+3	,	,	PUNCT	_	_	4	punct	_	start_char=5415|end_char=5416
+4	достала	достать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5417|end_char=5424
+5	из	из	ADP	_	_	6	case	_	start_char=5425|end_char=5427
+6	рукава	рукав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=5428|end_char=5434
+7	черный	черный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=5435|end_char=5441
+8	кружевной	кружевный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=5442|end_char=5451
+9	платок	платок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=5452|end_char=5458
+10	и	и	CCONJ	_	_	13	cc	_	start_char=5459|end_char=5460
+11	почти	почти	ADV	_	Degree=Pos	12	advmod	_	start_char=5461|end_char=5466
+12	беззвучно	беззвучно	ADV	_	Degree=Pos	13	advmod	_	start_char=5467|end_char=5476
+13	чихнула	чихнуть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5477|end_char=5484
+14	.	.	PUNCT	_	_	2	punct	_	start_char=5484|end_char=5485
+
+# text = — Сквозняк.
+# sent_id = 90
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	—	—	PUNCT	_	_	2	punct	_	start_char=5486|end_char=5487
+2	Сквозняк	Сквозняк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	0	root	_	start_char=5488|end_char=5496
+3	.	.	PUNCT	_	_	2	punct	_	start_char=5496|end_char=5497
+
+# text = Вот зачем ты стену пробил?
+# sent_id = 91
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=5498|end_char=5501
+2	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=5502|end_char=5507
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=5508|end_char=5510
+4	стену	стена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=5511|end_char=5516
+5	пробил	пробить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5517|end_char=5523
+6	?	?	PUNCT	_	_	5	punct	_	start_char=5523|end_char=5524
+
+# text = Все испортил.
+# sent_id = 92
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	Все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	2	obj	_	start_char=5525|end_char=5528
+2	испортил	испортить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5529|end_char=5537
+3	.	.	PUNCT	_	_	2	punct	_	start_char=5537|end_char=5538
+
+# text = И прежде чем Доктор успел пожелать ей здоровья, иллюзия рассеялась вместе с дымом.
+# sent_id = 93
+# metadata = Название: Файф-о-клок, автор: Cyborg Noodle, ссылка: https://ru.fanfiktion.net/s/56cf66a40000123b19501272/1/Fajf-o-klok
+1	И	и	CCONJ	_	_	11	cc	_	start_char=5539|end_char=5540
+2	прежде	прежде	ADV	_	Degree=Pos	5	mark	_	start_char=5541|end_char=5547
+3	чем	чем	SCONJ	_	_	2	fixed	_	start_char=5548|end_char=5551
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5552|end_char=5558
+5	успел	успеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=5559|end_char=5564
+6	пожелать	пожелать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=5565|end_char=5573
+7	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=5574|end_char=5576
+8	здоровья	здоровье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=5577|end_char=5585
+9	,	,	PUNCT	_	_	5	punct	_	start_char=5585|end_char=5586
+10	иллюзия	иллюзия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=5587|end_char=5594
+11	рассеялась	рассеяться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5595|end_char=5605
+12	вместе	вместе	ADV	_	Degree=Pos	11	advmod	_	start_char=5606|end_char=5612
+13	с	с	ADP	_	_	14	case	_	start_char=5613|end_char=5614
+14	дымом	дым	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	start_char=5615|end_char=5620
+15	.	.	PUNCT	_	_	11	punct	_	start_char=5620|end_char=5621
+

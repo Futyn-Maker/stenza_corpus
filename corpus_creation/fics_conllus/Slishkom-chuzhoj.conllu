@@ -1,0 +1,1349 @@
+# text = — Розовая!
+# sent_id = 0
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Розовая	розовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=2|end_char=9
+3	!	!	PUNCT	_	_	2	punct	_	start_char=9|end_char=10
+
+# text = — Но ты же во всем розовом, так что естественно, что для них — Розовая.
+# sent_id = 1
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	7	punct	_	start_char=11|end_char=12
+2	Но	но	CCONJ	_	_	7	cc	_	start_char=13|end_char=15
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=16|end_char=18
+4	же	же	PART	_	_	3	advmod	_	start_char=19|end_char=21
+5	во	во	ADP	_	_	7	case	_	start_char=22|end_char=24
+6	всем	весь	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	start_char=25|end_char=29
+7	розовом	розовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=30|end_char=37
+8	,	,	PUNCT	_	_	11	punct	_	start_char=37|end_char=38
+9	так	так	ADV	_	Degree=Pos|PronType=Dem	11	mark	_	start_char=39|end_char=42
+10	что	что	SCONJ	_	_	9	fixed	_	start_char=43|end_char=46
+11	естественно	естественно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	advcl	_	start_char=47|end_char=58
+12	,	,	PUNCT	_	_	17	punct	_	start_char=58|end_char=59
+13	что	что	SCONJ	_	_	17	mark	_	start_char=60|end_char=63
+14	для	для	ADP	_	_	15	case	_	start_char=64|end_char=67
+15	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	17	obl	_	start_char=68|end_char=71
+16	—	—	PUNCT	_	_	17	punct	_	start_char=72|end_char=73
+17	Розовая	розовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	ccomp	_	start_char=74|end_char=81
+18	.	.	PUNCT	_	_	7	punct	_	start_char=81|end_char=82
+
+# text = Чему ты возмущаешься?
+# sent_id = 2
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Чему	что	PRON	_	Animacy=Anim|Case=Dat|Gender=Neut|Number=Sing|PronType=Int	3	iobj	_	start_char=83|end_char=87
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=88|end_char=90
+3	возмущаешься	возмущаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=91|end_char=103
+4	?	?	PUNCT	_	_	3	punct	_	start_char=103|end_char=104
+
+# text = — Тому, что меня приняли за цвет!
+# sent_id = 3
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=105|end_char=106
+2	Тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=107|end_char=111
+3	,	,	PUNCT	_	_	6	punct	_	start_char=111|end_char=112
+4	что	что	SCONJ	_	_	6	mark	_	start_char=113|end_char=116
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=117|end_char=121
+6	приняли	принять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	start_char=122|end_char=129
+7	за	за	ADP	_	_	8	case	_	start_char=130|end_char=132
+8	цвет	цвет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=133|end_char=137
+9	!	!	PUNCT	_	_	2	punct	_	start_char=137|end_char=138
+
+# text = Хотя тут есть и просто люди.
+# sent_id = 4
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Хотя	хотя	SCONJ	_	_	3	mark	_	start_char=139|end_char=143
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=144|end_char=147
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=148|end_char=152
+4	и	и	PART	_	_	5	advmod	_	start_char=153|end_char=154
+5	просто	просто	PART	_	_	6	advmod	_	start_char=155|end_char=161
+6	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=162|end_char=166
+7	.	.	PUNCT	_	_	3	punct	_	start_char=166|end_char=167
+
+# text = И я не возмущаюсь, но как это вообще может быть — живые цвета?
+# sent_id = 5
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	И	и	CCONJ	_	_	4	cc	_	start_char=168|end_char=169
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=170|end_char=171
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=172|end_char=174
+4	возмущаюсь	возмущаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=175|end_char=185
+5	,	,	PUNCT	_	_	10	punct	_	start_char=185|end_char=186
+6	но	но	CCONJ	_	_	10	cc	_	start_char=187|end_char=189
+7	как	как	ADV	_	Degree=Pos|PronType=Int	10	advmod	_	start_char=190|end_char=193
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=194|end_char=197
+9	вообще	вообще	ADV	_	Degree=Pos	10	advmod	_	start_char=198|end_char=204
+10	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=205|end_char=210
+11	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=211|end_char=215
+12	—	—	PUNCT	_	_	14	punct	_	start_char=216|end_char=217
+13	живые	живой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	start_char=218|end_char=223
+14	цвета	цвет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	parataxis	_	start_char=224|end_char=229
+15	?	?	PUNCT	_	_	4	punct	_	start_char=229|end_char=230
+
+# text = — Почему бы и нет?
+# sent_id = 6
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	5	punct	_	start_char=231|end_char=232
+2	Почему	почему	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=233|end_char=239
+3	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=240|end_char=242
+4	и	и	PART	_	_	5	advmod	_	start_char=243|end_char=244
+5	нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=245|end_char=248
+6	?	?	PUNCT	_	_	5	punct	_	start_char=248|end_char=249
+
+# text = Я встречал растущие буквы, оживших книжных персонажей и богов...
+# sent_id = 7
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=250|end_char=251
+2	встречал	встречать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=252|end_char=260
+3	растущие	растущить	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	start_char=261|end_char=269
+4	буквы	буква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=270|end_char=275
+5	,	,	PUNCT	_	_	6	punct	_	start_char=275|end_char=276
+6	оживших	ожить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	start_char=277|end_char=284
+7	книжных	книжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	start_char=285|end_char=292
+8	персонажей	персонаж	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obj	_	start_char=293|end_char=303
+9	и	и	CCONJ	_	_	10	cc	_	start_char=304|end_char=305
+10	богов	бог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	start_char=306|end_char=311
+11	...	...	PUNCT	_	_	2	punct	_	start_char=311|end_char=314
+
+# text = — Богов?
+# sent_id = 8
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=315|end_char=316
+2	Богов	бог	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	0	root	_	start_char=317|end_char=322
+3	?	?	PUNCT	_	_	2	punct	_	start_char=322|end_char=323
+
+# text = — Или тех, кто себя ими считает.
+# sent_id = 9
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=324|end_char=325
+2	Или	или	CCONJ	_	_	3	cc	_	start_char=326|end_char=329
+3	тех	тот	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	0	root	_	start_char=330|end_char=333
+4	,	,	PUNCT	_	_	8	punct	_	start_char=333|end_char=334
+5	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	start_char=335|end_char=338
+6	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	obj	_	start_char=339|end_char=343
+7	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	8	iobj	_	start_char=344|end_char=347
+8	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=348|end_char=355
+9	.	.	PUNCT	_	_	3	punct	_	start_char=355|end_char=356
+
+# text = Продвинутая техника неотличима от магии, наша
+# sent_id = 10
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Продвинутая	продвинуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	start_char=357|end_char=368
+2	техника	техника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=369|end_char=376
+3	неотличима	неотличимый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=377|end_char=387
+4	от	от	ADP	_	_	5	case	_	start_char=388|end_char=390
+5	магии	магия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=391|end_char=396
+6	,	,	PUNCT	_	_	7	punct	_	start_char=396|end_char=397
+7	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	conj	_	start_char=398|end_char=402
+
+# text = Вселенная огромна, и по закону больших чисел в ней может встретиться почти всё, что угодно, а за пределами этой
+# sent_id = 11
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=403|end_char=412
+2	огромна	огромный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=413|end_char=420
+3	,	,	PUNCT	_	_	11	punct	_	start_char=420|end_char=421
+4	и	и	CCONJ	_	_	11	cc	_	start_char=422|end_char=423
+5	по	по	ADP	_	_	6	case	_	start_char=424|end_char=426
+6	закону	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obl	_	start_char=427|end_char=433
+7	больших	большой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	start_char=434|end_char=441
+8	чисел	чисел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	start_char=442|end_char=447
+9	в	в	ADP	_	_	10	case	_	start_char=448|end_char=449
+10	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=450|end_char=453
+11	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=454|end_char=459
+12	встретиться	встретиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	start_char=460|end_char=471
+13	почти	почти	ADV	_	Degree=Pos	14	advmod	_	start_char=472|end_char=477
+14	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	11	nsubj	_	start_char=478|end_char=481
+15	,	,	PUNCT	_	_	17	punct	_	start_char=481|end_char=482
+16	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	17	nsubj	_	start_char=483|end_char=486
+17	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	acl:relcl	_	start_char=487|end_char=493
+18	,	,	PUNCT	_	_	21	punct	_	start_char=493|end_char=494
+19	а	а	CCONJ	_	_	21	cc	_	start_char=495|end_char=496
+20	за	за	ADP	_	_	21	case	_	start_char=497|end_char=499
+21	пределами	предел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	conj	_	start_char=500|end_char=509
+22	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	21	nmod	_	start_char=510|end_char=514
+
+# text = Вселенной перестают действовать её физические законы, так что там может быть уже совсем всё.
+# sent_id = 12
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nsubj	_	start_char=515|end_char=524
+2	перестают	переставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=525|end_char=534
+3	действовать	действовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=535|end_char=546
+4	её	ее	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=547|end_char=549
+5	физические	физический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	start_char=550|end_char=560
+6	законы	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=561|end_char=567
+7	,	,	PUNCT	_	_	11	punct	_	start_char=567|end_char=568
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	11	mark	_	start_char=569|end_char=572
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=573|end_char=576
+10	там	там	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=577|end_char=580
+11	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=581|end_char=586
+12	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	advmod	_	start_char=587|end_char=591
+13	уже	уже	ADV	_	Degree=Pos	14	advmod	_	start_char=592|end_char=595
+14	совсем	совсем	ADV	_	Degree=Pos	15	advmod	_	start_char=596|end_char=602
+15	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	11	nsubj	_	start_char=603|end_char=606
+16	.	.	PUNCT	_	_	2	punct	_	start_char=606|end_char=607
+
+# text = — Совсем-совсем?
+# sent_id = 13
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=608|end_char=609
+2	Совсем	совсем	ADV	_	Degree=Pos	4	advmod	_	start_char=610|end_char=616
+3	-	-	PUNCT	_	_	2	punct	_	start_char=616|end_char=617
+4	совсем	совсем	ADV	_	Degree=Pos	0	root	_	start_char=617|end_char=623
+5	?	?	PUNCT	_	_	2	punct	_	start_char=623|end_char=624
+
+# text = — Да.
+# sent_id = 14
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=625|end_char=626
+2	Да	да	PART	_	_	0	root	_	start_char=627|end_char=629
+3	.	.	PUNCT	_	_	2	punct	_	start_char=629|end_char=630
+
+# text = Так что не вижу ничего невероятного в живых цветах.
+# sent_id = 15
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	mark	_	start_char=631|end_char=634
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=635|end_char=638
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=639|end_char=641
+4	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=642|end_char=646
+5	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	4	obj	_	start_char=647|end_char=653
+6	невероятного	невероятный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=654|end_char=666
+7	в	в	ADP	_	_	9	case	_	start_char=667|end_char=668
+8	живых	живой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	start_char=669|end_char=674
+9	цветах	цвет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	nmod	_	start_char=675|end_char=681
+10	.	.	PUNCT	_	_	4	punct	_	start_char=681|end_char=682
+
+# text = Мимо их глаз промелькнуло что-то... или им только показалось, или...
+# sent_id = 16
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Мимо	мимо	ADP	_	_	3	case	_	start_char=683|end_char=687
+2	их	их	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=688|end_char=690
+3	глаз	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	start_char=691|end_char=695
+4	промелькнуло	промелькнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=696|end_char=708
+5	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	nsubj	_	start_char=709|end_char=715
+6	...	...	PUNCT	_	_	10	punct	_	start_char=715|end_char=718
+7	или	или	CCONJ	_	_	10	cc	_	start_char=719|end_char=722
+8	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	iobj	_	start_char=723|end_char=725
+9	только	только	PART	_	_	10	advmod	_	start_char=726|end_char=732
+10	показалось	показаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=733|end_char=743
+11	,	,	PUNCT	_	_	12	punct	_	start_char=743|end_char=744
+12	или	или	CCONJ	_	_	10	cc	_	start_char=745|end_char=748
+13	...	...	PUNCT	_	_	4	punct	_	start_char=748|end_char=751
+
+# text = — Нет!
+# sent_id = 17
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=752|end_char=753
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=754|end_char=757
+3	!	!	PUNCT	_	_	2	punct	_	start_char=757|end_char=758
+
+# text = Нет!
+# sent_id = 18
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=759|end_char=762
+2	!	!	PUNCT	_	_	1	punct	_	start_char=762|end_char=763
+
+# text = Не надо!
+# sent_id = 19
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=764|end_char=766
+2	надо	надо	VERB	_	_	0	root	_	start_char=767|end_char=771
+3	!	!	PUNCT	_	_	2	punct	_	start_char=771|end_char=772
+
+# text = Не это чёрное с осколками зеркал!
+# sent_id = 20
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=773|end_char=775
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=776|end_char=779
+3	чёрное	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=780|end_char=786
+4	с	с	ADP	_	_	5	case	_	start_char=787|end_char=788
+5	осколками	осколок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	nmod	_	start_char=789|end_char=798
+6	зеркал	зеркало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	start_char=799|end_char=805
+7	!	!	PUNCT	_	_	3	punct	_	start_char=805|end_char=806
+
+# text = Мужчина впереди них страшно закричал, попытался выцарапать себе глаза и рухнул на асфальт.
+# sent_id = 21
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=807|end_char=814
+2	впереди	впереди	ADV	_	Degree=Pos	5	advmod	_	start_char=815|end_char=822
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=823|end_char=826
+4	страшно	страшно	ADV	_	Degree=Pos	5	advmod	_	start_char=827|end_char=834
+5	закричал	закричать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=835|end_char=843
+6	,	,	PUNCT	_	_	7	punct	_	start_char=843|end_char=844
+7	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=845|end_char=854
+8	выцарапать	выцарапать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=855|end_char=865
+9	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	8	iobj	_	start_char=866|end_char=870
+10	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=871|end_char=876
+11	и	и	CCONJ	_	_	12	cc	_	start_char=877|end_char=878
+12	рухнул	рухнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=879|end_char=885
+13	на	на	ADP	_	_	14	case	_	start_char=886|end_char=888
+14	асфальт	асфальт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	start_char=889|end_char=896
+15	.	.	PUNCT	_	_	5	punct	_	start_char=896|end_char=897
+
+# text = Вокруг него быстро начала собираться толпа, кто-то уже достал телефон и начал звонить в Скорую.
+# sent_id = 22
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Вокруг	вокруг	ADP	_	_	2	case	_	start_char=898|end_char=904
+2	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=905|end_char=909
+3	быстро	быстро	ADV	_	Degree=Pos	4	advmod	_	start_char=910|end_char=916
+4	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=917|end_char=923
+5	собираться	собираться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=924|end_char=934
+6	толпа	толпа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=935|end_char=940
+7	,	,	PUNCT	_	_	10	punct	_	start_char=940|end_char=941
+8	кто-то	кто-то	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	start_char=942|end_char=948
+9	уже	уже	ADV	_	Degree=Pos	10	advmod	_	start_char=949|end_char=952
+10	достал	достать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=953|end_char=959
+11	телефон	телефон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=960|end_char=967
+12	и	и	CCONJ	_	_	13	cc	_	start_char=968|end_char=969
+13	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=970|end_char=975
+14	звонить	звонить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=976|end_char=983
+15	в	в	ADP	_	_	16	case	_	start_char=984|end_char=985
+16	Скорую	скорый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	obl	_	start_char=986|end_char=992
+17	.	.	PUNCT	_	_	4	punct	_	start_char=992|end_char=993
+
+# text = Доктор едва смог протолкаться вперед, таща за собой Розу, ещё на ходу достал отвертку и просканировал тело.
+# sent_id = 23
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=994|end_char=1000
+2	едва	едва	ADV	_	Degree=Pos	3	advmod	_	start_char=1001|end_char=1005
+3	смог	смочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1006|end_char=1010
+4	протолкаться	протолкаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=1011|end_char=1023
+5	вперед	вперед	ADV	_	Degree=Pos	4	advmod	_	start_char=1024|end_char=1030
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1030|end_char=1031
+7	таща	тащить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=1032|end_char=1036
+8	за	за	ADP	_	_	9	case	_	start_char=1037|end_char=1039
+9	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	7	obl	_	start_char=1040|end_char=1045
+10	Розу	Розу	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	7	obj	_	start_char=1046|end_char=1050
+11	,	,	PUNCT	_	_	7	punct	_	start_char=1050|end_char=1051
+12	ещё	еще	ADV	_	Degree=Pos	14	advmod	_	start_char=1052|end_char=1055
+13	на	на	ADP	_	_	14	case	_	start_char=1056|end_char=1058
+14	ходу	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=1059|end_char=1063
+15	достал	достать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1064|end_char=1070
+16	отвертку	отвертка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=1071|end_char=1079
+17	и	и	CCONJ	_	_	18	cc	_	start_char=1080|end_char=1081
+18	просканировал	просканировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	start_char=1082|end_char=1095
+19	тело	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	start_char=1096|end_char=1100
+20	.	.	PUNCT	_	_	3	punct	_	start_char=1100|end_char=1101
+
+# text = Человек был мертв, на светло-зелёном асфальте остались тёмные пятна от копоти его выгоревших глаз.
+# sent_id = 24
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1102|end_char=1109
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=1110|end_char=1113
+3	мертв	мертвый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1114|end_char=1119
+4	,	,	PUNCT	_	_	8	punct	_	start_char=1119|end_char=1120
+5	на	на	ADP	_	_	7	case	_	start_char=1121|end_char=1123
+6	светло-зелёном	светло-зеленый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1124|end_char=1138
+7	асфальте	асфальт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	start_char=1139|end_char=1147
+8	остались	остаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=1148|end_char=1156
+9	тёмные	темный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	start_char=1157|end_char=1163
+10	пятна	пятно	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	start_char=1164|end_char=1169
+11	от	от	ADP	_	_	12	case	_	start_char=1170|end_char=1172
+12	копоти	копоть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=1173|end_char=1179
+13	его	его	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=1180|end_char=1183
+14	выгоревших	выгореть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	15	amod	_	start_char=1184|end_char=1194
+15	глаз	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	start_char=1195|end_char=1199
+16	.	.	PUNCT	_	_	3	punct	_	start_char=1199|end_char=1200
+
+# text = В толпе опять мелькнуло... или опять показалось?
+# sent_id = 25
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	В	в	ADP	_	_	2	case	_	start_char=1201|end_char=1202
+2	толпе	толпа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=1203|end_char=1208
+3	опять	опять	ADV	_	Degree=Pos	4	advmod	_	start_char=1209|end_char=1214
+4	мелькнуло	мелькнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1215|end_char=1224
+5	...	...	PUNCT	_	_	8	punct	_	start_char=1224|end_char=1227
+6	или	или	CCONJ	_	_	8	cc	_	start_char=1228|end_char=1231
+7	опять	опять	ADV	_	Degree=Pos	8	advmod	_	start_char=1232|end_char=1237
+8	показалось	показаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=1238|end_char=1248
+9	?	?	PUNCT	_	_	4	punct	_	start_char=1248|end_char=1249
+
+# text = Доктор снова посмотрел на отвертку, водя ею из стороны в сторону, будто что-то искал.
+# sent_id = 26
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1250|end_char=1256
+2	снова	снова	ADV	_	Degree=Pos	3	advmod	_	start_char=1257|end_char=1262
+3	посмотрел	посмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1263|end_char=1272
+4	на	на	ADP	_	_	5	case	_	start_char=1273|end_char=1275
+5	отвертку	отвертка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=1276|end_char=1284
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1284|end_char=1285
+7	водя	водить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=1286|end_char=1290
+8	ею	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	start_char=1291|end_char=1293
+9	из	из	ADP	_	_	10	case	_	start_char=1294|end_char=1296
+10	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	start_char=1297|end_char=1304
+11	в	в	ADP	_	_	12	case	_	start_char=1305|end_char=1306
+12	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=1307|end_char=1314
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1314|end_char=1315
+14	будто	будто	SCONJ	_	_	16	mark	_	start_char=1316|end_char=1321
+15	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	16	obj	_	start_char=1322|end_char=1328
+16	искал	искать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=1329|end_char=1334
+17	.	.	PUNCT	_	_	3	punct	_	start_char=1334|end_char=1335
+
+# text = — Какой я?
+# sent_id = 27
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1336|end_char=1337
+2	Какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=1338|end_char=1343
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1344|end_char=1345
+4	?	?	PUNCT	_	_	2	punct	_	start_char=1345|end_char=1346
+
+# text = — донесся еле слышный вопрос откуда-то сбоку.
+# sent_id = 28
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1347|end_char=1348
+2	донесся	донестись	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1349|end_char=1356
+3	еле	еле	PART	_	_	2	advmod	_	start_char=1357|end_char=1360
+4	слышный	слышный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1361|end_char=1368
+5	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1369|end_char=1375
+6	откуда	откуда	ADV	_	Degree=Pos|PronType=Rel	5	acl:relcl	_	start_char=1376|end_char=1382
+7	-то	-то	X	_	_	6	goeswith	_	start_char=1382|end_char=1385
+8	сбоку	сбоку	ADV	_	Degree=Pos	6	advmod	_	start_char=1386|end_char=1391
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1391|end_char=1392
+
+# text = — Отойдите, молодой человек, вы мне мешаете смотреть!
+# sent_id = 29
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1393|end_char=1394
+2	Отойдите	отойти	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1395|end_char=1403
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1403|end_char=1404
+4	молодой	молодой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1405|end_char=1412
+5	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=1413|end_char=1420
+6	,	,	PUNCT	_	_	9	punct	_	start_char=1420|end_char=1421
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	start_char=1422|end_char=1424
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	start_char=1425|end_char=1428
+9	мешаете	мешать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1429|end_char=1436
+10	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=1437|end_char=1445
+11	!	!	PUNCT	_	_	2	punct	_	start_char=1445|end_char=1446
+
+# text = Роза повернулась, ища глазами источник зарождающегося скандала.
+# sent_id = 30
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Роза	роза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1447|end_char=1451
+2	повернулась	повернуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1452|end_char=1463
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1463|end_char=1464
+4	ища	искать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=1465|end_char=1468
+5	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	iobj	_	start_char=1469|end_char=1476
+6	источник	источник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1477|end_char=1485
+7	зарождающегося	зарождаться	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	amod	_	start_char=1486|end_char=1500
+8	скандала	скандал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=1501|end_char=1509
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1509|end_char=1510
+
+# text = — Какой я?
+# sent_id = 31
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1511|end_char=1512
+2	Какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=1513|end_char=1518
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1519|end_char=1520
+4	?	?	PUNCT	_	_	2	punct	_	start_char=1520|end_char=1521
+
+# text = — ещё более настойчиво повторил первый голос, обладателя которого никак не удавалось увидеть.
+# sent_id = 32
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	5	punct	_	start_char=1522|end_char=1523
+2	ещё	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=1524|end_char=1527
+3	более	более	ADV	_	Degree=Cmp|PronType=Tot	4	advmod	_	start_char=1528|end_char=1533
+4	настойчиво	настойчиво	ADV	_	Degree=Pos	5	advmod	_	start_char=1534|end_char=1544
+5	повторил	повторить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1545|end_char=1553
+6	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	7	amod	_	start_char=1554|end_char=1560
+7	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1561|end_char=1566
+8	,	,	PUNCT	_	_	13	punct	_	start_char=1566|end_char=1567
+9	обладателя	обладатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	obj	_	start_char=1568|end_char=1578
+10	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	9	nmod	_	start_char=1579|end_char=1587
+11	никак	никак	ADV	_	Degree=Pos|PronType=Neg	12	advmod	_	start_char=1588|end_char=1593
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1594|end_char=1596
+13	удавалось	удаваться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	start_char=1597|end_char=1606
+14	увидеть	увидеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	csubj	_	start_char=1607|end_char=1614
+15	.	.	PUNCT	_	_	5	punct	_	start_char=1614|end_char=1615
+
+# text = — Я не знаю, отста... белый, острый белый, затягивающий, огненный, нет, нет!
+# sent_id = 33
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	4	punct	_	start_char=1616|end_char=1617
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1618|end_char=1619
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1620|end_char=1622
+4	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1623|end_char=1627
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1627|end_char=1628
+6	отста	отста	INTJ	_	_	4	discourse	_	start_char=1629|end_char=1634
+7	...	...	PUNCT	_	_	6	punct	_	start_char=1634|end_char=1637
+8	белый	белый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	parataxis	_	start_char=1638|end_char=1643
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1643|end_char=1644
+10	острый	острый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=1645|end_char=1651
+11	белый	белый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	start_char=1652|end_char=1657
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1657|end_char=1658
+13	затягивающий	затягивать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	conj	_	start_char=1659|end_char=1671
+14	,	,	PUNCT	_	_	15	punct	_	start_char=1671|end_char=1672
+15	огненный	огненный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	start_char=1673|end_char=1681
+16	,	,	PUNCT	_	_	17	punct	_	start_char=1681|end_char=1682
+17	нет	нет	PART	_	Polarity=Neg	8	conj	_	start_char=1683|end_char=1686
+18	,	,	PUNCT	_	_	19	punct	_	start_char=1686|end_char=1687
+19	нет	нет	PART	_	Polarity=Neg	8	conj	_	start_char=1688|end_char=1691
+20	!	!	PUNCT	_	_	4	punct	_	start_char=1691|end_char=1692
+
+# text = Ещё один человек из круга сочувствующих схватился за глаза и упал замертво.
+# sent_id = 34
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Ещё	еще	ADV	_	Degree=Pos	2	advmod	_	start_char=1693|end_char=1696
+2	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	start_char=1697|end_char=1701
+3	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1702|end_char=1709
+4	из	из	ADP	_	_	5	case	_	start_char=1710|end_char=1712
+5	круга	круг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=1713|end_char=1718
+6	сочувствующих	сочувствовать	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	start_char=1719|end_char=1732
+7	схватился	схватиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1733|end_char=1742
+8	за	за	ADP	_	_	9	case	_	start_char=1743|end_char=1745
+9	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=1746|end_char=1751
+10	и	и	CCONJ	_	_	11	cc	_	start_char=1752|end_char=1753
+11	упал	упасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1754|end_char=1758
+12	замертво	замертво	ADV	_	Degree=Pos	11	advmod	_	start_char=1759|end_char=1767
+13	.	.	PUNCT	_	_	7	punct	_	start_char=1767|end_char=1768
+
+# text = Провалы глазниц дымились, на пальцах зарозовели пузыри ожогов.
+# sent_id = 35
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Провалы	провал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=1769|end_char=1776
+2	глазниц	глазница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	start_char=1777|end_char=1784
+3	дымились	дымиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1785|end_char=1793
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1793|end_char=1794
+5	на	на	ADP	_	_	6	case	_	start_char=1795|end_char=1797
+6	пальцах	палец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	start_char=1798|end_char=1805
+7	зарозовели	зарозоветь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1806|end_char=1816
+8	пузыри	пузырь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=1817|end_char=1823
+9	ожогов	ожог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=1824|end_char=1830
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1830|end_char=1831
+
+# text = — Доктор!
+# sent_id = 36
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1832|end_char=1833
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1834|end_char=1840
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1840|end_char=1841
+
+# text = Я слышала...
+# sent_id = 37
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1842|end_char=1843
+2	слышала	слышать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1844|end_char=1851
+3	...	...	PUNCT	_	_	2	punct	_	start_char=1851|end_char=1854
+
+# text = — Посмотри на меня, — прошелестело у неё над ухом тихо, но требовательно.
+# sent_id = 38
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1855|end_char=1856
+2	Посмотри	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1857|end_char=1865
+3	на	на	ADP	_	_	4	case	_	start_char=1866|end_char=1868
+4	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=1869|end_char=1873
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1873|end_char=1874
+6	—	—	PUNCT	_	_	7	punct	_	start_char=1875|end_char=1876
+7	прошелестело	прошелестеть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1877|end_char=1889
+8	у	у	ADP	_	_	9	case	_	start_char=1890|end_char=1891
+9	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=1892|end_char=1895
+10	над	над	ADP	_	_	11	case	_	start_char=1896|end_char=1899
+11	ухом	ухо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	start_char=1900|end_char=1904
+12	тихо	тихий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	xcomp	_	start_char=1905|end_char=1909
+13	,	,	PUNCT	_	_	15	punct	_	start_char=1909|end_char=1910
+14	но	но	CCONJ	_	_	15	cc	_	start_char=1911|end_char=1913
+15	требовательно	требовательно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	conj	_	start_char=1914|end_char=1927
+16	.	.	PUNCT	_	_	2	punct	_	start_char=1927|end_char=1928
+
+# text = Доктор отрешился от всего происходящего, уставившись только на свою отвертку.
+# sent_id = 39
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1929|end_char=1935
+2	отрешился	отрешиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1936|end_char=1945
+3	от	от	ADP	_	_	5	case	_	start_char=1946|end_char=1948
+4	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	start_char=1949|end_char=1954
+5	происходящего	происходящий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	start_char=1955|end_char=1968
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1968|end_char=1969
+7	уставившись	уставиться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=1970|end_char=1981
+8	только	только	PART	_	_	11	advmod	_	start_char=1982|end_char=1988
+9	на	на	ADP	_	_	11	case	_	start_char=1989|end_char=1991
+10	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	start_char=1992|end_char=1996
+11	отвертку	отвертка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=1997|end_char=2005
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2005|end_char=2006
+
+# text = — Доктор?
+# sent_id = 40
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2007|end_char=2008
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2009|end_char=2015
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2015|end_char=2016
+
+# text = — Роза, закрой глаза!
+# sent_id = 41
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2017|end_char=2018
+2	Роза	роза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2019|end_char=2023
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2023|end_char=2024
+4	закрой	закрыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2025|end_char=2031
+5	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=2032|end_char=2037
+6	!	!	PUNCT	_	_	2	punct	_	start_char=2037|end_char=2038
+
+# text = — все так же не глядя приказал он.
+# sent_id = 42
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	7	punct	_	start_char=2039|end_char=2040
+2	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	7	nsubj	_	start_char=2041|end_char=2044
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2045|end_char=2048
+4	же	же	PART	_	_	3	advmod	_	start_char=2049|end_char=2051
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2052|end_char=2054
+6	глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=2055|end_char=2060
+7	приказал	приказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2061|end_char=2069
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=2070|end_char=2072
+9	.	.	PUNCT	_	_	7	punct	_	start_char=2072|end_char=2073
+
+# text = — Посмотри на меня!
+# sent_id = 43
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2074|end_char=2075
+2	Посмотри	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2076|end_char=2084
+3	на	на	ADP	_	_	4	case	_	start_char=2085|end_char=2087
+4	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=2088|end_char=2092
+5	!	!	PUNCT	_	_	2	punct	_	start_char=2092|end_char=2093
+
+# text = Посмотри и скажи — какой я?
+# sent_id = 44
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Посмотри	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2094|end_char=2102
+2	и	и	CCONJ	_	_	3	cc	_	start_char=2103|end_char=2104
+3	скажи	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	start_char=2105|end_char=2110
+4	—	—	PUNCT	_	_	5	punct	_	start_char=2111|end_char=2112
+5	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	1	parataxis	_	start_char=2113|end_char=2118
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2119|end_char=2120
+7	?	?	PUNCT	_	_	1	punct	_	start_char=2120|end_char=2121
+
+# text = У Розы перед глазами мелькнуло что-то... такое неуловимое, что непременно хотелось разглядеть.
+# sent_id = 45
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	У	у	ADP	_	_	2	case	_	start_char=2122|end_char=2123
+2	Розы	роза	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	start_char=2124|end_char=2128
+3	перед	перед	ADP	_	_	4	case	_	start_char=2129|end_char=2134
+4	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	start_char=2135|end_char=2142
+5	мелькнуло	мелькнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2143|end_char=2152
+6	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	5	nsubj	_	start_char=2153|end_char=2159
+7	...	...	PUNCT	_	_	6	punct	_	start_char=2159|end_char=2162
+8	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	start_char=2163|end_char=2168
+9	неуловимое	неуловимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=2169|end_char=2179
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2179|end_char=2180
+11	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	14	obj	_	start_char=2181|end_char=2184
+12	непременно	непременно	ADV	_	Degree=Pos	13	advmod	_	start_char=2185|end_char=2195
+13	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	acl:relcl	_	start_char=2196|end_char=2204
+14	разглядеть	разглядеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=2205|end_char=2215
+15	.	.	PUNCT	_	_	5	punct	_	start_char=2215|end_char=2216
+
+# text = — Закрой глаза, Роза! — рявкнул Доктор.
+# sent_id = 46
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2217|end_char=2218
+2	Закрой	закрыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2219|end_char=2225
+3	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	start_char=2226|end_char=2231
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2231|end_char=2232
+5	Роза	роза	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	vocative	_	start_char=2233|end_char=2237
+6	!	!	PUNCT	_	_	5	punct	_	start_char=2237|end_char=2238
+7	—	—	PUNCT	_	_	8	punct	_	start_char=2239|end_char=2240
+8	рявкнул	рявкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2241|end_char=2248
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=2249|end_char=2255
+10	.	.	PUNCT	_	_	2	punct	_	start_char=2255|end_char=2256
+
+# text = — Закройте глаза все!
+# sent_id = 47
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2257|end_char=2258
+2	Закройте	закрыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2259|end_char=2267
+3	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	start_char=2268|end_char=2273
+4	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	2	obj	_	start_char=2274|end_char=2277
+5	!	!	PUNCT	_	_	2	punct	_	start_char=2277|end_char=2278
+
+# text = Роза послушалась, вцепившись в свободную руку Доктора.
+# sent_id = 48
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Роза	роза	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2279|end_char=2283
+2	послушалась	послушаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2284|end_char=2295
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2295|end_char=2296
+4	вцепившись	вцепиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=2297|end_char=2307
+5	в	в	ADP	_	_	7	case	_	start_char=2308|end_char=2309
+6	свободную	свободный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2310|end_char=2319
+7	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=2320|end_char=2324
+8	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=2325|end_char=2332
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2332|end_char=2333
+
+# text = — Почему этот Черный тут командует?!
+# sent_id = 49
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	6	punct	_	start_char=2334|end_char=2335
+2	Почему	почему	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=2336|end_char=2342
+3	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	start_char=2343|end_char=2347
+4	Черный	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	nsubj	_	start_char=2348|end_char=2354
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2355|end_char=2358
+6	командует	командовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2359|end_char=2368
+7	?!	?!	PUNCT	_	_	6	punct	_	start_char=2368|end_char=2370
+
+# text = Розовая, не слушай его, ты свободный цвет...
+# sent_id = 50
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Розовая	розовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=2371|end_char=2378
+2	,	,	PUNCT	_	_	4	punct	_	start_char=2378|end_char=2379
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2380|end_char=2382
+4	слушай	слушать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=2383|end_char=2389
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=2390|end_char=2393
+6	,	,	PUNCT	_	_	4	punct	_	start_char=2393|end_char=2394
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=2395|end_char=2397
+8	свободный	свободный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=2398|end_char=2407
+9	цвет	цвет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2408|end_char=2412
+10	...	...	PUNCT	_	_	9	punct	_	start_char=2412|end_char=2415
+
+# text = — Я хочу знать, какой я!
+# sent_id = 51
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2416|end_char=2417
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2418|end_char=2419
+3	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2420|end_char=2424
+4	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2425|end_char=2430
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2430|end_char=2431
+6	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	ccomp	_	start_char=2432|end_char=2437
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=2438|end_char=2439
+8	!	!	PUNCT	_	_	3	punct	_	start_char=2439|end_char=2440
+
+# text = Кто-нибудь, посмотрите на меня и скажите мне это!
+# sent_id = 52
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Кто-нибудь	кто-нибудь	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	vocative	_	start_char=2441|end_char=2451
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2451|end_char=2452
+3	посмотрите	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2453|end_char=2463
+4	на	на	ADP	_	_	5	case	_	start_char=2464|end_char=2466
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=2467|end_char=2471
+6	и	и	CCONJ	_	_	7	cc	_	start_char=2472|end_char=2473
+7	скажите	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2474|end_char=2481
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=2482|end_char=2485
+9	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	start_char=2486|end_char=2489
+10	!	!	PUNCT	_	_	3	punct	_	start_char=2489|end_char=2490
+
+# text = — Цвета тебя не видят и не слышат, вас разделяет слишком большой диапазон...
+# sent_id = 53
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	5	punct	_	start_char=2491|end_char=2492
+2	Цвета	цвет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=2493|end_char=2498
+3	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	start_char=2499|end_char=2503
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2504|end_char=2506
+5	видят	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2507|end_char=2512
+6	и	и	CCONJ	_	_	8	cc	_	start_char=2513|end_char=2514
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=2515|end_char=2517
+8	слышат	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2518|end_char=2524
+9	,	,	PUNCT	_	_	11	punct	_	start_char=2524|end_char=2525
+10	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	11	obj	_	start_char=2526|end_char=2529
+11	разделяет	разделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2530|end_char=2539
+12	слишком	слишком	ADV	_	Degree=Pos	13	advmod	_	start_char=2540|end_char=2547
+13	большой	большой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=2548|end_char=2555
+14	диапазон	диапазон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=2556|end_char=2564
+15	...	...	PUNCT	_	_	5	punct	_	start_char=2564|end_char=2567
+
+# text = — кончик отвертки следил за чем-то в пространстве.
+# sent_id = 54
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2568|end_char=2569
+2	кончик	кончик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2570|end_char=2576
+3	отвертки	отвертка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=2577|end_char=2585
+4	следил	следить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2586|end_char=2592
+5	за	за	ADP	_	_	6	case	_	start_char=2593|end_char=2595
+6	чем-то	что-то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	4	obl	_	start_char=2596|end_char=2602
+7	в	в	ADP	_	_	8	case	_	start_char=2603|end_char=2604
+8	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	start_char=2605|end_char=2617
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2617|end_char=2618
+
+# text = Только отвертка, не сам Доктор, по-прежнему не поднимавший глаз.
+# sent_id = 55
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Только	только	PART	_	_	2	advmod	_	start_char=2619|end_char=2625
+2	отвертка	отвертка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=2626|end_char=2634
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2634|end_char=2635
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2636|end_char=2638
+5	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	6	det	_	start_char=2639|end_char=2642
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=2643|end_char=2649
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2649|end_char=2650
+8	по-прежнему	по-прежнему	ADV	_	Degree=Pos	10	advmod	_	start_char=2651|end_char=2662
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=2663|end_char=2665
+10	поднимавший	поднимать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	start_char=2666|end_char=2677
+11	глаз	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=2678|end_char=2682
+12	.	.	PUNCT	_	_	10	punct	_	start_char=2682|end_char=2683
+
+# text = — Ты!
+# sent_id = 56
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2684|end_char=2685
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	start_char=2686|end_char=2688
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2688|end_char=2689
+
+# text = Ты можешь посмотреть на меня!
+# sent_id = 57
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=2690|end_char=2692
+2	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2693|end_char=2699
+3	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2700|end_char=2710
+4	на	на	ADP	_	_	5	case	_	start_char=2711|end_char=2713
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=2714|end_char=2718
+6	!	!	PUNCT	_	_	2	punct	_	start_char=2718|end_char=2719
+
+# text = — перед ним появилось какое-то марево?
+# sent_id = 58
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2720|end_char=2721
+2	перед	перед	ADP	_	_	3	case	_	start_char=2722|end_char=2727
+3	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=2728|end_char=2731
+4	появилось	появиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2732|end_char=2741
+5	какое-то	какой-то	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	start_char=2742|end_char=2750
+6	марево	марево	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=2751|end_char=2757
+7	?	?	PUNCT	_	_	4	punct	_	start_char=2757|end_char=2758
+
+# text = Дымка?
+# sent_id = 59
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Дымка	дымка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2759|end_char=2764
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2764|end_char=2765
+
+# text = Тень?
+# sent_id = 60
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Тень	тень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2766|end_char=2770
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2770|end_char=2771
+
+# text = Свет?
+# sent_id = 61
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Свет	свет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	start_char=2772|end_char=2776
+2	?	?	PUNCT	_	_	1	punct	_	start_char=2776|end_char=2777
+
+# text = — Я понимаю, что ты, точнее, какое ты излучение.
+# sent_id = 62
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2778|end_char=2779
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2780|end_char=2781
+3	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2782|end_char=2789
+4	,	,	PUNCT	_	_	12	punct	_	start_char=2789|end_char=2790
+5	что	что	SCONJ	_	_	12	mark	_	start_char=2791|end_char=2794
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=2795|end_char=2797
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2797|end_char=2798
+8	точнее	точнее	ADV	_	Degree=Cmp	10	parataxis	_	start_char=2799|end_char=2805
+9	,	,	PUNCT	_	_	8	punct	_	start_char=2805|end_char=2806
+10	какое	какой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	det	_	start_char=2807|end_char=2812
+11	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=2813|end_char=2815
+12	излучение	излучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	ccomp	_	start_char=2816|end_char=2825
+13	.	.	PUNCT	_	_	3	punct	_	start_char=2825|end_char=2826
+
+# text = А ты понимаешь, что ты убиваешь всё углеродное живое одним своим прикосновением?
+# sent_id = 63
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	А	а	CCONJ	_	_	3	cc	_	start_char=2827|end_char=2828
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=2829|end_char=2831
+3	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2832|end_char=2841
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2841|end_char=2842
+5	что	что	SCONJ	_	_	7	mark	_	start_char=2843|end_char=2846
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=2847|end_char=2849
+7	убиваешь	убивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2850|end_char=2858
+8	всё	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	start_char=2859|end_char=2862
+9	углеродное	углеродный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=2863|end_char=2873
+10	живое	живой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=2874|end_char=2879
+11	одним	один	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Ind	13	det	_	start_char=2880|end_char=2885
+12	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	start_char=2886|end_char=2891
+13	прикосновением	прикосновение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	start_char=2892|end_char=2906
+14	?	?	PUNCT	_	_	3	punct	_	start_char=2906|end_char=2907
+
+# text = — Эти существа, живые — они видят другое излучение, слабое излучение, они с ним общаются, они ему радуются!
+# sent_id = 64
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	8	punct	_	start_char=2908|end_char=2909
+2	Эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	3	det	_	start_char=2910|end_char=2913
+3	существа	существо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	start_char=2914|end_char=2922
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2922|end_char=2923
+5	живые	живой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	acl	_	start_char=2924|end_char=2929
+6	—	—	PUNCT	_	_	5	punct	_	start_char=2930|end_char=2931
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=2932|end_char=2935
+8	видят	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2936|end_char=2941
+9	другое	другой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	10	det	_	start_char=2942|end_char=2948
+10	излучение	излучение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=2949|end_char=2958
+11	,	,	PUNCT	_	_	13	punct	_	start_char=2958|end_char=2959
+12	слабое	слабый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	start_char=2960|end_char=2966
+13	излучение	излучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	start_char=2967|end_char=2976
+14	,	,	PUNCT	_	_	18	punct	_	start_char=2976|end_char=2977
+15	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=2978|end_char=2981
+16	с	с	ADP	_	_	17	case	_	start_char=2982|end_char=2983
+17	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl	_	start_char=2984|end_char=2987
+18	общаются	общаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=2988|end_char=2996
+19	,	,	PUNCT	_	_	22	punct	_	start_char=2996|end_char=2997
+20	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	start_char=2998|end_char=3001
+21	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	iobj	_	start_char=3002|end_char=3005
+22	радуются	радоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=3006|end_char=3014
+23	!	!	PUNCT	_	_	8	punct	_	start_char=3014|end_char=3015
+
+# text = Почему ему, почему не мне?!
+# sent_id = 65
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=3016|end_char=3022
+2	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	orphan	_	start_char=3023|end_char=3026
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3026|end_char=3027
+4	почему	почему	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=3028|end_char=3034
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=3035|end_char=3037
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=3038|end_char=3041
+7	?!	?!	PUNCT	_	_	6	punct	_	start_char=3041|end_char=3043
+
+# text = — Так бывает, что ты прибываешь куда-то — и оказываешься слишком сильным, слишком большим, слишком... чужим.
+# sent_id = 66
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=3044|end_char=3045
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=3046|end_char=3049
+3	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3050|end_char=3056
+4	,	,	PUNCT	_	_	7	punct	_	start_char=3056|end_char=3057
+5	что	что	SCONJ	_	_	7	mark	_	start_char=3058|end_char=3061
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=3062|end_char=3064
+7	прибываешь	прибывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=3065|end_char=3075
+8	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	7	advmod	_	start_char=3076|end_char=3083
+9	—	—	PUNCT	_	_	11	punct	_	start_char=3084|end_char=3085
+10	и	и	CCONJ	_	_	11	cc	_	start_char=3086|end_char=3087
+11	оказываешься	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	start_char=3088|end_char=3100
+12	слишком	слишком	ADV	_	Degree=Pos	13	advmod	_	start_char=3101|end_char=3108
+13	сильным	сильный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	xcomp	_	start_char=3109|end_char=3116
+14	,	,	PUNCT	_	_	16	punct	_	start_char=3116|end_char=3117
+15	слишком	слишком	ADV	_	Degree=Pos	16	advmod	_	start_char=3118|end_char=3125
+16	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	start_char=3126|end_char=3133
+17	,	,	PUNCT	_	_	18	punct	_	start_char=3133|end_char=3134
+18	слишком	слишком	ADV	_	Degree=Pos	13	conj	_	start_char=3135|end_char=3142
+19	...	...	PUNCT	_	_	18	punct	_	start_char=3142|end_char=3145
+20	чужим	чужой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	start_char=3146|end_char=3151
+21	.	.	PUNCT	_	_	3	punct	_	start_char=3151|end_char=3152
+
+# text = Так бывает.
+# sent_id = 67
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=3153|end_char=3156
+2	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3157|end_char=3163
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3163|end_char=3164
+
+# text = Просто это не твоё место.
+# sent_id = 68
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Просто	просто	PART	_	_	5	advmod	_	start_char=3165|end_char=3171
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3172|end_char=3175
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3176|end_char=3178
+4	твоё	твой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	start_char=3179|end_char=3183
+5	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3184|end_char=3189
+6	.	.	PUNCT	_	_	5	punct	_	start_char=3189|end_char=3190
+
+# text = — Я летел и летел в космосе, одинокий посреди его бесконечности, надеясь найти его, своё место...
+# sent_id = 69
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=3191|end_char=3192
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3193|end_char=3194
+3	летел	лететь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3195|end_char=3200
+4	и	и	CCONJ	_	_	5	cc	_	start_char=3201|end_char=3202
+5	летел	лететь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3203|end_char=3208
+6	в	в	ADP	_	_	7	case	_	start_char=3209|end_char=3210
+7	космосе	космос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=3211|end_char=3218
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3218|end_char=3219
+9	одинокий	одинокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	start_char=3220|end_char=3228
+10	посреди	посреди	ADP	_	_	12	case	_	start_char=3229|end_char=3236
+11	его	его	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=3237|end_char=3240
+12	бесконечности	бесконечность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=3241|end_char=3254
+13	,	,	PUNCT	_	_	14	punct	_	start_char=3254|end_char=3255
+14	надеясь	надеяться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	9	advcl	_	start_char=3256|end_char=3263
+15	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=3264|end_char=3269
+16	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=3270|end_char=3273
+17	,	,	PUNCT	_	_	19	punct	_	start_char=3273|end_char=3274
+18	своё	свой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	start_char=3275|end_char=3279
+19	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	start_char=3280|end_char=3285
+20	...	...	PUNCT	_	_	3	punct	_	start_char=3285|end_char=3288
+
+# text = — Не у всех бывает дом.
+# sent_id = 70
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	5	punct	_	start_char=3289|end_char=3290
+2	Не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3291|end_char=3293
+3	у	у	ADP	_	_	4	case	_	start_char=3294|end_char=3295
+4	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Tot	5	obl	_	start_char=3296|end_char=3300
+5	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3301|end_char=3307
+6	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=3308|end_char=3311
+7	.	.	PUNCT	_	_	5	punct	_	start_char=3311|end_char=3312
+
+# text = Но всегда можно найти себе цель.
+# sent_id = 71
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=3313|end_char=3315
+2	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=3316|end_char=3322
+3	можно	можно	VERB	_	_	0	root	_	start_char=3323|end_char=3328
+4	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=3329|end_char=3334
+5	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	iobj	_	start_char=3335|end_char=3339
+6	цель	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=3340|end_char=3344
+7	.	.	PUNCT	_	_	3	punct	_	start_char=3344|end_char=3345
+
+# text = — Какую?
+# sent_id = 72
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=3346|end_char=3347
+2	Какую	какой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	0	root	_	start_char=3348|end_char=3353
+3	?	?	PUNCT	_	_	2	punct	_	start_char=3353|end_char=3354
+
+# text = Зачем?
+# sent_id = 73
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Зачем	зачем	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=3355|end_char=3360
+2	?	?	PUNCT	_	_	1	punct	_	start_char=3360|end_char=3361
+
+# text = Кому я нужен, если никто не может взглянуть на меня?!
+# sent_id = 74
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Int	3	iobj	_	start_char=3362|end_char=3366
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3367|end_char=3368
+3	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=3369|end_char=3374
+4	,	,	PUNCT	_	_	8	punct	_	start_char=3374|end_char=3375
+5	если	если	SCONJ	_	_	8	mark	_	start_char=3376|end_char=3380
+6	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	8	nsubj	_	start_char=3381|end_char=3386
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=3387|end_char=3389
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=3390|end_char=3395
+9	взглянуть	взглянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=3396|end_char=3405
+10	на	на	ADP	_	_	11	case	_	start_char=3406|end_char=3408
+11	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	_	start_char=3409|end_char=3413
+12	?!	?!	PUNCT	_	_	3	punct	_	start_char=3413|end_char=3415
+
+# text = — Напрямую — нет.
+# sent_id = 75
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	4	punct	_	start_char=3416|end_char=3417
+2	Напрямую	напрямую	ADV	_	Degree=Pos	4	advmod	_	start_char=3418|end_char=3426
+3	—	—	PUNCT	_	_	4	punct	_	start_char=3427|end_char=3428
+4	нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=3429|end_char=3432
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3432|end_char=3433
+
+# text = Но благодаря приборам по таким, как ты, можно изучать самые дальние и давние пределы Вселенной.
+# sent_id = 76
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Но	но	CCONJ	_	_	10	cc	_	start_char=3434|end_char=3436
+2	благодаря	благодаря	ADP	_	_	3	case	_	start_char=3437|end_char=3446
+3	приборам	прибор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	10	obl	_	start_char=3447|end_char=3455
+4	по	по	ADP	_	_	5	case	_	start_char=3456|end_char=3458
+5	таким	такой	DET	_	Case=Dat|Number=Plur|PronType=Dem	3	det	_	start_char=3459|end_char=3464
+6	,	,	PUNCT	_	_	8	punct	_	start_char=3464|end_char=3465
+7	как	как	SCONJ	_	_	8	case	_	start_char=3466|end_char=3469
+8	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	obl	_	start_char=3470|end_char=3472
+9	,	,	PUNCT	_	_	8	punct	_	start_char=3472|end_char=3473
+10	можно	можно	VERB	_	_	0	root	_	start_char=3474|end_char=3479
+11	изучать	изучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=3480|end_char=3487
+12	самые	самый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Emp	13	det	_	start_char=3488|end_char=3493
+13	дальние	дальний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	amod	_	start_char=3494|end_char=3501
+14	и	и	CCONJ	_	_	15	cc	_	start_char=3502|end_char=3503
+15	давние	давний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	conj	_	start_char=3504|end_char=3510
+16	пределы	предел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	start_char=3511|end_char=3518
+17	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	16	nmod	_	start_char=3519|end_char=3528
+18	.	.	PUNCT	_	_	10	punct	_	start_char=3528|end_char=3529
+
+# text = Ты сам — такой, какой есть, сильный, сжатый, устремлённый — можешь долететь до самых пределов Вселенной.
+# sent_id = 77
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=3530|end_char=3532
+2	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	1	acl	_	start_char=3533|end_char=3536
+3	—	—	PUNCT	_	_	4	punct	_	start_char=3537|end_char=3538
+4	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	start_char=3539|end_char=3544
+5	,	,	PUNCT	_	_	7	punct	_	start_char=3544|end_char=3545
+6	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	start_char=3546|end_char=3551
+7	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=3552|end_char=3556
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3556|end_char=3557
+9	сильный	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	start_char=3558|end_char=3565
+10	,	,	PUNCT	_	_	11	punct	_	start_char=3565|end_char=3566
+11	сжатый	сжатый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	start_char=3567|end_char=3573
+12	,	,	PUNCT	_	_	13	punct	_	start_char=3573|end_char=3574
+13	устремлённый	устремленный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	start_char=3575|end_char=3587
+14	—	—	PUNCT	_	_	15	punct	_	start_char=3588|end_char=3589
+15	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=3590|end_char=3596
+16	долететь	долететь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=3597|end_char=3605
+17	до	до	ADP	_	_	19	case	_	start_char=3606|end_char=3608
+18	самых	самый	DET	_	Case=Gen|Number=Plur|PronType=Emp	19	det	_	start_char=3609|end_char=3614
+19	пределов	предел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	obl	_	start_char=3615|end_char=3623
+20	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	19	nmod	_	start_char=3624|end_char=3633
+21	.	.	PUNCT	_	_	4	punct	_	start_char=3633|end_char=3634
+
+# text = — И что я там увижу?
+# sent_id = 78
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	6	punct	_	start_char=3635|end_char=3636
+2	И	и	CCONJ	_	_	6	cc	_	start_char=3637|end_char=3638
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	start_char=3639|end_char=3642
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=3643|end_char=3644
+5	там	там	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=3645|end_char=3648
+6	увижу	увидеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=3649|end_char=3654
+7	?	?	PUNCT	_	_	6	punct	_	start_char=3654|end_char=3655
+
+# text = — Я однажды видел границу с другой Вселенной.
+# sent_id = 79
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	4	punct	_	start_char=3656|end_char=3657
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=3658|end_char=3659
+3	однажды	однажды	ADV	_	Degree=Pos	4	advmod	_	start_char=3660|end_char=3667
+4	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3668|end_char=3673
+5	границу	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=3674|end_char=3681
+6	с	с	ADP	_	_	8	case	_	start_char=3682|end_char=3683
+7	другой	другой	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	8	det	_	start_char=3684|end_char=3690
+8	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	5	nmod	_	start_char=3691|end_char=3700
+9	.	.	PUNCT	_	_	4	punct	_	start_char=3700|end_char=3701
+
+# text = Возможно, в ней тебя могли бы увидеть.
+# sent_id = 80
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Возможно	возможно	ADV	_	Degree=Pos	6	parataxis	_	start_char=3702|end_char=3710
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3710|end_char=3711
+3	в	в	ADP	_	_	4	case	_	start_char=3712|end_char=3713
+4	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=3714|end_char=3717
+5	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obj	_	start_char=3718|end_char=3722
+6	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3723|end_char=3728
+7	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=3729|end_char=3731
+8	увидеть	увидеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=3732|end_char=3739
+9	.	.	PUNCT	_	_	6	punct	_	start_char=3739|end_char=3740
+
+# text = Но это было давным-давно, когда эта Вселенная была меньше, чем сейчас.
+# sent_id = 81
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=3741|end_char=3743
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=3744|end_char=3747
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=3748|end_char=3752
+4	давным	давным	ADV	_	Degree=Pos	0	root	_	start_char=3753|end_char=3759
+5	-	-	PUNCT	_	_	6	punct	_	start_char=3759|end_char=3760
+6	давно	давно	ADV	_	Degree=Pos	4	advmod	_	start_char=3760|end_char=3765
+7	,	,	PUNCT	_	_	12	punct	_	start_char=3765|end_char=3766
+8	когда	когда	SCONJ	_	_	12	mark	_	start_char=3767|end_char=3772
+9	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	start_char=3773|end_char=3776
+10	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	start_char=3777|end_char=3786
+11	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=3787|end_char=3791
+12	меньше	маленький	ADJ	_	Degree=Cmp	4	advcl	_	start_char=3792|end_char=3798
+13	,	,	PUNCT	_	_	15	punct	_	start_char=3798|end_char=3799
+14	чем	чем	SCONJ	_	_	15	case	_	start_char=3800|end_char=3803
+15	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	12	obl	_	start_char=3804|end_char=3810
+16	.	.	PUNCT	_	_	4	punct	_	start_char=3810|end_char=3811
+
+# text = А сейчас она расширяется все быстрей и быстрей, уже быстрее скорости света, и теперь чтобы просто оставаться на месте, надо лететь, а не бежать, а чтобы куда-то попасть — нестись изо всех сил, не теряя по пути ни секунды.
+# sent_id = 82
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	А	а	CCONJ	_	_	4	cc	_	start_char=3812|end_char=3813
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=3814|end_char=3820
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=3821|end_char=3824
+4	расширяется	расширяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3825|end_char=3836
+5	все	всё	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=3837|end_char=3840
+6	быстрей	быстро	ADJ	_	Degree=Cmp	4	advmod	_	start_char=3841|end_char=3848
+7	и	и	CCONJ	_	_	8	cc	_	start_char=3849|end_char=3850
+8	быстрей	быстро	ADV	_	Degree=Cmp	6	conj	_	start_char=3851|end_char=3858
+9	,	,	PUNCT	_	_	11	punct	_	start_char=3858|end_char=3859
+10	уже	уже	ADV	_	Degree=Pos	11	advmod	_	start_char=3860|end_char=3863
+11	быстрее	быстрый	ADJ	_	Degree=Cmp	4	conj	_	start_char=3864|end_char=3871
+12	скорости	скорость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=3872|end_char=3880
+13	света	свет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=3881|end_char=3886
+14	,	,	PUNCT	_	_	19	punct	_	start_char=3886|end_char=3887
+15	и	и	CCONJ	_	_	23	cc	_	start_char=3888|end_char=3889
+16	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=3890|end_char=3896
+17	чтобы	чтобы	SCONJ	_	Mood=Cnd	19	mark	_	start_char=3897|end_char=3902
+18	просто	просто	PART	_	_	19	advmod	_	start_char=3903|end_char=3909
+19	оставаться	оставаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	advcl	_	start_char=3910|end_char=3920
+20	на	на	ADP	_	_	21	case	_	start_char=3921|end_char=3923
+21	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	start_char=3924|end_char=3929
+22	,	,	PUNCT	_	_	23	punct	_	start_char=3929|end_char=3930
+23	надо	надо	VERB	_	_	4	conj	_	start_char=3931|end_char=3935
+24	лететь	лететь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	csubj	_	start_char=3936|end_char=3942
+25	,	,	PUNCT	_	_	28	punct	_	start_char=3942|end_char=3943
+26	а	а	CCONJ	_	_	28	cc	_	start_char=3944|end_char=3945
+27	не	не	PART	_	Polarity=Neg	28	advmod	_	start_char=3946|end_char=3948
+28	бежать	бежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	conj	_	start_char=3949|end_char=3955
+29	,	,	PUNCT	_	_	35	punct	_	start_char=3955|end_char=3956
+30	а	а	CCONJ	_	_	35	cc	_	start_char=3957|end_char=3958
+31	чтобы	чтобы	SCONJ	_	Mood=Cnd	33	mark	_	start_char=3959|end_char=3964
+32	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	33	advmod	_	start_char=3965|end_char=3972
+33	попасть	попасть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	35	advcl	_	start_char=3973|end_char=3980
+34	—	—	PUNCT	_	_	33	punct	_	start_char=3981|end_char=3982
+35	нестись	нестись	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=3983|end_char=3990
+36	изо	изо	ADP	_	_	38	case	_	start_char=3991|end_char=3994
+37	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	38	det	_	start_char=3995|end_char=3999
+38	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	35	obl	_	start_char=4000|end_char=4003
+39	,	,	PUNCT	_	_	41	punct	_	start_char=4003|end_char=4004
+40	не	не	PART	_	Polarity=Neg	41	advmod	_	start_char=4005|end_char=4007
+41	теряя	терять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	35	advcl	_	start_char=4008|end_char=4013
+42	по	по	ADP	_	_	43	case	_	start_char=4014|end_char=4016
+43	пути	путь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	41	obl	_	start_char=4017|end_char=4021
+44	ни	ни	CCONJ	_	Polarity=Neg	45	cc	_	start_char=4022|end_char=4024
+45	секунды	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	conj	_	start_char=4025|end_char=4032
+46	.	.	PUNCT	_	_	4	punct	_	start_char=4032|end_char=4033
+
+# text = — Другая Вселенная...
+# sent_id = 83
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=4034|end_char=4035
+2	Другая	другой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	3	det	_	start_char=4036|end_char=4042
+3	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4043|end_char=4052
+4	...	...	PUNCT	_	_	3	punct	_	start_char=4052|end_char=4055
+
+# text = Все смолкло, больше не было никакого шёпота, кроме тихих голосов ничего не понимающих переговаривающихся живых цветов.
+# sent_id = 84
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	det	_	start_char=4056|end_char=4059
+2	смолкло	смолкло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=4060|end_char=4067
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4067|end_char=4068
+4	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	6	advmod	_	start_char=4069|end_char=4075
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=4076|end_char=4078
+6	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4079|end_char=4083
+7	никакого	никакой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Neg	8	det	_	start_char=4084|end_char=4092
+8	шёпота	шепот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	start_char=4093|end_char=4099
+9	,	,	PUNCT	_	_	12	punct	_	start_char=4099|end_char=4100
+10	кроме	кроме	ADP	_	_	12	case	_	start_char=4101|end_char=4106
+11	тихих	тихий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=4107|end_char=4112
+12	голосов	голос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	start_char=4113|end_char=4120
+13	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	12	nmod	_	start_char=4121|end_char=4127
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=4128|end_char=4130
+15	понимающих	понимать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	start_char=4131|end_char=4141
+16	переговаривающихся	переговариваться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	start_char=4142|end_char=4160
+17	живых	живой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	start_char=4161|end_char=4166
+18	цветов	цветок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	start_char=4167|end_char=4173
+19	.	.	PUNCT	_	_	6	punct	_	start_char=4173|end_char=4174
+
+# text = — Все, Роза, можешь открыть глаза.
+# sent_id = 85
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	6	punct	_	start_char=4175|end_char=4176
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=4177|end_char=4180
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4180|end_char=4181
+4	Роза	роза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	vocative	_	start_char=4182|end_char=4186
+5	,	,	PUNCT	_	_	4	punct	_	start_char=4186|end_char=4187
+6	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4188|end_char=4194
+7	открыть	открыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=4195|end_char=4202
+8	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=4203|end_char=4208
+9	.	.	PUNCT	_	_	6	punct	_	start_char=4208|end_char=4209
+
+# text = — Оно... он... улетел?
+# sent_id = 86
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=4210|end_char=4211
+2	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=4212|end_char=4215
+3	...	...	PUNCT	_	_	2	punct	_	start_char=4215|end_char=4218
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=4219|end_char=4221
+5	...	...	PUNCT	_	_	6	punct	_	start_char=4221|end_char=4224
+6	улетел	улететь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4225|end_char=4231
+7	?	?	PUNCT	_	_	2	punct	_	start_char=4231|end_char=4232
+
+# text = — на всякий случай она приоткрыла только один глаз.
+# sent_id = 87
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	6	punct	_	start_char=4233|end_char=4234
+2	на	на	ADP	_	_	4	case	_	start_char=4235|end_char=4237
+3	всякий	всякий	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	4	det	_	start_char=4238|end_char=4244
+4	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=4245|end_char=4251
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=4252|end_char=4255
+6	приоткрыла	приоткрыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4256|end_char=4266
+7	только	только	PART	_	_	8	advmod	_	start_char=4267|end_char=4273
+8	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	9	nummod	_	start_char=4274|end_char=4278
+9	глаз	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=4279|end_char=4283
+10	.	.	PUNCT	_	_	6	punct	_	start_char=4283|end_char=4284
+
+# text = — Да, теперь он улетел.
+# sent_id = 88
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	6	punct	_	start_char=4285|end_char=4286
+2	Да	да	PART	_	_	6	parataxis	_	start_char=4287|end_char=4289
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4289|end_char=4290
+4	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=4291|end_char=4297
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=4298|end_char=4300
+6	улетел	улететь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4301|end_char=4307
+7	.	.	PUNCT	_	_	6	punct	_	start_char=4307|end_char=4308
+
+# text = — А что это было?
+# sent_id = 89
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=4309|end_char=4310
+2	А	а	CCONJ	_	_	3	cc	_	start_char=4311|end_char=4312
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=4313|end_char=4316
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4317|end_char=4320
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=4321|end_char=4325
+6	?	?	PUNCT	_	_	3	punct	_	start_char=4325|end_char=4326
+
+# text = Почему он сравнивал себя с живыми цветами?
+# sent_id = 90
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=4327|end_char=4333
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4334|end_char=4336
+3	сравнивал	сравнивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4337|end_char=4346
+4	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	obj	_	start_char=4347|end_char=4351
+5	с	с	ADP	_	_	7	case	_	start_char=4352|end_char=4353
+6	живыми	живой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	start_char=4354|end_char=4360
+7	цветами	цветок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	obl	_	start_char=4361|end_char=4368
+8	?	?	PUNCT	_	_	3	punct	_	start_char=4368|end_char=4369
+
+# text = — Электромагнитное излучение.
+# sent_id = 91
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	3	punct	_	start_char=4370|end_char=4371
+2	Электромагнитное	электромагнитный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=4372|end_char=4388
+3	излучение	излучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=4389|end_char=4398
+4	.	.	PUNCT	_	_	3	punct	_	start_char=4398|end_char=4399
+
+# text = Цвета тоже всего-навсего электромагнитное излучение определенной длины.
+# sent_id = 92
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Цвета	цвет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=4400|end_char=4405
+2	тоже	тоже	PART	_	_	5	advmod	_	start_char=4406|end_char=4410
+3	всего-навсего	всего-навсего	PART	_	_	4	advmod	_	start_char=4411|end_char=4424
+4	электромагнитное	электромагнитный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=4425|end_char=4441
+5	излучение	излучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=4442|end_char=4451
+6	определенной	определенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=4452|end_char=4464
+7	длины	длина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=4465|end_char=4470
+8	.	.	PUNCT	_	_	5	punct	_	start_char=4470|end_char=4471
+
+# text = А еще есть радио, инфракрасное, рентген...
+# sent_id = 93
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	А	а	CCONJ	_	_	3	cc	_	start_char=4472|end_char=4473
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=4474|end_char=4477
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4478|end_char=4482
+4	радио	радио	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=4483|end_char=4488
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4488|end_char=4489
+6	инфракрасное	инфракрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	conj	_	start_char=4490|end_char=4502
+7	,	,	PUNCT	_	_	8	punct	_	start_char=4502|end_char=4503
+8	рентген	рентген	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	start_char=4504|end_char=4511
+9	...	...	PUNCT	_	_	3	punct	_	start_char=4511|end_char=4514
+
+# text = — Чёрный!
+# sent_id = 94
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=4515|end_char=4516
+2	Чёрный	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=4517|end_char=4523
+3	!	!	PUNCT	_	_	2	punct	_	start_char=4523|end_char=4524
+
+# text = Чёрный, это правда?
+# sent_id = 95
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Чёрный	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4525|end_char=4531
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4531|end_char=4532
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=4533|end_char=4536
+4	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4537|end_char=4543
+5	?	?	PUNCT	_	_	4	punct	_	start_char=4543|end_char=4544
+
+# text = Вы видели другую Вселенную?
+# sent_id = 96
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=4545|end_char=4547
+2	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4548|end_char=4554
+3	другую	другой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	start_char=4555|end_char=4561
+4	Вселенную	Вселенная	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	2	obj	_	start_char=4562|end_char=4571
+5	?	?	PUNCT	_	_	2	punct	_	start_char=4571|end_char=4572
+
+# text = — раздался робкий вопрос.
+# sent_id = 97
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	2	punct	_	start_char=4573|end_char=4574
+2	раздался	раздаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4575|end_char=4583
+3	робкий	робкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=4584|end_char=4590
+4	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4591|end_char=4597
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4597|end_char=4598
+
+# text = — Я не Чёрный, я — Доктор.
+# sent_id = 98
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	—	—	PUNCT	_	_	4	punct	_	start_char=4599|end_char=4600
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4601|end_char=4602
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=4603|end_char=4605
+4	Чёрный	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=4606|end_char=4612
+5	,	,	PUNCT	_	_	8	punct	_	start_char=4612|end_char=4613
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=4614|end_char=4615
+7	—	—	PUNCT	_	_	8	punct	_	start_char=4616|end_char=4617
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	start_char=4618|end_char=4624
+9	.	.	PUNCT	_	_	4	punct	_	start_char=4624|end_char=4625
+
+# text = 2014
+# sent_id = 99
+# metadata = Название: Слишком чужой, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5474ffb000000a7d35982513/1/Slishkom-chuzhoj
+1	2014	2014	ADJ	_	NumForm=Digit|NumType=Ord	0	root	_	start_char=4627|end_char=4631
+

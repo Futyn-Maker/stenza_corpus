@@ -1,0 +1,508 @@
+# text = – Интересно, зачем нас ТАРДИС сюда завезла? – спросила Романа у Доктора.
+# sent_id = 0
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2|end_char=11
+3	,	,	PUNCT	_	_	8	punct	_	start_char=11|end_char=12
+4	зачем	зачем	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=13|end_char=18
+5	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	_	start_char=19|end_char=22
+6	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	nsubj	_	start_char=23|end_char=29
+7	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=30|end_char=34
+8	завезла	завезти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=35|end_char=42
+9	?	?	PUNCT	_	_	8	punct	_	start_char=42|end_char=43
+10	–	–	PUNCT	_	_	11	punct	_	start_char=44|end_char=45
+11	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=46|end_char=54
+12	Романа	Роман	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	11	obj	_	start_char=55|end_char=61
+13	у	у	ADP	_	_	14	case	_	start_char=62|end_char=63
+14	Доктора	доктор	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	11	obl	_	start_char=64|end_char=71
+15	.	.	PUNCT	_	_	2	punct	_	start_char=71|end_char=72
+
+# text = – По-моему, ты слишком одушевляешь её, – как обычно, небрежно и почти на бегу, ответил Доктор, закрывая за ними дверь.
+# sent_id = 1
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	6	punct	_	start_char=73|end_char=74
+2	По-моему	по-моему	ADV	_	Degree=Pos	6	parataxis	_	start_char=75|end_char=83
+3	,	,	PUNCT	_	_	2	punct	_	start_char=83|end_char=84
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=85|end_char=87
+5	слишком	слишком	ADV	_	Degree=Pos	6	advmod	_	start_char=88|end_char=95
+6	одушевляешь	одушевлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=96|end_char=107
+7	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=108|end_char=110
+8	,	,	PUNCT	_	_	19	punct	_	start_char=110|end_char=111
+9	–	–	PUNCT	_	_	19	punct	_	start_char=112|end_char=113
+10	как	как	SCONJ	_	_	11	mark	_	start_char=114|end_char=117
+11	обычно	обычно	ADV	_	Degree=Pos	19	advmod	_	start_char=118|end_char=124
+12	,	,	PUNCT	_	_	13	punct	_	start_char=124|end_char=125
+13	небрежно	небрежно	ADV	_	Degree=Pos	11	conj	_	start_char=126|end_char=134
+14	и	и	CCONJ	_	_	17	cc	_	start_char=135|end_char=136
+15	почти	почти	ADV	_	Degree=Pos	17	advmod	_	start_char=137|end_char=142
+16	на	на	ADP	_	_	17	case	_	start_char=143|end_char=145
+17	бегу	бег	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	conj	_	start_char=146|end_char=150
+18	,	,	PUNCT	_	_	11	punct	_	start_char=150|end_char=151
+19	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=152|end_char=159
+20	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=160|end_char=166
+21	,	,	PUNCT	_	_	22	punct	_	start_char=166|end_char=167
+22	закрывая	закрывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	19	advcl	_	start_char=168|end_char=176
+23	за	за	ADP	_	_	24	case	_	start_char=177|end_char=179
+24	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	22	obl	_	start_char=180|end_char=184
+25	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	_	start_char=185|end_char=190
+26	.	.	PUNCT	_	_	6	punct	_	start_char=190|end_char=191
+
+# text = – Но я рад, что целый день можно было просто отдыхать: вкусно кушать, общаться с местными жителями – они примитивные, но милые и добрые.
+# sent_id = 2
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	4	punct	_	start_char=192|end_char=193
+2	Но	но	CCONJ	_	_	4	cc	_	start_char=194|end_char=196
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=197|end_char=198
+4	рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=199|end_char=202
+5	,	,	PUNCT	_	_	9	punct	_	start_char=202|end_char=203
+6	что	что	SCONJ	_	_	9	mark	_	start_char=204|end_char=207
+7	целый	целый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=208|end_char=213
+8	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=214|end_char=218
+9	можно	можно	VERB	_	_	4	ccomp	_	start_char=219|end_char=224
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=225|end_char=229
+11	просто	просто	PART	_	_	12	advmod	_	start_char=230|end_char=236
+12	отдыхать	отдыхать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	start_char=237|end_char=245
+13	:	:	PUNCT	_	_	14	punct	_	start_char=245|end_char=246
+14	вкусно	вкусный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	parataxis	_	start_char=247|end_char=253
+15	кушать	кушать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	csubj	_	start_char=254|end_char=260
+16	,	,	PUNCT	_	_	17	punct	_	start_char=260|end_char=261
+17	общаться	общаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	conj	_	start_char=262|end_char=270
+18	с	с	ADP	_	_	20	case	_	start_char=271|end_char=272
+19	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	20	amod	_	start_char=273|end_char=281
+20	жителями	житель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	start_char=282|end_char=290
+21	–	–	PUNCT	_	_	23	punct	_	start_char=291|end_char=292
+22	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	start_char=293|end_char=296
+23	примитивные	примитивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	parataxis	_	start_char=297|end_char=308
+24	,	,	PUNCT	_	_	26	punct	_	start_char=308|end_char=309
+25	но	но	CCONJ	_	_	26	cc	_	start_char=310|end_char=312
+26	милые	милый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	conj	_	start_char=313|end_char=318
+27	и	и	CCONJ	_	_	28	cc	_	start_char=319|end_char=320
+28	добрые	добрый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	conj	_	start_char=321|end_char=327
+29	.	.	PUNCT	_	_	4	punct	_	start_char=327|end_char=328
+
+# text = Я даже чуть было не занялся ремонтом хамелеонного режима ТАРДИС!
+# sent_id = 3
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=329|end_char=330
+2	даже	даже	PART	_	_	3	advmod	_	start_char=331|end_char=335
+3	чуть	чуть	ADV	_	Degree=Pos	6	advmod	_	start_char=336|end_char=340
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	start_char=341|end_char=345
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=346|end_char=348
+6	занялся	заняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=349|end_char=356
+7	ремонтом	ремонт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	iobj	_	start_char=357|end_char=365
+8	хамелеонного	хамелеонный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=366|end_char=378
+9	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=379|end_char=385
+10	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	9	appos	_	start_char=386|end_char=392
+11	!	!	PUNCT	_	_	6	punct	_	start_char=392|end_char=393
+
+# text = – Вот!
+# sent_id = 4
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	2	punct	_	start_char=394|end_char=395
+2	Вот	вот	PART	_	_	0	root	_	start_char=396|end_char=399
+3	!	!	PUNCT	_	_	2	punct	_	start_char=399|end_char=400
+
+# text = Все было совершенно спокойно, а обычно мы начинаем разгребать проблемы тех мест, куда попали!
+# sent_id = 5
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=401|end_char=404
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=405|end_char=409
+3	совершенно	совершенно	ADV	_	Degree=Pos	4	advmod	_	start_char=410|end_char=420
+4	спокойно	спокойный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=421|end_char=429
+5	,	,	PUNCT	_	_	9	punct	_	start_char=429|end_char=430
+6	а	а	CCONJ	_	_	9	cc	_	start_char=431|end_char=432
+7	обычно	обычно	ADV	_	Degree=Pos	9	advmod	_	start_char=433|end_char=439
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=440|end_char=442
+9	начинаем	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=443|end_char=451
+10	разгребать	разгребать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=452|end_char=462
+11	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	start_char=463|end_char=471
+12	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	13	det	_	start_char=472|end_char=475
+13	мест	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	start_char=476|end_char=480
+14	,	,	PUNCT	_	_	16	punct	_	start_char=480|end_char=481
+15	куда	куда	ADV	_	Degree=Pos|PronType=Rel	16	advmod	_	start_char=482|end_char=486
+16	попали	попасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	start_char=487|end_char=493
+17	!	!	PUNCT	_	_	4	punct	_	start_char=493|end_char=494
+
+# text = – Так надо радоваться, что во Вселенной есть еще места без проблем!
+# sent_id = 6
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	3	punct	_	start_char=495|end_char=496
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=497|end_char=500
+3	надо	надо	VERB	_	_	0	root	_	start_char=501|end_char=505
+4	радоваться	радоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	csubj	_	start_char=506|end_char=516
+5	,	,	PUNCT	_	_	8	punct	_	start_char=516|end_char=517
+6	что	что	SCONJ	_	_	8	mark	_	start_char=518|end_char=521
+7	во	во	ADP	_	_	8	case	_	start_char=522|end_char=524
+8	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	4	ccomp	_	start_char=525|end_char=534
+9	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=535|end_char=539
+10	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=540|end_char=543
+11	места	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	start_char=544|end_char=549
+12	без	без	ADP	_	_	13	case	_	start_char=550|end_char=553
+13	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	start_char=554|end_char=561
+14	!	!	PUNCT	_	_	3	punct	_	start_char=561|end_char=562
+
+# text = – Да...
+# sent_id = 7
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	2	punct	_	start_char=563|end_char=564
+2	Да	да	PART	_	_	0	root	_	start_char=565|end_char=567
+3	...	...	PUNCT	_	_	2	punct	_	start_char=567|end_char=570
+
+# text = Милые и добрые люди.
+# sent_id = 8
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Милые	милый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=571|end_char=576
+2	и	и	CCONJ	_	_	3	cc	_	start_char=577|end_char=578
+3	добрые	добрый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	1	conj	_	start_char=579|end_char=585
+4	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=586|end_char=590
+5	.	.	PUNCT	_	_	4	punct	_	start_char=590|end_char=591
+
+# text = Эмпаты, не выносящие, когда кому-то другому плохо или больно.
+# sent_id = 9
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Эмпаты	эмпата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=592|end_char=598
+2	,	,	PUNCT	_	_	4	punct	_	start_char=598|end_char=599
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=600|end_char=602
+4	выносящие	выносить	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	start_char=603|end_char=612
+5	,	,	PUNCT	_	_	9	punct	_	start_char=612|end_char=613
+6	когда	когда	SCONJ	_	_	9	mark	_	start_char=614|end_char=619
+7	кому-то	кто-то	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	9	iobj	_	start_char=620|end_char=627
+8	другому	другой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	9	iobj	_	start_char=628|end_char=635
+9	плохо	плохой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	advcl	_	start_char=636|end_char=641
+10	или	или	CCONJ	_	_	11	cc	_	start_char=642|end_char=645
+11	больно	больной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	conj	_	start_char=646|end_char=652
+12	.	.	PUNCT	_	_	1	punct	_	start_char=652|end_char=653
+
+# text = Совершенно не способные врать.
+# sent_id = 10
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Совершенно	совершенно	ADV	_	Degree=Pos	2	advmod	_	start_char=654|end_char=664
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=665|end_char=667
+3	способные	способновать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	start_char=668|end_char=677
+4	врать	врать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=678|end_char=683
+5	.	.	PUNCT	_	_	3	punct	_	start_char=683|end_char=684
+
+# text = Уже многие сотни, наверное, даже тысячи лет живущие такими вот пасторальными деревеньками с минимально необходимым натуральным обменом между ними.
+# sent_id = 11
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Уже	уже	ADV	_	Degree=Pos	2	advmod	_	start_char=685|end_char=688
+2	многие	многий	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	_	start_char=689|end_char=695
+3	сотни	сотня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	start_char=696|end_char=701
+4	,	,	PUNCT	_	_	5	punct	_	start_char=701|end_char=702
+5	наверное	наверное	ADV	_	Degree=Pos	9	parataxis	_	start_char=703|end_char=711
+6	,	,	PUNCT	_	_	5	punct	_	start_char=711|end_char=712
+7	даже	даже	PART	_	_	8	advmod	_	start_char=713|end_char=717
+8	тысячи	тысяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nummod:gov	_	start_char=718|end_char=724
+9	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	start_char=725|end_char=728
+10	живущие	жить	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	start_char=729|end_char=736
+11	такими	такой	DET	_	Case=Ins|Number=Plur|PronType=Dem	14	det	_	start_char=737|end_char=743
+12	вот	вот	PART	_	_	13	advmod	_	start_char=744|end_char=747
+13	пасторальными	пасторальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	amod	_	start_char=748|end_char=761
+14	деревеньками	деревенька	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	obl	_	start_char=762|end_char=774
+15	с	с	ADP	_	_	19	case	_	start_char=775|end_char=776
+16	минимально	минимально	ADV	_	Degree=Pos	17	advmod	_	start_char=777|end_char=787
+17	необходимым	необходимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=788|end_char=799
+18	натуральным	натуральный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=800|end_char=811
+19	обменом	обмен	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	nmod	_	start_char=812|end_char=819
+20	между	между	ADP	_	_	21	case	_	start_char=820|end_char=825
+21	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	19	nmod	_	start_char=826|end_char=830
+22	.	.	PUNCT	_	_	9	punct	_	start_char=830|end_char=831
+
+# text = Тебе не кажется, что они так никогда и не создадут высокоразвитую цивилизацию?
+# sent_id = 12
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	start_char=832|end_char=836
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=837|end_char=839
+3	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=840|end_char=847
+4	,	,	PUNCT	_	_	11	punct	_	start_char=847|end_char=848
+5	что	что	SCONJ	_	_	11	mark	_	start_char=849|end_char=852
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=853|end_char=856
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=857|end_char=860
+8	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	11	advmod	_	start_char=861|end_char=868
+9	и	и	PART	_	_	11	advmod	_	start_char=869|end_char=870
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=871|end_char=873
+11	создадут	создать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=874|end_char=882
+12	высокоразвитую	высокоразвитый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=883|end_char=897
+13	цивилизацию	цивилизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=898|end_char=909
+14	?	?	PUNCT	_	_	3	punct	_	start_char=909|end_char=910
+
+# text = Не выйдут в космос, не исследуют свою систему, даже не попытаются овладеть секретами перемещения во времени?
+# sent_id = 13
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=911|end_char=913
+2	выйдут	выйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=914|end_char=920
+3	в	в	ADP	_	_	4	case	_	start_char=921|end_char=922
+4	космос	космос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=923|end_char=929
+5	,	,	PUNCT	_	_	7	punct	_	start_char=929|end_char=930
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=931|end_char=933
+7	исследуют	исследовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=934|end_char=943
+8	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=944|end_char=948
+9	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=949|end_char=956
+10	,	,	PUNCT	_	_	13	punct	_	start_char=956|end_char=957
+11	даже	даже	PART	_	_	13	advmod	_	start_char=958|end_char=962
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=963|end_char=965
+13	попытаются	попытаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=966|end_char=976
+14	овладеть	овладеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=977|end_char=985
+15	секретами	секрета	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	iobj	_	start_char=986|end_char=995
+16	перемещения	перемещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	start_char=996|end_char=1007
+17	во	во	ADP	_	_	18	case	_	start_char=1008|end_char=1010
+18	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	start_char=1011|end_char=1018
+19	?	?	PUNCT	_	_	2	punct	_	start_char=1018|end_char=1019
+
+# text = – Возможно.
+# sent_id = 14
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1021|end_char=1022
+2	Возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1023|end_char=1031
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1031|end_char=1032
+
+# text = А зачем?
+# sent_id = 15
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	А	а	CCONJ	_	_	2	cc	_	start_char=1033|end_char=1034
+2	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=1035|end_char=1040
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1040|end_char=1041
+
+# text = Они и так счастливы.
+# sent_id = 16
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=1042|end_char=1045
+2	и	и	PART	_	_	3	advmod	_	start_char=1046|end_char=1047
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=1048|end_char=1051
+4	счастливы	счастливый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1052|end_char=1061
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1061|end_char=1062
+
+# text = – Доктор, ты думаешь, что цивилизации создают, чтобы все были счастливы?
+# sent_id = 17
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1063|end_char=1064
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	vocative	_	start_char=1065|end_char=1071
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1071|end_char=1072
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=1073|end_char=1075
+5	думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1076|end_char=1083
+6	,	,	PUNCT	_	_	9	punct	_	start_char=1083|end_char=1084
+7	что	что	SCONJ	_	_	9	mark	_	start_char=1085|end_char=1088
+8	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	start_char=1089|end_char=1100
+9	создают	создавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=1101|end_char=1108
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1108|end_char=1109
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	14	mark	_	start_char=1110|end_char=1115
+12	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	14	nsubj	_	start_char=1116|end_char=1119
+13	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=1120|end_char=1124
+14	счастливы	счастливый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	9	advcl	_	start_char=1125|end_char=1134
+15	?	?	PUNCT	_	_	5	punct	_	start_char=1134|end_char=1135
+
+# text = – Конечно, чтобы вернуть тот «золотой век», который будет потерян в процессе создания цивилизации.
+# sent_id = 18
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1136|end_char=1137
+2	Конечно	конечно	ADV	_	Degree=Pos	5	parataxis	_	start_char=1138|end_char=1145
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1145|end_char=1146
+4	чтобы	чтобы	SCONJ	_	Mood=Cnd	5	mark	_	start_char=1147|end_char=1152
+5	вернуть	вернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1153|end_char=1160
+6	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	start_char=1161|end_char=1164
+7	«	«	PUNCT	_	_	9	punct	_	start_char=1165|end_char=1166
+8	золотой	золотой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1166|end_char=1173
+9	век	век	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1174|end_char=1177
+10	»	»	PUNCT	_	_	9	punct	_	start_char=1177|end_char=1178
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1178|end_char=1179
+12	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj:pass	_	start_char=1180|end_char=1187
+13	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	14	aux:pass	_	start_char=1188|end_char=1193
+14	потерян	потерять	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	conj	_	start_char=1194|end_char=1201
+15	в	в	ADP	_	_	16	case	_	start_char=1202|end_char=1203
+16	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	start_char=1204|end_char=1212
+17	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	start_char=1213|end_char=1221
+18	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=1222|end_char=1233
+19	.	.	PUNCT	_	_	2	punct	_	start_char=1233|end_char=1234
+
+# text = По крайней мере, этот тезис обычно лежит в основе.
+# sent_id = 19
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	По	по	ADP	_	_	8	parataxis	_	start_char=1235|end_char=1237
+2	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	fixed	_	start_char=1238|end_char=1245
+3	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	fixed	_	start_char=1246|end_char=1250
+4	,	,	PUNCT	_	_	1	punct	_	start_char=1250|end_char=1251
+5	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	start_char=1252|end_char=1256
+6	тезис	тезис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=1257|end_char=1262
+7	обычно	обычно	ADV	_	Degree=Pos	8	advmod	_	start_char=1263|end_char=1269
+8	лежит	лежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1270|end_char=1275
+9	в	в	ADP	_	_	10	case	_	start_char=1276|end_char=1277
+10	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	start_char=1278|end_char=1284
+11	.	.	PUNCT	_	_	8	punct	_	start_char=1284|end_char=1285
+
+# text = – Но это же ложь!..
+# sent_id = 20
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1286|end_char=1287
+2	Но	но	CCONJ	_	_	5	cc	_	start_char=1288|end_char=1290
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1291|end_char=1294
+4	же	же	PART	_	_	3	advmod	_	start_char=1295|end_char=1297
+5	ложь	ложь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1298|end_char=1302
+6	!..	!..	PUNCT	_	_	5	punct	_	start_char=1302|end_char=1305
+
+# text = Вот еще почему они никогда не станут цивилизованными – они не могут врать...
+# sent_id = 21
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=1306|end_char=1309
+2	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=1310|end_char=1313
+3	почему	почему	ADV	_	Degree=Pos|PronType=Rel	7	advmod	_	start_char=1314|end_char=1320
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=1321|end_char=1324
+5	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	7	advmod	_	start_char=1325|end_char=1332
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1333|end_char=1335
+7	станут	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1336|end_char=1342
+8	цивилизованными	цивилизованный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	xcomp	_	start_char=1343|end_char=1358
+9	–	–	PUNCT	_	_	12	punct	_	start_char=1359|end_char=1360
+10	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=1361|end_char=1364
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1365|end_char=1367
+12	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1368|end_char=1373
+13	врать	врать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=1374|end_char=1379
+14	...	...	PUNCT	_	_	7	punct	_	start_char=1379|end_char=1382
+
+# text = Никогда не станут ни союзниками, ни противниками повелителей времени...
+# sent_id = 22
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	3	advmod	_	start_char=1383|end_char=1390
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1391|end_char=1393
+3	станут	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1394|end_char=1400
+4	ни	ни	CCONJ	_	Polarity=Neg	5	cc	_	start_char=1401|end_char=1403
+5	союзниками	союзник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	xcomp	_	start_char=1404|end_char=1414
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1414|end_char=1415
+7	ни	ни	CCONJ	_	Polarity=Neg	8	cc	_	start_char=1416|end_char=1418
+8	противниками	противник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	conj	_	start_char=1419|end_char=1431
+9	повелителей	повелитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=1432|end_char=1443
+10	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	start_char=1444|end_char=1451
+11	...	...	PUNCT	_	_	3	punct	_	start_char=1451|end_char=1454
+
+# text = – Романадворатрелундар, вы рассуждаете прямо как Леди-Президент Галлифрея!
+# sent_id = 23
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1455|end_char=1456
+2	Романадворатрелундар	Романадворатрелундар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	5	vocative	_	start_char=1457|end_char=1477
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1477|end_char=1478
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=1479|end_char=1481
+5	рассуждаете	рассуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1482|end_char=1493
+6	прямо	прямо	PART	_	_	8	advmod	_	start_char=1494|end_char=1499
+7	как	как	SCONJ	_	_	8	case	_	start_char=1500|end_char=1503
+8	Леди-Президент	леди-президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	obl	_	start_char=1504|end_char=1518
+9	Галлифрея	Галлифрей	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	8	nmod	_	start_char=1519|end_char=1528
+10	!	!	PUNCT	_	_	5	punct	_	start_char=1528|end_char=1529
+
+# text = – Доктор преувеличенно-испуганно отшатнулся от Романы.
+# sent_id = 24
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1530|end_char=1531
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1532|end_char=1538
+3	преувеличенно	преувеличенно	ADV	_	Degree=Pos	6	advmod	_	start_char=1539|end_char=1552
+4	-	-	PUNCT	_	_	5	punct	_	start_char=1552|end_char=1553
+5	испуганно	испуганно	ADV	_	Degree=Pos	3	conj	_	start_char=1553|end_char=1562
+6	отшатнулся	отшатнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1563|end_char=1573
+7	от	от	ADP	_	_	8	case	_	start_char=1574|end_char=1576
+8	Романы	роман	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	start_char=1577|end_char=1583
+9	.	.	PUNCT	_	_	6	punct	_	start_char=1583|end_char=1584
+
+# text = – С тобой все хорошо?
+# sent_id = 25
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1585|end_char=1586
+2	С	с	ADP	_	_	3	case	_	start_char=1587|end_char=1588
+3	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	5	obl	_	start_char=1589|end_char=1594
+4	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	nsubj	_	start_char=1595|end_char=1598
+5	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1599|end_char=1605
+6	?	?	PUNCT	_	_	5	punct	_	start_char=1605|end_char=1606
+
+# text = Может, отвезти тебя домой, миссия уже давно выполнена, и Высший Совет неоднократно требовал, чтобы ты вернулась.
+# sent_id = 26
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1607|end_char=1612
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1612|end_char=1613
+3	отвезти	отвезти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1614|end_char=1621
+4	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	_	start_char=1622|end_char=1626
+5	домой	домой	ADV	_	Degree=Pos	3	advmod	_	start_char=1627|end_char=1632
+6	,	,	PUNCT	_	_	10	punct	_	start_char=1632|end_char=1633
+7	миссия	миссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj:pass	_	start_char=1634|end_char=1640
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	start_char=1641|end_char=1644
+9	давно	давно	ADV	_	Degree=Pos	10	advmod	_	start_char=1645|end_char=1650
+10	выполнена	выполнить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	conj	_	start_char=1651|end_char=1660
+11	,	,	PUNCT	_	_	16	punct	_	start_char=1660|end_char=1661
+12	и	и	CCONJ	_	_	16	cc	_	start_char=1662|end_char=1663
+13	Высший	высший	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	14	amod	_	start_char=1664|end_char=1670
+14	Совет	совет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=1671|end_char=1676
+15	неоднократно	неоднократно	ADV	_	Degree=Pos	16	advmod	_	start_char=1677|end_char=1689
+16	требовал	требовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1690|end_char=1698
+17	,	,	PUNCT	_	_	20	punct	_	start_char=1698|end_char=1699
+18	чтобы	чтобы	SCONJ	_	Mood=Cnd	20	mark	_	start_char=1700|end_char=1705
+19	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	start_char=1706|end_char=1708
+20	вернулась	вернуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	16	ccomp	_	start_char=1709|end_char=1718
+21	.	.	PUNCT	_	_	3	punct	_	start_char=1718|end_char=1719
+
+# text = – Ну нет, я ещё не до такой степени больна, чтобы пытаться претендовать на столь высокий пост в присутствии самого действующего, хоть и беглого, Лорда-Президента! – усмехнулась Романа, изображая пародию на церемониальный поклон.
+# sent_id = 27
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	11	punct	_	start_char=1720|end_char=1721
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=1722|end_char=1724
+3	нет	нет	PART	_	Polarity=Neg	33	parataxis	_	start_char=1725|end_char=1728
+4	,	,	PUNCT	_	_	11	punct	_	start_char=1728|end_char=1729
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=1730|end_char=1731
+6	ещё	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=1732|end_char=1735
+7	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1736|end_char=1738
+8	до	до	ADP	_	_	10	case	_	start_char=1739|end_char=1741
+9	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	start_char=1742|end_char=1747
+10	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=1748|end_char=1755
+11	больна	больной	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	parataxis	_	start_char=1756|end_char=1762
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1762|end_char=1763
+13	чтобы	чтобы	SCONJ	_	Mood=Cnd	14	mark	_	start_char=1764|end_char=1769
+14	пытаться	пытаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	11	advcl	_	start_char=1770|end_char=1778
+15	претендовать	претендовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=1779|end_char=1791
+16	на	на	ADP	_	_	19	case	_	start_char=1792|end_char=1794
+17	столь	столь	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=1795|end_char=1800
+18	высокий	высокий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=1801|end_char=1808
+19	пост	пост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=1809|end_char=1813
+20	в	в	ADP	_	_	21	case	_	start_char=1814|end_char=1815
+21	присутствии	присутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	start_char=1816|end_char=1827
+22	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	23	det	_	start_char=1828|end_char=1834
+23	действующего	действующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	nmod	_	start_char=1835|end_char=1847
+24	,	,	PUNCT	_	_	27	punct	_	start_char=1847|end_char=1848
+25	хоть	хоть	SCONJ	_	_	27	mark	_	start_char=1849|end_char=1853
+26	и	и	PART	_	_	25	fixed	_	start_char=1854|end_char=1855
+27	беглого	беглый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	conj	_	start_char=1856|end_char=1863
+28	,	,	PUNCT	_	_	27	punct	_	start_char=1863|end_char=1864
+29	Лорда	Лорда	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	21	conj	_	start_char=1865|end_char=1870
+30	-Президента	-Президент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	29	flat:name	_	start_char=1870|end_char=1881
+31	!	!	PUNCT	_	_	33	punct	_	start_char=1881|end_char=1882
+32	–	–	PUNCT	_	_	33	punct	_	start_char=1883|end_char=1884
+33	усмехнулась	усмехнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1885|end_char=1896
+34	Романа	Роман	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	33	obj	_	start_char=1897|end_char=1903
+35	,	,	PUNCT	_	_	36	punct	_	start_char=1903|end_char=1904
+36	изображая	изображать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	33	advcl	_	start_char=1905|end_char=1914
+37	пародию	пародия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	obj	_	start_char=1915|end_char=1922
+38	на	на	ADP	_	_	40	case	_	start_char=1923|end_char=1925
+39	церемониальный	церемониальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	start_char=1926|end_char=1940
+40	поклон	поклон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	36	obl	_	start_char=1941|end_char=1947
+41	.	.	PUNCT	_	_	33	punct	_	start_char=1947|end_char=1948
+
+# text = – И чтобы отказаться от приключений ради просиживания мантии на Галлифрее.
+# sent_id = 28
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1949|end_char=1950
+2	И	и	CCONJ	_	_	4	cc	_	start_char=1951|end_char=1952
+3	чтобы	чтобы	SCONJ	_	Mood=Cnd	4	mark	_	start_char=1953|end_char=1958
+4	отказаться	отказаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	start_char=1959|end_char=1969
+5	от	от	ADP	_	_	6	case	_	start_char=1970|end_char=1972
+6	приключений	приключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	obl	_	start_char=1973|end_char=1984
+7	ради	ради	ADP	_	_	8	case	_	start_char=1985|end_char=1989
+8	просиживания	просиживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=1990|end_char=2002
+9	мантии	мантия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=2003|end_char=2009
+10	на	на	ADP	_	_	11	case	_	start_char=2010|end_char=2012
+11	Галлифрее	Галлифрей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	8	nmod	_	start_char=2013|end_char=2022
+12	.	.	PUNCT	_	_	4	punct	_	start_char=2022|end_char=2023
+
+# text = Ну что, мы летим дальше?
+# sent_id = 29
+# metadata = Название: Золотой век, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562968da00000a7d25ef91e6/1/Zolotoj-vek
+1	Ну	ну	PART	_	_	2	discourse	_	start_char=2024|end_char=2026
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	parataxis	_	start_char=2027|end_char=2030
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2030|end_char=2031
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=2032|end_char=2034
+5	летим	лететь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2035|end_char=2040
+6	дальше	дальше	ADV	_	Degree=Cmp	5	advmod	_	start_char=2041|end_char=2047
+7	?	?	PUNCT	_	_	5	punct	_	start_char=2047|end_char=2048
+

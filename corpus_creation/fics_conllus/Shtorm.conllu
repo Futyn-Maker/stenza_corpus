@@ -1,0 +1,863 @@
+# text = Из неспешного дрейфа по вортексу ТАРДИС внезапно сорвалась в безумный водоворот, потом, судя по всему, где-то материализовалась, но ее продолжало трясти и раскачивать, как будто она была обычным кораблем, а за бортом бушевал шторм.
+# sent_id = 0
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Из	из	ADP	_	_	3	case	_	start_char=0|end_char=2
+2	неспешного	неспешный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=3|end_char=13
+3	дрейфа	дрейфа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	start_char=14|end_char=20
+4	по	по	ADP	_	_	5	case	_	start_char=21|end_char=23
+5	вортексу	вортекс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	start_char=24|end_char=32
+6	ТАРДИС	ТАРДИС	PROPN	_	NameType=Giv|Number=Sing	5	nmod	_	start_char=33|end_char=39
+7	внезапно	внезапно	ADV	_	Degree=Pos	8	advmod	_	start_char=40|end_char=48
+8	сорвалась	сорваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=49|end_char=58
+9	в	в	ADP	_	_	11	case	_	start_char=59|end_char=60
+10	безумный	безумный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=61|end_char=69
+11	водоворот	водоворот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=70|end_char=79
+12	,	,	PUNCT	_	_	20	punct	_	start_char=79|end_char=80
+13	потом	потом	ADV	_	Degree=Pos|PronType=Dem	20	advmod	_	start_char=81|end_char=86
+14	,	,	PUNCT	_	_	17	punct	_	start_char=86|end_char=87
+15	судя	судить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	17	case	_	start_char=88|end_char=92
+16	по	по	ADP	_	_	15	fixed	_	start_char=93|end_char=95
+17	всему	всё	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	20	parataxis	_	start_char=96|end_char=101
+18	,	,	PUNCT	_	_	17	punct	_	start_char=101|end_char=102
+19	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	20	advmod	_	start_char=103|end_char=109
+20	материализовалась	материализоваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=110|end_char=127
+21	,	,	PUNCT	_	_	24	punct	_	start_char=127|end_char=128
+22	но	но	CCONJ	_	_	24	cc	_	start_char=129|end_char=131
+23	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	start_char=132|end_char=134
+24	продолжало	продолжать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=135|end_char=145
+25	трясти	трясти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	start_char=146|end_char=152
+26	и	и	CCONJ	_	_	27	cc	_	start_char=153|end_char=154
+27	раскачивать	раскачивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	conj	_	start_char=155|end_char=166
+28	,	,	PUNCT	_	_	34	punct	_	start_char=166|end_char=167
+29	как	как	SCONJ	_	_	34	mark	_	start_char=168|end_char=171
+30	будто	будто	PART	_	_	29	fixed	_	start_char=172|end_char=177
+31	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	start_char=178|end_char=181
+32	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	cop	_	start_char=182|end_char=186
+33	обычным	обычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	start_char=187|end_char=194
+34	кораблем	корабль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	27	advcl	_	start_char=195|end_char=203
+35	,	,	PUNCT	_	_	39	punct	_	start_char=203|end_char=204
+36	а	а	CCONJ	_	_	39	cc	_	start_char=205|end_char=206
+37	за	за	ADP	_	_	38	case	_	start_char=207|end_char=209
+38	бортом	борт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	39	obl	_	start_char=210|end_char=216
+39	бушевал	бушевать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	conj	_	start_char=217|end_char=224
+40	шторм	шторм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	start_char=225|end_char=230
+41	.	.	PUNCT	_	_	8	punct	_	start_char=230|end_char=231
+
+# text = — Что случилось?
+# sent_id = 1
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=232|end_char=233
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=234|end_char=237
+3	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=238|end_char=247
+4	?	?	PUNCT	_	_	3	punct	_	start_char=247|end_char=248
+
+# text = — почти бодро заглянула в консольную Эми.
+# sent_id = 2
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=249|end_char=250
+2	почти	почти	ADV	_	Degree=Pos	3	advmod	_	start_char=251|end_char=256
+3	бодро	бодро	ADV	_	Degree=Pos	4	advmod	_	start_char=257|end_char=262
+4	заглянула	заглянуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=263|end_char=272
+5	в	в	ADP	_	_	7	case	_	start_char=273|end_char=274
+6	консольную	консольный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=275|end_char=285
+7	Эми	Эми	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	4	obl	_	start_char=286|end_char=289
+8	.	.	PUNCT	_	_	4	punct	_	start_char=289|end_char=290
+
+# text = За ней со страдальческим выражением лица маячил Рори.
+# sent_id = 3
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	За	за	ADP	_	_	2	case	_	start_char=291|end_char=293
+2	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=294|end_char=297
+3	со	со	ADP	_	_	5	case	_	start_char=298|end_char=300
+4	страдальческим	страдальческий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=301|end_char=315
+5	выражением	выражение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	start_char=316|end_char=326
+6	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	start_char=327|end_char=331
+7	маячил	маячить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=332|end_char=338
+8	Рори	Рори	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=339|end_char=343
+9	.	.	PUNCT	_	_	7	punct	_	start_char=343|end_char=344
+
+# text = — Небольшая посадка!
+# sent_id = 4
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=345|end_char=346
+2	Небольшая	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=347|end_char=356
+3	посадка	посадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=357|end_char=364
+4	!	!	PUNCT	_	_	3	punct	_	start_char=364|end_char=365
+
+# text = Совсем крохотная!
+# sent_id = 5
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Совсем	совсем	ADV	_	Degree=Pos	2	advmod	_	start_char=366|end_char=372
+2	крохотная	крохотный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=373|end_char=382
+3	!	!	PUNCT	_	_	2	punct	_	start_char=382|end_char=383
+
+# text = Скоро мы отправимся дальше!
+# sent_id = 6
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Скоро	скоро	ADV	_	Degree=Pos	3	advmod	_	start_char=384|end_char=389
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=390|end_char=392
+3	отправимся	отправиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=393|end_char=403
+4	дальше	дальше	ADV	_	Degree=Cmp	3	advmod	_	start_char=404|end_char=410
+5	!	!	PUNCT	_	_	3	punct	_	start_char=410|end_char=411
+
+# text = — А случилось-то что?
+# sent_id = 7
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=412|end_char=413
+2	А	а	CCONJ	_	_	3	cc	_	start_char=414|end_char=415
+3	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=416|end_char=425
+4	-	-	PUNCT	_	_	5	punct	_	start_char=425|end_char=426
+5	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=426|end_char=428
+6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=429|end_char=432
+7	?	?	PUNCT	_	_	3	punct	_	start_char=432|end_char=433
+
+# text = Почему посадка?
+# sent_id = 8
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	2	advmod	_	start_char=434|end_char=440
+2	посадка	посадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=441|end_char=448
+3	?	?	PUNCT	_	_	2	punct	_	start_char=448|end_char=449
+
+# text = — Не знаю даже, что взбрело ей в голову...
+# sent_id = 9
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=450|end_char=451
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=452|end_char=454
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=455|end_char=459
+4	даже	даже	PART	_	_	3	advmod	_	start_char=460|end_char=464
+5	,	,	PUNCT	_	_	7	punct	_	start_char=464|end_char=465
+6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	start_char=466|end_char=469
+7	взбрело	взбрести	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=470|end_char=477
+8	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	start_char=478|end_char=480
+9	в	в	ADP	_	_	10	case	_	start_char=481|end_char=482
+10	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=483|end_char=489
+11	...	...	PUNCT	_	_	3	punct	_	start_char=489|end_char=492
+
+# text = — Доктор занырнул под консоль.
+# sent_id = 10
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=493|end_char=494
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=495|end_char=501
+3	занырнул	занырнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=502|end_char=510
+4	под	под	ADP	_	_	5	case	_	start_char=511|end_char=514
+5	консоль	консоль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=515|end_char=522
+6	.	.	PUNCT	_	_	3	punct	_	start_char=522|end_char=523
+
+# text = — Сканеры не работают, дверь не открывается!
+# sent_id = 11
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=524|end_char=525
+2	Сканеры	сканер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=526|end_char=533
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=534|end_char=536
+4	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=537|end_char=545
+5	,	,	PUNCT	_	_	8	punct	_	start_char=545|end_char=546
+6	дверь	дверь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=547|end_char=552
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=553|end_char=555
+8	открывается	открываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=556|end_char=567
+9	!	!	PUNCT	_	_	4	punct	_	start_char=567|end_char=568
+
+# text = — А что там за огонек мигает?
+# sent_id = 12
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	7	punct	_	start_char=569|end_char=570
+2	А	а	CCONJ	_	_	7	cc	_	start_char=571|end_char=572
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	nsubj	_	start_char=573|end_char=576
+4	там	там	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=577|end_char=580
+5	за	за	ADP	_	_	6	case	_	start_char=581|end_char=583
+6	огонек	огонек	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=584|end_char=590
+7	мигает	мигать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=591|end_char=597
+8	?	?	PUNCT	_	_	7	punct	_	start_char=597|end_char=598
+
+# text = — Где?
+# sent_id = 13
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=599|end_char=600
+2	Где	где	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=601|end_char=604
+3	?	?	PUNCT	_	_	2	punct	_	start_char=604|end_char=605
+
+# text = — Ну вот там, на консоли, я со своей стороны его вижу...
+# sent_id = 14
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	14	punct	_	start_char=606|end_char=607
+2	Ну	ну	PART	_	_	14	discourse	_	start_char=608|end_char=610
+3	вот	вот	PART	_	_	4	advmod	_	start_char=611|end_char=614
+4	там	там	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=615|end_char=618
+5	,	,	PUNCT	_	_	7	punct	_	start_char=618|end_char=619
+6	на	на	ADP	_	_	7	case	_	start_char=620|end_char=622
+7	консоли	консоль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	conj	_	start_char=623|end_char=630
+8	,	,	PUNCT	_	_	7	punct	_	start_char=630|end_char=631
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=632|end_char=633
+10	со	со	ADP	_	_	12	case	_	start_char=634|end_char=636
+11	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=637|end_char=642
+12	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obl	_	start_char=643|end_char=650
+13	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=651|end_char=654
+14	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=655|end_char=659
+15	...	...	PUNCT	_	_	14	punct	_	start_char=659|end_char=662
+
+# text = Доктор вынырнул из-под консоли с указанной стороны.
+# sent_id = 15
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=663|end_char=669
+2	вынырнул	вынырнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=670|end_char=678
+3	из-под	из-под	ADP	_	_	4	case	_	start_char=679|end_char=685
+4	консоли	консоль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	start_char=686|end_char=693
+5	с	с	ADP	_	_	7	case	_	start_char=694|end_char=695
+6	указанной	указать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	start_char=696|end_char=705
+7	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	start_char=706|end_char=713
+8	.	.	PUNCT	_	_	2	punct	_	start_char=713|end_char=714
+
+# text = — Мы передаем какой-то сигнал.
+# sent_id = 16
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=715|end_char=716
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=717|end_char=719
+3	передаем	передать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=720|end_char=728
+4	какой-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	start_char=729|end_char=737
+5	сигнал	сигнал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=738|end_char=744
+6	.	.	PUNCT	_	_	3	punct	_	start_char=744|end_char=745
+
+# text = Куда?
+# sent_id = 17
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Куда	куда	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=746|end_char=750
+2	?	?	PUNCT	_	_	1	punct	_	start_char=750|end_char=751
+
+# text = Кому?
+# sent_id = 18
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=752|end_char=756
+2	?	?	PUNCT	_	_	1	punct	_	start_char=756|end_char=757
+
+# text = Зачем?
+# sent_id = 19
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Зачем	зачем	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=758|end_char=763
+2	?	?	PUNCT	_	_	1	punct	_	start_char=763|end_char=764
+
+# text = — Доктор дернул какой-то рычаг, легко пристукнул по консоли.
+# sent_id = 20
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=765|end_char=766
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=767|end_char=773
+3	дернул	дернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=774|end_char=780
+4	какой-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	start_char=781|end_char=789
+5	рычаг	рычага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=790|end_char=795
+6	,	,	PUNCT	_	_	8	punct	_	start_char=795|end_char=796
+7	легко	легко	ADV	_	Degree=Pos	8	advmod	_	start_char=797|end_char=802
+8	пристукнул	пристукнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=803|end_char=813
+9	по	по	ADP	_	_	10	case	_	start_char=814|end_char=816
+10	консоли	консоль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	start_char=817|end_char=824
+11	.	.	PUNCT	_	_	3	punct	_	start_char=824|end_char=825
+
+# text = — Ну же!
+# sent_id = 21
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=826|end_char=827
+2	Ну	ну	PART	_	_	0	root	_	start_char=828|end_char=830
+3	же	же	PART	_	_	2	advmod	_	start_char=831|end_char=833
+4	!	!	PUNCT	_	_	2	punct	_	start_char=833|end_char=834
+
+# text = Включился сканер, но видны были одни помехи, волнами пробегающие по экрану.
+# sent_id = 22
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Включился	включиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=835|end_char=844
+2	сканер	сканнер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=845|end_char=851
+3	,	,	PUNCT	_	_	5	punct	_	start_char=851|end_char=852
+4	но	но	CCONJ	_	_	5	cc	_	start_char=853|end_char=855
+5	видны	видный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	1	conj	_	start_char=856|end_char=861
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=862|end_char=866
+7	одни	один	DET	_	Case=Nom|Number=Plur|PronType=Ind	8	det	_	start_char=867|end_char=871
+8	помехи	помеха	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=872|end_char=878
+9	,	,	PUNCT	_	_	11	punct	_	start_char=878|end_char=879
+10	волнами	волна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	obl:agent	_	start_char=880|end_char=887
+11	пробегающие	пробегать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	start_char=888|end_char=899
+12	по	по	ADP	_	_	13	case	_	start_char=900|end_char=902
+13	экрану	экран	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obl	_	start_char=903|end_char=909
+14	.	.	PUNCT	_	_	1	punct	_	start_char=909|end_char=910
+
+# text = — Фотонный шторм!
+# sent_id = 23
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=911|end_char=912
+2	Фотонный	фотонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=913|end_char=921
+3	шторм	шторм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=922|end_char=927
+4	!	!	PUNCT	_	_	3	punct	_	start_char=927|end_char=928
+
+# text = — радостно воскликнул Доктор, наблюдая за помехами.
+# sent_id = 24
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=929|end_char=930
+2	радостно	радостно	ADV	_	Degree=Pos	3	advmod	_	start_char=931|end_char=939
+3	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=940|end_char=950
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=951|end_char=957
+5	,	,	PUNCT	_	_	6	punct	_	start_char=957|end_char=958
+6	наблюдая	наблюдать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=959|end_char=967
+7	за	за	ADP	_	_	8	case	_	start_char=968|end_char=970
+8	помехами	помеха	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	obl	_	start_char=971|end_char=979
+9	.	.	PUNCT	_	_	3	punct	_	start_char=979|end_char=980
+
+# text = — Но зачем ТАРДИС здесь остановилась, он же ничего нам не сделает!
+# sent_id = 25
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	6	punct	_	start_char=981|end_char=982
+2	Но	но	CCONJ	_	_	6	cc	_	start_char=983|end_char=985
+3	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=986|end_char=991
+4	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=992|end_char=998
+5	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=999|end_char=1004
+6	остановилась	остановиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1005|end_char=1017
+7	,	,	PUNCT	_	_	13	punct	_	start_char=1017|end_char=1018
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=1019|end_char=1021
+9	же	же	PART	_	_	8	advmod	_	start_char=1022|end_char=1024
+10	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	13	obj	_	start_char=1025|end_char=1031
+11	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	13	iobj	_	start_char=1032|end_char=1035
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1036|end_char=1038
+13	сделает	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	start_char=1039|end_char=1046
+14	!	!	PUNCT	_	_	6	punct	_	start_char=1046|end_char=1047
+
+# text = — Астероид прямо по курсу!
+# sent_id = 26
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1048|end_char=1049
+2	Астероид	астероида	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1050|end_char=1058
+3	прямо	прямо	PART	_	_	5	advmod	_	start_char=1059|end_char=1064
+4	по	по	ADP	_	_	5	case	_	start_char=1065|end_char=1067
+5	курсу	курс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	start_char=1068|end_char=1073
+6	!	!	PUNCT	_	_	2	punct	_	start_char=1073|end_char=1074
+
+# text = — прорезался чей-то голос сквозь белый шум и невнятные, но явно испуганные, вскрики.
+# sent_id = 27
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1075|end_char=1076
+2	прорезался	прорезаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1077|end_char=1087
+3	чей-то	чей-то	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	start_char=1088|end_char=1094
+4	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1095|end_char=1100
+5	сквозь	сквозь	ADP	_	_	7	case	_	start_char=1101|end_char=1107
+6	белый	белый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1108|end_char=1113
+7	шум	шум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1114|end_char=1117
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1118|end_char=1119
+9	невнятные	невнятный	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=1120|end_char=1129
+10	,	,	PUNCT	_	_	13	punct	_	start_char=1129|end_char=1130
+11	но	но	CCONJ	_	_	13	cc	_	start_char=1131|end_char=1133
+12	явно	явно	ADV	_	Degree=Pos	13	advmod	_	start_char=1134|end_char=1138
+13	испуганные	испуганный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	conj	_	start_char=1139|end_char=1149
+14	,	,	PUNCT	_	_	15	punct	_	start_char=1149|end_char=1150
+15	вскрики	вскрик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	start_char=1151|end_char=1158
+16	.	.	PUNCT	_	_	2	punct	_	start_char=1158|end_char=1159
+
+# text = — Оттуда идет предупреждение и... маяк, смотрите, маяк!
+# sent_id = 28
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1160|end_char=1161
+2	Оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1162|end_char=1168
+3	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1169|end_char=1173
+4	предупреждение	предупреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=1174|end_char=1188
+5	и	и	CCONJ	_	_	9	cc	_	start_char=1189|end_char=1190
+6	...	...	PUNCT	_	_	7	punct	_	start_char=1190|end_char=1193
+7	маяк	маяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	vocative	_	start_char=1194|end_char=1198
+8	,	,	PUNCT	_	_	7	punct	_	start_char=1198|end_char=1199
+9	смотрите	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1200|end_char=1208
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1208|end_char=1209
+11	маяк	маяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	vocative	_	start_char=1210|end_char=1214
+12	!	!	PUNCT	_	_	3	punct	_	start_char=1214|end_char=1215
+
+# text = — проявился чуть более понятный второй голос.
+# sent_id = 29
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1216|end_char=1217
+2	проявился	проявиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1218|end_char=1227
+3	чуть	чуть	ADV	_	Degree=Pos	4	advmod	_	start_char=1228|end_char=1232
+4	более	более	ADV	_	Degree=Cmp|PronType=Tot	5	advmod	_	start_char=1233|end_char=1238
+5	понятный	понятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=1239|end_char=1247
+6	второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	7	amod	_	start_char=1248|end_char=1254
+7	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1255|end_char=1260
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1260|end_char=1261
+
+# text = — Маяк?
+# sent_id = 30
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1262|end_char=1263
+2	Маяк	маяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1264|end_char=1268
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1268|end_char=1269
+
+# text = — удивленно переспросила Эми.
+# sent_id = 31
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1270|end_char=1271
+2	удивленно	удивленно	ADV	_	Degree=Pos	3	advmod	_	start_char=1272|end_char=1281
+3	переспросила	переспросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1282|end_char=1294
+4	Эми	Эми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1295|end_char=1298
+5	.	.	PUNCT	_	_	3	punct	_	start_char=1298|end_char=1299
+
+# text = — Лево руля!
+# sent_id = 32
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1300|end_char=1301
+2	Лево	левый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=1302|end_char=1306
+3	руля	руль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=1307|end_char=1311
+4	!	!	PUNCT	_	_	3	punct	_	start_char=1311|end_char=1312
+
+# text = Разогреть левый реактивный, приготовиться к трехсекундному маневру!
+# sent_id = 33
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Разогреть	разогреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1313|end_char=1322
+2	левый	левый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=1323|end_char=1328
+3	реактивный	реактивный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	obj	_	start_char=1329|end_char=1339
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1339|end_char=1340
+5	приготовиться	приготовиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	conj	_	start_char=1341|end_char=1354
+6	к	к	ADP	_	_	8	case	_	start_char=1355|end_char=1356
+7	трехсекундному	трехсекундный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=1357|end_char=1371
+8	маневру	маневр	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	obl	_	start_char=1372|end_char=1379
+9	!	!	PUNCT	_	_	1	punct	_	start_char=1379|end_char=1380
+
+# text = — Мы не успеваем, нас несет на астероид!
+# sent_id = 34
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=1381|end_char=1382
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=1383|end_char=1385
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1386|end_char=1388
+4	успеваем	успевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1389|end_char=1397
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1397|end_char=1398
+6	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	obj	_	start_char=1399|end_char=1402
+7	несет	нести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1403|end_char=1408
+8	на	на	ADP	_	_	9	case	_	start_char=1409|end_char=1411
+9	астероид	астероида	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=1412|end_char=1420
+10	!	!	PUNCT	_	_	4	punct	_	start_char=1420|end_char=1421
+
+# text = — Нижний правый парус сложить!
+# sent_id = 35
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	5	punct	_	start_char=1422|end_char=1423
+2	Нижний	нижний	ADJ	_	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1424|end_char=1430
+3	правый	правый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1431|end_char=1437
+4	парус	парус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1438|end_char=1443
+5	сложить	сложить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=1444|end_char=1451
+6	!	!	PUNCT	_	_	5	punct	_	start_char=1451|end_char=1452
+
+# text = — Есть!
+# sent_id = 36
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1453|end_char=1454
+2	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1455|end_char=1459
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1459|end_char=1460
+
+# text = — Шторм почти прошел, но...
+# sent_id = 37
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=1461|end_char=1462
+2	Шторм	Шторм	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	4	nsubj	_	start_char=1463|end_char=1468
+3	почти	почти	ADV	_	Degree=Pos	4	advmod	_	start_char=1469|end_char=1474
+4	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1475|end_char=1481
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1481|end_char=1482
+6	но	но	CCONJ	_	_	4	cc	_	start_char=1483|end_char=1485
+7	...	...	PUNCT	_	_	4	punct	_	start_char=1485|end_char=1488
+
+# text = — Доктор вихрем промчался вокруг консоли.
+# sent_id = 38
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=1489|end_char=1490
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1491|end_char=1497
+3	вихрем	вихрем	ADV	_	Degree=Pos	4	advmod	_	start_char=1498|end_char=1504
+4	промчался	промчаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1505|end_char=1514
+5	вокруг	вокруг	ADP	_	_	6	case	_	start_char=1515|end_char=1521
+6	консоли	консоль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=1522|end_char=1529
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1529|end_char=1530
+
+# text = — Я должен как-то помочь...
+# sent_id = 39
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1531|end_char=1532
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=1533|end_char=1534
+3	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1535|end_char=1541
+4	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=1542|end_char=1548
+5	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1549|end_char=1555
+6	...	...	PUNCT	_	_	3	punct	_	start_char=1555|end_char=1558
+
+# text = Ну же, начинай работать!
+# sent_id = 40
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Ну	ну	PART	_	_	4	discourse	_	start_char=1559|end_char=1561
+2	же	же	PART	_	_	1	advmod	_	start_char=1562|end_char=1564
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1564|end_char=1565
+4	начинай	начинать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1566|end_char=1573
+5	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1574|end_char=1582
+6	!	!	PUNCT	_	_	4	punct	_	start_char=1582|end_char=1583
+
+# text = Дверь скрипнула, чуть приоткрывшись.
+# sent_id = 41
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Дверь	дверь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1584|end_char=1589
+2	скрипнула	скрипнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1590|end_char=1599
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1599|end_char=1600
+4	чуть	чуть	ADV	_	Degree=Pos	5	advmod	_	start_char=1601|end_char=1605
+5	приоткрывшись	приоткрываться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=1606|end_char=1619
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1619|end_char=1620
+
+# text = Все бросились к ней и распахнули — почти в открытый космос, если бы на них не несся, трепеща серебряными парусами на фоне черноты с булавочными уколами звезд, корабль.
+# sent_id = 42
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	2	nsubj	_	start_char=1621|end_char=1624
+2	бросились	броситься	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1625|end_char=1634
+3	к	к	ADP	_	_	4	case	_	start_char=1635|end_char=1636
+4	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=1637|end_char=1640
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1641|end_char=1642
+6	распахнули	распахнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1643|end_char=1653
+7	—	—	PUNCT	_	_	11	punct	_	start_char=1654|end_char=1655
+8	почти	почти	ADV	_	Degree=Pos	11	advmod	_	start_char=1656|end_char=1661
+9	в	в	ADP	_	_	11	case	_	start_char=1662|end_char=1663
+10	открытый	открытый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=1664|end_char=1672
+11	космос	космос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=1673|end_char=1679
+12	,	,	PUNCT	_	_	18	punct	_	start_char=1679|end_char=1680
+13	если	если	SCONJ	_	_	18	mark	_	start_char=1681|end_char=1685
+14	бы	бы	AUX	_	Mood=Cnd	18	aux	_	start_char=1686|end_char=1688
+15	на	на	ADP	_	_	16	case	_	start_char=1689|end_char=1691
+16	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	18	obl	_	start_char=1692|end_char=1695
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=1696|end_char=1698
+18	несся	нести	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	advcl	_	start_char=1699|end_char=1704
+19	,	,	PUNCT	_	_	20	punct	_	start_char=1704|end_char=1705
+20	трепеща	трепить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	18	advcl	_	start_char=1706|end_char=1713
+21	серебряными	серебряный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	start_char=1714|end_char=1725
+22	парусами	парус	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	20	iobj	_	start_char=1726|end_char=1734
+23	на	на	ADP	_	_	24	case	_	start_char=1735|end_char=1737
+24	фоне	фон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	start_char=1738|end_char=1742
+25	черноты	чернота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	start_char=1743|end_char=1750
+26	с	с	ADP	_	_	28	case	_	start_char=1751|end_char=1752
+27	булавочными	булавочный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	28	amod	_	start_char=1753|end_char=1764
+28	уколами	укол	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	25	nmod	_	start_char=1765|end_char=1772
+29	звезд	звезда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	start_char=1773|end_char=1778
+30	,	,	PUNCT	_	_	31	punct	_	start_char=1778|end_char=1779
+31	корабль	корабль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=1780|end_char=1787
+32	.	.	PUNCT	_	_	2	punct	_	start_char=1787|end_char=1788
+
+# text = По его парусам проскакивал отблеск какого-то теплого, желтого света.
+# sent_id = 43
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	По	по	ADP	_	_	3	case	_	start_char=1789|end_char=1791
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=1792|end_char=1795
+3	парусам	парус	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obl	_	start_char=1796|end_char=1803
+4	проскакивал	проскакивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1804|end_char=1815
+5	отблеск	отблеск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1816|end_char=1823
+6	какого-то	какой-то	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	10	det	_	start_char=1824|end_char=1833
+7	теплого	теплый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=1834|end_char=1841
+8	,	,	PUNCT	_	_	9	punct	_	start_char=1841|end_char=1842
+9	желтого	желтый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	start_char=1843|end_char=1850
+10	света	свет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=1851|end_char=1856
+11	.	.	PUNCT	_	_	4	punct	_	start_char=1856|end_char=1857
+
+# text = — Что это?
+# sent_id = 44
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1858|end_char=1859
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1860|end_char=1863
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=1864|end_char=1867
+4	?	?	PUNCT	_	_	2	punct	_	start_char=1867|end_char=1868
+
+# text = — пораженно выдохнула Эми.
+# sent_id = 45
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=1869|end_char=1870
+2	пораженно	пораженно	ADV	_	Degree=Pos	3	advmod	_	start_char=1871|end_char=1880
+3	выдохнула	выдохнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1881|end_char=1890
+4	Эми	Эми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1891|end_char=1894
+5	.	.	PUNCT	_	_	3	punct	_	start_char=1894|end_char=1895
+
+# text = — Корабль.
+# sent_id = 46
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=1896|end_char=1897
+2	Корабль	корабль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1898|end_char=1905
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1905|end_char=1906
+
+# text = Космический корабль на солнечных парусах.
+# sent_id = 47
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Космический	космический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=1907|end_char=1918
+2	корабль	корабль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1919|end_char=1926
+3	на	на	ADP	_	_	5	case	_	start_char=1927|end_char=1929
+4	солнечных	солнечный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	amod	_	start_char=1930|end_char=1939
+5	парусах	парус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	nmod	_	start_char=1940|end_char=1947
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1947|end_char=1948
+
+# text = И если он не поменяет курс, он станет грудой обломков прямо на этом астероиде!
+# sent_id = 48
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	И	и	CCONJ	_	_	9	cc	_	start_char=1949|end_char=1950
+2	если	если	SCONJ	_	_	5	mark	_	start_char=1951|end_char=1955
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1956|end_char=1958
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1959|end_char=1961
+5	поменяет	поменять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=1962|end_char=1970
+6	курс	курс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1971|end_char=1975
+7	,	,	PUNCT	_	_	5	punct	_	start_char=1975|end_char=1976
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=1977|end_char=1979
+9	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1980|end_char=1986
+10	грудой	груда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	xcomp	_	start_char=1987|end_char=1993
+11	обломков	обломка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	start_char=1994|end_char=2002
+12	прямо	прямо	PART	_	_	15	advmod	_	start_char=2003|end_char=2008
+13	на	на	ADP	_	_	15	case	_	start_char=2009|end_char=2011
+14	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	start_char=2012|end_char=2016
+15	астероиде	астероида	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	start_char=2017|end_char=2026
+16	!	!	PUNCT	_	_	9	punct	_	start_char=2026|end_char=2027
+
+# text = Корабль начал складывать еще один парус, но медленно, мучительно медленно по сравнению со скоростью приближения к астероиду.
+# sent_id = 49
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Корабль	корабль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2028|end_char=2035
+2	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2036|end_char=2041
+3	складывать	складывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2042|end_char=2052
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=2053|end_char=2056
+5	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=2057|end_char=2061
+6	парус	парус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2062|end_char=2067
+7	,	,	PUNCT	_	_	12	punct	_	start_char=2067|end_char=2068
+8	но	но	CCONJ	_	_	12	cc	_	start_char=2069|end_char=2071
+9	медленно	медленно	ADV	_	Degree=Pos	12	advmod	_	start_char=2072|end_char=2080
+10	,	,	PUNCT	_	_	12	punct	_	start_char=2080|end_char=2081
+11	мучительно	мучительно	ADV	_	Degree=Pos	9	conj	_	start_char=2082|end_char=2092
+12	медленно	медленно	ADV	_	Degree=Pos	3	conj	_	start_char=2093|end_char=2101
+13	по	по	ADP	_	_	16	case	_	start_char=2102|end_char=2104
+14	сравнению	сравнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	fixed	_	start_char=2105|end_char=2114
+15	со	со	ADP	_	_	13	fixed	_	start_char=2115|end_char=2117
+16	скоростью	скорость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	start_char=2118|end_char=2127
+17	приближения	приближение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	start_char=2128|end_char=2139
+18	к	к	ADP	_	_	19	case	_	start_char=2140|end_char=2141
+19	астероиду	астероида	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	nmod	_	start_char=2142|end_char=2151
+20	.	.	PUNCT	_	_	2	punct	_	start_char=2151|end_char=2152
+
+# text = От сканера снова послышались испуганные вскрики, перекрываемые спокойным голосом капитана, отдающего какие-то уже бесполезные команды, и тут в ТАРДИС мигнул свет, и одновременно яркий, белый до синевы луч уперся в один из парусов корабля.
+# sent_id = 50
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	От	от	ADP	_	_	2	case	_	start_char=2153|end_char=2155
+2	сканера	сканер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	start_char=2156|end_char=2163
+3	снова	снова	ADV	_	Degree=Pos	4	advmod	_	start_char=2164|end_char=2169
+4	послышались	послышаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2170|end_char=2181
+5	испуганные	испуганный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	start_char=2182|end_char=2192
+6	вскрики	вскрик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=2193|end_char=2200
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2200|end_char=2201
+8	перекрываемые	перекрывать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	start_char=2202|end_char=2215
+9	спокойным	спокойный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=2216|end_char=2225
+10	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	_	start_char=2226|end_char=2233
+11	капитана	капитан	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=2234|end_char=2242
+12	,	,	PUNCT	_	_	13	punct	_	start_char=2242|end_char=2243
+13	отдающего	отдавать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	start_char=2244|end_char=2253
+14	какие-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Ind	17	det	_	start_char=2254|end_char=2262
+15	уже	уже	ADV	_	Degree=Pos	16	advmod	_	start_char=2263|end_char=2266
+16	бесполезные	бесполезный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	start_char=2267|end_char=2278
+17	команды	команда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obj	_	start_char=2279|end_char=2286
+18	,	,	PUNCT	_	_	23	punct	_	start_char=2286|end_char=2287
+19	и	и	CCONJ	_	_	23	cc	_	start_char=2288|end_char=2289
+20	тут	тут	ADV	_	Degree=Pos|PronType=Dem	23	advmod	_	start_char=2290|end_char=2293
+21	в	в	ADP	_	_	22	case	_	start_char=2294|end_char=2295
+22	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|NameType=Com|Number=Sing	23	obl	_	start_char=2296|end_char=2302
+23	мигнул	мигнуть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2303|end_char=2309
+24	свет	свет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obj	_	start_char=2310|end_char=2314
+25	,	,	PUNCT	_	_	34	punct	_	start_char=2314|end_char=2315
+26	и	и	CCONJ	_	_	34	cc	_	start_char=2316|end_char=2317
+27	одновременно	одновременно	ADV	_	Degree=Pos	34	advmod	_	start_char=2318|end_char=2330
+28	яркий	яркий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	start_char=2331|end_char=2336
+29	,	,	PUNCT	_	_	30	punct	_	start_char=2336|end_char=2337
+30	белый	белый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	conj	_	start_char=2338|end_char=2343
+31	до	до	ADP	_	_	32	case	_	start_char=2344|end_char=2346
+32	синевы	синева	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	obl	_	start_char=2347|end_char=2353
+33	луч	луч	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	start_char=2354|end_char=2357
+34	уперся	упереться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	23	conj	_	start_char=2358|end_char=2364
+35	в	в	ADP	_	_	36	case	_	start_char=2365|end_char=2366
+36	один	один	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	34	obl	_	start_char=2367|end_char=2371
+37	из	из	ADP	_	_	38	case	_	start_char=2372|end_char=2374
+38	парусов	парус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	start_char=2375|end_char=2382
+39	корабля	корабль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	start_char=2383|end_char=2390
+40	.	.	PUNCT	_	_	4	punct	_	start_char=2390|end_char=2391
+
+# text = Тот вздрогнул, резко заваливаясь на бок.
+# sent_id = 51
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	start_char=2392|end_char=2395
+2	вздрогнул	вздрогнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2396|end_char=2405
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2405|end_char=2406
+4	резко	резко	ADV	_	Degree=Pos	5	advmod	_	start_char=2407|end_char=2412
+5	заваливаясь	заваливаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=2413|end_char=2424
+6	на	на	ADP	_	_	7	case	_	start_char=2425|end_char=2427
+7	бок	бок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=2428|end_char=2431
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2431|end_char=2432
+
+# text = — Да!
+# sent_id = 52
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2433|end_char=2434
+2	Да	да	PART	_	_	0	root	_	start_char=2435|end_char=2437
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2437|end_char=2438
+
+# text = — радостно воскликнул Доктор, подскакивая на месте.
+# sent_id = 53
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2439|end_char=2440
+2	радостно	радостно	ADV	_	Degree=Pos	3	advmod	_	start_char=2441|end_char=2449
+3	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2450|end_char=2460
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2461|end_char=2467
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2467|end_char=2468
+6	подскакивая	подскакивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=2469|end_char=2480
+7	на	на	ADP	_	_	8	case	_	start_char=2481|end_char=2483
+8	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=2484|end_char=2489
+9	.	.	PUNCT	_	_	3	punct	_	start_char=2489|end_char=2490
+
+# text = — Ты у меня умница!
+# sent_id = 54
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2491|end_char=2492
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=2493|end_char=2495
+3	у	у	ADP	_	_	4	case	_	start_char=2496|end_char=2497
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=2498|end_char=2502
+5	умница	умница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=2503|end_char=2509
+6	!	!	PUNCT	_	_	4	punct	_	start_char=2509|end_char=2510
+
+# text = "Они живые", — пронеслось едва слышным даже для уха таймлорда шепотом по ТАРДИС.
+# sent_id = 55
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	"	"	PUNCT	_	_	3	punct	_	start_char=2511|end_char=2512
+2	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=2512|end_char=2515
+3	живые	живой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=2516|end_char=2521
+4	"	"	PUNCT	_	_	3	punct	_	start_char=2521|end_char=2522
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2522|end_char=2523
+6	—	—	PUNCT	_	_	7	punct	_	start_char=2524|end_char=2525
+7	пронеслось	пронестись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=2526|end_char=2536
+8	едва	едва	ADV	_	Degree=Pos	9	advmod	_	start_char=2537|end_char=2541
+9	слышным	слышновать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	_	start_char=2542|end_char=2549
+10	даже	даже	PART	_	_	12	advmod	_	start_char=2550|end_char=2554
+11	для	для	ADP	_	_	12	case	_	start_char=2555|end_char=2558
+12	уха	ухо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	start_char=2559|end_char=2562
+13	таймлорда	таймлорд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=2563|end_char=2572
+14	шепотом	шепот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	iobj	_	start_char=2573|end_char=2580
+15	по	по	ADP	_	_	16	case	_	start_char=2581|end_char=2583
+16	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	14	nmod	_	start_char=2584|end_char=2590
+17	.	.	PUNCT	_	_	3	punct	_	start_char=2590|end_char=2591
+
+# text = — Я? — удивилась Эми, потом посмотрела, откуда шел луч — от фонаря на крыше.
+# sent_id = 56
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2592|end_char=2593
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=2594|end_char=2595
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2595|end_char=2596
+4	—	—	PUNCT	_	_	5	punct	_	start_char=2597|end_char=2598
+5	удивилась	удивиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=2599|end_char=2608
+6	Эми	Эми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	nsubj	_	start_char=2609|end_char=2612
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2612|end_char=2613
+8	потом	потом	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=2614|end_char=2619
+9	посмотрела	посмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2620|end_char=2630
+10	,	,	PUNCT	_	_	12	punct	_	start_char=2630|end_char=2631
+11	откуда	откуда	ADV	_	Degree=Pos|PronType=Rel	12	advmod	_	start_char=2632|end_char=2638
+12	шел	идти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	start_char=2639|end_char=2642
+13	луч	луч	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=2643|end_char=2646
+14	—	—	PUNCT	_	_	16	punct	_	start_char=2647|end_char=2648
+15	от	от	ADP	_	_	16	case	_	start_char=2649|end_char=2651
+16	фонаря	фонарь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	start_char=2652|end_char=2658
+17	на	на	ADP	_	_	18	case	_	start_char=2659|end_char=2661
+18	крыше	крыша	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	start_char=2662|end_char=2667
+19	.	.	PUNCT	_	_	2	punct	_	start_char=2667|end_char=2668
+
+# text = — Это она, — подтвердил и Рори.
+# sent_id = 57
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	3	punct	_	start_char=2669|end_char=2670
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2671|end_char=2674
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=2675|end_char=2678
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2678|end_char=2679
+5	—	—	PUNCT	_	_	6	punct	_	start_char=2680|end_char=2681
+6	подтвердил	подтвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2682|end_char=2692
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2693|end_char=2694
+8	Рори	Рори	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=2695|end_char=2699
+9	.	.	PUNCT	_	_	3	punct	_	start_char=2699|end_char=2700
+
+# text = Звездолет уже почти миновал астероид и начал расправлять убранные паруса.
+# sent_id = 58
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Звездолет	звездолет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2701|end_char=2710
+2	уже	уже	ADV	_	Degree=Pos	3	advmod	_	start_char=2711|end_char=2714
+3	почти	почти	ADV	_	Degree=Pos	4	advmod	_	start_char=2715|end_char=2720
+4	миновал	миновать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2721|end_char=2728
+5	астероид	астероида	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=2729|end_char=2737
+6	и	и	CCONJ	_	_	7	cc	_	start_char=2738|end_char=2739
+7	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2740|end_char=2745
+8	расправлять	расправлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=2746|end_char=2757
+9	убранные	убрать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	start_char=2758|end_char=2766
+10	паруса	парус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=2767|end_char=2773
+11	.	.	PUNCT	_	_	4	punct	_	start_char=2773|end_char=2774
+
+# text = Между огромных сияющих полотнищ промелькнула крохотная обтекаемая гондола — собственно корабль с людьми.
+# sent_id = 59
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Между	между	ADP	_	_	4	case	_	start_char=2775|end_char=2780
+2	огромных	огромный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=2781|end_char=2789
+3	сияющих	сияющий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=2790|end_char=2797
+4	полотнищ	полотнищ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	obl	_	start_char=2798|end_char=2806
+5	промелькнула	промелькнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2807|end_char=2819
+6	крохотная	крохотный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=2820|end_char=2829
+7	обтекаемая	обтекать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	start_char=2830|end_char=2840
+8	гондола	гондол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=2841|end_char=2848
+9	—	—	PUNCT	_	_	11	punct	_	start_char=2849|end_char=2850
+10	собственно	собственно	ADV	_	Degree=Pos	11	advmod	_	start_char=2851|end_char=2861
+11	корабль	корабль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	parataxis	_	start_char=2862|end_char=2869
+12	с	с	ADP	_	_	13	case	_	start_char=2870|end_char=2871
+13	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	start_char=2872|end_char=2878
+14	.	.	PUNCT	_	_	5	punct	_	start_char=2878|end_char=2879
+
+# text = — Ур-р-а!
+# sent_id = 60
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2880|end_char=2881
+2	Ур-р-а	ур-р-а	INTJ	_	_	0	root	_	start_char=2882|end_char=2888
+3	!	!	PUNCT	_	_	2	punct	_	start_char=2888|end_char=2889
+
+# text = — Эми радостно повисла на шее мужа.
+# sent_id = 61
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2890|end_char=2891
+2	Эми	Эми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=2892|end_char=2895
+3	радостно	радостно	ADV	_	Degree=Pos	4	advmod	_	start_char=2896|end_char=2904
+4	повисла	повиснуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2905|end_char=2912
+5	на	на	ADP	_	_	6	case	_	start_char=2913|end_char=2915
+6	шее	шея	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=2916|end_char=2919
+7	мужа	муж	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	obj	_	start_char=2920|end_char=2924
+8	.	.	PUNCT	_	_	4	punct	_	start_char=2924|end_char=2925
+
+# text = — Доктор, а это были какие-то особенные люди?
+# sent_id = 62
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	2	punct	_	start_char=2926|end_char=2927
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2928|end_char=2934
+3	,	,	PUNCT	_	_	9	punct	_	start_char=2934|end_char=2935
+4	а	а	CCONJ	_	_	9	cc	_	start_char=2936|end_char=2937
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=2938|end_char=2941
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=2942|end_char=2946
+7	какие-то	какой-то	DET	_	Case=Nom|Number=Plur|PronType=Ind	9	det	_	start_char=2947|end_char=2955
+8	особенные	особенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	start_char=2956|end_char=2965
+9	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	start_char=2966|end_char=2970
+10	?	?	PUNCT	_	_	2	punct	_	start_char=2970|end_char=2971
+
+# text = Как фиксированная точка?
+# sent_id = 63
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	2	advmod	_	start_char=2972|end_char=2975
+2	фиксированная	фиксировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	start_char=2976|end_char=2989
+3	точка	точка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2990|end_char=2995
+4	?	?	PUNCT	_	_	3	punct	_	start_char=2995|end_char=2996
+
+# text = — Понятия не имею, — счастливо улыбнулся Доктор.
+# sent_id = 64
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=2997|end_char=2998
+2	Понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obj	_	start_char=2999|end_char=3006
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3007|end_char=3009
+4	имею	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3010|end_char=3014
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3014|end_char=3015
+6	—	—	PUNCT	_	_	8	punct	_	start_char=3016|end_char=3017
+7	счастливо	счастливо	ADV	_	Degree=Pos	8	advmod	_	start_char=3018|end_char=3027
+8	улыбнулся	улыбнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=3028|end_char=3037
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=3038|end_char=3044
+10	.	.	PUNCT	_	_	4	punct	_	start_char=3044|end_char=3045
+
+# text = — Всякая жизнь особенная!
+# sent_id = 65
+# metadata = Название: Шторм, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/562823a300000a7d237fecd8/1/Shtorm
+1	—	—	PUNCT	_	_	4	punct	_	start_char=3046|end_char=3047
+2	Всякая	всякий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=3048|end_char=3054
+3	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=3055|end_char=3060
+4	особенная	особенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=3061|end_char=3070
+5	!	!	PUNCT	_	_	4	punct	_	start_char=3070|end_char=3071
+

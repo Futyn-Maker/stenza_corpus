@@ -1,0 +1,702 @@
+# text = ДНК не страшно быть мертвой.
+# sent_id = 0
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	ДНК	ДНК	NOUN	_	Abbr=Yes	3	nsubj	_	start_char=0|end_char=3
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4|end_char=6
+3	страшно	страшный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=7|end_char=14
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	cop	_	start_char=15|end_char=19
+5	мертвой	мертвый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	csubj	_	start_char=20|end_char=27
+6	.	.	PUNCT	_	_	3	punct	_	start_char=27|end_char=28
+
+# text = Это только закодированная информация.
+# sent_id = 1
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=29|end_char=32
+2	только	только	PART	_	_	3	advmod	_	start_char=33|end_char=39
+3	закодированная	закодировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	start_char=40|end_char=54
+4	информация	информация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=55|end_char=65
+5	.	.	PUNCT	_	_	4	punct	_	start_char=65|end_char=66
+
+# text = Очень мало, и очень много, и снова очень мало.
+# sent_id = 2
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	start_char=67|end_char=72
+2	мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=73|end_char=77
+3	,	,	PUNCT	_	_	6	punct	_	start_char=77|end_char=78
+4	и	и	CCONJ	_	_	6	cc	_	start_char=79|end_char=80
+5	очень	очень	ADV	_	Degree=Pos	6	advmod	_	start_char=81|end_char=86
+6	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	2	conj	_	start_char=87|end_char=92
+7	,	,	PUNCT	_	_	11	punct	_	start_char=92|end_char=93
+8	и	и	CCONJ	_	_	11	cc	_	start_char=94|end_char=95
+9	снова	снова	ADV	_	Degree=Pos	11	advmod	_	start_char=96|end_char=101
+10	очень	очень	ADV	_	Degree=Pos	11	advmod	_	start_char=102|end_char=107
+11	мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	2	conj	_	start_char=108|end_char=112
+12	.	.	PUNCT	_	_	2	punct	_	start_char=112|end_char=113
+
+# text = Иногда этого недостаточно, чтобы жить.
+# sent_id = 3
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=114|end_char=120
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=121|end_char=126
+3	недостаточно	недостаточно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=127|end_char=139
+4	,	,	PUNCT	_	_	6	punct	_	start_char=139|end_char=140
+5	чтобы	чтобы	SCONJ	_	Mood=Cnd	6	mark	_	start_char=141|end_char=146
+6	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=147|end_char=151
+7	.	.	PUNCT	_	_	3	punct	_	start_char=151|end_char=152
+
+# text = Нужен подходящий приемник для этой информации.
+# sent_id = 4
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=153|end_char=158
+2	подходящий	подходящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=159|end_char=169
+3	приемник	приемник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=170|end_char=178
+4	для	для	ADP	_	_	6	case	_	start_char=179|end_char=182
+5	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=183|end_char=187
+6	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=188|end_char=198
+7	.	.	PUNCT	_	_	1	punct	_	start_char=198|end_char=199
+
+# text = Тогда, когда выходит собственный ресурс.
+# sent_id = 5
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=200|end_char=205
+2	,	,	PUNCT	_	_	4	punct	_	start_char=205|end_char=206
+3	когда	когда	SCONJ	_	_	4	mark	_	start_char=207|end_char=212
+4	выходит	выходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=213|end_char=220
+5	собственный	собственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=221|end_char=232
+6	ресурс	ресурс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=233|end_char=239
+7	.	.	PUNCT	_	_	1	punct	_	start_char=239|end_char=240
+
+# text = Выражаясь более привычным для живых существ образом – когда умираешь.
+# sent_id = 6
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Выражаясь	выражаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	0	root	_	start_char=241|end_char=250
+2	более	более	ADV	_	Degree=Cmp|PronType=Tot	3	advmod	_	start_char=251|end_char=256
+3	привычным	привычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1	xcomp	_	start_char=257|end_char=266
+4	для	для	ADP	_	_	7	case	_	start_char=267|end_char=270
+5	живых	живой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=271|end_char=276
+6	существ	существо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	3	obl	_	start_char=277|end_char=284
+7	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	start_char=285|end_char=292
+8	–	–	PUNCT	_	_	10	punct	_	start_char=293|end_char=294
+9	когда	когда	SCONJ	_	_	10	mark	_	start_char=295|end_char=300
+10	умираешь	умирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=301|end_char=309
+11	.	.	PUNCT	_	_	1	punct	_	start_char=309|end_char=310
+
+# text = Но я не мертв в обычном смысле слова.
+# sent_id = 7
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=311|end_char=313
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=314|end_char=315
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=316|end_char=318
+4	мертв	мертвый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=319|end_char=324
+5	в	в	ADP	_	_	7	case	_	start_char=325|end_char=326
+6	обычном	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=327|end_char=334
+7	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=335|end_char=341
+8	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=342|end_char=347
+9	.	.	PUNCT	_	_	4	punct	_	start_char=347|end_char=348
+
+# text = Мыслю, следовательно… если кому-то так проще, скажем, что я «немертв».
+# sent_id = 8
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Мыслю	мыслю	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=349|end_char=354
+2	,	,	PUNCT	_	_	3	punct	_	start_char=354|end_char=355
+3	следовательно	следовательно	ADV	_	Degree=Pos	10	parataxis	_	start_char=356|end_char=369
+4	…	…	PUNCT	_	_	8	punct	_	start_char=369|end_char=370
+5	если	если	SCONJ	_	_	8	mark	_	start_char=371|end_char=375
+6	кому-то	кто-то	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	8	iobj	_	start_char=376|end_char=383
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=384|end_char=387
+8	проще	простой	ADJ	_	Degree=Cmp	10	advcl	_	start_char=388|end_char=393
+9	,	,	PUNCT	_	_	8	punct	_	start_char=393|end_char=394
+10	скажем	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	start_char=395|end_char=401
+11	,	,	PUNCT	_	_	15	punct	_	start_char=401|end_char=402
+12	что	что	SCONJ	_	_	15	mark	_	start_char=403|end_char=406
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=407|end_char=408
+14	«	«	PUNCT	_	_	15	punct	_	start_char=409|end_char=410
+15	немертв	немертв	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	ccomp	_	start_char=410|end_char=417
+16	»	»	PUNCT	_	_	15	punct	_	start_char=417|end_char=418
+17	.	.	PUNCT	_	_	1	punct	_	start_char=418|end_char=419
+
+# text = Изумительное, чтоб его, состояние!
+# sent_id = 9
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Изумительное	изумительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=420|end_char=432
+2	,	,	PUNCT	_	_	6	punct	_	start_char=432|end_char=433
+3	чтоб	чтоб	SCONJ	_	Mood=Cnd	6	mark	_	start_char=434|end_char=438
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	orphan	_	start_char=439|end_char=442
+5	,	,	PUNCT	_	_	6	punct	_	start_char=442|end_char=443
+6	состояние	состояние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	start_char=444|end_char=453
+7	!	!	PUNCT	_	_	1	punct	_	start_char=453|end_char=454
+
+# text = Есть бактерии, которые могут перенимать некоторые свойства мертвых штаммов к своей собственной выгоде.
+# sent_id = 10
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=455|end_char=459
+2	бактерии	бактерия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	start_char=460|end_char=468
+3	,	,	PUNCT	_	_	5	punct	_	start_char=468|end_char=469
+4	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	5	nsubj	_	start_char=470|end_char=477
+5	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=478|end_char=483
+6	перенимать	перенимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=484|end_char=494
+7	некоторые	некоторый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Ind	8	det	_	start_char=495|end_char=504
+8	свойства	свойство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obj	_	start_char=505|end_char=513
+9	мертвых	мертвый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	start_char=514|end_char=521
+10	штаммов	штамм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=522|end_char=529
+11	к	к	ADP	_	_	14	case	_	start_char=530|end_char=531
+12	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=532|end_char=537
+13	собственной	собственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=538|end_char=549
+14	выгоде	выгод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	start_char=550|end_char=556
+15	.	.	PUNCT	_	_	1	punct	_	start_char=556|end_char=557
+
+# text = Или есть мертвые штаммы, которым ничто не мешает передавать информацию своим живым сородичам.
+# sent_id = 11
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Или	или	CCONJ	_	_	2	cc	_	start_char=558|end_char=561
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=562|end_char=566
+3	мертвые	мертвый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=567|end_char=574
+4	штаммы	штамма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=575|end_char=581
+5	,	,	PUNCT	_	_	9	punct	_	start_char=581|end_char=582
+6	которым	который	PRON	_	Case=Dat|Number=Plur|PronType=Rel	9	iobj	_	start_char=583|end_char=590
+7	ничто	ничто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	9	nsubj	_	start_char=591|end_char=596
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=597|end_char=599
+9	мешает	мешать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	start_char=600|end_char=606
+10	передавать	передавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=607|end_char=617
+11	информацию	информация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=618|end_char=628
+12	своим	свой	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	start_char=629|end_char=634
+13	живым	живой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	14	amod	_	start_char=635|end_char=640
+14	сородичам	сородич	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	iobj	_	start_char=641|end_char=650
+15	.	.	PUNCT	_	_	2	punct	_	start_char=650|end_char=651
+
+# text = И есть я.
+# sent_id = 12
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	И	и	CCONJ	_	_	2	cc	_	start_char=652|end_char=653
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=654|end_char=658
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=659|end_char=660
+4	.	.	PUNCT	_	_	2	punct	_	start_char=660|end_char=661
+
+# text = Я паразит?
+# sent_id = 13
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=662|end_char=663
+2	паразит	паразит	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=664|end_char=671
+3	?	?	PUNCT	_	_	2	punct	_	start_char=671|end_char=672
+
+# text = Да, как любая жизнь, употребляющая все встречное себе на пользу.
+# sent_id = 14
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Да	да	PART	_	_	5	parataxis	_	start_char=673|end_char=675
+2	,	,	PUNCT	_	_	1	punct	_	start_char=675|end_char=676
+3	как	как	SCONJ	_	_	5	case	_	start_char=677|end_char=680
+4	любая	любой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	5	det	_	start_char=681|end_char=686
+5	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=687|end_char=692
+6	,	,	PUNCT	_	_	7	punct	_	start_char=692|end_char=693
+7	употребляющая	употреблять	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	start_char=694|end_char=707
+8	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	start_char=708|end_char=711
+9	встречное	встречный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=712|end_char=721
+10	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	7	iobj	_	start_char=722|end_char=726
+11	на	на	ADP	_	_	12	case	_	start_char=727|end_char=729
+12	пользу	польза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=730|end_char=736
+13	.	.	PUNCT	_	_	5	punct	_	start_char=736|end_char=737
+
+# text = Части обычных клеток представляют собой не просто симбиоз, а паразитов и их доноров или «хозяев», постепенно сроднившихся.
+# sent_id = 15
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Части	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	start_char=738|end_char=743
+2	обычных	обычный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	start_char=744|end_char=751
+3	клеток	клетка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	start_char=752|end_char=758
+4	представляют	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=759|end_char=771
+5	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	4	iobj	_	start_char=772|end_char=777
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=778|end_char=780
+7	просто	просто	PART	_	_	8	advmod	_	start_char=781|end_char=787
+8	симбиоз	симбиоз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=788|end_char=795
+9	,	,	PUNCT	_	_	11	punct	_	start_char=795|end_char=796
+10	а	а	CCONJ	_	_	11	cc	_	start_char=797|end_char=798
+11	паразитов	паразит	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	8	conj	_	start_char=799|end_char=808
+12	и	и	CCONJ	_	_	14	cc	_	start_char=809|end_char=810
+13	их	их	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=811|end_char=813
+14	доноров	донор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	start_char=814|end_char=821
+15	или	или	CCONJ	_	_	17	cc	_	start_char=822|end_char=825
+16	«	«	PUNCT	_	_	17	punct	_	start_char=826|end_char=827
+17	хозяев	хозя	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	conj	_	start_char=827|end_char=833
+18	»	»	PUNCT	_	_	17	punct	_	start_char=833|end_char=834
+19	,	,	PUNCT	_	_	21	punct	_	start_char=834|end_char=835
+20	постепенно	постепенно	ADV	_	Degree=Pos	21	advmod	_	start_char=836|end_char=846
+21	сроднившихся	сродниться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	11	acl	_	start_char=847|end_char=859
+22	.	.	PUNCT	_	_	4	punct	_	start_char=859|end_char=860
+
+# text = Сперва кто-то вторгся в беззащитную клетку и использовал ее, пожирая изнутри, прежде чем стать обычной ценной митохондрией.
+# sent_id = 16
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Сперва	сперва	ADV	_	Degree=Pos	3	advmod	_	start_char=861|end_char=867
+2	кто-то	кто-то	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	nsubj	_	start_char=868|end_char=874
+3	вторгся	вторгнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=875|end_char=882
+4	в	в	ADP	_	_	6	case	_	start_char=883|end_char=884
+5	беззащитную	беззащитный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=885|end_char=896
+6	клетку	клетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=897|end_char=903
+7	и	и	CCONJ	_	_	8	cc	_	start_char=904|end_char=905
+8	использовал	использовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=906|end_char=917
+9	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=918|end_char=920
+10	,	,	PUNCT	_	_	11	punct	_	start_char=920|end_char=921
+11	пожирая	пожирать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=922|end_char=929
+12	изнутри	изнутрь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=930|end_char=937
+13	,	,	PUNCT	_	_	16	punct	_	start_char=937|end_char=938
+14	прежде	прежде	ADV	_	Degree=Pos	16	mark	_	start_char=939|end_char=945
+15	чем	чем	SCONJ	_	_	14	fixed	_	start_char=946|end_char=949
+16	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	advcl	_	start_char=950|end_char=955
+17	обычной	обычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=956|end_char=963
+18	ценной	ценный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=964|end_char=970
+19	митохондрией	митохондрия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	xcomp	_	start_char=971|end_char=983
+20	.	.	PUNCT	_	_	3	punct	_	start_char=983|end_char=984
+
+# text = Так движется прогресс.
+# sent_id = 17
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=985|end_char=988
+2	движется	двигаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=989|end_char=997
+3	прогресс	прогресс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=998|end_char=1006
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1006|end_char=1007
+
+# text = Так таймлорды вторглись в ТАРДИС.
+# sent_id = 18
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1008|end_char=1011
+2	таймлорды	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	start_char=1012|end_char=1021
+3	вторглись	вторгнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1022|end_char=1031
+4	в	в	ADP	_	_	5	case	_	start_char=1032|end_char=1033
+5	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	3	obl	_	start_char=1034|end_char=1040
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1040|end_char=1041
+
+# text = И насколько мы стали от них зависимы?
+# sent_id = 19
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	И	и	CCONJ	_	_	4	cc	_	start_char=1042|end_char=1043
+2	насколько	насколько	ADV	_	Degree=Pos	4	advmod	_	start_char=1044|end_char=1053
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=1054|end_char=1056
+4	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1057|end_char=1062
+5	от	от	ADP	_	_	6	case	_	start_char=1063|end_char=1065
+6	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	obl	_	start_char=1066|end_char=1069
+7	зависимы	зависимый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	4	xcomp	_	start_char=1070|end_char=1078
+8	?	?	PUNCT	_	_	4	punct	_	start_char=1078|end_char=1079
+
+# text = Настолько, насколько это нам выгодно?
+# sent_id = 20
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Настолько	настолько	ADV	_	Degree=Pos	6	advmod	_	start_char=1080|end_char=1089
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1089|end_char=1090
+3	насколько	насколько	ADV	_	Degree=Pos	6	advmod	_	start_char=1091|end_char=1100
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1101|end_char=1104
+5	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	iobj	_	start_char=1105|end_char=1108
+6	выгодно	выгодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1109|end_char=1116
+7	?	?	PUNCT	_	_	6	punct	_	start_char=1116|end_char=1117
+
+# text = Или мы лишь так думаем.
+# sent_id = 21
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Или	или	CCONJ	_	_	5	cc	_	start_char=1118|end_char=1121
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=1122|end_char=1124
+3	лишь	лишь	PART	_	_	4	advmod	_	start_char=1125|end_char=1129
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1130|end_char=1133
+5	думаем	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1134|end_char=1140
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1140|end_char=1141
+
+# text = Что именно поддерживает жизнь в моем, ставшем непригодном, немертвом теле?
+# sent_id = 22
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	start_char=1142|end_char=1145
+2	именно	именно	PART	_	_	3	advmod	_	start_char=1146|end_char=1152
+3	поддерживает	поддерживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1153|end_char=1165
+4	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=1166|end_char=1171
+5	в	в	ADP	_	_	12	case	_	start_char=1172|end_char=1173
+6	моем	мой	DET	_	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	start_char=1174|end_char=1178
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1178|end_char=1179
+8	ставшем	стать	VERB	_	Aspect=Perf|Case=Loc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	start_char=1180|end_char=1187
+9	непригодном	непригодный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=1188|end_char=1199
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1199|end_char=1200
+11	немертвом	немертвый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	conj	_	start_char=1201|end_char=1210
+12	теле	тело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	start_char=1211|end_char=1215
+13	?	?	PUNCT	_	_	3	punct	_	start_char=1215|end_char=1216
+
+# text = Что заставляет одного моего старого знакомого бесцельно рыскать по Вселенной подобно изголодавшемуся волку, которому нигде нет насыщения?
+# sent_id = 23
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	start_char=1217|end_char=1220
+2	заставляет	заставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1221|end_char=1231
+3	одного	один	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	start_char=1232|end_char=1238
+4	моего	мой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=1239|end_char=1244
+5	старого	старый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=1245|end_char=1252
+6	знакомого	знакомый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=1253|end_char=1262
+7	бесцельно	бесцельно	ADV	_	Degree=Pos	8	advmod	_	start_char=1263|end_char=1272
+8	рыскать	рыскать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1273|end_char=1280
+9	по	по	ADP	_	_	10	case	_	start_char=1281|end_char=1283
+10	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|NameType=Geo|Number=Sing	8	obl	_	start_char=1284|end_char=1293
+11	подобно	подобно	ADV	_	Degree=Pos	12	advmod	_	start_char=1294|end_char=1301
+12	изголодавшемуся	изголодаться	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	13	acl	_	start_char=1302|end_char=1317
+13	волку	волк	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	start_char=1318|end_char=1323
+14	,	,	PUNCT	_	_	17	punct	_	start_char=1323|end_char=1324
+15	которому	который	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	17	iobj	_	start_char=1325|end_char=1333
+16	нигде	нигде	ADV	_	Degree=Pos|PronType=Neg	17	advmod	_	start_char=1334|end_char=1339
+17	нет	нет	VERB	_	Polarity=Neg	13	acl:relcl	_	start_char=1340|end_char=1343
+18	насыщения	насыщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nsubj	_	start_char=1344|end_char=1353
+19	?	?	PUNCT	_	_	2	punct	_	start_char=1353|end_char=1354
+
+# text = Все это – чтобы удовлетворить лишь наши собственные потребности?
+# sent_id = 24
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	det	_	start_char=1355|end_char=1358
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=1359|end_char=1362
+3	–	–	PUNCT	_	_	5	punct	_	start_char=1363|end_char=1364
+4	чтобы	чтобы	SCONJ	_	Mood=Cnd	5	mark	_	start_char=1365|end_char=1370
+5	удовлетворить	удовлетворить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	advcl	_	start_char=1371|end_char=1384
+6	лишь	лишь	PART	_	_	7	advmod	_	start_char=1385|end_char=1389
+7	наши	наш	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	9	det	_	start_char=1390|end_char=1394
+8	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	start_char=1395|end_char=1406
+9	потребности	потребность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=1407|end_char=1418
+10	?	?	PUNCT	_	_	2	punct	_	start_char=1418|end_char=1419
+
+# text = Тут-то и подвох: разумеется – нет.
+# sent_id = 25
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Тут-то	тут-то	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=1421|end_char=1427
+2	и	и	PART	_	_	3	advmod	_	start_char=1428|end_char=1429
+3	подвох	подвох	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=1430|end_char=1436
+4	:	:	PUNCT	_	_	3	punct	_	start_char=1436|end_char=1437
+5	разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1438|end_char=1448
+6	–	–	PUNCT	_	_	5	punct	_	start_char=1449|end_char=1450
+7	нет	нет	VERB	_	Polarity=Neg	5	parataxis	_	start_char=1451|end_char=1454
+8	.	.	PUNCT	_	_	1	punct	_	start_char=1454|end_char=1455
+
+# text = В какой-то момент хозяин может стать слугой, если его воля недостаточно сильна для того, чтобы ставить собственные цели.
+# sent_id = 26
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	В	в	ADP	_	_	3	case	_	start_char=1456|end_char=1457
+2	какой-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	start_char=1458|end_char=1466
+3	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=1467|end_char=1473
+4	хозяин	хозяин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1474|end_char=1480
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1481|end_char=1486
+6	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=1487|end_char=1492
+7	слугой	слуга	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	xcomp	_	start_char=1493|end_char=1499
+8	,	,	PUNCT	_	_	13	punct	_	start_char=1499|end_char=1500
+9	если	если	SCONJ	_	_	13	mark	_	start_char=1501|end_char=1505
+10	его	его	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=1506|end_char=1509
+11	воля	воле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=1510|end_char=1514
+12	недостаточно	недостаточно	ADV	_	Degree=Pos	13	advmod	_	start_char=1515|end_char=1527
+13	сильна	сильный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	advcl	_	start_char=1528|end_char=1534
+14	для	для	ADP	_	_	15	case	_	start_char=1535|end_char=1538
+15	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	start_char=1539|end_char=1543
+16	,	,	PUNCT	_	_	18	punct	_	start_char=1543|end_char=1544
+17	чтобы	чтобы	SCONJ	_	Mood=Cnd	18	mark	_	start_char=1545|end_char=1550
+18	ставить	ставить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	acl	_	start_char=1551|end_char=1558
+19	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	start_char=1559|end_char=1570
+20	цели	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obj	_	start_char=1571|end_char=1575
+21	.	.	PUNCT	_	_	5	punct	_	start_char=1575|end_char=1576
+
+# text = Но сейчас я пользуюсь тем, что нужен ей – своей ТАРДИС.
+# sent_id = 27
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=1577|end_char=1579
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=1580|end_char=1586
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1587|end_char=1588
+4	пользуюсь	пользоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1589|end_char=1598
+5	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	4	iobj	_	start_char=1599|end_char=1602
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1602|end_char=1603
+7	что	что	SCONJ	_	_	8	mark	_	start_char=1604|end_char=1607
+8	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	acl	_	start_char=1608|end_char=1613
+9	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	start_char=1614|end_char=1616
+10	–	–	PUNCT	_	_	12	punct	_	start_char=1617|end_char=1618
+11	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=1619|end_char=1624
+12	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	9	appos	_	start_char=1625|end_char=1631
+13	.	.	PUNCT	_	_	4	punct	_	start_char=1631|end_char=1632
+
+# text = Пока поблизости нет других, более перспективных повелителей времени.
+# sent_id = 28
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Пока	пока	SCONJ	_	_	3	mark	_	start_char=1633|end_char=1637
+2	поблизости	поблизости	ADV	_	Degree=Pos	3	advmod	_	start_char=1638|end_char=1648
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=1649|end_char=1652
+4	других	другой	DET	_	Case=Gen|Number=Plur|PronType=Tot	8	det	_	start_char=1653|end_char=1659
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1659|end_char=1660
+6	более	более	ADV	_	Degree=Cmp|PronType=Tot	7	advmod	_	start_char=1661|end_char=1666
+7	перспективных	перспективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	conj	_	start_char=1667|end_char=1680
+8	повелителей	повелитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	start_char=1681|end_char=1692
+9	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=1693|end_char=1700
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1700|end_char=1701
+
+# text = Их нет в этой части Вселенной, так что я лучше, чем ничего.
+# sent_id = 29
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Их	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=1702|end_char=1704
+2	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=1705|end_char=1708
+3	в	в	ADP	_	_	5	case	_	start_char=1709|end_char=1710
+4	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=1711|end_char=1715
+5	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	start_char=1716|end_char=1721
+6	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	5	nmod	_	start_char=1722|end_char=1731
+7	,	,	PUNCT	_	_	11	punct	_	start_char=1731|end_char=1732
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	11	mark	_	start_char=1733|end_char=1736
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=1737|end_char=1740
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=1741|end_char=1742
+11	лучше	хороший	ADJ	_	Degree=Cmp	2	advcl	_	start_char=1743|end_char=1748
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1748|end_char=1749
+13	чем	чем	SCONJ	_	_	14	case	_	start_char=1750|end_char=1753
+14	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	11	obl	_	start_char=1754|end_char=1760
+15	.	.	PUNCT	_	_	2	punct	_	start_char=1760|end_char=1761
+
+# text = И по счастью, я могу придумать, что сделать с любым другим таймлордом, который окажется достаточно близко, чтобы забрать его оставшиеся жизни.
+# sent_id = 30
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	И	и	CCONJ	_	_	6	cc	_	start_char=1762|end_char=1763
+2	по	по	ADP	_	_	3	case	_	start_char=1764|end_char=1766
+3	счастью	счастье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	parataxis	_	start_char=1767|end_char=1774
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1774|end_char=1775
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1776|end_char=1777
+6	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1778|end_char=1782
+7	придумать	придумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=1783|end_char=1792
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1792|end_char=1793
+9	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	10	obj	_	start_char=1794|end_char=1797
+10	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	ccomp	_	start_char=1798|end_char=1805
+11	с	с	ADP	_	_	14	case	_	start_char=1806|end_char=1807
+12	любым	любой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	14	det	_	start_char=1808|end_char=1813
+13	другим	другой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	14	det	_	start_char=1814|end_char=1820
+14	таймлордом	таймлорд	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	start_char=1821|end_char=1831
+15	,	,	PUNCT	_	_	17	punct	_	start_char=1831|end_char=1832
+16	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	start_char=1833|end_char=1840
+17	окажется	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	14	acl:relcl	_	start_char=1841|end_char=1849
+18	достаточно	достаточно	ADV	_	Degree=Pos	19	advmod	_	start_char=1850|end_char=1860
+19	близко	близко	ADV	_	Degree=Pos	17	advmod	_	start_char=1861|end_char=1867
+20	,	,	PUNCT	_	_	22	punct	_	start_char=1867|end_char=1868
+21	чтобы	чтобы	SCONJ	_	Mood=Cnd	22	mark	_	start_char=1869|end_char=1874
+22	забрать	забрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	advcl	_	start_char=1875|end_char=1882
+23	его	его	DET	_	Poss=Yes|PronType=Prs	25	det	_	start_char=1883|end_char=1886
+24	оставшиеся	остаться	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	25	amod	_	start_char=1887|end_char=1897
+25	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	22	obj	_	start_char=1898|end_char=1903
+26	.	.	PUNCT	_	_	6	punct	_	start_char=1903|end_char=1904
+
+# text = А может быть, не только таймлордом.
+# sent_id = 31
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	А	а	CCONJ	_	_	7	cc	_	start_char=1906|end_char=1907
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=1908|end_char=1913
+3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1914|end_char=1918
+4	,	,	PUNCT	_	_	2	punct	_	start_char=1918|end_char=1919
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1920|end_char=1922
+6	только	только	PART	_	_	7	advmod	_	start_char=1923|end_char=1929
+7	таймлордом	таймлорд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=1930|end_char=1940
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1940|end_char=1941
+
+# text = Ради одного этого стоило посетить такой мир, как Тракен.
+# sent_id = 32
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Ради	ради	ADP	_	_	3	case	_	start_char=1942|end_char=1946
+2	одного	один	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	3	det	_	start_char=1947|end_char=1953
+3	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	start_char=1954|end_char=1959
+4	стоило	стоить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1960|end_char=1966
+5	посетить	посетить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=1967|end_char=1975
+6	такой	такой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=1976|end_char=1981
+7	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1982|end_char=1985
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1985|end_char=1986
+9	как	как	SCONJ	_	_	10	case	_	start_char=1987|end_char=1990
+10	Тракен	Тракен	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	5	obl	_	start_char=1991|end_char=1997
+11	.	.	PUNCT	_	_	4	punct	_	start_char=1997|end_char=1998
+
+# text = Безмятежный, неспешный, в котором «любое зло обращается в камень».
+# sent_id = 33
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Безмятежный	безмятежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=1999|end_char=2010
+2	,	,	PUNCT	_	_	3	punct	_	start_char=2010|end_char=2011
+3	неспешный	неспешный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	start_char=2012|end_char=2021
+4	,	,	PUNCT	_	_	10	punct	_	start_char=2021|end_char=2022
+5	в	в	ADP	_	_	6	case	_	start_char=2023|end_char=2024
+6	котором	который	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	10	obl	_	start_char=2025|end_char=2032
+7	«	«	PUNCT	_	_	10	punct	_	start_char=2033|end_char=2034
+8	любое	любой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	9	det	_	start_char=2034|end_char=2039
+9	зло	зло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	start_char=2040|end_char=2043
+10	обращается	обращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	acl:relcl	_	start_char=2044|end_char=2054
+11	в	в	ADP	_	_	12	case	_	start_char=2055|end_char=2056
+12	камень	камень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=2057|end_char=2063
+13	»	»	PUNCT	_	_	10	punct	_	start_char=2063|end_char=2064
+14	.	.	PUNCT	_	_	1	punct	_	start_char=2064|end_char=2065
+
+# text = Какая бездна лицемерия и относительных стандартов.
+# sent_id = 34
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	2	det	_	start_char=2066|end_char=2071
+2	бездна	бездна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2072|end_char=2078
+3	лицемерия	лицемерие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	start_char=2079|end_char=2088
+4	и	и	CCONJ	_	_	6	cc	_	start_char=2089|end_char=2090
+5	относительных	относительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=2091|end_char=2104
+6	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_	start_char=2105|end_char=2115
+7	.	.	PUNCT	_	_	2	punct	_	start_char=2115|end_char=2116
+
+# text = Но по счастью, это работает, и это подобно глубокой длительной консервации немертвого тела, выигрыванию времени, пока я продолжаю мыслить, а ТАРДИС всячески противится окаменению вместе со мной – ведь она хочет жить.
+# sent_id = 35
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=2117|end_char=2119
+2	по	по	ADP	_	_	3	case	_	start_char=2120|end_char=2122
+3	счастью	счастье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	parataxis	_	start_char=2123|end_char=2130
+4	,	,	PUNCT	_	_	3	punct	_	start_char=2130|end_char=2131
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=2132|end_char=2135
+6	работает	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2136|end_char=2144
+7	,	,	PUNCT	_	_	13	punct	_	start_char=2144|end_char=2145
+8	и	и	CCONJ	_	_	13	cc	_	start_char=2146|end_char=2147
+9	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	start_char=2148|end_char=2151
+10	подобно	подобно	ADV	_	Degree=Pos	13	advmod	_	start_char=2152|end_char=2159
+11	глубокой	глубокий	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=2160|end_char=2168
+12	длительной	длительный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=2169|end_char=2179
+13	консервации	консервация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	conj	_	start_char=2180|end_char=2191
+14	немертвого	немертвый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=2192|end_char=2202
+15	тела	тело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	start_char=2203|end_char=2207
+16	,	,	PUNCT	_	_	17	punct	_	start_char=2207|end_char=2208
+17	выигрыванию	выигрывание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	conj	_	start_char=2209|end_char=2220
+18	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	start_char=2221|end_char=2228
+19	,	,	PUNCT	_	_	22	punct	_	start_char=2228|end_char=2229
+20	пока	пока	SCONJ	_	_	22	mark	_	start_char=2230|end_char=2234
+21	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=2235|end_char=2236
+22	продолжаю	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=2237|end_char=2246
+23	мыслить	мыслить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	xcomp	_	start_char=2247|end_char=2254
+24	,	,	PUNCT	_	_	28	punct	_	start_char=2254|end_char=2255
+25	а	а	CCONJ	_	_	28	cc	_	start_char=2256|end_char=2257
+26	ТАРДИС	ТАРДИС	PROPN	_	Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	28	nsubj	_	start_char=2258|end_char=2264
+27	всячески	всячески	ADV	_	Degree=Pos	28	advmod	_	start_char=2265|end_char=2273
+28	противится	противиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=2274|end_char=2284
+29	окаменению	окаменение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	28	iobj	_	start_char=2285|end_char=2295
+30	вместе	вместе	ADV	_	Degree=Pos	28	advmod	_	start_char=2296|end_char=2302
+31	со	со	ADP	_	_	32	case	_	start_char=2303|end_char=2305
+32	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	28	obl	_	start_char=2306|end_char=2310
+33	–	–	PUNCT	_	_	36	punct	_	start_char=2311|end_char=2312
+34	ведь	ведь	SCONJ	_	_	36	mark	_	start_char=2313|end_char=2317
+35	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	start_char=2318|end_char=2321
+36	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	start_char=2322|end_char=2327
+37	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	xcomp	_	start_char=2328|end_char=2332
+38	.	.	PUNCT	_	_	6	punct	_	start_char=2332|end_char=2333
+
+# text = Ей приходится жить вместе со мной – в надежде вырваться отсюда; и, следуя этой своей цели, служить моей.
+# sent_id = 36
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	start_char=2334|end_char=2336
+2	приходится	приходиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2337|end_char=2347
+3	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=2348|end_char=2352
+4	вместе	вместе	ADV	_	Degree=Pos	3	advmod	_	start_char=2353|end_char=2359
+5	со	со	ADP	_	_	6	case	_	start_char=2360|end_char=2362
+6	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=2363|end_char=2367
+7	–	–	PUNCT	_	_	10	punct	_	start_char=2368|end_char=2369
+8	в	в	ADP	_	_	9	case	_	start_char=2370|end_char=2371
+9	надежде	надежда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	start_char=2372|end_char=2379
+10	вырваться	вырваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	conj	_	start_char=2380|end_char=2389
+11	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=2390|end_char=2396
+12	;	;	PUNCT	_	_	20	punct	_	start_char=2396|end_char=2397
+13	и	и	CCONJ	_	_	20	cc	_	start_char=2398|end_char=2399
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2399|end_char=2400
+15	следуя	следуть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	20	advcl	_	start_char=2401|end_char=2407
+16	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	start_char=2408|end_char=2412
+17	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	18	det	_	start_char=2413|end_char=2418
+18	цели	цель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	iobj	_	start_char=2419|end_char=2423
+19	,	,	PUNCT	_	_	15	punct	_	start_char=2423|end_char=2424
+20	служить	служить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	start_char=2425|end_char=2432
+21	моей	мой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	obl	_	start_char=2433|end_char=2437
+22	.	.	PUNCT	_	_	2	punct	_	start_char=2437|end_char=2438
+
+# text = Пока мы поджидаем первого появившегося поблизости неосторожного таймлорда, или пока сам Тракен не переменится под влиянием нашего вторжения в его «безмятежную клетку», полную питательных веществ.
+# sent_id = 37
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Пока	пока	SCONJ	_	_	3	mark	_	start_char=2439|end_char=2443
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=2444|end_char=2446
+3	поджидаем	поджидать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	29	advcl	_	start_char=2447|end_char=2456
+4	первого	первый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	8	amod	_	start_char=2457|end_char=2464
+5	появившегося	появиться	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	start_char=2465|end_char=2477
+6	поблизости	поблизости	ADV	_	Degree=Pos	5	advmod	_	start_char=2478|end_char=2488
+7	неосторожного	неосторожный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=2489|end_char=2502
+8	таймлорда	таймлорд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obj	_	start_char=2503|end_char=2512
+9	,	,	PUNCT	_	_	15	punct	_	start_char=2512|end_char=2513
+10	или	или	CCONJ	_	_	15	cc	_	start_char=2514|end_char=2517
+11	пока	пока	SCONJ	_	_	15	mark	_	start_char=2518|end_char=2522
+12	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	13	det	_	start_char=2523|end_char=2526
+13	Тракен	Тракен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	15	nsubj	_	start_char=2527|end_char=2533
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=2534|end_char=2536
+15	переменится	перемениться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=2537|end_char=2548
+16	под	под	ADP	_	_	17	case	_	start_char=2549|end_char=2552
+17	влиянием	влияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	obl	_	start_char=2553|end_char=2561
+18	нашего	наш	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	19	det	_	start_char=2562|end_char=2568
+19	вторжения	вторжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	start_char=2569|end_char=2578
+20	в	в	ADP	_	_	24	case	_	start_char=2579|end_char=2580
+21	его	его	DET	_	Poss=Yes|PronType=Prs	24	det	_	start_char=2581|end_char=2584
+22	«	«	PUNCT	_	_	24	punct	_	start_char=2585|end_char=2586
+23	безмятежную	безмятежный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	start_char=2586|end_char=2597
+24	клетку	клетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	nmod	_	start_char=2598|end_char=2604
+25	»	»	PUNCT	_	_	24	punct	_	start_char=2604|end_char=2605
+26	,	,	PUNCT	_	_	15	punct	_	start_char=2605|end_char=2606
+27	полную	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	start_char=2607|end_char=2613
+28	питательных	питательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	start_char=2614|end_char=2625
+29	веществ	вещество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	0	root	_	start_char=2626|end_char=2633
+30	.	.	PUNCT	_	_	29	punct	_	start_char=2633|end_char=2634
+
+# text = Или пока мы с ТАРДИС не обнаружим, что можем использовать для нашей цели не только таймлордов, но и тракенцев – гуманоидов с долгим веком, способных к симбиозу со сложными киберустройствами.
+# sent_id = 38
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Или	или	CCONJ	_	_	7	cc	_	start_char=2635|end_char=2638
+2	пока	пока	SCONJ	_	_	7	mark	_	start_char=2639|end_char=2643
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=2644|end_char=2646
+4	с	с	ADP	_	_	5	case	_	start_char=2647|end_char=2648
+5	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	7	obl	_	start_char=2649|end_char=2655
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2656|end_char=2658
+7	обнаружим	обнаружить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2659|end_char=2668
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2668|end_char=2669
+9	что	что	SCONJ	_	_	10	mark	_	start_char=2670|end_char=2673
+10	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	start_char=2674|end_char=2679
+11	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=2680|end_char=2692
+12	для	для	ADP	_	_	14	case	_	start_char=2693|end_char=2696
+13	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	start_char=2697|end_char=2702
+14	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=2703|end_char=2707
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=2708|end_char=2710
+16	только	только	PART	_	_	17	advmod	_	start_char=2711|end_char=2717
+17	таймлордов	таймордов	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	obj	_	start_char=2718|end_char=2728
+18	,	,	PUNCT	_	_	21	punct	_	start_char=2728|end_char=2729
+19	но	но	CCONJ	_	_	21	cc	_	start_char=2730|end_char=2732
+20	и	и	PART	_	_	19	fixed	_	start_char=2733|end_char=2734
+21	тракенцев	тракенец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	start_char=2735|end_char=2744
+22	–	–	PUNCT	_	_	23	punct	_	start_char=2745|end_char=2746
+23	гуманоидов	гуманоид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	appos	_	start_char=2747|end_char=2757
+24	с	с	ADP	_	_	26	case	_	start_char=2758|end_char=2759
+25	долгим	долгий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	start_char=2760|end_char=2766
+26	веком	век	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	nmod	_	start_char=2767|end_char=2772
+27	,	,	PUNCT	_	_	28	punct	_	start_char=2772|end_char=2773
+28	способных	способнуть	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	acl	_	start_char=2774|end_char=2783
+29	к	к	ADP	_	_	30	case	_	start_char=2784|end_char=2785
+30	симбиозу	симбиоз	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	28	obl	_	start_char=2786|end_char=2794
+31	со	со	ADP	_	_	33	case	_	start_char=2795|end_char=2797
+32	сложными	сложный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	33	amod	_	start_char=2798|end_char=2806
+33	киберустройствами	киберустройство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	30	nmod	_	start_char=2807|end_char=2824
+34	.	.	PUNCT	_	_	7	punct	_	start_char=2824|end_char=2825
+
+# text = На худой конец подойдут и они, более всех других живых существ.
+# sent_id = 39
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	На	на	ADP	_	_	3	case	_	start_char=2826|end_char=2828
+2	худой	худой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=2829|end_char=2834
+3	конец	конец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=2835|end_char=2840
+4	подойдут	подойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2841|end_char=2849
+5	и	и	PART	_	_	6	advmod	_	start_char=2850|end_char=2851
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=2852|end_char=2855
+7	,	,	PUNCT	_	_	12	punct	_	start_char=2855|end_char=2856
+8	более	более	ADV	_	Degree=Cmp|PronType=Tot	12	advmod	_	start_char=2857|end_char=2862
+9	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	12	det	_	start_char=2863|end_char=2867
+10	других	другой	DET	_	Case=Gen|Number=Plur|PronType=Tot	12	det	_	start_char=2868|end_char=2874
+11	живых	живой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=2875|end_char=2880
+12	существ	существо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	start_char=2881|end_char=2888
+13	.	.	PUNCT	_	_	4	punct	_	start_char=2888|end_char=2889
+
+# text = Для ДНК не страшно быть мертвой.
+# sent_id = 40
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Для	для	ADP	_	_	2	case	_	start_char=2890|end_char=2893
+2	ДНК	ДНК	NOUN	_	Abbr=Yes	4	obl	_	start_char=2894|end_char=2897
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2898|end_char=2900
+4	страшно	страшный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2901|end_char=2908
+5	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	cop	_	start_char=2909|end_char=2913
+6	мертвой	мертвый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	csubj	_	start_char=2914|end_char=2921
+7	.	.	PUNCT	_	_	4	punct	_	start_char=2921|end_char=2922
+
+# text = Она – немертва.
+# sent_id = 41
+# metadata = Название: Немёртвые, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5454bf5100000a7fa002145/1/Nemyortvye
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2923|end_char=2926
+2	–	–	PUNCT	_	_	3	punct	_	start_char=2927|end_char=2928
+3	немертва	немертвый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=2929|end_char=2937
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2937|end_char=2938
+

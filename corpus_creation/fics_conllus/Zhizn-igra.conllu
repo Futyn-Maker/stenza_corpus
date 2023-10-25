@@ -1,0 +1,1437 @@
+# text = Бригадир выглянул в окно.
+# sent_id = 0
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=0|end_char=8
+2	выглянул	выглянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=9|end_char=17
+3	в	в	ADP	_	_	4	case	_	start_char=18|end_char=19
+4	окно	окно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	start_char=20|end_char=24
+5	.	.	PUNCT	_	_	2	punct	_	start_char=24|end_char=25
+
+# text = – А почему кругом опять Норфолк? – нахмурился он.
+# sent_id = 1
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	6	punct	_	start_char=26|end_char=27
+2	А	а	CCONJ	_	_	6	cc	_	start_char=28|end_char=29
+3	почему	почему	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=30|end_char=36
+4	кругом	кругом	ADV	_	Degree=Pos	6	advmod	_	start_char=37|end_char=43
+5	опять	опять	ADV	_	Degree=Pos	6	advmod	_	start_char=44|end_char=49
+6	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	start_char=50|end_char=57
+7	?	?	PUNCT	_	_	6	punct	_	start_char=57|end_char=58
+8	–	–	PUNCT	_	_	9	punct	_	start_char=59|end_char=60
+9	нахмурился	нахмуриться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=61|end_char=71
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=72|end_char=74
+11	.	.	PUNCT	_	_	6	punct	_	start_char=74|end_char=75
+
+# text = Доктор и Джо недоверчиво переглянулись.
+# sent_id = 2
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=76|end_char=82
+2	и	и	CCONJ	_	_	3	cc	_	start_char=83|end_char=84
+3	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	conj	_	start_char=85|end_char=88
+4	недоверчиво	недоверчиво	ADV	_	Degree=Pos	5	advmod	_	start_char=89|end_char=100
+5	переглянулись	переглянуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=101|end_char=114
+6	.	.	PUNCT	_	_	5	punct	_	start_char=114|end_char=115
+
+# text = – А почему мы опять печатаем один и тот же отчет? – спросил Доктор.
+# sent_id = 3
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	6	punct	_	start_char=116|end_char=117
+2	А	а	CCONJ	_	_	6	cc	_	start_char=118|end_char=119
+3	почему	почему	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=120|end_char=126
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=127|end_char=129
+5	опять	опять	ADV	_	Degree=Pos	6	advmod	_	start_char=130|end_char=135
+6	печатаем	печатать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=136|end_char=144
+7	один	один	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	start_char=145|end_char=149
+8	и	и	CCONJ	_	_	9	cc	_	start_char=150|end_char=151
+9	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	conj	_	start_char=152|end_char=155
+10	же	же	PART	_	_	9	advmod	_	start_char=156|end_char=158
+11	отчет	отчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=159|end_char=164
+12	?	?	PUNCT	_	_	6	punct	_	start_char=164|end_char=165
+13	–	–	PUNCT	_	_	14	punct	_	start_char=166|end_char=167
+14	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=168|end_char=175
+15	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=176|end_char=182
+16	.	.	PUNCT	_	_	6	punct	_	start_char=182|end_char=183
+
+# text = – То то не так, то это не этак...
+# sent_id = 4
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	10	punct	_	start_char=184|end_char=185
+2	То	то	CCONJ	_	_	5	cc	_	start_char=186|end_char=188
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	start_char=189|end_char=191
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=192|end_char=194
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	10	advcl	_	start_char=195|end_char=198
+6	,	,	PUNCT	_	_	5	punct	_	start_char=198|end_char=199
+7	то	то	SCONJ	_	_	10	mark	_	start_char=200|end_char=202
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	start_char=203|end_char=206
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=207|end_char=209
+10	этак	этак	ADV	_	Degree=Pos	0	root	_	start_char=210|end_char=214
+11	...	...	PUNCT	_	_	10	punct	_	start_char=214|end_char=217
+
+# text = – Не опять, а все еще!
+# sent_id = 5
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=218|end_char=219
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=220|end_char=222
+3	опять	опять	ADV	_	Degree=Pos	0	root	_	start_char=223|end_char=228
+4	,	,	PUNCT	_	_	6	punct	_	start_char=228|end_char=229
+5	а	а	CCONJ	_	_	6	cc	_	start_char=230|end_char=231
+6	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	conj	_	start_char=232|end_char=235
+7	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=236|end_char=239
+8	!	!	PUNCT	_	_	3	punct	_	start_char=239|end_char=240
+
+# text = – раздался ехидный глас свыше.
+# sent_id = 6
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=241|end_char=242
+2	раздался	раздаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=243|end_char=251
+3	ехидный	ехидный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=252|end_char=259
+4	глас	глас	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=260|end_char=264
+5	свыше	свыше	ADV	_	Degree=Pos	2	advmod	_	start_char=265|end_char=270
+6	.	.	PUNCT	_	_	2	punct	_	start_char=270|end_char=271
+
+# text = Бригадир обалдело огляделся.
+# sent_id = 7
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=272|end_char=280
+2	обалдело	обалдеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=281|end_char=289
+3	огляделся	оглядеться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=290|end_char=299
+4	.	.	PUNCT	_	_	2	punct	_	start_char=299|end_char=300
+
+# text = – Это еще кто?
+# sent_id = 8
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=302|end_char=303
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=304|end_char=307
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=308|end_char=311
+4	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=312|end_char=315
+5	?	?	PUNCT	_	_	4	punct	_	start_char=315|end_char=316
+
+# text = Доктор приподнялся на стуле, прислушиваясь к знакомому не то чтобы голосу, а к знакомой интонации.
+# sent_id = 9
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=317|end_char=323
+2	приподнялся	приподняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=324|end_char=335
+3	на	на	ADP	_	_	4	case	_	start_char=336|end_char=338
+4	стуле	стул	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=339|end_char=344
+5	,	,	PUNCT	_	_	6	punct	_	start_char=344|end_char=345
+6	прислушиваясь	прислушиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=346|end_char=359
+7	к	к	ADP	_	_	8	case	_	start_char=360|end_char=361
+8	знакомому	знакомый	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=362|end_char=371
+9	не	не	PART	_	Polarity=Neg	12	cc	_	start_char=372|end_char=374
+10	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	fixed	_	start_char=375|end_char=377
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	start_char=378|end_char=383
+12	голосу	голос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=384|end_char=390
+13	,	,	PUNCT	_	_	17	punct	_	start_char=390|end_char=391
+14	а	а	CCONJ	_	_	17	cc	_	start_char=392|end_char=393
+15	к	к	ADP	_	_	17	case	_	start_char=394|end_char=395
+16	знакомой	знакомый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=396|end_char=404
+17	интонации	интонация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	conj	_	start_char=405|end_char=414
+18	.	.	PUNCT	_	_	2	punct	_	start_char=414|end_char=415
+
+# text = – Игрушечник?
+# sent_id = 10
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=416|end_char=417
+2	Игрушечник	игрушечник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=418|end_char=428
+3	?	?	PUNCT	_	_	2	punct	_	start_char=428|end_char=429
+
+# text = – Становится скучновато, не правда ли? – разоткровенничался Игрушечник.
+# sent_id = 11
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=430|end_char=431
+2	Становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=432|end_char=442
+3	скучновато	скучноватый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	xcomp	_	start_char=443|end_char=453
+4	,	,	PUNCT	_	_	6	punct	_	start_char=453|end_char=454
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=455|end_char=457
+6	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=458|end_char=464
+7	ли	ли	PART	_	_	6	advmod	_	start_char=465|end_char=467
+8	?	?	PUNCT	_	_	6	punct	_	start_char=467|end_char=468
+9	–	–	PUNCT	_	_	10	punct	_	start_char=469|end_char=470
+10	разоткровенничался	разоткровенничаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=471|end_char=489
+11	Игрушечник	Игрушечник	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	10	nsubj	_	start_char=490|end_char=500
+12	.	.	PUNCT	_	_	2	punct	_	start_char=500|end_char=501
+
+# text = – Проектируешь заводную вселенную, проектируешь, выводишь высокоразвитые цивилизации, выводишь, а они в какой-то момент упс, и дальше играть не хотят.
+# sent_id = 12
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=502|end_char=503
+2	Проектируешь	проектировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=504|end_char=516
+3	заводную	заводный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=517|end_char=525
+4	вселенную	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=526|end_char=535
+5	,	,	PUNCT	_	_	6	punct	_	start_char=535|end_char=536
+6	проектируешь	проектировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=537|end_char=549
+7	,	,	PUNCT	_	_	8	punct	_	start_char=549|end_char=550
+8	выводишь	выводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=551|end_char=559
+9	высокоразвитые	высокоразвитый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	start_char=560|end_char=574
+10	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=575|end_char=586
+11	,	,	PUNCT	_	_	12	punct	_	start_char=586|end_char=587
+12	выводишь	выводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=588|end_char=596
+13	,	,	PUNCT	_	_	19	punct	_	start_char=596|end_char=597
+14	а	а	CCONJ	_	_	19	cc	_	start_char=598|end_char=599
+15	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=600|end_char=603
+16	в	в	ADP	_	_	18	case	_	start_char=604|end_char=605
+17	какой-то	какой-то	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	18	det	_	start_char=606|end_char=614
+18	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	start_char=615|end_char=621
+19	упс	упс	INTJ	_	_	2	conj	_	start_char=622|end_char=625
+20	,	,	PUNCT	_	_	25	punct	_	start_char=625|end_char=626
+21	и	и	CCONJ	_	_	25	cc	_	start_char=627|end_char=628
+22	дальше	дальше	ADV	_	Degree=Cmp	25	advmod	_	start_char=629|end_char=635
+23	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=636|end_char=642
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=643|end_char=645
+25	хотят	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=646|end_char=651
+26	.	.	PUNCT	_	_	2	punct	_	start_char=651|end_char=652
+
+# text = – Что значит: «играть не хотят»?
+# sent_id = 13
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=653|end_char=654
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=655|end_char=658
+3	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=659|end_char=665
+4	:	:	PUNCT	_	_	8	punct	_	start_char=665|end_char=666
+5	«	«	PUNCT	_	_	8	punct	_	start_char=667|end_char=668
+6	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=668|end_char=674
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=675|end_char=677
+8	хотят	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=678|end_char=683
+9	»	»	PUNCT	_	_	8	punct	_	start_char=683|end_char=684
+10	?	?	PUNCT	_	_	3	punct	_	start_char=684|end_char=685
+
+# text = – Да так, окопаются на своей планете с почти выжатыми ресурсами, и начинают наблюдать.
+# sent_id = 14
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	5	punct	_	start_char=686|end_char=687
+2	Да	да	CCONJ	_	_	5	cc	_	start_char=688|end_char=690
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=691|end_char=694
+4	,	,	PUNCT	_	_	3	punct	_	start_char=694|end_char=695
+5	окопаются	окопаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=696|end_char=705
+6	на	на	ADP	_	_	8	case	_	start_char=706|end_char=708
+7	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=709|end_char=714
+8	планете	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=715|end_char=722
+9	с	с	ADP	_	_	12	case	_	start_char=723|end_char=724
+10	почти	почти	ADV	_	Degree=Pos	11	advmod	_	start_char=725|end_char=730
+11	выжатыми	выжать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	start_char=731|end_char=739
+12	ресурсами	ресурс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	start_char=740|end_char=749
+13	,	,	PUNCT	_	_	15	punct	_	start_char=749|end_char=750
+14	и	и	CCONJ	_	_	15	cc	_	start_char=751|end_char=752
+15	начинают	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	start_char=753|end_char=761
+16	наблюдать	наблюдать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=762|end_char=771
+17	.	.	PUNCT	_	_	5	punct	_	start_char=771|end_char=772
+
+# text = Вот уж нет, это мое дело – наблюдать.
+# sent_id = 15
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Вот	вот	PART	_	_	3	advmod	_	start_char=773|end_char=776
+2	уж	уж	PART	_	_	3	advmod	_	start_char=777|end_char=779
+3	нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=780|end_char=783
+4	,	,	PUNCT	_	_	7	punct	_	start_char=783|end_char=784
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=785|end_char=788
+6	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=789|end_char=792
+7	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	start_char=793|end_char=797
+8	–	–	PUNCT	_	_	9	punct	_	start_char=798|end_char=799
+9	наблюдать	наблюдать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	parataxis	_	start_char=800|end_char=809
+10	.	.	PUNCT	_	_	3	punct	_	start_char=809|end_char=810
+
+# text = И подстраивать...
+# sent_id = 16
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	И	и	CCONJ	_	_	2	cc	_	start_char=811|end_char=812
+2	подстраивать	подстраивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=813|end_char=825
+3	...	...	PUNCT	_	_	2	punct	_	start_char=825|end_char=828
+
+# text = И да, отчеты по кругу, по кругу – тоже моя шуточка!
+# sent_id = 17
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	И	и	CCONJ	_	_	13	cc	_	start_char=829|end_char=830
+2	да	да	PART	_	_	13	parataxis	_	start_char=831|end_char=833
+3	,	,	PUNCT	_	_	2	punct	_	start_char=833|end_char=834
+4	отчеты	отчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	start_char=835|end_char=841
+5	по	по	ADP	_	_	6	case	_	start_char=842|end_char=844
+6	кругу	круг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	start_char=845|end_char=850
+7	,	,	PUNCT	_	_	9	punct	_	start_char=850|end_char=851
+8	по	по	ADP	_	_	9	case	_	start_char=852|end_char=854
+9	кругу	круг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	start_char=855|end_char=860
+10	–	–	PUNCT	_	_	13	punct	_	start_char=861|end_char=862
+11	тоже	тоже	PART	_	_	13	advmod	_	start_char=863|end_char=867
+12	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	start_char=868|end_char=871
+13	шуточка	шуточка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=872|end_char=879
+14	!	!	PUNCT	_	_	13	punct	_	start_char=879|end_char=880
+
+# text = Надо же приближаться к несуществующему совершенству в погоне за номинальными очками.
+# sent_id = 18
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Надо	надо	VERB	_	_	0	root	_	start_char=881|end_char=885
+2	же	же	PART	_	_	1	advmod	_	start_char=886|end_char=888
+3	приближаться	приближаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1	csubj	_	start_char=889|end_char=901
+4	к	к	ADP	_	_	6	case	_	start_char=902|end_char=903
+5	несуществующему	несуществующий	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=904|end_char=919
+6	совершенству	совершенство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	obl	_	start_char=920|end_char=932
+7	в	в	ADP	_	_	8	case	_	start_char=933|end_char=934
+8	погоне	погона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=935|end_char=941
+9	за	за	ADP	_	_	11	case	_	start_char=942|end_char=944
+10	номинальными	номинальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	amod	_	start_char=945|end_char=957
+11	очками	очки	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	8	nmod	_	start_char=958|end_char=964
+12	.	.	PUNCT	_	_	1	punct	_	start_char=964|end_char=965
+
+# text = – Так ты же сам и ограничиваешь все развитие своими номинальными очками!
+# sent_id = 19
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=966|end_char=967
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=968|end_char=971
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	0	root	_	start_char=972|end_char=974
+4	же	же	PART	_	_	3	advmod	_	start_char=975|end_char=977
+5	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	3	acl	_	start_char=978|end_char=981
+6	и	и	CCONJ	_	_	7	cc	_	start_char=982|end_char=983
+7	ограничиваешь	ограничивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=984|end_char=997
+8	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	det	_	start_char=998|end_char=1001
+9	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=1002|end_char=1010
+10	своими	свой	DET	_	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=1011|end_char=1017
+11	номинальными	номинальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	start_char=1018|end_char=1030
+12	очками	очки	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	7	obl	_	start_char=1031|end_char=1037
+13	!	!	PUNCT	_	_	3	punct	_	start_char=1037|end_char=1038
+
+# text = – возмутился Доктор.
+# sent_id = 20
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1039|end_char=1040
+2	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1041|end_char=1051
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1052|end_char=1058
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1058|end_char=1059
+
+# text = И немного подумав, возмутился еще больше.
+# sent_id = 21
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	И	и	CCONJ	_	_	5	cc	_	start_char=1060|end_char=1061
+2	немного	немного	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=1062|end_char=1069
+3	подумав	подумать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=1070|end_char=1077
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1077|end_char=1078
+5	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1079|end_char=1089
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=1090|end_char=1093
+7	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	5	advmod	_	start_char=1094|end_char=1100
+8	.	.	PUNCT	_	_	5	punct	_	start_char=1100|end_char=1101
+
+# text = – И что это такое ты говоришь, что проектируешь Вселенную?
+# sent_id = 22
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1102|end_char=1103
+2	И	и	CCONJ	_	_	7	cc	_	start_char=1104|end_char=1105
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	ccomp	_	start_char=1106|end_char=1109
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=1110|end_char=1113
+5	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	start_char=1114|end_char=1119
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=1120|end_char=1122
+7	говоришь	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1123|end_char=1131
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1131|end_char=1132
+9	что	что	SCONJ	_	_	10	mark	_	start_char=1133|end_char=1136
+10	проектируешь	проектировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	start_char=1137|end_char=1149
+11	Вселенную	Вселенная	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	10	obj	_	start_char=1150|end_char=1159
+12	?	?	PUNCT	_	_	7	punct	_	start_char=1159|end_char=1160
+
+# text = – Говорю чистую правду.
+# sent_id = 23
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1161|end_char=1162
+2	Говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1163|end_char=1169
+3	чистую	чистый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1170|end_char=1176
+4	правду	правда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=1177|end_char=1183
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1183|end_char=1184
+
+# text = Вот смотри, появляется первая серия репликантов, и они начинают играть в «кто выживет?».
+# sent_id = 24
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Вот	вот	PART	_	_	2	advmod	_	start_char=1185|end_char=1188
+2	смотри	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1189|end_char=1195
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1195|end_char=1196
+4	появляется	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1197|end_char=1207
+5	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	6	amod	_	start_char=1208|end_char=1214
+6	серия	серия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=1215|end_char=1220
+7	репликантов	репликант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=1221|end_char=1232
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1232|end_char=1233
+9	и	и	CCONJ	_	_	11	cc	_	start_char=1234|end_char=1235
+10	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=1236|end_char=1239
+11	начинают	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1240|end_char=1248
+12	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=1249|end_char=1255
+13	в	в	ADP	_	_	16	case	_	start_char=1256|end_char=1257
+14	«	«	PUNCT	_	_	16	punct	_	start_char=1258|end_char=1259
+15	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	16	nsubj	_	start_char=1259|end_char=1262
+16	выживет	выжить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	parataxis	_	start_char=1263|end_char=1270
+17	?	?	PUNCT	_	_	16	punct	_	start_char=1270|end_char=1271
+18	»	»	PUNCT	_	_	16	punct	_	start_char=1271|end_char=1272
+19	.	.	PUNCT	_	_	2	punct	_	start_char=1272|end_char=1273
+
+# text = Выигравшие переходят на следующий уровень, и вуаля, вот вам эволюция.
+# sent_id = 25
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Выигравшие	выиграть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	nsubj	_	start_char=1274|end_char=1284
+2	переходят	переходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1285|end_char=1294
+3	на	на	ADP	_	_	5	case	_	start_char=1295|end_char=1297
+4	следующий	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1298|end_char=1307
+5	уровень	уровень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1308|end_char=1315
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1315|end_char=1316
+7	и	и	CCONJ	_	_	8	cc	_	start_char=1317|end_char=1318
+8	вуаля	вуаля	INTJ	_	_	5	conj	_	start_char=1319|end_char=1324
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1324|end_char=1325
+10	вот	вот	PART	_	_	12	advmod	_	start_char=1326|end_char=1329
+11	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	iobj	_	start_char=1330|end_char=1333
+12	эволюция	эволюция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	start_char=1334|end_char=1342
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1342|end_char=1343
+
+# text = – А сами-то вы как появились? – спросила до сих пор сердито пыхтевшая Джо.
+# sent_id = 26
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1344|end_char=1345
+2	А	а	CCONJ	_	_	6	cc	_	start_char=1346|end_char=1347
+3	сами-то	сами-то	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=1348|end_char=1355
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	start_char=1356|end_char=1358
+5	как	как	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=1359|end_char=1362
+6	появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1363|end_char=1372
+7	?	?	PUNCT	_	_	6	punct	_	start_char=1372|end_char=1373
+8	–	–	PUNCT	_	_	9	punct	_	start_char=1374|end_char=1375
+9	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=1376|end_char=1384
+10	до	до	ADP	_	_	9	advmod	_	start_char=1385|end_char=1387
+11	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	10	fixed	_	start_char=1388|end_char=1391
+12	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	fixed	_	start_char=1392|end_char=1395
+13	сердито	сердитый	ADV	_	Degree=Pos	14	advmod	_	start_char=1396|end_char=1403
+14	пыхтевшая	пыхтеть	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	xcomp	_	start_char=1404|end_char=1413
+15	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	start_char=1414|end_char=1417
+16	.	.	PUNCT	_	_	6	punct	_	start_char=1417|end_char=1418
+
+# text = – Во что выиграли?
+# sent_id = 27
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1419|end_char=1420
+2	Во	во	ADP	_	_	3	case	_	start_char=1421|end_char=1423
+3	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	start_char=1424|end_char=1427
+4	выиграли	выиграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1428|end_char=1436
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1436|end_char=1437
+
+# text = В какой-такой игре?
+# sent_id = 28
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	В	в	ADP	_	_	3	case	_	start_char=1438|end_char=1439
+2	какой-такой	какой-такой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Int	3	det	_	start_char=1440|end_char=1451
+3	игре	игра	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=1452|end_char=1456
+4	?	?	PUNCT	_	_	3	punct	_	start_char=1456|end_char=1457
+
+# text = Последовала пауза, показавшаяся всем потрясенной.
+# sent_id = 29
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Последовала	последовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1458|end_char=1469
+2	пауза	пауза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	start_char=1470|end_char=1475
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1475|end_char=1476
+4	показавшаяся	показаться	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	start_char=1477|end_char=1489
+5	всем	все	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|PronType=Tot	6	iobj	_	start_char=1490|end_char=1494
+6	потрясенной	потрясить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	start_char=1495|end_char=1506
+7	.	.	PUNCT	_	_	1	punct	_	start_char=1506|end_char=1507
+
+# text = – В занудство играли? – проворчала Джо.
+# sent_id = 30
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1508|end_char=1509
+2	В	в	ADP	_	_	3	case	_	start_char=1510|end_char=1511
+3	занудство	занудство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	start_char=1512|end_char=1521
+4	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1522|end_char=1528
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1528|end_char=1529
+6	–	–	PUNCT	_	_	7	punct	_	start_char=1530|end_char=1531
+7	проворчала	проворчать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1532|end_char=1542
+8	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=1543|end_char=1546
+9	.	.	PUNCT	_	_	4	punct	_	start_char=1546|end_char=1547
+
+# text = – В бюрократию?
+# sent_id = 31
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1548|end_char=1549
+2	В	в	ADP	_	_	3	case	_	start_char=1550|end_char=1551
+3	бюрократию	бюрократия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=1552|end_char=1562
+4	?	?	PUNCT	_	_	3	punct	_	start_char=1562|end_char=1563
+
+# text = В искусственное зацикливание на ерунде?..
+# sent_id = 32
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	В	в	ADP	_	_	3	case	_	start_char=1564|end_char=1565
+2	искусственное	искусственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=1566|end_char=1579
+3	зацикливание	зацикливание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	root	_	start_char=1580|end_char=1592
+4	на	на	ADP	_	_	5	case	_	start_char=1593|end_char=1595
+5	ерунде	ерунда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	start_char=1596|end_char=1602
+6	?..	?..	PUNCT	_	_	3	punct	_	start_char=1602|end_char=1605
+
+# text = – Протестую, – сказал Игрушечник.
+# sent_id = 33
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1606|end_char=1607
+2	Протестую	протестовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1608|end_char=1617
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1617|end_char=1618
+4	–	–	PUNCT	_	_	5	punct	_	start_char=1619|end_char=1620
+5	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1621|end_char=1627
+6	Игрушечник	Игрушечник	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	5	nsubj	_	start_char=1628|end_char=1638
+7	.	.	PUNCT	_	_	2	punct	_	start_char=1638|end_char=1639
+
+# text = – Учитывая, что не ерунды как таковой не существует...
+# sent_id = 34
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1640|end_char=1641
+2	Учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	start_char=1642|end_char=1650
+3	,	,	PUNCT	_	_	10	punct	_	start_char=1650|end_char=1651
+4	что	что	SCONJ	_	_	10	mark	_	start_char=1652|end_char=1655
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1656|end_char=1658
+6	ерунды	ерунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nsubj	_	start_char=1659|end_char=1665
+7	как	как	SCONJ	_	_	8	mark	_	start_char=1666|end_char=1669
+8	таковой	таковой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	10	obl	_	start_char=1670|end_char=1677
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1678|end_char=1680
+10	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1681|end_char=1691
+11	...	...	PUNCT	_	_	2	punct	_	start_char=1691|end_char=1694
+
+# text = – Эволюционировала!
+# sent_id = 35
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1695|end_char=1696
+2	Эволюционировала	эволюционировать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1697|end_char=1713
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1713|end_char=1714
+
+# text = – ехидно вставила Джо.
+# sent_id = 36
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1715|end_char=1716
+2	ехидно	ехидно	ADV	_	Degree=Pos	3	advmod	_	start_char=1717|end_char=1723
+3	вставила	вставить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1724|end_char=1732
+4	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1733|end_char=1736
+5	.	.	PUNCT	_	_	3	punct	_	start_char=1736|end_char=1737
+
+# text = Последовала еще одна «потрясенная пауза» на целую секунду.
+# sent_id = 37
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Последовала	последовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1738|end_char=1749
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=1750|end_char=1753
+3	одна	один	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=1754|end_char=1758
+4	«	«	PUNCT	_	_	6	punct	_	start_char=1759|end_char=1760
+5	потрясенная	потрястить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	start_char=1760|end_char=1771
+6	пауза	пауза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	start_char=1772|end_char=1777
+7	»	»	PUNCT	_	_	6	punct	_	start_char=1777|end_char=1778
+8	на	на	ADP	_	_	10	case	_	start_char=1779|end_char=1781
+9	целую	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=1782|end_char=1787
+10	секунду	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obl	_	start_char=1788|end_char=1795
+11	.	.	PUNCT	_	_	1	punct	_	start_char=1795|end_char=1796
+
+# text = – Протестую, – холодно заметил Игрушечник.
+# sent_id = 38
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1797|end_char=1798
+2	Протестую	протестовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1799|end_char=1808
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1808|end_char=1809
+4	–	–	PUNCT	_	_	6	punct	_	start_char=1810|end_char=1811
+5	холодно	холодный	ADV	_	Degree=Pos	6	advmod	_	start_char=1812|end_char=1819
+6	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=1820|end_char=1827
+7	Игрушечник	Игрушечник	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	6	nsubj	_	start_char=1828|end_char=1838
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1838|end_char=1839
+
+# text = – Это вам все только кажется.
+# sent_id = 39
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1840|end_char=1841
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1842|end_char=1845
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	start_char=1846|end_char=1849
+4	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=1850|end_char=1853
+5	только	только	PART	_	_	6	advmod	_	start_char=1854|end_char=1860
+6	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1861|end_char=1868
+7	.	.	PUNCT	_	_	6	punct	_	start_char=1868|end_char=1869
+
+# text = – А вам?
+# sent_id = 40
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1870|end_char=1871
+2	А	а	CCONJ	_	_	3	cc	_	start_char=1872|end_char=1873
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	0	root	_	start_char=1874|end_char=1877
+4	?	?	PUNCT	_	_	3	punct	_	start_char=1877|end_char=1878
+
+# text = Если все не важно, зачем вам столько времени во все это играть, да еще и все равно скучать?
+# sent_id = 41
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Если	если	SCONJ	_	_	4	mark	_	start_char=1879|end_char=1883
+2	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=1884|end_char=1887
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1888|end_char=1890
+4	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	advcl	_	start_char=1891|end_char=1896
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1896|end_char=1897
+6	зачем	зачем	ADV	_	Degree=Pos|PronType=Rel	0	root	_	start_char=1898|end_char=1903
+7	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	13	iobj	_	start_char=1904|end_char=1907
+8	столько	столько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	9	nummod:gov	_	start_char=1908|end_char=1915
+9	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nsubj	_	start_char=1916|end_char=1923
+10	во	во	ADP	_	_	12	case	_	start_char=1924|end_char=1926
+11	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	12	det	_	start_char=1927|end_char=1930
+12	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	start_char=1931|end_char=1934
+13	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=1935|end_char=1941
+14	,	,	PUNCT	_	_	20	punct	_	start_char=1941|end_char=1942
+15	да	да	CCONJ	_	_	20	cc	_	start_char=1943|end_char=1945
+16	еще	еще	ADV	_	Degree=Pos	15	fixed	_	start_char=1946|end_char=1949
+17	и	и	PART	_	_	18	fixed	_	start_char=1950|end_char=1951
+18	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	20	advmod	_	start_char=1952|end_char=1955
+19	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	18	fixed	_	start_char=1956|end_char=1961
+20	скучать	скучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	conj	_	start_char=1962|end_char=1969
+21	?	?	PUNCT	_	_	6	punct	_	start_char=1969|end_char=1970
+
+# text = – Это ОКР, – подсказал Доктор.
+# sent_id = 42
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1971|end_char=1972
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1973|end_char=1976
+3	ОКР	ОКР	PROPN	_	Abbr=Yes|NameType=Com	0	root	_	start_char=1977|end_char=1980
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1980|end_char=1981
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1982|end_char=1983
+6	подсказал	подсказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=1984|end_char=1993
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=1994|end_char=2000
+8	.	.	PUNCT	_	_	3	punct	_	start_char=2000|end_char=2001
+
+# text = – Обсессивно-компульсивное расстройство...
+# sent_id = 43
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2002|end_char=2003
+2	Обсессивно	обсессивно	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=2004|end_char=2014
+3	-	-	PUNCT	_	_	2	punct	_	start_char=2014|end_char=2015
+4	компульсивное	компульсивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=2015|end_char=2028
+5	расстройство	расстройство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2029|end_char=2041
+6	...	...	PUNCT	_	_	5	punct	_	start_char=2041|end_char=2044
+
+# text = – Так его же лечить надо!
+# sent_id = 44
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2045|end_char=2046
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2047|end_char=2050
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=2051|end_char=2054
+4	же	же	PART	_	_	3	advmod	_	start_char=2055|end_char=2057
+5	лечить	лечить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=2058|end_char=2064
+6	надо	надо	VERB	_	_	0	root	_	start_char=2065|end_char=2069
+7	!	!	PUNCT	_	_	6	punct	_	start_char=2069|end_char=2070
+
+# text = – обрадовалась Джо.
+# sent_id = 45
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2071|end_char=2072
+2	обрадовалась	обрадоваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2073|end_char=2085
+3	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2086|end_char=2089
+4	.	.	PUNCT	_	_	2	punct	_	start_char=2089|end_char=2090
+
+# text = – А пристрелить нельзя? – поинтересовался Бригадир.
+# sent_id = 46
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2091|end_char=2092
+2	А	а	CCONJ	_	_	4	cc	_	start_char=2093|end_char=2094
+3	пристрелить	пристрелить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=2095|end_char=2106
+4	нельзя	нельзя	VERB	_	_	0	root	_	start_char=2107|end_char=2113
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2113|end_char=2114
+6	–	–	PUNCT	_	_	7	punct	_	start_char=2115|end_char=2116
+7	поинтересовался	поинтересоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2117|end_char=2132
+8	Бригадир	Бригадир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=2133|end_char=2141
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2141|end_char=2142
+
+# text = В комнате послышалось странное жужжание, похожее на звук материализующейся ТАРДИС, но это была не ТАРДИС, или не совсем ТАРДИС.
+# sent_id = 47
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	В	в	ADP	_	_	2	case	_	start_char=2143|end_char=2144
+2	комнате	комната	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=2145|end_char=2152
+3	послышалось	послышаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2153|end_char=2164
+4	странное	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=2165|end_char=2173
+5	жужжание	жужжание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=2174|end_char=2182
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2182|end_char=2183
+7	похожее	похожий	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	start_char=2184|end_char=2191
+8	на	на	ADP	_	_	9	case	_	start_char=2192|end_char=2194
+9	звук	звук	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=2195|end_char=2199
+10	материализующейся	материализоваться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	start_char=2200|end_char=2217
+11	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Com|Number=Sing	9	nmod	_	start_char=2218|end_char=2224
+12	,	,	PUNCT	_	_	17	punct	_	start_char=2224|end_char=2225
+13	но	но	CCONJ	_	_	17	cc	_	start_char=2226|end_char=2228
+14	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	nsubj	_	start_char=2229|end_char=2232
+15	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	start_char=2233|end_char=2237
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=2238|end_char=2240
+17	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	3	conj	_	start_char=2241|end_char=2247
+18	,	,	PUNCT	_	_	22	punct	_	start_char=2247|end_char=2248
+19	или	или	CCONJ	_	_	22	cc	_	start_char=2249|end_char=2252
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=2253|end_char=2255
+21	совсем	совсем	ADV	_	Degree=Pos	22	advmod	_	start_char=2256|end_char=2262
+22	ТАРДИС	ТАРДИС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	17	conj	_	start_char=2263|end_char=2269
+23	.	.	PUNCT	_	_	3	punct	_	start_char=2269|end_char=2270
+
+# text = Это было громоздкое сооружение-лаборатория, с трубками, генераторами, датчиками и прочей «ерундой», в центре которой переливался ярким светом большой кристалл.
+# sent_id = 48
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2271|end_char=2274
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=2275|end_char=2279
+3	громоздкое	громоздкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=2280|end_char=2290
+4	сооружение	сооружение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2291|end_char=2301
+5	-	-	PUNCT	_	_	6	punct	_	start_char=2301|end_char=2302
+6	лаборатория	лаборатория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	start_char=2302|end_char=2313
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2313|end_char=2314
+8	с	с	ADP	_	_	9	case	_	start_char=2315|end_char=2316
+9	трубками	трубка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	nmod	_	start_char=2317|end_char=2325
+10	,	,	PUNCT	_	_	11	punct	_	start_char=2325|end_char=2326
+11	генераторами	генератор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	9	conj	_	start_char=2327|end_char=2339
+12	,	,	PUNCT	_	_	13	punct	_	start_char=2339|end_char=2340
+13	датчиками	датчик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	9	conj	_	start_char=2341|end_char=2350
+14	и	и	CCONJ	_	_	17	cc	_	start_char=2351|end_char=2352
+15	прочей	прочий	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	17	det	_	start_char=2353|end_char=2359
+16	«	«	PUNCT	_	_	17	punct	_	start_char=2360|end_char=2361
+17	ерундой	ерунда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	conj	_	start_char=2361|end_char=2368
+18	»	»	PUNCT	_	_	17	punct	_	start_char=2368|end_char=2369
+19	,	,	PUNCT	_	_	23	punct	_	start_char=2369|end_char=2370
+20	в	в	ADP	_	_	21	case	_	start_char=2371|end_char=2372
+21	центре	центр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	obl	_	start_char=2373|end_char=2379
+22	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	21	nmod	_	start_char=2380|end_char=2387
+23	переливался	переливаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	start_char=2388|end_char=2399
+24	ярким	яркий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	start_char=2400|end_char=2405
+25	светом	свет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	start_char=2406|end_char=2412
+26	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	start_char=2413|end_char=2420
+27	кристалл	кристалл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	start_char=2421|end_char=2429
+28	.	.	PUNCT	_	_	4	punct	_	start_char=2429|end_char=2430
+
+# text = Вокруг сооружения, возбужденно переключая рычажки, носился Мастер.
+# sent_id = 49
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Вокруг	вокруг	ADP	_	_	2	case	_	start_char=2431|end_char=2437
+2	сооружения	сооружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	start_char=2438|end_char=2448
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2448|end_char=2449
+4	возбужденно	возбужденно	ADV	_	Degree=Pos	5	advmod	_	start_char=2450|end_char=2461
+5	переключая	переключать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=2462|end_char=2472
+6	рычажки	рычажка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=2473|end_char=2480
+7	,	,	PUNCT	_	_	5	punct	_	start_char=2480|end_char=2481
+8	носился	носиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2482|end_char=2489
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=2490|end_char=2496
+10	.	.	PUNCT	_	_	8	punct	_	start_char=2496|end_char=2497
+
+# text = – А теперь, – воскликнул он торжествующе, – я получу полную власть над тобой!
+# sent_id = 50
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2498|end_char=2499
+2	А	а	CCONJ	_	_	3	cc	_	start_char=2500|end_char=2501
+3	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=2502|end_char=2508
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2508|end_char=2509
+5	–	–	PUNCT	_	_	6	punct	_	start_char=2510|end_char=2511
+6	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2512|end_char=2522
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=2523|end_char=2525
+8	торжествующе	торжествующе	ADV	_	Degree=Pos	6	advmod	_	start_char=2526|end_char=2538
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2538|end_char=2539
+10	–	–	PUNCT	_	_	12	punct	_	start_char=2540|end_char=2541
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=2542|end_char=2543
+12	получу	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2544|end_char=2550
+13	полную	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=2551|end_char=2557
+14	власть	власть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=2558|end_char=2564
+15	над	над	ADP	_	_	16	case	_	start_char=2565|end_char=2568
+16	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	12	obl	_	start_char=2569|end_char=2574
+17	!	!	PUNCT	_	_	3	punct	_	start_char=2574|end_char=2575
+
+# text = – и на что-то нажал.
+# sent_id = 51
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2576|end_char=2577
+2	и	и	CCONJ	_	_	5	cc	_	start_char=2578|end_char=2579
+3	на	на	ADP	_	_	4	case	_	start_char=2580|end_char=2582
+4	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	obl	_	start_char=2583|end_char=2589
+5	нажал	нажать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2590|end_char=2595
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2595|end_char=2596
+
+# text = Все в комнате, а может, и во Вселенной на какое-то мгновение исчезло.
+# sent_id = 52
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	nsubj	_	start_char=2597|end_char=2600
+2	в	в	ADP	_	_	3	case	_	start_char=2601|end_char=2602
+3	комнате	комната	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=2603|end_char=2610
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2610|end_char=2611
+5	а	а	CCONJ	_	_	6	cc	_	start_char=2612|end_char=2613
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2614|end_char=2619
+7	,	,	PUNCT	_	_	14	punct	_	start_char=2619|end_char=2620
+8	и	и	CCONJ	_	_	14	cc	_	start_char=2621|end_char=2622
+9	во	во	ADP	_	_	10	case	_	start_char=2623|end_char=2625
+10	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	14	obl	_	start_char=2626|end_char=2635
+11	на	на	ADP	_	_	13	case	_	start_char=2636|end_char=2638
+12	какое-то	какой-то	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	13	det	_	start_char=2639|end_char=2647
+13	мгновение	мгновение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obl	_	start_char=2648|end_char=2657
+14	исчезло	исчезнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=2658|end_char=2665
+15	.	.	PUNCT	_	_	3	punct	_	start_char=2665|end_char=2666
+
+# text = А может, просто что-то случилось со светом.
+# sent_id = 53
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	А	а	CCONJ	_	_	6	cc	_	start_char=2667|end_char=2668
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2669|end_char=2674
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2674|end_char=2675
+4	просто	просто	PART	_	_	6	advmod	_	start_char=2676|end_char=2682
+5	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	start_char=2683|end_char=2689
+6	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2690|end_char=2699
+7	со	со	ADP	_	_	8	case	_	start_char=2700|end_char=2702
+8	светом	свет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=2703|end_char=2709
+9	.	.	PUNCT	_	_	6	punct	_	start_char=2709|end_char=2710
+
+# text = Понемногу все прояснилось – появились облака пара неясного происхождения, затем они рассеялись, посреди комнаты проявилось странное сооружение с пульсирующе святящимся все слабее и гаснущим кристаллом посередине и задумчиво потирающий бороду Мастер.
+# sent_id = 54
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Понемногу	понемногу	ADV	_	Degree=Pos	3	advmod	_	start_char=2711|end_char=2720
+2	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	nsubj	_	start_char=2721|end_char=2724
+3	прояснилось	проясниться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2725|end_char=2736
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2737|end_char=2738
+5	появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=2739|end_char=2748
+6	облака	облако	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	start_char=2749|end_char=2755
+7	пара	пара	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=2756|end_char=2760
+8	неясного	неясный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=2761|end_char=2769
+9	происхождения	происхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=2770|end_char=2783
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2783|end_char=2784
+11	затем	затем	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=2785|end_char=2790
+12	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=2791|end_char=2794
+13	рассеялись	рассеяться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=2795|end_char=2805
+14	,	,	PUNCT	_	_	17	punct	_	start_char=2805|end_char=2806
+15	посреди	посреди	ADP	_	_	16	case	_	start_char=2807|end_char=2814
+16	комнаты	комната	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	start_char=2815|end_char=2822
+17	проявилось	проявиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2823|end_char=2833
+18	странное	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=2834|end_char=2842
+19	сооружение	сооружение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	start_char=2843|end_char=2853
+20	с	с	ADP	_	_	27	case	_	start_char=2854|end_char=2855
+21	пульсирующе	пульсирующе	ADV	_	Degree=Pos	22	advmod	_	start_char=2856|end_char=2867
+22	святящимся	святиться	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	acl	_	start_char=2868|end_char=2878
+23	все	всё	ADV	_	Degree=Pos|PronType=Tot	24	advmod	_	start_char=2879|end_char=2882
+24	слабее	слабый	ADJ	_	Degree=Cmp	19	amod	_	start_char=2883|end_char=2889
+25	и	и	CCONJ	_	_	26	cc	_	start_char=2890|end_char=2891
+26	гаснущим	гаснуть	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	conj	_	start_char=2892|end_char=2900
+27	кристаллом	кристалл	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	obl	_	start_char=2901|end_char=2911
+28	посередине	посередине	ADV	_	Degree=Pos	24	advmod	_	start_char=2912|end_char=2922
+29	и	и	CCONJ	_	_	31	cc	_	start_char=2923|end_char=2924
+30	задумчиво	задумчиво	ADV	_	Degree=Pos	31	advmod	_	start_char=2925|end_char=2934
+31	потирающий	потирать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	28	conj	_	start_char=2935|end_char=2945
+32	бороду	борода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obj	_	start_char=2946|end_char=2952
+33	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	appos	_	start_char=2953|end_char=2959
+34	.	.	PUNCT	_	_	3	punct	_	start_char=2959|end_char=2960
+
+# text = – Игрушечник? – на всякий случай позвал Доктор в пространство.
+# sent_id = 55
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2961|end_char=2962
+2	Игрушечник	игрушечник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2963|end_char=2973
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2973|end_char=2974
+4	–	–	PUNCT	_	_	8	punct	_	start_char=2975|end_char=2976
+5	на	на	ADP	_	_	7	case	_	start_char=2977|end_char=2979
+6	всякий	всякий	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	start_char=2980|end_char=2986
+7	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=2987|end_char=2993
+8	позвал	позвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=2994|end_char=3000
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=3001|end_char=3007
+10	в	в	ADP	_	_	11	case	_	start_char=3008|end_char=3009
+11	пространство	пространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	start_char=3010|end_char=3022
+12	.	.	PUNCT	_	_	2	punct	_	start_char=3022|end_char=3023
+
+# text = Ему никто не ответил.
+# sent_id = 56
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=3024|end_char=3027
+2	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	4	nsubj	_	start_char=3028|end_char=3033
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3034|end_char=3036
+4	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3037|end_char=3044
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3044|end_char=3045
+
+# text = Бригадир подошел к сооружению и сумрачно посмотрел на Мастера.
+# sent_id = 57
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3046|end_char=3054
+2	подошел	подойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3055|end_char=3062
+3	к	к	ADP	_	_	4	case	_	start_char=3063|end_char=3064
+4	сооружению	сооружение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	obl	_	start_char=3065|end_char=3075
+5	и	и	CCONJ	_	_	7	cc	_	start_char=3076|end_char=3077
+6	сумрачно	сумрачно	ADV	_	Degree=Pos	7	advmod	_	start_char=3078|end_char=3086
+7	посмотрел	посмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3087|end_char=3096
+8	на	на	ADP	_	_	9	case	_	start_char=3097|end_char=3099
+9	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	start_char=3100|end_char=3107
+10	.	.	PUNCT	_	_	2	punct	_	start_char=3107|end_char=3108
+
+# text = – Ну а дальше что?
+# sent_id = 58
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3109|end_char=3110
+2	Ну	ну	PART	_	_	5	parataxis	_	start_char=3111|end_char=3113
+3	а	а	CCONJ	_	_	5	cc	_	start_char=3114|end_char=3115
+4	дальше	дальше	ADV	_	Degree=Cmp	5	advmod	_	start_char=3116|end_char=3122
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=3123|end_char=3126
+6	?	?	PUNCT	_	_	5	punct	_	start_char=3126|end_char=3127
+
+# text = – Ну... теперь он в этом кристалле.
+# sent_id = 59
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	8	punct	_	start_char=3128|end_char=3129
+2	Ну	ну	PART	_	_	8	discourse	_	start_char=3130|end_char=3132
+3	...	...	PUNCT	_	_	2	punct	_	start_char=3132|end_char=3135
+4	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=3136|end_char=3142
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=3143|end_char=3145
+6	в	в	ADP	_	_	8	case	_	start_char=3146|end_char=3147
+7	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=3148|end_char=3152
+8	кристалле	кристалл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=3153|end_char=3162
+9	.	.	PUNCT	_	_	8	punct	_	start_char=3162|end_char=3163
+
+# text = – И как вы собираетесь им управлять?
+# sent_id = 60
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3164|end_char=3165
+2	И	и	CCONJ	_	_	5	cc	_	start_char=3166|end_char=3167
+3	как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=3168|end_char=3171
+4	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=3172|end_char=3174
+5	собираетесь	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3175|end_char=3186
+6	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	iobj	_	start_char=3187|end_char=3189
+7	управлять	управлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=3190|end_char=3199
+8	?	?	PUNCT	_	_	5	punct	_	start_char=3199|end_char=3200
+
+# text = – Теоретически, его можно оттуда выпустить.
+# sent_id = 61
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3201|end_char=3202
+2	Теоретически	теоретически	ADV	_	Degree=Pos	5	parataxis	_	start_char=3203|end_char=3215
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3215|end_char=3216
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=3217|end_char=3220
+5	можно	можно	VERB	_	_	0	root	_	start_char=3221|end_char=3226
+6	оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=3227|end_char=3233
+7	выпустить	выпустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=3234|end_char=3243
+8	.	.	PUNCT	_	_	5	punct	_	start_char=3243|end_char=3244
+
+# text = – И что будет?
+# sent_id = 62
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3245|end_char=3246
+2	И	и	CCONJ	_	_	3	cc	_	start_char=3247|end_char=3248
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	start_char=3249|end_char=3252
+4	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=3253|end_char=3258
+5	?	?	PUNCT	_	_	4	punct	_	start_char=3258|end_char=3259
+
+# text = Мастер раздраженно посмотрел на Бригадира, потом на Доктора и Джо, еще больше насупившись.
+# sent_id = 63
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3260|end_char=3266
+2	раздраженно	раздраженно	ADV	_	Degree=Pos	3	advmod	_	start_char=3267|end_char=3278
+3	посмотрел	посмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3279|end_char=3288
+4	на	на	ADP	_	_	5	case	_	start_char=3289|end_char=3291
+5	Бригадира	Бригадир	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	3	obl	_	start_char=3292|end_char=3301
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3301|end_char=3302
+7	потом	потом	ADV	_	Degree=Pos|PronType=Dem	9	orphan	_	start_char=3303|end_char=3308
+8	на	на	ADP	_	_	9	case	_	start_char=3309|end_char=3311
+9	Доктора	доктор	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	3	conj	_	start_char=3312|end_char=3319
+10	и	и	CCONJ	_	_	11	cc	_	start_char=3320|end_char=3321
+11	Джо	Джо	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	9	conj	_	start_char=3322|end_char=3325
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3325|end_char=3326
+13	еще	еще	ADV	_	Degree=Pos	14	advmod	_	start_char=3327|end_char=3330
+14	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	15	advmod	_	start_char=3331|end_char=3337
+15	насупившись	насупиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	3	advcl	_	start_char=3338|end_char=3349
+16	.	.	PUNCT	_	_	3	punct	_	start_char=3349|end_char=3350
+
+# text = – Еще не придумали, да?
+# sent_id = 64
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3351|end_char=3352
+2	Еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=3353|end_char=3356
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3357|end_char=3359
+4	придумали	придумать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3360|end_char=3369
+5	,	,	PUNCT	_	_	6	punct	_	start_char=3369|end_char=3370
+6	да	да	PART	_	_	4	parataxis	_	start_char=3371|end_char=3373
+7	?	?	PUNCT	_	_	4	punct	_	start_char=3373|end_char=3374
+
+# text = – Если выпустить – то будет то же, что и было!
+# sent_id = 65
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3375|end_char=3376
+2	Если	если	SCONJ	_	_	3	mark	_	start_char=3377|end_char=3381
+3	выпустить	выпустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=3382|end_char=3391
+4	–	–	PUNCT	_	_	3	punct	_	start_char=3392|end_char=3393
+5	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	mark	_	start_char=3394|end_char=3396
+6	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	_	start_char=3397|end_char=3402
+7	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=3403|end_char=3405
+8	же	же	PART	_	_	7	advmod	_	start_char=3406|end_char=3408
+9	,	,	PUNCT	_	_	12	punct	_	start_char=3408|end_char=3409
+10	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj	_	start_char=3410|end_char=3413
+11	и	и	PART	_	_	12	advmod	_	start_char=3414|end_char=3415
+12	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	acl	_	start_char=3416|end_char=3420
+13	!	!	PUNCT	_	_	7	punct	_	start_char=3420|end_char=3421
+
+# text = Как это, не придумал? – возмутился Мастер.
+# sent_id = 66
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=3422|end_char=3425
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3426|end_char=3429
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3429|end_char=3430
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3431|end_char=3433
+5	придумал	придумать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3434|end_char=3442
+6	?	?	PUNCT	_	_	5	punct	_	start_char=3442|end_char=3443
+7	–	–	PUNCT	_	_	8	punct	_	start_char=3444|end_char=3445
+8	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=3446|end_char=3456
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=3457|end_char=3463
+10	.	.	PUNCT	_	_	5	punct	_	start_char=3463|end_char=3464
+
+# text = – Ерунда получится, – сочувственно заметила Джо.
+# sent_id = 67
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3465|end_char=3466
+2	Ерунда	ерунда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=3467|end_char=3473
+3	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3474|end_char=3483
+4	,	,	PUNCT	_	_	7	punct	_	start_char=3483|end_char=3484
+5	–	–	PUNCT	_	_	7	punct	_	start_char=3485|end_char=3486
+6	сочувственно	сочувственно	ADV	_	Degree=Pos	7	advmod	_	start_char=3487|end_char=3499
+7	заметила	заметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3500|end_char=3508
+8	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=3509|end_char=3512
+9	.	.	PUNCT	_	_	3	punct	_	start_char=3512|end_char=3513
+
+# text = Мастер фыркнул.
+# sent_id = 68
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3514|end_char=3520
+2	фыркнул	фыркнуть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3521|end_char=3528
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3528|end_char=3529
+
+# text = – Ну что ж, поздравляю, – сказал Доктор.
+# sent_id = 69
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3530|end_char=3531
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=3532|end_char=3534
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=3535|end_char=3538
+4	ж	ж	PART	_	_	3	advmod	_	start_char=3539|end_char=3540
+5	,	,	PUNCT	_	_	3	punct	_	start_char=3540|end_char=3541
+6	поздравляю	поздравлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3542|end_char=3552
+7	,	,	PUNCT	_	_	9	punct	_	start_char=3552|end_char=3553
+8	–	–	PUNCT	_	_	9	punct	_	start_char=3554|end_char=3555
+9	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3556|end_char=3562
+10	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=3563|end_char=3569
+11	.	.	PUNCT	_	_	3	punct	_	start_char=3569|end_char=3570
+
+# text = – Хоть что-то хорошее у тебя получилось, пусть и случайно.
+# sent_id = 70
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3571|end_char=3572
+2	Хоть	хоть	SCONJ	_	_	7	mark	_	start_char=3573|end_char=3577
+3	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	nsubj	_	start_char=3578|end_char=3584
+4	хорошее	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=3585|end_char=3592
+5	у	у	ADP	_	_	6	case	_	start_char=3593|end_char=3594
+6	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	obl	_	start_char=3595|end_char=3599
+7	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3600|end_char=3610
+8	,	,	PUNCT	_	_	11	punct	_	start_char=3610|end_char=3611
+9	пусть	пусть	SCONJ	_	_	11	mark	_	start_char=3612|end_char=3617
+10	и	и	PART	_	_	11	advmod	_	start_char=3618|end_char=3619
+11	случайно	случайно	ADV	_	Degree=Pos	7	advmod	_	start_char=3620|end_char=3628
+12	.	.	PUNCT	_	_	7	punct	_	start_char=3628|end_char=3629
+
+# text = – Ничего случайного, Доктор!
+# sent_id = 71
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3630|end_char=3631
+2	Ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=3632|end_char=3638
+3	случайного	случайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=3639|end_char=3649
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3649|end_char=3650
+5	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=3651|end_char=3657
+6	!	!	PUNCT	_	_	2	punct	_	start_char=3657|end_char=3658
+
+# text = – Угу, – кивнул Доктор.
+# sent_id = 72
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3659|end_char=3660
+2	Угу	угу	INTJ	_	_	0	root	_	start_char=3661|end_char=3664
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3664|end_char=3665
+4	–	–	PUNCT	_	_	5	punct	_	start_char=3666|end_char=3667
+5	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3668|end_char=3674
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=3675|end_char=3681
+7	.	.	PUNCT	_	_	2	punct	_	start_char=3681|end_char=3682
+
+# text = – Просто игра, да?
+# sent_id = 73
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3683|end_char=3684
+2	Просто	просто	PART	_	_	3	advmod	_	start_char=3685|end_char=3691
+3	игра	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3692|end_char=3696
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3696|end_char=3697
+5	да	да	PART	_	_	3	parataxis	_	start_char=3698|end_char=3700
+6	?	?	PUNCT	_	_	3	punct	_	start_char=3700|end_char=3701
+
+# text = По его правилам.
+# sent_id = 74
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	По	по	ADP	_	_	3	case	_	start_char=3702|end_char=3704
+2	его	его	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=3705|end_char=3708
+3	правилам	правило	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	0	root	_	start_char=3709|end_char=3717
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3717|end_char=3718
+
+# text = Выпусти его, и ничего не изменится.
+# sent_id = 75
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Выпусти	выпустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	start_char=3719|end_char=3726
+2	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=3727|end_char=3730
+3	,	,	PUNCT	_	_	7	punct	_	start_char=3730|end_char=3731
+4	и	и	CCONJ	_	_	7	cc	_	start_char=3732|end_char=3733
+5	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	7	nsubj	_	start_char=3734|end_char=3740
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3741|end_char=3743
+7	изменится	измениться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=3744|end_char=3753
+8	.	.	PUNCT	_	_	1	punct	_	start_char=3753|end_char=3754
+
+# text = – Смотря для кого...
+# sent_id = 76
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3755|end_char=3756
+2	Смотря	смотреть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	start_char=3757|end_char=3763
+3	для	для	ADP	_	_	4	case	_	start_char=3764|end_char=3767
+4	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Int	2	obl	_	start_char=3768|end_char=3772
+5	...	...	PUNCT	_	_	2	punct	_	start_char=3772|end_char=3775
+
+# text = –
+# sent_id = 77
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	0	root	_	start_char=3776|end_char=3777
+
+# text = А вот это – да.
+# sent_id = 78
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	А	а	CCONJ	_	_	5	cc	_	start_char=3778|end_char=3779
+2	вот	вот	PART	_	_	5	advmod	_	start_char=3780|end_char=3783
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3784|end_char=3787
+4	–	–	PUNCT	_	_	5	punct	_	start_char=3788|end_char=3789
+5	да	да	PART	_	_	0	root	_	start_char=3790|end_char=3792
+6	.	.	PUNCT	_	_	5	punct	_	start_char=3792|end_char=3793
+
+# text = Вряд ли ему нравится конкуренция на таком уровне.
+# sent_id = 79
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Вряд	вряд	ADV	_	Degree=Pos	4	advmod	_	start_char=3794|end_char=3798
+2	ли	ли	PART	_	_	1	advmod	_	start_char=3799|end_char=3801
+3	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=3802|end_char=3805
+4	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3806|end_char=3814
+5	конкуренция	конкуренция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=3815|end_char=3826
+6	на	на	ADP	_	_	8	case	_	start_char=3827|end_char=3829
+7	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=3830|end_char=3835
+8	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	start_char=3836|end_char=3842
+9	.	.	PUNCT	_	_	4	punct	_	start_char=3842|end_char=3843
+
+# text = Бригадир кашлянул.
+# sent_id = 80
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=3844|end_char=3852
+2	кашлянул	кашлянуть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3853|end_char=3861
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3861|end_char=3862
+
+# text = – У меня есть идея, – сказал он.
+# sent_id = 81
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3863|end_char=3864
+2	У	у	ADP	_	_	3	case	_	start_char=3865|end_char=3866
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=3867|end_char=3871
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3872|end_char=3876
+5	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=3877|end_char=3881
+6	,	,	PUNCT	_	_	8	punct	_	start_char=3881|end_char=3882
+7	–	–	PUNCT	_	_	8	punct	_	start_char=3883|end_char=3884
+8	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=3885|end_char=3891
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=3892|end_char=3894
+10	.	.	PUNCT	_	_	4	punct	_	start_char=3894|end_char=3895
+
+# text = – У ЮНИТ есть архив, предусмотрены чрезвычайно секретные режимы.
+# sent_id = 82
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3896|end_char=3897
+2	У	у	ADP	_	_	3	case	_	start_char=3898|end_char=3899
+3	ЮНИТ	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	0	root	_	start_char=3900|end_char=3904
+4	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	start_char=3905|end_char=3909
+5	архив	архив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=3910|end_char=3915
+6	,	,	PUNCT	_	_	7	punct	_	start_char=3915|end_char=3916
+7	предусмотрены	предусмотрить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	conj	_	start_char=3917|end_char=3930
+8	чрезвычайно	чрезвычайно	ADV	_	Degree=Pos	9	advmod	_	start_char=3931|end_char=3942
+9	секретные	секретный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	start_char=3943|end_char=3952
+10	режимы	режим	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	start_char=3953|end_char=3959
+11	.	.	PUNCT	_	_	3	punct	_	start_char=3959|end_char=3960
+
+# text = – В черную дыру сбросить будет надежней, – заметил Мастер.
+# sent_id = 83
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	7	punct	_	start_char=3961|end_char=3962
+2	В	в	ADP	_	_	4	case	_	start_char=3963|end_char=3964
+3	черную	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=3965|end_char=3971
+4	дыру	дыра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=3972|end_char=3976
+5	сбросить	сбросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=3977|end_char=3985
+6	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	_	start_char=3986|end_char=3991
+7	надежней	надежний	ADJ	_	Degree=Cmp	0	root	_	start_char=3992|end_char=4000
+8	,	,	PUNCT	_	_	10	punct	_	start_char=4000|end_char=4001
+9	–	–	PUNCT	_	_	10	punct	_	start_char=4002|end_char=4003
+10	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=4004|end_char=4011
+11	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=4012|end_char=4018
+12	.	.	PUNCT	_	_	7	punct	_	start_char=4018|end_char=4019
+
+# text = – Черная дыра может повредить кристалл, – заметил Доктор.
+# sent_id = 84
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4020|end_char=4021
+2	Черная	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=4022|end_char=4028
+3	дыра	дыра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=4029|end_char=4033
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4034|end_char=4039
+5	повредить	повредить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=4040|end_char=4049
+6	кристалл	кристалл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=4050|end_char=4058
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4058|end_char=4059
+8	–	–	PUNCT	_	_	9	punct	_	start_char=4060|end_char=4061
+9	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4062|end_char=4069
+10	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=4070|end_char=4076
+11	.	.	PUNCT	_	_	4	punct	_	start_char=4076|end_char=4077
+
+# text = – А вот его – навряд ли.
+# sent_id = 85
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4078|end_char=4079
+2	А	а	CCONJ	_	_	6	cc	_	start_char=4080|end_char=4081
+3	вот	вот	PART	_	_	6	advmod	_	start_char=4082|end_char=4085
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	orphan	_	start_char=4086|end_char=4089
+5	–	–	PUNCT	_	_	6	punct	_	start_char=4090|end_char=4091
+6	навряд	навряд	ADV	_	Degree=Pos	0	root	_	start_char=4092|end_char=4098
+7	ли	ли	PART	_	_	6	advmod	_	start_char=4099|end_char=4101
+8	.	.	PUNCT	_	_	3	punct	_	start_char=4101|end_char=4102
+
+# text = – Давайте номинально будем считать архив черной дырой, – предложила Джо.
+# sent_id = 86
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4103|end_char=4104
+2	Давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4105|end_char=4112
+3	номинально	номинально	ADV	_	Degree=Pos	5	advmod	_	start_char=4113|end_char=4123
+4	будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux	_	start_char=4124|end_char=4129
+5	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=4130|end_char=4137
+6	архив	архив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=4138|end_char=4143
+7	черной	черный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=4144|end_char=4150
+8	дырой	дыра	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	iobj	_	start_char=4151|end_char=4156
+9	,	,	PUNCT	_	_	11	punct	_	start_char=4156|end_char=4157
+10	–	–	PUNCT	_	_	11	punct	_	start_char=4158|end_char=4159
+11	предложила	предложить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4160|end_char=4170
+12	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	11	nsubj	_	start_char=4171|end_char=4174
+13	.	.	PUNCT	_	_	2	punct	_	start_char=4174|end_char=4175
+
+# text = – Назовем его – черный архив!
+# sent_id = 87
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4176|end_char=4177
+2	Назовем	назовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4178|end_char=4185
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=4186|end_char=4189
+4	–	–	PUNCT	_	_	6	punct	_	start_char=4190|end_char=4191
+5	черный	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=4192|end_char=4198
+6	архив	архив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=4199|end_char=4204
+7	!	!	PUNCT	_	_	2	punct	_	start_char=4204|end_char=4205
+
+# text = – Одобряю, мисс Грант!
+# sent_id = 88
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4206|end_char=4207
+2	Одобряю	одобрять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4208|end_char=4215
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4215|end_char=4216
+4	мисс	мисс	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=4217|end_char=4221
+5	Грант	Грант	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	flat:name	_	start_char=4222|end_char=4227
+6	!	!	PUNCT	_	_	2	punct	_	start_char=4227|end_char=4228
+
+# text = – удовлетворенно кивнул Бригадир.
+# sent_id = 89
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4229|end_char=4230
+2	удовлетворенно	удовлетворенно	ADV	_	Degree=Pos	3	advmod	_	start_char=4231|end_char=4245
+3	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4246|end_char=4252
+4	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=4253|end_char=4261
+5	.	.	PUNCT	_	_	3	punct	_	start_char=4261|end_char=4262
+
+# text = – Это же просто смешно, – возмутился Мастер.
+# sent_id = 90
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4263|end_char=4264
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=4265|end_char=4268
+3	же	же	PART	_	_	2	advmod	_	start_char=4269|end_char=4271
+4	просто	просто	PART	_	_	5	advmod	_	start_char=4272|end_char=4278
+5	смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4279|end_char=4285
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4285|end_char=4286
+7	–	–	PUNCT	_	_	8	punct	_	start_char=4287|end_char=4288
+8	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=4289|end_char=4299
+9	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=4300|end_char=4306
+10	.	.	PUNCT	_	_	5	punct	_	start_char=4306|end_char=4307
+
+# text = – Только номинально смешно, – возразил Доктор.
+# sent_id = 91
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4308|end_char=4309
+2	Только	только	PART	_	_	3	advmod	_	start_char=4310|end_char=4316
+3	номинально	номинально	ADV	_	Degree=Pos	4	advmod	_	start_char=4317|end_char=4327
+4	смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4328|end_char=4334
+5	,	,	PUNCT	_	_	7	punct	_	start_char=4334|end_char=4335
+6	–	–	PUNCT	_	_	7	punct	_	start_char=4336|end_char=4337
+7	возразил	возразить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4338|end_char=4346
+8	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=4347|end_char=4353
+9	.	.	PUNCT	_	_	4	punct	_	start_char=4353|end_char=4354
+
+# text = – Все равно некому и незачем его оттуда выпускать.
+# sent_id = 92
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4355|end_char=4356
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	advmod	_	start_char=4357|end_char=4360
+3	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	fixed	_	start_char=4361|end_char=4366
+4	некому	некого	VERB	_	Polarity=Neg	0	root	_	start_char=4367|end_char=4373
+5	и	и	CCONJ	_	_	6	cc	_	start_char=4374|end_char=4375
+6	незачем	незачать	VERB	_	_	4	conj	_	start_char=4376|end_char=4383
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=4384|end_char=4387
+8	оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=4388|end_char=4394
+9	выпускать	выпускать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=4395|end_char=4404
+10	.	.	PUNCT	_	_	4	punct	_	start_char=4404|end_char=4405
+
+# text = Особенно если мы сломаем эту машину!
+# sent_id = 93
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Особенно	особенно	ADV	_	Degree=Pos	4	advmod	_	start_char=4406|end_char=4414
+2	если	если	SCONJ	_	_	4	mark	_	start_char=4415|end_char=4419
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=4420|end_char=4422
+4	сломаем	сломать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4423|end_char=4430
+5	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=4431|end_char=4434
+6	машину	машина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=4435|end_char=4441
+7	!	!	PUNCT	_	_	4	punct	_	start_char=4441|end_char=4442
+
+# text = – Вообще-то, это я загнал его в кристалл, мне его и хранить!
+# sent_id = 94
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	8	punct	_	start_char=4443|end_char=4444
+2	Вообще	вообще	ADV	_	Degree=Pos	8	advmod	_	start_char=4445|end_char=4451
+3	-	-	PUNCT	_	_	4	punct	_	start_char=4451|end_char=4452
+4	то	то	PART	_	_	2	advmod	_	start_char=4452|end_char=4454
+5	,	,	PUNCT	_	_	2	punct	_	start_char=4454|end_char=4455
+6	это	это	PART	_	_	8	expl	_	start_char=4456|end_char=4459
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=4460|end_char=4461
+8	загнал	загнать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4462|end_char=4468
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=4469|end_char=4472
+10	в	в	ADP	_	_	11	case	_	start_char=4473|end_char=4474
+11	кристалл	кристалл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=4475|end_char=4483
+12	,	,	PUNCT	_	_	16	punct	_	start_char=4483|end_char=4484
+13	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	iobj	_	start_char=4485|end_char=4488
+14	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=4489|end_char=4492
+15	и	и	PART	_	_	16	advmod	_	start_char=4493|end_char=4494
+16	хранить	хранить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	conj	_	start_char=4495|end_char=4502
+17	!	!	PUNCT	_	_	8	punct	_	start_char=4502|end_char=4503
+
+# text = Пока Доктор и Мастер смотрели друг на друга, Бригадир подмигнул Джо Грант.
+# sent_id = 95
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Пока	пока	SCONJ	_	_	5	mark	_	start_char=4504|end_char=4508
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4509|end_char=4515
+3	и	и	CCONJ	_	_	4	cc	_	start_char=4516|end_char=4517
+4	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=4518|end_char=4524
+5	смотрели	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=4525|end_char=4533
+6	друг	друг	PRON	_	Case=Nom|PronType=Rcp	5	obl	_	start_char=4534|end_char=4538
+7	на	на	ADP	_	_	6	fixed	_	start_char=4539|end_char=4541
+8	друга	друг	PRON	_	Case=Acc|PronType=Rcp	6	fixed	_	start_char=4542|end_char=4547
+9	,	,	PUNCT	_	_	5	punct	_	start_char=4547|end_char=4548
+10	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=4549|end_char=4557
+11	подмигнул	подмигнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4558|end_char=4567
+12	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	nsubj	_	start_char=4568|end_char=4571
+13	Грант	Грант	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	12	flat:name	_	start_char=4572|end_char=4577
+14	.	.	PUNCT	_	_	11	punct	_	start_char=4577|end_char=4578
+
+# text = Та незаметно кивнула и стала подкрадываться к устройству.
+# sent_id = 96
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4579|end_char=4581
+2	незаметно	незаметно	ADV	_	Degree=Pos	3	advmod	_	start_char=4582|end_char=4591
+3	кивнула	кивнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4592|end_char=4599
+4	и	и	CCONJ	_	_	5	cc	_	start_char=4600|end_char=4601
+5	стала	стать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4602|end_char=4607
+6	подкрадываться	подкрадываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=4608|end_char=4622
+7	к	к	ADP	_	_	8	case	_	start_char=4623|end_char=4624
+8	устройству	устройство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	start_char=4625|end_char=4635
+9	.	.	PUNCT	_	_	3	punct	_	start_char=4635|end_char=4636
+
+# text = А подкравшись, ловко выхватила кристалл из устройства.
+# sent_id = 97
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	А	а	CCONJ	_	_	5	cc	_	start_char=4637|end_char=4638
+2	подкравшись	подкраться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	5	advcl	_	start_char=4639|end_char=4650
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4650|end_char=4651
+4	ловко	ловкий	ADV	_	Degree=Pos	5	advmod	_	start_char=4652|end_char=4657
+5	выхватила	выхватить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4658|end_char=4667
+6	кристалл	кристалл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=4668|end_char=4676
+7	из	из	ADP	_	_	8	case	_	start_char=4677|end_char=4679
+8	устройства	устройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	start_char=4680|end_char=4690
+9	.	.	PUNCT	_	_	5	punct	_	start_char=4690|end_char=4691
+
+# text = Бригадир тут же переключил несколько попавшихся рядом рычажков.
+# sent_id = 98
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4692|end_char=4700
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4701|end_char=4704
+3	же	же	PART	_	_	2	advmod	_	start_char=4705|end_char=4707
+4	переключил	переключить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4708|end_char=4718
+5	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=4719|end_char=4728
+6	попавшихся	попасться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	start_char=4729|end_char=4739
+7	рядом	рядом	ADV	_	Degree=Pos	6	advmod	_	start_char=4740|end_char=4745
+8	рычажков	рычажок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obj	_	start_char=4746|end_char=4754
+9	.	.	PUNCT	_	_	4	punct	_	start_char=4754|end_char=4755
+
+# text = Устройство пропало вместе с Мастером.
+# sent_id = 99
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Устройство	устройство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=4756|end_char=4766
+2	пропало	пропасть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4767|end_char=4774
+3	вместе	вместе	ADV	_	Degree=Pos	2	advmod	_	start_char=4775|end_char=4781
+4	с	с	ADP	_	_	5	case	_	start_char=4782|end_char=4783
+5	Мастером	мастер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=4784|end_char=4792
+6	.	.	PUNCT	_	_	2	punct	_	start_char=4792|end_char=4793
+
+# text = Кристалл остался.
+# sent_id = 100
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	Кристалл	кристалл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4794|end_char=4802
+2	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4803|end_char=4810
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4810|end_char=4811
+
+# text = – Эй! – воскликнул Доктор.
+# sent_id = 101
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4812|end_char=4813
+2	Эй	эй	INTJ	_	_	0	root	_	start_char=4814|end_char=4816
+3	!	!	PUNCT	_	_	2	punct	_	start_char=4816|end_char=4817
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4818|end_char=4819
+5	воскликнул	воскликнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4820|end_char=4830
+6	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4831|end_char=4837
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4837|end_char=4838
+
+# text = – Вы же могли все испортить!
+# sent_id = 102
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4839|end_char=4840
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=4841|end_char=4843
+3	же	же	PART	_	_	2	advmod	_	start_char=4844|end_char=4846
+4	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4847|end_char=4852
+5	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	6	obj	_	start_char=4853|end_char=4856
+6	испортить	испортить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=4857|end_char=4866
+7	!	!	PUNCT	_	_	4	punct	_	start_char=4866|end_char=4867
+
+# text = – В Черный архив? – спросила довольная Джо, укутывая кристалл в шелковый шарфик.
+# sent_id = 103
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4868|end_char=4869
+2	В	в	ADP	_	_	4	case	_	start_char=4870|end_char=4871
+3	Черный	черный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=4872|end_char=4878
+4	архив	архив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	start_char=4879|end_char=4884
+5	?	?	PUNCT	_	_	4	punct	_	start_char=4884|end_char=4885
+6	–	–	PUNCT	_	_	7	punct	_	start_char=4886|end_char=4887
+7	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4888|end_char=4896
+8	довольная	довольный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=4897|end_char=4906
+9	Джо	Джо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=4907|end_char=4910
+10	,	,	PUNCT	_	_	11	punct	_	start_char=4910|end_char=4911
+11	укутывая	укутывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=4912|end_char=4920
+12	кристалл	кристалл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=4921|end_char=4929
+13	в	в	ADP	_	_	15	case	_	start_char=4930|end_char=4931
+14	шелковый	шелковый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=4932|end_char=4940
+15	шарфик	шарфик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=4941|end_char=4947
+16	.	.	PUNCT	_	_	4	punct	_	start_char=4947|end_char=4948
+
+# text = – В Черный архив, – кивнул Бригадир.
+# sent_id = 104
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4949|end_char=4950
+2	В	в	ADP	_	_	4	case	_	start_char=4951|end_char=4952
+3	Черный	черный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=4953|end_char=4959
+4	архив	архив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	start_char=4960|end_char=4965
+5	,	,	PUNCT	_	_	7	punct	_	start_char=4965|end_char=4966
+6	–	–	PUNCT	_	_	7	punct	_	start_char=4967|end_char=4968
+7	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4969|end_char=4975
+8	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=4976|end_char=4984
+9	.	.	PUNCT	_	_	4	punct	_	start_char=4984|end_char=4985
+
+# text = – Конечно, как только все как следует запротоколируем и надлежащим образом оформим!
+# sent_id = 105
+# metadata = Название: Жизнь - игра, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/547318f500000a7fb556e27/1/Zhizn-igra
+1	–	–	PUNCT	_	_	9	punct	_	start_char=4986|end_char=4987
+2	Конечно	конечно	ADV	_	Degree=Pos	9	parataxis	_	start_char=4988|end_char=4995
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4995|end_char=4996
+4	как	как	SCONJ	_	_	9	mark	_	start_char=4997|end_char=5000
+5	только	только	PART	_	_	4	fixed	_	start_char=5001|end_char=5007
+6	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	9	nsubj	_	start_char=5008|end_char=5011
+7	как	как	SCONJ	_	_	8	mark	_	start_char=5012|end_char=5015
+8	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=5016|end_char=5023
+9	запротоколируем	запротоколировать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5024|end_char=5039
+10	и	и	CCONJ	_	_	13	cc	_	start_char=5040|end_char=5041
+11	надлежащим	надлежащий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=5042|end_char=5052
+12	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	obl	_	start_char=5053|end_char=5060
+13	оформим	оформить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	9	conj	_	start_char=5061|end_char=5068
+14	!	!	PUNCT	_	_	9	punct	_	start_char=5068|end_char=5069
+

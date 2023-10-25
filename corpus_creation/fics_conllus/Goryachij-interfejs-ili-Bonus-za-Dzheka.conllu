@@ -1,0 +1,816 @@
+# text = Тот, которого когда-то звали Доктором, а сейчас предпочитают вообще не звать, сидел на коленях перед ящиком.
+# sent_id = 0
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	15	nsubj	_	start_char=0|end_char=3
+2	,	,	PUNCT	_	_	5	punct	_	start_char=3|end_char=4
+3	которого	который	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	5	obj	_	start_char=5|end_char=13
+4	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=14|end_char=22
+5	звали	звать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=23|end_char=28
+6	Доктором	доктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	iobj	_	start_char=29|end_char=37
+7	,	,	PUNCT	_	_	10	punct	_	start_char=37|end_char=38
+8	а	а	CCONJ	_	_	10	cc	_	start_char=39|end_char=40
+9	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=41|end_char=47
+10	предпочитают	предпочитать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=48|end_char=60
+11	вообще	вообще	ADV	_	Degree=Pos	13	advmod	_	start_char=61|end_char=67
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=68|end_char=70
+13	звать	звать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=71|end_char=76
+14	,	,	PUNCT	_	_	1	punct	_	start_char=76|end_char=77
+15	сидел	сидеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=78|end_char=83
+16	на	на	ADP	_	_	17	case	_	start_char=84|end_char=86
+17	коленях	колено	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	15	obl	_	start_char=87|end_char=94
+18	перед	перед	ADP	_	_	19	case	_	start_char=95|end_char=100
+19	ящиком	ящик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	start_char=101|end_char=107
+20	.	.	PUNCT	_	_	15	punct	_	start_char=107|end_char=108
+
+# text = Колени нещадно болели, они часто так делали в последнее время, после того, как он провел столько времени безо всяких удобств на Войне, иногда в сырости, иногда в холоде; их хозяин подозревал, что это к перемене погоды, но сейчас главной погодой на Галлифрее были далеки, которые устанавливали, будет бомбежка или в ближайшее время не будет бомбежки.
+# sent_id = 1
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Колени	колено	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=109|end_char=115
+2	нещадно	нещадно	ADV	_	Degree=Pos	3	advmod	_	start_char=116|end_char=123
+3	болели	болеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=124|end_char=130
+4	,	,	PUNCT	_	_	8	punct	_	start_char=130|end_char=131
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=132|end_char=135
+6	часто	часто	ADV	_	Degree=Pos	8	advmod	_	start_char=136|end_char=141
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=142|end_char=145
+8	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=146|end_char=152
+9	в	в	ADP	_	_	11	case	_	start_char=153|end_char=154
+10	последнее	последний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	start_char=155|end_char=164
+11	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	start_char=165|end_char=170
+12	,	,	PUNCT	_	_	14	punct	_	start_char=170|end_char=171
+13	после	после	ADP	_	_	14	case	_	start_char=172|end_char=177
+14	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	start_char=178|end_char=182
+15	,	,	PUNCT	_	_	18	punct	_	start_char=182|end_char=183
+16	как	как	SCONJ	_	_	18	mark	_	start_char=184|end_char=187
+17	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=188|end_char=190
+18	провел	провести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	acl	_	start_char=191|end_char=197
+19	столько	столько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	20	nummod:gov	_	start_char=198|end_char=205
+20	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	obj	_	start_char=206|end_char=213
+21	безо	безо	ADP	_	_	23	case	_	start_char=214|end_char=218
+22	всяких	всякий	DET	_	Case=Gen|Number=Plur|PronType=Tot	23	det	_	start_char=219|end_char=225
+23	удобств	удобство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	obl	_	start_char=226|end_char=233
+24	на	на	ADP	_	_	25	case	_	start_char=234|end_char=236
+25	Войне	война	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	nmod	_	start_char=237|end_char=242
+26	,	,	PUNCT	_	_	29	punct	_	start_char=242|end_char=243
+27	иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	29	advmod	_	start_char=244|end_char=250
+28	в	в	ADP	_	_	29	case	_	start_char=251|end_char=252
+29	сырости	сырость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	conj	_	start_char=253|end_char=260
+30	,	,	PUNCT	_	_	33	punct	_	start_char=260|end_char=261
+31	иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	33	advmod	_	start_char=262|end_char=268
+32	в	в	ADP	_	_	33	case	_	start_char=269|end_char=270
+33	холоде	холод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	29	conj	_	start_char=271|end_char=277
+34	;	;	PUNCT	_	_	37	punct	_	start_char=277|end_char=278
+35	их	их	DET	_	Poss=Yes|PronType=Prs	36	det	_	start_char=279|end_char=281
+36	хозяин	хозяин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	start_char=282|end_char=288
+37	подозревал	подозревать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=289|end_char=299
+38	,	,	PUNCT	_	_	42	punct	_	start_char=299|end_char=300
+39	что	что	SCONJ	_	_	42	mark	_	start_char=301|end_char=304
+40	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	42	nsubj	_	start_char=305|end_char=308
+41	к	к	ADP	_	_	42	case	_	start_char=309|end_char=310
+42	перемене	перемена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	37	ccomp	_	start_char=311|end_char=319
+43	погоды	погода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	start_char=320|end_char=326
+44	,	,	PUNCT	_	_	52	punct	_	start_char=326|end_char=327
+45	но	но	CCONJ	_	_	52	cc	_	start_char=328|end_char=330
+46	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	52	advmod	_	start_char=331|end_char=337
+47	главной	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	48	amod	_	start_char=338|end_char=345
+48	погодой	погода	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	52	obl	_	start_char=346|end_char=353
+49	на	на	ADP	_	_	50	case	_	start_char=354|end_char=356
+50	Галлифрее	Галлифрей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	48	nmod	_	start_char=357|end_char=366
+51	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	52	cop	_	start_char=367|end_char=371
+52	далеки	далекий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	42	conj	_	start_char=372|end_char=378
+53	,	,	PUNCT	_	_	55	punct	_	start_char=378|end_char=379
+54	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	55	nsubj	_	start_char=380|end_char=387
+55	устанавливали	устанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	52	conj	_	start_char=388|end_char=401
+56	,	,	PUNCT	_	_	57	punct	_	start_char=401|end_char=402
+57	будет	быть	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	52	conj	_	start_char=403|end_char=408
+58	бомбежка	бомбежка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	57	nsubj	_	start_char=409|end_char=417
+59	или	или	CCONJ	_	_	65	cc	_	start_char=418|end_char=421
+60	в	в	ADP	_	_	62	case	_	start_char=422|end_char=423
+61	ближайшее	ближайший	ADJ	_	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	62	amod	_	start_char=424|end_char=433
+62	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	65	nmod	_	start_char=434|end_char=439
+63	не	не	PART	_	Polarity=Neg	65	advmod	_	start_char=440|end_char=442
+64	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	65	cop	_	start_char=443|end_char=448
+65	бомбежки	бомбежка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	57	conj	_	start_char=449|end_char=457
+66	.	.	PUNCT	_	_	3	punct	_	start_char=457|end_char=458
+
+# text = К сожалению, это колени не предсказывали.
+# sent_id = 2
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	К	к	ADP	_	_	2	case	_	start_char=459|end_char=460
+2	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	parataxis	_	start_char=461|end_char=470
+3	,	,	PUNCT	_	_	2	punct	_	start_char=470|end_char=471
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=472|end_char=475
+5	колени	колено	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=476|end_char=482
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=483|end_char=485
+7	предсказывали	предсказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=486|end_char=499
+8	.	.	PUNCT	_	_	7	punct	_	start_char=499|end_char=500
+
+# text = – Оно включилось!
+# sent_id = 3
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	3	punct	_	start_char=502|end_char=503
+2	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=504|end_char=507
+3	включилось	включиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=508|end_char=518
+4	!	!	PUNCT	_	_	3	punct	_	start_char=518|end_char=519
+
+# text = Уходи отсюда!
+# sent_id = 4
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Уходи	уходить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=520|end_char=525
+2	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	start_char=526|end_char=532
+3	!	!	PUNCT	_	_	1	punct	_	start_char=532|end_char=533
+
+# text = – попытался избавиться он от блондинки в какой-то рванине.
+# sent_id = 5
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=534|end_char=535
+2	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=536|end_char=545
+3	избавиться	избавиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=546|end_char=556
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=557|end_char=559
+5	от	от	ADP	_	_	6	case	_	start_char=560|end_char=562
+6	блондинки	блондинка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=563|end_char=572
+7	в	в	ADP	_	_	9	case	_	start_char=573|end_char=574
+8	какой-то	какой-то	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	start_char=575|end_char=583
+9	рванине	рванина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=584|end_char=591
+10	.	.	PUNCT	_	_	2	punct	_	start_char=591|end_char=592
+
+# text = – Ой!
+# sent_id = 6
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=593|end_char=594
+2	Ой	ой	INTJ	_	_	0	root	_	start_char=595|end_char=597
+3	!	!	PUNCT	_	_	2	punct	_	start_char=597|end_char=598
+
+# text = – Что такое? – ласково поинтересовалась она.
+# sent_id = 7
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=600|end_char=601
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=602|end_char=605
+3	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	start_char=606|end_char=611
+4	?	?	PUNCT	_	_	2	punct	_	start_char=611|end_char=612
+5	–	–	PUNCT	_	_	7	punct	_	start_char=613|end_char=614
+6	ласково	ласково	ADV	_	Degree=Pos	7	advmod	_	start_char=615|end_char=622
+7	поинтересовалась	поинтересоваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=623|end_char=639
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=640|end_char=643
+9	.	.	PUNCT	_	_	2	punct	_	start_char=643|end_char=644
+
+# text = – Интерфейс горячий.
+# sent_id = 8
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	3	punct	_	start_char=646|end_char=647
+2	Интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=648|end_char=657
+3	горячий	горячий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=658|end_char=665
+4	.	.	PUNCT	_	_	3	punct	_	start_char=665|end_char=666
+
+# text = Что-то щелкнуло.
+# sent_id = 9
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	2	nsubj	_	start_char=668|end_char=674
+2	щелкнуло	щелкнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=675|end_char=683
+3	.	.	PUNCT	_	_	2	punct	_	start_char=683|end_char=684
+
+# text = – Я очень стараюсь, – ответили с того места, где была девушка, но почему-то мужским голосом.
+# sent_id = 10
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	4	punct	_	start_char=686|end_char=687
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=688|end_char=689
+3	очень	очень	ADV	_	Degree=Pos	4	advmod	_	start_char=690|end_char=695
+4	стараюсь	стараться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=696|end_char=704
+5	,	,	PUNCT	_	_	7	punct	_	start_char=704|end_char=705
+6	–	–	PUNCT	_	_	7	punct	_	start_char=706|end_char=707
+7	ответили	ответить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=708|end_char=716
+8	с	с	ADP	_	_	10	case	_	start_char=717|end_char=718
+9	того	тот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	start_char=719|end_char=723
+10	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	start_char=724|end_char=729
+11	,	,	PUNCT	_	_	12	punct	_	start_char=729|end_char=730
+12	где	где	ADV	_	Degree=Pos|PronType=Rel	10	acl:relcl	_	start_char=731|end_char=734
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=735|end_char=739
+14	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	start_char=740|end_char=747
+15	,	,	PUNCT	_	_	19	punct	_	start_char=747|end_char=748
+16	но	но	CCONJ	_	_	19	cc	_	start_char=749|end_char=751
+17	почему-то	почему-то	ADV	_	Degree=Pos|PronType=Ind	19	advmod	_	start_char=752|end_char=761
+18	мужским	мужской	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=762|end_char=769
+19	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	conj	_	start_char=770|end_char=777
+20	.	.	PUNCT	_	_	4	punct	_	start_char=777|end_char=778
+
+# text = В боку ящика открылась дверца, и оттуда выпало несколько желтых кружочков, похожих на золотые монеты.
+# sent_id = 11
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	В	в	ADP	_	_	2	case	_	start_char=780|end_char=781
+2	боку	бок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=782|end_char=786
+3	ящика	ящика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=787|end_char=792
+4	открылась	открыться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=793|end_char=802
+5	дверца	дверца	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=803|end_char=809
+6	,	,	PUNCT	_	_	9	punct	_	start_char=809|end_char=810
+7	и	и	CCONJ	_	_	9	cc	_	start_char=811|end_char=812
+8	оттуда	оттуда	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=813|end_char=819
+9	выпало	выпасть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=820|end_char=826
+10	несколько	несколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	12	nummod:gov	_	start_char=827|end_char=836
+11	желтых	желтый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	start_char=837|end_char=843
+12	кружочков	кружочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nsubj	_	start_char=844|end_char=853
+13	,	,	PUNCT	_	_	14	punct	_	start_char=853|end_char=854
+14	похожих	похожий	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	start_char=855|end_char=862
+15	на	на	ADP	_	_	17	case	_	start_char=863|end_char=865
+16	золотые	золотой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	start_char=866|end_char=873
+17	монеты	монета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obl	_	start_char=874|end_char=880
+18	.	.	PUNCT	_	_	4	punct	_	start_char=880|end_char=881
+
+# text = Доктор-или-как-его не знал, на что первое реагировать.
+# sent_id = 12
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Доктор-или	доктор-иль	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=883|end_char=893
+2	-как-его	-каккего	PUNCT	_	_	1	advmod	_	start_char=893|end_char=901
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=902|end_char=904
+4	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=905|end_char=909
+5	,	,	PUNCT	_	_	9	punct	_	start_char=909|end_char=910
+6	на	на	ADP	_	_	7	case	_	start_char=911|end_char=913
+7	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obl	_	start_char=914|end_char=917
+8	первое	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	9	obj	_	start_char=918|end_char=924
+9	реагировать	реагировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	ccomp	_	start_char=925|end_char=936
+10	.	.	PUNCT	_	_	4	punct	_	start_char=936|end_char=937
+
+# text = – А ты кто? – решил он ориентироваться по размеру, обратившись к появившемуся мужчине в серой шинели без знаков различия.
+# sent_id = 13
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	4	punct	_	start_char=939|end_char=940
+2	А	а	CCONJ	_	_	4	cc	_	start_char=941|end_char=942
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=943|end_char=945
+4	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=946|end_char=949
+5	?	?	PUNCT	_	_	4	punct	_	start_char=949|end_char=950
+6	–	–	PUNCT	_	_	7	punct	_	start_char=951|end_char=952
+7	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=953|end_char=958
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=959|end_char=961
+9	ориентироваться	ориентироваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=962|end_char=977
+10	по	по	ADP	_	_	11	case	_	start_char=978|end_char=980
+11	размеру	размер	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	obl	_	start_char=981|end_char=988
+12	,	,	PUNCT	_	_	13	punct	_	start_char=988|end_char=989
+13	обратившись	обратиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	9	advcl	_	start_char=990|end_char=1001
+14	к	к	ADP	_	_	16	case	_	start_char=1002|end_char=1003
+15	появившемуся	появиться	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	amod	_	start_char=1004|end_char=1016
+16	мужчине	мужчина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	13	obl	_	start_char=1017|end_char=1024
+17	в	в	ADP	_	_	19	case	_	start_char=1025|end_char=1026
+18	серой	серой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=1027|end_char=1032
+19	шинели	шинель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	start_char=1033|end_char=1039
+20	без	без	ADP	_	_	21	case	_	start_char=1040|end_char=1043
+21	знаков	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	obl	_	start_char=1044|end_char=1050
+22	различия	различие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	start_char=1051|end_char=1059
+23	.	.	PUNCT	_	_	4	punct	_	start_char=1059|end_char=1060
+
+# text = – Я?
+# sent_id = 14
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1062|end_char=1063
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=1064|end_char=1065
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1065|end_char=1066
+
+# text = Все еще горячий интерфейс!
+# sent_id = 15
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=1067|end_char=1070
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=1071|end_char=1074
+3	горячий	горячий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1075|end_char=1082
+4	интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1083|end_char=1092
+5	!	!	PUNCT	_	_	4	punct	_	start_char=1092|end_char=1093
+
+# text = – А что это из... тебя высыпалось?
+# sent_id = 16
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	8	punct	_	start_char=1095|end_char=1096
+2	А	а	CCONJ	_	_	8	cc	_	start_char=1097|end_char=1098
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=1099|end_char=1102
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=1103|end_char=1106
+5	из	из	ADP	_	_	3	case	_	start_char=1107|end_char=1109
+6	...	...	PUNCT	_	_	8	punct	_	start_char=1109|end_char=1112
+7	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obj	_	start_char=1113|end_char=1117
+8	высыпалось	высыпаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1118|end_char=1128
+9	?	?	PUNCT	_	_	3	punct	_	start_char=1128|end_char=1129
+
+# text = – Бонус, что же еще.
+# sent_id = 17
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1131|end_char=1132
+2	Бонус	бонус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1133|end_char=1138
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1138|end_char=1139
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	parataxis	_	start_char=1140|end_char=1143
+5	же	же	PART	_	_	4	advmod	_	start_char=1144|end_char=1146
+6	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=1147|end_char=1150
+7	.	.	PUNCT	_	_	2	punct	_	start_char=1150|end_char=1151
+
+# text = За меня всегда дают бонус.
+# sent_id = 18
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	За	за	ADP	_	_	2	case	_	start_char=1152|end_char=1154
+2	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=1155|end_char=1159
+3	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=1160|end_char=1166
+4	дают	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1167|end_char=1171
+5	бонус	бонус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=1172|end_char=1177
+6	.	.	PUNCT	_	_	4	punct	_	start_char=1177|end_char=1178
+
+# text = – А еще за кого?
+# sent_id = 19
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1180|end_char=1181
+2	А	а	CCONJ	_	_	5	cc	_	start_char=1182|end_char=1183
+3	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=1184|end_char=1187
+4	за	за	ADP	_	_	5	case	_	start_char=1188|end_char=1190
+5	кого	кто	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=1191|end_char=1195
+6	?	?	PUNCT	_	_	5	punct	_	start_char=1195|end_char=1196
+
+# text = – За рыжих, например, - теперь на месте незнакомого мужчины сидел знакомый.
+# sent_id = 20
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	13	punct	_	start_char=1198|end_char=1199
+2	За	за	ADP	_	_	3	case	_	start_char=1200|end_char=1202
+3	рыжих	рыжий	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	13	obl	_	start_char=1203|end_char=1208
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1208|end_char=1209
+5	например	например	ADV	_	Degree=Pos	3	parataxis	_	start_char=1210|end_char=1218
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1218|end_char=1219
+7	-	-	PUNCT	_	_	3	punct	_	start_char=1220|end_char=1221
+8	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=1222|end_char=1228
+9	на	на	ADP	_	_	10	case	_	start_char=1229|end_char=1231
+10	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	start_char=1232|end_char=1237
+11	незнакомого	незнакомый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=1238|end_char=1249
+12	мужчины	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=1250|end_char=1257
+13	сидел	сидеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1258|end_char=1263
+14	знакомый	знакомый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=1264|end_char=1272
+15	.	.	PUNCT	_	_	13	punct	_	start_char=1272|end_char=1273
+
+# text = Визлора Турлоу Доктор не видел уже... очень, очень давно.
+# sent_id = 21
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Визлора	визлор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=1274|end_char=1281
+2	Турлоу	Турлоу	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	start_char=1282|end_char=1288
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1289|end_char=1295
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1296|end_char=1298
+5	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1299|end_char=1304
+6	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=1305|end_char=1308
+7	...	...	PUNCT	_	_	5	punct	_	start_char=1308|end_char=1311
+8	очень	очень	ADV	_	Degree=Pos	5	advmod	_	start_char=1312|end_char=1317
+9	,	,	PUNCT	_	_	11	punct	_	start_char=1317|end_char=1318
+10	очень	очень	ADV	_	Degree=Pos	11	advmod	_	start_char=1319|end_char=1324
+11	давно	давно	ADV	_	Degree=Pos	8	conj	_	start_char=1325|end_char=1330
+12	.	.	PUNCT	_	_	5	punct	_	start_char=1330|end_char=1331
+
+# text = Из машины выпало еще несколько кружочков.
+# sent_id = 22
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Из	из	ADP	_	_	2	case	_	start_char=1333|end_char=1335
+2	машины	машина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=1336|end_char=1342
+3	выпало	выпасть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1343|end_char=1349
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=1350|end_char=1353
+5	несколько	несколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	6	nummod:gov	_	start_char=1354|end_char=1363
+6	кружочков	кружочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	start_char=1364|end_char=1373
+7	.	.	PUNCT	_	_	3	punct	_	start_char=1373|end_char=1374
+
+# text = – И много вас там?
+# sent_id = 23
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1376|end_char=1377
+2	И	и	CCONJ	_	_	3	cc	_	start_char=1378|end_char=1379
+3	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=1380|end_char=1385
+4	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	obl	_	start_char=1386|end_char=1389
+5	там	там	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1390|end_char=1393
+6	?	?	PUNCT	_	_	3	punct	_	start_char=1393|end_char=1394
+
+# text = Стоило на секунду отвести глаза от существа-Интерфейс, как оно снова поменялось.
+# sent_id = 24
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Стоило	стоить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1396|end_char=1402
+2	на	на	ADP	_	_	3	case	_	start_char=1403|end_char=1405
+3	секунду	секунда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=1406|end_char=1413
+4	отвести	отвести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=1414|end_char=1421
+5	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=1422|end_char=1427
+6	от	от	ADP	_	_	7	case	_	start_char=1428|end_char=1430
+7	существа	существо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=1431|end_char=1439
+8	-	-	PUNCT	_	_	9	punct	_	start_char=1439|end_char=1440
+9	Интерфейс	интерфейс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	start_char=1440|end_char=1449
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1449|end_char=1450
+11	как	как	ADV	_	Degree=Pos|PronType=Rel	14	advmod	_	start_char=1451|end_char=1454
+12	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=1455|end_char=1458
+13	снова	снова	ADV	_	Degree=Pos	14	advmod	_	start_char=1459|end_char=1464
+14	поменялось	поменяться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	acl:relcl	_	start_char=1465|end_char=1475
+15	.	.	PUNCT	_	_	1	punct	_	start_char=1475|end_char=1476
+
+# text = На сей раз это была снова незнакомая, но рыжая и длинноволосая девушка в очень короткой юбке.
+# sent_id = 25
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	На	на	ADP	_	_	3	case	_	start_char=1477|end_char=1479
+2	сей	сей	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=1480|end_char=1483
+3	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=1484|end_char=1487
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1488|end_char=1491
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1492|end_char=1496
+6	снова	снова	ADV	_	Degree=Pos	7	advmod	_	start_char=1497|end_char=1502
+7	незнакомая	незнакомый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	start_char=1503|end_char=1513
+8	,	,	PUNCT	_	_	13	punct	_	start_char=1513|end_char=1514
+9	но	но	CCONJ	_	_	10	cc	_	start_char=1515|end_char=1517
+10	рыжая	рыжой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	start_char=1518|end_char=1523
+11	и	и	CCONJ	_	_	12	cc	_	start_char=1524|end_char=1525
+12	длинноволосая	длинноволосый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	conj	_	start_char=1526|end_char=1539
+13	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=1540|end_char=1547
+14	в	в	ADP	_	_	17	case	_	start_char=1548|end_char=1549
+15	очень	очень	ADV	_	Degree=Pos	16	advmod	_	start_char=1550|end_char=1555
+16	короткой	короткий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=1556|end_char=1564
+17	юбке	юбка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	start_char=1565|end_char=1569
+18	.	.	PUNCT	_	_	5	punct	_	start_char=1569|end_char=1570
+
+# text = – Спойлеры, сладенький... ой, прости, это не от этого интерфейса, это от ее дочери...
+# sent_id = 26
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1572|end_char=1573
+2	Спойлеры	спойлер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=1574|end_char=1582
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1582|end_char=1583
+4	сладенький	сладенький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=1584|end_char=1594
+5	...	...	PUNCT	_	_	4	punct	_	start_char=1594|end_char=1597
+6	ой	ой	INTJ	_	_	14	discourse	_	start_char=1598|end_char=1600
+7	,	,	PUNCT	_	_	6	punct	_	start_char=1600|end_char=1601
+8	прости	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	14	parataxis	_	start_char=1602|end_char=1608
+9	,	,	PUNCT	_	_	8	punct	_	start_char=1608|end_char=1609
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	start_char=1610|end_char=1613
+11	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1614|end_char=1616
+12	от	от	ADP	_	_	14	case	_	start_char=1617|end_char=1619
+13	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	start_char=1620|end_char=1625
+14	интерфейса	интерфейса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	parataxis	_	start_char=1626|end_char=1636
+15	,	,	PUNCT	_	_	19	punct	_	start_char=1636|end_char=1637
+16	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	19	nsubj	_	start_char=1638|end_char=1641
+17	от	от	ADP	_	_	19	case	_	start_char=1642|end_char=1644
+18	ее	ее	DET	_	Poss=Yes|PronType=Prs	19	det	_	start_char=1645|end_char=1647
+19	дочери	дочь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	14	conj	_	start_char=1648|end_char=1654
+20	...	...	PUNCT	_	_	2	punct	_	start_char=1654|end_char=1657
+
+# text = А что, за меня бонус не дали?!
+# sent_id = 27
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	А	а	CCONJ	_	_	8	cc	_	start_char=1658|end_char=1659
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	8	parataxis	_	start_char=1660|end_char=1663
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1663|end_char=1664
+4	за	за	ADP	_	_	5	case	_	start_char=1665|end_char=1667
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	start_char=1668|end_char=1672
+6	бонус	бонус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=1673|end_char=1678
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1679|end_char=1681
+8	дали	дать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1682|end_char=1686
+9	?!	?!	PUNCT	_	_	8	punct	_	start_char=1686|end_char=1688
+
+# text = Новых монет не было.
+# sent_id = 28
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	start_char=1690|end_char=1695
+2	монет	монета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nsubj	_	start_char=1696|end_char=1701
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1702|end_char=1704
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1705|end_char=1709
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1709|end_char=1710
+
+# text = – Все равно монеты на Галлифрее сейчас не в ходу.
+# sent_id = 29
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	10	punct	_	start_char=1712|end_char=1713
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	10	advmod	_	start_char=1714|end_char=1717
+3	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	fixed	_	start_char=1718|end_char=1723
+4	монеты	монета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	start_char=1724|end_char=1730
+5	на	на	ADP	_	_	6	case	_	start_char=1731|end_char=1733
+6	Галлифрее	Галлифрей	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	4	nmod	_	start_char=1734|end_char=1743
+7	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=1744|end_char=1750
+8	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=1751|end_char=1753
+9	в	в	ADP	_	_	10	case	_	start_char=1754|end_char=1755
+10	ходу	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=1756|end_char=1760
+11	.	.	PUNCT	_	_	10	punct	_	start_char=1760|end_char=1761
+
+# text = И до войны были одни карточки, а сейчас все, что не натуральный продукт, совсем обесценилось, – попытался утешить
+# sent_id = 30
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	И	и	CCONJ	_	_	4	cc	_	start_char=1762|end_char=1763
+2	до	до	ADP	_	_	3	case	_	start_char=1764|end_char=1766
+3	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=1767|end_char=1772
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1773|end_char=1777
+5	одни	один	DET	_	Case=Nom|Number=Plur|PronType=Ind	6	det	_	start_char=1778|end_char=1782
+6	карточки	карточка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	start_char=1783|end_char=1791
+7	,	,	PUNCT	_	_	18	punct	_	start_char=1791|end_char=1792
+8	а	а	CCONJ	_	_	18	cc	_	start_char=1793|end_char=1794
+9	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	start_char=1795|end_char=1801
+10	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	18	nsubj	_	start_char=1802|end_char=1805
+11	,	,	PUNCT	_	_	15	punct	_	start_char=1805|end_char=1806
+12	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	15	nsubj	_	start_char=1807|end_char=1810
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1811|end_char=1813
+14	натуральный	натуральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=1814|end_char=1825
+15	продукт	продукт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	acl:relcl	_	start_char=1826|end_char=1833
+16	,	,	PUNCT	_	_	15	punct	_	start_char=1833|end_char=1834
+17	совсем	совсем	ADV	_	Degree=Pos	18	advmod	_	start_char=1835|end_char=1841
+18	обесценилось	обесцениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=1842|end_char=1854
+19	,	,	PUNCT	_	_	21	punct	_	start_char=1854|end_char=1855
+20	–	–	PUNCT	_	_	21	punct	_	start_char=1856|end_char=1857
+21	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=1858|end_char=1867
+22	утешить	утешить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=1868|end_char=1875
+
+# text = Доктор рыжую.
+# sent_id = 31
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1876|end_char=1882
+2	рыжую	рыжа	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	start_char=1883|end_char=1888
+3	.	.	PUNCT	_	_	1	punct	_	start_char=1888|end_char=1889
+
+# text = Кажется, ему это не удалось, потому что она исчезла, а на ее месте появилась Эйс с двумя баллонами Нитро-9 в руках.
+# sent_id = 32
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=1890|end_char=1897
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1897|end_char=1898
+3	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=1899|end_char=1902
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=1903|end_char=1906
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1907|end_char=1909
+6	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1910|end_char=1917
+7	,	,	PUNCT	_	_	11	punct	_	start_char=1917|end_char=1918
+8	потому	потому	ADV	_	Degree=Pos|PronType=Dem	11	mark	_	start_char=1919|end_char=1925
+9	что	что	SCONJ	_	_	8	fixed	_	start_char=1926|end_char=1929
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=1930|end_char=1933
+11	исчезла	исчезнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=1934|end_char=1941
+12	,	,	PUNCT	_	_	17	punct	_	start_char=1941|end_char=1942
+13	а	а	CCONJ	_	_	17	cc	_	start_char=1943|end_char=1944
+14	на	на	ADP	_	_	16	case	_	start_char=1945|end_char=1947
+15	ее	ее	DET	_	Poss=Yes|PronType=Prs	16	det	_	start_char=1948|end_char=1950
+16	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	start_char=1951|end_char=1956
+17	появилась	появиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=1957|end_char=1966
+18	Эйс	Эйс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	17	nsubj	_	start_char=1967|end_char=1970
+19	с	с	ADP	_	_	21	case	_	start_char=1971|end_char=1972
+20	двумя	два	NUM	_	Case=Ins|NumForm=Word|NumType=Card	21	nummod	_	start_char=1973|end_char=1978
+21	баллонами	баллон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	start_char=1979|end_char=1988
+22	Нитро	Нитро	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	21	appos	_	start_char=1989|end_char=1994
+23	-	-	PUNCT	_	_	24	punct	_	start_char=1994|end_char=1995
+24	9	9	NUM	_	NumForm=Digit|NumType=Card	22	appos	_	start_char=1995|end_char=1996
+25	в	в	ADP	_	_	26	case	_	start_char=1997|end_char=1998
+26	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	22	nmod	_	start_char=1999|end_char=2004
+27	.	.	PUNCT	_	_	6	punct	_	start_char=2004|end_char=2005
+
+# text = Монеты снова выпали.
+# sent_id = 33
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Монеты	монета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=2007|end_char=2013
+2	снова	снова	ADV	_	Degree=Pos	3	advmod	_	start_char=2014|end_char=2019
+3	выпали	выпасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2020|end_char=2026
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2026|end_char=2027
+
+# text = – Вот взрывчатка – это я понимаю, был бы неплохой бонус.
+# sent_id = 34
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	12	punct	_	start_char=2029|end_char=2030
+2	Вот	вот	PART	_	_	7	advmod	_	start_char=2031|end_char=2034
+3	взрывчатка	взрывчатка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	start_char=2035|end_char=2045
+4	–	–	PUNCT	_	_	7	punct	_	start_char=2046|end_char=2047
+5	это	это	PART	_	_	7	expl	_	start_char=2048|end_char=2051
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=2052|end_char=2053
+7	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	start_char=2054|end_char=2061
+8	,	,	PUNCT	_	_	7	punct	_	start_char=2061|end_char=2062
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=2063|end_char=2066
+10	бы	бы	AUX	_	Mood=Cnd	12	aux	_	start_char=2067|end_char=2069
+11	неплохой	неплохой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=2070|end_char=2078
+12	бонус	бонус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2079|end_char=2084
+13	.	.	PUNCT	_	_	12	punct	_	start_char=2084|end_char=2085
+
+# text = Хотя тоже уже поздно.
+# sent_id = 35
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Хотя	хотя	SCONJ	_	_	4	mark	_	start_char=2086|end_char=2090
+2	тоже	тоже	PART	_	_	4	advmod	_	start_char=2091|end_char=2095
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=2096|end_char=2099
+4	поздно	поздно	ADV	_	Degree=Pos	0	root	_	start_char=2100|end_char=2106
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2106|end_char=2107
+
+# text = – Для взрывчатки никогда не поздно!
+# sent_id = 36
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2109|end_char=2110
+2	Для	для	ADP	_	_	3	case	_	start_char=2111|end_char=2114
+3	взрывчатки	взрывчатка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=2115|end_char=2125
+4	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	6	advmod	_	start_char=2126|end_char=2133
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2134|end_char=2136
+6	поздно	поздно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2137|end_char=2143
+7	!	!	PUNCT	_	_	6	punct	_	start_char=2143|end_char=2144
+
+# text = – возмутилась Эйс и кинула баллоны в разные стороны, забыв, что они находились в небольшом сарае...
+# sent_id = 37
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2145|end_char=2146
+2	возмутилась	возмутиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2147|end_char=2158
+3	Эйс	Эйс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2159|end_char=2162
+4	и	и	CCONJ	_	_	5	cc	_	start_char=2163|end_char=2164
+5	кинула	кинуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2165|end_char=2171
+6	баллоны	баллон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=2172|end_char=2179
+7	в	в	ADP	_	_	9	case	_	start_char=2180|end_char=2181
+8	разные	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	start_char=2182|end_char=2188
+9	стороны	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obl	_	start_char=2189|end_char=2196
+10	,	,	PUNCT	_	_	11	punct	_	start_char=2196|end_char=2197
+11	забыв	забыть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	5	advcl	_	start_char=2198|end_char=2203
+12	,	,	PUNCT	_	_	15	punct	_	start_char=2203|end_char=2204
+13	что	что	SCONJ	_	_	15	mark	_	start_char=2205|end_char=2208
+14	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=2209|end_char=2212
+15	находились	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	11	ccomp	_	start_char=2213|end_char=2223
+16	в	в	ADP	_	_	18	case	_	start_char=2224|end_char=2225
+17	небольшом	небольшой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=2226|end_char=2235
+18	сарае	сара	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=2236|end_char=2241
+19	...	...	PUNCT	_	_	2	punct	_	start_char=2241|end_char=2244
+
+# text = Доктор лежал возле ящика.
+# sent_id = 38
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2246|end_char=2252
+2	лежал	лежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2253|end_char=2258
+3	возле	возле	ADP	_	_	4	case	_	start_char=2259|end_char=2264
+4	ящика	ящика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=2265|end_char=2270
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2270|end_char=2271
+
+# text = Перед глазами постепенно прояснялось, голова переставала гудеть, невдалеке сидела на возвышении и ждала, когда он придет в себя, первоначальная блондинка.
+# sent_id = 39
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Перед	перед	ADP	_	_	2	case	_	start_char=2272|end_char=2277
+2	глазами	глаз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	start_char=2278|end_char=2285
+3	постепенно	постепенно	ADV	_	Degree=Pos	4	advmod	_	start_char=2286|end_char=2296
+4	прояснялось	проясняться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2297|end_char=2308
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2308|end_char=2309
+6	голова	голова	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=2310|end_char=2316
+7	переставала	переставать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2317|end_char=2328
+8	гудеть	гудеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=2329|end_char=2335
+9	,	,	PUNCT	_	_	11	punct	_	start_char=2335|end_char=2336
+10	невдалеке	невдалеке	ADV	_	Degree=Pos	11	advmod	_	start_char=2337|end_char=2346
+11	сидела	сидеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2347|end_char=2353
+12	на	на	ADP	_	_	13	case	_	start_char=2354|end_char=2356
+13	возвышении	возвышение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	start_char=2357|end_char=2367
+14	и	и	CCONJ	_	_	15	cc	_	start_char=2368|end_char=2369
+15	ждала	ждать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2370|end_char=2375
+16	,	,	PUNCT	_	_	19	punct	_	start_char=2375|end_char=2376
+17	когда	когда	SCONJ	_	_	19	mark	_	start_char=2377|end_char=2382
+18	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=2383|end_char=2385
+19	придет	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=2386|end_char=2392
+20	в	в	ADP	_	_	21	case	_	start_char=2393|end_char=2394
+21	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	19	obl	_	start_char=2395|end_char=2399
+22	,	,	PUNCT	_	_	24	punct	_	start_char=2399|end_char=2400
+23	первоначальная	первоначальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	start_char=2401|end_char=2415
+24	блондинка	блондинка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	start_char=2416|end_char=2425
+25	.	.	PUNCT	_	_	4	punct	_	start_char=2425|end_char=2426
+
+# text = Сарай был цел.
+# sent_id = 40
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Сарай	Сарай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	3	nsubj	_	start_char=2427|end_char=2432
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=2433|end_char=2436
+3	цел	цело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2437|end_char=2440
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2440|end_char=2441
+
+# text = – Что это было?..
+# sent_id = 41
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2443|end_char=2444
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2445|end_char=2448
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=2449|end_char=2452
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=2453|end_char=2457
+5	?..	?..	PUNCT	_	_	2	punct	_	start_char=2457|end_char=2460
+
+# text = – Небольшой разряд тока и возвращение нас на несколько минут назад.
+# sent_id = 42
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2463|end_char=2464
+2	Небольшой	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=2465|end_char=2474
+3	разряд	разряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2475|end_char=2481
+4	тока	Ток	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	3	nmod	_	start_char=2482|end_char=2486
+5	и	и	CCONJ	_	_	6	cc	_	start_char=2487|end_char=2488
+6	возвращение	возвращение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	start_char=2489|end_char=2500
+7	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod	_	start_char=2501|end_char=2504
+8	на	на	ADP	_	_	10	case	_	start_char=2505|end_char=2507
+9	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	10	nummod:gov	_	start_char=2508|end_char=2517
+10	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	start_char=2518|end_char=2523
+11	назад	назад	ADV	_	Degree=Pos	10	advmod	_	start_char=2524|end_char=2529
+12	.	.	PUNCT	_	_	3	punct	_	start_char=2529|end_char=2530
+
+# text = Иначе мы тут до конца
+# sent_id = 43
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=2531|end_char=2536
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=2537|end_char=2539
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2540|end_char=2543
+4	до	до	ADP	_	_	5	case	_	start_char=2544|end_char=2546
+5	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=2547|end_char=2552
+
+# text = Вселенной просидим, перебирая всех твоих знакомых, с бонусами или нет.
+# sent_id = 44
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obj	_	start_char=2553|end_char=2562
+2	просидим	просидовать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2563|end_char=2571
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2571|end_char=2572
+4	перебирая	перебирать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=2573|end_char=2582
+5	всех	весь	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	7	det	_	start_char=2583|end_char=2587
+6	твоих	твой	DET	_	Animacy=Anim|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	7	det	_	start_char=2588|end_char=2593
+7	знакомых	знакомый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=2594|end_char=2602
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2602|end_char=2603
+9	с	с	ADP	_	_	10	case	_	start_char=2604|end_char=2605
+10	бонусами	бонус	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	conj	_	start_char=2606|end_char=2614
+11	или	или	CCONJ	_	_	12	cc	_	start_char=2615|end_char=2618
+12	нет	нет	VERB	_	Polarity=Neg	2	conj	_	start_char=2619|end_char=2622
+13	.	.	PUNCT	_	_	2	punct	_	start_char=2622|end_char=2623
+
+# text = Или ты еще жаждешь увидеть, как выглядит
+# sent_id = 45
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Или	или	CCONJ	_	_	4	cc	_	start_char=2624|end_char=2627
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=2628|end_char=2630
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=2631|end_char=2634
+4	жаждешь	жаждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2635|end_char=2642
+5	увидеть	увидеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=2643|end_char=2650
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2650|end_char=2651
+7	как	как	ADV	_	Degree=Pos|PronType=Rel	8	advmod	_	start_char=2652|end_char=2655
+8	выглядит	выглядеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=2656|end_char=2664
+
+# text = Олдскул в целом?
+# sent_id = 46
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Олдскул	олдскул	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2665|end_char=2672
+2	в	в	ADP	_	_	3	case	_	start_char=2673|end_char=2674
+3	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	start_char=2675|end_char=2680
+4	?	?	PUNCT	_	_	1	punct	_	start_char=2680|end_char=2681
+
+# text = – Нет, нет, хватит!
+# sent_id = 47
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2683|end_char=2684
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=2685|end_char=2688
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2688|end_char=2689
+4	нет	нет	PART	_	Polarity=Neg	2	conj	_	start_char=2690|end_char=2693
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2693|end_char=2694
+6	хватит	хватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2695|end_char=2701
+7	!	!	PUNCT	_	_	2	punct	_	start_char=2701|end_char=2702
+
+# text = – Отлично, тогда приступаем к делу.
+# sent_id = 48
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2704|end_char=2705
+2	Отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2706|end_char=2713
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2713|end_char=2714
+4	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2715|end_char=2720
+5	приступаем	приступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2721|end_char=2731
+6	к	к	ADP	_	_	7	case	_	start_char=2732|end_char=2733
+7	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	obl	_	start_char=2734|end_char=2738
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2738|end_char=2739
+
+# text = А сценарий всей серии с другим Интерфейсом я как-нибудь на Фандомную Битву отнесу, будет неплохой макси.
+# sent_id = 49
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	А	а	CCONJ	_	_	13	cc	_	start_char=2740|end_char=2741
+2	сценарий	сценарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=2742|end_char=2750
+3	всей	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	start_char=2751|end_char=2755
+4	серии	серия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=2756|end_char=2761
+5	с	с	ADP	_	_	7	case	_	start_char=2762|end_char=2763
+6	другим	другой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	start_char=2764|end_char=2770
+7	Интерфейсом	интерфейс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	start_char=2771|end_char=2782
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=2783|end_char=2784
+9	как-нибудь	как-нибудь	ADV	_	Degree=Pos|PronType=Ind	13	advmod	_	start_char=2785|end_char=2795
+10	на	на	ADP	_	_	12	case	_	start_char=2796|end_char=2798
+11	Фандомную	фандомный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=2799|end_char=2808
+12	Битву	битва	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	start_char=2809|end_char=2814
+13	отнесу	отнести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2815|end_char=2821
+14	,	,	PUNCT	_	_	17	punct	_	start_char=2821|end_char=2822
+15	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	conj	_	start_char=2823|end_char=2828
+16	неплохой	неплохой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	start_char=2829|end_char=2837
+17	макси	макси	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	conj	_	start_char=2838|end_char=2843
+18	.	.	PUNCT	_	_	13	punct	_	start_char=2843|end_char=2844
+
+# text = – Ты о чем это сейчас? – опешил Доктор.
+# sent_id = 50
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2846|end_char=2847
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=2848|end_char=2850
+3	о	о	ADP	_	_	4	case	_	start_char=2851|end_char=2852
+4	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=2853|end_char=2856
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2857|end_char=2860
+6	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2861|end_char=2867
+7	?	?	PUNCT	_	_	4	punct	_	start_char=2867|end_char=2868
+8	–	–	PUNCT	_	_	9	punct	_	start_char=2869|end_char=2870
+9	опешил	опешить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2871|end_char=2877
+10	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=2878|end_char=2884
+11	.	.	PUNCT	_	_	4	punct	_	start_char=2884|end_char=2885
+
+# text = – Да так, неважно.
+# sent_id = 51
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2887|end_char=2888
+2	Да	да	CCONJ	_	_	5	cc	_	start_char=2889|end_char=2891
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2892|end_char=2895
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2895|end_char=2896
+5	неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2897|end_char=2904
+6	.	.	PUNCT	_	_	3	punct	_	start_char=2904|end_char=2905
+
+# text = Тебе же говорили, что у "Момента" есть сознание?
+# sent_id = 52
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	start_char=2906|end_char=2910
+2	же	же	PART	_	_	1	advmod	_	start_char=2911|end_char=2913
+3	говорили	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2914|end_char=2922
+4	,	,	PUNCT	_	_	10	punct	_	start_char=2922|end_char=2923
+5	что	что	SCONJ	_	_	10	mark	_	start_char=2924|end_char=2927
+6	у	у	ADP	_	_	8	case	_	start_char=2928|end_char=2929
+7	"	"	PUNCT	_	_	8	punct	_	start_char=2930|end_char=2931
+8	Момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	start_char=2931|end_char=2938
+9	"	"	PUNCT	_	_	8	punct	_	start_char=2938|end_char=2939
+10	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2940|end_char=2944
+11	сознание	сознание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	start_char=2945|end_char=2953
+12	?	?	PUNCT	_	_	3	punct	_	start_char=2953|end_char=2954
+
+# text = Привет!
+# sent_id = 53
+# metadata = Название: Горячий интерфейс, или Бонус за Джека, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546a7d7300000a7dd4de477/1/Goryachij-interfejs-ili-Bonus-za-Dzheka
+1	Привет	привет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2955|end_char=2961
+2	!	!	PUNCT	_	_	1	punct	_	start_char=2961|end_char=2962
+

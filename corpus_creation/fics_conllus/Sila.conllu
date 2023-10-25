@@ -1,0 +1,1810 @@
+# text = Баннер: http://img-fotki.yandex.ru/get/6737/165614176.7a/0_fa1e0_5b3c4c77_orig Она никогда не думала, что будет так, как было.
+# sent_id = 0
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Баннер	баннер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=0|end_char=6
+2	:	:	PUNCT	_	_	1	punct	_	start_char=6|end_char=7
+3	http://img-fotki.yandex.ru/get/6737/165614176.7a/0_fa1e0_5b3c4c77_orig	http://img-fotki.yandex.ru/get/6737/165614176.7a/0_fa1e0_5b3c4c77_orig	X	_	Foreign=Yes	1	appos	_	start_char=10|end_char=80
+4	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=84|end_char=87
+5	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	7	advmod	_	start_char=88|end_char=95
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=96|end_char=98
+7	думала	думать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=99|end_char=105
+8	,	,	PUNCT	_	_	11	punct	_	start_char=105|end_char=106
+9	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	nsubj	_	start_char=107|end_char=110
+10	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	cop	_	start_char=111|end_char=116
+11	так	так	ADV	_	Degree=Pos|PronType=Dem	7	ccomp	_	start_char=117|end_char=120
+12	,	,	PUNCT	_	_	14	punct	_	start_char=120|end_char=121
+13	как	как	SCONJ	_	_	14	mark	_	start_char=122|end_char=125
+14	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=126|end_char=130
+15	.	.	PUNCT	_	_	1	punct	_	start_char=130|end_char=131
+
+# text = И дело даже не в том, что само появление Доктора было невозможно.
+# sent_id = 1
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	И	и	CCONJ	_	_	6	cc	_	start_char=132|end_char=133
+2	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=134|end_char=138
+3	даже	даже	PART	_	_	6	advmod	_	start_char=139|end_char=143
+4	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=144|end_char=146
+5	в	в	ADP	_	_	6	case	_	start_char=147|end_char=148
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=149|end_char=152
+7	,	,	PUNCT	_	_	13	punct	_	start_char=152|end_char=153
+8	что	что	SCONJ	_	_	13	mark	_	start_char=154|end_char=157
+9	само	сам	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Emp	10	det	_	start_char=158|end_char=162
+10	появление	появление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	start_char=163|end_char=172
+11	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=173|end_char=180
+12	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=181|end_char=185
+13	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	acl	_	start_char=186|end_char=196
+14	.	.	PUNCT	_	_	6	punct	_	start_char=196|end_char=197
+
+# text = Она никогда не думала и не могла себе даже вообразить, что в её жизни появится такой мужчина, как Джейми.
+# sent_id = 2
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=198|end_char=201
+2	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	4	advmod	_	start_char=202|end_char=209
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=210|end_char=212
+4	думала	думать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=213|end_char=219
+5	и	и	CCONJ	_	_	7	cc	_	start_char=220|end_char=221
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=222|end_char=224
+7	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=225|end_char=230
+8	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	7	iobj	_	start_char=231|end_char=235
+9	даже	даже	PART	_	_	10	advmod	_	start_char=236|end_char=240
+10	вообразить	вообразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=241|end_char=251
+11	,	,	PUNCT	_	_	16	punct	_	start_char=251|end_char=252
+12	что	что	SCONJ	_	_	16	mark	_	start_char=253|end_char=256
+13	в	в	ADP	_	_	15	case	_	start_char=257|end_char=258
+14	её	ее	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=259|end_char=261
+15	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	_	start_char=262|end_char=267
+16	появится	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	10	ccomp	_	start_char=268|end_char=276
+17	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	start_char=277|end_char=282
+18	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=283|end_char=290
+19	,	,	PUNCT	_	_	21	punct	_	start_char=290|end_char=291
+20	как	как	SCONJ	_	_	21	case	_	start_char=292|end_char=295
+21	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	16	obl	_	start_char=296|end_char=302
+22	.	.	PUNCT	_	_	4	punct	_	start_char=302|end_char=303
+
+# text = С детства её воспитывали как леди и готовили к будущей роли жены, матери семейства, и, конечно, приличной во всех отношениях женщины.
+# sent_id = 3
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	С	с	ADP	_	_	2	case	_	start_char=304|end_char=305
+2	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=306|end_char=313
+3	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=314|end_char=316
+4	воспитывали	воспитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=317|end_char=328
+5	как	как	SCONJ	_	_	6	case	_	start_char=329|end_char=332
+6	леди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	4	obl	_	start_char=333|end_char=337
+7	и	и	CCONJ	_	_	8	cc	_	start_char=338|end_char=339
+8	готовили	готовить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=340|end_char=348
+9	к	к	ADP	_	_	11	case	_	start_char=349|end_char=350
+10	будущей	будущий	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=351|end_char=358
+11	роли	роль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	start_char=359|end_char=363
+12	жены	жена	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=364|end_char=368
+13	,	,	PUNCT	_	_	14	punct	_	start_char=368|end_char=369
+14	матери	мать	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	11	conj	_	start_char=370|end_char=376
+15	семейства	семейство	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	start_char=377|end_char=386
+16	,	,	PUNCT	_	_	21	punct	_	start_char=386|end_char=387
+17	и	и	CCONJ	_	_	21	cc	_	start_char=388|end_char=389
+18	,	,	PUNCT	_	_	19	punct	_	start_char=389|end_char=390
+19	конечно	конечно	ADV	_	Degree=Pos	21	parataxis	_	start_char=391|end_char=398
+20	,	,	PUNCT	_	_	19	punct	_	start_char=398|end_char=399
+21	приличной	приличный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	acl	_	start_char=400|end_char=409
+22	во	во	ADP	_	_	24	case	_	start_char=410|end_char=412
+23	всех	весь	DET	_	Case=Loc|Number=Plur|PronType=Tot	24	det	_	start_char=413|end_char=417
+24	отношениях	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	conj	_	start_char=418|end_char=428
+25	женщины	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	start_char=429|end_char=436
+26	.	.	PUNCT	_	_	4	punct	_	start_char=436|end_char=437
+
+# text = Скромная и воспитанная дочь, она и мысли не могла допустить, что можно не слушаться отца – мать умерла слишком рано, – или мужа, когда отец выберет ей достойного спутника жизни.
+# sent_id = 4
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Скромная	скромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=438|end_char=446
+2	и	и	CCONJ	_	_	3	cc	_	start_char=447|end_char=448
+3	воспитанная	воспитанный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	conj	_	start_char=449|end_char=460
+4	дочь	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=461|end_char=465
+5	,	,	PUNCT	_	_	4	punct	_	start_char=465|end_char=466
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=467|end_char=470
+7	и	и	PART	_	_	8	advmod	_	start_char=471|end_char=472
+8	мысли	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=473|end_char=478
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=479|end_char=481
+10	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=482|end_char=487
+11	допустить	допустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=488|end_char=497
+12	,	,	PUNCT	_	_	14	punct	_	start_char=497|end_char=498
+13	что	что	SCONJ	_	_	14	mark	_	start_char=499|end_char=502
+14	можно	можно	VERB	_	_	11	ccomp	_	start_char=503|end_char=508
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=509|end_char=511
+16	слушаться	слушаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	14	csubj	_	start_char=512|end_char=521
+17	отца	отец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	obj	_	start_char=522|end_char=526
+18	–	–	PUNCT	_	_	20	punct	_	start_char=527|end_char=528
+19	мать	мать	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	start_char=529|end_char=533
+20	умерла	умереть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	start_char=534|end_char=540
+21	слишком	слишком	ADV	_	Degree=Pos	22	advmod	_	start_char=541|end_char=548
+22	рано	рано	ADV	_	Degree=Pos	20	advmod	_	start_char=549|end_char=553
+23	,	,	PUNCT	_	_	26	punct	_	start_char=553|end_char=554
+24	–	–	PUNCT	_	_	26	punct	_	start_char=555|end_char=556
+25	или	или	CCONJ	_	_	26	cc	_	start_char=557|end_char=560
+26	мужа	муж	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	22	conj	_	start_char=561|end_char=565
+27	,	,	PUNCT	_	_	30	punct	_	start_char=565|end_char=566
+28	когда	когда	SCONJ	_	_	30	mark	_	start_char=567|end_char=572
+29	отец	отец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	start_char=573|end_char=577
+30	выберет	выбрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	26	acl:relcl	_	start_char=578|end_char=585
+31	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	iobj	_	start_char=586|end_char=588
+32	достойного	достойный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	start_char=589|end_char=599
+33	спутника	спутник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	30	obj	_	start_char=600|end_char=608
+34	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	start_char=609|end_char=614
+35	.	.	PUNCT	_	_	10	punct	_	start_char=614|end_char=615
+
+# text = Потому что это было правильно, согласно традициям общества.
+# sent_id = 5
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	5	mark	_	start_char=616|end_char=622
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=623|end_char=626
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=627|end_char=630
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=631|end_char=635
+5	правильно	правильный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=636|end_char=645
+6	,	,	PUNCT	_	_	8	punct	_	start_char=645|end_char=646
+7	согласно	согласно	ADP	_	_	8	case	_	start_char=647|end_char=655
+8	традициям	традиция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	obl	_	start_char=656|end_char=665
+9	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=666|end_char=674
+10	.	.	PUNCT	_	_	5	punct	_	start_char=674|end_char=675
+
+# text = И тут внезапно появились сначала далеки, которых она боялась, но как-то механически, как можно бояться внезапно взбесившегося утюга, а потом – этот Джейми, который спас её от далеков.
+# sent_id = 6
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	И	и	CCONJ	_	_	4	cc	_	start_char=676|end_char=677
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=678|end_char=681
+3	внезапно	внезапно	ADV	_	Degree=Pos	4	advmod	_	start_char=682|end_char=690
+4	появились	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=691|end_char=700
+5	сначала	сначала	ADV	_	Degree=Pos	6	advmod	_	start_char=701|end_char=708
+6	далеки	далекий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	4	xcomp	_	start_char=709|end_char=715
+7	,	,	PUNCT	_	_	10	punct	_	start_char=715|end_char=716
+8	которых	который	PRON	_	Case=Acc|Number=Plur|PronType=Rel	10	obj	_	start_char=717|end_char=724
+9	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=725|end_char=728
+10	боялась	бояться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	start_char=729|end_char=736
+11	,	,	PUNCT	_	_	14	punct	_	start_char=736|end_char=737
+12	но	но	CCONJ	_	_	14	cc	_	start_char=738|end_char=740
+13	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	14	advmod	_	start_char=741|end_char=747
+14	механически	механически	ADV	_	Degree=Pos	4	conj	_	start_char=748|end_char=759
+15	,	,	PUNCT	_	_	17	punct	_	start_char=759|end_char=760
+16	как	как	ADV	_	Degree=Pos|PronType=Rel	17	advmod	_	start_char=761|end_char=764
+17	можно	можно	VERB	_	_	14	acl:relcl	_	start_char=765|end_char=770
+18	бояться	бояться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	17	csubj	_	start_char=771|end_char=778
+19	внезапно	внезапно	ADV	_	Degree=Pos	20	advmod	_	start_char=779|end_char=787
+20	взбесившегося	взбеситься	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	21	acl	_	start_char=788|end_char=801
+21	утюга	утюг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	obj	_	start_char=802|end_char=807
+22	,	,	PUNCT	_	_	27	punct	_	start_char=807|end_char=808
+23	а	а	CCONJ	_	_	27	cc	_	start_char=809|end_char=810
+24	потом	потом	ADV	_	Degree=Pos|PronType=Dem	27	orphan	_	start_char=811|end_char=816
+25	–	–	PUNCT	_	_	27	punct	_	start_char=817|end_char=818
+26	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	start_char=819|end_char=823
+27	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	21	conj	_	start_char=824|end_char=830
+28	,	,	PUNCT	_	_	30	punct	_	start_char=830|end_char=831
+29	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	30	nsubj	_	start_char=832|end_char=839
+30	спас	спасти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	acl:relcl	_	start_char=840|end_char=844
+31	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	obj	_	start_char=845|end_char=847
+32	от	от	ADP	_	_	33	case	_	start_char=848|end_char=850
+33	далеков	далек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	30	obl	_	start_char=851|end_char=858
+34	.	.	PUNCT	_	_	4	punct	_	start_char=858|end_char=859
+
+# text = Наверное, это было где-то романтично.
+# sent_id = 7
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Наверное	наверное	ADV	_	Degree=Pos	6	parataxis	_	start_char=860|end_char=868
+2	,	,	PUNCT	_	_	1	punct	_	start_char=868|end_char=869
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=870|end_char=873
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=874|end_char=878
+5	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	6	advmod	_	start_char=879|end_char=885
+6	романтично	романтично	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=886|end_char=896
+7	.	.	PUNCT	_	_	6	punct	_	start_char=896|end_char=897
+
+# text = Почти как в романе – спасение слабой девушки светлым рыцарем, который до этого видел её только на портрете.
+# sent_id = 8
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Почти	почти	ADV	_	Degree=Pos	4	advmod	_	start_char=898|end_char=903
+2	как	как	SCONJ	_	_	4	case	_	start_char=904|end_char=907
+3	в	в	ADP	_	_	4	case	_	start_char=908|end_char=909
+4	романе	роман	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=910|end_char=916
+5	–	–	PUNCT	_	_	6	punct	_	start_char=917|end_char=918
+6	спасение	спасение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	parataxis	_	start_char=919|end_char=927
+7	слабой	слабый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=928|end_char=934
+8	девушки	девушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=935|end_char=942
+9	светлым	светлый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=943|end_char=950
+10	рыцарем	рыцарь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	start_char=951|end_char=958
+11	,	,	PUNCT	_	_	15	punct	_	start_char=958|end_char=959
+12	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	start_char=960|end_char=967
+13	до	до	ADP	_	_	14	case	_	start_char=968|end_char=970
+14	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	15	obl	_	start_char=971|end_char=976
+15	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=977|end_char=982
+16	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=983|end_char=985
+17	только	только	PART	_	_	19	advmod	_	start_char=986|end_char=992
+18	на	на	ADP	_	_	19	case	_	start_char=993|end_char=995
+19	портрете	портрета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=996|end_char=1004
+20	.	.	PUNCT	_	_	4	punct	_	start_char=1004|end_char=1005
+
+# text = Вот только... рыцарь не был светлым.
+# sent_id = 9
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Вот	вот	PART	_	_	7	advmod	_	start_char=1006|end_char=1009
+2	только	только	PART	_	_	1	advmod	_	start_char=1010|end_char=1016
+3	...	...	PUNCT	_	_	2	punct	_	start_char=1016|end_char=1019
+4	рыцарь	рыцарь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1020|end_char=1026
+5	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1027|end_char=1029
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=1030|end_char=1033
+7	светлым	светлый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=1034|end_char=1041
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1041|end_char=1042
+
+# text = С первого мгновения, с первого его взгляда она почувствовала, как от него исходит тёмная, тяжелая, давящая сила, мрачная – и магнетически, завораживающе притягательная одновременно.
+# sent_id = 10
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	С	с	ADP	_	_	3	case	_	start_char=1043|end_char=1044
+2	первого	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|NumForm=Word|NumType=Ord|Number=Sing	3	amod	_	start_char=1045|end_char=1052
+3	мгновения	мгновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obl	_	start_char=1053|end_char=1062
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1062|end_char=1063
+5	с	с	ADP	_	_	8	case	_	start_char=1064|end_char=1065
+6	первого	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	8	amod	_	start_char=1066|end_char=1073
+7	его	его	DET	_	Poss=Yes|PronType=Prs	8	det	_	start_char=1074|end_char=1077
+8	взгляда	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	start_char=1078|end_char=1085
+9	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=1086|end_char=1089
+10	почувствовала	почувствовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1090|end_char=1103
+11	,	,	PUNCT	_	_	15	punct	_	start_char=1103|end_char=1104
+12	как	как	SCONJ	_	_	15	mark	_	start_char=1105|end_char=1108
+13	от	от	ADP	_	_	14	case	_	start_char=1109|end_char=1111
+14	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	start_char=1112|end_char=1116
+15	исходит	исходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	start_char=1117|end_char=1124
+16	тёмная	темный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	start_char=1125|end_char=1131
+17	,	,	PUNCT	_	_	18	punct	_	start_char=1131|end_char=1132
+18	тяжелая	тяжелый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	conj	_	start_char=1133|end_char=1140
+19	,	,	PUNCT	_	_	20	punct	_	start_char=1140|end_char=1141
+20	давящая	давить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	conj	_	start_char=1142|end_char=1149
+21	сила	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=1150|end_char=1154
+22	,	,	PUNCT	_	_	23	punct	_	start_char=1154|end_char=1155
+23	мрачная	мрачный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	start_char=1156|end_char=1163
+24	–	–	PUNCT	_	_	26	punct	_	start_char=1164|end_char=1165
+25	и	и	CCONJ	_	_	26	cc	_	start_char=1166|end_char=1167
+26	магнетически	магнетически	ADV	_	Degree=Pos	23	conj	_	start_char=1168|end_char=1180
+27	,	,	PUNCT	_	_	29	punct	_	start_char=1180|end_char=1181
+28	завораживающе	завораживающе	ADV	_	Degree=Pos	29	advmod	_	start_char=1182|end_char=1195
+29	притягательная	притягательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	26	conj	_	start_char=1196|end_char=1210
+30	одновременно	одновременно	ADV	_	Degree=Pos	29	advmod	_	start_char=1211|end_char=1223
+31	.	.	PUNCT	_	_	10	punct	_	start_char=1223|end_char=1224
+
+# text = Так может заворожить бездна, в которой теряются и искры света, и эхо; так может заворожить черное ночное море, в котором на немыслимой глубине у самого дна плавают зубастые чудовища, приманивая доверчивых жертв отростком-фонариком; так может заворожить иссиня-черное небо со сполохами молний, от которого не знаешь, чего ждать – просто ледяного отрезвляющего дождя, или электрического разряда в сердце, способного оставить от тебя только обугленные кости.
+# sent_id = 11
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=1225|end_char=1228
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1229|end_char=1234
+3	заворожить	заворожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1235|end_char=1245
+4	бездна	бездна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1246|end_char=1252
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1252|end_char=1253
+6	в	в	ADP	_	_	7	case	_	start_char=1254|end_char=1255
+7	которой	который	PRON	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	8	obl	_	start_char=1256|end_char=1263
+8	теряются	теряться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	start_char=1264|end_char=1272
+9	и	и	PART	_	_	10	advmod	_	start_char=1273|end_char=1274
+10	искры	искра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	start_char=1275|end_char=1280
+11	света	свет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	start_char=1281|end_char=1286
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1286|end_char=1287
+13	и	и	CCONJ	_	_	14	cc	_	start_char=1288|end_char=1289
+14	эхо	эхо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	start_char=1290|end_char=1293
+15	;	;	PUNCT	_	_	17	punct	_	start_char=1293|end_char=1294
+16	так	так	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=1295|end_char=1298
+17	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1299|end_char=1304
+18	заворожить	заворожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	start_char=1305|end_char=1315
+19	черное	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	start_char=1316|end_char=1322
+20	ночное	ночной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	start_char=1323|end_char=1329
+21	море	море	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	start_char=1330|end_char=1334
+22	,	,	PUNCT	_	_	31	punct	_	start_char=1334|end_char=1335
+23	в	в	ADP	_	_	24	case	_	start_char=1336|end_char=1337
+24	котором	который	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	31	obl	_	start_char=1338|end_char=1345
+25	на	на	ADP	_	_	27	case	_	start_char=1346|end_char=1348
+26	немыслимой	немыслимый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	start_char=1349|end_char=1359
+27	глубине	глубина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	31	obl	_	start_char=1360|end_char=1367
+28	у	у	ADP	_	_	30	case	_	start_char=1368|end_char=1369
+29	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	30	det	_	start_char=1370|end_char=1376
+30	дна	дена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	obl	_	start_char=1377|end_char=1380
+31	плавают	плавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl:relcl	_	start_char=1381|end_char=1388
+32	зубастые	зубастый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	33	amod	_	start_char=1389|end_char=1397
+33	чудовища	чудовище	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	31	nsubj	_	start_char=1398|end_char=1406
+34	,	,	PUNCT	_	_	35	punct	_	start_char=1406|end_char=1407
+35	приманивая	приманивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	31	advcl	_	start_char=1408|end_char=1418
+36	доверчивых	доверчивый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	37	amod	_	start_char=1419|end_char=1429
+37	жертв	жертва	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	35	obj	_	start_char=1430|end_char=1435
+38	отростком	отросток	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	35	iobj	_	start_char=1436|end_char=1445
+39	-	-	PUNCT	_	_	40	punct	_	start_char=1445|end_char=1446
+40	фонариком	фонарик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	38	appos	_	start_char=1446|end_char=1455
+41	;	;	PUNCT	_	_	43	punct	_	start_char=1455|end_char=1456
+42	так	так	ADV	_	Degree=Pos|PronType=Dem	43	advmod	_	start_char=1457|end_char=1460
+43	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	conj	_	start_char=1461|end_char=1466
+44	заворожить	заворожить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	43	xcomp	_	start_char=1467|end_char=1477
+45	иссиня	иссинь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	44	obj	_	start_char=1478|end_char=1484
+46	-	-	PUNCT	_	_	48	punct	_	start_char=1484|end_char=1485
+47	черное	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	48	amod	_	start_char=1485|end_char=1491
+48	небо	небо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	45	appos	_	start_char=1492|end_char=1496
+49	со	со	ADP	_	_	50	case	_	start_char=1497|end_char=1499
+50	сполохами	сполох	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	48	nmod	_	start_char=1500|end_char=1509
+51	молний	молние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	50	nmod	_	start_char=1510|end_char=1516
+52	,	,	PUNCT	_	_	56	punct	_	start_char=1516|end_char=1517
+53	от	от	ADP	_	_	54	case	_	start_char=1518|end_char=1520
+54	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	56	obl	_	start_char=1521|end_char=1529
+55	не	не	PART	_	Polarity=Neg	56	advmod	_	start_char=1530|end_char=1532
+56	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	48	acl:relcl	_	start_char=1533|end_char=1539
+57	,	,	PUNCT	_	_	59	punct	_	start_char=1539|end_char=1540
+58	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	59	obj	_	start_char=1541|end_char=1545
+59	ждать	ждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	56	ccomp	_	start_char=1546|end_char=1551
+60	–	–	PUNCT	_	_	56	punct	_	start_char=1552|end_char=1553
+61	просто	просто	PART	_	_	62	advmod	_	start_char=1554|end_char=1560
+62	ледяного	ледяной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	64	amod	_	start_char=1561|end_char=1569
+63	отрезвляющего	отрезвлять	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	64	amod	_	start_char=1570|end_char=1583
+64	дождя	дождь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	59	obj	_	start_char=1584|end_char=1589
+65	,	,	PUNCT	_	_	68	punct	_	start_char=1589|end_char=1590
+66	или	или	CCONJ	_	_	68	cc	_	start_char=1591|end_char=1594
+67	электрического	электрический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	68	amod	_	start_char=1595|end_char=1609
+68	разряда	разряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	64	conj	_	start_char=1610|end_char=1617
+69	в	в	ADP	_	_	70	case	_	start_char=1618|end_char=1619
+70	сердце	сердце	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	68	nmod	_	start_char=1620|end_char=1626
+71	,	,	PUNCT	_	_	72	punct	_	start_char=1626|end_char=1627
+72	способного	способный	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	68	acl	_	start_char=1628|end_char=1638
+73	оставить	оставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	72	xcomp	_	start_char=1639|end_char=1647
+74	от	от	ADP	_	_	75	case	_	start_char=1648|end_char=1650
+75	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	73	obl	_	start_char=1651|end_char=1655
+76	только	только	PART	_	_	77	advmod	_	start_char=1656|end_char=1662
+77	обугленные	обугить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	78	acl	_	start_char=1663|end_char=1673
+78	кости	кость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	73	obj	_	start_char=1674|end_char=1679
+79	.	.	PUNCT	_	_	2	punct	_	start_char=1679|end_char=1680
+
+# text = Ни по законам людей, ни по законам божьим он не имел над ней власти.
+# sent_id = 12
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Ни	ни	CCONJ	_	Polarity=Neg	12	cc	_	start_char=1681|end_char=1683
+2	по	по	ADP	_	_	3	case	_	start_char=1684|end_char=1686
+3	законам	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	12	obl	_	start_char=1687|end_char=1694
+4	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	start_char=1695|end_char=1700
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1700|end_char=1701
+6	ни	ни	CCONJ	_	Polarity=Neg	8	cc	_	start_char=1702|end_char=1704
+7	по	по	ADP	_	_	8	case	_	start_char=1705|end_char=1707
+8	законам	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	conj	_	start_char=1708|end_char=1715
+9	божьим	божьим	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	start_char=1716|end_char=1722
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=1723|end_char=1725
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1726|end_char=1728
+12	имел	иметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1729|end_char=1733
+13	над	над	ADP	_	_	14	case	_	start_char=1734|end_char=1737
+14	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=1738|end_char=1741
+15	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obj	_	start_char=1742|end_char=1748
+16	.	.	PUNCT	_	_	12	punct	_	start_char=1748|end_char=1749
+
+# text = Но оказалось, есть еще один закон, который знало её тело, её слабое тело.
+# sent_id = 13
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=1750|end_char=1752
+2	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=1753|end_char=1762
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1762|end_char=1763
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1764|end_char=1768
+5	еще	еще	ADV	_	Degree=Pos	6	advmod	_	start_char=1769|end_char=1772
+6	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	det	_	start_char=1773|end_char=1777
+7	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1778|end_char=1783
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1783|end_char=1784
+9	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	start_char=1785|end_char=1792
+10	знало	знать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	start_char=1793|end_char=1798
+11	её	ее	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=1799|end_char=1801
+12	тело	тело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	start_char=1802|end_char=1806
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1806|end_char=1807
+14	её	ее	DET	_	Poss=Yes|PronType=Prs	16	det	_	start_char=1808|end_char=1810
+15	слабое	слабый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	start_char=1811|end_char=1817
+16	тело	тело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	conj	_	start_char=1818|end_char=1822
+17	.	.	PUNCT	_	_	4	punct	_	start_char=1822|end_char=1823
+
+# text = Каждый раз, как он оказывался рядом, Виктория чувствовала, что у неё внизу живота становится горячо, влажно, что-то начинает сладко-тягуче пульсировать, и подкашиваются ноги.
+# sent_id = 14
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Каждый	каждый	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	2	det	_	start_char=1824|end_char=1830
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=1831|end_char=1834
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1834|end_char=1835
+4	как	как	SCONJ	_	_	6	mark	_	start_char=1836|end_char=1839
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1840|end_char=1842
+6	оказывался	оказываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	acl	_	start_char=1843|end_char=1853
+7	рядом	рядом	ADV	_	Degree=Pos	6	advmod	_	start_char=1854|end_char=1859
+8	,	,	PUNCT	_	_	6	punct	_	start_char=1859|end_char=1860
+9	Виктория	Виктория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=1861|end_char=1869
+10	чувствовала	чувствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1870|end_char=1881
+11	,	,	PUNCT	_	_	17	punct	_	start_char=1881|end_char=1882
+12	что	что	SCONJ	_	_	17	mark	_	start_char=1883|end_char=1886
+13	у	у	ADP	_	_	14	case	_	start_char=1887|end_char=1888
+14	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	start_char=1889|end_char=1892
+15	внизу	внизу	ADV	_	Degree=Pos	17	advmod	_	start_char=1893|end_char=1898
+16	живота	живот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nsubj	_	start_char=1899|end_char=1905
+17	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	ccomp	_	start_char=1906|end_char=1916
+18	горячо	горячо	ADV	_	Degree=Pos	17	advmod	_	start_char=1917|end_char=1923
+19	,	,	PUNCT	_	_	20	punct	_	start_char=1923|end_char=1924
+20	влажно	влажный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	18	conj	_	start_char=1925|end_char=1931
+21	,	,	PUNCT	_	_	23	punct	_	start_char=1931|end_char=1932
+22	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	23	nsubj	_	start_char=1933|end_char=1939
+23	начинает	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	start_char=1940|end_char=1948
+24	сладко-тягуче	сладко-тягуче	ADV	_	Degree=Pos	25	advmod	_	start_char=1949|end_char=1962
+25	пульсировать	пульсировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	xcomp	_	start_char=1963|end_char=1975
+26	,	,	PUNCT	_	_	28	punct	_	start_char=1975|end_char=1976
+27	и	и	CCONJ	_	_	28	cc	_	start_char=1977|end_char=1978
+28	подкашиваются	подкашиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	conj	_	start_char=1979|end_char=1992
+29	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	28	nsubj	_	start_char=1993|end_char=1997
+30	.	.	PUNCT	_	_	10	punct	_	start_char=1997|end_char=1998
+
+# text = Когда её бедный отец покинул этот мир, и Доктор предложил путешествовать с ними в ТАРДИС, Виктория каждый раз старалась не оставаться наедине с Джейми.
+# sent_id = 15
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Когда	когда	SCONJ	_	_	5	mark	_	start_char=1999|end_char=2004
+2	её	ее	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=2005|end_char=2007
+3	бедный	бедный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=2008|end_char=2014
+4	отец	отец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2015|end_char=2019
+5	покинул	покинуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	start_char=2020|end_char=2027
+6	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	start_char=2028|end_char=2032
+7	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=2033|end_char=2036
+8	,	,	PUNCT	_	_	5	punct	_	start_char=2036|end_char=2037
+9	и	и	CCONJ	_	_	11	cc	_	start_char=2038|end_char=2039
+10	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=2040|end_char=2046
+11	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2047|end_char=2056
+12	путешествовать	путешествовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	start_char=2057|end_char=2071
+13	с	с	ADP	_	_	14	case	_	start_char=2072|end_char=2073
+14	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	12	obl	_	start_char=2074|end_char=2078
+15	в	в	ADP	_	_	16	case	_	start_char=2079|end_char=2080
+16	ТАРДИС	ТАРДИС	PROPN	_	Abbr=Yes|NameType=Com	12	obl	_	start_char=2081|end_char=2087
+17	,	,	PUNCT	_	_	5	punct	_	start_char=2087|end_char=2088
+18	Виктория	Виктория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	21	nsubj	_	start_char=2089|end_char=2097
+19	каждый	каждый	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	20	det	_	start_char=2098|end_char=2104
+20	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obl	_	start_char=2105|end_char=2108
+21	старалась	стараться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2109|end_char=2118
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=2119|end_char=2121
+23	оставаться	оставаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	21	xcomp	_	start_char=2122|end_char=2132
+24	наедине	наедине	ADV	_	Degree=Pos	23	advmod	_	start_char=2133|end_char=2140
+25	с	с	ADP	_	_	26	case	_	start_char=2141|end_char=2142
+26	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|NameType=Giv|Number=Sing	24	obl	_	start_char=2143|end_char=2149
+27	.	.	PUNCT	_	_	21	punct	_	start_char=2149|end_char=2150
+
+# text = Она вскакивала и уходила с Доктором, даже если еще не успела позавтракать, уверяя, что не голодна, но очень хочет что-нибудь посмотреть, или проходила мимо той же кухни, делая вид, что шла совсем в другое место, если внезапно заставала там одного молодого горца.
+# sent_id = 16
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2151|end_char=2154
+2	вскакивала	вскакивать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2155|end_char=2165
+3	и	и	CCONJ	_	_	4	cc	_	start_char=2166|end_char=2167
+4	уходила	уходить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2168|end_char=2175
+5	с	с	ADP	_	_	6	case	_	start_char=2176|end_char=2177
+6	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	start_char=2178|end_char=2186
+7	,	,	PUNCT	_	_	12	punct	_	start_char=2186|end_char=2187
+8	даже	даже	PART	_	_	12	advmod	_	start_char=2188|end_char=2192
+9	если	если	SCONJ	_	_	12	mark	_	start_char=2193|end_char=2197
+10	еще	еще	ADV	_	Degree=Pos	12	advmod	_	start_char=2198|end_char=2201
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=2202|end_char=2204
+12	успела	успеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=2205|end_char=2211
+13	позавтракать	позавтракать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=2212|end_char=2224
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2224|end_char=2225
+15	уверяя	уверять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	start_char=2226|end_char=2232
+16	,	,	PUNCT	_	_	19	punct	_	start_char=2232|end_char=2233
+17	что	что	SCONJ	_	_	19	mark	_	start_char=2234|end_char=2237
+18	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=2238|end_char=2240
+19	голодна	голодный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	15	ccomp	_	start_char=2241|end_char=2248
+20	,	,	PUNCT	_	_	23	punct	_	start_char=2248|end_char=2249
+21	но	но	CCONJ	_	_	23	cc	_	start_char=2250|end_char=2252
+22	очень	очень	ADV	_	Degree=Pos	23	advmod	_	start_char=2253|end_char=2258
+23	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2259|end_char=2264
+24	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	25	obj	_	start_char=2265|end_char=2275
+25	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	xcomp	_	start_char=2276|end_char=2286
+26	,	,	PUNCT	_	_	28	punct	_	start_char=2286|end_char=2287
+27	или	или	CCONJ	_	_	28	cc	_	start_char=2288|end_char=2291
+28	проходила	проходить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2292|end_char=2301
+29	мимо	мимо	ADP	_	_	32	case	_	start_char=2302|end_char=2306
+30	той	тот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	32	det	_	start_char=2307|end_char=2310
+31	же	же	PART	_	_	30	advmod	_	start_char=2311|end_char=2313
+32	кухни	кухня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	obl	_	start_char=2314|end_char=2319
+33	,	,	PUNCT	_	_	34	punct	_	start_char=2319|end_char=2320
+34	делая	делать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	28	advcl	_	start_char=2321|end_char=2326
+35	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obj	_	start_char=2327|end_char=2330
+36	,	,	PUNCT	_	_	38	punct	_	start_char=2330|end_char=2331
+37	что	что	SCONJ	_	_	38	mark	_	start_char=2332|end_char=2335
+38	шла	идти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	acl	_	start_char=2336|end_char=2339
+39	совсем	совсем	ADV	_	Degree=Pos	42	advmod	_	start_char=2340|end_char=2346
+40	в	в	ADP	_	_	42	case	_	start_char=2347|end_char=2348
+41	другое	другой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	42	det	_	start_char=2349|end_char=2355
+42	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	38	obl	_	start_char=2356|end_char=2361
+43	,	,	PUNCT	_	_	46	punct	_	start_char=2361|end_char=2362
+44	если	если	SCONJ	_	_	46	mark	_	start_char=2363|end_char=2367
+45	внезапно	внезапно	ADV	_	Degree=Pos	46	advmod	_	start_char=2368|end_char=2376
+46	заставала	заставать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	38	advcl	_	start_char=2377|end_char=2386
+47	там	там	ADV	_	Degree=Pos|PronType=Dem	46	advmod	_	start_char=2387|end_char=2390
+48	одного	один	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	50	det	_	start_char=2391|end_char=2397
+49	молодого	молодой	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	start_char=2398|end_char=2406
+50	горца	горцо	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	46	obj	_	start_char=2407|end_char=2412
+51	.	.	PUNCT	_	_	2	punct	_	start_char=2412|end_char=2413
+
+# text = Однажды она как-то замешкалась, зацепившись своей длинной пышной юбкой за что-то, и пока старалась незаметно освободиться, Доктор ушёл, оставив её наедине с Джейми.
+# sent_id = 17
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Однажды	однажды	ADV	_	Degree=Pos	4	advmod	_	start_char=2414|end_char=2421
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2422|end_char=2425
+3	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=2426|end_char=2432
+4	замешкалась	замешкаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2433|end_char=2444
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2444|end_char=2445
+6	зацепившись	зацепиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	4	advcl	_	start_char=2446|end_char=2457
+7	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	start_char=2458|end_char=2463
+8	длинной	длинный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=2464|end_char=2471
+9	пышной	пышной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=2472|end_char=2478
+10	юбкой	юбка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	start_char=2479|end_char=2484
+11	за	за	ADP	_	_	12	case	_	start_char=2485|end_char=2487
+12	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	obl	_	start_char=2488|end_char=2494
+13	,	,	PUNCT	_	_	21	punct	_	start_char=2494|end_char=2495
+14	и	и	CCONJ	_	_	21	cc	_	start_char=2496|end_char=2497
+15	пока	пока	SCONJ	_	_	16	mark	_	start_char=2498|end_char=2502
+16	старалась	стараться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	21	advcl	_	start_char=2503|end_char=2512
+17	незаметно	незаметно	ADV	_	Degree=Pos	18	advmod	_	start_char=2513|end_char=2522
+18	освободиться	освободиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	16	xcomp	_	start_char=2523|end_char=2535
+19	,	,	PUNCT	_	_	16	punct	_	start_char=2535|end_char=2536
+20	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	start_char=2537|end_char=2543
+21	ушёл	уйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2544|end_char=2548
+22	,	,	PUNCT	_	_	23	punct	_	start_char=2548|end_char=2549
+23	оставив	оставить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	21	advcl	_	start_char=2550|end_char=2557
+24	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=2558|end_char=2560
+25	наедине	наедине	ADV	_	Degree=Pos	23	advmod	_	start_char=2561|end_char=2568
+26	с	с	ADP	_	_	27	case	_	start_char=2569|end_char=2570
+27	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|NameType=Giv|Number=Sing	23	obl	_	start_char=2571|end_char=2577
+28	.	.	PUNCT	_	_	4	punct	_	start_char=2577|end_char=2578
+
+# text = Тот сидел, молча допивал чай и неотрывно смотрел на неё.
+# sent_id = 18
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	start_char=2579|end_char=2582
+2	сидел	сидеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2583|end_char=2588
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2588|end_char=2589
+4	молча	молча	ADV	_	Degree=Pos	5	advmod	_	start_char=2590|end_char=2595
+5	допивал	допивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2596|end_char=2603
+6	чай	чай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=2604|end_char=2607
+7	и	и	CCONJ	_	_	9	cc	_	start_char=2608|end_char=2609
+8	неотрывно	неотрывно	ADV	_	Degree=Pos	9	advmod	_	start_char=2610|end_char=2619
+9	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2620|end_char=2627
+10	на	на	ADP	_	_	11	case	_	start_char=2628|end_char=2630
+11	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=2631|end_char=2634
+12	.	.	PUNCT	_	_	2	punct	_	start_char=2634|end_char=2635
+
+# text = – Ты почти ничего не ела, – спокойно заметил он, когда её мысли в панике заметались – встать и уйти?
+# sent_id = 19
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2636|end_char=2637
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=2638|end_char=2640
+3	почти	почти	ADV	_	Degree=Pos	4	advmod	_	start_char=2641|end_char=2646
+4	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	6	obj	_	start_char=2647|end_char=2653
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2654|end_char=2656
+6	ела	есть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2657|end_char=2660
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2660|end_char=2661
+8	–	–	PUNCT	_	_	10	punct	_	start_char=2662|end_char=2663
+9	спокойно	спокойно	ADV	_	Degree=Pos	10	advmod	_	start_char=2664|end_char=2672
+10	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2673|end_char=2680
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=2681|end_char=2683
+12	,	,	PUNCT	_	_	18	punct	_	start_char=2683|end_char=2684
+13	когда	когда	SCONJ	_	_	18	mark	_	start_char=2685|end_char=2690
+14	её	ее	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=2691|end_char=2693
+15	мысли	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	start_char=2694|end_char=2699
+16	в	в	ADP	_	_	17	case	_	start_char=2700|end_char=2701
+17	панике	паника	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	start_char=2702|end_char=2708
+18	заметались	заметаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	10	advcl	_	start_char=2709|end_char=2719
+19	–	–	PUNCT	_	_	20	punct	_	start_char=2720|end_char=2721
+20	встать	встать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	parataxis	_	start_char=2722|end_char=2728
+21	и	и	CCONJ	_	_	22	cc	_	start_char=2729|end_char=2730
+22	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	conj	_	start_char=2731|end_char=2735
+23	?	?	PUNCT	_	_	6	punct	_	start_char=2735|end_char=2736
+
+# text = Сделать вид, что ничего не происходит, и закончить завтрак?
+# sent_id = 20
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=2737|end_char=2744
+2	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=2745|end_char=2748
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2748|end_char=2749
+4	что	что	SCONJ	_	_	7	mark	_	start_char=2750|end_char=2753
+5	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	7	nsubj	_	start_char=2754|end_char=2760
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2761|end_char=2763
+7	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	start_char=2764|end_char=2774
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2774|end_char=2775
+9	и	и	CCONJ	_	_	10	cc	_	start_char=2776|end_char=2777
+10	закончить	закончить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	start_char=2778|end_char=2787
+11	завтрак	завтрак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=2788|end_char=2795
+12	?	?	PUNCT	_	_	1	punct	_	start_char=2795|end_char=2796
+
+# text = Она чувствовала, что сейчас ей кусок в горло не полезет и... ноги, предательские ноги!
+# sent_id = 21
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2797|end_char=2800
+2	чувствовала	чувствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2801|end_char=2812
+3	,	,	PUNCT	_	_	11	punct	_	start_char=2812|end_char=2813
+4	что	что	SCONJ	_	_	11	mark	_	start_char=2814|end_char=2817
+5	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=2818|end_char=2824
+6	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=2825|end_char=2827
+7	кусок	кусок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=2828|end_char=2833
+8	в	в	ADP	_	_	9	case	_	start_char=2834|end_char=2835
+9	горло	горло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	start_char=2836|end_char=2841
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2842|end_char=2844
+11	полезет	полезть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=2845|end_char=2852
+12	и	и	CCONJ	_	_	14	cc	_	start_char=2853|end_char=2854
+13	...	...	PUNCT	_	_	14	punct	_	start_char=2854|end_char=2857
+14	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	conj	_	start_char=2858|end_char=2862
+15	,	,	PUNCT	_	_	17	punct	_	start_char=2862|end_char=2863
+16	предательские	предательский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	start_char=2864|end_char=2877
+17	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	14	conj	_	start_char=2878|end_char=2882
+18	!	!	PUNCT	_	_	2	punct	_	start_char=2882|end_char=2883
+
+# text = Как могла крепко она сжала колени и выпрямилась, едва ли не прогнулась назад – это всё, что она смогла сделать.
+# sent_id = 22
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Как	как	SCONJ	_	_	2	mark	_	start_char=2884|end_char=2887
+2	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2888|end_char=2893
+3	крепко	крепко	ADV	_	Degree=Pos	5	advmod	_	start_char=2894|end_char=2900
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=2901|end_char=2904
+5	сжала	сжать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2905|end_char=2910
+6	колени	колено	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obj	_	start_char=2911|end_char=2917
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2918|end_char=2919
+8	выпрямилась	выпрямиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2920|end_char=2931
+9	,	,	PUNCT	_	_	13	punct	_	start_char=2931|end_char=2932
+10	едва	едва	ADV	_	Degree=Pos	13	advmod	_	start_char=2933|end_char=2937
+11	ли	ли	PART	_	_	10	advmod	_	start_char=2938|end_char=2940
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=2941|end_char=2943
+13	прогнулась	прогнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=2944|end_char=2954
+14	назад	назад	ADV	_	Degree=Pos	13	advmod	_	start_char=2955|end_char=2960
+15	–	–	PUNCT	_	_	17	punct	_	start_char=2961|end_char=2962
+16	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	nsubj	_	start_char=2963|end_char=2966
+17	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	parataxis	_	start_char=2967|end_char=2970
+18	,	,	PUNCT	_	_	21	punct	_	start_char=2970|end_char=2971
+19	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	22	obj	_	start_char=2972|end_char=2975
+20	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=2976|end_char=2979
+21	смогла	смочь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=2980|end_char=2986
+22	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	xcomp	_	start_char=2987|end_char=2994
+23	.	.	PUNCT	_	_	5	punct	_	start_char=2994|end_char=2995
+
+# text = – Ешь, – тяжело уронил он, подкладывая ей на тарелку ещё чего-то и наливая свежего чая.
+# sent_id = 23
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2996|end_char=2997
+2	Ешь	есть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2998|end_char=3001
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3001|end_char=3002
+4	–	–	PUNCT	_	_	6	punct	_	start_char=3003|end_char=3004
+5	тяжело	тяжело	ADV	_	Degree=Pos	6	advmod	_	start_char=3005|end_char=3011
+6	уронил	уронить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3012|end_char=3018
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3019|end_char=3021
+8	,	,	PUNCT	_	_	9	punct	_	start_char=3021|end_char=3022
+9	подкладывая	подкладывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=3023|end_char=3034
+10	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	_	start_char=3035|end_char=3037
+11	на	на	ADP	_	_	12	case	_	start_char=3038|end_char=3040
+12	тарелку	тарелка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	start_char=3041|end_char=3048
+13	ещё	еще	ADV	_	Degree=Pos	14	advmod	_	start_char=3049|end_char=3052
+14	чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	9	obj	_	start_char=3053|end_char=3060
+15	и	и	CCONJ	_	_	16	cc	_	start_char=3061|end_char=3062
+16	наливая	наливать	VERB	_	Aspect=Imp|Case=Nom|Tense=Pres|VerbForm=Conv|Voice=Act	9	conj	_	start_char=3063|end_char=3070
+17	свежего	свежий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	start_char=3071|end_char=3078
+18	чая	чай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obj	_	start_char=3079|end_char=3082
+19	.	.	PUNCT	_	_	2	punct	_	start_char=3082|end_char=3083
+
+# text = – Пей.
+# sent_id = 24
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3084|end_char=3085
+2	Пей	пей	INTJ	_	_	0	root	_	start_char=3086|end_char=3089
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3089|end_char=3090
+
+# text = Она судорожно вцепилась в чашку, выстукивая на ней зубами замысловатую мелодию.
+# sent_id = 25
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3091|end_char=3094
+2	судорожно	судорожно	ADV	_	Degree=Pos	3	advmod	_	start_char=3095|end_char=3104
+3	вцепилась	вцепиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3105|end_char=3114
+4	в	в	ADP	_	_	5	case	_	start_char=3115|end_char=3116
+5	чашку	чашка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=3117|end_char=3122
+6	,	,	PUNCT	_	_	7	punct	_	start_char=3122|end_char=3123
+7	выстукивая	выстукивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=3124|end_char=3134
+8	на	на	ADP	_	_	9	case	_	start_char=3135|end_char=3137
+9	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=3138|end_char=3141
+10	зубами	зуб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	iobj	_	start_char=3142|end_char=3148
+11	замысловатую	замысловатый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=3149|end_char=3161
+12	мелодию	мелодия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=3162|end_char=3169
+13	.	.	PUNCT	_	_	3	punct	_	start_char=3169|end_char=3170
+
+# text = Он всё продолжал сидеть и молча смотреть на неё, лишь чуть кивнул удовлетворенно, когда на тарелке ничего не осталось.
+# sent_id = 26
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3171|end_char=3173
+2	всё	всё	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=3174|end_char=3177
+3	продолжал	продолжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3178|end_char=3187
+4	сидеть	сидеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=3188|end_char=3194
+5	и	и	CCONJ	_	_	7	cc	_	start_char=3195|end_char=3196
+6	молча	молча	ADV	_	Degree=Pos	7	advmod	_	start_char=3197|end_char=3202
+7	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=3203|end_char=3211
+8	на	на	ADP	_	_	9	case	_	start_char=3212|end_char=3214
+9	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=3215|end_char=3218
+10	,	,	PUNCT	_	_	13	punct	_	start_char=3218|end_char=3219
+11	лишь	лишь	PART	_	_	12	advmod	_	start_char=3220|end_char=3224
+12	чуть	чуть	ADV	_	Degree=Pos	13	advmod	_	start_char=3225|end_char=3229
+13	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=3230|end_char=3236
+14	удовлетворенно	удовлетворенно	ADV	_	Degree=Pos	13	advmod	_	start_char=3237|end_char=3251
+15	,	,	PUNCT	_	_	21	punct	_	start_char=3251|end_char=3252
+16	когда	когда	SCONJ	_	_	21	mark	_	start_char=3253|end_char=3258
+17	на	на	ADP	_	_	18	case	_	start_char=3259|end_char=3261
+18	тарелке	тарелка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	obl	_	start_char=3262|end_char=3269
+19	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	21	nsubj	_	start_char=3270|end_char=3276
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	start_char=3277|end_char=3279
+21	осталось	остаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	advcl	_	start_char=3280|end_char=3288
+22	.	.	PUNCT	_	_	3	punct	_	start_char=3288|end_char=3289
+
+# text = Встать она по-прежнему не могла и сидела не шевелясь, потупив глаза, поэтому больше почувствовала – по изменившемуся давлению той самой его силы – что встал он.
+# sent_id = 27
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Встать	встать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=3290|end_char=3296
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3297|end_char=3300
+3	по-прежнему	по-прежнему	ADV	_	Degree=Pos	5	advmod	_	start_char=3301|end_char=3312
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3313|end_char=3315
+5	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3316|end_char=3321
+6	и	и	CCONJ	_	_	7	cc	_	start_char=3322|end_char=3323
+7	сидела	сидеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=3324|end_char=3330
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3331|end_char=3333
+9	шевелясь	шевелиться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	start_char=3334|end_char=3342
+10	,	,	PUNCT	_	_	11	punct	_	start_char=3342|end_char=3343
+11	потупив	потупить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	9	conj	_	start_char=3344|end_char=3351
+12	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	start_char=3352|end_char=3357
+13	,	,	PUNCT	_	_	16	punct	_	start_char=3357|end_char=3358
+14	поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=3359|end_char=3366
+15	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	16	advmod	_	start_char=3367|end_char=3373
+16	почувствовала	почувствовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=3374|end_char=3387
+17	–	–	PUNCT	_	_	24	punct	_	start_char=3388|end_char=3389
+18	по	по	ADP	_	_	20	case	_	start_char=3390|end_char=3392
+19	изменившемуся	измениться	VERB	_	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	amod	_	start_char=3393|end_char=3406
+20	давлению	давление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	obl	_	start_char=3407|end_char=3415
+21	той	тот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	start_char=3416|end_char=3419
+22	самой	сам	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Emp	24	det	_	start_char=3420|end_char=3425
+23	его	его	DET	_	Poss=Yes|PronType=Prs	24	det	_	start_char=3426|end_char=3429
+24	силы	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	start_char=3430|end_char=3434
+25	–	–	PUNCT	_	_	27	punct	_	start_char=3435|end_char=3436
+26	что	что	SCONJ	_	_	27	mark	_	start_char=3437|end_char=3440
+27	встал	встать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	_	start_char=3441|end_char=3446
+28	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	start_char=3447|end_char=3449
+29	.	.	PUNCT	_	_	5	punct	_	start_char=3449|end_char=3450
+
+# text = Встал, подошел к ней, одним рывком вздернул её со стула и прижал к себе.
+# sent_id = 28
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Встал	встать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3451|end_char=3456
+2	,	,	PUNCT	_	_	3	punct	_	start_char=3456|end_char=3457
+3	подошел	подойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=3458|end_char=3465
+4	к	к	ADP	_	_	5	case	_	start_char=3466|end_char=3467
+5	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=3468|end_char=3471
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3471|end_char=3472
+7	одним	один	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	start_char=3473|end_char=3478
+8	рывком	рывок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	start_char=3479|end_char=3485
+9	вздернул	вздернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=3486|end_char=3494
+10	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=3495|end_char=3497
+11	со	со	ADP	_	_	12	case	_	start_char=3498|end_char=3500
+12	стула	стул	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=3501|end_char=3506
+13	и	и	CCONJ	_	_	14	cc	_	start_char=3507|end_char=3508
+14	прижал	прижать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=3509|end_char=3515
+15	к	к	ADP	_	_	16	case	_	start_char=3516|end_char=3517
+16	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	14	obl	_	start_char=3518|end_char=3522
+17	.	.	PUNCT	_	_	1	punct	_	start_char=3522|end_char=3523
+
+# text = Виктории показалось, что она сейчас потеряет сознание, всё закружилось вокруг, стало таким зыбким, и единственное, что она точно ощутила – это его губы, сухие, горячие, властно накрывающие её собственные, раздвигающие их, чтобы его язык смог вторгнуться дальше, глубже, исследовать её рот, переплестись с её языком, и уйти обратно, оставив чувство большей потери, чем гибель отца и лишение её дома.
+# sent_id = 29
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Виктории	Виктория	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|NameType=Giv|Number=Sing	2	iobj	_	start_char=3524|end_char=3532
+2	показалось	показаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3533|end_char=3543
+3	,	,	PUNCT	_	_	7	punct	_	start_char=3543|end_char=3544
+4	что	что	SCONJ	_	_	7	mark	_	start_char=3545|end_char=3548
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=3549|end_char=3552
+6	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=3553|end_char=3559
+7	потеряет	потерять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=3560|end_char=3568
+8	сознание	сознание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=3569|end_char=3577
+9	,	,	PUNCT	_	_	11	punct	_	start_char=3577|end_char=3578
+10	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	11	nsubj	_	start_char=3579|end_char=3582
+11	закружилось	закружиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	start_char=3583|end_char=3594
+12	вокруг	вокруг	ADV	_	Degree=Pos	11	advmod	_	start_char=3595|end_char=3601
+13	,	,	PUNCT	_	_	14	punct	_	start_char=3601|end_char=3602
+14	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3603|end_char=3608
+15	таким	такой	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	16	det	_	start_char=3609|end_char=3614
+16	зыбким	зыбкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	14	xcomp	_	start_char=3615|end_char=3621
+17	,	,	PUNCT	_	_	19	punct	_	start_char=3621|end_char=3622
+18	и	и	CCONJ	_	_	19	cc	_	start_char=3623|end_char=3624
+19	единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	conj	_	start_char=3625|end_char=3637
+20	,	,	PUNCT	_	_	24	punct	_	start_char=3637|end_char=3638
+21	что	что	SCONJ	_	_	24	mark	_	start_char=3639|end_char=3642
+22	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	start_char=3643|end_char=3646
+23	точно	точно	ADV	_	Degree=Pos	24	advmod	_	start_char=3647|end_char=3652
+24	ощутила	ощутить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	acl	_	start_char=3653|end_char=3660
+25	–	–	PUNCT	_	_	28	punct	_	start_char=3661|end_char=3662
+26	это	это	PART	_	_	28	expl	_	start_char=3663|end_char=3666
+27	его	его	DET	_	Poss=Yes|PronType=Prs	28	det	_	start_char=3667|end_char=3670
+28	губы	губа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	parataxis	_	start_char=3671|end_char=3675
+29	,	,	PUNCT	_	_	35	punct	_	start_char=3675|end_char=3676
+30	сухие	сухой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	start_char=3677|end_char=3682
+31	,	,	PUNCT	_	_	32	punct	_	start_char=3682|end_char=3683
+32	горячие	горячий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	30	conj	_	start_char=3684|end_char=3691
+33	,	,	PUNCT	_	_	35	punct	_	start_char=3691|end_char=3692
+34	властно	властно	ADV	_	Degree=Pos	35	advmod	_	start_char=3693|end_char=3700
+35	накрывающие	накрывать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	start_char=3701|end_char=3712
+36	её	ее	DET	_	Poss=Yes|PronType=Prs	37	det	_	start_char=3713|end_char=3715
+37	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	40	amod	_	start_char=3716|end_char=3727
+38	,	,	PUNCT	_	_	39	punct	_	start_char=3727|end_char=3728
+39	раздвигающие	раздвигать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	35	conj	_	start_char=3729|end_char=3741
+40	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	39	obj	_	start_char=3742|end_char=3744
+41	,	,	PUNCT	_	_	45	punct	_	start_char=3744|end_char=3745
+42	чтобы	чтобы	SCONJ	_	Mood=Cnd	45	mark	_	start_char=3746|end_char=3751
+43	его	его	DET	_	Poss=Yes|PronType=Prs	44	det	_	start_char=3752|end_char=3755
+44	язык	язык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	nsubj	_	start_char=3756|end_char=3760
+45	смог	смочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	advcl	_	start_char=3761|end_char=3765
+46	вторгнуться	вторгнуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	45	xcomp	_	start_char=3766|end_char=3777
+47	дальше	дальше	ADV	_	Degree=Cmp	46	advmod	_	start_char=3778|end_char=3784
+48	,	,	PUNCT	_	_	49	punct	_	start_char=3784|end_char=3785
+49	глубже	глубоко	ADV	_	Degree=Cmp	47	conj	_	start_char=3786|end_char=3792
+50	,	,	PUNCT	_	_	51	punct	_	start_char=3792|end_char=3793
+51	исследовать	исследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	46	conj	_	start_char=3794|end_char=3805
+52	её	ее	DET	_	Poss=Yes|PronType=Prs	53	det	_	start_char=3806|end_char=3808
+53	рот	рот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	51	obj	_	start_char=3809|end_char=3812
+54	,	,	PUNCT	_	_	55	punct	_	start_char=3812|end_char=3813
+55	переплестись	переплестись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	46	conj	_	start_char=3814|end_char=3826
+56	с	с	ADP	_	_	58	case	_	start_char=3827|end_char=3828
+57	её	ее	DET	_	Poss=Yes|PronType=Prs	58	det	_	start_char=3829|end_char=3831
+58	языком	язык	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	55	obl	_	start_char=3832|end_char=3838
+59	,	,	PUNCT	_	_	61	punct	_	start_char=3838|end_char=3839
+60	и	и	CCONJ	_	_	61	cc	_	start_char=3840|end_char=3841
+61	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	55	conj	_	start_char=3842|end_char=3846
+62	обратно	обратно	ADV	_	Degree=Pos	61	advmod	_	start_char=3847|end_char=3854
+63	,	,	PUNCT	_	_	64	punct	_	start_char=3854|end_char=3855
+64	оставив	оставить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	61	advcl	_	start_char=3856|end_char=3863
+65	чувство	чувство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	64	obj	_	start_char=3864|end_char=3871
+66	большей	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	67	amod	_	start_char=3872|end_char=3879
+67	потери	потеря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	65	nmod	_	start_char=3880|end_char=3886
+68	,	,	PUNCT	_	_	70	punct	_	start_char=3886|end_char=3887
+69	чем	чем	SCONJ	_	_	70	case	_	start_char=3888|end_char=3891
+70	гибель	гибель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	64	obl	_	start_char=3892|end_char=3898
+71	отца	отец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	70	nmod	_	start_char=3899|end_char=3903
+72	и	и	CCONJ	_	_	73	cc	_	start_char=3904|end_char=3905
+73	лишение	лишение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	70	conj	_	start_char=3906|end_char=3913
+74	её	ее	DET	_	Poss=Yes|PronType=Prs	75	det	_	start_char=3914|end_char=3916
+75	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	73	nmod	_	start_char=3917|end_char=3921
+76	.	.	PUNCT	_	_	2	punct	_	start_char=3921|end_char=3922
+
+# text = Виктория застонала.
+# sent_id = 30
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Виктория	Виктория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=3923|end_char=3931
+2	застонала	застонать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3932|end_char=3941
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3941|end_char=3942
+
+# text = Она безвольной куклой висела в руках у Джейми, стискивающего её ребра через китовый ус корсета.
+# sent_id = 31
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=3943|end_char=3946
+2	безвольной	безвольный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=3947|end_char=3957
+3	куклой	кукла	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	start_char=3958|end_char=3964
+4	висела	висеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3965|end_char=3971
+5	в	в	ADP	_	_	6	case	_	start_char=3972|end_char=3973
+6	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	start_char=3974|end_char=3979
+7	у	у	ADP	_	_	8	case	_	start_char=3980|end_char=3981
+8	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	4	obl	_	start_char=3982|end_char=3988
+9	,	,	PUNCT	_	_	10	punct	_	start_char=3988|end_char=3989
+10	стискивающего	стискивать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	start_char=3990|end_char=4003
+11	её	ее	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=4004|end_char=4006
+12	ребра	ребро	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	start_char=4007|end_char=4012
+13	через	через	ADP	_	_	15	case	_	start_char=4013|end_char=4018
+14	китовый	китовый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=4019|end_char=4026
+15	ус	ус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=4027|end_char=4029
+16	корсета	корсета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	start_char=4030|end_char=4037
+17	.	.	PUNCT	_	_	4	punct	_	start_char=4037|end_char=4038
+
+# text = – Оставь сегодня ночью свою комнату открытой, – приказал он.
+# sent_id = 32
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4039|end_char=4040
+2	Оставь	оставить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4041|end_char=4047
+3	сегодня	сегодня	ADV	_	Degree=Pos	2	advmod	_	start_char=4048|end_char=4055
+4	ночью	ночь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	start_char=4056|end_char=4061
+5	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=4062|end_char=4066
+6	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=4067|end_char=4074
+7	открытой	открытый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	xcomp	_	start_char=4075|end_char=4083
+8	,	,	PUNCT	_	_	10	punct	_	start_char=4083|end_char=4084
+9	–	–	PUNCT	_	_	10	punct	_	start_char=4085|end_char=4086
+10	приказал	приказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=4087|end_char=4095
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=4096|end_char=4098
+12	.	.	PUNCT	_	_	2	punct	_	start_char=4098|end_char=4099
+
+# text = – Если хочешь, чтобы я пришёл.
+# sent_id = 33
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4100|end_char=4101
+2	Если	если	SCONJ	_	_	3	mark	_	start_char=4102|end_char=4106
+3	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4107|end_char=4113
+4	,	,	PUNCT	_	_	7	punct	_	start_char=4113|end_char=4114
+5	чтобы	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	start_char=4115|end_char=4120
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=4121|end_char=4122
+7	пришёл	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=4123|end_char=4129
+8	.	.	PUNCT	_	_	3	punct	_	start_char=4129|end_char=4130
+
+# text = Наверное, она могла бы сказать, что не хочет.
+# sent_id = 34
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Наверное	наверное	ADV	_	Degree=Pos	4	parataxis	_	start_char=4131|end_char=4139
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4139|end_char=4140
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4141|end_char=4144
+4	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4145|end_char=4150
+5	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=4151|end_char=4153
+6	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=4154|end_char=4161
+7	,	,	PUNCT	_	_	10	punct	_	start_char=4161|end_char=4162
+8	что	что	SCONJ	_	_	10	mark	_	start_char=4163|end_char=4166
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=4167|end_char=4169
+10	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	start_char=4170|end_char=4175
+11	.	.	PUNCT	_	_	4	punct	_	start_char=4175|end_char=4176
+
+# text = Наверное, она могла бы пожаловаться Доктору.
+# sent_id = 35
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Наверное	наверное	ADV	_	Degree=Pos	4	parataxis	_	start_char=4177|end_char=4185
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4185|end_char=4186
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4187|end_char=4190
+4	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4191|end_char=4196
+5	бы	бы	AUX	_	Mood=Cnd	4	aux	_	start_char=4197|end_char=4199
+6	пожаловаться	пожаловаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=4200|end_char=4212
+7	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	start_char=4213|end_char=4220
+8	.	.	PUNCT	_	_	4	punct	_	start_char=4220|end_char=4221
+
+# text = Наверное, тогда что-то было бы по-другому.
+# sent_id = 36
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Наверное	наверное	ADV	_	Degree=Pos	7	parataxis	_	start_char=4222|end_char=4230
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4230|end_char=4231
+3	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=4232|end_char=4237
+4	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	nsubj	_	start_char=4238|end_char=4244
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=4245|end_char=4249
+6	бы	бы	AUX	_	Mood=Cnd	7	aux	_	start_char=4250|end_char=4252
+7	по-другому	по-другому	ADJ	_	Degree=Cmp	0	root	_	start_char=4253|end_char=4263
+8	.	.	PUNCT	_	_	7	punct	_	start_char=4263|end_char=4264
+
+# text = Но как ослушаться, если он приказал?
+# sent_id = 37
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=4265|end_char=4267
+2	как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=4268|end_char=4271
+3	ослушаться	ослушаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	start_char=4272|end_char=4282
+4	,	,	PUNCT	_	_	7	punct	_	start_char=4282|end_char=4283
+5	если	если	SCONJ	_	_	7	mark	_	start_char=4284|end_char=4288
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=4289|end_char=4291
+7	приказал	приказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=4292|end_char=4300
+8	?	?	PUNCT	_	_	3	punct	_	start_char=4300|end_char=4301
+
+# text = Невозможно противодействовать его силе.
+# sent_id = 38
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4302|end_char=4312
+2	противодействовать	противодействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=4313|end_char=4331
+3	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=4332|end_char=4335
+4	силе	сила	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	start_char=4336|end_char=4340
+5	.	.	PUNCT	_	_	1	punct	_	start_char=4340|end_char=4341
+
+# text = Она оставила дверь открытой, и запер её изнутри уже сам Джейми.
+# sent_id = 39
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=4342|end_char=4345
+2	оставила	оставить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4346|end_char=4354
+3	дверь	дверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=4355|end_char=4360
+4	открытой	открытый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	xcomp	_	start_char=4361|end_char=4369
+5	,	,	PUNCT	_	_	7	punct	_	start_char=4369|end_char=4370
+6	и	и	CCONJ	_	_	7	cc	_	start_char=4371|end_char=4372
+7	запер	запер	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4373|end_char=4378
+8	её	ее	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=4379|end_char=4381
+9	изнутри	изнутрь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=4382|end_char=4389
+10	уже	уже	ADV	_	Degree=Pos	11	advmod	_	start_char=4390|end_char=4393
+11	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	12	det	_	start_char=4394|end_char=4397
+12	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=4398|end_char=4404
+13	.	.	PUNCT	_	_	2	punct	_	start_char=4404|end_char=4405
+
+# text = Запер, потом повернулся, покачал головой, увидев, что она сидит на кровати всё ещё полностью одетая, и начал успешно осваивать науку расшнуровывания корсета.
+# sent_id = 40
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Запер	запер	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4406|end_char=4411
+2	,	,	PUNCT	_	_	4	punct	_	start_char=4411|end_char=4412
+3	потом	потом	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4413|end_char=4418
+4	повернулся	повернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=4419|end_char=4429
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4429|end_char=4430
+6	покачал	покачать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=4431|end_char=4438
+7	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	iobj	_	start_char=4439|end_char=4446
+8	,	,	PUNCT	_	_	9	punct	_	start_char=4446|end_char=4447
+9	увидев	увидеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=4448|end_char=4454
+10	,	,	PUNCT	_	_	13	punct	_	start_char=4454|end_char=4455
+11	что	что	SCONJ	_	_	13	mark	_	start_char=4456|end_char=4459
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=4460|end_char=4463
+13	сидит	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	start_char=4464|end_char=4469
+14	на	на	ADP	_	_	15	case	_	start_char=4470|end_char=4472
+15	кровати	кровать	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	start_char=4473|end_char=4480
+16	всё	всё	ADV	_	Degree=Pos|PronType=Tot	19	advmod	_	start_char=4481|end_char=4484
+17	ещё	еще	ADV	_	Degree=Pos	18	advmod	_	start_char=4485|end_char=4488
+18	полностью	полностью	ADV	_	Degree=Pos	19	advmod	_	start_char=4489|end_char=4498
+19	одетая	одетать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	conj	_	start_char=4499|end_char=4505
+20	,	,	PUNCT	_	_	22	punct	_	start_char=4505|end_char=4506
+21	и	и	CCONJ	_	_	22	cc	_	start_char=4507|end_char=4508
+22	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=4509|end_char=4514
+23	успешно	успешно	ADV	_	Degree=Pos	24	advmod	_	start_char=4515|end_char=4522
+24	осваивать	осваивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	xcomp	_	start_char=4523|end_char=4532
+25	науку	наука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	obj	_	start_char=4533|end_char=4538
+26	расшнуровывания	расшнуровывание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	start_char=4539|end_char=4554
+27	корсета	корсета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	start_char=4555|end_char=4562
+28	.	.	PUNCT	_	_	1	punct	_	start_char=4562|end_char=4563
+
+# text = – Один раз я побуду твоей горничной.
+# sent_id = 41
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4564|end_char=4565
+2	Один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	3	nummod	_	start_char=4566|end_char=4570
+3	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=4571|end_char=4574
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4575|end_char=4576
+5	побуду	побуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4577|end_char=4583
+6	твоей	твой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	start_char=4584|end_char=4589
+7	горничной	горничный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	xcomp	_	start_char=4590|end_char=4599
+8	.	.	PUNCT	_	_	5	punct	_	start_char=4599|end_char=4600
+
+# text = Один раз, слышишь?
+# sent_id = 42
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	2	nummod	_	start_char=4601|end_char=4605
+2	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=4606|end_char=4609
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4609|end_char=4610
+4	слышишь	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4611|end_char=4618
+5	?	?	PUNCT	_	_	4	punct	_	start_char=4618|end_char=4619
+
+# text = Она слабо кивнула.
+# sent_id = 43
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4620|end_char=4623
+2	слабо	слабо	ADV	_	Degree=Pos	3	advmod	_	start_char=4624|end_char=4629
+3	кивнула	кивнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4630|end_char=4637
+4	.	.	PUNCT	_	_	3	punct	_	start_char=4637|end_char=4638
+
+# text = – Чтобы больше никаких корсетов.
+# sent_id = 44
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4639|end_char=4640
+2	Чтобы	чтобы	SCONJ	_	Mood=Cnd	3	mark	_	start_char=4641|end_char=4646
+3	больше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	0	root	_	start_char=4647|end_char=4653
+4	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	5	det	_	start_char=4654|end_char=4661
+5	корсетов	корсет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	start_char=4662|end_char=4670
+6	.	.	PUNCT	_	_	3	punct	_	start_char=4670|end_char=4671
+
+# text = Она опять кивнула, делая робкую попытку удержать на себе эту броню.
+# sent_id = 45
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4672|end_char=4675
+2	опять	опять	ADV	_	Degree=Pos	3	advmod	_	start_char=4676|end_char=4681
+3	кивнула	кивнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4682|end_char=4689
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4689|end_char=4690
+5	делая	делать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=4691|end_char=4696
+6	робкую	робкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=4697|end_char=4703
+7	попытку	попытка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=4704|end_char=4711
+8	удержать	удержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=4712|end_char=4720
+9	на	на	ADP	_	_	10	case	_	start_char=4721|end_char=4723
+10	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	8	obl	_	start_char=4724|end_char=4728
+11	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	start_char=4729|end_char=4732
+12	броню	бронь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=4733|end_char=4738
+13	.	.	PUNCT	_	_	3	punct	_	start_char=4738|end_char=4739
+
+# text = Джейми её как будто и не заметил, откинул корсет в сторону и принялся за юбку.
+# sent_id = 46
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=4740|end_char=4746
+2	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=4747|end_char=4749
+3	как	как	SCONJ	_	_	7	mark	_	start_char=4750|end_char=4753
+4	будто	будто	PART	_	_	3	fixed	_	start_char=4754|end_char=4759
+5	и	и	PART	_	_	3	fixed	_	start_char=4760|end_char=4761
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=4762|end_char=4764
+7	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4765|end_char=4772
+8	,	,	PUNCT	_	_	9	punct	_	start_char=4772|end_char=4773
+9	откинул	откинуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=4774|end_char=4781
+10	корсет	корсет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=4782|end_char=4788
+11	в	в	ADP	_	_	12	case	_	start_char=4789|end_char=4790
+12	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	start_char=4791|end_char=4798
+13	и	и	CCONJ	_	_	14	cc	_	start_char=4799|end_char=4800
+14	принялся	приняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=4801|end_char=4809
+15	за	за	ADP	_	_	16	case	_	start_char=4810|end_char=4812
+16	юбку	юбка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	start_char=4813|end_char=4817
+17	.	.	PUNCT	_	_	7	punct	_	start_char=4817|end_char=4818
+
+# text = – И юбку не такую.
+# sent_id = 47
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4819|end_char=4820
+2	И	и	CCONJ	_	_	5	cc	_	start_char=4821|end_char=4822
+3	юбку	юбка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	orphan	_	start_char=4823|end_char=4827
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4828|end_char=4830
+5	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	start_char=4831|end_char=4836
+6	.	.	PUNCT	_	_	3	punct	_	start_char=4836|end_char=4837
+
+# text = – А какую? – едва нашла в себе силы выдохнуть Виктория.
+# sent_id = 48
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4838|end_char=4839
+2	А	а	CCONJ	_	_	3	cc	_	start_char=4840|end_char=4841
+3	какую	какой	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	0	root	_	start_char=4842|end_char=4847
+4	?	?	PUNCT	_	_	3	punct	_	start_char=4847|end_char=4848
+5	–	–	PUNCT	_	_	7	punct	_	start_char=4849|end_char=4850
+6	едва	едва	ADV	_	Degree=Pos	7	advmod	_	start_char=4851|end_char=4855
+7	нашла	найти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=4856|end_char=4861
+8	в	в	ADP	_	_	9	case	_	start_char=4862|end_char=4863
+9	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	7	obl	_	start_char=4864|end_char=4868
+10	силы	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=4869|end_char=4873
+11	выдохнуть	выдохнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=4874|end_char=4883
+12	Виктория	Виктория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	start_char=4884|end_char=4892
+13	.	.	PUNCT	_	_	3	punct	_	start_char=4892|end_char=4893
+
+# text = – Одну юбку.
+# sent_id = 49
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4894|end_char=4895
+2	Одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	3	nummod	_	start_char=4896|end_char=4900
+3	юбку	юбка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	start_char=4901|end_char=4905
+4	.	.	PUNCT	_	_	3	punct	_	start_char=4905|end_char=4906
+
+# text = А не как тут.
+# sent_id = 50
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	А	а	CCONJ	_	_	4	cc	_	start_char=4907|end_char=4908
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4909|end_char=4911
+3	как	как	ADV	_	Degree=Pos|PronType=Rel	4	advmod	_	start_char=4912|end_char=4915
+4	тут	тут	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=4916|end_char=4919
+5	.	.	PUNCT	_	_	4	punct	_	start_char=4919|end_char=4920
+
+# text = И короче.
+# sent_id = 51
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	И	и	CCONJ	_	_	2	cc	_	start_char=4921|end_char=4922
+2	короче	короче	ADV	_	Degree=Cmp	0	root	_	start_char=4923|end_char=4929
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4929|end_char=4930
+
+# text = – Короче – неприлично.
+# sent_id = 52
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4931|end_char=4932
+2	Короче	короче	ADV	_	Degree=Cmp	4	parataxis	_	start_char=4933|end_char=4939
+3	–	–	PUNCT	_	_	2	punct	_	start_char=4940|end_char=4941
+4	неприлично	неприличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4942|end_char=4952
+5	.	.	PUNCT	_	_	4	punct	_	start_char=4952|end_char=4953
+
+# text = – Пока мой килт будет короче твоей юбки – всё будет прилично.
+# sent_id = 53
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	12	punct	_	start_char=4954|end_char=4955
+2	Пока	пока	SCONJ	_	_	6	mark	_	start_char=4956|end_char=4960
+3	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=4961|end_char=4964
+4	килт	килт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=4965|end_char=4969
+5	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=4970|end_char=4975
+6	короче	короткий	ADJ	_	Degree=Cmp	12	advcl	_	start_char=4976|end_char=4982
+7	твоей	твой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=4983|end_char=4988
+8	юбки	юбка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=4989|end_char=4993
+9	–	–	PUNCT	_	_	6	punct	_	start_char=4994|end_char=4995
+10	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	12	nsubj	_	start_char=4996|end_char=4999
+11	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	cop	_	start_char=5000|end_char=5005
+12	прилично	приличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5006|end_char=5014
+13	.	.	PUNCT	_	_	12	punct	_	start_char=5014|end_char=5015
+
+# text = А ещё удобно.
+# sent_id = 54
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	А	а	CCONJ	_	_	3	cc	_	start_char=5016|end_char=5017
+2	ещё	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=5018|end_char=5021
+3	удобно	удобный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5022|end_char=5028
+4	.	.	PUNCT	_	_	3	punct	_	start_char=5028|end_char=5029
+
+# text = Сама увидишь.
+# sent_id = 55
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	2	obl	_	start_char=5030|end_char=5034
+2	увидишь	увидеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=5035|end_char=5042
+3	.	.	PUNCT	_	_	2	punct	_	start_char=5042|end_char=5043
+
+# text = Она опять кивнула.
+# sent_id = 56
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5044|end_char=5047
+2	опять	опять	ADV	_	Degree=Pos	3	advmod	_	start_char=5048|end_char=5053
+3	кивнула	кивнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5054|end_char=5061
+4	.	.	PUNCT	_	_	3	punct	_	start_char=5061|end_char=5062
+
+# text = Он развернул её лицом к себе, поцеловал закрытые глаза и горящие щёки, уложил на кровать и сам навалился сверху, раздвинув ей ноги коленом – такой большой, тяжелый и сильный.
+# sent_id = 57
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5064|end_char=5066
+2	развернул	развернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5067|end_char=5076
+3	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=5077|end_char=5079
+4	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	iobj	_	start_char=5080|end_char=5085
+5	к	к	ADP	_	_	6	case	_	start_char=5086|end_char=5087
+6	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	2	obl	_	start_char=5088|end_char=5092
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5092|end_char=5093
+8	поцеловал	поцеловать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5094|end_char=5103
+9	закрытые	закрыть	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	start_char=5104|end_char=5112
+10	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=5113|end_char=5118
+11	и	и	CCONJ	_	_	13	cc	_	start_char=5119|end_char=5120
+12	горящие	гореть	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	amod	_	start_char=5121|end_char=5128
+13	щёки	щека	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	conj	_	start_char=5129|end_char=5133
+14	,	,	PUNCT	_	_	15	punct	_	start_char=5133|end_char=5134
+15	уложил	уложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5135|end_char=5141
+16	на	на	ADP	_	_	17	case	_	start_char=5142|end_char=5144
+17	кровать	кровать	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	start_char=5145|end_char=5152
+18	и	и	CCONJ	_	_	20	cc	_	start_char=5153|end_char=5154
+19	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	20	obl	_	start_char=5155|end_char=5158
+20	навалился	навалиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=5159|end_char=5168
+21	сверху	сверху	ADV	_	Degree=Pos	20	advmod	_	start_char=5169|end_char=5175
+22	,	,	PUNCT	_	_	23	punct	_	start_char=5175|end_char=5176
+23	раздвинув	раздвинуть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	20	advcl	_	start_char=5177|end_char=5186
+24	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	iobj	_	start_char=5187|end_char=5189
+25	ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obj	_	start_char=5190|end_char=5194
+26	коленом	колено	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	iobj	_	start_char=5195|end_char=5202
+27	–	–	PUNCT	_	_	29	punct	_	start_char=5203|end_char=5204
+28	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	29	det	_	start_char=5205|end_char=5210
+29	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	parataxis	_	start_char=5211|end_char=5218
+30	,	,	PUNCT	_	_	31	punct	_	start_char=5218|end_char=5219
+31	тяжелый	тяжелый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	conj	_	start_char=5220|end_char=5227
+32	и	и	CCONJ	_	_	33	cc	_	start_char=5228|end_char=5229
+33	сильный	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	conj	_	start_char=5230|end_char=5237
+34	.	.	PUNCT	_	_	2	punct	_	start_char=5237|end_char=5238
+
+# text = Виктория почувствовала, что её горячее и влажное соединяется с его горячим и твердым, ахнула, на пару секунд закусив губу от боли, которая тут же растворилась в наслаждении, или и была им, и поняла, что хочет двигаться, ловя ритм его толчков и своих внутренних пульсаций, синхронизируя их, увеличивая наслаждение и доводя его до пика, до кульминации, до такой точки, когда больше выдержать невозможно, когда наслаждение становится мучением и болью.
+# sent_id = 58
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Виктория	Виктория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=5239|end_char=5247
+2	почувствовала	почувствовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5248|end_char=5261
+3	,	,	PUNCT	_	_	9	punct	_	start_char=5261|end_char=5262
+4	что	что	SCONJ	_	_	9	mark	_	start_char=5263|end_char=5266
+5	её	ее	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=5267|end_char=5269
+6	горячее	горячее	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	nsubj	_	start_char=5270|end_char=5277
+7	и	и	CCONJ	_	_	8	cc	_	start_char=5278|end_char=5279
+8	влажное	влажный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	conj	_	start_char=5280|end_char=5287
+9	соединяется	соединяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	ccomp	_	start_char=5288|end_char=5299
+10	с	с	ADP	_	_	12	case	_	start_char=5300|end_char=5301
+11	его	его	DET	_	Poss=Yes|PronType=Prs	12	det	_	start_char=5302|end_char=5305
+12	горячим	горячий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	obl	_	start_char=5306|end_char=5313
+13	и	и	CCONJ	_	_	14	cc	_	start_char=5314|end_char=5315
+14	твердым	твердый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	start_char=5316|end_char=5323
+15	,	,	PUNCT	_	_	16	punct	_	start_char=5323|end_char=5324
+16	ахнула	ахнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=5325|end_char=5331
+17	,	,	PUNCT	_	_	21	punct	_	start_char=5331|end_char=5332
+18	на	на	ADP	_	_	19	case	_	start_char=5333|end_char=5335
+19	пару	пара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obl	_	start_char=5336|end_char=5340
+20	секунд	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	nmod	_	start_char=5341|end_char=5347
+21	закусив	закусить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	16	advcl	_	start_char=5348|end_char=5355
+22	губу	губа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	start_char=5356|end_char=5360
+23	от	от	ADP	_	_	24	case	_	start_char=5361|end_char=5363
+24	боли	боль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	start_char=5364|end_char=5368
+25	,	,	PUNCT	_	_	29	punct	_	start_char=5368|end_char=5369
+26	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	29	nsubj	_	start_char=5370|end_char=5377
+27	тут	тут	ADV	_	Degree=Pos|PronType=Dem	29	advmod	_	start_char=5378|end_char=5381
+28	же	же	PART	_	_	27	advmod	_	start_char=5382|end_char=5384
+29	растворилась	раствориться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	24	acl:relcl	_	start_char=5385|end_char=5397
+30	в	в	ADP	_	_	31	case	_	start_char=5398|end_char=5399
+31	наслаждении	наслаждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	obl	_	start_char=5400|end_char=5411
+32	,	,	PUNCT	_	_	35	punct	_	start_char=5411|end_char=5412
+33	или	или	CCONJ	_	_	35	cc	_	start_char=5413|end_char=5416
+34	и	и	PART	_	_	35	advmod	_	start_char=5417|end_char=5418
+35	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	29	conj	_	start_char=5419|end_char=5423
+36	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	35	iobj	_	start_char=5424|end_char=5426
+37	,	,	PUNCT	_	_	39	punct	_	start_char=5426|end_char=5427
+38	и	и	CCONJ	_	_	39	cc	_	start_char=5428|end_char=5429
+39	поняла	понять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=5430|end_char=5436
+40	,	,	PUNCT	_	_	42	punct	_	start_char=5436|end_char=5437
+41	что	что	SCONJ	_	_	42	mark	_	start_char=5438|end_char=5441
+42	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	39	ccomp	_	start_char=5442|end_char=5447
+43	двигаться	двигаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	42	xcomp	_	start_char=5448|end_char=5457
+44	,	,	PUNCT	_	_	45	punct	_	start_char=5457|end_char=5458
+45	ловя	ловить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	43	advcl	_	start_char=5459|end_char=5463
+46	ритм	ритм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	45	obj	_	start_char=5464|end_char=5468
+47	его	его	DET	_	Poss=Yes|PronType=Prs	48	det	_	start_char=5469|end_char=5472
+48	толчков	толчок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	46	nmod	_	start_char=5473|end_char=5480
+49	и	и	CCONJ	_	_	52	cc	_	start_char=5481|end_char=5482
+50	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	52	det	_	start_char=5483|end_char=5488
+51	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	52	amod	_	start_char=5489|end_char=5499
+52	пульсаций	пульсация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	48	conj	_	start_char=5500|end_char=5509
+53	,	,	PUNCT	_	_	54	punct	_	start_char=5509|end_char=5510
+54	синхронизируя	синхронизировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	43	advcl	_	start_char=5511|end_char=5524
+55	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	54	obj	_	start_char=5525|end_char=5527
+56	,	,	PUNCT	_	_	57	punct	_	start_char=5527|end_char=5528
+57	увеличивая	увеличивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	54	conj	_	start_char=5529|end_char=5539
+58	наслаждение	наслаждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	57	obj	_	start_char=5540|end_char=5551
+59	и	и	CCONJ	_	_	60	cc	_	start_char=5552|end_char=5553
+60	доводя	доводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	57	conj	_	start_char=5554|end_char=5560
+61	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	60	obj	_	start_char=5561|end_char=5564
+62	до	до	ADP	_	_	63	case	_	start_char=5565|end_char=5567
+63	пика	пик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	60	obl	_	start_char=5568|end_char=5572
+64	,	,	PUNCT	_	_	66	punct	_	start_char=5572|end_char=5573
+65	до	до	ADP	_	_	66	case	_	start_char=5574|end_char=5576
+66	кульминации	кульминация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	63	conj	_	start_char=5577|end_char=5588
+67	,	,	PUNCT	_	_	70	punct	_	start_char=5588|end_char=5589
+68	до	до	ADP	_	_	70	case	_	start_char=5590|end_char=5592
+69	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	70	det	_	start_char=5593|end_char=5598
+70	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	63	conj	_	start_char=5599|end_char=5604
+71	,	,	PUNCT	_	_	75	punct	_	start_char=5604|end_char=5605
+72	когда	когда	SCONJ	_	_	75	mark	_	start_char=5606|end_char=5611
+73	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	74	advmod	_	start_char=5612|end_char=5618
+74	выдержать	выдержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	75	csubj	_	start_char=5619|end_char=5628
+75	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	60	advcl	_	start_char=5629|end_char=5639
+76	,	,	PUNCT	_	_	79	punct	_	start_char=5639|end_char=5640
+77	когда	когда	SCONJ	_	_	79	mark	_	start_char=5641|end_char=5646
+78	наслаждение	наслаждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	79	nsubj	_	start_char=5647|end_char=5658
+79	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	75	advcl	_	start_char=5659|end_char=5669
+80	мучением	мучение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	79	xcomp	_	start_char=5670|end_char=5678
+81	и	и	CCONJ	_	_	82	cc	_	start_char=5679|end_char=5680
+82	болью	боль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	80	conj	_	start_char=5681|end_char=5686
+83	.	.	PUNCT	_	_	2	punct	_	start_char=5686|end_char=5687
+
+# text = Она вскрикнула, жадно хватая ртом воздух, и выгнулась дугой, чувствуя, как подхватывают её крепкие руки Джейми.
+# sent_id = 59
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5688|end_char=5691
+2	вскрикнула	вскрикнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5692|end_char=5702
+3	,	,	PUNCT	_	_	5	punct	_	start_char=5702|end_char=5703
+4	жадно	жадно	ADV	_	Degree=Pos	5	advmod	_	start_char=5704|end_char=5709
+5	хватая	хвать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=5710|end_char=5716
+6	ртом	рот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	iobj	_	start_char=5717|end_char=5721
+7	воздух	воздух	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=5722|end_char=5728
+8	,	,	PUNCT	_	_	10	punct	_	start_char=5728|end_char=5729
+9	и	и	CCONJ	_	_	10	cc	_	start_char=5730|end_char=5731
+10	выгнулась	выгнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=5732|end_char=5741
+11	дугой	дуга	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	iobj	_	start_char=5742|end_char=5747
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5747|end_char=5748
+13	чувствуя	чувствовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	start_char=5749|end_char=5757
+14	,	,	PUNCT	_	_	16	punct	_	start_char=5757|end_char=5758
+15	как	как	ADV	_	Degree=Pos|PronType=Rel	16	advmod	_	start_char=5759|end_char=5762
+16	подхватывают	подхватывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	start_char=5763|end_char=5775
+17	её	ее	DET	_	Poss=Yes|PronType=Prs	19	det	_	start_char=5776|end_char=5778
+18	крепкие	крепкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	start_char=5779|end_char=5786
+19	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obj	_	start_char=5787|end_char=5791
+20	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	19	nmod	_	start_char=5792|end_char=5798
+21	.	.	PUNCT	_	_	2	punct	_	start_char=5798|end_char=5799
+
+# text = – Ты – моя женщина, – сказал он, собрав свои вещи и стоя уже в дверях.
+# sent_id = 60
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	5	punct	_	start_char=5800|end_char=5801
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=5802|end_char=5804
+3	–	–	PUNCT	_	_	5	punct	_	start_char=5805|end_char=5806
+4	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	start_char=5807|end_char=5810
+5	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=5811|end_char=5818
+6	,	,	PUNCT	_	_	8	punct	_	start_char=5818|end_char=5819
+7	–	–	PUNCT	_	_	8	punct	_	start_char=5820|end_char=5821
+8	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=5822|end_char=5828
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=5829|end_char=5831
+10	,	,	PUNCT	_	_	11	punct	_	start_char=5831|end_char=5832
+11	собрав	собрать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=5833|end_char=5839
+12	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	start_char=5840|end_char=5844
+13	вещи	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obj	_	start_char=5845|end_char=5849
+14	и	и	CCONJ	_	_	15	cc	_	start_char=5850|end_char=5851
+15	стоя	стоять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	conj	_	start_char=5852|end_char=5856
+16	уже	уже	ADV	_	Degree=Pos	18	advmod	_	start_char=5857|end_char=5860
+17	в	в	ADP	_	_	18	case	_	start_char=5861|end_char=5862
+18	дверях	дверь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	obl	_	start_char=5863|end_char=5869
+19	.	.	PUNCT	_	_	5	punct	_	start_char=5869|end_char=5870
+
+# text = – Помни это всегда.
+# sent_id = 61
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5871|end_char=5872
+2	Помни	помнить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=5873|end_char=5878
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	start_char=5879|end_char=5882
+4	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	2	advmod	_	start_char=5883|end_char=5889
+5	.	.	PUNCT	_	_	2	punct	_	start_char=5889|end_char=5890
+
+# text = Она помнила.
+# sent_id = 62
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5891|end_char=5894
+2	помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5895|end_char=5902
+3	.	.	PUNCT	_	_	2	punct	_	start_char=5902|end_char=5903
+
+# text = Её юбки стали значительно короче, а корсет пропал.
+# sent_id = 63
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Её	ее	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=5904|end_char=5906
+2	юбки	юбка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=5907|end_char=5911
+3	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5912|end_char=5917
+4	значительно	значительно	ADV	_	Degree=Pos	5	advmod	_	start_char=5918|end_char=5929
+5	короче	короткий	ADJ	_	Degree=Cmp	3	xcomp	_	start_char=5930|end_char=5936
+6	,	,	PUNCT	_	_	9	punct	_	start_char=5936|end_char=5937
+7	а	а	CCONJ	_	_	9	cc	_	start_char=5938|end_char=5939
+8	корсет	корсет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=5940|end_char=5946
+9	пропал	пропасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5947|end_char=5953
+10	.	.	PUNCT	_	_	3	punct	_	start_char=5953|end_char=5954
+
+# text = Она перестала запирать комнату.
+# sent_id = 64
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5955|end_char=5958
+2	перестала	перестать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5959|end_char=5968
+3	запирать	запирать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=5969|end_char=5977
+4	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=5978|end_char=5985
+5	.	.	PUNCT	_	_	2	punct	_	start_char=5985|end_char=5986
+
+# text = Она узнала, что шотландцы под килтом не носят белья.
+# sent_id = 65
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5987|end_char=5990
+2	узнала	узнать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5991|end_char=5997
+3	,	,	PUNCT	_	_	9	punct	_	start_char=5997|end_char=5998
+4	что	что	SCONJ	_	_	9	mark	_	start_char=5999|end_char=6002
+5	шотландцы	шотландец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	start_char=6003|end_char=6012
+6	под	под	ADP	_	_	7	case	_	start_char=6013|end_char=6016
+7	килтом	килт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	start_char=6017|end_char=6023
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=6024|end_char=6026
+9	носят	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=6027|end_char=6032
+10	белья	белье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obj	_	start_char=6033|end_char=6038
+11	.	.	PUNCT	_	_	2	punct	_	start_char=6038|end_char=6039
+
+# text = Во время очередной вылазки на неизвестную планету он мог взглянуть на неё, протянуть руку – и она бежала с ним туда, куда он поведет, чтобы там он мог прижать ее к какой-нибудь шершавой скале и войти в неё – быстро, резко, зажимая ей рот, чтобы не было слышно крика или стона.
+# sent_id = 66
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Во	во	ADP	_	_	4	case	_	start_char=6040|end_char=6042
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	start_char=6043|end_char=6048
+3	очередной	очередной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=6049|end_char=6058
+4	вылазки	вылазка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=6059|end_char=6066
+5	на	на	ADP	_	_	7	case	_	start_char=6067|end_char=6069
+6	неизвестную	неизвестный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=6070|end_char=6081
+7	планету	планета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	start_char=6082|end_char=6089
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=6090|end_char=6092
+9	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6093|end_char=6096
+10	взглянуть	взглянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=6097|end_char=6106
+11	на	на	ADP	_	_	12	case	_	start_char=6107|end_char=6109
+12	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=6110|end_char=6113
+13	,	,	PUNCT	_	_	14	punct	_	start_char=6113|end_char=6114
+14	протянуть	протянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	conj	_	start_char=6115|end_char=6124
+15	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=6125|end_char=6129
+16	–	–	PUNCT	_	_	19	punct	_	start_char=6130|end_char=6131
+17	и	и	CCONJ	_	_	19	cc	_	start_char=6132|end_char=6133
+18	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=6134|end_char=6137
+19	бежала	бежать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=6138|end_char=6144
+20	с	с	ADP	_	_	21	case	_	start_char=6145|end_char=6146
+21	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	start_char=6147|end_char=6150
+22	туда	туда	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=6151|end_char=6155
+23	,	,	PUNCT	_	_	26	punct	_	start_char=6155|end_char=6156
+24	куда	куда	ADV	_	Degree=Pos|PronType=Rel	26	advmod	_	start_char=6157|end_char=6161
+25	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=6162|end_char=6164
+26	поведет	поведти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=6165|end_char=6172
+27	,	,	PUNCT	_	_	31	punct	_	start_char=6172|end_char=6173
+28	чтобы	чтобы	SCONJ	_	Mood=Cnd	31	mark	_	start_char=6174|end_char=6179
+29	там	там	ADV	_	Degree=Pos|PronType=Dem	31	advmod	_	start_char=6180|end_char=6183
+30	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	start_char=6184|end_char=6186
+31	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	advcl	_	start_char=6187|end_char=6190
+32	прижать	прижать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	31	xcomp	_	start_char=6191|end_char=6198
+33	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	obj	_	start_char=6199|end_char=6201
+34	к	к	ADP	_	_	37	case	_	start_char=6202|end_char=6203
+35	какой-нибудь	какой-нибудь	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	37	det	_	start_char=6204|end_char=6216
+36	шершавой	шершавой	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	start_char=6217|end_char=6225
+37	скале	скала	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	32	obl	_	start_char=6226|end_char=6231
+38	и	и	CCONJ	_	_	39	cc	_	start_char=6232|end_char=6233
+39	войти	войти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	conj	_	start_char=6234|end_char=6239
+40	в	в	ADP	_	_	41	case	_	start_char=6240|end_char=6241
+41	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	39	obl	_	start_char=6242|end_char=6245
+42	–	–	PUNCT	_	_	43	punct	_	start_char=6246|end_char=6247
+43	быстро	быстро	ADV	_	Degree=Pos	39	advmod	_	start_char=6248|end_char=6254
+44	,	,	PUNCT	_	_	45	punct	_	start_char=6254|end_char=6255
+45	резко	резко	ADV	_	Degree=Pos	43	conj	_	start_char=6256|end_char=6261
+46	,	,	PUNCT	_	_	47	punct	_	start_char=6261|end_char=6262
+47	зажимая	зажимать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	39	advcl	_	start_char=6263|end_char=6270
+48	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	47	iobj	_	start_char=6271|end_char=6273
+49	рот	рот	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	47	obj	_	start_char=6274|end_char=6277
+50	,	,	PUNCT	_	_	54	punct	_	start_char=6277|end_char=6278
+51	чтобы	чтобы	SCONJ	_	Mood=Cnd	54	mark	_	start_char=6279|end_char=6284
+52	не	не	PART	_	Polarity=Neg	54	advmod	_	start_char=6285|end_char=6287
+53	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	54	cop	_	start_char=6288|end_char=6292
+54	слышно	слышный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	39	advcl	_	start_char=6293|end_char=6299
+55	крика	крик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	54	nsubj	_	start_char=6300|end_char=6305
+56	или	или	CCONJ	_	_	57	cc	_	start_char=6306|end_char=6309
+57	стона	стон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	55	conj	_	start_char=6310|end_char=6315
+58	.	.	PUNCT	_	_	9	punct	_	start_char=6315|end_char=6316
+
+# text = Она всё так же чувствовала идущую от него тяжелую властную силу, которой не могла противиться.
+# sent_id = 67
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=6317|end_char=6320
+2	всё	всё	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	start_char=6321|end_char=6324
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=6325|end_char=6328
+4	же	же	PART	_	_	3	advmod	_	start_char=6329|end_char=6331
+5	чувствовала	чувствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6332|end_char=6343
+6	идущую	идти	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	start_char=6344|end_char=6350
+7	от	от	ADP	_	_	8	case	_	start_char=6351|end_char=6353
+8	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=6354|end_char=6358
+9	тяжелую	тяжелый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=6359|end_char=6366
+10	властную	властный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	start_char=6367|end_char=6375
+11	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	start_char=6376|end_char=6380
+12	,	,	PUNCT	_	_	15	punct	_	start_char=6380|end_char=6381
+13	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	16	obj	_	start_char=6382|end_char=6389
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=6390|end_char=6392
+15	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	start_char=6393|end_char=6398
+16	противиться	противиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	xcomp	_	start_char=6399|end_char=6410
+17	.	.	PUNCT	_	_	5	punct	_	start_char=6410|end_char=6411
+
+# text = Она – его женщина.
+# sent_id = 68
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=6412|end_char=6415
+2	–	–	PUNCT	_	_	4	punct	_	start_char=6416|end_char=6417
+3	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=6418|end_char=6421
+4	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=6422|end_char=6429
+5	.	.	PUNCT	_	_	4	punct	_	start_char=6429|end_char=6430
+
+# text = Только это, только знание того, что Джейми всегда рядом, всегда готов поддержать или придти ей на помощь, своей мрачной силой укрыть её от внешних угроз, давало ей, выросшей в тихой, спокойной обстановке и не привыкшей к преодолению постоянных опасностей, решимость выдерживать все эти путешествия с Доктором, которые раз от разу становились все страшней и тяжелей.
+# sent_id = 69
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Только	только	PART	_	_	2	advmod	_	start_char=6431|end_char=6437
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	start_char=6438|end_char=6441
+3	,	,	PUNCT	_	_	5	punct	_	start_char=6441|end_char=6442
+4	только	только	PART	_	_	5	advmod	_	start_char=6443|end_char=6449
+5	знание	знание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	start_char=6450|end_char=6456
+6	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	nmod	_	start_char=6457|end_char=6461
+7	,	,	PUNCT	_	_	11	punct	_	start_char=6461|end_char=6462
+8	что	что	SCONJ	_	_	11	mark	_	start_char=6463|end_char=6466
+9	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	nsubj	_	start_char=6467|end_char=6473
+10	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	11	advmod	_	start_char=6474|end_char=6480
+11	рядом	рядом	ADV	_	Degree=Pos	6	acl	_	start_char=6481|end_char=6486
+12	,	,	PUNCT	_	_	14	punct	_	start_char=6486|end_char=6487
+13	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	14	advmod	_	start_char=6488|end_char=6494
+14	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=6495|end_char=6500
+15	поддержать	поддержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=6501|end_char=6511
+16	или	или	CCONJ	_	_	17	cc	_	start_char=6512|end_char=6515
+17	придти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	conj	_	start_char=6516|end_char=6522
+18	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	iobj	_	start_char=6523|end_char=6525
+19	на	на	ADP	_	_	20	case	_	start_char=6526|end_char=6528
+20	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	start_char=6529|end_char=6535
+21	,	,	PUNCT	_	_	25	punct	_	start_char=6535|end_char=6536
+22	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	24	det	_	start_char=6537|end_char=6542
+23	мрачной	мрачный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	start_char=6543|end_char=6550
+24	силой	сила	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	iobj	_	start_char=6551|end_char=6556
+25	укрыть	укрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	conj	_	start_char=6557|end_char=6563
+26	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obj	_	start_char=6564|end_char=6566
+27	от	от	ADP	_	_	29	case	_	start_char=6567|end_char=6569
+28	внешних	внешний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	start_char=6570|end_char=6577
+29	угроз	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	obl	_	start_char=6578|end_char=6583
+30	,	,	PUNCT	_	_	31	punct	_	start_char=6583|end_char=6584
+31	давало	давать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	start_char=6585|end_char=6591
+32	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	iobj	_	start_char=6592|end_char=6594
+33	,	,	PUNCT	_	_	34	punct	_	start_char=6594|end_char=6595
+34	выросшей	выросить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	32	acl	_	start_char=6596|end_char=6604
+35	в	в	ADP	_	_	39	case	_	start_char=6605|end_char=6606
+36	тихой	тихий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	start_char=6607|end_char=6612
+37	,	,	PUNCT	_	_	38	punct	_	start_char=6612|end_char=6613
+38	спокойной	спокойный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	36	conj	_	start_char=6614|end_char=6623
+39	обстановке	обстановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	34	obl	_	start_char=6624|end_char=6634
+40	и	и	CCONJ	_	_	42	cc	_	start_char=6635|end_char=6636
+41	не	не	PART	_	Polarity=Neg	42	advmod	_	start_char=6637|end_char=6639
+42	привыкшей	привычь	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	34	conj	_	start_char=6640|end_char=6649
+43	к	к	ADP	_	_	44	case	_	start_char=6650|end_char=6651
+44	преодолению	преодоление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	42	obl	_	start_char=6652|end_char=6663
+45	постоянных	постоянный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	46	amod	_	start_char=6664|end_char=6674
+46	опасностей	опасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	44	nmod	_	start_char=6675|end_char=6685
+47	,	,	PUNCT	_	_	48	punct	_	start_char=6685|end_char=6686
+48	решимость	решимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	44	conj	_	start_char=6687|end_char=6696
+49	выдерживать	выдерживать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	48	acl	_	start_char=6697|end_char=6708
+50	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	52	det	_	start_char=6709|end_char=6712
+51	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	52	det	_	start_char=6713|end_char=6716
+52	путешествия	путешествие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	49	obj	_	start_char=6717|end_char=6728
+53	с	с	ADP	_	_	54	case	_	start_char=6729|end_char=6730
+54	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	52	nmod	_	start_char=6731|end_char=6739
+55	,	,	PUNCT	_	_	60	punct	_	start_char=6739|end_char=6740
+56	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	60	nsubj	_	start_char=6741|end_char=6748
+57	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	60	obl	_	start_char=6749|end_char=6752
+58	от	от	ADP	_	_	60	advmod	_	start_char=6753|end_char=6755
+59	разу	раз	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	58	fixed	_	start_char=6756|end_char=6760
+60	становились	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	52	acl:relcl	_	start_char=6761|end_char=6772
+61	все	всё	ADV	_	Degree=Pos|PronType=Tot	62	advmod	_	start_char=6773|end_char=6776
+62	страшней	страшный	ADJ	_	Degree=Cmp	60	xcomp	_	start_char=6777|end_char=6785
+63	и	и	CCONJ	_	_	64	cc	_	start_char=6786|end_char=6787
+64	тяжелей	тяжелый	ADJ	_	Degree=Cmp	62	conj	_	start_char=6788|end_char=6795
+65	.	.	PUNCT	_	_	31	punct	_	start_char=6795|end_char=6796
+
+# text = А сейчас она стояла и смотрела вслед удаляющимся Доктору и Джейми.
+# sent_id = 70
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	А	а	CCONJ	_	_	4	cc	_	start_char=6797|end_char=6798
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=6799|end_char=6805
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=6806|end_char=6809
+4	стояла	стоять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6810|end_char=6816
+5	и	и	CCONJ	_	_	6	cc	_	start_char=6817|end_char=6818
+6	смотрела	смотреть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=6819|end_char=6827
+7	вслед	вслед	ADV	_	Degree=Pos	8	advmod	_	start_char=6828|end_char=6833
+8	удаляющимся	удаляться	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	start_char=6834|end_char=6845
+9	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	start_char=6846|end_char=6853
+10	и	и	CCONJ	_	_	11	cc	_	start_char=6854|end_char=6855
+11	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	9	conj	_	start_char=6856|end_char=6862
+12	.	.	PUNCT	_	_	4	punct	_	start_char=6862|end_char=6863
+
+# text = Уходящим навсегда.
+# sent_id = 71
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Уходящим	уходить	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	start_char=6864|end_char=6872
+2	навсегда	навсегда	ADV	_	Degree=Pos|PronType=Tot	1	advmod	_	start_char=6873|end_char=6881
+3	.	.	PUNCT	_	_	1	punct	_	start_char=6881|end_char=6882
+
+# text = Миссис Харрис увидела, как он на неё смотрит, и Виктория рассказала ей свою историю.
+# sent_id = 72
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Миссис	Миссис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=6883|end_char=6889
+2	Харрис	Харрис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	1	flat:name	_	start_char=6890|end_char=6896
+3	увидела	увидеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6897|end_char=6904
+4	,	,	PUNCT	_	_	9	punct	_	start_char=6904|end_char=6905
+5	как	как	SCONJ	_	_	9	mark	_	start_char=6906|end_char=6909
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=6910|end_char=6912
+7	на	на	ADP	_	_	8	case	_	start_char=6913|end_char=6915
+8	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=6916|end_char=6919
+9	смотрит	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=6920|end_char=6927
+10	,	,	PUNCT	_	_	13	punct	_	start_char=6927|end_char=6928
+11	и	и	CCONJ	_	_	13	cc	_	start_char=6929|end_char=6930
+12	Виктория	Виктория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	13	nsubj	_	start_char=6931|end_char=6939
+13	рассказала	рассказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=6940|end_char=6950
+14	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	iobj	_	start_char=6951|end_char=6953
+15	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	start_char=6954|end_char=6958
+16	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=6959|end_char=6966
+17	.	.	PUNCT	_	_	3	punct	_	start_char=6966|end_char=6967
+
+# text = Миссис Харрис пришла в ужас, твердила что-то о виктимах, агрессорах и стокгольмском синдроме, говорила, что Виктории необходимо остановиться, остаться с ними и пройти курс психотерапии, потому что "бедная девочка".
+# sent_id = 73
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Миссис	Миссис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=6968|end_char=6974
+2	Харрис	Харрис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	1	flat:name	_	start_char=6975|end_char=6981
+3	пришла	прийти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6982|end_char=6988
+4	в	в	ADP	_	_	5	case	_	start_char=6989|end_char=6990
+5	ужас	ужас	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=6991|end_char=6995
+6	,	,	PUNCT	_	_	7	punct	_	start_char=6995|end_char=6996
+7	твердила	твердить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=6997|end_char=7005
+8	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	obj	_	start_char=7006|end_char=7012
+9	о	о	ADP	_	_	10	case	_	start_char=7013|end_char=7014
+10	виктимах	виктим	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	nmod	_	start_char=7015|end_char=7023
+11	,	,	PUNCT	_	_	12	punct	_	start_char=7023|end_char=7024
+12	агрессорах	агрессор	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	10	conj	_	start_char=7025|end_char=7035
+13	и	и	CCONJ	_	_	15	cc	_	start_char=7036|end_char=7037
+14	стокгольмском	стокгольмский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=7038|end_char=7051
+15	синдроме	синдром	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	conj	_	start_char=7052|end_char=7060
+16	,	,	PUNCT	_	_	17	punct	_	start_char=7060|end_char=7061
+17	говорила	говорить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=7062|end_char=7070
+18	,	,	PUNCT	_	_	21	punct	_	start_char=7070|end_char=7071
+19	что	что	SCONJ	_	_	21	mark	_	start_char=7072|end_char=7075
+20	Виктории	Виктория	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|NameType=Giv|Number=Sing	22	iobj	_	start_char=7076|end_char=7084
+21	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	17	ccomp	_	start_char=7085|end_char=7095
+22	остановиться	остановиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	21	csubj	_	start_char=7096|end_char=7108
+23	,	,	PUNCT	_	_	24	punct	_	start_char=7108|end_char=7109
+24	остаться	остаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	22	conj	_	start_char=7110|end_char=7118
+25	с	с	ADP	_	_	26	case	_	start_char=7119|end_char=7120
+26	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	24	obl	_	start_char=7121|end_char=7125
+27	и	и	CCONJ	_	_	28	cc	_	start_char=7126|end_char=7127
+28	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	conj	_	start_char=7128|end_char=7134
+29	курс	курс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obj	_	start_char=7135|end_char=7139
+30	психотерапии	психотерапия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	start_char=7140|end_char=7152
+31	,	,	PUNCT	_	_	36	punct	_	start_char=7152|end_char=7153
+32	потому	потому	ADV	_	Degree=Pos|PronType=Dem	36	mark	_	start_char=7154|end_char=7160
+33	что	что	SCONJ	_	_	32	fixed	_	start_char=7161|end_char=7164
+34	"	"	PUNCT	_	_	36	punct	_	start_char=7165|end_char=7166
+35	бедная	бедный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	start_char=7166|end_char=7172
+36	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	28	advcl	_	start_char=7173|end_char=7180
+37	"	"	PUNCT	_	_	36	punct	_	start_char=7180|end_char=7181
+38	.	.	PUNCT	_	_	3	punct	_	start_char=7181|end_char=7182
+
+# text = Теперь здесь, по крайней мере, спокойно, и не нужно бояться за свою жизнь.
+# sent_id = 74
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=7184|end_char=7190
+2	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=7191|end_char=7196
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7196|end_char=7197
+4	по	по	ADP	_	_	8	parataxis	_	start_char=7198|end_char=7200
+5	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	fixed	_	start_char=7201|end_char=7208
+6	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	fixed	_	start_char=7209|end_char=7213
+7	,	,	PUNCT	_	_	4	punct	_	start_char=7213|end_char=7214
+8	спокойно	спокойный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=7215|end_char=7223
+9	,	,	PUNCT	_	_	12	punct	_	start_char=7223|end_char=7224
+10	и	и	CCONJ	_	_	12	cc	_	start_char=7225|end_char=7226
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=7227|end_char=7229
+12	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	conj	_	start_char=7230|end_char=7235
+13	бояться	бояться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	12	csubj	_	start_char=7236|end_char=7243
+14	за	за	ADP	_	_	16	case	_	start_char=7244|end_char=7246
+15	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	start_char=7247|end_char=7251
+16	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	start_char=7252|end_char=7257
+17	.	.	PUNCT	_	_	8	punct	_	start_char=7257|end_char=7258
+
+# text = Виктория решила остаться.
+# sent_id = 75
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Виктория	Виктория	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=7259|end_char=7267
+2	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7268|end_char=7274
+3	остаться	остаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=7275|end_char=7283
+4	.	.	PUNCT	_	_	2	punct	_	start_char=7283|end_char=7284
+
+# text = Таков сейчас её выбор, она надеется, что он правильный.
+# sent_id = 76
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Таков	таков	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=7285|end_char=7290
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	1	advmod	_	start_char=7291|end_char=7297
+3	её	ее	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=7298|end_char=7300
+4	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=7301|end_char=7306
+5	,	,	PUNCT	_	_	7	punct	_	start_char=7306|end_char=7307
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=7308|end_char=7311
+7	надеется	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=7312|end_char=7320
+8	,	,	PUNCT	_	_	11	punct	_	start_char=7320|end_char=7321
+9	что	что	SCONJ	_	_	11	mark	_	start_char=7322|end_char=7325
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=7326|end_char=7328
+11	правильный	правильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	ccomp	_	start_char=7329|end_char=7339
+12	.	.	PUNCT	_	_	1	punct	_	start_char=7339|end_char=7340
+
+# text = Она надеется, что найдет своё место в этом цивилизованном человеческом мире.
+# sent_id = 77
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=7341|end_char=7344
+2	надеется	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=7345|end_char=7353
+3	,	,	PUNCT	_	_	5	punct	_	start_char=7353|end_char=7354
+4	что	что	SCONJ	_	_	5	mark	_	start_char=7355|end_char=7358
+5	найдет	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=7359|end_char=7365
+6	своё	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	start_char=7366|end_char=7370
+7	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=7371|end_char=7376
+8	в	в	ADP	_	_	12	case	_	start_char=7377|end_char=7378
+9	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	start_char=7379|end_char=7383
+10	цивилизованном	цивилизованный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=7384|end_char=7398
+11	человеческом	человеческий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	start_char=7399|end_char=7411
+12	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=7412|end_char=7416
+13	.	.	PUNCT	_	_	2	punct	_	start_char=7416|end_char=7417
+
+# text = А еще она – впервые за долгое время – вспоминает о Боге.
+# sent_id = 78
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	А	а	CCONJ	_	_	3	cc	_	start_char=7418|end_char=7419
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	_	start_char=7420|end_char=7423
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=7424|end_char=7427
+4	–	–	PUNCT	_	_	5	punct	_	start_char=7428|end_char=7429
+5	впервые	впервые	ADV	_	Degree=Pos	3	orphan	_	start_char=7430|end_char=7437
+6	за	за	ADP	_	_	8	case	_	start_char=7438|end_char=7440
+7	долгое	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=7441|end_char=7447
+8	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	start_char=7448|end_char=7453
+9	–	–	PUNCT	_	_	10	punct	_	start_char=7454|end_char=7455
+10	вспоминает	вспоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=7456|end_char=7466
+11	о	о	ADP	_	_	12	case	_	start_char=7467|end_char=7468
+12	Боге	бог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	start_char=7469|end_char=7473
+13	.	.	PUNCT	_	_	3	punct	_	start_char=7473|end_char=7474
+
+# text = Она, не нашедшая его ни в небе, ни на земле, ни под водой, просит его, если он всё же где-то есть, пусть Джейми будет жив, здоров и счастлив.
+# sent_id = 79
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=7475|end_char=7478
+2	,	,	PUNCT	_	_	4	punct	_	start_char=7478|end_char=7479
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=7480|end_char=7482
+4	нашедшая	найти	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	18	advcl	_	start_char=7483|end_char=7491
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=7492|end_char=7495
+6	ни	ни	CCONJ	_	Polarity=Neg	8	cc	_	start_char=7496|end_char=7498
+7	в	в	ADP	_	_	8	case	_	start_char=7499|end_char=7500
+8	небе	небо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	start_char=7501|end_char=7505
+9	,	,	PUNCT	_	_	12	punct	_	start_char=7505|end_char=7506
+10	ни	ни	CCONJ	_	Polarity=Neg	12	cc	_	start_char=7507|end_char=7509
+11	на	на	ADP	_	_	12	case	_	start_char=7510|end_char=7512
+12	земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	conj	_	start_char=7513|end_char=7518
+13	,	,	PUNCT	_	_	16	punct	_	start_char=7518|end_char=7519
+14	ни	ни	CCONJ	_	Polarity=Neg	16	cc	_	start_char=7520|end_char=7522
+15	под	под	ADP	_	_	16	case	_	start_char=7523|end_char=7526
+16	водой	вода	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	conj	_	start_char=7527|end_char=7532
+17	,	,	PUNCT	_	_	4	punct	_	start_char=7532|end_char=7533
+18	просит	просить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7534|end_char=7540
+19	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=7541|end_char=7544
+20	,	,	PUNCT	_	_	26	punct	_	start_char=7544|end_char=7545
+21	если	если	SCONJ	_	_	26	mark	_	start_char=7546|end_char=7550
+22	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=7551|end_char=7553
+23	всё	всё	ADV	_	Degree=Pos|PronType=Tot	26	advmod	_	start_char=7554|end_char=7557
+24	же	же	PART	_	_	23	fixed	_	start_char=7558|end_char=7560
+25	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	26	advmod	_	start_char=7561|end_char=7567
+26	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=7568|end_char=7572
+27	,	,	PUNCT	_	_	31	punct	_	start_char=7572|end_char=7573
+28	пусть	пусть	SCONJ	_	_	31	mark	_	start_char=7574|end_char=7579
+29	Джейми	Джейми	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	31	nsubj	_	start_char=7580|end_char=7586
+30	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	31	cop	_	start_char=7587|end_char=7592
+31	жив	живой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	18	advcl	_	start_char=7593|end_char=7596
+32	,	,	PUNCT	_	_	33	punct	_	start_char=7596|end_char=7597
+33	здоров	здоровый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	31	conj	_	start_char=7598|end_char=7604
+34	и	и	CCONJ	_	_	35	cc	_	start_char=7605|end_char=7606
+35	счастлив	счастливый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	31	conj	_	start_char=7607|end_char=7615
+36	.	.	PUNCT	_	_	18	punct	_	start_char=7615|end_char=7616
+
+# text = До тех пор, пока она его помнит.
+# sent_id = 80
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	До	до	ADP	_	_	8	advmod	_	start_char=7617|end_char=7619
+2	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	1	fixed	_	start_char=7620|end_char=7623
+3	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	fixed	_	start_char=7624|end_char=7627
+4	,	,	PUNCT	_	_	8	punct	_	start_char=7627|end_char=7628
+5	пока	пока	SCONJ	_	_	8	mark	_	start_char=7629|end_char=7633
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=7634|end_char=7637
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=7638|end_char=7641
+8	помнит	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7642|end_char=7648
+9	.	.	PUNCT	_	_	8	punct	_	start_char=7648|end_char=7649
+
+# text = 2014
+# sent_id = 81
+# metadata = Название: Сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726f1e00000a7d32565115/1/Sila
+1	2014	2014	ADJ	_	NumForm=Digit|NumType=Ord	0	root	_	start_char=7651|end_char=7655
+

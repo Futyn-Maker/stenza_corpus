@@ -1,0 +1,1427 @@
+# text = Преподаватель на лекции по повышению боеготовности солдат ЮНИТа был тот же, что и обычно, но в этот раз он держался как-то странно.
+# sent_id = 0
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Преподаватель	преподаватель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=0|end_char=13
+2	на	на	ADP	_	_	3	case	_	start_char=14|end_char=16
+3	лекции	лекция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1	nmod	_	start_char=17|end_char=23
+4	по	по	ADP	_	_	5	case	_	start_char=24|end_char=26
+5	повышению	повышение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	nmod	_	start_char=27|end_char=36
+6	боеготовности	боеготовность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=37|end_char=50
+7	солдат	солдат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=51|end_char=57
+8	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	7	nmod	_	start_char=58|end_char=63
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=64|end_char=67
+10	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	start_char=68|end_char=71
+11	же	же	PART	_	_	10	advmod	_	start_char=72|end_char=74
+12	,	,	PUNCT	_	_	15	punct	_	start_char=74|end_char=75
+13	что	что	SCONJ	_	_	15	mark	_	start_char=76|end_char=79
+14	и	и	PART	_	_	15	advmod	_	start_char=80|end_char=81
+15	обычно	обычно	ADV	_	Degree=Pos	10	advmod	_	start_char=82|end_char=88
+16	,	,	PUNCT	_	_	22	punct	_	start_char=88|end_char=89
+17	но	но	CCONJ	_	_	22	cc	_	start_char=90|end_char=92
+18	в	в	ADP	_	_	20	case	_	start_char=93|end_char=94
+19	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	start_char=95|end_char=99
+20	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obl	_	start_char=100|end_char=103
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=104|end_char=106
+22	держался	держаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=107|end_char=115
+23	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	24	advmod	_	start_char=116|end_char=122
+24	странно	странно	ADV	_	Degree=Pos	22	advmod	_	start_char=123|end_char=130
+25	.	.	PUNCT	_	_	10	punct	_	start_char=130|end_char=131
+
+# text = «Неуверенно», как шепотом предположила Марта.
+# sent_id = 1
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	«	«	PUNCT	_	_	2	punct	_	start_char=132|end_char=133
+2	Неуверенно	неуверенный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=133|end_char=143
+3	»	»	PUNCT	_	_	2	punct	_	start_char=143|end_char=144
+4	,	,	PUNCT	_	_	7	punct	_	start_char=144|end_char=145
+5	как	как	SCONJ	_	_	7	mark	_	start_char=146|end_char=149
+6	шепотом	шепотом	ADV	_	Degree=Pos	7	advmod	_	start_char=150|end_char=157
+7	предположила	предположить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=158|end_char=170
+8	Марта	Март	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	start_char=171|end_char=176
+9	.	.	PUNCT	_	_	2	punct	_	start_char=176|end_char=177
+
+# text = Наблюдательность для бойца почти невидимого фронта – совершенно необходимое умение; только сегодня на боевом задании они едва не пропустили сонтаранца.
+# sent_id = 2
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Наблюдательность	наблюдательность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	start_char=178|end_char=194
+2	для	для	ADP	_	_	3	case	_	start_char=195|end_char=198
+3	бойца	бойцо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	start_char=199|end_char=204
+4	почти	почти	ADV	_	Degree=Pos	5	advmod	_	start_char=205|end_char=210
+5	невидимого	невидимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=211|end_char=221
+6	фронта	фронт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=222|end_char=228
+7	–	–	PUNCT	_	_	10	punct	_	start_char=229|end_char=230
+8	совершенно	совершенно	ADV	_	Degree=Pos	9	advmod	_	start_char=231|end_char=241
+9	необходимое	необходимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	start_char=242|end_char=253
+10	умение	умение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=254|end_char=260
+11	;	;	PUNCT	_	_	20	punct	_	start_char=260|end_char=261
+12	только	только	PART	_	_	13	advmod	_	start_char=262|end_char=268
+13	сегодня	сегодня	ADV	_	Degree=Pos	20	advmod	_	start_char=269|end_char=276
+14	на	на	ADP	_	_	16	case	_	start_char=277|end_char=279
+15	боевом	боевой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	start_char=280|end_char=286
+16	задании	задание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	obl	_	start_char=287|end_char=294
+17	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=295|end_char=298
+18	едва	едва	ADV	_	Degree=Pos	20	advmod	_	start_char=299|end_char=303
+19	не	не	PART	_	Polarity=Neg	20	advmod	_	start_char=304|end_char=306
+20	пропустили	пропустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=307|end_char=317
+21	сонтаранца	сонтаранец	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	start_char=318|end_char=328
+22	.	.	PUNCT	_	_	10	punct	_	start_char=328|end_char=329
+
+# text = Лишь мимолетное, неожиданное, почти невозможное вмешательство
+# sent_id = 3
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Лишь	лишь	PART	_	_	2	advmod	_	start_char=330|end_char=334
+2	мимолетное	мимолетный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=335|end_char=345
+3	,	,	PUNCT	_	_	4	punct	_	start_char=345|end_char=346
+4	неожиданное	неожиданный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	start_char=347|end_char=358
+5	,	,	PUNCT	_	_	7	punct	_	start_char=358|end_char=359
+6	почти	почти	ADV	_	Degree=Pos	7	advmod	_	start_char=360|end_char=365
+7	невозможное	невозможный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	start_char=366|end_char=377
+8	вмешательство	вмешательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=378|end_char=391
+
+# text = Доктора позволило им одержать победу, а может быть, и сохранить жизни.
+# sent_id = 4
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=392|end_char=399
+2	позволило	позволить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=400|end_char=409
+3	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	iobj	_	start_char=410|end_char=412
+4	одержать	одержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=413|end_char=421
+5	победу	победа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=422|end_char=428
+6	,	,	PUNCT	_	_	12	punct	_	start_char=428|end_char=429
+7	а	а	CCONJ	_	_	12	cc	_	start_char=430|end_char=431
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	start_char=432|end_char=437
+9	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=438|end_char=442
+10	,	,	PUNCT	_	_	8	punct	_	start_char=442|end_char=443
+11	и	и	PART	_	_	12	advmod	_	start_char=444|end_char=445
+12	сохранить	сохранить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	conj	_	start_char=446|end_char=455
+13	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	iobj	_	start_char=456|end_char=461
+14	.	.	PUNCT	_	_	2	punct	_	start_char=461|end_char=462
+
+# text = Микки постарался тоже найти в преподе что-то необычное.
+# sent_id = 5
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Микки	Микки	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=463|end_char=468
+2	постарался	постараться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=469|end_char=479
+3	тоже	тоже	PART	_	_	4	advmod	_	start_char=480|end_char=484
+4	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=485|end_char=490
+5	в	в	ADP	_	_	6	case	_	start_char=491|end_char=492
+6	преподе	препод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	start_char=493|end_char=500
+7	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	obj	_	start_char=501|end_char=507
+8	необычное	необычный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=508|end_char=517
+9	.	.	PUNCT	_	_	2	punct	_	start_char=517|end_char=518
+
+# text = Ну да, он никогда так не перебирал бумажки.
+# sent_id = 6
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Ну	ну	PART	_	_	8	discourse	_	start_char=519|end_char=521
+2	да	да	PART	_	_	8	parataxis	_	start_char=522|end_char=524
+3	,	,	PUNCT	_	_	2	punct	_	start_char=524|end_char=525
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=526|end_char=528
+5	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	8	advmod	_	start_char=529|end_char=536
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=537|end_char=540
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=541|end_char=543
+8	перебирал	перебирать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=544|end_char=553
+9	бумажки	бумажка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=554|end_char=561
+10	.	.	PUNCT	_	_	8	punct	_	start_char=561|end_char=562
+
+# text = Да и вообще практически весь учебный процесс был оснащен по последнему слову техники, так что преподаватели читали подсказки по плану урока с экрана личного компьютера, иллюстративный материал показывали на большом экране и приносили настоящий, а тут вдруг бумажки.
+# sent_id = 7
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Да	да	CCONJ	_	_	9	cc	_	start_char=563|end_char=565
+2	и	и	CCONJ	_	_	1	fixed	_	start_char=566|end_char=567
+3	вообще	вообще	ADV	_	Degree=Pos	9	advmod	_	start_char=568|end_char=574
+4	практически	практически	ADV	_	Degree=Pos	5	advmod	_	start_char=575|end_char=586
+5	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	start_char=587|end_char=591
+6	учебный	учебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=592|end_char=599
+7	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	start_char=600|end_char=607
+8	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	start_char=608|end_char=611
+9	оснащен	оснасить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=612|end_char=619
+10	по	по	ADP	_	_	12	case	_	start_char=620|end_char=622
+11	последнему	последний	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	start_char=623|end_char=633
+12	слову	слово	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	obl	_	start_char=634|end_char=639
+13	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	start_char=640|end_char=647
+14	,	,	PUNCT	_	_	18	punct	_	start_char=647|end_char=648
+15	так	так	ADV	_	Degree=Pos|PronType=Dem	18	mark	_	start_char=649|end_char=652
+16	что	что	SCONJ	_	_	15	fixed	_	start_char=653|end_char=656
+17	преподаватели	преподаватель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	start_char=657|end_char=670
+18	читали	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=671|end_char=677
+19	подсказки	подсказка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obj	_	start_char=678|end_char=687
+20	по	по	ADP	_	_	21	case	_	start_char=688|end_char=690
+21	плану	план	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	18	obl	_	start_char=691|end_char=696
+22	урока	урок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	start_char=697|end_char=702
+23	с	с	ADP	_	_	24	case	_	start_char=703|end_char=704
+24	экрана	экран	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	start_char=705|end_char=711
+25	личного	личный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	start_char=712|end_char=719
+26	компьютера	компьютер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	start_char=720|end_char=730
+27	,	,	PUNCT	_	_	30	punct	_	start_char=730|end_char=731
+28	иллюстративный	иллюстративный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	start_char=732|end_char=746
+29	материал	материал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	obj	_	start_char=747|end_char=755
+30	показывали	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	start_char=756|end_char=766
+31	на	на	ADP	_	_	33	case	_	start_char=767|end_char=769
+32	большом	большой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	start_char=770|end_char=777
+33	экране	экран	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	obl	_	start_char=778|end_char=784
+34	и	и	CCONJ	_	_	35	cc	_	start_char=785|end_char=786
+35	приносили	приносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	start_char=787|end_char=796
+36	настоящий	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	35	obj	_	start_char=797|end_char=806
+37	,	,	PUNCT	_	_	39	punct	_	start_char=806|end_char=807
+38	а	а	CCONJ	_	_	39	cc	_	start_char=808|end_char=809
+39	тут	тут	ADV	_	Degree=Pos|PronType=Dem	18	conj	_	start_char=810|end_char=813
+40	вдруг	вдруг	ADV	_	Degree=Pos	41	advmod	_	start_char=814|end_char=819
+41	бумажки	бумажка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	39	nsubj	_	start_char=820|end_char=827
+42	.	.	PUNCT	_	_	9	punct	_	start_char=827|end_char=828
+
+# text = И похоже, не первой свежести.
+# sent_id = 8
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	И	и	CCONJ	_	_	6	cc	_	start_char=829|end_char=830
+2	похоже	похоже	ADV	_	Degree=Pos	6	parataxis	_	start_char=831|end_char=837
+3	,	,	PUNCT	_	_	2	punct	_	start_char=837|end_char=838
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=839|end_char=841
+5	первой	первый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	6	amod	_	start_char=842|end_char=848
+6	свежести	свежесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=849|end_char=857
+7	.	.	PUNCT	_	_	6	punct	_	start_char=857|end_char=858
+
+# text = – Итак, сегодня у нас необычное занятие, – начал преподаватель.
+# sent_id = 9
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=860|end_char=861
+2	Итак	итак	ADV	_	Degree=Pos	6	parataxis	_	start_char=862|end_char=866
+3	,	,	PUNCT	_	_	2	punct	_	start_char=866|end_char=867
+4	сегодня	сегодня	ADV	_	Degree=Pos	6	advmod	_	start_char=868|end_char=875
+5	у	у	ADP	_	_	6	case	_	start_char=876|end_char=877
+6	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=878|end_char=881
+7	необычное	необычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=882|end_char=891
+8	занятие	занятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=892|end_char=899
+9	,	,	PUNCT	_	_	11	punct	_	start_char=899|end_char=900
+10	–	–	PUNCT	_	_	11	punct	_	start_char=901|end_char=902
+11	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=903|end_char=908
+12	преподаватель	преподаватель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=909|end_char=922
+13	.	.	PUNCT	_	_	6	punct	_	start_char=922|end_char=923
+
+# text = – Я расскажу вам один опыт, а вы его повторите.
+# sent_id = 10
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=924|end_char=925
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=926|end_char=927
+3	расскажу	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=928|end_char=936
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	start_char=937|end_char=940
+5	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=941|end_char=945
+6	опыт	опыт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=946|end_char=950
+7	,	,	PUNCT	_	_	11	punct	_	start_char=950|end_char=951
+8	а	а	CCONJ	_	_	11	cc	_	start_char=952|end_char=953
+9	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	start_char=954|end_char=956
+10	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=957|end_char=960
+11	повторите	повторить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	start_char=961|end_char=970
+12	.	.	PUNCT	_	_	3	punct	_	start_char=970|end_char=971
+
+# text = – А что в этом необычного?
+# sent_id = 11
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=973|end_char=974
+2	А	а	CCONJ	_	_	5	cc	_	start_char=975|end_char=976
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	start_char=977|end_char=980
+4	в	в	ADP	_	_	5	case	_	start_char=981|end_char=982
+5	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=983|end_char=987
+6	необычного	необычный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=988|end_char=998
+7	?	?	PUNCT	_	_	5	punct	_	start_char=998|end_char=999
+
+# text = – немедленно поинтересовалась Марта, как главная активистка группы.
+# sent_id = 12
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1000|end_char=1001
+2	немедленно	немедленно	ADV	_	Degree=Pos	3	advmod	_	start_char=1002|end_char=1012
+3	поинтересовалась	поинтересоваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1013|end_char=1029
+4	Марта	Март	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1030|end_char=1035
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1035|end_char=1036
+6	как	как	SCONJ	_	_	8	case	_	start_char=1037|end_char=1040
+7	главная	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=1041|end_char=1048
+8	активистка	активистка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	obl	_	start_char=1049|end_char=1059
+9	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1060|end_char=1066
+10	.	.	PUNCT	_	_	3	punct	_	start_char=1066|end_char=1067
+
+# text = Впрочем, активность и расспросы на занятиях приветствовались.
+# sent_id = 13
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Впрочем	впрочем	ADV	_	Degree=Pos	8	parataxis	_	start_char=1068|end_char=1075
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1075|end_char=1076
+3	активность	активность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=1077|end_char=1087
+4	и	и	CCONJ	_	_	5	cc	_	start_char=1088|end_char=1089
+5	расспросы	расспрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	start_char=1090|end_char=1099
+6	на	на	ADP	_	_	7	case	_	start_char=1100|end_char=1102
+7	занятиях	занятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	8	obl	_	start_char=1103|end_char=1111
+8	приветствовались	приветствоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1112|end_char=1128
+9	.	.	PUNCT	_	_	8	punct	_	start_char=1128|end_char=1129
+
+# text = – В том, что я не смогу сказать, получилось у вас или нет.
+# sent_id = 14
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1131|end_char=1132
+2	В	в	ADP	_	_	3	case	_	start_char=1133|end_char=1134
+3	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=1135|end_char=1138
+4	,	,	PUNCT	_	_	8	punct	_	start_char=1138|end_char=1139
+5	что	что	SCONJ	_	_	8	mark	_	start_char=1140|end_char=1143
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=1144|end_char=1145
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1146|end_char=1148
+8	смогу	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	acl	_	start_char=1149|end_char=1154
+9	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=1155|end_char=1162
+10	,	,	PUNCT	_	_	8	punct	_	start_char=1162|end_char=1163
+11	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	acl	_	start_char=1164|end_char=1174
+12	у	у	ADP	_	_	13	case	_	start_char=1175|end_char=1176
+13	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	11	obl	_	start_char=1177|end_char=1180
+14	или	или	CCONJ	_	_	15	cc	_	start_char=1181|end_char=1184
+15	нет	нет	PART	_	Polarity=Neg	13	conj	_	start_char=1185|end_char=1188
+16	.	.	PUNCT	_	_	3	punct	_	start_char=1188|end_char=1189
+
+# text = Марта и Микки с удивлением переглянулись.
+# sent_id = 15
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Марта	Март	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	start_char=1191|end_char=1196
+2	и	и	CCONJ	_	_	3	cc	_	start_char=1197|end_char=1198
+3	Микки	Микки	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	1	conj	_	start_char=1199|end_char=1204
+4	с	с	ADP	_	_	5	case	_	start_char=1205|end_char=1206
+5	удивлением	удивление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	start_char=1207|end_char=1217
+6	переглянулись	переглянуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1218|end_char=1231
+7	.	.	PUNCT	_	_	6	punct	_	start_char=1231|end_char=1232
+
+# text = – Сейчас вы все поймете, минуту терпения.
+# sent_id = 16
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1234|end_char=1235
+2	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1236|end_char=1242
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=1243|end_char=1245
+4	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	5	obj	_	start_char=1246|end_char=1249
+5	поймете	понять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1250|end_char=1257
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1257|end_char=1258
+7	минуту	минута	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=1259|end_char=1265
+8	терпения	терпение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=1266|end_char=1274
+9	.	.	PUNCT	_	_	5	punct	_	start_char=1274|end_char=1275
+
+# text = Да, несмотря на вышесказанное, прошу вас отнестись со всей серьезностью.
+# sent_id = 17
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Да	да	PART	_	_	7	parataxis	_	start_char=1276|end_char=1278
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1278|end_char=1279
+3	несмотря	несмотря	ADV	_	Degree=Pos	5	case	_	start_char=1280|end_char=1288
+4	на	на	ADP	_	_	3	fixed	_	start_char=1289|end_char=1291
+5	вышесказанное	вышесказать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	obl	_	start_char=1292|end_char=1305
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1305|end_char=1306
+7	прошу	просить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1307|end_char=1312
+8	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	obj	_	start_char=1313|end_char=1316
+9	отнестись	отнестись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=1317|end_char=1326
+10	со	со	ADP	_	_	12	case	_	start_char=1327|end_char=1329
+11	всей	весь	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	12	det	_	start_char=1330|end_char=1334
+12	серьезностью	серьезность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	start_char=1335|end_char=1347
+13	.	.	PUNCT	_	_	7	punct	_	start_char=1347|end_char=1348
+
+# text = Ознакомьтесь с розданным вам материалом, удостоверьтесь, что вы там все поняли и ничего не упустили.
+# sent_id = 18
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Ознакомьтесь	ознакомиться	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1349|end_char=1361
+2	с	с	ADP	_	_	5	case	_	start_char=1362|end_char=1363
+3	розданным	роздать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	start_char=1364|end_char=1373
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	obl	_	start_char=1374|end_char=1377
+5	материалом	материал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	start_char=1378|end_char=1388
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1388|end_char=1389
+7	удостоверьтесь	удостовериться	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=1390|end_char=1404
+8	,	,	PUNCT	_	_	13	punct	_	start_char=1404|end_char=1405
+9	что	что	SCONJ	_	_	13	mark	_	start_char=1406|end_char=1409
+10	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	start_char=1410|end_char=1412
+11	там	там	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=1413|end_char=1416
+12	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	13	obj	_	start_char=1417|end_char=1420
+13	поняли	понять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	start_char=1421|end_char=1427
+14	и	и	CCONJ	_	_	17	cc	_	start_char=1428|end_char=1429
+15	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	17	obj	_	start_char=1430|end_char=1436
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=1437|end_char=1439
+17	упустили	упустить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=1440|end_char=1448
+18	.	.	PUNCT	_	_	1	punct	_	start_char=1448|end_char=1449
+
+# text = Итак.
+# sent_id = 19
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Итак	итак	ADV	_	Degree=Pos	0	root	_	start_char=1450|end_char=1454
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1454|end_char=1455
+
+# text = Кто у нас является объектом №1?
+# sent_id = 20
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	_	start_char=1456|end_char=1459
+2	у	у	ADP	_	_	3	case	_	start_char=1460|end_char=1461
+3	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	obl	_	start_char=1462|end_char=1465
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1466|end_char=1474
+5	объектом	объект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	xcomp	_	start_char=1475|end_char=1483
+6	№	№	SYM	_	_	5	appos	_	start_char=1484|end_char=1485
+7	1	1	NUM	_	NumForm=Digit|NumType=Card	6	appos	_	start_char=1485|end_char=1486
+8	?	?	PUNCT	_	_	4	punct	_	start_char=1486|end_char=1487
+
+# text = – Мастер! – моментально отозвалась Марта, не на уроке выучившая этот урок.
+# sent_id = 21
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1489|end_char=1490
+2	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1491|end_char=1497
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1497|end_char=1498
+4	–	–	PUNCT	_	_	6	punct	_	start_char=1499|end_char=1500
+5	моментально	моментально	ADV	_	Degree=Pos	6	advmod	_	start_char=1501|end_char=1512
+6	отозвалась	отозваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=1513|end_char=1523
+7	Марта	Март	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=1524|end_char=1529
+8	,	,	PUNCT	_	_	12	punct	_	start_char=1529|end_char=1530
+9	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=1531|end_char=1533
+10	на	на	ADP	_	_	11	case	_	start_char=1534|end_char=1536
+11	уроке	урок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	start_char=1537|end_char=1542
+12	выучившая	выучить	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	start_char=1543|end_char=1552
+13	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	start_char=1553|end_char=1557
+14	урок	урок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=1558|end_char=1562
+15	.	.	PUNCT	_	_	2	punct	_	start_char=1562|end_char=1563
+
+# text = – Да, таймлорд по имени Мастер.
+# sent_id = 22
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=1565|end_char=1566
+2	Да	да	PART	_	_	7	parataxis	_	start_char=1567|end_char=1569
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1569|end_char=1570
+4	таймлорд	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1571|end_char=1579
+5	по	по	ADP	_	_	6	case	_	start_char=1580|end_char=1582
+6	имени	имя	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	start_char=1583|end_char=1588
+7	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1589|end_char=1595
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1595|end_char=1596
+
+# text = – Но его же... уничтожили? – осторожно уточнил Микки.
+# sent_id = 23
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1598|end_char=1599
+2	Но	но	CCONJ	_	_	6	cc	_	start_char=1600|end_char=1602
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=1603|end_char=1606
+4	же	же	PART	_	_	3	advmod	_	start_char=1607|end_char=1609
+5	...	...	PUNCT	_	_	3	punct	_	start_char=1609|end_char=1612
+6	уничтожили	уничтожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1613|end_char=1623
+7	?	?	PUNCT	_	_	6	punct	_	start_char=1623|end_char=1624
+8	–	–	PUNCT	_	_	10	punct	_	start_char=1625|end_char=1626
+9	осторожно	осторожно	ADV	_	Degree=Pos	10	advmod	_	start_char=1627|end_char=1636
+10	уточнил	уточнить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=1637|end_char=1644
+11	Микки	Микки	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	nsubj	_	start_char=1645|end_char=1650
+12	.	.	PUNCT	_	_	6	punct	_	start_char=1650|end_char=1651
+
+# text = – В записях ЮНИТа есть несколько упоминаний о смерти Мастера.
+# sent_id = 24
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1653|end_char=1654
+2	В	в	ADP	_	_	3	case	_	start_char=1655|end_char=1656
+3	записях	запись	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	obl	_	start_char=1657|end_char=1664
+4	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	3	nmod	_	start_char=1665|end_char=1670
+5	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1671|end_char=1675
+6	несколько	несколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	7	nummod:gov	_	start_char=1676|end_char=1685
+7	упоминаний	упоминание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nsubj	_	start_char=1686|end_char=1696
+8	о	о	ADP	_	_	9	case	_	start_char=1697|end_char=1698
+9	смерти	смерть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	start_char=1699|end_char=1705
+10	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	start_char=1706|end_char=1713
+11	.	.	PUNCT	_	_	5	punct	_	start_char=1713|end_char=1714
+
+# text = Несмотря на это, он появлялся вновь, так что пока он был и остается объектом №1.
+# sent_id = 25
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Несмотря	несмотря	ADV	_	Degree=Pos	3	case	_	start_char=1715|end_char=1723
+2	на	на	ADP	_	_	1	fixed	_	start_char=1724|end_char=1726
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	start_char=1727|end_char=1730
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1730|end_char=1731
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1732|end_char=1734
+6	появлялся	появляться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1735|end_char=1744
+7	вновь	вновь	ADV	_	Degree=Pos	6	advmod	_	start_char=1745|end_char=1750
+8	,	,	PUNCT	_	_	13	punct	_	start_char=1750|end_char=1751
+9	так	так	ADV	_	Degree=Pos|PronType=Dem	13	mark	_	start_char=1752|end_char=1755
+10	что	что	SCONJ	_	_	9	fixed	_	start_char=1756|end_char=1759
+11	пока	пока	ADV	_	Degree=Pos	13	advmod	_	start_char=1760|end_char=1764
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=1765|end_char=1767
+13	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=1768|end_char=1771
+14	и	и	CCONJ	_	_	15	cc	_	start_char=1772|end_char=1773
+15	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=1774|end_char=1782
+16	объектом	объект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	xcomp	_	start_char=1783|end_char=1791
+17	№	№	SYM	_	_	16	appos	_	start_char=1792|end_char=1793
+18	1	1	NUM	_	NumForm=Digit|NumType=Card	17	appos	_	start_char=1793|end_char=1794
+19	.	.	PUNCT	_	_	6	punct	_	start_char=1794|end_char=1795
+
+# text = Что вы знаете о таймлордах?
+# sent_id = 26
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	start_char=1796|end_char=1799
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=1800|end_char=1802
+3	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1803|end_char=1809
+4	о	о	ADP	_	_	5	case	_	start_char=1810|end_char=1811
+5	таймлордах	таймлорд	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	3	obl	_	start_char=1812|end_char=1822
+6	?	?	PUNCT	_	_	3	punct	_	start_char=1822|end_char=1823
+
+# text = – Они могут повелевать временем, путешествовать во времени, – отозвался кто-то из группы.
+# sent_id = 27
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1825|end_char=1826
+2	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1827|end_char=1830
+3	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1831|end_char=1836
+4	повелевать	повелевать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1837|end_char=1847
+5	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	start_char=1848|end_char=1856
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1856|end_char=1857
+7	путешествовать	путешествовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	start_char=1858|end_char=1872
+8	во	во	ADP	_	_	9	case	_	start_char=1873|end_char=1875
+9	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	start_char=1876|end_char=1883
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1883|end_char=1884
+11	–	–	PUNCT	_	_	12	punct	_	start_char=1885|end_char=1886
+12	отозвался	отозваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=1887|end_char=1896
+13	кто-то	кто-то	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	start_char=1897|end_char=1903
+14	из	из	ADP	_	_	15	case	_	start_char=1904|end_char=1906
+15	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	start_char=1907|end_char=1913
+16	.	.	PUNCT	_	_	3	punct	_	start_char=1913|end_char=1914
+
+# text = – Да.
+# sent_id = 28
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1916|end_char=1917
+2	Да	да	PART	_	_	0	root	_	start_char=1918|end_char=1920
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1920|end_char=1921
+
+# text = И этот опыт имеет своей целью сбить любые манипуляции со временем, которые происходят в радиусе его действия.
+# sent_id = 29
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	И	и	CCONJ	_	_	4	cc	_	start_char=1922|end_char=1923
+2	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=1924|end_char=1928
+3	опыт	опыт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1929|end_char=1933
+4	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1934|end_char=1939
+5	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=1940|end_char=1945
+6	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	start_char=1946|end_char=1951
+7	сбить	сбить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1952|end_char=1957
+8	любые	любой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	9	det	_	start_char=1958|end_char=1963
+9	манипуляции	манипуляция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=1964|end_char=1975
+10	со	со	ADP	_	_	11	case	_	start_char=1976|end_char=1978
+11	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	nmod	_	start_char=1979|end_char=1987
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1987|end_char=1988
+13	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	14	nsubj	_	start_char=1989|end_char=1996
+14	происходят	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	start_char=1997|end_char=2007
+15	в	в	ADP	_	_	16	case	_	start_char=2008|end_char=2009
+16	радиусе	радиус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	start_char=2010|end_char=2017
+17	его	его	DET	_	Poss=Yes|PronType=Prs	18	det	_	start_char=2018|end_char=2021
+18	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	start_char=2022|end_char=2030
+19	.	.	PUNCT	_	_	4	punct	_	start_char=2030|end_char=2031
+
+# text = Тем самым вы можете разрушить планы Мастера и... – Далеков?
+# sent_id = 30
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	start_char=2032|end_char=2035
+2	самым	самый	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Emp	1	det	_	start_char=2036|end_char=2041
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=2042|end_char=2044
+4	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2045|end_char=2051
+5	разрушить	разрушить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=2052|end_char=2061
+6	планы	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=2062|end_char=2067
+7	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=2068|end_char=2075
+8	и	и	CCONJ	_	_	11	cc	_	start_char=2076|end_char=2077
+9	...	...	PUNCT	_	_	11	punct	_	start_char=2077|end_char=2080
+10	–	–	PUNCT	_	_	11	punct	_	start_char=2082|end_char=2083
+11	Далеков	далек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	start_char=2084|end_char=2091
+12	?	?	PUNCT	_	_	4	punct	_	start_char=2091|end_char=2092
+
+# text = – Правильно, миссис Смит.
+# sent_id = 31
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2094|end_char=2095
+2	Правильно	правильно	ADV	_	Degree=Pos	0	root	_	start_char=2096|end_char=2105
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2105|end_char=2106
+4	миссис	миссис	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	start_char=2107|end_char=2113
+5	Смит	Смит	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Sur|Number=Sing	4	flat:name	_	start_char=2114|end_char=2118
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2118|end_char=2119
+
+# text = Возможно, список цивилизаций, достигших подобного уровня развития, намного больше, но мы встречались не со всеми.
+# sent_id = 32
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Возможно	возможно	ADV	_	Degree=Pos	12	parataxis	_	start_char=2120|end_char=2128
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2128|end_char=2129
+3	список	список	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=2130|end_char=2136
+4	цивилизаций	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	start_char=2137|end_char=2148
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2148|end_char=2149
+6	достигших	достичь	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	start_char=2150|end_char=2159
+7	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=2160|end_char=2169
+8	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obj	_	start_char=2170|end_char=2176
+9	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=2177|end_char=2185
+10	,	,	PUNCT	_	_	6	punct	_	start_char=2185|end_char=2186
+11	намного	намного	ADV	_	Degree=Pos	12	advmod	_	start_char=2187|end_char=2194
+12	больше	большой	ADJ	_	Degree=Cmp	0	root	_	start_char=2195|end_char=2201
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2201|end_char=2202
+14	но	но	CCONJ	_	_	16	cc	_	start_char=2203|end_char=2205
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	start_char=2206|end_char=2208
+16	встречались	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	start_char=2209|end_char=2220
+17	не	не	PART	_	Polarity=Neg	19	advmod	_	start_char=2221|end_char=2223
+18	со	со	ADP	_	_	19	case	_	start_char=2224|end_char=2226
+19	всеми	все	PRON	_	Animacy=Anim|Case=Ins|Number=Plur|PronType=Tot	16	obl	_	start_char=2227|end_char=2232
+20	.	.	PUNCT	_	_	12	punct	_	start_char=2232|end_char=2233
+
+# text = Думаю, это к лучшему.
+# sent_id = 33
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2234|end_char=2239
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2239|end_char=2240
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=2241|end_char=2244
+4	к	к	ADP	_	_	5	case	_	start_char=2245|end_char=2246
+5	лучшему	лучший	ADJ	_	Case=Dat|Degree=Sup|Gender=Neut|Number=Sing	0	root	_	start_char=2247|end_char=2254
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2254|end_char=2255
+
+# text = Итак, в лаборантской на столе стоят предметы.
+# sent_id = 34
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Итак	итак	ADV	_	Degree=Pos	7	parataxis	_	start_char=2256|end_char=2260
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2260|end_char=2261
+3	в	в	ADP	_	_	4	case	_	start_char=2262|end_char=2263
+4	лаборантской	лаборантский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	obl	_	start_char=2264|end_char=2276
+5	на	на	ADP	_	_	6	case	_	start_char=2277|end_char=2279
+6	столе	стол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=2280|end_char=2285
+7	стоят	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2286|end_char=2291
+8	предметы	предмет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	start_char=2292|end_char=2300
+9	.	.	PUNCT	_	_	7	punct	_	start_char=2300|end_char=2301
+
+# text = Вы должны выбрать из них те, которые вам понадобятся для опыта, а я пока расскажу вам его историю.
+# sent_id = 35
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=2302|end_char=2304
+2	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=2305|end_char=2311
+3	выбрать	выбрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2312|end_char=2319
+4	из	из	ADP	_	_	5	case	_	start_char=2320|end_char=2322
+5	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	obl	_	start_char=2323|end_char=2326
+6	те	тот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	3	obj	_	start_char=2327|end_char=2329
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2329|end_char=2330
+8	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	10	nsubj	_	start_char=2331|end_char=2338
+9	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	10	iobj	_	start_char=2339|end_char=2342
+10	понадобятся	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	start_char=2343|end_char=2354
+11	для	для	ADP	_	_	12	case	_	start_char=2355|end_char=2358
+12	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	start_char=2359|end_char=2364
+13	,	,	PUNCT	_	_	17	punct	_	start_char=2364|end_char=2365
+14	а	а	CCONJ	_	_	17	cc	_	start_char=2366|end_char=2367
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=2368|end_char=2369
+16	пока	пока	ADV	_	Degree=Pos	17	advmod	_	start_char=2370|end_char=2374
+17	расскажу	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2375|end_char=2383
+18	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	17	iobj	_	start_char=2384|end_char=2387
+19	его	его	DET	_	Poss=Yes|PronType=Prs	20	det	_	start_char=2388|end_char=2391
+20	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	start_char=2392|end_char=2399
+21	.	.	PUNCT	_	_	2	punct	_	start_char=2399|end_char=2400
+
+# text = Марта внимательно перечитала список необходимого: винная бутылка, пробка, штопор, заварка... вилка еще...
+# sent_id = 36
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Марта	марта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=2402|end_char=2407
+2	внимательно	внимательно	ADV	_	Degree=Pos	3	advmod	_	start_char=2408|end_char=2419
+3	перечитала	перечитать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2420|end_char=2430
+4	список	список	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=2431|end_char=2437
+5	необходимого	необходимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	nmod	_	start_char=2438|end_char=2450
+6	:	:	PUNCT	_	_	8	punct	_	start_char=2450|end_char=2451
+7	винная	винный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=2452|end_char=2458
+8	бутылка	бутылка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	start_char=2459|end_char=2466
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2466|end_char=2467
+10	пробка	пробка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	start_char=2468|end_char=2474
+11	,	,	PUNCT	_	_	12	punct	_	start_char=2474|end_char=2475
+12	штопор	штопор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	start_char=2476|end_char=2482
+13	,	,	PUNCT	_	_	14	punct	_	start_char=2482|end_char=2483
+14	заварка	заварка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	start_char=2484|end_char=2491
+15	...	...	PUNCT	_	_	16	punct	_	start_char=2491|end_char=2494
+16	вилка	вилка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	start_char=2495|end_char=2500
+17	еще	еще	ADV	_	Degree=Pos	16	advmod	_	start_char=2501|end_char=2504
+18	...	...	PUNCT	_	_	3	punct	_	start_char=2504|end_char=2507
+
+# text = Совершенно хаотичный набор, сопровождавшийся ничего не проясняющей надписью «Отношение между разными молекулярными связями и фактические формы кристаллической структуры пропорции».
+# sent_id = 37
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Совершенно	совершенно	ADV	_	Degree=Pos	2	advmod	_	start_char=2508|end_char=2518
+2	хаотичный	хаотичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=2519|end_char=2528
+3	набор	набор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2529|end_char=2534
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2534|end_char=2535
+5	сопровождавшийся	сопровождаться	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	start_char=2536|end_char=2552
+6	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	5	obj	_	start_char=2553|end_char=2559
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=2560|end_char=2562
+8	проясняющей	прояснять	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	start_char=2563|end_char=2574
+9	надписью	надпись	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	start_char=2575|end_char=2583
+10	«	«	PUNCT	_	_	11	punct	_	start_char=2584|end_char=2585
+11	Отношение	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	parataxis	_	start_char=2585|end_char=2594
+12	между	между	ADP	_	_	15	case	_	start_char=2595|end_char=2600
+13	разными	разный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	amod	_	start_char=2601|end_char=2608
+14	молекулярными	молекулярный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	amod	_	start_char=2609|end_char=2622
+15	связями	связь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	nmod	_	start_char=2623|end_char=2630
+16	и	и	CCONJ	_	_	18	cc	_	start_char=2631|end_char=2632
+17	фактические	фактический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	start_char=2633|end_char=2644
+18	формы	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	conj	_	start_char=2645|end_char=2650
+19	кристаллической	кристаллический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	start_char=2651|end_char=2666
+20	структуры	структура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	start_char=2667|end_char=2676
+21	пропорции	пропорция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	start_char=2677|end_char=2686
+22	»	»	PUNCT	_	_	11	punct	_	start_char=2686|end_char=2687
+23	.	.	PUNCT	_	_	3	punct	_	start_char=2687|end_char=2688
+
+# text = Снизу был рисунок «принципиальной схемы», сделанный неумелой, но старательной рукой.
+# sent_id = 38
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Снизу	снизу	ADV	_	Degree=Pos	2	advmod	_	start_char=2689|end_char=2694
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2695|end_char=2698
+3	рисунок	рисунок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2699|end_char=2706
+4	«	«	PUNCT	_	_	6	punct	_	start_char=2707|end_char=2708
+5	принципиальной	принципиальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=2708|end_char=2722
+6	схемы	схема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=2723|end_char=2728
+7	»	»	PUNCT	_	_	6	punct	_	start_char=2728|end_char=2729
+8	,	,	PUNCT	_	_	9	punct	_	start_char=2729|end_char=2730
+9	сделанный	сделать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	start_char=2731|end_char=2740
+10	неумелой	неумелой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=2741|end_char=2749
+11	,	,	PUNCT	_	_	13	punct	_	start_char=2749|end_char=2750
+12	но	но	CCONJ	_	_	13	cc	_	start_char=2751|end_char=2753
+13	старательной	старательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	conj	_	start_char=2754|end_char=2766
+14	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	iobj	_	start_char=2767|end_char=2772
+15	.	.	PUNCT	_	_	2	punct	_	start_char=2772|end_char=2773
+
+# text = Марта подняла глаза на преподавателя, а Микки сразу пошел за материалом.
+# sent_id = 39
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Марта	Март	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2774|end_char=2779
+2	подняла	поднять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2780|end_char=2787
+3	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	start_char=2788|end_char=2793
+4	на	на	ADP	_	_	5	case	_	start_char=2794|end_char=2796
+5	преподавателя	преподаватель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=2797|end_char=2810
+6	,	,	PUNCT	_	_	10	punct	_	start_char=2810|end_char=2811
+7	а	а	CCONJ	_	_	10	cc	_	start_char=2812|end_char=2813
+8	Микки	Микки	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	nsubj	_	start_char=2814|end_char=2819
+9	сразу	сразу	ADV	_	Degree=Pos	10	advmod	_	start_char=2820|end_char=2825
+10	пошел	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2826|end_char=2831
+11	за	за	ADP	_	_	12	case	_	start_char=2832|end_char=2834
+12	материалом	материал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	start_char=2835|end_char=2845
+13	.	.	PUNCT	_	_	2	punct	_	start_char=2845|end_char=2846
+
+# text = – Однажды Мастер собрался привести в наш мир Кроноса, чтобы с его помощью перемешать времена, установить хаос и, пользуясь этим, захватить Землю.
+# sent_id = 40
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2848|end_char=2849
+2	Однажды	однажды	ADV	_	Degree=Pos	4	advmod	_	start_char=2850|end_char=2857
+3	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2858|end_char=2864
+4	собрался	собраться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2865|end_char=2873
+5	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=2874|end_char=2882
+6	в	в	ADP	_	_	8	case	_	start_char=2883|end_char=2884
+7	наш	наш	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=2885|end_char=2888
+8	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=2889|end_char=2892
+9	Кроноса	Кронос	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	8	nmod	_	start_char=2893|end_char=2900
+10	,	,	PUNCT	_	_	15	punct	_	start_char=2900|end_char=2901
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	15	mark	_	start_char=2902|end_char=2907
+12	с	с	ADP	_	_	14	case	_	start_char=2908|end_char=2909
+13	его	его	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=2910|end_char=2913
+14	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	start_char=2914|end_char=2921
+15	перемешать	перемешать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	advcl	_	start_char=2922|end_char=2932
+16	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	15	obj	_	start_char=2933|end_char=2940
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2940|end_char=2941
+18	установить	установить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	conj	_	start_char=2942|end_char=2952
+19	хаос	хаос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	start_char=2953|end_char=2957
+20	и	и	CCONJ	_	_	25	cc	_	start_char=2958|end_char=2959
+21	,	,	PUNCT	_	_	22	punct	_	start_char=2959|end_char=2960
+22	пользуясь	пользуться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	25	advcl	_	start_char=2961|end_char=2970
+23	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	22	iobj	_	start_char=2971|end_char=2975
+24	,	,	PUNCT	_	_	22	punct	_	start_char=2975|end_char=2976
+25	захватить	захватить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	conj	_	start_char=2977|end_char=2986
+26	Землю	Земля	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	25	obj	_	start_char=2987|end_char=2992
+27	.	.	PUNCT	_	_	4	punct	_	start_char=2992|end_char=2993
+
+# text = Его оборудование, созданное на базе одного института, уже работало и приносило плоды.
+# sent_id = 41
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Его	его	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=2994|end_char=2997
+2	оборудование	оборудование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	start_char=2998|end_char=3010
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3010|end_char=3011
+4	созданное	создать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	start_char=3012|end_char=3021
+5	на	на	ADP	_	_	6	case	_	start_char=3022|end_char=3024
+6	базе	база	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=3025|end_char=3029
+7	одного	один	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	8	nummod	_	start_char=3030|end_char=3036
+8	института	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=3037|end_char=3046
+9	,	,	PUNCT	_	_	4	punct	_	start_char=3046|end_char=3047
+10	уже	уже	ADV	_	Degree=Pos	11	advmod	_	start_char=3048|end_char=3051
+11	работало	работать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3052|end_char=3060
+12	и	и	CCONJ	_	_	13	cc	_	start_char=3061|end_char=3062
+13	приносило	приносить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	start_char=3063|end_char=3072
+14	плоды	плод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	start_char=3073|end_char=3078
+15	.	.	PUNCT	_	_	11	punct	_	start_char=3078|end_char=3079
+
+# text = Над дорогой, по которой в тот институт ехали бойцы ЮНИТ, летал самолет времен второй мировой и сбрасывал бомбы, их обстреливали из старинных пушек круглыми ядрами и атаковали конные рыцари.
+# sent_id = 42
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Над	над	ADP	_	_	2	case	_	start_char=3080|end_char=3083
+2	дорогой	дорога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	obl	_	start_char=3084|end_char=3091
+3	,	,	PUNCT	_	_	9	punct	_	start_char=3091|end_char=3092
+4	по	по	ADP	_	_	5	case	_	start_char=3093|end_char=3095
+5	которой	который	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	9	obl	_	start_char=3096|end_char=3103
+6	в	в	ADP	_	_	8	case	_	start_char=3104|end_char=3105
+7	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=3106|end_char=3109
+8	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=3110|end_char=3118
+9	ехали	ехать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=3119|end_char=3124
+10	бойцы	бойца	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	start_char=3125|end_char=3130
+11	ЮНИТ	ЮНИТ	PROPN	_	Abbr=Yes|NameType=Com	10	nmod	_	start_char=3131|end_char=3135
+12	,	,	PUNCT	_	_	9	punct	_	start_char=3135|end_char=3136
+13	летал	летать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3137|end_char=3142
+14	самолет	самолет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=3143|end_char=3150
+15	времен	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	start_char=3151|end_char=3157
+16	второй	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	17	amod	_	start_char=3158|end_char=3164
+17	мировой	мировой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	nmod	_	start_char=3165|end_char=3172
+18	и	и	CCONJ	_	_	19	cc	_	start_char=3173|end_char=3174
+19	сбрасывал	сбрасывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=3175|end_char=3184
+20	бомбы	бомба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	obj	_	start_char=3185|end_char=3190
+21	,	,	PUNCT	_	_	23	punct	_	start_char=3190|end_char=3191
+22	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	23	obj	_	start_char=3192|end_char=3194
+23	обстреливали	обстреливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=3195|end_char=3207
+24	из	из	ADP	_	_	26	case	_	start_char=3208|end_char=3210
+25	старинных	старинный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	start_char=3211|end_char=3220
+26	пушек	пушек	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	obl	_	start_char=3221|end_char=3226
+27	круглыми	круглый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	28	amod	_	start_char=3227|end_char=3235
+28	ядрами	ядра	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	23	iobj	_	start_char=3236|end_char=3242
+29	и	и	CCONJ	_	_	30	cc	_	start_char=3243|end_char=3244
+30	атаковали	атаковать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=3245|end_char=3254
+31	конные	конный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	32	amod	_	start_char=3255|end_char=3261
+32	рыцари	рыцарь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	30	nsubj	_	start_char=3262|end_char=3268
+33	.	.	PUNCT	_	_	13	punct	_	start_char=3268|end_char=3269
+
+# text = Чтобы сбить тонкую настройку прибора Мастера, первый научный консультант ЮНИТа, таймлорд Доктор, построил эту... конструкцию.
+# sent_id = 43
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	2	mark	_	start_char=3270|end_char=3275
+2	сбить	сбить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	advcl	_	start_char=3276|end_char=3281
+3	тонкую	тонкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=3282|end_char=3288
+4	настройку	настройка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=3289|end_char=3298
+5	прибора	прибор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=3299|end_char=3306
+6	Мастера	мастер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=3307|end_char=3314
+7	,	,	PUNCT	_	_	2	punct	_	start_char=3314|end_char=3315
+8	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	10	amod	_	start_char=3316|end_char=3322
+9	научный	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=3323|end_char=3330
+10	консультант	консультант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	start_char=3331|end_char=3342
+11	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	10	nmod	_	start_char=3343|end_char=3348
+12	,	,	PUNCT	_	_	13	punct	_	start_char=3348|end_char=3349
+13	таймлорд	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	conj	_	start_char=3350|end_char=3358
+14	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	appos	_	start_char=3359|end_char=3365
+15	,	,	PUNCT	_	_	13	punct	_	start_char=3365|end_char=3366
+16	построил	построить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3367|end_char=3375
+17	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	start_char=3376|end_char=3379
+18	...	...	PUNCT	_	_	19	punct	_	start_char=3379|end_char=3382
+19	конструкцию	конструкция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	start_char=3383|end_char=3394
+20	.	.	PUNCT	_	_	16	punct	_	start_char=3394|end_char=3395
+
+# text = Ее описание и чертеж были составлены по рассказам очевидцев, сотрудников ЮНИТа, и пары случайно попавших в эту заварушку гражданских ученых.
+# sent_id = 44
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Ее	она	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=3396|end_char=3398
+2	описание	описание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	start_char=3399|end_char=3407
+3	и	и	CCONJ	_	_	4	cc	_	start_char=3408|end_char=3409
+4	чертеж	чертеж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=3410|end_char=3416
+5	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	start_char=3417|end_char=3421
+6	составлены	составить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=3422|end_char=3432
+7	по	по	ADP	_	_	8	case	_	start_char=3433|end_char=3435
+8	рассказам	рассказам	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	6	obl	_	start_char=3436|end_char=3445
+9	очевидцев	очевидец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	start_char=3446|end_char=3455
+10	,	,	PUNCT	_	_	11	punct	_	start_char=3455|end_char=3456
+11	сотрудников	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	start_char=3457|end_char=3468
+12	ЮНИТа	ЮНИТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Com|Number=Sing	11	nmod	_	start_char=3469|end_char=3474
+13	,	,	PUNCT	_	_	15	punct	_	start_char=3474|end_char=3475
+14	и	и	CCONJ	_	_	15	cc	_	start_char=3476|end_char=3477
+15	пары	пара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	start_char=3478|end_char=3482
+16	случайно	случайно	ADV	_	Degree=Pos	17	advmod	_	start_char=3483|end_char=3491
+17	попавших	попасть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	15	acl	_	start_char=3492|end_char=3500
+18	в	в	ADP	_	_	20	case	_	start_char=3501|end_char=3502
+19	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	start_char=3503|end_char=3506
+20	заварушку	заварушка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	start_char=3507|end_char=3516
+21	гражданских	гражданский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	start_char=3517|end_char=3528
+22	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	start_char=3529|end_char=3535
+23	.	.	PUNCT	_	_	6	punct	_	start_char=3535|end_char=3536
+
+# text = Микки вернулся с хламом, который через несколько минут должен будет стать прибором, действующим по технологиям и принципам, еще недоступным пониманию людей.
+# sent_id = 45
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Микки	Микки	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=3538|end_char=3543
+2	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3544|end_char=3552
+3	с	с	ADP	_	_	4	case	_	start_char=3553|end_char=3554
+4	хламом	хлам	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	start_char=3555|end_char=3561
+5	,	,	PUNCT	_	_	10	punct	_	start_char=3561|end_char=3562
+6	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	start_char=3563|end_char=3570
+7	через	через	ADP	_	_	9	case	_	start_char=3571|end_char=3576
+8	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	9	nummod:gov	_	start_char=3577|end_char=3586
+9	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	obl	_	start_char=3587|end_char=3592
+10	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	acl:relcl	_	start_char=3593|end_char=3599
+11	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	start_char=3600|end_char=3605
+12	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=3606|end_char=3611
+13	прибором	прибор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	xcomp	_	start_char=3612|end_char=3620
+14	,	,	PUNCT	_	_	15	punct	_	start_char=3620|end_char=3621
+15	действующим	действовать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	start_char=3622|end_char=3633
+16	по	по	ADP	_	_	17	case	_	start_char=3634|end_char=3636
+17	технологиям	технология	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	15	obl	_	start_char=3637|end_char=3648
+18	и	и	CCONJ	_	_	19	cc	_	start_char=3649|end_char=3650
+19	принципам	принцип	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	17	conj	_	start_char=3651|end_char=3660
+20	,	,	PUNCT	_	_	23	punct	_	start_char=3660|end_char=3661
+21	еще	еще	ADV	_	Degree=Pos	22	advmod	_	start_char=3662|end_char=3665
+22	недоступным	недоступный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	start_char=3666|end_char=3677
+23	пониманию	понимание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	conj	_	start_char=3678|end_char=3687
+24	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	start_char=3688|end_char=3693
+25	.	.	PUNCT	_	_	2	punct	_	start_char=3693|end_char=3694
+
+# text = – Бутылки дали уже пустые.
+# sent_id = 46
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3696|end_char=3697
+2	Бутылки	бутылка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=3698|end_char=3705
+3	дали	дать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3706|end_char=3710
+4	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=3711|end_char=3714
+5	пустые	пустой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	obj	_	start_char=3715|end_char=3721
+6	.	.	PUNCT	_	_	3	punct	_	start_char=3721|end_char=3722
+
+# text = А вдруг надо было сначала брать полные, и чтобы пробочка была еще мокрая? – вполголоса пошутил он, сгружая добычу.
+# sent_id = 47
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	А	а	CCONJ	_	_	3	cc	_	start_char=3723|end_char=3724
+2	вдруг	вдруг	ADV	_	Degree=Pos	3	advmod	_	start_char=3725|end_char=3730
+3	надо	надо	VERB	_	_	0	root	_	start_char=3731|end_char=3735
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=3736|end_char=3740
+5	сначала	сначала	ADV	_	Degree=Pos	6	advmod	_	start_char=3741|end_char=3748
+6	брать	брать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=3749|end_char=3754
+7	полные	полный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	obj	_	start_char=3755|end_char=3761
+8	,	,	PUNCT	_	_	14	punct	_	start_char=3761|end_char=3762
+9	и	и	CCONJ	_	_	14	cc	_	start_char=3763|end_char=3764
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	14	mark	_	start_char=3765|end_char=3770
+11	пробочка	пробочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=3771|end_char=3779
+12	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=3780|end_char=3784
+13	еще	еще	ADV	_	Degree=Pos	14	advmod	_	start_char=3785|end_char=3788
+14	мокрая	мокрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	advcl	_	start_char=3789|end_char=3795
+15	?	?	PUNCT	_	_	14	punct	_	start_char=3795|end_char=3796
+16	–	–	PUNCT	_	_	18	punct	_	start_char=3797|end_char=3798
+17	вполголоса	вполголоса	ADV	_	Degree=Pos	18	advmod	_	start_char=3799|end_char=3809
+18	пошутил	пошутить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3810|end_char=3817
+19	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=3818|end_char=3820
+20	,	,	PUNCT	_	_	21	punct	_	start_char=3820|end_char=3821
+21	сгружая	сгружать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	18	advcl	_	start_char=3822|end_char=3829
+22	добычу	добыча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	start_char=3830|end_char=3836
+23	.	.	PUNCT	_	_	3	punct	_	start_char=3836|end_char=3837
+
+# text = Марта взяла чертеж.
+# sent_id = 48
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Марта	марта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=3839|end_char=3844
+2	взяла	взять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3845|end_char=3850
+3	чертеж	чертеж	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=3851|end_char=3857
+4	.	.	PUNCT	_	_	2	punct	_	start_char=3857|end_char=3858
+
+# text = – Такое трясущимися руками не соберешь!
+# sent_id = 49
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3860|end_char=3861
+2	Такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	start_char=3862|end_char=3867
+3	трясущимися	трясущимисяся	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	start_char=3868|end_char=3879
+4	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	iobj	_	start_char=3880|end_char=3886
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=3887|end_char=3889
+6	соберешь	собереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=3890|end_char=3898
+7	!	!	PUNCT	_	_	6	punct	_	start_char=3898|end_char=3899
+
+# text = Так, первая часть – бутылка...
+# sent_id = 50
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	6	parataxis	_	start_char=3900|end_char=3903
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3903|end_char=3904
+3	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	4	amod	_	start_char=3905|end_char=3911
+4	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=3912|end_char=3917
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3918|end_char=3919
+6	бутылка	бутылка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3920|end_char=3927
+7	...	...	PUNCT	_	_	6	punct	_	start_char=3927|end_char=3930
+
+# text = Микки, а связка ключей?
+# sent_id = 51
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Микки	Микки	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=3931|end_char=3936
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3936|end_char=3937
+3	а	а	CCONJ	_	_	4	cc	_	start_char=3938|end_char=3939
+4	связка	связка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	start_char=3940|end_char=3946
+5	ключей	ключ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	start_char=3947|end_char=3953
+6	?	?	PUNCT	_	_	1	punct	_	start_char=3953|end_char=3954
+
+# text = – Там не было.
+# sent_id = 52
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3956|end_char=3957
+2	Там	там	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=3958|end_char=3961
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3962|end_char=3964
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3965|end_char=3969
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3969|end_char=3970
+
+# text = Возьми мои, – он протянул жене свои самые обычные ключи от дома и почтового ящика.
+# sent_id = 53
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Возьми	взять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3971|end_char=3977
+2	мои	мой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	1	obj	_	start_char=3978|end_char=3981
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3981|end_char=3982
+4	–	–	PUNCT	_	_	6	punct	_	start_char=3983|end_char=3984
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3985|end_char=3987
+6	протянул	протянуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=3988|end_char=3996
+7	жене	жена	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	start_char=3997|end_char=4001
+8	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	start_char=4002|end_char=4006
+9	самые	самый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Emp	10	det	_	start_char=4007|end_char=4012
+10	обычные	обычный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	start_char=4013|end_char=4020
+11	ключи	ключ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	start_char=4021|end_char=4026
+12	от	от	ADP	_	_	13	case	_	start_char=4027|end_char=4029
+13	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	start_char=4030|end_char=4034
+14	и	и	CCONJ	_	_	16	cc	_	start_char=4035|end_char=4036
+15	почтового	почтовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=4037|end_char=4046
+16	ящика	ящика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	conj	_	start_char=4047|end_char=4052
+17	.	.	PUNCT	_	_	1	punct	_	start_char=4052|end_char=4053
+
+# text = Сооружение вышло очень шатким и грозило обвалиться от малейшего движения.
+# sent_id = 54
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Сооружение	сооружение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=4055|end_char=4065
+2	вышло	выйти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4066|end_char=4071
+3	очень	очень	ADV	_	Degree=Pos	4	advmod	_	start_char=4072|end_char=4077
+4	шатким	шаткий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	xcomp	_	start_char=4078|end_char=4084
+5	и	и	CCONJ	_	_	6	cc	_	start_char=4085|end_char=4086
+6	грозило	грозить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4087|end_char=4094
+7	обвалиться	обвалиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	xcomp	_	start_char=4095|end_char=4105
+8	от	от	ADP	_	_	10	case	_	start_char=4106|end_char=4108
+9	малейшего	малейший	ADJ	_	Case=Gen|Degree=Sup|Gender=Neut|Number=Sing	10	amod	_	start_char=4109|end_char=4118
+10	движения	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	start_char=4119|end_char=4127
+11	.	.	PUNCT	_	_	2	punct	_	start_char=4127|end_char=4128
+
+# text = – Да, а какой у него радиус действия? – спохватился Микки.
+# sent_id = 55
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4130|end_char=4131
+2	Да	да	PART	_	_	0	root	_	start_char=4132|end_char=4134
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4134|end_char=4135
+4	а	а	CCONJ	_	_	5	cc	_	start_char=4136|end_char=4137
+5	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	conj	_	start_char=4138|end_char=4143
+6	у	у	ADP	_	_	7	case	_	start_char=4144|end_char=4145
+7	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=4146|end_char=4150
+8	радиус	радиус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=4151|end_char=4157
+9	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=4158|end_char=4166
+10	?	?	PUNCT	_	_	5	punct	_	start_char=4166|end_char=4167
+11	–	–	PUNCT	_	_	12	punct	_	start_char=4168|end_char=4169
+12	спохватился	спохватиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=4170|end_char=4181
+13	Микки	Микки	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	12	nsubj	_	start_char=4182|end_char=4187
+14	.	.	PUNCT	_	_	2	punct	_	start_char=4187|end_char=4188
+
+# text = – Я слышу правильный вопрос!
+# sent_id = 56
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4190|end_char=4191
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4192|end_char=4193
+3	слышу	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4194|end_char=4199
+4	правильный	правильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=4200|end_char=4210
+5	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=4211|end_char=4217
+6	!	!	PUNCT	_	_	3	punct	_	start_char=4217|end_char=4218
+
+# text = – обрадовался преподаватель.
+# sent_id = 57
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4219|end_char=4220
+2	обрадовался	обрадоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4221|end_char=4232
+3	преподаватель	преподаватель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4233|end_char=4246
+4	.	.	PUNCT	_	_	2	punct	_	start_char=4246|end_char=4247
+
+# text = – Это неизвестно в точности.
+# sent_id = 58
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4248|end_char=4249
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=4250|end_char=4253
+3	неизвестно	неизвестный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4254|end_char=4264
+4	в	в	ADP	_	_	5	case	_	start_char=4265|end_char=4266
+5	точности	точность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=4267|end_char=4275
+6	.	.	PUNCT	_	_	3	punct	_	start_char=4275|end_char=4276
+
+# text = От дома, где собирали первый прибор, до института было не больше пары миль.
+# sent_id = 59
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	От	от	ADP	_	_	2	case	_	start_char=4277|end_char=4279
+2	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=4280|end_char=4284
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4284|end_char=4285
+4	где	где	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=4286|end_char=4289
+5	собирали	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=4290|end_char=4298
+6	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	7	amod	_	start_char=4299|end_char=4305
+7	прибор	прибор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=4306|end_char=4312
+8	,	,	PUNCT	_	_	5	punct	_	start_char=4312|end_char=4313
+9	до	до	ADP	_	_	10	case	_	start_char=4314|end_char=4316
+10	института	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=4317|end_char=4326
+11	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=4327|end_char=4331
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=4332|end_char=4334
+13	больше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	0	root	_	start_char=4335|end_char=4341
+14	пары	пара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nsubj	_	start_char=4342|end_char=4346
+15	миль	миль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	start_char=4347|end_char=4351
+16	.	.	PUNCT	_	_	13	punct	_	start_char=4351|end_char=4352
+
+# text = Я рекомендую ориентироваться на эту цифру.
+# sent_id = 60
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=4353|end_char=4354
+2	рекомендую	рекомендовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4355|end_char=4365
+3	ориентироваться	ориентироваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=4366|end_char=4381
+4	на	на	ADP	_	_	6	case	_	start_char=4382|end_char=4384
+5	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=4385|end_char=4388
+6	цифру	цифра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=4389|end_char=4394
+7	.	.	PUNCT	_	_	2	punct	_	start_char=4394|end_char=4395
+
+# text = – Оно... оно вращается! – ахнула Марта, наконец пристроившая последнюю деталь.
+# sent_id = 61
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4397|end_char=4398
+2	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=4399|end_char=4402
+3	...	...	PUNCT	_	_	5	punct	_	start_char=4402|end_char=4405
+4	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4406|end_char=4409
+5	вращается	вращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=4410|end_char=4419
+6	!	!	PUNCT	_	_	5	punct	_	start_char=4419|end_char=4420
+7	–	–	PUNCT	_	_	8	punct	_	start_char=4421|end_char=4422
+8	ахнула	ахнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=4423|end_char=4429
+9	Марта	Март	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	nsubj	_	start_char=4430|end_char=4435
+10	,	,	PUNCT	_	_	12	punct	_	start_char=4435|end_char=4436
+11	наконец	наконец	ADV	_	Degree=Pos	12	advmod	_	start_char=4437|end_char=4444
+12	пристроившая	пристроить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	start_char=4445|end_char=4457
+13	последнюю	последний	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=4458|end_char=4467
+14	деталь	деталь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=4468|end_char=4474
+15	.	.	PUNCT	_	_	2	punct	_	start_char=4474|end_char=4475
+
+# text = – Да, оно вращается.
+# sent_id = 62
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4477|end_char=4478
+2	Да	да	PART	_	_	5	parataxis	_	start_char=4479|end_char=4481
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4481|end_char=4482
+4	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4483|end_char=4486
+5	вращается	вращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4487|end_char=4496
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4496|end_char=4497
+
+# text = Как и почему – мы все еще не знаем.
+# sent_id = 63
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	9	advmod	_	start_char=4498|end_char=4501
+2	и	и	PART	_	_	3	advmod	_	start_char=4502|end_char=4503
+3	почему	почему	ADV	_	Degree=Pos|PronType=Rel	9	advmod	_	start_char=4504|end_char=4510
+4	–	–	PUNCT	_	_	3	punct	_	start_char=4511|end_char=4512
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=4513|end_char=4515
+6	все	всё	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	start_char=4516|end_char=4519
+7	еще	еще	ADV	_	Degree=Pos	6	fixed	_	start_char=4520|end_char=4523
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=4524|end_char=4526
+9	знаем	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4527|end_char=4532
+10	.	.	PUNCT	_	_	9	punct	_	start_char=4532|end_char=4533
+
+# text = Осторожно, осторожно, делайте свои!
+# sent_id = 64
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Осторожно	осторожно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4534|end_char=4543
+2	,	,	PUNCT	_	_	3	punct	_	start_char=4543|end_char=4544
+3	осторожно	осторожно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	conj	_	start_char=4545|end_char=4554
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4554|end_char=4555
+5	делайте	делать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	start_char=4556|end_char=4563
+6	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	5	obj	_	start_char=4564|end_char=4568
+7	!	!	PUNCT	_	_	1	punct	_	start_char=4568|end_char=4569
+
+# text = – постарался учитель усадить на место тех, у кого прибор еще не был собран, но которые рванули посмотреть на работающее чудо.
+# sent_id = 65
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4570|end_char=4571
+2	постарался	постараться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4572|end_char=4582
+3	учитель	учитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4583|end_char=4590
+4	усадить	усадить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=4591|end_char=4598
+5	на	на	ADP	_	_	6	case	_	start_char=4599|end_char=4601
+6	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	start_char=4602|end_char=4607
+7	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	6	nmod	_	start_char=4608|end_char=4611
+8	,	,	PUNCT	_	_	15	punct	_	start_char=4611|end_char=4612
+9	у	у	ADP	_	_	10	case	_	start_char=4613|end_char=4614
+10	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	15	obl	_	start_char=4615|end_char=4619
+11	прибор	прибор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj:pass	_	start_char=4620|end_char=4626
+12	еще	еще	ADV	_	Degree=Pos	13	advmod	_	start_char=4627|end_char=4630
+13	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=4631|end_char=4633
+14	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	aux:pass	_	start_char=4634|end_char=4637
+15	собран	собрать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	acl:relcl	_	start_char=4638|end_char=4644
+16	,	,	PUNCT	_	_	19	punct	_	start_char=4644|end_char=4645
+17	но	но	CCONJ	_	_	19	cc	_	start_char=4646|end_char=4648
+18	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	19	nsubj	_	start_char=4649|end_char=4656
+19	рванули	рвануть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	start_char=4657|end_char=4664
+20	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	start_char=4665|end_char=4675
+21	на	на	ADP	_	_	23	case	_	start_char=4676|end_char=4678
+22	работающее	работать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	23	amod	_	start_char=4679|end_char=4689
+23	чудо	чудо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obl	_	start_char=4690|end_char=4694
+24	.	.	PUNCT	_	_	2	punct	_	start_char=4694|end_char=4695
+
+# text = – Поздравляю, миссис Смит, честно говоря, не у всех получается добиться видимого эффекта...
+# sent_id = 66
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4696|end_char=4697
+2	Поздравляю	поздравлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4698|end_char=4708
+3	,	,	PUNCT	_	_	13	punct	_	start_char=4708|end_char=4709
+4	миссис	миссис	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=4710|end_char=4716
+5	Смит	Смит	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	start_char=4717|end_char=4721
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4721|end_char=4722
+7	честно	честно	ADV	_	Degree=Pos	8	advmod	_	start_char=4723|end_char=4729
+8	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	parataxis	_	start_char=4730|end_char=4736
+9	,	,	PUNCT	_	_	8	punct	_	start_char=4736|end_char=4737
+10	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=4738|end_char=4740
+11	у	у	ADP	_	_	12	case	_	start_char=4741|end_char=4742
+12	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|PronType=Tot	13	obl	_	start_char=4743|end_char=4747
+13	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=4748|end_char=4758
+14	добиться	добиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	13	csubj	_	start_char=4759|end_char=4767
+15	видимого	видимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=4768|end_char=4776
+16	эффекта	эффект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	obj	_	start_char=4777|end_char=4784
+17	...	...	PUNCT	_	_	2	punct	_	start_char=4784|end_char=4787
+
+# text = Пара почти собранных приборов рассыпались, еще один тоже начал чуть светиться и едва заметно повернул вилку по кругу.
+# sent_id = 67
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Пара	пара	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=4789|end_char=4793
+2	почти	почти	ADV	_	Degree=Pos	3	advmod	_	start_char=4794|end_char=4799
+3	собранных	собрать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	start_char=4800|end_char=4809
+4	приборов	прибор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	start_char=4810|end_char=4818
+5	рассыпались	рассыпаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4819|end_char=4830
+6	,	,	PUNCT	_	_	10	punct	_	start_char=4830|end_char=4831
+7	еще	еще	ADV	_	Degree=Pos	8	advmod	_	start_char=4832|end_char=4835
+8	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	start_char=4836|end_char=4840
+9	тоже	тоже	PART	_	_	10	advmod	_	start_char=4841|end_char=4845
+10	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=4846|end_char=4851
+11	чуть	чуть	ADV	_	Degree=Pos	12	advmod	_	start_char=4852|end_char=4856
+12	светиться	светиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	xcomp	_	start_char=4857|end_char=4866
+13	и	и	CCONJ	_	_	16	cc	_	start_char=4867|end_char=4868
+14	едва	едва	ADV	_	Degree=Pos	15	advmod	_	start_char=4869|end_char=4873
+15	заметно	заметно	ADV	_	Degree=Pos	16	advmod	_	start_char=4874|end_char=4881
+16	повернул	повернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=4882|end_char=4890
+17	вилку	вилка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	start_char=4891|end_char=4896
+18	по	по	ADP	_	_	19	case	_	start_char=4897|end_char=4899
+19	кругу	круг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	16	obl	_	start_char=4900|end_char=4905
+20	.	.	PUNCT	_	_	5	punct	_	start_char=4905|end_char=4906
+
+# text = – А два и больше приборов создадут кумулятивный эффект? – продолжал вникать в технические детали Микки.
+# sent_id = 68
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	7	punct	_	start_char=4908|end_char=4909
+2	А	а	CCONJ	_	_	7	cc	_	start_char=4910|end_char=4911
+3	два	два	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	6	nummod:gov	_	start_char=4912|end_char=4915
+4	и	и	CCONJ	_	_	5	cc	_	start_char=4916|end_char=4917
+5	больше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	3	nmod	_	start_char=4918|end_char=4924
+6	приборов	прибор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nsubj	_	start_char=4925|end_char=4933
+7	создадут	создать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4934|end_char=4942
+8	кумулятивный	кумулятивный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=4943|end_char=4955
+9	эффект	эффект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=4956|end_char=4962
+10	?	?	PUNCT	_	_	7	punct	_	start_char=4962|end_char=4963
+11	–	–	PUNCT	_	_	12	punct	_	start_char=4964|end_char=4965
+12	продолжал	продолжать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=4966|end_char=4975
+13	вникать	вникать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=4976|end_char=4983
+14	в	в	ADP	_	_	16	case	_	start_char=4984|end_char=4985
+15	технические	технический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	amod	_	start_char=4986|end_char=4997
+16	детали	деталь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obl	_	start_char=4998|end_char=5004
+17	Микки	Микки	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	16	nmod	_	start_char=5005|end_char=5010
+18	.	.	PUNCT	_	_	7	punct	_	start_char=5010|end_char=5011
+
+# text = – Это нам неизвестно, – признал преподаватель.
+# sent_id = 69
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	4	punct	_	start_char=5013|end_char=5014
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=5015|end_char=5018
+3	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	iobj	_	start_char=5019|end_char=5022
+4	неизвестно	неизвестный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=5023|end_char=5033
+5	,	,	PUNCT	_	_	7	punct	_	start_char=5033|end_char=5034
+6	–	–	PUNCT	_	_	7	punct	_	start_char=5035|end_char=5036
+7	признал	признать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=5037|end_char=5044
+8	преподаватель	преподаватель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=5045|end_char=5058
+9	.	.	PUNCT	_	_	4	punct	_	start_char=5058|end_char=5059
+
+# text = – Поблизости нет ни одного устройства, связанного с манипуляцией временем, чтобы на нем можно было это проверить...
+# sent_id = 70
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	3	punct	_	start_char=5060|end_char=5061
+2	Поблизости	поблизости	ADV	_	Degree=Pos	3	advmod	_	start_char=5062|end_char=5072
+3	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=5073|end_char=5076
+4	ни	ни	PART	_	Polarity=Neg	5	advmod	_	start_char=5077|end_char=5079
+5	одного	один	NUM	_	Case=Gen|Gender=Neut|NumForm=Word|NumType=Card|Number=Sing	6	nummod	_	start_char=5080|end_char=5086
+6	устройства	устройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nsubj	_	start_char=5087|end_char=5097
+7	,	,	PUNCT	_	_	8	punct	_	start_char=5097|end_char=5098
+8	связанного	связать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	start_char=5099|end_char=5109
+9	с	с	ADP	_	_	10	case	_	start_char=5110|end_char=5111
+10	манипуляцией	манипуляция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	start_char=5112|end_char=5124
+11	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	nmod	_	start_char=5125|end_char=5133
+12	,	,	PUNCT	_	_	16	punct	_	start_char=5133|end_char=5134
+13	чтобы	чтобы	SCONJ	_	Mood=Cnd	16	mark	_	start_char=5135|end_char=5140
+14	на	на	ADP	_	_	15	case	_	start_char=5141|end_char=5143
+15	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=5144|end_char=5147
+16	можно	можно	VERB	_	_	3	advcl	_	start_char=5148|end_char=5153
+17	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	start_char=5154|end_char=5158
+18	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	19	obj	_	start_char=5159|end_char=5162
+19	проверить	проверить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	csubj	_	start_char=5163|end_char=5172
+20	...	...	PUNCT	_	_	3	punct	_	start_char=5172|end_char=5175
+
+# text = Синяя будка медленно дрейфовала на орбите
+# sent_id = 71
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Синяя	синий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=5178|end_char=5183
+2	будка	будка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=5184|end_char=5189
+3	медленно	медленно	ADV	_	Degree=Pos	4	advmod	_	start_char=5190|end_char=5198
+4	дрейфовала	дрейфовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5199|end_char=5209
+5	на	на	ADP	_	_	6	case	_	start_char=5210|end_char=5212
+6	орбите	орбита	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=5213|end_char=5219
+
+# text = Луны по краю вихревой воронки.
+# sent_id = 72
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Луны	луна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=5220|end_char=5224
+2	по	по	ADP	_	_	3	case	_	start_char=5225|end_char=5227
+3	краю	край	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	start_char=5228|end_char=5232
+4	вихревой	вихревой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=5233|end_char=5241
+5	воронки	воронок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=5242|end_char=5249
+6	.	.	PUNCT	_	_	1	punct	_	start_char=5249|end_char=5250
+
+# text = Доктор в очередной раз менялся, и ТАРДИС хотела ему помочь, облегчить процесс, изменившись вместе с ним, подстроившись под нового Доктора, но так, чтобы все эти пожары и рущащиеся колонны не причинили ему вреда.
+# sent_id = 73
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=5251|end_char=5257
+2	в	в	ADP	_	_	4	case	_	start_char=5258|end_char=5259
+3	очередной	очередной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=5260|end_char=5269
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=5270|end_char=5273
+5	менялся	меняться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5274|end_char=5281
+6	,	,	PUNCT	_	_	9	punct	_	start_char=5281|end_char=5282
+7	и	и	CCONJ	_	_	9	cc	_	start_char=5283|end_char=5284
+8	ТАРДИС	ТАРДИС	PROPN	_	NameType=Giv	9	nsubj	_	start_char=5285|end_char=5291
+9	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=5292|end_char=5298
+10	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	start_char=5299|end_char=5302
+11	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=5303|end_char=5309
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5309|end_char=5310
+13	облегчить	облегчить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	conj	_	start_char=5311|end_char=5320
+14	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	start_char=5321|end_char=5328
+15	,	,	PUNCT	_	_	16	punct	_	start_char=5328|end_char=5329
+16	изменившись	измениться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	11	advcl	_	start_char=5330|end_char=5341
+17	вместе	вместе	ADV	_	Degree=Pos	16	advmod	_	start_char=5342|end_char=5348
+18	с	с	ADP	_	_	19	case	_	start_char=5349|end_char=5350
+19	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	start_char=5351|end_char=5354
+20	,	,	PUNCT	_	_	21	punct	_	start_char=5354|end_char=5355
+21	подстроившись	подстроиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	16	conj	_	start_char=5356|end_char=5369
+22	под	под	ADP	_	_	24	case	_	start_char=5370|end_char=5373
+23	нового	новый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=5374|end_char=5380
+24	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	21	obl	_	start_char=5381|end_char=5388
+25	,	,	PUNCT	_	_	27	punct	_	start_char=5388|end_char=5389
+26	но	но	CCONJ	_	_	27	cc	_	start_char=5390|end_char=5392
+27	так	так	ADV	_	Degree=Pos|PronType=Dem	21	advmod	_	start_char=5393|end_char=5396
+28	,	,	PUNCT	_	_	37	punct	_	start_char=5396|end_char=5397
+29	чтобы	чтобы	SCONJ	_	Mood=Cnd	37	mark	_	start_char=5398|end_char=5403
+30	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	32	det	_	start_char=5404|end_char=5407
+31	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	32	det	_	start_char=5408|end_char=5411
+32	пожары	пожар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	37	nsubj	_	start_char=5412|end_char=5418
+33	и	и	CCONJ	_	_	35	cc	_	start_char=5419|end_char=5420
+34	рущащиеся	рущаться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	35	amod	_	start_char=5421|end_char=5430
+35	колонны	колонна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	32	conj	_	start_char=5431|end_char=5438
+36	не	не	PART	_	Polarity=Neg	37	advmod	_	start_char=5439|end_char=5441
+37	причинили	причинить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	27	acl	_	start_char=5442|end_char=5451
+38	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	iobj	_	start_char=5452|end_char=5455
+39	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	obj	_	start_char=5456|end_char=5461
+40	.	.	PUNCT	_	_	5	punct	_	start_char=5461|end_char=5462
+
+# text = Все ее силы уходили на слияние с ее любимым вором, поэтому даже слабый внешний импульс, который раньше прошел бы совершенно незаметно для нее, кинул ее во вращение, столкнул с места и в пространстве, и во времени.
+# sent_id = 74
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	_	start_char=5463|end_char=5466
+2	ее	ее	DET	_	Poss=Yes|PronType=Prs	3	det	_	start_char=5467|end_char=5469
+3	силы	сила	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	start_char=5470|end_char=5474
+4	уходили	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5475|end_char=5482
+5	на	на	ADP	_	_	6	case	_	start_char=5483|end_char=5485
+6	слияние	слияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	start_char=5486|end_char=5493
+7	с	с	ADP	_	_	10	case	_	start_char=5494|end_char=5495
+8	ее	ее	DET	_	Poss=Yes|PronType=Prs	10	det	_	start_char=5496|end_char=5498
+9	любимым	любимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=5499|end_char=5506
+10	вором	вор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	start_char=5507|end_char=5512
+11	,	,	PUNCT	_	_	16	punct	_	start_char=5512|end_char=5513
+12	поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=5514|end_char=5521
+13	даже	даже	PART	_	_	14	advmod	_	start_char=5522|end_char=5526
+14	слабый	слабый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=5527|end_char=5533
+15	внешний	внешний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=5534|end_char=5541
+16	импульс	импульс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	start_char=5542|end_char=5549
+17	,	,	PUNCT	_	_	20	punct	_	start_char=5549|end_char=5550
+18	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	start_char=5551|end_char=5558
+19	раньше	раньше	ADV	_	Degree=Cmp	20	advmod	_	start_char=5559|end_char=5565
+20	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	acl:relcl	_	start_char=5566|end_char=5572
+21	бы	бы	AUX	_	Mood=Cnd	20	aux	_	start_char=5573|end_char=5575
+22	совершенно	совершенно	ADV	_	Degree=Pos	23	advmod	_	start_char=5576|end_char=5586
+23	незаметно	незаметно	ADV	_	Degree=Pos	20	advmod	_	start_char=5587|end_char=5596
+24	для	для	ADP	_	_	25	case	_	start_char=5597|end_char=5600
+25	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obl	_	start_char=5601|end_char=5604
+26	,	,	PUNCT	_	_	27	punct	_	start_char=5604|end_char=5605
+27	кинул	кинуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=5606|end_char=5611
+28	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=5612|end_char=5614
+29	во	во	ADP	_	_	30	case	_	start_char=5615|end_char=5617
+30	вращение	вращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	obl	_	start_char=5618|end_char=5626
+31	,	,	PUNCT	_	_	32	punct	_	start_char=5626|end_char=5627
+32	столкнул	столкнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=5628|end_char=5636
+33	с	с	ADP	_	_	34	case	_	start_char=5637|end_char=5638
+34	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	obl	_	start_char=5639|end_char=5644
+35	и	и	CCONJ	_	_	37	cc	_	start_char=5645|end_char=5646
+36	в	в	ADP	_	_	37	case	_	start_char=5647|end_char=5648
+37	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	34	conj	_	start_char=5649|end_char=5661
+38	,	,	PUNCT	_	_	41	punct	_	start_char=5661|end_char=5662
+39	и	и	CCONJ	_	_	41	cc	_	start_char=5663|end_char=5664
+40	во	во	ADP	_	_	41	case	_	start_char=5665|end_char=5667
+41	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	34	conj	_	start_char=5668|end_char=5675
+42	.	.	PUNCT	_	_	4	punct	_	start_char=5675|end_char=5676
+
+# text = – Ноги!
+# sent_id = 75
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	–	–	PUNCT	_	_	2	punct	_	start_char=5678|end_char=5679
+2	Ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=5680|end_char=5684
+3	!	!	PUNCT	_	_	2	punct	_	start_char=5684|end_char=5685
+
+# text = У меня все еще есть ноги, это хорошо.
+# sent_id = 76
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	У	у	ADP	_	_	2	case	_	start_char=5686|end_char=5687
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=5688|end_char=5692
+3	все	всё	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=5693|end_char=5696
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=5697|end_char=5700
+5	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5701|end_char=5705
+6	ноги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=5706|end_char=5710
+7	,	,	PUNCT	_	_	9	punct	_	start_char=5710|end_char=5711
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=5712|end_char=5715
+9	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	start_char=5716|end_char=5722
+10	.	.	PUNCT	_	_	5	punct	_	start_char=5722|end_char=5723
+
+# text = Руки!
+# sent_id = 77
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Руки	рука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=5724|end_char=5728
+2	!	!	PUNCT	_	_	1	punct	_	start_char=5728|end_char=5729
+
+# text = И много-много пальцев!
+# sent_id = 78
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	И	и	CCONJ	_	_	2	cc	_	start_char=5730|end_char=5731
+2	много-много	много-много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=5732|end_char=5743
+3	пальцев	палец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	start_char=5744|end_char=5751
+4	!	!	PUNCT	_	_	2	punct	_	start_char=5751|end_char=5752
+
+# text = И все еще не рыжий...
+# sent_id = 79
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	И	и	CCONJ	_	_	5	cc	_	start_char=5753|end_char=5754
+2	все	всё	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=5755|end_char=5758
+3	еще	еще	ADV	_	Degree=Pos	2	fixed	_	start_char=5759|end_char=5762
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=5763|end_char=5765
+5	рыжий	рыжий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=5766|end_char=5771
+6	...	...	PUNCT	_	_	5	punct	_	start_char=5771|end_char=5774
+
+# text = И что-то важное...
+# sent_id = 80
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	И	и	CCONJ	_	_	2	cc	_	start_char=5775|end_char=5776
+2	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	start_char=5777|end_char=5783
+3	важное	важный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=5784|end_char=5790
+4	...	...	PUNCT	_	_	2	punct	_	start_char=5790|end_char=5793
+
+# text = Я... я... я-я-я-я – ха-ха!
+# sent_id = 81
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=5794|end_char=5795
+2	...	...	PUNCT	_	_	1	punct	_	start_char=5795|end_char=5798
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	start_char=5799|end_char=5800
+4	...	...	PUNCT	_	_	5	punct	_	start_char=5800|end_char=5803
+5	я-я-я-я	я-я-я-я	INTJ	_	_	3	discourse	_	start_char=5804|end_char=5811
+6	–	–	PUNCT	_	_	7	punct	_	start_char=5812|end_char=5813
+7	ха-ха	ха-ха	INTJ	_	_	5	discourse	_	start_char=5814|end_char=5819
+8	!	!	PUNCT	_	_	1	punct	_	start_char=5819|end_char=5820
+
+# text = Падаю!
+# sent_id = 82
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Падаю	падать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=5821|end_char=5826
+2	!	!	PUNCT	_	_	1	punct	_	start_char=5826|end_char=5827
+
+# text = У-ху-ху!
+# sent_id = 83
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	У-ху-ху	у-ху-ху	INTJ	_	_	0	root	_	start_char=5828|end_char=5835
+2	!	!	PUNCT	_	_	1	punct	_	start_char=5835|end_char=5836
+
+# text = Джеронимо!
+# sent_id = 84
+# metadata = Название: Радиус действия, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/546537d100000a7d1869c8fb/1/Radius-dejstviya
+1	Джеронимо	Джеронимо	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|NameType=Com|Number=Sing	0	root	_	start_char=5837|end_char=5846
+2	!	!	PUNCT	_	_	1	punct	_	start_char=5846|end_char=5847
+

@@ -1,0 +1,1263 @@
+# text = В честь хорошей погоды, внезапно установившейся в Лондоне, он ждал её не в учительской, а на крыльце школы.
+# sent_id = 0
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	В	в	ADP	_	_	2	case	_	start_char=0|end_char=1
+2	честь	честь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	start_char=2|end_char=7
+3	хорошей	хороший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=8|end_char=15
+4	погоды	погода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=16|end_char=22
+5	,	,	PUNCT	_	_	7	punct	_	start_char=22|end_char=23
+6	внезапно	внезапно	ADV	_	Degree=Pos	7	advmod	_	start_char=24|end_char=32
+7	установившейся	установиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	start_char=33|end_char=47
+8	в	в	ADP	_	_	9	case	_	start_char=48|end_char=49
+9	Лондоне	Лондон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	7	obl	_	start_char=50|end_char=57
+10	,	,	PUNCT	_	_	7	punct	_	start_char=57|end_char=58
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=59|end_char=61
+12	ждал	ждать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=62|end_char=66
+13	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=67|end_char=69
+14	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=70|end_char=72
+15	в	в	ADP	_	_	16	case	_	start_char=73|end_char=74
+16	учительской	учительский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	obl	_	start_char=75|end_char=86
+17	,	,	PUNCT	_	_	20	punct	_	start_char=86|end_char=87
+18	а	а	CCONJ	_	_	20	cc	_	start_char=88|end_char=89
+19	на	на	ADP	_	_	20	case	_	start_char=90|end_char=92
+20	крыльце	крылоца	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	conj	_	start_char=93|end_char=100
+21	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	start_char=101|end_char=106
+22	.	.	PUNCT	_	_	12	punct	_	start_char=106|end_char=107
+
+# text = Мимо пробегали последние учащиеся, бросали ему на бегу "Здравствуйте" и мчались по своим делам.
+# sent_id = 1
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Мимо	мимо	ADV	_	Degree=Pos	2	advmod	_	start_char=108|end_char=112
+2	пробегали	пробегать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=113|end_char=122
+3	последние	последний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=123|end_char=132
+4	учащиеся	учащийся	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=133|end_char=141
+5	,	,	PUNCT	_	_	6	punct	_	start_char=141|end_char=142
+6	бросали	бросать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=143|end_char=150
+7	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=151|end_char=154
+8	на	на	ADP	_	_	9	case	_	start_char=155|end_char=157
+9	бегу	бег	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	start_char=158|end_char=162
+10	"	"	PUNCT	_	_	11	punct	_	start_char=163|end_char=164
+11	Здравствуйте	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	9	appos	_	start_char=164|end_char=176
+12	"	"	PUNCT	_	_	11	punct	_	start_char=176|end_char=177
+13	и	и	CCONJ	_	_	14	cc	_	start_char=178|end_char=179
+14	мчались	мчаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=180|end_char=187
+15	по	по	ADP	_	_	17	case	_	start_char=188|end_char=190
+16	своим	свой	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	start_char=191|end_char=196
+17	делам	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	14	obl	_	start_char=197|end_char=202
+18	.	.	PUNCT	_	_	2	punct	_	start_char=202|end_char=203
+
+# text = Лишь один мальчик задержался возле него: – Здравствуйте...
+# sent_id = 2
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Лишь	лишь	PART	_	_	2	advmod	_	start_char=204|end_char=208
+2	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	start_char=209|end_char=213
+3	мальчик	мальчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=214|end_char=221
+4	задержался	задержаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=222|end_char=232
+5	возле	возле	ADP	_	_	6	case	_	start_char=233|end_char=238
+6	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=239|end_char=243
+7	:	:	PUNCT	_	_	9	punct	_	start_char=243|end_char=244
+8	–	–	PUNCT	_	_	9	punct	_	start_char=245|end_char=246
+9	Здравствуйте	здравствовать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=247|end_char=259
+10	...	...	PUNCT	_	_	4	punct	_	start_char=259|end_char=262
+
+# text = Мистер Честертон, а можно спросить?
+# sent_id = 3
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Мистер	мистер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=263|end_char=269
+2	Честертон	Честертон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=270|end_char=279
+3	,	,	PUNCT	_	_	5	punct	_	start_char=279|end_char=280
+4	а	а	CCONJ	_	_	5	cc	_	start_char=281|end_char=282
+5	можно	можно	VERB	_	_	1	conj	_	start_char=283|end_char=288
+6	спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=289|end_char=297
+7	?	?	PUNCT	_	_	1	punct	_	start_char=297|end_char=298
+
+# text = – Добрый день, да, конечно.
+# sent_id = 4
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=299|end_char=300
+2	Добрый	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=301|end_char=307
+3	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=308|end_char=312
+4	,	,	PUNCT	_	_	5	punct	_	start_char=312|end_char=313
+5	да	да	PART	_	_	3	parataxis	_	start_char=314|end_char=316
+6	,	,	PUNCT	_	_	7	punct	_	start_char=316|end_char=317
+7	конечно	конечно	ADV	_	Degree=Pos	3	parataxis	_	start_char=318|end_char=325
+8	.	.	PUNCT	_	_	3	punct	_	start_char=325|end_char=326
+
+# text = К своему стыду, Йен ещё не выучил имена всех своих учащихся.
+# sent_id = 5
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	К	к	ADP	_	_	3	case	_	start_char=327|end_char=328
+2	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	start_char=329|end_char=335
+3	стыду	стыд	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	parataxis	_	start_char=336|end_char=341
+4	,	,	PUNCT	_	_	3	punct	_	start_char=341|end_char=342
+5	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=343|end_char=346
+6	ещё	еще	ADV	_	Degree=Pos	8	advmod	_	start_char=347|end_char=350
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=351|end_char=353
+8	выучил	выучить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=354|end_char=360
+9	имена	имя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	obj	_	start_char=361|end_char=366
+10	всех	весь	DET	_	Case=Gen|Number=Plur|PronType=Tot	12	det	_	start_char=367|end_char=371
+11	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	start_char=372|end_char=377
+12	учащихся	учащийся	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	start_char=378|end_char=386
+13	.	.	PUNCT	_	_	8	punct	_	start_char=386|end_char=387
+
+# text = Собственно, сегодня был только третий его рабочий день.
+# sent_id = 6
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Собственно	собственно	ADV	_	Degree=Pos	3	parataxis	_	start_char=388|end_char=398
+2	,	,	PUNCT	_	_	1	punct	_	start_char=398|end_char=399
+3	сегодня	сегодня	ADV	_	Degree=Pos	0	root	_	start_char=400|end_char=407
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=408|end_char=411
+5	только	только	PART	_	_	6	advmod	_	start_char=412|end_char=418
+6	третий	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	9	amod	_	start_char=419|end_char=425
+7	его	его	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=426|end_char=429
+8	рабочий	рабочий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=430|end_char=437
+9	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=438|end_char=442
+10	.	.	PUNCT	_	_	3	punct	_	start_char=442|end_char=443
+
+# text = По счастью, им с Барбарой удалось уговорить начальство школы, где они работали раньше, взять их назад.
+# sent_id = 7
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	По	по	ADP	_	_	2	case	_	start_char=444|end_char=446
+2	счастью	счастье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	parataxis	_	start_char=447|end_char=454
+3	,	,	PUNCT	_	_	2	punct	_	start_char=454|end_char=455
+4	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	iobj	_	start_char=456|end_char=458
+5	с	с	ADP	_	_	6	case	_	start_char=459|end_char=460
+6	Барбарой	Барбарой	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|NameType=Giv|Number=Sing	4	nmod	_	start_char=461|end_char=469
+7	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=470|end_char=477
+8	уговорить	уговорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	start_char=478|end_char=487
+9	начальство	начальство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=488|end_char=498
+10	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=499|end_char=504
+11	,	,	PUNCT	_	_	14	punct	_	start_char=504|end_char=505
+12	где	где	ADV	_	Degree=Pos|PronType=Rel	14	advmod	_	start_char=506|end_char=509
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=510|end_char=513
+14	работали	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	start_char=514|end_char=522
+15	раньше	раньше	ADV	_	Degree=Cmp	14	advmod	_	start_char=523|end_char=529
+16	,	,	PUNCT	_	_	17	punct	_	start_char=529|end_char=530
+17	взять	взять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	conj	_	start_char=531|end_char=536
+18	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	start_char=537|end_char=539
+19	назад	назад	ADV	_	Degree=Pos	17	advmod	_	start_char=540|end_char=545
+20	.	.	PUNCT	_	_	7	punct	_	start_char=545|end_char=546
+
+# text = Их репутация ответственных и неравнодушных учителей сослужила им хорошую службу даже через два года, за время которых от них не было ни слуху не духу.
+# sent_id = 8
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Их	их	DET	_	Poss=Yes|PronType=Prs	2	det	_	start_char=547|end_char=549
+2	репутация	репутация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	start_char=550|end_char=559
+3	ответственных	ответственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	start_char=560|end_char=573
+4	и	и	CCONJ	_	_	5	cc	_	start_char=574|end_char=575
+5	неравнодушных	неравнодушный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	conj	_	start_char=576|end_char=589
+6	учителей	учитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=590|end_char=598
+7	сослужила	сослужить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=599|end_char=608
+8	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	iobj	_	start_char=609|end_char=611
+9	хорошую	хороший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=612|end_char=619
+10	службу	служба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=620|end_char=626
+11	даже	даже	PART	_	_	14	advmod	_	start_char=627|end_char=631
+12	через	через	ADP	_	_	14	case	_	start_char=632|end_char=637
+13	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card	14	nummod:gov	_	start_char=638|end_char=641
+14	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=642|end_char=646
+15	,	,	PUNCT	_	_	22	punct	_	start_char=646|end_char=647
+16	за	за	ADP	_	_	17	case	_	start_char=648|end_char=650
+17	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obl	_	start_char=651|end_char=656
+18	которых	который	PRON	_	Case=Gen|Number=Plur|PronType=Rel	17	nmod	_	start_char=657|end_char=664
+19	от	от	ADP	_	_	20	case	_	start_char=665|end_char=667
+20	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	22	obl	_	start_char=668|end_char=671
+21	не	не	PART	_	Polarity=Neg	22	advmod	_	start_char=672|end_char=674
+22	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=675|end_char=679
+23	ни	ни	CCONJ	_	Polarity=Neg	24	cc	_	start_char=680|end_char=682
+24	слуху	слух	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	22	obl	_	start_char=683|end_char=688
+25	не	не	PART	_	Polarity=Neg	26	advmod	_	start_char=689|end_char=691
+26	духу	духа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	22	obl	_	start_char=692|end_char=696
+27	.	.	PUNCT	_	_	7	punct	_	start_char=696|end_char=697
+
+# text = К сожалению, полицейская телефонная будка, под видом которой тогда находилась на Земле, а теперь где-то во Вселенной, ТАРДИС, не умела именно звонить.
+# sent_id = 9
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	К	к	ADP	_	_	2	case	_	start_char=698|end_char=699
+2	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	25	parataxis	_	start_char=700|end_char=709
+3	,	,	PUNCT	_	_	2	punct	_	start_char=709|end_char=710
+4	полицейская	полицейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=711|end_char=722
+5	телефонная	телефонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=723|end_char=733
+6	будка	будка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	start_char=734|end_char=739
+7	,	,	PUNCT	_	_	12	punct	_	start_char=739|end_char=740
+8	под	под	ADP	_	_	9	case	_	start_char=741|end_char=744
+9	видом	вид	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	start_char=745|end_char=750
+10	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	9	nmod	_	start_char=751|end_char=758
+11	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=759|end_char=764
+12	находилась	находиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	start_char=765|end_char=775
+13	на	на	ADP	_	_	14	case	_	start_char=776|end_char=778
+14	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	start_char=779|end_char=784
+15	,	,	PUNCT	_	_	25	punct	_	start_char=784|end_char=785
+16	а	а	CCONJ	_	_	25	cc	_	start_char=786|end_char=787
+17	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	25	advmod	_	start_char=788|end_char=794
+18	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	20	advmod	_	start_char=795|end_char=801
+19	во	во	ADP	_	_	20	case	_	start_char=802|end_char=804
+20	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	25	obl	_	start_char=805|end_char=814
+21	,	,	PUNCT	_	_	22	punct	_	start_char=814|end_char=815
+22	ТАРДИС	ТАРДИС	PROPN	_	NameType=Com	20	conj	_	start_char=816|end_char=822
+23	,	,	PUNCT	_	_	20	punct	_	start_char=822|end_char=823
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=824|end_char=826
+25	умела	уметь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=827|end_char=832
+26	именно	именно	PART	_	_	27	advmod	_	start_char=833|end_char=839
+27	звонить	звонить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	start_char=840|end_char=847
+28	.	.	PUNCT	_	_	25	punct	_	start_char=847|end_char=848
+
+# text = Она умела рассекать время и пространство, а звонить – нет, не умела.
+# sent_id = 10
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=849|end_char=852
+2	умела	уметь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=853|end_char=858
+3	рассекать	рассекать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=859|end_char=868
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=869|end_char=874
+5	и	и	CCONJ	_	_	6	cc	_	start_char=875|end_char=876
+6	пространство	пространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	conj	_	start_char=877|end_char=889
+7	,	,	PUNCT	_	_	14	punct	_	start_char=889|end_char=890
+8	а	а	CCONJ	_	_	14	cc	_	start_char=891|end_char=892
+9	звонить	звонить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=893|end_char=900
+10	–	–	PUNCT	_	_	11	punct	_	start_char=901|end_char=902
+11	нет	нет	PART	_	Polarity=Neg	9	parataxis	_	start_char=903|end_char=906
+12	,	,	PUNCT	_	_	14	punct	_	start_char=906|end_char=907
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=908|end_char=910
+14	умела	уметь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=911|end_char=916
+15	.	.	PUNCT	_	_	2	punct	_	start_char=916|end_char=917
+
+# text = "Может, ему просто некому было? – внезапно подумал Йен о Докторе.
+# sent_id = 11
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	"	"	PUNCT	_	_	6	punct	_	start_char=918|end_char=919
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=919|end_char=924
+3	,	,	PUNCT	_	_	2	punct	_	start_char=924|end_char=925
+4	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	start_char=926|end_char=929
+5	просто	просто	PART	_	_	6	advmod	_	start_char=930|end_char=936
+6	некому	некого	VERB	_	Polarity=Neg	0	root	_	start_char=937|end_char=943
+7	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=944|end_char=948
+8	?	?	PUNCT	_	_	6	punct	_	start_char=948|end_char=949
+9	–	–	PUNCT	_	_	11	punct	_	start_char=950|end_char=951
+10	внезапно	внезапно	ADV	_	Degree=Pos	11	advmod	_	start_char=952|end_char=960
+11	подумал	подумать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=961|end_char=968
+12	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	nsubj	_	start_char=969|end_char=972
+13	о	о	ADP	_	_	14	case	_	start_char=973|end_char=974
+14	Докторе	Доктор	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	11	obl	_	start_char=975|end_char=982
+15	.	.	PUNCT	_	_	6	punct	_	start_char=982|end_char=983
+
+# text = – А теперь, когда мы вернулись на Землю, он подумает и что-нибудь придумает.
+# sent_id = 12
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	12	punct	_	start_char=984|end_char=985
+2	А	а	CCONJ	_	_	12	cc	_	start_char=986|end_char=987
+3	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=988|end_char=994
+4	,	,	PUNCT	_	_	7	punct	_	start_char=994|end_char=995
+5	когда	когда	SCONJ	_	_	7	mark	_	start_char=996|end_char=1001
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=1002|end_char=1004
+7	вернулись	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	advcl	_	start_char=1005|end_char=1014
+8	на	на	ADP	_	_	9	case	_	start_char=1015|end_char=1017
+9	Землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=1018|end_char=1023
+10	,	,	PUNCT	_	_	7	punct	_	start_char=1023|end_char=1024
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=1025|end_char=1027
+12	подумает	подумать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1028|end_char=1036
+13	и	и	CCONJ	_	_	15	cc	_	start_char=1037|end_char=1038
+14	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	15	obj	_	start_char=1039|end_char=1049
+15	придумает	придумать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	conj	_	start_char=1050|end_char=1059
+16	.	.	PUNCT	_	_	12	punct	_	start_char=1059|end_char=1060
+
+# text = Просто чтобы была возможность однажды позвонить и сказать..."
+# sent_id = 13
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Просто	просто	PART	_	_	3	advmod	_	start_char=1061|end_char=1067
+2	чтобы	чтобы	SCONJ	_	Mood=Cnd	3	mark	_	start_char=1068|end_char=1073
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1074|end_char=1078
+4	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=1079|end_char=1090
+5	однажды	однажды	ADV	_	Degree=Pos	6	advmod	_	start_char=1091|end_char=1098
+6	позвонить	позвонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	acl	_	start_char=1099|end_char=1108
+7	и	и	CCONJ	_	_	8	cc	_	start_char=1109|end_char=1110
+8	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	conj	_	start_char=1111|end_char=1118
+9	...	...	PUNCT	_	_	3	punct	_	start_char=1118|end_char=1121
+10	"	"	PUNCT	_	_	3	punct	_	start_char=1121|end_char=1122
+
+# text = – Да, малыш?
+# sent_id = 14
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1123|end_char=1124
+2	Да	да	PART	_	_	4	parataxis	_	start_char=1125|end_char=1127
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1127|end_char=1128
+4	малыш	малыш	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1129|end_char=1134
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1134|end_char=1135
+
+# text = – Йен понял, что он слишком развитался в облаках и задумался о Докторе, когда его внимание пытался привлечь этот очень молодой человек.
+# sent_id = 15
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1136|end_char=1137
+2	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1138|end_char=1141
+3	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1142|end_char=1147
+4	,	,	PUNCT	_	_	8	punct	_	start_char=1147|end_char=1148
+5	что	что	SCONJ	_	_	8	mark	_	start_char=1149|end_char=1152
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=1153|end_char=1155
+7	слишком	слишком	ADV	_	Degree=Pos	8	advmod	_	start_char=1156|end_char=1163
+8	развитался	развитаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=1164|end_char=1174
+9	в	в	ADP	_	_	10	case	_	start_char=1175|end_char=1176
+10	облаках	облако	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	obl	_	start_char=1177|end_char=1184
+11	и	и	CCONJ	_	_	12	cc	_	start_char=1185|end_char=1186
+12	задумался	задуматься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=1187|end_char=1196
+13	о	о	ADP	_	_	14	case	_	start_char=1197|end_char=1198
+14	Докторе	Доктор	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	12	obl	_	start_char=1199|end_char=1206
+15	,	,	PUNCT	_	_	19	punct	_	start_char=1206|end_char=1207
+16	когда	когда	SCONJ	_	_	19	mark	_	start_char=1208|end_char=1213
+17	его	его	DET	_	Poss=Yes|PronType=Prs	18	det	_	start_char=1214|end_char=1217
+18	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	start_char=1218|end_char=1226
+19	пытался	пытаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	advcl	_	start_char=1227|end_char=1234
+20	привлечь	привлечь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	start_char=1235|end_char=1243
+21	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	start_char=1244|end_char=1248
+22	очень	очень	ADV	_	Degree=Pos	23	advmod	_	start_char=1249|end_char=1254
+23	молодой	молодой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	start_char=1255|end_char=1262
+24	человек	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	start_char=1263|end_char=1270
+25	.	.	PUNCT	_	_	3	punct	_	start_char=1270|end_char=1271
+
+# text = – Ну вы нам на уроке о них рассказали.
+# sent_id = 16
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	9	punct	_	start_char=1272|end_char=1273
+2	Ну	ну	PART	_	_	9	discourse	_	start_char=1274|end_char=1276
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	start_char=1277|end_char=1279
+4	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	9	iobj	_	start_char=1280|end_char=1283
+5	на	на	ADP	_	_	6	case	_	start_char=1284|end_char=1286
+6	уроке	урок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	start_char=1287|end_char=1292
+7	о	о	ADP	_	_	8	case	_	start_char=1293|end_char=1294
+8	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	9	obl	_	start_char=1295|end_char=1298
+9	рассказали	рассказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1299|end_char=1309
+10	.	.	PUNCT	_	_	9	punct	_	start_char=1309|end_char=1310
+
+# text = Трубки... ээээ... трубки.
+# sent_id = 17
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Трубки	трубка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=1311|end_char=1317
+2	...	...	PUNCT	_	_	1	punct	_	start_char=1317|end_char=1320
+3	ээээ...	ээээ...	PUNCT	_	_	4	punct	_	start_char=1321|end_char=1328
+4	трубки	трубка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	parataxis	_	start_char=1329|end_char=1335
+5	.	.	PUNCT	_	_	1	punct	_	start_char=1335|end_char=1336
+
+# text = Очень тонкие и маленькие.
+# sent_id = 18
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	start_char=1337|end_char=1342
+2	тонкие	тонкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	start_char=1343|end_char=1349
+3	и	и	CCONJ	_	_	4	cc	_	start_char=1350|end_char=1351
+4	маленькие	маленький	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	conj	_	start_char=1352|end_char=1361
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1361|end_char=1362
+
+# text = – "Малыш" смотрел на него во все глаза.
+# sent_id = 19
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1363|end_char=1364
+2	"	"	PUNCT	_	_	3	punct	_	start_char=1365|end_char=1366
+3	Малыш	малыш	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1366|end_char=1371
+4	"	"	PUNCT	_	_	3	punct	_	start_char=1371|end_char=1372
+5	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1373|end_char=1380
+6	на	на	ADP	_	_	7	case	_	start_char=1381|end_char=1383
+7	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=1384|end_char=1388
+8	во	во	ADP	_	_	10	case	_	start_char=1389|end_char=1391
+9	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	10	det	_	start_char=1392|end_char=1395
+10	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obl	_	start_char=1396|end_char=1401
+11	.	.	PUNCT	_	_	5	punct	_	start_char=1401|end_char=1402
+
+# text = – Да, и что там с углеродными трубками?
+# sent_id = 20
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1403|end_char=1404
+2	Да	да	PART	_	_	0	root	_	start_char=1405|end_char=1407
+3	,	,	PUNCT	_	_	9	punct	_	start_char=1407|end_char=1408
+4	и	и	CCONJ	_	_	9	cc	_	start_char=1409|end_char=1410
+5	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	9	nsubj	_	start_char=1411|end_char=1414
+6	там	там	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=1415|end_char=1418
+7	с	с	ADP	_	_	9	case	_	start_char=1419|end_char=1420
+8	углеродными	углеродный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	start_char=1421|end_char=1432
+9	трубками	трубка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	conj	_	start_char=1433|end_char=1441
+10	?	?	PUNCT	_	_	2	punct	_	start_char=1441|end_char=1442
+
+# text = – Йен попенял себе за то, что на уроке не сдержался и немного увлёкся, вспоминая о будущем – том будущем, которое они видели в путешествиях с Доктором.
+# sent_id = 21
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1443|end_char=1444
+2	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1445|end_char=1448
+3	попенял	попенять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1449|end_char=1456
+4	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	3	iobj	_	start_char=1457|end_char=1461
+5	за	за	ADP	_	_	6	case	_	start_char=1462|end_char=1464
+6	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	start_char=1465|end_char=1467
+7	,	,	PUNCT	_	_	12	punct	_	start_char=1467|end_char=1468
+8	что	что	SCONJ	_	_	12	mark	_	start_char=1469|end_char=1472
+9	на	на	ADP	_	_	10	case	_	start_char=1473|end_char=1475
+10	уроке	урок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	start_char=1476|end_char=1481
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1482|end_char=1484
+12	сдержался	сдержаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl	_	start_char=1485|end_char=1494
+13	и	и	CCONJ	_	_	15	cc	_	start_char=1495|end_char=1496
+14	немного	немного	ADV	_	Degree=Pos|PronType=Tot	15	advmod	_	start_char=1497|end_char=1504
+15	увлёкся	увлечься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	start_char=1505|end_char=1512
+16	,	,	PUNCT	_	_	17	punct	_	start_char=1512|end_char=1513
+17	вспоминая	вспоминать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	advcl	_	start_char=1514|end_char=1523
+18	о	о	ADP	_	_	19	case	_	start_char=1524|end_char=1525
+19	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	start_char=1526|end_char=1533
+20	–	–	PUNCT	_	_	22	punct	_	start_char=1534|end_char=1535
+21	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	22	det	_	start_char=1536|end_char=1539
+22	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	appos	_	start_char=1540|end_char=1547
+23	,	,	PUNCT	_	_	26	punct	_	start_char=1547|end_char=1548
+24	которое	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	26	obj	_	start_char=1549|end_char=1556
+25	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	start_char=1557|end_char=1560
+26	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	acl:relcl	_	start_char=1561|end_char=1567
+27	в	в	ADP	_	_	28	case	_	start_char=1568|end_char=1569
+28	путешествиях	путешествие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	26	obl	_	start_char=1570|end_char=1582
+29	с	с	ADP	_	_	30	case	_	start_char=1583|end_char=1584
+30	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	28	nmod	_	start_char=1585|end_char=1593
+31	.	.	PUNCT	_	_	3	punct	_	start_char=1593|end_char=1594
+
+# text = – Такие правда бывают?
+# sent_id = 22
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1595|end_char=1596
+2	Такие	такой	DET	_	Case=Nom|Number=Plur|PronType=Dem	3	det	_	start_char=1597|end_char=1602
+3	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	start_char=1603|end_char=1609
+4	бывают	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1610|end_char=1616
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1616|end_char=1617
+
+# text = – Пока нет, но будут, непременно будут, а вот когда – это уже очень сложный вопрос.
+# sent_id = 23
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1618|end_char=1619
+2	Пока	пока	SCONJ	_	_	3	mark	_	start_char=1620|end_char=1624
+3	нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=1625|end_char=1628
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1628|end_char=1629
+5	но	но	CCONJ	_	_	6	cc	_	start_char=1630|end_char=1632
+6	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1633|end_char=1638
+7	,	,	PUNCT	_	_	9	punct	_	start_char=1638|end_char=1639
+8	непременно	непременно	ADV	_	Degree=Pos	9	advmod	_	start_char=1640|end_char=1650
+9	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	start_char=1651|end_char=1656
+10	,	,	PUNCT	_	_	19	punct	_	start_char=1656|end_char=1657
+11	а	а	CCONJ	_	_	19	cc	_	start_char=1658|end_char=1659
+12	вот	вот	PART	_	_	19	advmod	_	start_char=1660|end_char=1663
+13	когда	когда	SCONJ	_	_	19	mark	_	start_char=1664|end_char=1669
+14	–	–	PUNCT	_	_	19	punct	_	start_char=1670|end_char=1671
+15	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	19	nsubj	_	start_char=1672|end_char=1675
+16	уже	уже	ADV	_	Degree=Pos	17	advmod	_	start_char=1676|end_char=1679
+17	очень	очень	ADV	_	Degree=Pos	18	advmod	_	start_char=1680|end_char=1685
+18	сложный	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=1686|end_char=1693
+19	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	conj	_	start_char=1694|end_char=1700
+20	.	.	PUNCT	_	_	3	punct	_	start_char=1700|end_char=1701
+
+# text = – Даже для путешественника во времени.
+# sent_id = 24
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1702|end_char=1703
+2	Даже	даже	PART	_	_	4	advmod	_	start_char=1704|end_char=1708
+3	для	для	ADP	_	_	4	case	_	start_char=1709|end_char=1712
+4	путешественника	путешественник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=1713|end_char=1728
+5	во	во	ADP	_	_	6	case	_	start_char=1729|end_char=1731
+6	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	start_char=1732|end_char=1739
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1739|end_char=1740
+
+# text = Доктор не рассказывал им историю науки в подробностях, даже земной науки, а уж соотнести инопланетную цивилизацию с земной...
+# sent_id = 25
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1741|end_char=1747
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1748|end_char=1750
+3	рассказывал	рассказывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1751|end_char=1762
+4	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	iobj	_	start_char=1763|end_char=1765
+5	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	start_char=1766|end_char=1773
+6	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	start_char=1774|end_char=1779
+7	в	в	ADP	_	_	8	case	_	start_char=1780|end_char=1781
+8	подробностях	подробность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	nmod	_	start_char=1782|end_char=1794
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1794|end_char=1795
+10	даже	даже	PART	_	_	11	advmod	_	start_char=1796|end_char=1800
+11	земной	земный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=1801|end_char=1807
+12	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	start_char=1808|end_char=1813
+13	,	,	PUNCT	_	_	16	punct	_	start_char=1813|end_char=1814
+14	а	а	CCONJ	_	_	16	cc	_	start_char=1815|end_char=1816
+15	уж	уж	PART	_	_	16	advmod	_	start_char=1817|end_char=1819
+16	соотнести	соотнести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	start_char=1820|end_char=1829
+17	инопланетную	инопланетный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=1830|end_char=1842
+18	цивилизацию	цивилизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	start_char=1843|end_char=1854
+19	с	с	ADP	_	_	20	case	_	start_char=1855|end_char=1856
+20	земной	земный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	16	obl	_	start_char=1857|end_char=1863
+21	...	...	PUNCT	_	_	3	punct	_	start_char=1863|end_char=1866
+
+# text = Когда на Земле появятся подземные города для защиты населения от радиации?
+# sent_id = 26
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Когда	когда	SCONJ	_	_	4	mark	_	start_char=1867|end_char=1872
+2	на	на	ADP	_	_	3	case	_	start_char=1873|end_char=1875
+3	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=1876|end_char=1881
+4	появятся	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1882|end_char=1890
+5	подземные	подземный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	start_char=1891|end_char=1900
+6	города	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=1901|end_char=1907
+7	для	для	ADP	_	_	8	case	_	start_char=1908|end_char=1911
+8	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=1912|end_char=1918
+9	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=1919|end_char=1928
+10	от	от	ADP	_	_	11	case	_	start_char=1929|end_char=1931
+11	радиации	радиация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=1932|end_char=1940
+12	?	?	PUNCT	_	_	4	punct	_	start_char=1940|end_char=1941
+
+# text = Йен надеялся, что человечество не дойдет до такого, и они не появятся никогда.
+# sent_id = 27
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1942|end_char=1945
+2	надеялся	надеяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1946|end_char=1954
+3	,	,	PUNCT	_	_	7	punct	_	start_char=1954|end_char=1955
+4	что	что	SCONJ	_	_	7	mark	_	start_char=1956|end_char=1959
+5	человечество	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=1960|end_char=1972
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1973|end_char=1975
+7	дойдет	дойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1976|end_char=1982
+8	до	до	ADP	_	_	9	case	_	start_char=1983|end_char=1985
+9	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	start_char=1986|end_char=1992
+10	,	,	PUNCT	_	_	14	punct	_	start_char=1992|end_char=1993
+11	и	и	CCONJ	_	_	14	cc	_	start_char=1994|end_char=1995
+12	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=1996|end_char=1999
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=2000|end_char=2002
+14	появятся	появиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	conj	_	start_char=2003|end_char=2011
+15	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	14	advmod	_	start_char=2012|end_char=2019
+16	.	.	PUNCT	_	_	2	punct	_	start_char=2019|end_char=2020
+
+# text = – А как же узнать? – огорчился малыш.
+# sent_id = 28
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2021|end_char=2022
+2	А	а	CCONJ	_	_	5	cc	_	start_char=2023|end_char=2024
+3	как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=2025|end_char=2028
+4	же	же	PART	_	_	3	advmod	_	start_char=2029|end_char=2031
+5	узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=2032|end_char=2038
+6	?	?	PUNCT	_	_	5	punct	_	start_char=2038|end_char=2039
+7	–	–	PUNCT	_	_	8	punct	_	start_char=2040|end_char=2041
+8	огорчился	огорчиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=2042|end_char=2051
+9	малыш	малыш	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=2052|end_char=2057
+10	.	.	PUNCT	_	_	5	punct	_	start_char=2057|end_char=2058
+
+# text = – Боюсь, никак.
+# sent_id = 29
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2059|end_char=2060
+2	Боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2061|end_char=2066
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2066|end_char=2067
+4	никак	никак	ADV	_	Degree=Pos|PronType=Neg	2	advmod	_	start_char=2068|end_char=2073
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2073|end_char=2074
+
+# text = Разве что самому прилежно учиться, закончить школу, поступить в институт, а потом заняться изучением химии.
+# sent_id = 30
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Разве	разве	PART	_	_	5	advmod	_	start_char=2075|end_char=2080
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=2081|end_char=2084
+3	самому	сам	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Emp	5	obl	_	start_char=2085|end_char=2091
+4	прилежно	прилежно	ADV	_	Degree=Pos	5	advmod	_	start_char=2092|end_char=2100
+5	учиться	учиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	start_char=2101|end_char=2108
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2108|end_char=2109
+7	закончить	закончить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	start_char=2110|end_char=2119
+8	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=2120|end_char=2125
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2125|end_char=2126
+10	поступить	поступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	start_char=2127|end_char=2136
+11	в	в	ADP	_	_	12	case	_	start_char=2137|end_char=2138
+12	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=2139|end_char=2147
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2147|end_char=2148
+14	а	а	CCONJ	_	_	16	cc	_	start_char=2149|end_char=2150
+15	потом	потом	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=2151|end_char=2156
+16	заняться	заняться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	conj	_	start_char=2157|end_char=2165
+17	изучением	изучение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	iobj	_	start_char=2166|end_char=2175
+18	химии	химия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=2176|end_char=2181
+19	.	.	PUNCT	_	_	5	punct	_	start_char=2181|end_char=2182
+
+# text = Химия – это наука будущего.
+# sent_id = 31
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Химия	химия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	start_char=2183|end_char=2188
+2	–	–	PUNCT	_	_	1	punct	_	start_char=2189|end_char=2190
+3	это	это	PART	_	_	4	expl	_	start_char=2191|end_char=2194
+4	наука	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2195|end_char=2200
+5	будущего	будущее	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	nmod	_	start_char=2201|end_char=2209
+6	.	.	PUNCT	_	_	4	punct	_	start_char=2209|end_char=2210
+
+# text = Малыш так задумался, что повернулся и ушел не попрощавшись.
+# sent_id = 32
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Малыш	малыш	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2211|end_char=2216
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2217|end_char=2220
+3	задумался	задуматься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2221|end_char=2230
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2230|end_char=2231
+5	что	что	SCONJ	_	_	6	mark	_	start_char=2232|end_char=2235
+6	повернулся	повернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=2236|end_char=2246
+7	и	и	CCONJ	_	_	8	cc	_	start_char=2247|end_char=2248
+8	ушел	уйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2249|end_char=2253
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=2254|end_char=2256
+10	попрощавшись	попрощаться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	8	advcl	_	start_char=2257|end_char=2269
+11	.	.	PUNCT	_	_	3	punct	_	start_char=2269|end_char=2270
+
+# text = "Истинно по-английски!" – усмехнулся Йен, ничуть не обидевшись.
+# sent_id = 33
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	"	"	PUNCT	_	_	3	punct	_	start_char=2271|end_char=2272
+2	Истинно	истинно	ADV	_	Degree=Pos	3	advmod	_	start_char=2272|end_char=2279
+3	по-английски	по-английски	ADV	_	Degree=Pos	0	root	_	start_char=2280|end_char=2292
+4	!	!	PUNCT	_	_	3	punct	_	start_char=2292|end_char=2293
+5	"	"	PUNCT	_	_	3	punct	_	start_char=2293|end_char=2294
+6	–	–	PUNCT	_	_	7	punct	_	start_char=2295|end_char=2296
+7	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=2297|end_char=2307
+8	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=2308|end_char=2311
+9	,	,	PUNCT	_	_	12	punct	_	start_char=2311|end_char=2312
+10	ничуть	ничуть	ADV	_	Degree=Pos	12	advmod	_	start_char=2313|end_char=2319
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=2320|end_char=2322
+12	обидевшись	обидеться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	start_char=2323|end_char=2333
+13	.	.	PUNCT	_	_	3	punct	_	start_char=2333|end_char=2334
+
+# text = К тому же из школы показалась Барбара.
+# sent_id = 34
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	К	к	ADP	_	_	2	case	_	start_char=2335|end_char=2336
+2	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	start_char=2337|end_char=2341
+3	же	же	PART	_	_	2	advmod	_	start_char=2342|end_char=2344
+4	из	из	ADP	_	_	5	case	_	start_char=2345|end_char=2347
+5	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=2348|end_char=2353
+6	показалась	показаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2354|end_char=2364
+7	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=2365|end_char=2372
+8	.	.	PUNCT	_	_	6	punct	_	start_char=2372|end_char=2373
+
+# text = Он неловко, будто впервые, поцеловал её, забрал у нее сумку со взятыми на проверку тетрадями.
+# sent_id = 35
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2374|end_char=2376
+2	неловко	неловкий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2377|end_char=2384
+3	,	,	PUNCT	_	_	7	punct	_	start_char=2384|end_char=2385
+4	будто	будто	SCONJ	_	_	5	mark	_	start_char=2386|end_char=2391
+5	впервые	впервые	ADV	_	Degree=Pos	7	advmod	_	start_char=2392|end_char=2399
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2399|end_char=2400
+7	поцеловал	поцеловать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2401|end_char=2410
+8	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=2411|end_char=2413
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2413|end_char=2414
+10	забрал	забрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2415|end_char=2421
+11	у	у	ADP	_	_	12	case	_	start_char=2422|end_char=2423
+12	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=2424|end_char=2427
+13	сумку	сумка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=2428|end_char=2433
+14	со	со	ADP	_	_	18	case	_	start_char=2434|end_char=2436
+15	взятыми	взять	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	acl	_	start_char=2437|end_char=2444
+16	на	на	ADP	_	_	17	case	_	start_char=2445|end_char=2447
+17	проверку	проверка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	start_char=2448|end_char=2456
+18	тетрадями	тетрада	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	iobj	_	start_char=2457|end_char=2466
+19	.	.	PUNCT	_	_	2	punct	_	start_char=2466|end_char=2467
+
+# text = Она смутилась, огляделась, не видел ли кто, будто у неё не сияло на пальце тонким ободком обручальное кольцо.
+# sent_id = 36
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2468|end_char=2471
+2	смутилась	смутиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2472|end_char=2481
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2481|end_char=2482
+4	огляделась	оглядеться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2483|end_char=2493
+5	,	,	PUNCT	_	_	7	punct	_	start_char=2493|end_char=2494
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2495|end_char=2497
+7	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2498|end_char=2503
+8	ли	ли	PART	_	_	7	advmod	_	start_char=2504|end_char=2506
+9	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	start_char=2507|end_char=2510
+10	,	,	PUNCT	_	_	15	punct	_	start_char=2510|end_char=2511
+11	будто	будто	SCONJ	_	_	15	mark	_	start_char=2512|end_char=2517
+12	у	у	ADP	_	_	13	case	_	start_char=2518|end_char=2519
+13	неё	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obl	_	start_char=2520|end_char=2523
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=2524|end_char=2526
+15	сияло	сиять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	start_char=2527|end_char=2532
+16	на	на	ADP	_	_	17	case	_	start_char=2533|end_char=2535
+17	пальце	палец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=2536|end_char=2542
+18	тонким	тонкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=2543|end_char=2549
+19	ободком	ободки	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	iobj	_	start_char=2550|end_char=2557
+20	обручальное	обручальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	start_char=2558|end_char=2569
+21	кольцо	кольцо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	start_char=2570|end_char=2576
+22	.	.	PUNCT	_	_	2	punct	_	start_char=2576|end_char=2577
+
+# text = – Ну, как прошел день? – спросили они друг у друга одновременно, и одновременно же рассмеялись.
+# sent_id = 37
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2578|end_char=2579
+2	Ну	ну	PART	_	_	5	discourse	_	start_char=2580|end_char=2582
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2582|end_char=2583
+4	как	как	ADV	_	Degree=Pos|PronType=Int	5	advmod	_	start_char=2584|end_char=2587
+5	прошел	пройти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2588|end_char=2594
+6	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2595|end_char=2599
+7	?	?	PUNCT	_	_	5	punct	_	start_char=2599|end_char=2600
+8	–	–	PUNCT	_	_	9	punct	_	start_char=2601|end_char=2602
+9	спросили	спросить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2603|end_char=2611
+10	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=2612|end_char=2615
+11	друг	друг	PRON	_	Case=Nom|PronType=Rcp	9	obl	_	start_char=2616|end_char=2620
+12	у	у	ADP	_	_	11	fixed	_	start_char=2621|end_char=2622
+13	друга	друг	PRON	_	Case=Gen|PronType=Rcp	11	fixed	_	start_char=2623|end_char=2628
+14	одновременно	одновременно	ADV	_	Degree=Pos	9	advmod	_	start_char=2629|end_char=2641
+15	,	,	PUNCT	_	_	19	punct	_	start_char=2641|end_char=2642
+16	и	и	CCONJ	_	_	19	cc	_	start_char=2643|end_char=2644
+17	одновременно	одновременно	ADV	_	Degree=Pos	19	advmod	_	start_char=2645|end_char=2657
+18	же	же	PART	_	_	17	advmod	_	start_char=2658|end_char=2660
+19	рассмеялись	рассмеяться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=2661|end_char=2672
+20	.	.	PUNCT	_	_	5	punct	_	start_char=2672|end_char=2673
+
+# text = – У меня всё отлично, но без новостей, – быстро доложил Йен.
+# sent_id = 38
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2674|end_char=2675
+2	У	у	ADP	_	_	3	case	_	start_char=2676|end_char=2677
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=2678|end_char=2682
+4	всё	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	nsubj	_	start_char=2683|end_char=2686
+5	отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2687|end_char=2694
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2694|end_char=2695
+7	но	но	CCONJ	_	_	9	cc	_	start_char=2696|end_char=2698
+8	без	без	ADP	_	_	9	case	_	start_char=2699|end_char=2702
+9	новостей	новость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	conj	_	start_char=2703|end_char=2711
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2711|end_char=2712
+11	–	–	PUNCT	_	_	13	punct	_	start_char=2713|end_char=2714
+12	быстро	быстро	ADV	_	Degree=Pos	13	advmod	_	start_char=2715|end_char=2721
+13	доложил	доложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2722|end_char=2729
+14	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	13	nsubj	_	start_char=2730|end_char=2733
+15	.	.	PUNCT	_	_	5	punct	_	start_char=2733|end_char=2734
+
+# text = – А как твой показательный урок?
+# sent_id = 39
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2735|end_char=2736
+2	А	а	CCONJ	_	_	3	cc	_	start_char=2737|end_char=2738
+3	как	как	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=2739|end_char=2742
+4	твой	твой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=2743|end_char=2747
+5	показательный	показательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=2748|end_char=2761
+6	урок	урок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=2762|end_char=2766
+7	?	?	PUNCT	_	_	3	punct	_	start_char=2766|end_char=2767
+
+# text = – Ой... – вздохнула Барбара.
+# sent_id = 40
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2768|end_char=2769
+2	Ой	ой	INTJ	_	_	5	discourse	_	start_char=2770|end_char=2772
+3	...	...	PUNCT	_	_	2	punct	_	start_char=2772|end_char=2775
+4	–	–	PUNCT	_	_	5	punct	_	start_char=2776|end_char=2777
+5	вздохнула	вздохнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2778|end_char=2787
+6	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	5	nsubj	_	start_char=2788|end_char=2795
+7	.	.	PUNCT	_	_	5	punct	_	start_char=2795|end_char=2796
+
+# text = – Если бы не эта тема...
+# sent_id = 41
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2797|end_char=2798
+2	Если	если	SCONJ	_	_	6	mark	_	start_char=2799|end_char=2803
+3	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=2804|end_char=2806
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2807|end_char=2809
+5	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=2810|end_char=2813
+6	тема	тема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2814|end_char=2818
+7	...	...	PUNCT	_	_	6	punct	_	start_char=2818|end_char=2821
+
+# text = – Древний Рим – отличная же тема!
+# sent_id = 42
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	7	punct	_	start_char=2822|end_char=2823
+2	Древний	древний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=2824|end_char=2831
+3	Рим	Рим	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	7	nsubj	_	start_char=2832|end_char=2835
+4	–	–	PUNCT	_	_	3	punct	_	start_char=2836|end_char=2837
+5	отличная	отличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2838|end_char=2846
+6	же	же	PART	_	_	5	advmod	_	start_char=2847|end_char=2849
+7	тема	тема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2850|end_char=2854
+8	!	!	PUNCT	_	_	7	punct	_	start_char=2854|end_char=2855
+
+# text = – удивился Йен.
+# sent_id = 43
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2856|end_char=2857
+2	удивился	удивиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2858|end_char=2866
+3	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2867|end_char=2870
+4	.	.	PUNCT	_	_	2	punct	_	start_char=2870|end_char=2871
+
+# text = – Ты – мы – её знаем не только по учебникам и книжкам, но и изнутри!
+# sent_id = 44
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2872|end_char=2873
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=2874|end_char=2876
+3	–	–	PUNCT	_	_	4	punct	_	start_char=2877|end_char=2878
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=2879|end_char=2881
+5	–	–	PUNCT	_	_	7	punct	_	start_char=2882|end_char=2883
+6	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=2884|end_char=2886
+7	знаем	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2887|end_char=2892
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=2893|end_char=2895
+9	только	только	PART	_	_	11	advmod	_	start_char=2896|end_char=2902
+10	по	по	ADP	_	_	11	case	_	start_char=2903|end_char=2905
+11	учебникам	учебник	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	obl	_	start_char=2906|end_char=2915
+12	и	и	CCONJ	_	_	13	cc	_	start_char=2916|end_char=2917
+13	книжкам	книжка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	11	conj	_	start_char=2918|end_char=2925
+14	,	,	PUNCT	_	_	17	punct	_	start_char=2925|end_char=2926
+15	но	но	CCONJ	_	_	17	cc	_	start_char=2927|end_char=2929
+16	и	и	PART	_	_	15	fixed	_	start_char=2930|end_char=2931
+17	изнутри	изнутри	ADV	_	Degree=Pos	11	conj	_	start_char=2932|end_char=2939
+18	!	!	PUNCT	_	_	4	punct	_	start_char=2939|end_char=2940
+
+# text = Сколько всего нового и интересного можно рассказать!
+# sent_id = 45
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Сколько	сколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	2	nummod:gov	_	start_char=2941|end_char=2948
+2	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	7	obj	_	start_char=2949|end_char=2954
+3	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=2955|end_char=2961
+4	и	и	CCONJ	_	_	5	cc	_	start_char=2962|end_char=2963
+5	интересного	интересный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	conj	_	start_char=2964|end_char=2975
+6	можно	можно	VERB	_	_	0	root	_	start_char=2976|end_char=2981
+7	рассказать	рассказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=2982|end_char=2992
+8	!	!	PUNCT	_	_	6	punct	_	start_char=2992|end_char=2993
+
+# text = – В том и проблема, что я могу рассказать больше, чем написано где-либо.
+# sent_id = 46
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2994|end_char=2995
+2	В	в	ADP	_	_	3	case	_	start_char=2996|end_char=2997
+3	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=2998|end_char=3001
+4	и	и	PART	_	_	5	advmod	_	start_char=3002|end_char=3003
+5	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=3004|end_char=3012
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3012|end_char=3013
+7	что	что	SCONJ	_	_	9	mark	_	start_char=3014|end_char=3017
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=3018|end_char=3019
+9	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	start_char=3020|end_char=3024
+10	рассказать	рассказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=3025|end_char=3035
+11	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	10	advmod	_	start_char=3036|end_char=3042
+12	,	,	PUNCT	_	_	14	punct	_	start_char=3042|end_char=3043
+13	чем	чем	SCONJ	_	_	14	mark	_	start_char=3044|end_char=3047
+14	написано	написать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	advcl	_	start_char=3048|end_char=3056
+15	где-либо	где-либо	ADV	_	Degree=Pos	14	advmod	_	start_char=3057|end_char=3065
+16	.	.	PUNCT	_	_	3	punct	_	start_char=3065|end_char=3066
+
+# text = А на каждое слово меня могли бы спросить "А эти данные у вас откуда?
+# sent_id = 47
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	А	а	CCONJ	_	_	6	cc	_	start_char=3067|end_char=3068
+2	на	на	ADP	_	_	4	case	_	start_char=3069|end_char=3071
+3	каждое	каждый	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	4	det	_	start_char=3072|end_char=3078
+4	слово	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	start_char=3079|end_char=3084
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=3085|end_char=3089
+6	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3090|end_char=3095
+7	бы	бы	AUX	_	Mood=Cnd	6	aux	_	start_char=3096|end_char=3098
+8	спросить	спросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=3099|end_char=3107
+9	"	"	PUNCT	_	_	15	punct	_	start_char=3108|end_char=3109
+10	А	а	CCONJ	_	_	15	cc	_	start_char=3109|end_char=3110
+11	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	12	det	_	start_char=3111|end_char=3114
+12	данные	данные	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	nsubj	_	start_char=3115|end_char=3121
+13	у	у	ADP	_	_	14	case	_	start_char=3122|end_char=3123
+14	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	15	obl	_	start_char=3124|end_char=3127
+15	откуда	откуда	ADV	_	Degree=Pos|PronType=Int	6	parataxis	_	start_char=3128|end_char=3134
+16	?	?	PUNCT	_	_	6	punct	_	start_char=3134|end_char=3135
+
+# text = А те из какого источника?".
+# sent_id = 48
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	А	а	CCONJ	_	_	5	cc	_	start_char=3136|end_char=3137
+2	те	тот	DET	_	Case=Nom|Number=Plur|PronType=Dem	5	nsubj	_	start_char=3138|end_char=3140
+3	из	из	ADP	_	_	5	case	_	start_char=3141|end_char=3143
+4	какого	какой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	5	det	_	start_char=3144|end_char=3150
+5	источника	источник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=3151|end_char=3160
+6	?	?	PUNCT	_	_	5	punct	_	start_char=3160|end_char=3161
+7	"	"	PUNCT	_	_	5	punct	_	start_char=3161|end_char=3162
+8	.	.	PUNCT	_	_	5	punct	_	start_char=3162|end_char=3163
+
+# text = Боюсь, вариант "Я там была и сама все видела" проверяющих не устроит.
+# sent_id = 49
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	15	parataxis	_	start_char=3164|end_char=3169
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3169|end_char=3170
+3	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=3171|end_char=3178
+4	"	"	PUNCT	_	_	7	punct	_	start_char=3179|end_char=3180
+5	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=3180|end_char=3181
+6	там	там	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=3182|end_char=3185
+7	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=3186|end_char=3190
+8	и	и	CCONJ	_	_	11	cc	_	start_char=3191|end_char=3192
+9	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	11	nsubj	_	start_char=3193|end_char=3197
+10	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	11	obj	_	start_char=3198|end_char=3201
+11	видела	видеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3202|end_char=3208
+12	"	"	PUNCT	_	_	7	punct	_	start_char=3208|end_char=3209
+13	проверяющих	проверять	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	obj	_	start_char=3210|end_char=3221
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=3222|end_char=3224
+15	устроит	устроить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=3225|end_char=3232
+16	.	.	PUNCT	_	_	1	punct	_	start_char=3232|end_char=3233
+
+# text = – Барбара прижала руки к сердцу: – Я так боюсь, так боюсь, как будто это был мой первый урок вообще.
+# sent_id = 50
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3234|end_char=3235
+2	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	3	nsubj	_	start_char=3236|end_char=3243
+3	прижала	прижать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3244|end_char=3251
+4	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	start_char=3252|end_char=3256
+5	к	к	ADP	_	_	6	case	_	start_char=3257|end_char=3258
+6	сердцу	сердце	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	obl	_	start_char=3259|end_char=3265
+7	:	:	PUNCT	_	_	11	punct	_	start_char=3265|end_char=3266
+8	–	–	PUNCT	_	_	11	punct	_	start_char=3267|end_char=3268
+9	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=3269|end_char=3270
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=3271|end_char=3274
+11	боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=3275|end_char=3280
+12	,	,	PUNCT	_	_	14	punct	_	start_char=3280|end_char=3281
+13	так	так	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=3282|end_char=3285
+14	боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	11	conj	_	start_char=3286|end_char=3291
+15	,	,	PUNCT	_	_	22	punct	_	start_char=3291|end_char=3292
+16	как	как	SCONJ	_	_	22	mark	_	start_char=3293|end_char=3296
+17	будто	будто	PART	_	_	16	fixed	_	start_char=3297|end_char=3302
+18	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	22	nsubj	_	start_char=3303|end_char=3306
+19	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	cop	_	start_char=3307|end_char=3310
+20	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	start_char=3311|end_char=3314
+21	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	22	amod	_	start_char=3315|end_char=3321
+22	урок	урок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	ccomp	_	start_char=3322|end_char=3326
+23	вообще	вообще	ADV	_	Degree=Pos	22	advmod	_	start_char=3327|end_char=3333
+24	.	.	PUNCT	_	_	3	punct	_	start_char=3333|end_char=3334
+
+# text = Кажется, я там всё же наговорила лишнего, но почему-то никто никаких замечаний не сделал.
+# sent_id = 51
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=3335|end_char=3342
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3342|end_char=3343
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=3344|end_char=3345
+4	там	там	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=3346|end_char=3349
+5	всё	всё	ADV	_	Degree=Pos|PronType=Tot	7	advmod	_	start_char=3350|end_char=3353
+6	же	же	PART	_	_	5	advmod	_	start_char=3354|end_char=3356
+7	наговорила	наговорить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3357|end_char=3367
+8	лишнего	лишний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	obj	_	start_char=3368|end_char=3375
+9	,	,	PUNCT	_	_	16	punct	_	start_char=3375|end_char=3376
+10	но	но	CCONJ	_	_	16	cc	_	start_char=3377|end_char=3379
+11	почему-то	почему-то	ADV	_	Degree=Pos|PronType=Ind	16	advmod	_	start_char=3380|end_char=3389
+12	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	16	nsubj	_	start_char=3390|end_char=3395
+13	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	14	det	_	start_char=3396|end_char=3403
+14	замечаний	замечание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	obj	_	start_char=3404|end_char=3413
+15	не	не	PART	_	Polarity=Neg	16	advmod	_	start_char=3414|end_char=3416
+16	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3417|end_char=3423
+17	.	.	PUNCT	_	_	7	punct	_	start_char=3423|end_char=3424
+
+# text = – Надо было, сидя на той вилле, не бездельничать, а написать парочку свитков с описанием быта, сейчас бы и предъявила подлинные документы, – усмехнулся Йен.
+# sent_id = 52
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3425|end_char=3426
+2	Надо	надо	VERB	_	_	0	root	_	start_char=3427|end_char=3431
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=3432|end_char=3436
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3436|end_char=3437
+5	сидя	сидеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=3438|end_char=3442
+6	на	на	ADP	_	_	8	case	_	start_char=3443|end_char=3445
+7	той	тот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=3446|end_char=3449
+8	вилле	вилл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	start_char=3450|end_char=3455
+9	,	,	PUNCT	_	_	11	punct	_	start_char=3455|end_char=3456
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=3457|end_char=3459
+11	бездельничать	бездельничать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	conj	_	start_char=3460|end_char=3473
+12	,	,	PUNCT	_	_	14	punct	_	start_char=3473|end_char=3474
+13	а	а	CCONJ	_	_	14	cc	_	start_char=3475|end_char=3476
+14	написать	написать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	start_char=3477|end_char=3485
+15	парочку	парочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=3486|end_char=3493
+16	свитков	свиток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	start_char=3494|end_char=3501
+17	с	с	ADP	_	_	18	case	_	start_char=3502|end_char=3503
+18	описанием	описание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	start_char=3504|end_char=3513
+19	быта	быт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	start_char=3514|end_char=3518
+20	,	,	PUNCT	_	_	14	punct	_	start_char=3518|end_char=3519
+21	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	24	advmod	_	start_char=3520|end_char=3526
+22	бы	бы	AUX	_	Mood=Cnd	24	aux	_	start_char=3527|end_char=3529
+23	и	и	CCONJ	_	_	24	cc	_	start_char=3530|end_char=3531
+24	предъявила	предъявить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3532|end_char=3542
+25	подлинные	подлинный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	26	amod	_	start_char=3543|end_char=3552
+26	документы	документ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	24	obj	_	start_char=3553|end_char=3562
+27	,	,	PUNCT	_	_	29	punct	_	start_char=3562|end_char=3563
+28	–	–	PUNCT	_	_	29	punct	_	start_char=3564|end_char=3565
+29	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=3566|end_char=3576
+30	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	29	nsubj	_	start_char=3577|end_char=3580
+31	.	.	PUNCT	_	_	2	punct	_	start_char=3580|end_char=3581
+
+# text = – Только кто же знал!
+# sent_id = 53
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3582|end_char=3583
+2	Только	только	PART	_	_	3	advmod	_	start_char=3584|end_char=3590
+3	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	start_char=3591|end_char=3594
+4	же	же	PART	_	_	3	advmod	_	start_char=3595|end_char=3597
+5	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3598|end_char=3602
+6	!	!	PUNCT	_	_	5	punct	_	start_char=3602|end_char=3603
+
+# text = – И в учительской...
+# sent_id = 54
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3604|end_char=3605
+2	И	и	CCONJ	_	_	4	cc	_	start_char=3606|end_char=3607
+3	в	в	ADP	_	_	4	case	_	start_char=3608|end_char=3609
+4	учительской	учительский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=3610|end_char=3621
+5	...	...	PUNCT	_	_	4	punct	_	start_char=3621|end_char=3624
+
+# text = – Барбара не закончила мысль.
+# sent_id = 55
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3625|end_char=3626
+2	Барбара	Барбар	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=3627|end_char=3634
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3635|end_char=3637
+4	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3638|end_char=3647
+5	мысль	мысль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=3648|end_char=3653
+6	.	.	PUNCT	_	_	4	punct	_	start_char=3653|end_char=3654
+
+# text = – Что – в учительской? – в голосе Йена послышалась настороженность.
+# sent_id = 56
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3655|end_char=3656
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=3657|end_char=3660
+3	–	–	PUNCT	_	_	5	punct	_	start_char=3661|end_char=3662
+4	в	в	ADP	_	_	5	case	_	start_char=3663|end_char=3664
+5	учительской	учительский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	2	nmod	_	start_char=3665|end_char=3676
+6	?	?	PUNCT	_	_	5	punct	_	start_char=3676|end_char=3677
+7	–	–	PUNCT	_	_	11	punct	_	start_char=3678|end_char=3679
+8	в	в	ADP	_	_	9	case	_	start_char=3680|end_char=3681
+9	голосе	голос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	start_char=3682|end_char=3688
+10	Йена	Йена	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	9	nmod	_	start_char=3689|end_char=3693
+11	послышалась	послышаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=3694|end_char=3705
+12	настороженность	настороженность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=3706|end_char=3721
+13	.	.	PUNCT	_	_	2	punct	_	start_char=3721|end_char=3722
+
+# text = – Мне сказали, что я совсем не изменилась.
+# sent_id = 57
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3723|end_char=3724
+2	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=3725|end_char=3728
+3	сказали	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3729|end_char=3736
+4	,	,	PUNCT	_	_	9	punct	_	start_char=3736|end_char=3737
+5	что	что	SCONJ	_	_	9	mark	_	start_char=3738|end_char=3741
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=3742|end_char=3743
+7	совсем	совсем	ADV	_	Degree=Pos	8	advmod	_	start_char=3744|end_char=3750
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3751|end_char=3753
+9	изменилась	измениться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=3754|end_char=3764
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3764|end_char=3765
+
+# text = – Это же хорошо?
+# sent_id = 58
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3766|end_char=3767
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=3768|end_char=3771
+3	же	же	PART	_	_	2	advmod	_	start_char=3772|end_char=3774
+4	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3775|end_char=3781
+5	?	?	PUNCT	_	_	4	punct	_	start_char=3781|end_char=3782
+
+# text = – Что даже прическа осталась прежняя.
+# sent_id = 59
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3783|end_char=3784
+2	Что	что	SCONJ	_	_	5	mark	_	start_char=3785|end_char=3788
+3	даже	даже	PART	_	_	4	advmod	_	start_char=3789|end_char=3793
+4	прическа	прическа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=3794|end_char=3802
+5	осталась	остаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3803|end_char=3811
+6	прежняя	прежний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	xcomp	_	start_char=3812|end_char=3819
+7	.	.	PUNCT	_	_	5	punct	_	start_char=3819|end_char=3820
+
+# text = А мода ушла вперед и дальше!
+# sent_id = 60
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	А	а	CCONJ	_	_	3	cc	_	start_char=3821|end_char=3822
+2	мода	мода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=3823|end_char=3827
+3	ушла	уйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3828|end_char=3832
+4	вперед	вперед	ADV	_	Degree=Pos	3	advmod	_	start_char=3833|end_char=3839
+5	и	и	CCONJ	_	_	6	cc	_	start_char=3840|end_char=3841
+6	дальше	дальше	ADV	_	Degree=Cmp	4	conj	_	start_char=3842|end_char=3848
+7	!	!	PUNCT	_	_	3	punct	_	start_char=3848|end_char=3849
+
+# text = – Это такие мелочи, на самом деле.
+# sent_id = 61
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3850|end_char=3851
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=3852|end_char=3855
+3	такие	такой	DET	_	Case=Nom|Number=Plur|PronType=Dem	4	det	_	start_char=3856|end_char=3861
+4	мелочи	мелочь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=3862|end_char=3868
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3868|end_char=3869
+6	на	на	ADP	_	_	8	case	_	start_char=3870|end_char=3872
+7	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	8	det	_	start_char=3873|end_char=3878
+8	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	start_char=3879|end_char=3883
+9	.	.	PUNCT	_	_	4	punct	_	start_char=3883|end_char=3884
+
+# text = Мало ли, почему она осталась прежней.
+# sent_id = 62
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Мало	мало	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=3885|end_char=3889
+2	ли	ли	PART	_	_	1	advmod	_	start_char=3890|end_char=3892
+3	,	,	PUNCT	_	_	6	punct	_	start_char=3892|end_char=3893
+4	почему	почему	ADV	_	Degree=Pos|PronType=Rel	6	advmod	_	start_char=3894|end_char=3900
+5	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3901|end_char=3904
+6	осталась	остаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	ccomp	_	start_char=3905|end_char=3913
+7	прежней	прежний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	xcomp	_	start_char=3914|end_char=3921
+8	.	.	PUNCT	_	_	1	punct	_	start_char=3921|end_char=3922
+
+# text = Ты с этой прической где и когда только не побывала, ни у кого к ней не было претензий.
+# sent_id = 63
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	start_char=3923|end_char=3925
+2	с	с	ADP	_	_	4	case	_	start_char=3926|end_char=3927
+3	этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	start_char=3928|end_char=3932
+4	прической	прическа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	obl	_	start_char=3933|end_char=3942
+5	где	где	ADV	_	Degree=Pos|PronType=Rel	18	advmod	_	start_char=3943|end_char=3946
+6	и	и	CCONJ	_	_	10	cc	_	start_char=3947|end_char=3948
+7	когда	когда	SCONJ	_	_	10	mark	_	start_char=3949|end_char=3954
+8	только	только	PART	_	_	10	advmod	_	start_char=3955|end_char=3961
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=3962|end_char=3964
+10	побывала	побывать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=3965|end_char=3973
+11	,	,	PUNCT	_	_	10	punct	_	start_char=3973|end_char=3974
+12	ни	ни	PART	_	Polarity=Neg	14	advmod	_	start_char=3975|end_char=3977
+13	у	у	ADP	_	_	14	case	_	start_char=3978|end_char=3979
+14	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	18	obl	_	start_char=3980|end_char=3984
+15	к	к	ADP	_	_	16	case	_	start_char=3985|end_char=3986
+16	ней	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obl	_	start_char=3987|end_char=3990
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=3991|end_char=3993
+18	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3994|end_char=3998
+19	претензий	претензия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nsubj	_	start_char=3999|end_char=4008
+20	.	.	PUNCT	_	_	18	punct	_	start_char=4008|end_char=4009
+
+# text = Даже у короля Ричарда Львиное Сердце и Кубилай-хана, – попытался успокоить Барбару Йен.
+# sent_id = 64
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Даже	даже	PART	_	_	3	advmod	_	start_char=4010|end_char=4014
+2	у	у	ADP	_	_	3	case	_	start_char=4015|end_char=4016
+3	короля	король	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	start_char=4017|end_char=4023
+4	Ричарда	Ричарда	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	3	nmod	_	start_char=4024|end_char=4031
+5	Львиное	львиный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=4032|end_char=4039
+6	Сердце	сердце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	appos	_	start_char=4040|end_char=4046
+7	и	и	CCONJ	_	_	8	cc	_	start_char=4047|end_char=4048
+8	Кубилай	Кубилай	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	conj	_	start_char=4049|end_char=4056
+9	-	-	PUNCT	_	_	10	punct	_	start_char=4056|end_char=4057
+10	хана	хана	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=4057|end_char=4061
+11	,	,	PUNCT	_	_	3	punct	_	start_char=4061|end_char=4062
+12	–	–	PUNCT	_	_	3	punct	_	start_char=4063|end_char=4064
+13	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4065|end_char=4074
+14	успокоить	успокоить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=4075|end_char=4084
+15	Барбару	Барбар	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	14	obj	_	start_char=4085|end_char=4092
+16	Йен	Йен	PROPN	_	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Sur|Number=Sing	15	flat:name	_	start_char=4093|end_char=4096
+17	.	.	PUNCT	_	_	13	punct	_	start_char=4096|end_char=4097
+
+# text = – Это историческая прическа, можно сказать!
+# sent_id = 65
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4098|end_char=4099
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=4100|end_char=4103
+3	историческая	исторический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=4104|end_char=4116
+4	прическа	прическа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4117|end_char=4125
+5	,	,	PUNCT	_	_	6	punct	_	start_char=4125|end_char=4126
+6	можно	можно	VERB	_	_	4	conj	_	start_char=4127|end_char=4132
+7	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=4133|end_char=4140
+8	!	!	PUNCT	_	_	4	punct	_	start_char=4140|end_char=4141
+
+# text = Она не выдержала и рассмеялась, напряжение, державшее её в своих тисках в течение дня, постепенно уходило, спадало.
+# sent_id = 66
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4142|end_char=4145
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4146|end_char=4148
+3	выдержала	выдержать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4149|end_char=4158
+4	и	и	CCONJ	_	_	5	cc	_	start_char=4159|end_char=4160
+5	рассмеялась	рассмеяться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=4161|end_char=4172
+6	,	,	PUNCT	_	_	19	punct	_	start_char=4172|end_char=4173
+7	напряжение	напряжение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	start_char=4174|end_char=4184
+8	,	,	PUNCT	_	_	9	punct	_	start_char=4184|end_char=4185
+9	державшее	держать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	start_char=4186|end_char=4195
+10	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=4196|end_char=4198
+11	в	в	ADP	_	_	13	case	_	start_char=4199|end_char=4200
+12	своих	свой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	start_char=4201|end_char=4206
+13	тисках	тиски	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	start_char=4207|end_char=4213
+14	в	в	ADP	_	_	16	case	_	start_char=4214|end_char=4215
+15	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	fixed	_	start_char=4216|end_char=4223
+16	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=4224|end_char=4227
+17	,	,	PUNCT	_	_	19	punct	_	start_char=4227|end_char=4228
+18	постепенно	постепенно	ADV	_	Degree=Pos	19	advmod	_	start_char=4229|end_char=4239
+19	уходило	уходить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4240|end_char=4247
+20	,	,	PUNCT	_	_	21	punct	_	start_char=4247|end_char=4248
+21	спадало	спадать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=4249|end_char=4256
+22	.	.	PUNCT	_	_	3	punct	_	start_char=4256|end_char=4257
+
+# text = – Да, это наша история, наше прошлое.
+# sent_id = 67
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4258|end_char=4259
+2	Да	да	PART	_	_	6	parataxis	_	start_char=4260|end_char=4262
+3	,	,	PUNCT	_	_	2	punct	_	start_char=4262|end_char=4263
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=4264|end_char=4267
+5	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4268|end_char=4272
+6	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=4273|end_char=4280
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4280|end_char=4281
+8	наше	наш	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=4282|end_char=4286
+9	прошлое	прошлое	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	start_char=4287|end_char=4294
+10	.	.	PUNCT	_	_	6	punct	_	start_char=4294|end_char=4295
+
+# text = – И у нас его никому не отнять, – согласился Йен.
+# sent_id = 68
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	8	punct	_	start_char=4296|end_char=4297
+2	И	и	CCONJ	_	_	8	cc	_	start_char=4298|end_char=4299
+3	у	у	ADP	_	_	4	case	_	start_char=4300|end_char=4301
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	obl	_	start_char=4302|end_char=4305
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=4306|end_char=4309
+6	никому	никто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	8	iobj	_	start_char=4310|end_char=4316
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=4317|end_char=4319
+8	отнять	отнять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=4320|end_char=4326
+9	,	,	PUNCT	_	_	11	punct	_	start_char=4326|end_char=4327
+10	–	–	PUNCT	_	_	11	punct	_	start_char=4328|end_char=4329
+11	согласился	согласиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	parataxis	_	start_char=4330|end_char=4340
+12	Йен	Йен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	nsubj	_	start_char=4341|end_char=4344
+13	.	.	PUNCT	_	_	8	punct	_	start_char=4344|end_char=4345
+
+# text = – И ты в моих глазах всегда будешь богиней.
+# sent_id = 69
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	9	punct	_	start_char=4346|end_char=4347
+2	И	и	CCONJ	_	_	9	cc	_	start_char=4348|end_char=4349
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=4350|end_char=4352
+4	в	в	ADP	_	_	6	case	_	start_char=4353|end_char=4354
+5	моих	мой	DET	_	Case=Loc|Number=Plur|Poss=Yes|PronType=Prs	6	det	_	start_char=4355|end_char=4359
+6	глазах	глаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	start_char=4360|end_char=4366
+7	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	start_char=4367|end_char=4373
+8	будешь	быть	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	9	cop	_	start_char=4374|end_char=4380
+9	богиней	богина	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=4381|end_char=4388
+10	.	.	PUNCT	_	_	9	punct	_	start_char=4388|end_char=4389
+
+# text = Грозной и милосердной ацтекской богиней.
+# sent_id = 70
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Грозной	грозный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=4390|end_char=4397
+2	и	и	CCONJ	_	_	3	cc	_	start_char=4398|end_char=4399
+3	милосердной	милосердный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	1	conj	_	start_char=4400|end_char=4411
+4	ацтекской	ацтекский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=4412|end_char=4421
+5	богиней	богина	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=4422|end_char=4429
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4429|end_char=4430
+
+# text = – А это будет наше будущее?
+# sent_id = 71
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4431|end_char=4432
+2	А	а	CCONJ	_	_	6	cc	_	start_char=4433|end_char=4434
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=4435|end_char=4438
+4	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	start_char=4439|end_char=4444
+5	наше	наш	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=4445|end_char=4449
+6	будущее	будущее	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=4450|end_char=4457
+7	?	?	PUNCT	_	_	6	punct	_	start_char=4457|end_char=4458
+
+# text = – Оно так переплетено с прошлым, что я их с трудом отличаю.
+# sent_id = 72
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4459|end_char=4460
+2	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=4461|end_char=4464
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=4465|end_char=4468
+4	переплетено	переплетить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=4469|end_char=4480
+5	с	с	ADP	_	_	6	case	_	start_char=4481|end_char=4482
+6	прошлым	прошлый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	start_char=4483|end_char=4490
+7	,	,	PUNCT	_	_	13	punct	_	start_char=4490|end_char=4491
+8	что	что	SCONJ	_	_	13	mark	_	start_char=4492|end_char=4495
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=4496|end_char=4497
+10	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	start_char=4498|end_char=4500
+11	с	с	ADP	_	_	12	case	_	start_char=4501|end_char=4502
+12	трудом	труд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	obl	_	start_char=4503|end_char=4509
+13	отличаю	отличать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	start_char=4510|end_char=4517
+14	.	.	PUNCT	_	_	4	punct	_	start_char=4517|end_char=4518
+
+# text = Трудно быть путешественником во времени!
+# sent_id = 73
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Трудно	трудный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4519|end_char=4525
+2	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	cop	_	start_char=4526|end_char=4530
+3	путешественником	путешественник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	csubj	_	start_char=4531|end_char=4547
+4	во	во	ADP	_	_	5	case	_	start_char=4548|end_char=4550
+5	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	start_char=4551|end_char=4558
+6	!	!	PUNCT	_	_	1	punct	_	start_char=4558|end_char=4559
+
+# text = Они рассмеялись, вместе спустились с крыльца и зашагали в сторону дома, наслаждаясь хорошей погодой.
+# sent_id = 74
+# metadata = Название: Их будущее, их прошлое, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545f68f700000a7d20500834/1/Ih-budushee-ih-proshloe
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=4560|end_char=4563
+2	рассмеялись	рассмеяться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4564|end_char=4575
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4575|end_char=4576
+4	вместе	вместе	ADV	_	Degree=Pos	5	advmod	_	start_char=4577|end_char=4583
+5	спустились	спуститься	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=4584|end_char=4594
+6	с	с	ADP	_	_	7	case	_	start_char=4595|end_char=4596
+7	крыльца	крыльца	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	start_char=4597|end_char=4604
+8	и	и	CCONJ	_	_	9	cc	_	start_char=4605|end_char=4606
+9	зашагали	зашагать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4607|end_char=4615
+10	в	в	ADP	_	_	11	case	_	start_char=4616|end_char=4617
+11	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	start_char=4618|end_char=4625
+12	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	start_char=4626|end_char=4630
+13	,	,	PUNCT	_	_	14	punct	_	start_char=4630|end_char=4631
+14	наслаждаясь	наслаждаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	9	advcl	_	start_char=4632|end_char=4643
+15	хорошей	хороший	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=4644|end_char=4651
+16	погодой	погода	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	start_char=4652|end_char=4659
+17	.	.	PUNCT	_	_	2	punct	_	start_char=4659|end_char=4660
+

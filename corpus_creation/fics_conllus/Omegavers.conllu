@@ -1,0 +1,1967 @@
+# text = – Норфолк…
+# sent_id = 0
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	start_char=2|end_char=9
+3	…	…	PUNCT	_	_	2	punct	_	start_char=9|end_char=10
+
+# text = Опять кругом чертов Норфолк… – меланхолично пробормотал Бригадир Летбридж-Стюарт и, пока никто не видел, ткнулся лбом в стол в своем пустом кабинете.
+# sent_id = 1
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Опять	опять	ADV	_	Degree=Pos	2	advmod	_	start_char=11|end_char=16
+2	кругом	кругом	ADV	_	Degree=Pos	0	root	_	start_char=17|end_char=23
+3	чертов	черт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=24|end_char=30
+4	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	3	appos	_	start_char=31|end_char=38
+5	…	…	PUNCT	_	_	8	punct	_	start_char=38|end_char=39
+6	–	–	PUNCT	_	_	8	punct	_	start_char=40|end_char=41
+7	меланхолично	меланхолично	ADV	_	Degree=Pos	8	advmod	_	start_char=42|end_char=54
+8	пробормотал	пробормотать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=55|end_char=66
+9	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=67|end_char=75
+10	Летбридж	Летбридж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	9	appos	_	start_char=76|end_char=84
+11	-	-	PUNCT	_	_	12	punct	_	start_char=84|end_char=85
+12	Стюарт	Стюарт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	10	flat:name	_	start_char=85|end_char=91
+13	и	и	CCONJ	_	_	20	cc	_	start_char=92|end_char=93
+14	,	,	PUNCT	_	_	18	punct	_	start_char=93|end_char=94
+15	пока	пока	SCONJ	_	_	18	mark	_	start_char=95|end_char=99
+16	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	18	nsubj	_	start_char=100|end_char=105
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=106|end_char=108
+18	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	start_char=109|end_char=114
+19	,	,	PUNCT	_	_	18	punct	_	start_char=114|end_char=115
+20	ткнулся	ткнуться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	start_char=116|end_char=123
+21	лбом	лоб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	iobj	_	start_char=124|end_char=128
+22	в	в	ADP	_	_	23	case	_	start_char=129|end_char=130
+23	стол	стол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	start_char=131|end_char=135
+24	в	в	ADP	_	_	27	case	_	start_char=136|end_char=137
+25	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	27	det	_	start_char=138|end_char=143
+26	пустом	пустой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	start_char=144|end_char=150
+27	кабинете	кабинет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	start_char=151|end_char=159
+28	.	.	PUNCT	_	_	2	punct	_	start_char=159|end_char=160
+
+# text = Зазвенел телефон, Бригадир немедленно встрепенулся и сорвал трубку.
+# sent_id = 2
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Зазвенел	зазвенеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=161|end_char=169
+2	телефон	телефон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=170|end_char=177
+3	,	,	PUNCT	_	_	6	punct	_	start_char=177|end_char=178
+4	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=179|end_char=187
+5	немедленно	немедленно	ADV	_	Degree=Pos	6	advmod	_	start_char=188|end_char=198
+6	встрепенулся	встрепенуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=199|end_char=211
+7	и	и	CCONJ	_	_	8	cc	_	start_char=212|end_char=213
+8	сорвал	сорвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=214|end_char=220
+9	трубку	трубка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=221|end_char=227
+10	.	.	PUNCT	_	_	1	punct	_	start_char=227|end_char=228
+
+# text = – Летбридж-Стюарт!
+# sent_id = 3
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=229|end_char=230
+2	Летбридж-	Летбридж-	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=231|end_char=240
+3	Стюарт	Стюарт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	_	start_char=240|end_char=246
+4	!	!	PUNCT	_	_	2	punct	_	start_char=246|end_char=247
+
+# text = – Сэр!
+# sent_id = 4
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=248|end_char=249
+2	Сэр	Сэр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=250|end_char=253
+3	!	!	PUNCT	_	_	2	punct	_	start_char=253|end_char=254
+
+# text = Повсюду Норфолк!
+# sent_id = 5
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Повсюду	повсюду	ADV	_	Degree=Pos	0	root	_	start_char=255|end_char=262
+2	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	1	nsubj	_	start_char=263|end_char=270
+3	!	!	PUNCT	_	_	1	punct	_	start_char=270|end_char=271
+
+# text = Бригадир раздраженно передернул усами.
+# sent_id = 6
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=272|end_char=280
+2	раздраженно	раздраженно	ADV	_	Degree=Pos	3	advmod	_	start_char=281|end_char=292
+3	передернул	передернуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=293|end_char=303
+4	усами	ус	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	iobj	_	start_char=304|end_char=309
+5	.	.	PUNCT	_	_	3	punct	_	start_char=309|end_char=310
+
+# text = – Я знаю, Бентон!
+# sent_id = 7
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=311|end_char=312
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=313|end_char=314
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=315|end_char=319
+4	,	,	PUNCT	_	_	5	punct	_	start_char=319|end_char=320
+5	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	vocative	_	start_char=321|end_char=327
+6	!	!	PUNCT	_	_	3	punct	_	start_char=327|end_char=328
+
+# text = Скажите мне что-нибудь новенькое!
+# sent_id = 8
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Скажите	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=329|end_char=336
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	start_char=337|end_char=340
+3	что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	1	obj	_	start_char=341|end_char=351
+4	новенькое	новенький	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=352|end_char=361
+5	!	!	PUNCT	_	_	1	punct	_	start_char=361|end_char=362
+
+# text = – Люди, сэр!
+# sent_id = 9
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=363|end_char=364
+2	Люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=365|end_char=369
+3	,	,	PUNCT	_	_	4	punct	_	start_char=369|end_char=370
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	start_char=371|end_char=374
+5	!	!	PUNCT	_	_	2	punct	_	start_char=374|end_char=375
+
+# text = Они исчезают.
+# sent_id = 10
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=376|end_char=379
+2	исчезают	исчезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=380|end_char=388
+3	.	.	PUNCT	_	_	2	punct	_	start_char=388|end_char=389
+
+# text = Бригадир напряженно приподнялся на стуле.
+# sent_id = 11
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=390|end_char=398
+2	напряженно	напряженно	ADV	_	Degree=Pos	3	advmod	_	start_char=399|end_char=409
+3	приподнялся	приподняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=410|end_char=421
+4	на	на	ADP	_	_	5	case	_	start_char=422|end_char=424
+5	стуле	стул	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=425|end_char=430
+6	.	.	PUNCT	_	_	3	punct	_	start_char=430|end_char=431
+
+# text = – Что значит – исчезают?
+# sent_id = 12
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=432|end_char=433
+2	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	start_char=434|end_char=437
+3	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=438|end_char=444
+4	–	–	PUNCT	_	_	3	punct	_	start_char=445|end_char=446
+5	исчезают	исчезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=447|end_char=455
+6	?	?	PUNCT	_	_	3	punct	_	start_char=455|end_char=456
+
+# text = – Растворяются в воздухе… нет, не так, простите сэр, они… даже не знаю, как передать… закручиваются в спираль и исчезают, будто вытекают в невидимый слив.
+# sent_id = 13
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=457|end_char=458
+2	Растворяются	растворяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=459|end_char=471
+3	в	в	ADP	_	_	4	case	_	start_char=472|end_char=473
+4	воздухе	воздух	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=474|end_char=481
+5	…	…	PUNCT	_	_	6	punct	_	start_char=481|end_char=482
+6	нет	нет	VERB	_	Polarity=Neg	2	conj	_	start_char=483|end_char=486
+7	,	,	PUNCT	_	_	9	punct	_	start_char=486|end_char=487
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=488|end_char=490
+9	так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	start_char=491|end_char=494
+10	,	,	PUNCT	_	_	11	punct	_	start_char=494|end_char=495
+11	простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=496|end_char=504
+12	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=505|end_char=508
+13	,	,	PUNCT	_	_	18	punct	_	start_char=508|end_char=509
+14	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=510|end_char=513
+15	…	…	PUNCT	_	_	18	punct	_	start_char=513|end_char=514
+16	даже	даже	PART	_	_	18	advmod	_	start_char=515|end_char=519
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=520|end_char=522
+18	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	start_char=523|end_char=527
+19	,	,	PUNCT	_	_	21	punct	_	start_char=527|end_char=528
+20	как	как	ADV	_	Degree=Pos|PronType=Rel	21	advmod	_	start_char=529|end_char=532
+21	передать	передать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	ccomp	_	start_char=533|end_char=541
+22	…	…	PUNCT	_	_	23	punct	_	start_char=541|end_char=542
+23	закручиваются	закручиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	conj	_	start_char=543|end_char=556
+24	в	в	ADP	_	_	25	case	_	start_char=557|end_char=558
+25	спираль	спираль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obl	_	start_char=559|end_char=566
+26	и	и	CCONJ	_	_	27	cc	_	start_char=567|end_char=568
+27	исчезают	исчезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	start_char=569|end_char=577
+28	,	,	PUNCT	_	_	30	punct	_	start_char=577|end_char=578
+29	будто	будто	SCONJ	_	_	30	mark	_	start_char=579|end_char=584
+30	вытекают	вытекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	advcl	_	start_char=585|end_char=593
+31	в	в	ADP	_	_	33	case	_	start_char=594|end_char=595
+32	невидимый	невидимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	start_char=596|end_char=605
+33	слив	слив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	obl	_	start_char=606|end_char=610
+34	.	.	PUNCT	_	_	2	punct	_	start_char=610|end_char=611
+
+# text = Без остатка, мгновенно, сэр!
+# sent_id = 14
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Без	без	ADP	_	_	2	case	_	start_char=612|end_char=615
+2	остатка	остатка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=616|end_char=623
+3	,	,	PUNCT	_	_	4	punct	_	start_char=623|end_char=624
+4	мгновенно	мгновенно	ADV	_	Degree=Pos	2	parataxis	_	start_char=625|end_char=634
+5	,	,	PUNCT	_	_	4	punct	_	start_char=634|end_char=635
+6	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=636|end_char=639
+7	!	!	PUNCT	_	_	2	punct	_	start_char=639|end_char=640
+
+# text = – Причины?
+# sent_id = 15
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=641|end_char=642
+2	Причины	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=643|end_char=650
+3	?	?	PUNCT	_	_	2	punct	_	start_char=650|end_char=651
+
+# text = – Я подбираю слова, чтобы передать это, сэр...
+# sent_id = 16
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=652|end_char=653
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=654|end_char=655
+3	подбираю	подбирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=656|end_char=664
+4	слова	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	start_char=665|end_char=670
+5	,	,	PUNCT	_	_	7	punct	_	start_char=670|end_char=671
+6	чтобы	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	start_char=672|end_char=677
+7	передать	передать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=678|end_char=686
+8	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	start_char=687|end_char=690
+9	,	,	PUNCT	_	_	10	punct	_	start_char=690|end_char=691
+10	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=692|end_char=695
+11	...	...	PUNCT	_	_	3	punct	_	start_char=695|end_char=698
+
+# text = – Вы нашли Доктора?!
+# sent_id = 17
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=699|end_char=700
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=701|end_char=703
+3	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=704|end_char=709
+4	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=710|end_char=717
+5	?!	?!	PUNCT	_	_	3	punct	_	start_char=717|end_char=719
+
+# text = – Да, сэр. – Голос Бентона в трубке стал окончательно похоронным.
+# sent_id = 18
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=720|end_char=721
+2	Да	да	PART	_	_	10	parataxis	_	start_char=722|end_char=724
+3	,	,	PUNCT	_	_	2	punct	_	start_char=724|end_char=725
+4	сэр.	сэра	NOUN	_	Abbr=Yes	2	parataxis	_	start_char=726|end_char=730
+5	–	–	PUNCT	_	_	10	punct	_	start_char=731|end_char=732
+6	Голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=733|end_char=738
+7	Бентона	Бентон	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	6	nmod	_	start_char=739|end_char=746
+8	в	в	ADP	_	_	9	case	_	start_char=747|end_char=748
+9	трубке	трубка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	start_char=749|end_char=755
+10	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=756|end_char=760
+11	окончательно	окончательно	ADV	_	Degree=Pos	12	advmod	_	start_char=761|end_char=773
+12	похоронным	похоронный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	xcomp	_	start_char=774|end_char=784
+13	.	.	PUNCT	_	_	2	punct	_	start_char=784|end_char=785
+
+# text = – Он один из тех, кто исчез.
+# sent_id = 19
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=786|end_char=787
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=788|end_char=790
+3	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	0	root	_	start_char=791|end_char=795
+4	из	из	ADP	_	_	5	case	_	start_char=796|end_char=798
+5	тех	тот	DET	_	Case=Gen|Number=Plur|PronType=Dem	3	nmod	_	start_char=799|end_char=802
+6	,	,	PUNCT	_	_	8	punct	_	start_char=802|end_char=803
+7	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	start_char=804|end_char=807
+8	исчез	исчезнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	start_char=808|end_char=813
+9	.	.	PUNCT	_	_	3	punct	_	start_char=813|end_char=814
+
+# text = – А!..
+# sent_id = 20
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=815|end_char=816
+2	А	а	INTJ	_	_	0	root	_	start_char=817|end_char=818
+3	!..	!..	PUNCT	_	_	2	punct	_	start_char=818|end_char=821
+
+# text = – Мне очень печально говорить об этом, сэр, не могу сказать, как повлияла ситуация на его рассудок.
+# sent_id = 21
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	4	punct	_	start_char=822|end_char=823
+2	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=824|end_char=827
+3	очень	очень	ADV	_	Degree=Pos	4	advmod	_	start_char=828|end_char=833
+4	печально	печально	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=834|end_char=842
+5	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=843|end_char=851
+6	об	об	ADP	_	_	7	case	_	start_char=852|end_char=854
+7	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=855|end_char=859
+8	,	,	PUNCT	_	_	9	punct	_	start_char=859|end_char=860
+9	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	vocative	_	start_char=861|end_char=864
+10	,	,	PUNCT	_	_	9	punct	_	start_char=864|end_char=865
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=866|end_char=868
+12	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=869|end_char=873
+13	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=874|end_char=881
+14	,	,	PUNCT	_	_	16	punct	_	start_char=881|end_char=882
+15	как	как	ADV	_	Degree=Pos|PronType=Rel	16	advmod	_	start_char=883|end_char=886
+16	повлияла	повлиять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	start_char=887|end_char=895
+17	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	start_char=896|end_char=904
+18	на	на	ADP	_	_	20	case	_	start_char=905|end_char=907
+19	его	его	DET	_	Poss=Yes|PronType=Prs	20	det	_	start_char=908|end_char=911
+20	рассудок	рассудок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	nmod	_	start_char=912|end_char=920
+21	.	.	PUNCT	_	_	4	punct	_	start_char=920|end_char=921
+
+# text = Когда мы его нашли, на тридцать четвертой миле Норфолка от нашей штаб-квартиры, он ходил кругами вокруг
+# sent_id = 22
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Когда	когда	SCONJ	_	_	4	mark	_	start_char=922|end_char=927
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=928|end_char=930
+3	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=931|end_char=934
+4	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	start_char=935|end_char=940
+5	,	,	PUNCT	_	_	4	punct	_	start_char=940|end_char=941
+6	на	на	ADP	_	_	9	case	_	start_char=942|end_char=944
+7	тридцать	тридцать	NUM	_	Case=Acc|NumForm=Word|NumType=Card	9	nummod:gov	_	start_char=945|end_char=953
+8	четвертой	четвертый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|NumForm=Word|NumType=Ord|Number=Sing	9	amod	_	start_char=954|end_char=963
+9	миле	миль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	obl	_	start_char=964|end_char=968
+10	Норфолка	Норфолка	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	9	nmod	_	start_char=969|end_char=977
+11	от	от	ADP	_	_	13	case	_	start_char=978|end_char=980
+12	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	start_char=981|end_char=986
+13	штаб	штаб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=987|end_char=991
+14	-	-	PUNCT	_	_	15	punct	_	start_char=991|end_char=992
+15	квартиры	квартира	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	appos	_	start_char=992|end_char=1000
+16	,	,	PUNCT	_	_	4	punct	_	start_char=1000|end_char=1001
+17	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=1002|end_char=1004
+18	ходил	ходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1005|end_char=1010
+19	кругами	круг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	18	iobj	_	start_char=1011|end_char=1018
+20	вокруг	вокруг	ADV	_	Degree=Pos	18	advmod	_	start_char=1019|end_char=1025
+
+# text = Бесси с работающим двигателем, что-то бормотал под нос, размахивал руками и подскакивал.
+# sent_id = 23
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Бесси	Бесси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	7	nsubj	_	start_char=1026|end_char=1031
+2	с	с	ADP	_	_	4	case	_	start_char=1032|end_char=1033
+3	работающим	работать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	start_char=1034|end_char=1044
+4	двигателем	двигатель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	start_char=1045|end_char=1055
+5	,	,	PUNCT	_	_	1	punct	_	start_char=1055|end_char=1056
+6	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	obj	_	start_char=1057|end_char=1063
+7	бормотал	бормотать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1064|end_char=1072
+8	под	под	ADP	_	_	9	case	_	start_char=1073|end_char=1076
+9	нос	нос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=1077|end_char=1080
+10	,	,	PUNCT	_	_	11	punct	_	start_char=1080|end_char=1081
+11	размахивал	размахивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1082|end_char=1092
+12	руками	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	iobj	_	start_char=1093|end_char=1099
+13	и	и	CCONJ	_	_	14	cc	_	start_char=1100|end_char=1101
+14	подскакивал	подскакивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1102|end_char=1113
+15	.	.	PUNCT	_	_	7	punct	_	start_char=1113|end_char=1114
+
+# text = Завидев нас, он, кажется, сперва обрадовался и сказал, что «Омега перешел все границы» – ему каким-то образом удалось распространить свою собственную вселенную на всю остальную Вселенную.
+# sent_id = 24
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Завидев	завидеть	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=1115|end_char=1122
+2	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	_	start_char=1123|end_char=1126
+3	,	,	PUNCT	_	_	1	punct	_	start_char=1126|end_char=1127
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=1128|end_char=1130
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1130|end_char=1131
+6	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=1132|end_char=1139
+7	,	,	PUNCT	_	_	6	punct	_	start_char=1139|end_char=1140
+8	сперва	сперва	ADV	_	Degree=Pos	9	advmod	_	start_char=1141|end_char=1147
+9	обрадовался	обрадоваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1148|end_char=1159
+10	и	и	CCONJ	_	_	11	cc	_	start_char=1160|end_char=1161
+11	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1162|end_char=1168
+12	,	,	PUNCT	_	_	16	punct	_	start_char=1168|end_char=1169
+13	что	что	SCONJ	_	_	16	mark	_	start_char=1170|end_char=1173
+14	«	«	PUNCT	_	_	16	punct	_	start_char=1174|end_char=1175
+15	Омега	Омег	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	16	nsubj	_	start_char=1175|end_char=1180
+16	перешел	перешести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	start_char=1181|end_char=1188
+17	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	18	det	_	start_char=1189|end_char=1192
+18	границы	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obj	_	start_char=1193|end_char=1200
+19	»	»	PUNCT	_	_	16	punct	_	start_char=1200|end_char=1201
+20	–	–	PUNCT	_	_	24	punct	_	start_char=1202|end_char=1203
+21	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	iobj	_	start_char=1204|end_char=1207
+22	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	23	det	_	start_char=1208|end_char=1216
+23	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	obl	_	start_char=1217|end_char=1224
+24	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=1225|end_char=1232
+25	распространить	распространить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	csubj	_	start_char=1233|end_char=1247
+26	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	28	det	_	start_char=1248|end_char=1252
+27	собственную	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	start_char=1253|end_char=1264
+28	вселенную	вселенная	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obj	_	start_char=1265|end_char=1274
+29	на	на	ADP	_	_	32	case	_	start_char=1275|end_char=1277
+30	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	32	det	_	start_char=1278|end_char=1281
+31	остальную	остальной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	start_char=1282|end_char=1291
+32	Вселенную	Вселенная	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	25	obl	_	start_char=1292|end_char=1301
+33	.	.	PUNCT	_	_	9	punct	_	start_char=1301|end_char=1302
+
+# text = По моему скромному мнению, он инвертировал полярности, сэр. – Где вы этого нахватались, Бентон?!
+# sent_id = 25
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	По	по	ADP	_	_	4	case	_	start_char=1303|end_char=1305
+2	моему	мой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=1306|end_char=1311
+3	скромному	скромный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	start_char=1312|end_char=1321
+4	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	parataxis	_	start_char=1322|end_char=1328
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1328|end_char=1329
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=1330|end_char=1332
+7	инвертировал	инвертировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1333|end_char=1345
+8	полярности	полярность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=1346|end_char=1356
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1356|end_char=1357
+10	сэр.	сэра	NOUN	_	Abbr=Yes	8	conj	_	start_char=1358|end_char=1362
+11	–	–	PUNCT	_	_	15	punct	_	start_char=1363|end_char=1364
+12	Где	где	ADV	_	Degree=Pos|PronType=Rel	15	advmod	_	start_char=1365|end_char=1368
+13	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	15	nsubj	_	start_char=1369|end_char=1371
+14	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	15	obj	_	start_char=1372|end_char=1377
+15	нахватались	нахвататься	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	10	acl:relcl	_	start_char=1378|end_char=1389
+16	,	,	PUNCT	_	_	17	punct	_	start_char=1389|end_char=1390
+17	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	15	vocative	_	start_char=1391|end_char=1397
+18	?!	?!	PUNCT	_	_	7	punct	_	start_char=1397|end_char=1399
+
+# text = – Простите, сэр, это слова Доктора, он часто так говорит – «инвертировать полярности».
+# sent_id = 26
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1400|end_char=1401
+2	Простите	простить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1402|end_char=1410
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1410|end_char=1411
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	vocative	_	start_char=1412|end_char=1415
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1415|end_char=1416
+6	это	это	PART	_	_	7	expl	_	start_char=1417|end_char=1420
+7	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	parataxis	_	start_char=1421|end_char=1426
+8	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	start_char=1427|end_char=1434
+9	,	,	PUNCT	_	_	13	punct	_	start_char=1434|end_char=1435
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=1436|end_char=1438
+11	часто	часто	ADV	_	Degree=Pos	13	advmod	_	start_char=1439|end_char=1444
+12	так	так	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=1445|end_char=1448
+13	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	start_char=1449|end_char=1456
+14	–	–	PUNCT	_	_	16	punct	_	start_char=1457|end_char=1458
+15	«	«	PUNCT	_	_	16	punct	_	start_char=1459|end_char=1460
+16	инвертировать	инвертировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	parataxis	_	start_char=1460|end_char=1473
+17	полярности	полярность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obj	_	start_char=1474|end_char=1484
+18	»	»	PUNCT	_	_	16	punct	_	start_char=1484|end_char=1485
+19	.	.	PUNCT	_	_	7	punct	_	start_char=1485|end_char=1486
+
+# text = – Заткнитесь и продолжайте по существу!
+# sent_id = 27
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1487|end_char=1488
+2	Заткнитесь	заткниться	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1489|end_char=1499
+3	и	и	CCONJ	_	_	4	cc	_	start_char=1500|end_char=1501
+4	продолжайте	продолжать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1502|end_char=1513
+5	по	по	ADP	_	_	6	case	_	start_char=1514|end_char=1516
+6	существу	существо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	obl	_	start_char=1517|end_char=1525
+7	!	!	PUNCT	_	_	2	punct	_	start_char=1525|end_char=1526
+
+# text = – несколько непоследовательно приказал Летбридж-Стюарт.
+# sent_id = 28
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1527|end_char=1528
+2	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	4	obj	_	start_char=1529|end_char=1538
+3	непоследовательно	непоследовательно	ADV	_	Degree=Pos	4	advmod	_	start_char=1539|end_char=1556
+4	приказал	приказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1557|end_char=1565
+5	Летбридж	Летбридж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=1566|end_char=1574
+6	-	-	PUNCT	_	_	7	punct	_	start_char=1574|end_char=1575
+7	Стюарт	Стюарт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	5	appos	_	start_char=1575|end_char=1581
+8	.	.	PUNCT	_	_	4	punct	_	start_char=1581|end_char=1582
+
+# text = – Таким образом, мы находимся в своеобразной вселенной Омеги, сэр.
+# sent_id = 29
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1583|end_char=1584
+2	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	start_char=1585|end_char=1590
+3	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	parataxis	_	start_char=1591|end_char=1598
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1598|end_char=1599
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=1600|end_char=1602
+6	находимся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1603|end_char=1612
+7	в	в	ADP	_	_	9	case	_	start_char=1613|end_char=1614
+8	своеобразной	своеобразный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=1615|end_char=1627
+9	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=1628|end_char=1637
+10	Омеги	Омега	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	9	nmod	_	start_char=1638|end_char=1643
+11	,	,	PUNCT	_	_	12	punct	_	start_char=1643|end_char=1644
+12	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	start_char=1645|end_char=1648
+13	.	.	PUNCT	_	_	6	punct	_	start_char=1648|end_char=1649
+
+# text = Доктор назвал это Омегаверс.
+# sent_id = 30
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=1650|end_char=1656
+2	назвал	назвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1657|end_char=1663
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	start_char=1664|end_char=1667
+4	Омегаверс	Омегаверс	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Com|Number=Sing	2	obj	_	start_char=1668|end_char=1677
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1677|end_char=1678
+
+# text = – К черту.
+# sent_id = 31
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1679|end_char=1680
+2	К	к	ADP	_	_	3	case	_	start_char=1681|end_char=1682
+3	черту	черт	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	0	root	_	start_char=1683|end_char=1688
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1688|end_char=1689
+
+# text = Что-нибудь еще он сказал, прежде чем раствориться, слиться…
+# sent_id = 32
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Что-нибудь	что-нибудь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	4	obj	_	start_char=1690|end_char=1700
+2	еще	еще	ADV	_	Degree=Pos	1	advmod	_	start_char=1701|end_char=1704
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=1705|end_char=1707
+4	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1708|end_char=1714
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1714|end_char=1715
+6	прежде	прежде	ADV	_	Degree=Pos	8	mark	_	start_char=1716|end_char=1722
+7	чем	чем	SCONJ	_	_	6	fixed	_	start_char=1723|end_char=1726
+8	раствориться	раствориться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	advcl	_	start_char=1727|end_char=1739
+9	,	,	PUNCT	_	_	10	punct	_	start_char=1739|end_char=1740
+10	слиться	слиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	conj	_	start_char=1741|end_char=1748
+11	…	…	PUNCT	_	_	4	punct	_	start_char=1748|end_char=1749
+
+# text = – Бригадир вздохнул.
+# sent_id = 33
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1750|end_char=1751
+2	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1752|end_char=1760
+3	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1761|end_char=1769
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1769|end_char=1770
+
+# text = – Прежде чем он исчез, – прибавил он грустно.
+# sent_id = 34
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	8	punct	_	start_char=1771|end_char=1772
+2	Прежде	прежде	ADV	_	Degree=Pos	5	mark	_	start_char=1773|end_char=1779
+3	чем	чем	SCONJ	_	_	5	mark	_	start_char=1780|end_char=1783
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1784|end_char=1786
+5	исчез	исчезнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=1787|end_char=1792
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1792|end_char=1793
+7	–	–	PUNCT	_	_	5	punct	_	start_char=1794|end_char=1795
+8	прибавил	прибавить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1796|end_char=1804
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=1805|end_char=1807
+10	грустно	грустно	ADV	_	Degree=Pos	8	advmod	_	start_char=1808|end_char=1815
+11	.	.	PUNCT	_	_	8	punct	_	start_char=1815|end_char=1816
+
+# text = – Да, сэр.
+# sent_id = 35
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1817|end_char=1818
+2	Да	да	PART	_	_	0	root	_	start_char=1819|end_char=1821
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1821|end_char=1822
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=1823|end_char=1826
+5	.	.	PUNCT	_	_	2	punct	_	start_char=1826|end_char=1827
+
+# text = Он сказал, что, по счастью, Омегаверс не слишком стабилен – он держится на каком-то ментальном замке, так как это именно то, в чем силен Омега, и то, каким образом он создал и поддерживает собственный мир.
+# sent_id = 36
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=1828|end_char=1830
+2	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1831|end_char=1837
+3	,	,	PUNCT	_	_	12	punct	_	start_char=1837|end_char=1838
+4	что	что	SCONJ	_	_	12	mark	_	start_char=1839|end_char=1842
+5	,	,	PUNCT	_	_	7	punct	_	start_char=1842|end_char=1843
+6	по	по	ADP	_	_	7	case	_	start_char=1844|end_char=1846
+7	счастью	счастье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	parataxis	_	start_char=1847|end_char=1854
+8	,	,	PUNCT	_	_	7	punct	_	start_char=1854|end_char=1855
+9	Омегаверс	Омегаверс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	12	nsubj	_	start_char=1856|end_char=1865
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=1866|end_char=1868
+11	слишком	слишком	ADV	_	Degree=Pos	12	advmod	_	start_char=1869|end_char=1876
+12	стабилен	стабильный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	ccomp	_	start_char=1877|end_char=1885
+13	–	–	PUNCT	_	_	15	punct	_	start_char=1886|end_char=1887
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=1888|end_char=1890
+15	держится	держаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	parataxis	_	start_char=1891|end_char=1899
+16	на	на	ADP	_	_	19	case	_	start_char=1900|end_char=1902
+17	каком-то	какой-то	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	19	det	_	start_char=1903|end_char=1911
+18	ментальном	ментальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=1912|end_char=1922
+19	замке	замка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=1923|end_char=1928
+20	,	,	PUNCT	_	_	25	punct	_	start_char=1928|end_char=1929
+21	так	так	ADV	_	Degree=Pos|PronType=Dem	25	mark	_	start_char=1930|end_char=1933
+22	как	как	SCONJ	_	_	21	fixed	_	start_char=1934|end_char=1937
+23	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	25	nsubj	_	start_char=1938|end_char=1941
+24	именно	именно	PART	_	_	25	advmod	_	start_char=1942|end_char=1948
+25	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	advcl	_	start_char=1949|end_char=1951
+26	,	,	PUNCT	_	_	29	punct	_	start_char=1951|end_char=1952
+27	в	в	ADP	_	_	28	case	_	start_char=1953|end_char=1954
+28	чем	что	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	29	obl	_	start_char=1955|end_char=1958
+29	силен	сильный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	25	acl:relcl	_	start_char=1959|end_char=1964
+30	Омега	Омег	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	29	nsubj	_	start_char=1965|end_char=1970
+31	,	,	PUNCT	_	_	33	punct	_	start_char=1970|end_char=1971
+32	и	и	CCONJ	_	_	33	cc	_	start_char=1972|end_char=1973
+33	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	25	conj	_	start_char=1974|end_char=1976
+34	,	,	PUNCT	_	_	38	punct	_	start_char=1976|end_char=1977
+35	каким	какой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	36	det	_	start_char=1978|end_char=1983
+36	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	38	obl	_	start_char=1984|end_char=1991
+37	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	nsubj	_	start_char=1992|end_char=1994
+38	создал	создать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	acl:relcl	_	start_char=1995|end_char=2001
+39	и	и	CCONJ	_	_	40	cc	_	start_char=2002|end_char=2003
+40	поддерживает	поддерживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	conj	_	start_char=2004|end_char=2016
+41	собственный	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	start_char=2017|end_char=2028
+42	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	40	obj	_	start_char=2029|end_char=2032
+43	.	.	PUNCT	_	_	2	punct	_	start_char=2032|end_char=2033
+
+# text = Это как застывшее представление о чем-то.
+# sent_id = 37
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2034|end_char=2037
+2	как	как	SCONJ	_	_	4	case	_	start_char=2038|end_char=2041
+3	застывшее	застыть	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	start_char=2042|end_char=2051
+4	представление	представление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2052|end_char=2065
+5	о	о	ADP	_	_	6	case	_	start_char=2066|end_char=2067
+6	чем-то	что-то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Ind	4	nmod	_	start_char=2068|end_char=2074
+7	.	.	PUNCT	_	_	4	punct	_	start_char=2074|end_char=2075
+
+# text = И чтобы выйти из ментальной ловушки, нужен ментальный же ключ.
+# sent_id = 38
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	И	и	CCONJ	_	_	8	cc	_	start_char=2076|end_char=2077
+2	чтобы	чтобы	SCONJ	_	Mood=Cnd	3	mark	_	start_char=2078|end_char=2083
+3	выйти	выйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	advcl	_	start_char=2084|end_char=2089
+4	из	из	ADP	_	_	6	case	_	start_char=2090|end_char=2092
+5	ментальной	ментальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=2093|end_char=2103
+6	ловушки	ловушка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	start_char=2104|end_char=2111
+7	,	,	PUNCT	_	_	3	punct	_	start_char=2111|end_char=2112
+8	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2113|end_char=2118
+9	ментальный	ментальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	start_char=2119|end_char=2129
+10	же	же	PART	_	_	9	advmod	_	start_char=2130|end_char=2132
+11	ключ	ключ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=2133|end_char=2137
+12	.	.	PUNCT	_	_	8	punct	_	start_char=2137|end_char=2138
+
+# text = Всего-навсего представление о чем-то.
+# sent_id = 39
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Всего-навсего	всего-навсего	ADV	_	Degree=Pos	2	advmod	_	start_char=2139|end_char=2152
+2	представление	представление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2153|end_char=2166
+3	о	о	ADP	_	_	4	case	_	start_char=2167|end_char=2168
+4	чем-то	что-то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Ind	2	nmod	_	start_char=2169|end_char=2175
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2175|end_char=2176
+
+# text = Очень простое, сэр, сильное, архетипическое.
+# sent_id = 40
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	start_char=2177|end_char=2182
+2	простое	простой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	start_char=2183|end_char=2190
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2190|end_char=2191
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=2192|end_char=2195
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2195|end_char=2196
+6	сильное	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	start_char=2197|end_char=2204
+7	,	,	PUNCT	_	_	8	punct	_	start_char=2204|end_char=2205
+8	архетипическое	архетипический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	start_char=2206|end_char=2220
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2220|end_char=2221
+
+# text = – Где вы этого…
+# sent_id = 41
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2222|end_char=2223
+2	Где	где	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=2224|end_char=2227
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=2228|end_char=2230
+4	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=2231|end_char=2236
+5	…	…	PUNCT	_	_	2	punct	_	start_char=2236|end_char=2237
+
+# text = Ладно, Бентон, дальше?
+# sent_id = 42
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Ладно	ладно	PART	_	_	5	parataxis	_	start_char=2238|end_char=2243
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2243|end_char=2244
+3	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	5	vocative	_	start_char=2245|end_char=2251
+4	,	,	PUNCT	_	_	3	punct	_	start_char=2251|end_char=2252
+5	дальше	дальше	ADV	_	Degree=Cmp	0	root	_	start_char=2253|end_char=2259
+6	?	?	PUNCT	_	_	5	punct	_	start_char=2259|end_char=2260
+
+# text = – А дальше случилось непоправимое, сэр.
+# sent_id = 43
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2261|end_char=2262
+2	А	а	CCONJ	_	_	4	cc	_	start_char=2263|end_char=2264
+3	дальше	дальше	ADV	_	Degree=Cmp	4	advmod	_	start_char=2265|end_char=2271
+4	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2272|end_char=2281
+5	непоправимое	непоправимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nsubj	_	start_char=2282|end_char=2294
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2294|end_char=2295
+7	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	start_char=2296|end_char=2299
+8	.	.	PUNCT	_	_	4	punct	_	start_char=2299|end_char=2300
+
+# text = Доктор вскочил в кабину Бесси, несколько раз нажал на клаксон, обернулся, посмотрел на меня, внезапно расхохотался, погрозил пальцем и громко сказал: «Поцелуйте себя…» пониже спины, сэр.
+# sent_id = 44
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2301|end_char=2307
+2	вскочил	вскочить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2308|end_char=2315
+3	в	в	ADP	_	_	4	case	_	start_char=2316|end_char=2317
+4	кабину	кабина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	start_char=2318|end_char=2324
+5	Бесси	Бесси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	appos	_	start_char=2325|end_char=2330
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2330|end_char=2331
+7	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=2332|end_char=2341
+8	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	start_char=2342|end_char=2345
+9	нажал	нажать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2346|end_char=2351
+10	на	на	ADP	_	_	11	case	_	start_char=2352|end_char=2354
+11	клаксон	клаксон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	start_char=2355|end_char=2362
+12	,	,	PUNCT	_	_	13	punct	_	start_char=2362|end_char=2363
+13	обернулся	обернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2364|end_char=2373
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2373|end_char=2374
+15	посмотрел	посмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2375|end_char=2384
+16	на	на	ADP	_	_	17	case	_	start_char=2385|end_char=2387
+17	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obl	_	start_char=2388|end_char=2392
+18	,	,	PUNCT	_	_	20	punct	_	start_char=2392|end_char=2393
+19	внезапно	внезапно	ADV	_	Degree=Pos	20	advmod	_	start_char=2394|end_char=2402
+20	расхохотался	расхохотаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=2403|end_char=2415
+21	,	,	PUNCT	_	_	22	punct	_	start_char=2415|end_char=2416
+22	погрозил	погрозить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2417|end_char=2425
+23	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	iobj	_	start_char=2426|end_char=2433
+24	и	и	CCONJ	_	_	26	cc	_	start_char=2434|end_char=2435
+25	громко	громко	ADV	_	Degree=Pos	26	advmod	_	start_char=2436|end_char=2442
+26	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=2443|end_char=2449
+27	:	:	PUNCT	_	_	29	punct	_	start_char=2449|end_char=2450
+28	«	«	PUNCT	_	_	29	punct	_	start_char=2451|end_char=2452
+29	Поцелуйте	поцеловать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	26	parataxis	_	start_char=2452|end_char=2461
+30	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	29	obj	_	start_char=2462|end_char=2466
+31	…	…	PUNCT	_	_	29	punct	_	start_char=2466|end_char=2467
+32	»	»	PUNCT	_	_	29	punct	_	start_char=2467|end_char=2468
+33	пониже	низкий	ADJ	_	Degree=Cmp	29	conj	_	start_char=2469|end_char=2475
+34	спины	спина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	obl	_	start_char=2476|end_char=2481
+35	,	,	PUNCT	_	_	36	punct	_	start_char=2481|end_char=2482
+36	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	33	vocative	_	start_char=2483|end_char=2486
+37	.	.	PUNCT	_	_	2	punct	_	start_char=2486|end_char=2487
+
+# text = Это было очень грубо и так на него не похоже.
+# sent_id = 45
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2488|end_char=2491
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=2492|end_char=2496
+3	очень	очень	ADV	_	Degree=Pos	4	advmod	_	start_char=2497|end_char=2502
+4	грубо	грубо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2503|end_char=2508
+5	и	и	CCONJ	_	_	10	cc	_	start_char=2509|end_char=2510
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=2511|end_char=2514
+7	на	на	ADP	_	_	8	case	_	start_char=2515|end_char=2517
+8	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=2518|end_char=2522
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=2523|end_char=2525
+10	похоже	похожий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	conj	_	start_char=2526|end_char=2532
+11	.	.	PUNCT	_	_	4	punct	_	start_char=2532|end_char=2533
+
+# text = Поэтому я думаю, что он сошел с ума.
+# sent_id = 46
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2534|end_char=2541
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2542|end_char=2543
+3	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2544|end_char=2549
+4	,	,	PUNCT	_	_	7	punct	_	start_char=2549|end_char=2550
+5	что	что	SCONJ	_	_	7	mark	_	start_char=2551|end_char=2554
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=2555|end_char=2557
+7	сошел	сойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2558|end_char=2563
+8	с	с	ADP	_	_	9	case	_	start_char=2564|end_char=2565
+9	ума	ум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=2566|end_char=2569
+10	.	.	PUNCT	_	_	3	punct	_	start_char=2569|end_char=2570
+
+# text = Возможно, таково действие ментальной ловушки.
+# sent_id = 47
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Возможно	возможно	ADV	_	Degree=Pos	4	parataxis	_	start_char=2571|end_char=2579
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2579|end_char=2580
+3	таково	таков	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	start_char=2581|end_char=2587
+4	действие	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=2588|end_char=2596
+5	ментальной	ментальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=2597|end_char=2607
+6	ловушки	ловушка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=2608|end_char=2615
+7	.	.	PUNCT	_	_	4	punct	_	start_char=2615|end_char=2616
+
+# text = И тут же превратился в плоский разноцветный вихрь – это выглядело очень страшно, сэр, будто его растянуло в нитку, уложенную кругом как плотно стянутый клубок – только плоский, а потом начисто пропал, только что-то вспыхнуло.
+# sent_id = 48
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	И	и	CCONJ	_	_	4	cc	_	start_char=2617|end_char=2618
+2	тут	тут	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2619|end_char=2622
+3	же	же	PART	_	_	2	advmod	_	start_char=2623|end_char=2625
+4	превратился	превратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2626|end_char=2637
+5	в	в	ADP	_	_	8	case	_	start_char=2638|end_char=2639
+6	плоский	плоский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=2640|end_char=2647
+7	разноцветный	разноцветный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=2648|end_char=2660
+8	вихрь	вихрь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	start_char=2661|end_char=2666
+9	–	–	PUNCT	_	_	11	punct	_	start_char=2667|end_char=2668
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=2669|end_char=2672
+11	выглядело	выглядеть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2673|end_char=2682
+12	очень	очень	ADV	_	Degree=Pos	13	advmod	_	start_char=2683|end_char=2688
+13	страшно	страшный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	xcomp	_	start_char=2689|end_char=2696
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2696|end_char=2697
+15	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=2698|end_char=2701
+16	,	,	PUNCT	_	_	19	punct	_	start_char=2701|end_char=2702
+17	будто	будто	SCONJ	_	_	19	mark	_	start_char=2703|end_char=2708
+18	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	start_char=2709|end_char=2712
+19	растянуло	растянуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=2713|end_char=2722
+20	в	в	ADP	_	_	21	case	_	start_char=2723|end_char=2724
+21	нитку	нитка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obl	_	start_char=2725|end_char=2730
+22	,	,	PUNCT	_	_	23	punct	_	start_char=2730|end_char=2731
+23	уложенную	уложить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	start_char=2732|end_char=2741
+24	кругом	круг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	obl:agent	_	start_char=2742|end_char=2748
+25	как	как	SCONJ	_	_	28	case	_	start_char=2749|end_char=2752
+26	плотно	плотно	ADV	_	Degree=Pos	27	advmod	_	start_char=2753|end_char=2759
+27	стянутый	стянуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	start_char=2760|end_char=2768
+28	клубок	клубок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	obl	_	start_char=2769|end_char=2775
+29	–	–	PUNCT	_	_	31	punct	_	start_char=2776|end_char=2777
+30	только	только	PART	_	_	31	advmod	_	start_char=2778|end_char=2784
+31	плоский	плоский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	start_char=2785|end_char=2792
+32	,	,	PUNCT	_	_	36	punct	_	start_char=2792|end_char=2793
+33	а	а	CCONJ	_	_	36	cc	_	start_char=2794|end_char=2795
+34	потом	потом	ADV	_	Degree=Pos|PronType=Dem	36	advmod	_	start_char=2796|end_char=2801
+35	начисто	начисто	ADV	_	Degree=Pos	36	advmod	_	start_char=2802|end_char=2809
+36	пропал	пропасть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	conj	_	start_char=2810|end_char=2816
+37	,	,	PUNCT	_	_	40	punct	_	start_char=2816|end_char=2817
+38	только	только	CCONJ	_	_	40	cc	_	start_char=2818|end_char=2824
+39	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	40	nsubj	_	start_char=2825|end_char=2831
+40	вспыхнуло	вспыхнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	conj	_	start_char=2832|end_char=2841
+41	.	.	PUNCT	_	_	4	punct	_	start_char=2841|end_char=2842
+
+# text = Или только так показалось…
+# sent_id = 49
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Или	или	CCONJ	_	_	4	cc	_	start_char=2843|end_char=2846
+2	только	только	PART	_	_	3	advmod	_	start_char=2847|end_char=2853
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2854|end_char=2857
+4	показалось	показаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2858|end_char=2868
+5	…	…	PUNCT	_	_	4	punct	_	start_char=2868|end_char=2869
+
+# text = – Он э… коллапсировал в микроскопическую черную дыру, возможно, мгновенно испарившуюся? – озадаченно предположил Летбридж-Стюарт.
+# sent_id = 50
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2870|end_char=2871
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2872|end_char=2874
+3	э…	э…	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=2875|end_char=2877
+4	коллапсировал	коллапсировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2878|end_char=2891
+5	в	в	ADP	_	_	8	case	_	start_char=2892|end_char=2893
+6	микроскопическую	микроскопический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=2894|end_char=2910
+7	черную	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=2911|end_char=2917
+8	дыру	дыра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=2918|end_char=2922
+9	,	,	PUNCT	_	_	13	punct	_	start_char=2922|end_char=2923
+10	возможно	возможно	ADV	_	Degree=Pos	13	parataxis	_	start_char=2924|end_char=2932
+11	,	,	PUNCT	_	_	10	punct	_	start_char=2932|end_char=2933
+12	мгновенно	мгновенно	ADV	_	Degree=Pos	13	advmod	_	start_char=2934|end_char=2943
+13	испарившуюся	испариться	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	8	acl	_	start_char=2944|end_char=2956
+14	?	?	PUNCT	_	_	13	punct	_	start_char=2956|end_char=2957
+15	–	–	PUNCT	_	_	17	punct	_	start_char=2958|end_char=2959
+16	озадаченно	озадаченно	ADV	_	Degree=Pos	17	advmod	_	start_char=2960|end_char=2970
+17	предположил	предположить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2971|end_char=2982
+18	Летбридж	Летбридж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	17	nsubj	_	start_char=2983|end_char=2991
+19	-Стюарт	-Стюарт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	18	flat:name	_	start_char=2991|end_char=2998
+20	.	.	PUNCT	_	_	4	punct	_	start_char=2998|end_char=2999
+
+# text = Может, это были бы не самые привычные слова из уст какого-либо другого современного Летбридж-Стюарту вояки, но ЮНИТ уже с чем только не имел дела…
+# sent_id = 51
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=3000|end_char=3005
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3005|end_char=3006
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=3007|end_char=3010
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=3011|end_char=3015
+5	бы	бы	AUX	_	Mood=Cnd	9	aux	_	start_char=3016|end_char=3018
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=3019|end_char=3021
+7	самые	самый	DET	_	Case=Nom|Number=Plur|PronType=Emp	8	det	_	start_char=3022|end_char=3027
+8	привычные	привычный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	start_char=3028|end_char=3037
+9	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=3038|end_char=3043
+10	из	из	ADP	_	_	11	case	_	start_char=3044|end_char=3046
+11	уст	уста	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	start_char=3047|end_char=3050
+12	какого-либо	какой-либо	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	15	det	_	start_char=3051|end_char=3062
+13	другого	другой	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	15	det	_	start_char=3063|end_char=3070
+14	современного	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=3071|end_char=3083
+15	Летбридж	Летбридж	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	11	nmod	_	start_char=3084|end_char=3092
+16	-	-	PUNCT	_	_	17	punct	_	start_char=3092|end_char=3093
+17	Стюарту	Стюарт	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	15	appos	_	start_char=3093|end_char=3100
+18	вояки	вояк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	appos	_	start_char=3101|end_char=3106
+19	,	,	PUNCT	_	_	27	punct	_	start_char=3106|end_char=3107
+20	но	но	CCONJ	_	_	27	cc	_	start_char=3108|end_char=3110
+21	ЮНИТ	ЮНИТ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	27	nsubj	_	start_char=3111|end_char=3115
+22	уже	уже	ADV	_	Degree=Pos	24	advmod	_	start_char=3116|end_char=3119
+23	с	с	ADP	_	_	24	case	_	start_char=3120|end_char=3121
+24	чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	27	obl	_	start_char=3122|end_char=3125
+25	только	только	PART	_	_	27	advmod	_	start_char=3126|end_char=3132
+26	не	не	PART	_	Polarity=Neg	27	advmod	_	start_char=3133|end_char=3135
+27	имел	иметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=3136|end_char=3140
+28	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	obj	_	start_char=3141|end_char=3145
+29	…	…	PUNCT	_	_	9	punct	_	start_char=3145|end_char=3146
+
+# text = – Так точно, сэр!
+# sent_id = 52
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3147|end_char=3148
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=3149|end_char=3152
+3	точно	точно	ADV	_	Degree=Pos	0	root	_	start_char=3153|end_char=3158
+4	,	,	PUNCT	_	_	5	punct	_	start_char=3158|end_char=3159
+5	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	start_char=3160|end_char=3163
+6	!	!	PUNCT	_	_	3	punct	_	start_char=3163|end_char=3164
+
+# text = Но я пытался передать, как именно это выглядело.
+# sent_id = 53
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=3165|end_char=3167
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3168|end_char=3169
+3	пытался	пытаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3170|end_char=3177
+4	передать	передать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=3178|end_char=3186
+5	,	,	PUNCT	_	_	9	punct	_	start_char=3186|end_char=3187
+6	как	как	ADV	_	Degree=Pos|PronType=Rel	9	advmod	_	start_char=3188|end_char=3191
+7	именно	именно	PART	_	_	8	advmod	_	start_char=3192|end_char=3198
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=3199|end_char=3202
+9	выглядело	выглядеть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=3203|end_char=3212
+10	.	.	PUNCT	_	_	3	punct	_	start_char=3212|end_char=3213
+
+# text = Честно говоря, это выглядело, как если бы он сам вдруг попытался поцеловать себя так, как он предложил мне… что превратился в бешено вращающееся спагетти от одного этого импульса.
+# sent_id = 54
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Честно	честно	ADV	_	Degree=Pos	2	advmod	_	start_char=3214|end_char=3220
+2	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	parataxis	_	start_char=3221|end_char=3227
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3227|end_char=3228
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3229|end_char=3232
+5	выглядело	выглядеть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3233|end_char=3242
+6	,	,	PUNCT	_	_	13	punct	_	start_char=3242|end_char=3243
+7	как	как	SCONJ	_	_	13	mark	_	start_char=3244|end_char=3247
+8	если	если	SCONJ	_	_	13	mark	_	start_char=3248|end_char=3252
+9	бы	бы	AUX	_	Mood=Cnd	13	aux	_	start_char=3253|end_char=3255
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=3256|end_char=3258
+11	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	10	acl	_	start_char=3259|end_char=3262
+12	вдруг	вдруг	ADV	_	Degree=Pos	13	advmod	_	start_char=3263|end_char=3268
+13	попытался	попытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	advcl	_	start_char=3269|end_char=3278
+14	поцеловать	поцеловать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=3279|end_char=3289
+15	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	14	obj	_	start_char=3290|end_char=3294
+16	так	так	ADV	_	Degree=Pos|PronType=Dem	14	advmod	_	start_char=3295|end_char=3298
+17	,	,	PUNCT	_	_	20	punct	_	start_char=3298|end_char=3299
+18	как	как	SCONJ	_	_	20	mark	_	start_char=3300|end_char=3303
+19	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=3304|end_char=3306
+20	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	start_char=3307|end_char=3316
+21	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	20	iobj	_	start_char=3317|end_char=3320
+22	…	…	PUNCT	_	_	24	punct	_	start_char=3320|end_char=3321
+23	что	что	SCONJ	_	_	24	mark	_	start_char=3322|end_char=3325
+24	превратился	превратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	20	ccomp	_	start_char=3326|end_char=3337
+25	в	в	ADP	_	_	28	case	_	start_char=3338|end_char=3339
+26	бешено	бешено	ADV	_	Degree=Pos	27	advmod	_	start_char=3340|end_char=3346
+27	вращающееся	вращаться	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	start_char=3347|end_char=3358
+28	спагетти	спагеття	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	obl	_	start_char=3359|end_char=3367
+29	от	от	ADP	_	_	32	case	_	start_char=3368|end_char=3370
+30	одного	один	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	32	det	_	start_char=3371|end_char=3377
+31	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	32	det	_	start_char=3378|end_char=3383
+32	импульса	импульс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	obl	_	start_char=3384|end_char=3392
+33	.	.	PUNCT	_	_	5	punct	_	start_char=3392|end_char=3393
+
+# text = – Понятно… значит, он каким-то образом сошел с ума, это его дестабилизировало, и он нарвался на какую-то ментальную мину.
+# sent_id = 55
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3394|end_char=3395
+2	Понятно	понятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=3396|end_char=3403
+3	…	…	PUNCT	_	_	9	punct	_	start_char=3403|end_char=3404
+4	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=3405|end_char=3411
+5	,	,	PUNCT	_	_	4	punct	_	start_char=3411|end_char=3412
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=3413|end_char=3415
+7	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	start_char=3416|end_char=3424
+8	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	start_char=3425|end_char=3432
+9	сошел	сойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3433|end_char=3438
+10	с	с	ADP	_	_	11	case	_	start_char=3439|end_char=3440
+11	ума	ум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	start_char=3441|end_char=3444
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3444|end_char=3445
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	start_char=3446|end_char=3449
+14	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=3450|end_char=3453
+15	дестабилизировало	дестабилизировать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=3454|end_char=3471
+16	,	,	PUNCT	_	_	19	punct	_	start_char=3471|end_char=3472
+17	и	и	CCONJ	_	_	19	cc	_	start_char=3473|end_char=3474
+18	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=3475|end_char=3477
+19	нарвался	нарваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=3478|end_char=3486
+20	на	на	ADP	_	_	23	case	_	start_char=3487|end_char=3489
+21	какую-то	какой-то	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	23	det	_	start_char=3490|end_char=3498
+22	ментальную	ментальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	start_char=3499|end_char=3509
+23	мину	минута	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obl	_	start_char=3510|end_char=3514
+24	.	.	PUNCT	_	_	2	punct	_	start_char=3514|end_char=3515
+
+# text = – Это не единственное предположение, сэр, боюсь, что не просто сошел с ума.
+# sent_id = 56
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3516|end_char=3517
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3518|end_char=3521
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3522|end_char=3524
+4	единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=3525|end_char=3537
+5	предположение	предположение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3538|end_char=3551
+6	,	,	PUNCT	_	_	7	punct	_	start_char=3551|end_char=3552
+7	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	vocative	_	start_char=3553|end_char=3556
+8	,	,	PUNCT	_	_	7	punct	_	start_char=3556|end_char=3557
+9	боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=3558|end_char=3563
+10	,	,	PUNCT	_	_	14	punct	_	start_char=3563|end_char=3564
+11	что	что	SCONJ	_	_	14	mark	_	start_char=3565|end_char=3568
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=3569|end_char=3571
+13	просто	просто	PART	_	_	14	advmod	_	start_char=3572|end_char=3578
+14	сошел	сойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	start_char=3579|end_char=3584
+15	с	с	ADP	_	_	16	case	_	start_char=3585|end_char=3586
+16	ума	ум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	obl	_	start_char=3587|end_char=3590
+17	.	.	PUNCT	_	_	5	punct	_	start_char=3590|end_char=3591
+
+# text = Понимаете, один из солдат невольно подхватил его слова, услышав такое, только предложил поцеловать его самого… э… разумеется, это был случайный аффект, экспрессия, но он мгновенно превратился в плоский клубок ниток и затем аннигилировал.
+# sent_id = 57
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Понимаете	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3592|end_char=3601
+2	,	,	PUNCT	_	_	7	punct	_	start_char=3601|end_char=3602
+3	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	start_char=3603|end_char=3607
+4	из	из	ADP	_	_	5	case	_	start_char=3608|end_char=3610
+5	солдат	солдат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	start_char=3611|end_char=3617
+6	невольно	невольно	ADV	_	Degree=Pos	7	advmod	_	start_char=3618|end_char=3626
+7	подхватил	подхватить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	start_char=3627|end_char=3636
+8	его	его	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=3637|end_char=3640
+9	слова	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	obj	_	start_char=3641|end_char=3646
+10	,	,	PUNCT	_	_	11	punct	_	start_char=3646|end_char=3647
+11	услышав	услышать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=3648|end_char=3655
+12	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	start_char=3656|end_char=3661
+13	,	,	PUNCT	_	_	11	punct	_	start_char=3661|end_char=3662
+14	только	только	PART	_	_	15	advmod	_	start_char=3663|end_char=3669
+15	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=3670|end_char=3679
+16	поцеловать	поцеловать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=3680|end_char=3690
+17	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=3691|end_char=3694
+18	самого	самый	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Emp	17	det	_	start_char=3695|end_char=3701
+19	…	…	PUNCT	_	_	21	punct	_	start_char=3701|end_char=3702
+20	э…	э…	INTJ	_	_	21	discourse	_	start_char=3703|end_char=3705
+21	разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	26	parataxis	_	start_char=3706|end_char=3716
+22	,	,	PUNCT	_	_	26	punct	_	start_char=3716|end_char=3717
+23	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	26	nsubj	_	start_char=3718|end_char=3721
+24	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	_	start_char=3722|end_char=3725
+25	случайный	случайный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	start_char=3726|end_char=3735
+26	аффект	аффект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	start_char=3736|end_char=3742
+27	,	,	PUNCT	_	_	28	punct	_	start_char=3742|end_char=3743
+28	экспрессия	экспрессия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	conj	_	start_char=3744|end_char=3754
+29	,	,	PUNCT	_	_	33	punct	_	start_char=3754|end_char=3755
+30	но	но	CCONJ	_	_	33	cc	_	start_char=3756|end_char=3758
+31	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	start_char=3759|end_char=3761
+32	мгновенно	мгновенно	ADV	_	Degree=Pos	33	advmod	_	start_char=3762|end_char=3771
+33	превратился	превратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	26	conj	_	start_char=3772|end_char=3783
+34	в	в	ADP	_	_	36	case	_	start_char=3784|end_char=3785
+35	плоский	плоский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	start_char=3786|end_char=3793
+36	клубок	клубок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	33	obl	_	start_char=3794|end_char=3800
+37	ниток	нитка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	start_char=3801|end_char=3806
+38	и	и	CCONJ	_	_	40	cc	_	start_char=3807|end_char=3808
+39	затем	затем	ADV	_	Degree=Pos|PronType=Dem	40	advmod	_	start_char=3809|end_char=3814
+40	аннигилировал	аннигилировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	conj	_	start_char=3815|end_char=3828
+41	.	.	PUNCT	_	_	1	punct	_	start_char=3828|end_char=3829
+
+# text = – Проклятье.
+# sent_id = 58
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3830|end_char=3831
+2	Проклятье	проклятье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3832|end_char=3841
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3841|end_char=3842
+
+# text = – Да, сэр.
+# sent_id = 59
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3843|end_char=3844
+2	Да	да	PART	_	_	0	root	_	start_char=3845|end_char=3847
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3847|end_char=3848
+4	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	start_char=3849|end_char=3852
+5	.	.	PUNCT	_	_	2	punct	_	start_char=3852|end_char=3853
+
+# text = Более того, это происходит теперь с людьми спонтанно.
+# sent_id = 60
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Более	более	ADV	_	Degree=Cmp|PronType=Tot	5	parataxis	_	start_char=3854|end_char=3859
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	obl	_	start_char=3860|end_char=3864
+3	,	,	PUNCT	_	_	1	punct	_	start_char=3864|end_char=3865
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=3866|end_char=3869
+5	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3870|end_char=3880
+6	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3881|end_char=3887
+7	с	с	ADP	_	_	8	case	_	start_char=3888|end_char=3889
+8	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	start_char=3890|end_char=3896
+9	спонтанно	спонтанно	ADV	_	Degree=Pos	5	advmod	_	start_char=3897|end_char=3906
+10	.	.	PUNCT	_	_	5	punct	_	start_char=3906|end_char=3907
+
+# text = Боюсь, они думают об этой фразе, и когда концентрируются достаточно, совершенно случайно, разумеется, они мгновенно подрываются на ментальной мине и исчезают.
+# sent_id = 61
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=3908|end_char=3913
+2	,	,	PUNCT	_	_	1	punct	_	start_char=3913|end_char=3914
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=3915|end_char=3918
+4	думают	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3919|end_char=3925
+5	об	об	ADP	_	_	7	case	_	start_char=3926|end_char=3928
+6	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=3929|end_char=3933
+7	фразе	фраза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	start_char=3934|end_char=3939
+8	,	,	PUNCT	_	_	21	punct	_	start_char=3939|end_char=3940
+9	и	и	CCONJ	_	_	21	cc	_	start_char=3941|end_char=3942
+10	когда	когда	SCONJ	_	_	11	mark	_	start_char=3943|end_char=3948
+11	концентрируются	концентрироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	advcl	_	start_char=3949|end_char=3964
+12	достаточно	достаточно	ADV	_	Degree=Pos	11	advmod	_	start_char=3965|end_char=3975
+13	,	,	PUNCT	_	_	21	punct	_	start_char=3975|end_char=3976
+14	совершенно	совершенно	ADV	_	Degree=Pos	15	advmod	_	start_char=3977|end_char=3987
+15	случайно	случайно	ADV	_	Degree=Pos	21	advmod	_	start_char=3988|end_char=3996
+16	,	,	PUNCT	_	_	17	punct	_	start_char=3996|end_char=3997
+17	разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	parataxis	_	start_char=3998|end_char=4008
+18	,	,	PUNCT	_	_	17	punct	_	start_char=4008|end_char=4009
+19	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=4010|end_char=4013
+20	мгновенно	мгновенно	ADV	_	Degree=Pos	21	advmod	_	start_char=4014|end_char=4023
+21	подрываются	подрываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=4024|end_char=4035
+22	на	на	ADP	_	_	24	case	_	start_char=4036|end_char=4038
+23	ментальной	ментальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	start_char=4039|end_char=4049
+24	мине	мине	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	obl	_	start_char=4050|end_char=4054
+25	и	и	CCONJ	_	_	26	cc	_	start_char=4055|end_char=4056
+26	исчезают	исчезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	start_char=4057|end_char=4065
+27	.	.	PUNCT	_	_	4	punct	_	start_char=4065|end_char=4066
+
+# text = Возможно, следует как-то предупредить людей, чтобы они не говорили таких слов и даже не думали о таком.
+# sent_id = 62
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Возможно	возможно	ADV	_	Degree=Pos	3	parataxis	_	start_char=4067|end_char=4075
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4075|end_char=4076
+3	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4077|end_char=4084
+4	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	5	advmod	_	start_char=4085|end_char=4091
+5	предупредить	предупредить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=4092|end_char=4104
+6	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	start_char=4105|end_char=4110
+7	,	,	PUNCT	_	_	11	punct	_	start_char=4110|end_char=4111
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	start_char=4112|end_char=4117
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=4118|end_char=4121
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=4122|end_char=4124
+11	говорили	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=4125|end_char=4133
+12	таких	такой	DET	_	Case=Gen|Number=Plur|PronType=Dem	13	det	_	start_char=4134|end_char=4139
+13	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	obj	_	start_char=4140|end_char=4144
+14	и	и	CCONJ	_	_	17	cc	_	start_char=4145|end_char=4146
+15	даже	даже	PART	_	_	17	advmod	_	start_char=4147|end_char=4151
+16	не	не	PART	_	Polarity=Neg	17	advmod	_	start_char=4152|end_char=4154
+17	думали	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	start_char=4155|end_char=4161
+18	о	о	ADP	_	_	19	case	_	start_char=4162|end_char=4163
+19	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	17	obl	_	start_char=4164|end_char=4169
+20	.	.	PUNCT	_	_	3	punct	_	start_char=4169|end_char=4170
+
+# text = Бригадир снова тяжко вздохнул.
+# sent_id = 63
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=4171|end_char=4179
+2	снова	снова	ADV	_	Degree=Pos	4	advmod	_	start_char=4180|end_char=4185
+3	тяжко	тяжкий	ADV	_	Degree=Pos	4	advmod	_	start_char=4186|end_char=4191
+4	вздохнул	вздохнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4192|end_char=4200
+5	.	.	PUNCT	_	_	4	punct	_	start_char=4200|end_char=4201
+
+# text = – Вы считаете, мы должны предупредить все население, чтобы они не думали о Белой Обезьяне?
+# sent_id = 64
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4202|end_char=4203
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=4204|end_char=4206
+3	считаете	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4207|end_char=4215
+4	,	,	PUNCT	_	_	6	punct	_	start_char=4215|end_char=4216
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=4217|end_char=4219
+6	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	parataxis	_	start_char=4220|end_char=4226
+7	предупредить	предупредить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=4227|end_char=4239
+8	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	det	_	start_char=4240|end_char=4243
+9	население	население	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=4244|end_char=4253
+10	,	,	PUNCT	_	_	14	punct	_	start_char=4253|end_char=4254
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	14	mark	_	start_char=4255|end_char=4260
+12	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=4261|end_char=4264
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=4265|end_char=4267
+14	думали	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=4268|end_char=4274
+15	о	о	ADP	_	_	17	case	_	start_char=4275|end_char=4276
+16	Белой	белый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=4277|end_char=4282
+17	Обезьяне	Обезьяна	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	14	obl	_	start_char=4283|end_char=4291
+18	?	?	PUNCT	_	_	3	punct	_	start_char=4291|end_char=4292
+
+# text = – Так точно, сэр, чтобы забыли Герострата.
+# sent_id = 65
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4293|end_char=4294
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=4295|end_char=4298
+3	точно	точно	ADV	_	Degree=Pos	0	root	_	start_char=4299|end_char=4304
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4304|end_char=4305
+5	сэр	сэр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	start_char=4306|end_char=4309
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4309|end_char=4310
+7	чтобы	чтобы	SCONJ	_	Mood=Cnd	8	mark	_	start_char=4311|end_char=4316
+8	забыли	забыть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	start_char=4317|end_char=4323
+9	Герострата	Герострат	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing	8	obj	_	start_char=4324|end_char=4334
+10	.	.	PUNCT	_	_	3	punct	_	start_char=4334|end_char=4335
+
+# text = Я предпочитаю в данный момент концентрироваться на том, чтобы забыть Герострата.
+# sent_id = 66
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=4336|end_char=4337
+2	предпочитаю	предпочитать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4338|end_char=4349
+3	в	в	ADP	_	_	5	case	_	start_char=4350|end_char=4351
+4	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=4352|end_char=4358
+5	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=4359|end_char=4365
+6	концентрироваться	концентрироваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=4366|end_char=4383
+7	на	на	ADP	_	_	8	case	_	start_char=4384|end_char=4386
+8	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	start_char=4387|end_char=4390
+9	,	,	PUNCT	_	_	11	punct	_	start_char=4390|end_char=4391
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	start_char=4392|end_char=4397
+11	забыть	забыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	acl	_	start_char=4398|end_char=4404
+12	Герострата	Герострат	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	11	obj	_	start_char=4405|end_char=4415
+13	.	.	PUNCT	_	_	2	punct	_	start_char=4415|end_char=4416
+
+# text = – Хорошо, Бентон, продолжайте...
+# sent_id = 67
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4417|end_char=4418
+2	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4419|end_char=4425
+3	,	,	PUNCT	_	_	4	punct	_	start_char=4425|end_char=4426
+4	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	vocative	_	start_char=4427|end_char=4433
+5	,	,	PUNCT	_	_	4	punct	_	start_char=4433|end_char=4434
+6	продолжайте	продолжать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	conj	_	start_char=4435|end_char=4446
+7	...	...	PUNCT	_	_	2	punct	_	start_char=4446|end_char=4449
+
+# text = Но, несмотря ни на что, страну… нет, не страну, а Норфолк – вездесущий Норфолк, по-видимому, Норфолк на всех планетах этой вселенной – как славно было бы все это для колонизации космоса, без всякой возни с терраформированием, если бы не побочные эффекты… – охватило что-то вроде эпидемии.
+# sent_id = 68
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Но	но	CCONJ	_	_	10	cc	_	start_char=4450|end_char=4452
+2	,	,	PUNCT	_	_	6	punct	_	start_char=4452|end_char=4453
+3	несмотря	несмотря	ADV	_	Degree=Pos	6	case	_	start_char=4454|end_char=4462
+4	ни	ни	PART	_	Polarity=Neg	3	fixed	_	start_char=4463|end_char=4465
+5	на	на	ADP	_	_	3	fixed	_	start_char=4466|end_char=4468
+6	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	10	obl	_	start_char=4469|end_char=4472
+7	,	,	PUNCT	_	_	6	punct	_	start_char=4472|end_char=4473
+8	страну	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=4474|end_char=4480
+9	…	…	PUNCT	_	_	10	punct	_	start_char=4480|end_char=4481
+10	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=4482|end_char=4485
+11	,	,	PUNCT	_	_	13	punct	_	start_char=4485|end_char=4486
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=4487|end_char=4489
+13	страну	страна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=4490|end_char=4496
+14	,	,	PUNCT	_	_	16	punct	_	start_char=4496|end_char=4497
+15	а	а	CCONJ	_	_	16	cc	_	start_char=4498|end_char=4499
+16	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	10	conj	_	start_char=4500|end_char=4507
+17	–	–	PUNCT	_	_	19	punct	_	start_char=4508|end_char=4509
+18	вездесущий	вездесущий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=4510|end_char=4520
+19	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	16	appos	_	start_char=4521|end_char=4528
+20	,	,	PUNCT	_	_	23	punct	_	start_char=4528|end_char=4529
+21	по-видимому	по-видимому	ADV	_	Degree=Pos	23	parataxis	_	start_char=4530|end_char=4541
+22	,	,	PUNCT	_	_	21	punct	_	start_char=4541|end_char=4542
+23	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	16	appos	_	start_char=4543|end_char=4550
+24	на	на	ADP	_	_	26	case	_	start_char=4551|end_char=4553
+25	всех	весь	DET	_	Case=Loc|Number=Plur|PronType=Tot	26	det	_	start_char=4554|end_char=4558
+26	планетах	планета	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	23	nmod	_	start_char=4559|end_char=4567
+27	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	start_char=4568|end_char=4572
+28	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	start_char=4573|end_char=4582
+29	–	–	PUNCT	_	_	31	punct	_	start_char=4583|end_char=4584
+30	как	как	SCONJ	_	_	31	mark	_	start_char=4585|end_char=4588
+31	славно	славный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	23	parataxis	_	start_char=4589|end_char=4595
+32	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	cop	_	start_char=4596|end_char=4600
+33	бы	бы	AUX	_	Mood=Cnd	31	aux	_	start_char=4601|end_char=4603
+34	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	35	det	_	start_char=4604|end_char=4607
+35	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	31	nsubj	_	start_char=4608|end_char=4611
+36	для	для	ADP	_	_	37	case	_	start_char=4612|end_char=4615
+37	колонизации	колонизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	obl	_	start_char=4616|end_char=4627
+38	космоса	космос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	start_char=4628|end_char=4635
+39	,	,	PUNCT	_	_	42	punct	_	start_char=4635|end_char=4636
+40	без	без	ADP	_	_	42	case	_	start_char=4637|end_char=4640
+41	всякой	всякий	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	42	det	_	start_char=4641|end_char=4647
+42	возни	вознь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	conj	_	start_char=4648|end_char=4653
+43	с	с	ADP	_	_	44	case	_	start_char=4654|end_char=4655
+44	терраформированием	терраформирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	42	nmod	_	start_char=4656|end_char=4674
+45	,	,	PUNCT	_	_	53	punct	_	start_char=4674|end_char=4675
+46	если	если	SCONJ	_	_	50	mark	_	start_char=4676|end_char=4680
+47	бы	бы	AUX	_	Mood=Cnd	50	aux	_	start_char=4681|end_char=4683
+48	не	не	PART	_	Polarity=Neg	49	advmod	_	start_char=4684|end_char=4686
+49	побочные	побочный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	50	amod	_	start_char=4687|end_char=4695
+50	эффекты	эффект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	53	advcl	_	start_char=4696|end_char=4703
+51	…	…	PUNCT	_	_	53	punct	_	start_char=4703|end_char=4704
+52	–	–	PUNCT	_	_	53	punct	_	start_char=4705|end_char=4706
+53	охватило	охватить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	37	conj	_	start_char=4707|end_char=4715
+54	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	53	nsubj	_	start_char=4716|end_char=4722
+55	вроде	вроде	ADP	_	_	56	case	_	start_char=4723|end_char=4728
+56	эпидемии	эпидемия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	54	nmod	_	start_char=4729|end_char=4737
+57	.	.	PUNCT	_	_	53	punct	_	start_char=4737|end_char=4738
+
+# text = Люди коллапсировали один за другим, постоянно повсеместно открывая по совершенной случайности одну экспрессивную фразу, которая вмиг опустошала целое сообщество, и не защищен от этого был никто, ни дети в яслях, ни монашки в монастырях.
+# sent_id = 69
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=4739|end_char=4743
+2	коллапсировали	коллапсировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4744|end_char=4758
+3	один	один	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	2	obj	_	start_char=4759|end_char=4763
+4	за	за	ADP	_	_	5	case	_	start_char=4764|end_char=4766
+5	другим	другой	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	2	obl	_	start_char=4767|end_char=4773
+6	,	,	PUNCT	_	_	9	punct	_	start_char=4773|end_char=4774
+7	постоянно	постоянно	ADV	_	Degree=Pos	9	advmod	_	start_char=4775|end_char=4784
+8	повсеместно	повсеместно	ADV	_	Degree=Pos	9	advmod	_	start_char=4785|end_char=4796
+9	открывая	открывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	start_char=4797|end_char=4805
+10	по	по	ADP	_	_	12	case	_	start_char=4806|end_char=4808
+11	совершенной	совершенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=4809|end_char=4820
+12	случайности	случайность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	obl	_	start_char=4821|end_char=4832
+13	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	15	nummod	_	start_char=4833|end_char=4837
+14	экспрессивную	экспрессивный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	start_char=4838|end_char=4851
+15	фразу	фраза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	start_char=4852|end_char=4857
+16	,	,	PUNCT	_	_	19	punct	_	start_char=4857|end_char=4858
+17	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	19	nsubj	_	start_char=4859|end_char=4866
+18	вмиг	вмиг	ADV	_	Degree=Pos	19	advmod	_	start_char=4867|end_char=4871
+19	опустошала	опустошать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	start_char=4872|end_char=4882
+20	целое	целый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	start_char=4883|end_char=4888
+21	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obj	_	start_char=4889|end_char=4899
+22	,	,	PUNCT	_	_	25	punct	_	start_char=4899|end_char=4900
+23	и	и	CCONJ	_	_	25	cc	_	start_char=4901|end_char=4902
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=4903|end_char=4905
+25	защищен	защить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	start_char=4906|end_char=4913
+26	от	от	ADP	_	_	27	case	_	start_char=4914|end_char=4916
+27	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	25	obl	_	start_char=4917|end_char=4922
+28	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	aux:pass	_	start_char=4923|end_char=4926
+29	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	25	nsubj:pass	_	start_char=4927|end_char=4932
+30	,	,	PUNCT	_	_	32	punct	_	start_char=4932|end_char=4933
+31	ни	ни	CCONJ	_	Polarity=Neg	32	cc	_	start_char=4934|end_char=4936
+32	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	29	conj	_	start_char=4937|end_char=4941
+33	в	в	ADP	_	_	34	case	_	start_char=4942|end_char=4943
+34	яслях	яслях	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	32	nmod	_	start_char=4944|end_char=4949
+35	,	,	PUNCT	_	_	37	punct	_	start_char=4949|end_char=4950
+36	ни	ни	CCONJ	_	Polarity=Neg	37	cc	_	start_char=4951|end_char=4953
+37	монашки	монашка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	29	conj	_	start_char=4954|end_char=4961
+38	в	в	ADP	_	_	39	case	_	start_char=4962|end_char=4963
+39	монастырях	монастырь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	37	nmod	_	start_char=4964|end_char=4974
+40	.	.	PUNCT	_	_	2	punct	_	start_char=4974|end_char=4975
+
+# text = Всего несколько часов, но на много миль вокруг все опустело, на мир опускалась неестественная тишина, ни шума проезжающих автомобилей, ни гула пролетающих самолетов, ни даже пенья птиц – каким-то образом и они оказались подвержены тому же поветрию.
+# sent_id = 70
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Всего	всего	PART	_	_	2	advmod	_	start_char=4976|end_char=4981
+2	несколько	несколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	3	nummod:gov	_	start_char=4982|end_char=4991
+3	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	start_char=4992|end_char=4997
+4	,	,	PUNCT	_	_	11	punct	_	start_char=4997|end_char=4998
+5	но	но	CCONJ	_	_	11	cc	_	start_char=4999|end_char=5001
+6	на	на	ADP	_	_	8	case	_	start_char=5002|end_char=5004
+7	много	много	NUM	_	Case=Acc|NumForm=Word|NumType=Card	8	nummod:gov	_	start_char=5005|end_char=5010
+8	миль	миль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	obl	_	start_char=5011|end_char=5015
+9	вокруг	вокруг	ADV	_	Degree=Pos	11	advmod	_	start_char=5016|end_char=5022
+10	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	11	nsubj	_	start_char=5023|end_char=5026
+11	опустело	опустеть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=5027|end_char=5035
+12	,	,	PUNCT	_	_	15	punct	_	start_char=5035|end_char=5036
+13	на	на	ADP	_	_	14	case	_	start_char=5037|end_char=5039
+14	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=5040|end_char=5043
+15	опускалась	опускаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=5044|end_char=5054
+16	неестественная	неестественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=5055|end_char=5069
+17	тишина	тишина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	start_char=5070|end_char=5076
+18	,	,	PUNCT	_	_	20	punct	_	start_char=5076|end_char=5077
+19	ни	ни	CCONJ	_	Polarity=Neg	20	cc	_	start_char=5078|end_char=5080
+20	шума	шум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	conj	_	start_char=5081|end_char=5085
+21	проезжающих	проезжать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	start_char=5086|end_char=5097
+22	автомобилей	автомобиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	start_char=5098|end_char=5109
+23	,	,	PUNCT	_	_	25	punct	_	start_char=5109|end_char=5110
+24	ни	ни	CCONJ	_	Polarity=Neg	25	cc	_	start_char=5111|end_char=5113
+25	гула	гуло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	conj	_	start_char=5114|end_char=5118
+26	пролетающих	пролетать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	27	amod	_	start_char=5119|end_char=5130
+27	самолетов	самолет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	start_char=5131|end_char=5140
+28	,	,	PUNCT	_	_	31	punct	_	start_char=5140|end_char=5141
+29	ни	ни	CCONJ	_	Polarity=Neg	31	cc	_	start_char=5142|end_char=5144
+30	даже	даже	PART	_	_	31	advmod	_	start_char=5145|end_char=5149
+31	пенья	пенье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	conj	_	start_char=5150|end_char=5155
+32	птиц	птица	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	31	nmod	_	start_char=5156|end_char=5160
+33	–	–	PUNCT	_	_	35	punct	_	start_char=5161|end_char=5162
+34	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	35	det	_	start_char=5163|end_char=5171
+35	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	31	nmod	_	start_char=5172|end_char=5179
+36	и	и	CCONJ	_	_	38	cc	_	start_char=5180|end_char=5181
+37	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	start_char=5182|end_char=5185
+38	оказались	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	35	conj	_	start_char=5186|end_char=5195
+39	подвержены	подвержить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	38	xcomp	_	start_char=5196|end_char=5206
+40	тому	тот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	42	det	_	start_char=5207|end_char=5211
+41	же	же	PART	_	_	40	advmod	_	start_char=5212|end_char=5214
+42	поветрию	поветрия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	39	iobj	_	start_char=5215|end_char=5223
+43	.	.	PUNCT	_	_	3	punct	_	start_char=5223|end_char=5224
+
+# text = В абсолютно мертвых стенах лондонской… теперь уже норфолкской штаб-квартиры ЮНИТ бригадир Летбридж-Стюарт чего-то ждал.
+# sent_id = 71
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	В	в	ADP	_	_	4	case	_	start_char=5225|end_char=5226
+2	абсолютно	абсолютно	ADV	_	Degree=Pos	3	advmod	_	start_char=5227|end_char=5236
+3	мертвых	мертвый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	amod	_	start_char=5237|end_char=5244
+4	стенах	стена	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	0	root	_	start_char=5245|end_char=5251
+5	лондонской	лондонский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	start_char=5252|end_char=5262
+6	…	…	PUNCT	_	_	19	punct	_	start_char=5262|end_char=5263
+7	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=5264|end_char=5270
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	start_char=5271|end_char=5274
+9	норфолкской	норфолкский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	start_char=5275|end_char=5286
+10	штаб	штаб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=5287|end_char=5291
+11	-	-	PUNCT	_	_	12	punct	_	start_char=5291|end_char=5292
+12	квартиры	квартира	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	start_char=5292|end_char=5300
+13	ЮНИТ	ЮНИТ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	14	appos	_	start_char=5301|end_char=5305
+14	бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	appos	_	start_char=5306|end_char=5314
+15	Летбридж	Летбридж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	14	appos	_	start_char=5315|end_char=5323
+16	-	-	PUNCT	_	_	17	punct	_	start_char=5323|end_char=5324
+17	Стюарт	Стюарт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	15	flat:name	_	start_char=5324|end_char=5330
+18	чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	19	obj	_	start_char=5331|end_char=5338
+19	ждал	ждать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=5339|end_char=5343
+20	.	.	PUNCT	_	_	4	punct	_	start_char=5343|end_char=5344
+
+# text = Ждал, когда услышит чьи-то шаги или хлопок двери, звонок, голос, что угодно, или хотя бы когда фальшивое солнце стронется со своего места в зените, хоть немного изменив положение.
+# sent_id = 72
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Ждал	ждать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=5345|end_char=5349
+2	,	,	PUNCT	_	_	4	punct	_	start_char=5349|end_char=5350
+3	когда	когда	SCONJ	_	_	4	mark	_	start_char=5351|end_char=5356
+4	услышит	услышать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	start_char=5357|end_char=5364
+5	чьи-то	чей-то	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Ind	6	det	_	start_char=5365|end_char=5371
+6	шаги	шаг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=5372|end_char=5376
+7	или	или	CCONJ	_	_	8	cc	_	start_char=5377|end_char=5380
+8	хлопок	хлопок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	start_char=5381|end_char=5387
+9	двери	дверь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	start_char=5388|end_char=5393
+10	,	,	PUNCT	_	_	11	punct	_	start_char=5393|end_char=5394
+11	звонок	звонок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	start_char=5395|end_char=5401
+12	,	,	PUNCT	_	_	13	punct	_	start_char=5401|end_char=5402
+13	голос	голос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	start_char=5403|end_char=5408
+14	,	,	PUNCT	_	_	16	punct	_	start_char=5408|end_char=5409
+15	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	16	nsubj	_	start_char=5410|end_char=5413
+16	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	acl:relcl	_	start_char=5414|end_char=5420
+17	,	,	PUNCT	_	_	24	punct	_	start_char=5420|end_char=5421
+18	или	или	CCONJ	_	_	24	cc	_	start_char=5422|end_char=5425
+19	хотя	хотя	PART	_	_	24	advmod	_	start_char=5426|end_char=5430
+20	бы	бы	PART	_	_	19	fixed	_	start_char=5431|end_char=5433
+21	когда	когда	SCONJ	_	_	24	mark	_	start_char=5434|end_char=5439
+22	фальшивое	фальшивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	start_char=5440|end_char=5449
+23	солнце	солнце	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	start_char=5450|end_char=5456
+24	стронется	стронаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=5457|end_char=5466
+25	со	со	ADP	_	_	27	case	_	start_char=5467|end_char=5469
+26	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	27	det	_	start_char=5470|end_char=5476
+27	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	obl	_	start_char=5477|end_char=5482
+28	в	в	ADP	_	_	29	case	_	start_char=5483|end_char=5484
+29	зените	зенита	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	obl	_	start_char=5485|end_char=5491
+30	,	,	PUNCT	_	_	33	punct	_	start_char=5491|end_char=5492
+31	хоть	хоть	SCONJ	_	_	33	mark	_	start_char=5493|end_char=5497
+32	немного	немного	ADV	_	Degree=Pos|PronType=Tot	33	advmod	_	start_char=5498|end_char=5505
+33	изменив	изменить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	24	advcl	_	start_char=5506|end_char=5513
+34	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	33	obj	_	start_char=5514|end_char=5523
+35	.	.	PUNCT	_	_	1	punct	_	start_char=5523|end_char=5524
+
+# text = Виси оно там все время по-настоящему, оно давно бы сожгло этот мир, но ничего не изменялось, температура не повышалась, мир и без того был мертв.
+# sent_id = 73
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Виси	Виси	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	nsubj	_	start_char=5525|end_char=5529
+2	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=5530|end_char=5533
+3	там	там	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=5534|end_char=5537
+4	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	start_char=5538|end_char=5541
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	start_char=5542|end_char=5547
+6	по-настоящему	по-настоящему	ADV	_	Degree=Pos	0	root	_	start_char=5548|end_char=5561
+7	,	,	PUNCT	_	_	11	punct	_	start_char=5561|end_char=5562
+8	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=5563|end_char=5566
+9	давно	давно	ADV	_	Degree=Pos	11	advmod	_	start_char=5567|end_char=5572
+10	бы	бы	AUX	_	Mood=Cnd	11	aux	_	start_char=5573|end_char=5575
+11	сожгло	сжечь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=5576|end_char=5582
+12	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	start_char=5583|end_char=5587
+13	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=5588|end_char=5591
+14	,	,	PUNCT	_	_	18	punct	_	start_char=5591|end_char=5592
+15	но	но	CCONJ	_	_	18	cc	_	start_char=5593|end_char=5595
+16	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	18	nsubj	_	start_char=5596|end_char=5602
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=5603|end_char=5605
+18	изменялось	изменяться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=5606|end_char=5616
+19	,	,	PUNCT	_	_	22	punct	_	start_char=5616|end_char=5617
+20	температура	температура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	start_char=5618|end_char=5629
+21	не	не	PART	_	Polarity=Neg	22	advmod	_	start_char=5630|end_char=5632
+22	повышалась	повышаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=5633|end_char=5643
+23	,	,	PUNCT	_	_	29	punct	_	start_char=5643|end_char=5644
+24	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	start_char=5645|end_char=5648
+25	и	и	CCONJ	_	_	27	cc	_	start_char=5649|end_char=5650
+26	без	без	ADP	_	_	27	case	_	start_char=5651|end_char=5654
+27	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	29	obl	_	start_char=5655|end_char=5659
+28	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	29	cop	_	start_char=5660|end_char=5663
+29	мертв	мертвый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	conj	_	start_char=5664|end_char=5669
+30	.	.	PUNCT	_	_	6	punct	_	start_char=5669|end_char=5670
+
+# text = Бригадир Летбридж-Стюарт молча поднялся со стула, вышел на середину кабинета, раскинул руки и яростно выкрикнул в потолок: – Значит, именно этого ты хотел?
+# sent_id = 74
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=5671|end_char=5679
+2	Летбридж	Летбридж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=5680|end_char=5688
+3	-	-	PUNCT	_	_	4	punct	_	start_char=5688|end_char=5689
+4	Стюарт	Стюарт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=5689|end_char=5695
+5	молча	молча	ADV	_	Degree=Pos	6	advmod	_	start_char=5696|end_char=5701
+6	поднялся	подняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=5702|end_char=5710
+7	со	со	ADP	_	_	8	case	_	start_char=5711|end_char=5713
+8	стула	стул	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	start_char=5714|end_char=5719
+9	,	,	PUNCT	_	_	10	punct	_	start_char=5719|end_char=5720
+10	вышел	выйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=5721|end_char=5726
+11	на	на	ADP	_	_	12	case	_	start_char=5727|end_char=5729
+12	середину	середина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	start_char=5730|end_char=5738
+13	кабинета	кабинет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	start_char=5739|end_char=5747
+14	,	,	PUNCT	_	_	15	punct	_	start_char=5747|end_char=5748
+15	раскинул	раскинуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=5749|end_char=5757
+16	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	obj	_	start_char=5758|end_char=5762
+17	и	и	CCONJ	_	_	19	cc	_	start_char=5763|end_char=5764
+18	яростно	яростно	ADV	_	Degree=Pos	19	advmod	_	start_char=5765|end_char=5772
+19	выкрикнул	выкрикнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=5773|end_char=5782
+20	в	в	ADP	_	_	21	case	_	start_char=5783|end_char=5784
+21	потолок	потолок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	start_char=5785|end_char=5792
+22	:	:	PUNCT	_	_	29	punct	_	start_char=5792|end_char=5793
+23	–	–	PUNCT	_	_	29	punct	_	start_char=5795|end_char=5796
+24	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	parataxis	_	start_char=5797|end_char=5803
+25	,	,	PUNCT	_	_	24	punct	_	start_char=5803|end_char=5804
+26	именно	именно	PART	_	_	27	advmod	_	start_char=5805|end_char=5811
+27	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	29	obj	_	start_char=5812|end_char=5817
+28	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	29	nsubj	_	start_char=5818|end_char=5820
+29	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	start_char=5821|end_char=5826
+30	?	?	PUNCT	_	_	6	punct	_	start_char=5826|end_char=5827
+
+# text = Получить весь мир и опустошить его полностью?
+# sent_id = 75
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=5828|end_char=5836
+2	весь	весь	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	3	det	_	start_char=5837|end_char=5841
+3	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=5842|end_char=5845
+4	и	и	CCONJ	_	_	5	cc	_	start_char=5846|end_char=5847
+5	опустошить	опустошить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	start_char=5848|end_char=5858
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=5859|end_char=5862
+7	полностью	полностью	ADV	_	Degree=Pos	5	advmod	_	start_char=5863|end_char=5872
+8	?	?	PUNCT	_	_	1	punct	_	start_char=5872|end_char=5873
+
+# text = Тогда зачем он нужен?
+# sent_id = 76
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=5874|end_char=5879
+2	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=5880|end_char=5885
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=5886|end_char=5888
+4	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=5889|end_char=5894
+5	?	?	PUNCT	_	_	4	punct	_	start_char=5894|end_char=5895
+
+# text = Ты опять в одиночестве, посреди пустоты!
+# sent_id = 77
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=5896|end_char=5898
+2	опять	опять	ADV	_	Degree=Pos	4	advmod	_	start_char=5899|end_char=5904
+3	в	в	ADP	_	_	4	case	_	start_char=5905|end_char=5906
+4	одиночестве	одиночество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	start_char=5907|end_char=5918
+5	,	,	PUNCT	_	_	7	punct	_	start_char=5918|end_char=5919
+6	посреди	посреди	ADP	_	_	7	case	_	start_char=5920|end_char=5927
+7	пустоты	пустота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	conj	_	start_char=5928|end_char=5935
+8	!	!	PUNCT	_	_	4	punct	_	start_char=5935|end_char=5936
+
+# text = Так тебе и надо!
+# sent_id = 78
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=5937|end_char=5940
+2	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	start_char=5941|end_char=5945
+3	и	и	PART	_	_	4	advmod	_	start_char=5946|end_char=5947
+4	надо	надо	VERB	_	_	0	root	_	start_char=5948|end_char=5952
+5	!	!	PUNCT	_	_	4	punct	_	start_char=5952|end_char=5953
+
+# text = Поцелуй себя в задницу, Омега! – и невольно зажмурился.
+# sent_id = 79
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Поцелуй	поцелуй	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=5954|end_char=5961
+2	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	nmod	_	start_char=5962|end_char=5966
+3	в	в	ADP	_	_	4	case	_	start_char=5967|end_char=5968
+4	задницу	задница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	start_char=5969|end_char=5976
+5	,	,	PUNCT	_	_	6	punct	_	start_char=5976|end_char=5977
+6	Омега	Омег	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	1	conj	_	start_char=5978|end_char=5983
+7	!	!	PUNCT	_	_	6	punct	_	start_char=5983|end_char=5984
+8	–	–	PUNCT	_	_	11	punct	_	start_char=5985|end_char=5986
+9	и	и	CCONJ	_	_	11	cc	_	start_char=5987|end_char=5988
+10	невольно	невольно	ADV	_	Degree=Pos	11	advmod	_	start_char=5989|end_char=5997
+11	зажмурился	зажмуриться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	start_char=5998|end_char=6008
+12	.	.	PUNCT	_	_	1	punct	_	start_char=6008|end_char=6009
+
+# text = Это было почти как моргнуть – ничего не изменилось.
+# sent_id = 80
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=6010|end_char=6013
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	start_char=6014|end_char=6018
+3	почти	почти	ADV	_	Degree=Pos	4	advmod	_	start_char=6019|end_char=6024
+4	как	как	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=6025|end_char=6028
+5	моргнуть	моргнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=6029|end_char=6037
+6	–	–	PUNCT	_	_	9	punct	_	start_char=6038|end_char=6039
+7	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	9	nsubj	_	start_char=6040|end_char=6046
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=6047|end_char=6049
+9	изменилось	измениться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=6050|end_char=6060
+10	.	.	PUNCT	_	_	5	punct	_	start_char=6060|end_char=6061
+
+# text = Совершенно ничего.
+# sent_id = 81
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Совершенно	совершенно	ADV	_	Degree=Pos	2	advmod	_	start_char=6062|end_char=6072
+2	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	start_char=6073|end_char=6079
+3	.	.	PUNCT	_	_	2	punct	_	start_char=6079|end_char=6080
+
+# text = Разве что… – Ну вот наконец и вы, – услышал он насмешливый голос Доктора.
+# sent_id = 82
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Разве	разве	PART	_	_	2	advmod	_	start_char=6081|end_char=6086
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	0	root	_	start_char=6087|end_char=6090
+3	…	…	PUNCT	_	_	2	punct	_	start_char=6090|end_char=6091
+4	–	–	PUNCT	_	_	7	punct	_	start_char=6092|end_char=6093
+5	Ну	ну	PART	_	_	7	discourse	_	start_char=6094|end_char=6096
+6	вот	вот	PART	_	_	7	advmod	_	start_char=6097|end_char=6100
+7	наконец	наконец	ADV	_	Degree=Pos	2	parataxis	_	start_char=6101|end_char=6108
+8	и	и	PART	_	_	9	advmod	_	start_char=6109|end_char=6110
+9	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	start_char=6111|end_char=6113
+10	,	,	PUNCT	_	_	12	punct	_	start_char=6113|end_char=6114
+11	–	–	PUNCT	_	_	12	punct	_	start_char=6115|end_char=6116
+12	услышал	услышать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=6117|end_char=6124
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=6125|end_char=6127
+14	насмешливый	насмешливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	start_char=6128|end_char=6139
+15	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=6140|end_char=6145
+16	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	start_char=6146|end_char=6153
+17	.	.	PUNCT	_	_	2	punct	_	start_char=6153|end_char=6154
+
+# text = – Потрясен вашей выдержкой, Бригадир!
+# sent_id = 83
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6155|end_char=6156
+2	Потрясен	потрясить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=6157|end_char=6165
+3	вашей	ваш	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	start_char=6166|end_char=6171
+4	выдержкой	выдержка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	start_char=6172|end_char=6181
+5	,	,	PUNCT	_	_	6	punct	_	start_char=6181|end_char=6182
+6	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	start_char=6183|end_char=6191
+7	!	!	PUNCT	_	_	2	punct	_	start_char=6191|end_char=6192
+
+# text = Летбридж-Стюарт возмущенно и радостно обернулся.
+# sent_id = 84
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Летбридж	Летбридж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	7	nsubj	_	start_char=6193|end_char=6201
+2	-	-	PUNCT	_	_	3	punct	_	start_char=6201|end_char=6202
+3	Стюарт	Стюарт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	appos	_	start_char=6202|end_char=6208
+4	возмущенно	возмущенно	ADV	_	Degree=Pos	7	advmod	_	start_char=6209|end_char=6219
+5	и	и	CCONJ	_	_	6	cc	_	start_char=6220|end_char=6221
+6	радостно	радостно	ADV	_	Degree=Pos	7	advmod	_	start_char=6222|end_char=6230
+7	обернулся	обернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6231|end_char=6240
+8	.	.	PUNCT	_	_	7	punct	_	start_char=6240|end_char=6241
+
+# text = Доктор сидел на краешке его стола и полировал ногти пилочкой.
+# sent_id = 85
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6242|end_char=6248
+2	сидел	сидеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6249|end_char=6254
+3	на	на	ADP	_	_	4	case	_	start_char=6255|end_char=6257
+4	краешке	краешка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	start_char=6258|end_char=6265
+5	его	его	DET	_	Poss=Yes|PronType=Prs	6	det	_	start_char=6266|end_char=6269
+6	стола	стол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	start_char=6270|end_char=6275
+7	и	и	CCONJ	_	_	8	cc	_	start_char=6276|end_char=6277
+8	полировал	полировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6278|end_char=6287
+9	ногти	ноготь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	start_char=6288|end_char=6293
+10	пилочкой	пилочка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	iobj	_	start_char=6294|end_char=6302
+11	.	.	PUNCT	_	_	2	punct	_	start_char=6302|end_char=6303
+
+# text = Бентон стоял рядом и смущенно разглядывал пол.
+# sent_id = 86
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Бентон	Бентон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	_	start_char=6304|end_char=6310
+2	стоял	стоять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6311|end_char=6316
+3	рядом	рядом	ADV	_	Degree=Pos	2	advmod	_	start_char=6317|end_char=6322
+4	и	и	CCONJ	_	_	6	cc	_	start_char=6323|end_char=6324
+5	смущенно	смущенно	ADV	_	Degree=Pos	6	advmod	_	start_char=6325|end_char=6333
+6	разглядывал	разглядывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=6334|end_char=6345
+7	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=6346|end_char=6349
+8	.	.	PUNCT	_	_	2	punct	_	start_char=6349|end_char=6350
+
+# text = – Все в порядке?!
+# sent_id = 87
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	4	punct	_	start_char=6351|end_char=6352
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	start_char=6353|end_char=6356
+3	в	в	ADP	_	_	4	case	_	start_char=6357|end_char=6358
+4	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=6359|end_char=6366
+5	?!	?!	PUNCT	_	_	4	punct	_	start_char=6366|end_char=6368
+
+# text = Где мы?
+# sent_id = 88
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Где	где	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=6369|end_char=6372
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	start_char=6373|end_char=6375
+3	?	?	PUNCT	_	_	1	punct	_	start_char=6375|end_char=6376
+
+# text = – Бригадир бросился к окну.
+# sent_id = 89
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6377|end_char=6378
+2	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=6379|end_char=6387
+3	бросился	броситься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6388|end_char=6396
+4	к	к	ADP	_	_	5	case	_	start_char=6397|end_char=6398
+5	окну	окно	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	obl	_	start_char=6399|end_char=6403
+6	.	.	PUNCT	_	_	3	punct	_	start_char=6403|end_char=6404
+
+# text = – Там уже не Норфолк, – заметил Доктор, – если хотите знать.
+# sent_id = 90
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	5	punct	_	start_char=6405|end_char=6406
+2	Там	там	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=6407|end_char=6410
+3	уже	уже	ADV	_	Degree=Pos	5	advmod	_	start_char=6411|end_char=6414
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=6415|end_char=6417
+5	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	start_char=6418|end_char=6425
+6	,	,	PUNCT	_	_	8	punct	_	start_char=6425|end_char=6426
+7	–	–	PUNCT	_	_	8	punct	_	start_char=6427|end_char=6428
+8	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=6429|end_char=6436
+9	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	start_char=6437|end_char=6443
+10	,	,	PUNCT	_	_	13	punct	_	start_char=6443|end_char=6444
+11	–	–	PUNCT	_	_	13	punct	_	start_char=6445|end_char=6446
+12	если	если	SCONJ	_	_	13	mark	_	start_char=6447|end_char=6451
+13	хотите	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=6452|end_char=6458
+14	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	start_char=6459|end_char=6464
+15	.	.	PUNCT	_	_	5	punct	_	start_char=6464|end_char=6465
+
+# text = Да, все в полном порядке!
+# sent_id = 91
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Да	да	PART	_	_	6	parataxis	_	start_char=6466|end_char=6468
+2	,	,	PUNCT	_	_	1	punct	_	start_char=6468|end_char=6469
+3	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	nsubj	_	start_char=6470|end_char=6473
+4	в	в	ADP	_	_	6	case	_	start_char=6474|end_char=6475
+5	полном	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=6476|end_char=6482
+6	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	start_char=6483|end_char=6490
+7	!	!	PUNCT	_	_	6	punct	_	start_char=6490|end_char=6491
+
+# text = Видите ли, ментальный замок держался на представлении человечества о том, что такое черная дыра.
+# sent_id = 92
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=6492|end_char=6498
+2	ли	ли	PART	_	_	1	advmod	_	start_char=6499|end_char=6501
+3	,	,	PUNCT	_	_	1	punct	_	start_char=6501|end_char=6502
+4	ментальный	ментальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=6503|end_char=6513
+5	замок	замок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=6514|end_char=6519
+6	держался	держаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=6520|end_char=6528
+7	на	на	ADP	_	_	8	case	_	start_char=6529|end_char=6531
+8	представлении	представление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	start_char=6532|end_char=6545
+9	человечества	человечество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=6546|end_char=6558
+10	о	о	ADP	_	_	11	case	_	start_char=6559|end_char=6560
+11	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	start_char=6561|end_char=6564
+12	,	,	PUNCT	_	_	13	punct	_	start_char=6564|end_char=6565
+13	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	11	acl	_	start_char=6566|end_char=6569
+14	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	start_char=6570|end_char=6575
+15	черная	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=6576|end_char=6582
+16	дыра	дыра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=6583|end_char=6587
+17	.	.	PUNCT	_	_	6	punct	_	start_char=6587|end_char=6588
+
+# text = Как видите, это достаточно убогое представление, но архетипы есть архетипы.
+# sent_id = 93
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Как	как	SCONJ	_	_	2	mark	_	start_char=6589|end_char=6592
+2	видите	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	start_char=6593|end_char=6599
+3	,	,	PUNCT	_	_	2	punct	_	start_char=6599|end_char=6600
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=6601|end_char=6604
+5	достаточно	достаточно	ADV	_	Degree=Pos	6	advmod	_	start_char=6605|end_char=6615
+6	убогое	убогий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	start_char=6616|end_char=6622
+7	представление	представление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=6623|end_char=6636
+8	,	,	PUNCT	_	_	11	punct	_	start_char=6636|end_char=6637
+9	но	но	CCONJ	_	_	11	cc	_	start_char=6638|end_char=6640
+10	архетипы	архетип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	start_char=6641|end_char=6649
+11	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	start_char=6650|end_char=6654
+12	архетипы	архетип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	start_char=6655|end_char=6663
+13	.	.	PUNCT	_	_	7	punct	_	start_char=6663|end_char=6664
+
+# text = – Человечества?
+# sent_id = 94
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=6665|end_char=6666
+2	Человечества	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=6667|end_char=6679
+3	?	?	PUNCT	_	_	2	punct	_	start_char=6679|end_char=6680
+
+# text = Почему только человечества? – возмутился Бригадир.
+# sent_id = 95
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=6681|end_char=6687
+2	только	только	PART	_	_	3	advmod	_	start_char=6688|end_char=6694
+3	человечества	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	start_char=6695|end_char=6707
+4	?	?	PUNCT	_	_	3	punct	_	start_char=6707|end_char=6708
+5	–	–	PUNCT	_	_	6	punct	_	start_char=6709|end_char=6710
+6	возмутился	возмутиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=6711|end_char=6721
+7	Бригадир	Бригадир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	start_char=6722|end_char=6730
+8	.	.	PUNCT	_	_	3	punct	_	start_char=6730|end_char=6731
+
+# text = – А птицы, звери?
+# sent_id = 96
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6732|end_char=6733
+2	А	а	CCONJ	_	_	3	cc	_	start_char=6734|end_char=6735
+3	птицы	птица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=6736|end_char=6741
+4	,	,	PUNCT	_	_	5	punct	_	start_char=6741|end_char=6742
+5	звери	зверь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	start_char=6743|end_char=6748
+6	?	?	PUNCT	_	_	3	punct	_	start_char=6748|end_char=6749
+
+# text = – Ну хорошо, их тоже, – покладисто согласился Доктор.
+# sent_id = 97
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6750|end_char=6751
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=6752|end_char=6754
+3	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=6755|end_char=6761
+4	,	,	PUNCT	_	_	5	punct	_	start_char=6761|end_char=6762
+5	их	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	conj	_	start_char=6763|end_char=6765
+6	тоже	тоже	PART	_	_	5	advmod	_	start_char=6766|end_char=6770
+7	,	,	PUNCT	_	_	10	punct	_	start_char=6770|end_char=6771
+8	–	–	PUNCT	_	_	10	punct	_	start_char=6772|end_char=6773
+9	покладисто	покладисто	ADV	_	Degree=Pos	10	advmod	_	start_char=6774|end_char=6784
+10	согласился	согласиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=6785|end_char=6795
+11	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=6796|end_char=6802
+12	.	.	PUNCT	_	_	3	punct	_	start_char=6802|end_char=6803
+
+# text = – А таймлорды? – напрямик спросил Бригадир.
+# sent_id = 98
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6804|end_char=6805
+2	А	а	CCONJ	_	_	3	cc	_	start_char=6806|end_char=6807
+3	таймлорды	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=6808|end_char=6817
+4	?	?	PUNCT	_	_	3	punct	_	start_char=6817|end_char=6818
+5	–	–	PUNCT	_	_	7	punct	_	start_char=6819|end_char=6820
+6	напрямик	напрямик	ADV	_	Degree=Pos	7	advmod	_	start_char=6821|end_char=6829
+7	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=6830|end_char=6837
+8	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=6838|end_char=6846
+9	.	.	PUNCT	_	_	3	punct	_	start_char=6846|end_char=6847
+
+# text = Доктор кашлянул и едва заметно поморщился.
+# sent_id = 99
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=6848|end_char=6854
+2	кашлянул	кашлянуть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=6855|end_char=6863
+3	и	и	CCONJ	_	_	6	cc	_	start_char=6864|end_char=6865
+4	едва	едва	ADV	_	Degree=Pos	6	advmod	_	start_char=6866|end_char=6870
+5	заметно	заметно	ADV	_	Degree=Pos	6	advmod	_	start_char=6871|end_char=6878
+6	поморщился	поморщиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=6879|end_char=6889
+7	.	.	PUNCT	_	_	2	punct	_	start_char=6889|end_char=6890
+
+# text = – Не имеет значения.
+# sent_id = 100
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=6891|end_char=6892
+2	Не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=6893|end_char=6895
+3	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6896|end_char=6901
+4	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obj	_	start_char=6902|end_char=6910
+5	.	.	PUNCT	_	_	3	punct	_	start_char=6910|end_char=6911
+
+# text = Как вы понимаете, Норфолк – это спроецированная реальность, на самом деле, многого из того, что вы видели, попросту не существовало.
+# sent_id = 101
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=6912|end_char=6915
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=6916|end_char=6918
+3	понимаете	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=6919|end_char=6928
+4	,	,	PUNCT	_	_	9	punct	_	start_char=6928|end_char=6929
+5	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	9	nsubj	_	start_char=6930|end_char=6937
+6	–	–	PUNCT	_	_	9	punct	_	start_char=6938|end_char=6939
+7	это	это	PART	_	_	9	expl	_	start_char=6940|end_char=6943
+8	спроецированная	спроецировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	start_char=6944|end_char=6959
+9	реальность	реальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	start_char=6960|end_char=6970
+10	,	,	PUNCT	_	_	25	punct	_	start_char=6970|end_char=6971
+11	на	на	ADP	_	_	13	case	_	start_char=6972|end_char=6974
+12	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	13	det	_	start_char=6975|end_char=6980
+13	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	parataxis	_	start_char=6981|end_char=6985
+14	,	,	PUNCT	_	_	13	punct	_	start_char=6985|end_char=6986
+15	многого	многое	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	25	nsubj	_	start_char=6987|end_char=6994
+16	из	из	ADP	_	_	17	case	_	start_char=6995|end_char=6997
+17	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	15	nmod	_	start_char=6998|end_char=7002
+18	,	,	PUNCT	_	_	21	punct	_	start_char=7002|end_char=7003
+19	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	21	obj	_	start_char=7004|end_char=7007
+20	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	21	nsubj	_	start_char=7008|end_char=7010
+21	видели	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=7011|end_char=7017
+22	,	,	PUNCT	_	_	21	punct	_	start_char=7017|end_char=7018
+23	попросту	попросту	ADV	_	Degree=Pos	25	advmod	_	start_char=7019|end_char=7027
+24	не	не	PART	_	Polarity=Neg	25	advmod	_	start_char=7028|end_char=7030
+25	существовало	существовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=7031|end_char=7043
+26	.	.	PUNCT	_	_	9	punct	_	start_char=7043|end_char=7044
+
+# text = Это была лишь картина, дорисованная вашим собственным мозгом.
+# sent_id = 102
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=7045|end_char=7048
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=7049|end_char=7053
+3	лишь	лишь	PART	_	_	4	advmod	_	start_char=7054|end_char=7058
+4	картина	картина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=7059|end_char=7066
+5	,	,	PUNCT	_	_	6	punct	_	start_char=7066|end_char=7067
+6	дорисованная	дорисовать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	start_char=7068|end_char=7080
+7	вашим	ваш	DET	_	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=7081|end_char=7086
+8	собственным	собственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=7087|end_char=7098
+9	мозгом	мозг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	start_char=7099|end_char=7105
+10	.	.	PUNCT	_	_	4	punct	_	start_char=7105|end_char=7106
+
+# text = Для вас это был Норфолк, и уже не впервые.
+# sent_id = 103
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Для	для	ADP	_	_	2	case	_	start_char=7107|end_char=7110
+2	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	obl	_	start_char=7111|end_char=7114
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=7115|end_char=7118
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=7119|end_char=7122
+5	Норфолк	Норфолк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	start_char=7123|end_char=7130
+6	,	,	PUNCT	_	_	10	punct	_	start_char=7130|end_char=7131
+7	и	и	CCONJ	_	_	10	cc	_	start_char=7132|end_char=7133
+8	уже	уже	ADV	_	Degree=Pos	10	advmod	_	start_char=7134|end_char=7137
+9	не	не	PART	_	Polarity=Neg	10	advmod	_	start_char=7138|end_char=7140
+10	впервые	впервые	ADV	_	Degree=Pos	5	conj	_	start_char=7141|end_char=7148
+11	.	.	PUNCT	_	_	5	punct	_	start_char=7148|end_char=7149
+
+# text = Поэтому вы были в Норфолке.
+# sent_id = 104
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=7150|end_char=7157
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=7158|end_char=7160
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=7161|end_char=7165
+4	в	в	ADP	_	_	5	case	_	start_char=7166|end_char=7167
+5	Норфолке	Норфолка	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	start_char=7168|end_char=7176
+6	.	.	PUNCT	_	_	5	punct	_	start_char=7176|end_char=7177
+
+# text = Но в сущности, вы были…
+# sent_id = 105
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=7178|end_char=7180
+2	в	в	ADP	_	_	3	case	_	start_char=7181|end_char=7182
+3	сущности	сущность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	parataxis	_	start_char=7183|end_char=7191
+4	,	,	PUNCT	_	_	3	punct	_	start_char=7191|end_char=7192
+5	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	start_char=7193|end_char=7195
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=7196|end_char=7200
+7	…	…	PUNCT	_	_	6	punct	_	start_char=7200|end_char=7201
+
+# text = – В заднице? – еще более напрямик спросил Бригадир.
+# sent_id = 106
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=7202|end_char=7203
+2	В	в	ADP	_	_	3	case	_	start_char=7204|end_char=7205
+3	заднице	задница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=7206|end_char=7213
+4	?	?	PUNCT	_	_	3	punct	_	start_char=7213|end_char=7214
+5	–	–	PUNCT	_	_	9	punct	_	start_char=7215|end_char=7216
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	start_char=7217|end_char=7220
+7	более	более	ADV	_	Degree=Cmp|PronType=Tot	9	advmod	_	start_char=7221|end_char=7226
+8	напрямик	напрямик	ADV	_	Degree=Pos	9	advmod	_	start_char=7227|end_char=7235
+9	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=7236|end_char=7243
+10	Бригадир	бригадир	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=7244|end_char=7252
+11	.	.	PUNCT	_	_	3	punct	_	start_char=7252|end_char=7253
+
+# text = – Всего лишь в Омегаверсе, – благодушно поправил Доктор.
+# sent_id = 107
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	5	punct	_	start_char=7254|end_char=7255
+2	Всего	всего	PART	_	_	5	advmod	_	start_char=7256|end_char=7261
+3	лишь	лишь	PART	_	_	5	advmod	_	start_char=7262|end_char=7266
+4	в	в	ADP	_	_	5	case	_	start_char=7267|end_char=7268
+5	Омегаверсе	Омегаверс	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	start_char=7269|end_char=7279
+6	,	,	PUNCT	_	_	9	punct	_	start_char=7279|end_char=7280
+7	–	–	PUNCT	_	_	9	punct	_	start_char=7281|end_char=7282
+8	благодушно	благодушно	ADV	_	Degree=Pos	9	advmod	_	start_char=7283|end_char=7293
+9	поправил	поправить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=7294|end_char=7302
+10	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=7303|end_char=7309
+11	.	.	PUNCT	_	_	5	punct	_	start_char=7309|end_char=7310
+
+# text = – Теперь, когда мы в своем мире, ничто не мешает нам быть вновь деликатными цивилизованными джентльменами и выражаться соответственно нашей цивилизованности.
+# sent_id = 108
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	12	punct	_	start_char=7311|end_char=7312
+2	Теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=7313|end_char=7319
+3	,	,	PUNCT	_	_	8	punct	_	start_char=7319|end_char=7320
+4	когда	когда	SCONJ	_	_	8	mark	_	start_char=7321|end_char=7326
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=7327|end_char=7329
+6	в	в	ADP	_	_	8	case	_	start_char=7330|end_char=7331
+7	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	start_char=7332|end_char=7337
+8	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	advcl	_	start_char=7338|end_char=7342
+9	,	,	PUNCT	_	_	8	punct	_	start_char=7342|end_char=7343
+10	ничто	ничто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	12	nsubj	_	start_char=7344|end_char=7349
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=7350|end_char=7352
+12	мешает	мешать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7353|end_char=7359
+13	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	12	iobj	_	start_char=7360|end_char=7363
+14	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	cop	_	start_char=7364|end_char=7368
+15	вновь	вновь	ADV	_	Degree=Pos	16	advmod	_	start_char=7369|end_char=7374
+16	деликатными	деликатный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	18	amod	_	start_char=7375|end_char=7386
+17	цивилизованными	цивилизованный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	18	amod	_	start_char=7387|end_char=7402
+18	джентльменами	джентльмен	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	xcomp	_	start_char=7403|end_char=7416
+19	и	и	CCONJ	_	_	20	cc	_	start_char=7417|end_char=7418
+20	выражаться	выражаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	12	conj	_	start_char=7419|end_char=7429
+21	соответственно	соответственно	ADV	_	Degree=Pos	20	advmod	_	start_char=7430|end_char=7444
+22	нашей	наш	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	det	_	start_char=7445|end_char=7450
+23	цивилизованности	цивилизованность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	start_char=7451|end_char=7467
+24	.	.	PUNCT	_	_	12	punct	_	start_char=7467|end_char=7468
+
+# text = – Отлично.
+# sent_id = 109
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	2	punct	_	start_char=7469|end_char=7470
+2	Отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=7471|end_char=7478
+3	.	.	PUNCT	_	_	2	punct	_	start_char=7478|end_char=7479
+
+# text = Пусть Омегаверс!
+# sent_id = 110
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	Пусть	пусть	PART	_	_	2	advmod	_	start_char=7480|end_char=7485
+2	Омегаверс	Омегаверс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	0	root	_	start_char=7486|end_char=7495
+3	!	!	PUNCT	_	_	2	punct	_	start_char=7495|end_char=7496
+
+# text = И мы можем каким-то образом оказаться там снова?
+# sent_id = 111
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	И	и	CCONJ	_	_	3	cc	_	start_char=7497|end_char=7498
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=7499|end_char=7501
+3	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=7502|end_char=7507
+4	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	start_char=7508|end_char=7516
+5	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	start_char=7517|end_char=7524
+6	оказаться	оказаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=7525|end_char=7534
+7	там	там	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=7535|end_char=7538
+8	снова	снова	ADV	_	Degree=Pos	6	advmod	_	start_char=7539|end_char=7544
+9	?	?	PUNCT	_	_	3	punct	_	start_char=7544|end_char=7545
+
+# text = – Нет, полагаю, подобного риска нет, – отмахнулся Доктор.
+# sent_id = 112
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	8	punct	_	start_char=7546|end_char=7547
+2	Нет	нет	PART	_	Polarity=Neg	8	parataxis	_	start_char=7548|end_char=7551
+3	,	,	PUNCT	_	_	4	punct	_	start_char=7551|end_char=7552
+4	полагаю	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=7553|end_char=7560
+5	,	,	PUNCT	_	_	4	punct	_	start_char=7560|end_char=7561
+6	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	start_char=7562|end_char=7571
+7	риска	риск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nsubj	_	start_char=7572|end_char=7577
+8	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=7578|end_char=7581
+9	,	,	PUNCT	_	_	11	punct	_	start_char=7581|end_char=7582
+10	–	–	PUNCT	_	_	11	punct	_	start_char=7583|end_char=7584
+11	отмахнулся	отмахнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	parataxis	_	start_char=7585|end_char=7595
+12	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=7596|end_char=7602
+13	.	.	PUNCT	_	_	8	punct	_	start_char=7602|end_char=7603
+
+# text = – Разве что…
+# sent_id = 113
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=7604|end_char=7605
+2	Разве	разве	PART	_	_	3	advmod	_	start_char=7606|end_char=7611
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	0	root	_	start_char=7612|end_char=7615
+4	…	…	PUNCT	_	_	3	punct	_	start_char=7615|end_char=7616
+
+# text = – Разве что?
+# sent_id = 114
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	3	punct	_	start_char=7617|end_char=7618
+2	Разве	разве	PART	_	_	3	advmod	_	start_char=7619|end_char=7624
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	start_char=7625|end_char=7628
+4	?	?	PUNCT	_	_	3	punct	_	start_char=7628|end_char=7629
+
+# text = – Разве что мы все будем постоянно продолжать думать о Белой Обезьяне! – подмигнул Доктор. 2013
+# sent_id = 115
+# metadata = Название: Омегаверс, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/54724b9f00000a7f29119fa1/1/Omegavers
+1	–	–	PUNCT	_	_	8	punct	_	start_char=7630|end_char=7631
+2	Разве	разве	PART	_	_	8	advmod	_	start_char=7632|end_char=7637
+3	что	что	SCONJ	_	_	2	fixed	_	start_char=7638|end_char=7641
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=7642|end_char=7644
+5	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	4	det	_	start_char=7645|end_char=7648
+6	будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	_	start_char=7649|end_char=7654
+7	постоянно	постоянно	ADV	_	Degree=Pos	8	advmod	_	start_char=7655|end_char=7664
+8	продолжать	продолжать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=7665|end_char=7675
+9	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=7676|end_char=7682
+10	о	о	ADP	_	_	12	case	_	start_char=7683|end_char=7684
+11	Белой	белый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	start_char=7685|end_char=7690
+12	Обезьяне	Обезьяна	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	9	obl	_	start_char=7691|end_char=7699
+13	!	!	PUNCT	_	_	8	punct	_	start_char=7699|end_char=7700
+14	–	–	PUNCT	_	_	15	punct	_	start_char=7701|end_char=7702
+15	подмигнул	подмигнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=7703|end_char=7712
+16	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=7713|end_char=7719
+17	.	.	PUNCT	_	_	15	punct	_	start_char=7719|end_char=7720
+18	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	15	obl	_	start_char=7722|end_char=7726
+

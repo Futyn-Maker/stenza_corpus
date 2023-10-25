@@ -1,0 +1,779 @@
+# text = НРУ - Небесное Разведывательное Управление Галлифрея.
+# sent_id = 0
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	НРУ	НРУ	PROPN	_	NameType=Com	5	nsubj	_	start_char=0|end_char=3
+2	-	-	PUNCT	_	_	1	punct	_	start_char=4|end_char=5
+3	Небесное	небесный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=6|end_char=14
+4	Разведывательное	разведывательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	start_char=15|end_char=31
+5	Управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=32|end_char=42
+6	Галлифрея	Галлифрей	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	5	nmod	_	start_char=43|end_char=52
+7	.	.	PUNCT	_	_	5	punct	_	start_char=52|end_char=53
+
+# text = - Есть захват!
+# sent_id = 1
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	2	punct	_	start_char=56|end_char=57
+2	Есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=58|end_char=62
+3	захват	захват	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=63|end_char=69
+4	!	!	PUNCT	_	_	2	punct	_	start_char=69|end_char=70
+
+# text = Мы её возвращаем!
+# sent_id = 2
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=71|end_char=73
+2	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=74|end_char=76
+3	возвращаем	возвращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=77|end_char=87
+4	!	!	PUNCT	_	_	3	punct	_	start_char=87|end_char=88
+
+# text = - Отлично!
+# sent_id = 3
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	2	punct	_	start_char=89|end_char=90
+2	Отлично	отличный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=91|end_char=98
+3	!	!	PUNCT	_	_	2	punct	_	start_char=98|end_char=99
+
+# text = А то еще немного, и Лорд-Президент с меня самого голову снимет, вместо... этой.
+# sent_id = 4
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	А	а	CCONJ	_	_	4	cc	_	start_char=100|end_char=101
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	fixed	_	start_char=102|end_char=104
+3	еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=105|end_char=108
+4	немного	немного	NUM	_	Case=Nom|NumForm=Word|NumType=Card	0	root	_	start_char=109|end_char=116
+5	,	,	PUNCT	_	_	12	punct	_	start_char=116|end_char=117
+6	и	и	CCONJ	_	_	12	cc	_	start_char=118|end_char=119
+7	Лорд-Президент	лорд-президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=120|end_char=134
+8	с	с	ADP	_	_	9	case	_	start_char=135|end_char=136
+9	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	obl	_	start_char=137|end_char=141
+10	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	11	det	_	start_char=142|end_char=148
+11	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=149|end_char=155
+12	снимет	снить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	start_char=156|end_char=162
+13	,	,	PUNCT	_	_	16	punct	_	start_char=162|end_char=163
+14	вместо	вместо	ADP	_	_	16	case	_	start_char=164|end_char=170
+15	...	...	PUNCT	_	_	16	punct	_	start_char=170|end_char=173
+16	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	4	conj	_	start_char=174|end_char=178
+17	.	.	PUNCT	_	_	4	punct	_	start_char=178|end_char=179
+
+# text = В арке телепорта-перехватчика появилась старомодно - по-Земному старомодно, по-галлифрейски и вовсе нелепо - выглядящая женщина.
+# sent_id = 5
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	В	в	ADP	_	_	2	case	_	start_char=180|end_char=181
+2	арке	арка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=182|end_char=186
+3	телепорта	телепорт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=187|end_char=196
+4	-	-	PUNCT	_	_	5	punct	_	start_char=196|end_char=197
+5	перехватчика	перехватчика	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=197|end_char=209
+6	появилась	появиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=210|end_char=219
+7	старомодно	старомодно	ADV	_	Degree=Pos	6	advmod	_	start_char=220|end_char=230
+8	-	-	PUNCT	_	_	9	punct	_	start_char=231|end_char=232
+9	по-Земному	по-земный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	parataxis	_	start_char=233|end_char=243
+10	старомодно	старомодно	ADV	_	Degree=Pos	6	advmod	_	start_char=244|end_char=254
+11	,	,	PUNCT	_	_	18	punct	_	start_char=254|end_char=255
+12	по-галлифрейски	по-галлифрейски	ADV	_	Degree=Pos	18	advmod	_	start_char=256|end_char=271
+13	и	и	CCONJ	_	_	15	cc	_	start_char=272|end_char=273
+14	вовсе	вовсе	ADV	_	Degree=Pos	15	advmod	_	start_char=274|end_char=279
+15	нелепо	нелепо	ADV	_	Degree=Pos	18	advmod	_	start_char=280|end_char=286
+16	-	-	PUNCT	_	_	15	punct	_	start_char=287|end_char=288
+17	выглядящая	выглядеть	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	18	acl	_	start_char=289|end_char=299
+18	женщина	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	start_char=300|end_char=307
+19	.	.	PUNCT	_	_	6	punct	_	start_char=307|end_char=308
+
+# text = Материализовавшись достаточно, чтобы понять, где она находится, она явно расслабилась и даже приветственно махнула зонтиком координатору НРУ.
+# sent_id = 6
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Материализовавшись	материализоваться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	13	advcl	_	start_char=309|end_char=327
+2	достаточно	достаточно	ADV	_	Degree=Pos	1	advmod	_	start_char=328|end_char=338
+3	,	,	PUNCT	_	_	5	punct	_	start_char=338|end_char=339
+4	чтобы	чтобы	SCONJ	_	Mood=Cnd	5	mark	_	start_char=340|end_char=345
+5	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	advcl	_	start_char=346|end_char=352
+6	,	,	PUNCT	_	_	9	punct	_	start_char=352|end_char=353
+7	где	где	ADV	_	Degree=Pos|PronType=Rel	9	advmod	_	start_char=354|end_char=357
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=358|end_char=361
+9	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	ccomp	_	start_char=362|end_char=371
+10	,	,	PUNCT	_	_	1	punct	_	start_char=371|end_char=372
+11	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=373|end_char=376
+12	явно	явно	ADV	_	Degree=Pos	13	advmod	_	start_char=377|end_char=381
+13	расслабилась	расслабиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=382|end_char=394
+14	и	и	CCONJ	_	_	17	cc	_	start_char=395|end_char=396
+15	даже	даже	PART	_	_	16	advmod	_	start_char=397|end_char=401
+16	приветственно	приветственно	ADV	_	Degree=Pos	17	advmod	_	start_char=402|end_char=415
+17	махнула	махнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	start_char=416|end_char=423
+18	зонтиком	зонтик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	iobj	_	start_char=424|end_char=432
+19	координатору	координатор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	17	iobj	_	start_char=433|end_char=445
+20	НРУ	НРУ	PROPN	_	Abbr=Yes|NameType=Com	19	nmod	_	start_char=446|end_char=449
+21	.	.	PUNCT	_	_	13	punct	_	start_char=449|end_char=450
+
+# text = - Вы не вернулись в назначенное время и даже не подавали о себе никаких вестей, - немедленно начал отчитывать её координатор.
+# sent_id = 7
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	4	punct	_	start_char=451|end_char=452
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=453|end_char=455
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=456|end_char=458
+4	вернулись	вернуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=459|end_char=468
+5	в	в	ADP	_	_	7	case	_	start_char=469|end_char=470
+6	назначенное	назначить	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	start_char=471|end_char=482
+7	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	start_char=483|end_char=488
+8	и	и	CCONJ	_	_	11	cc	_	start_char=489|end_char=490
+9	даже	даже	PART	_	_	11	advmod	_	start_char=491|end_char=495
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=496|end_char=498
+11	подавали	подавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=499|end_char=507
+12	о	о	ADP	_	_	13	case	_	start_char=508|end_char=509
+13	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	11	obl	_	start_char=510|end_char=514
+14	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	15	det	_	start_char=515|end_char=522
+15	вестей	весть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	obj	_	start_char=523|end_char=529
+16	,	,	PUNCT	_	_	19	punct	_	start_char=529|end_char=530
+17	-	-	PUNCT	_	_	19	punct	_	start_char=531|end_char=532
+18	немедленно	немедленно	ADV	_	Degree=Pos	19	advmod	_	start_char=533|end_char=543
+19	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=544|end_char=549
+20	отчитывать	отчитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	start_char=550|end_char=560
+21	её	ее	DET	_	Poss=Yes|PronType=Prs	22	det	_	start_char=561|end_char=563
+22	координатор	координатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	start_char=564|end_char=575
+23	.	.	PUNCT	_	_	4	punct	_	start_char=575|end_char=576
+
+# text = - Да бросьте, вот же я! - она не без кокетства поправила выбившийся локон.
+# sent_id = 8
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=577|end_char=578
+2	Да	да	CCONJ	_	_	3	cc	_	start_char=579|end_char=581
+3	бросьте	бросить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=582|end_char=589
+4	,	,	PUNCT	_	_	5	punct	_	start_char=589|end_char=590
+5	вот	вот	PART	_	_	3	parataxis	_	start_char=591|end_char=594
+6	же	же	PART	_	_	5	advmod	_	start_char=595|end_char=597
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=598|end_char=599
+8	!	!	PUNCT	_	_	3	punct	_	start_char=599|end_char=600
+9	-	-	PUNCT	_	_	14	punct	_	start_char=601|end_char=602
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=603|end_char=606
+11	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=607|end_char=609
+12	без	без	ADP	_	_	13	case	_	start_char=610|end_char=613
+13	кокетства	кокетство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	obl	_	start_char=614|end_char=623
+14	поправила	поправить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=624|end_char=633
+15	выбившийся	выбиться	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	amod	_	start_char=634|end_char=644
+16	локон	локон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	start_char=645|end_char=650
+17	.	.	PUNCT	_	_	3	punct	_	start_char=650|end_char=651
+
+# text = - Мы перехватили вас.
+# sent_id = 9
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=652|end_char=653
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=654|end_char=656
+3	перехватили	перехватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=657|end_char=668
+4	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	3	obj	_	start_char=669|end_char=672
+5	.	.	PUNCT	_	_	3	punct	_	start_char=672|end_char=673
+
+# text = Мисси нахмурилась.
+# sent_id = 10
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Мисси	мисси	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=674|end_char=679
+2	нахмурилась	нахмуриться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=680|end_char=691
+3	.	.	PUNCT	_	_	2	punct	_	start_char=691|end_char=692
+
+# text = - Мой телепорт был настроен на координаты Галлифрея, которые были на момент моего отбытия отсюда.
+# sent_id = 11
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	5	punct	_	start_char=693|end_char=694
+2	Мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=695|end_char=698
+3	телепорт	телепорт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	start_char=699|end_char=707
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	start_char=708|end_char=711
+5	настроен	настроить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=712|end_char=720
+6	на	на	ADP	_	_	7	case	_	start_char=721|end_char=723
+7	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obl	_	start_char=724|end_char=734
+8	Галлифрея	Галлифрей	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	7	nmod	_	start_char=735|end_char=744
+9	,	,	PUNCT	_	_	11	punct	_	start_char=744|end_char=745
+10	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	11	nsubj	_	start_char=746|end_char=753
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=754|end_char=758
+12	на	на	ADP	_	_	13	case	_	start_char=759|end_char=761
+13	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=762|end_char=768
+14	моего	мой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	start_char=769|end_char=774
+15	отбытия	отбытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	start_char=775|end_char=782
+16	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	13	advmod	_	start_char=783|end_char=789
+17	.	.	PUNCT	_	_	5	punct	_	start_char=789|end_char=790
+
+# text = И именно их я и продиктовала Доктору.
+# sent_id = 12
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	И	и	CCONJ	_	_	6	cc	_	start_char=791|end_char=792
+2	именно	именно	PART	_	_	3	advmod	_	start_char=793|end_char=799
+3	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	start_char=800|end_char=802
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=803|end_char=804
+5	и	и	PART	_	_	6	advmod	_	start_char=805|end_char=806
+6	продиктовала	продиктовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=807|end_char=819
+7	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	start_char=820|end_char=827
+8	.	.	PUNCT	_	_	6	punct	_	start_char=827|end_char=828
+
+# text = - Что могло измениться?
+# sent_id = 13
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=829|end_char=830
+2	Что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=831|end_char=834
+3	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=835|end_char=840
+4	измениться	измениться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=841|end_char=851
+5	?	?	PUNCT	_	_	3	punct	_	start_char=851|end_char=852
+
+# text = Ваш прибор сломался?
+# sent_id = 14
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	start_char=853|end_char=856
+2	прибор	прибор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=857|end_char=863
+3	сломался	сломаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=864|end_char=872
+4	?	?	PUNCT	_	_	3	punct	_	start_char=872|end_char=873
+
+# text = - Нет, невозможно, я его проверила и перепроверила, он был совершенно исправен даже после того, как в нём покопалась одна из обезьянок...
+# sent_id = 15
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	2	punct	_	start_char=874|end_char=875
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=876|end_char=879
+3	,	,	PUNCT	_	_	4	punct	_	start_char=879|end_char=880
+4	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	parataxis	_	start_char=881|end_char=891
+5	,	,	PUNCT	_	_	8	punct	_	start_char=891|end_char=892
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=893|end_char=894
+7	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=895|end_char=898
+8	проверила	проверить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=899|end_char=908
+9	и	и	CCONJ	_	_	10	cc	_	start_char=909|end_char=910
+10	перепроверила	перепроверить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=911|end_char=924
+11	,	,	PUNCT	_	_	15	punct	_	start_char=924|end_char=925
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=926|end_char=928
+13	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	start_char=929|end_char=932
+14	совершенно	совершенно	ADV	_	Degree=Pos	15	advmod	_	start_char=933|end_char=943
+15	исправен	исправный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	conj	_	start_char=944|end_char=952
+16	даже	даже	PART	_	_	18	advmod	_	start_char=953|end_char=957
+17	после	после	ADP	_	_	18	case	_	start_char=958|end_char=963
+18	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	15	obl	_	start_char=964|end_char=968
+19	,	,	PUNCT	_	_	23	punct	_	start_char=968|end_char=969
+20	как	как	SCONJ	_	_	23	mark	_	start_char=970|end_char=973
+21	в	в	ADP	_	_	22	case	_	start_char=974|end_char=975
+22	нём	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obl	_	start_char=976|end_char=979
+23	покопалась	покопаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	acl	_	start_char=980|end_char=990
+24	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	23	nsubj	_	start_char=991|end_char=995
+25	из	из	ADP	_	_	26	case	_	start_char=996|end_char=998
+26	обезьянок	обезьянка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	start_char=999|end_char=1008
+27	...	...	PUNCT	_	_	2	punct	_	start_char=1008|end_char=1011
+
+# text = - Кстати, о людях, - ледяным тоном заметил координатор.
+# sent_id = 16
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	5	punct	_	start_char=1012|end_char=1013
+2	Кстати	кстати	ADV	_	Degree=Pos	5	parataxis	_	start_char=1014|end_char=1020
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1020|end_char=1021
+4	о	о	ADP	_	_	5	case	_	start_char=1022|end_char=1023
+5	людях	человек	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	0	root	_	start_char=1024|end_char=1029
+6	,	,	PUNCT	_	_	10	punct	_	start_char=1029|end_char=1030
+7	-	-	PUNCT	_	_	10	punct	_	start_char=1031|end_char=1032
+8	ледяным	ледяной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1033|end_char=1040
+9	тоном	тон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	iobj	_	start_char=1041|end_char=1046
+10	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=1047|end_char=1054
+11	координатор	координатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	start_char=1055|end_char=1066
+12	.	.	PUNCT	_	_	5	punct	_	start_char=1066|end_char=1067
+
+# text = - Да?
+# sent_id = 17
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1068|end_char=1069
+2	Да	да	PART	_	_	0	root	_	start_char=1070|end_char=1072
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1072|end_char=1073
+
+# text = А что о них говорить? - небрежно пожала плечами Мисси.
+# sent_id = 18
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	А	а	CCONJ	_	_	5	cc	_	start_char=1074|end_char=1075
+2	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=1076|end_char=1079
+3	о	о	ADP	_	_	4	case	_	start_char=1080|end_char=1081
+4	них	они	PRON	_	Case=Loc|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=1082|end_char=1085
+5	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=1086|end_char=1094
+6	?	?	PUNCT	_	_	5	punct	_	start_char=1094|end_char=1095
+7	-	-	PUNCT	_	_	9	punct	_	start_char=1096|end_char=1097
+8	небрежно	небрежно	ADV	_	Degree=Pos	9	advmod	_	start_char=1098|end_char=1106
+9	пожала	пожать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=1107|end_char=1113
+10	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	9	iobj	_	start_char=1114|end_char=1121
+11	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	9	nsubj	_	start_char=1122|end_char=1127
+12	.	.	PUNCT	_	_	5	punct	_	start_char=1127|end_char=1128
+
+# text = - По крайне разреженным и невнятным долетевшим до нас сигналам мы сделали вывод, что вы опять что-то устроили на Земле.
+# sent_id = 19
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	12	punct	_	start_char=1129|end_char=1130
+2	По	по	ADP	_	_	10	case	_	start_char=1131|end_char=1133
+3	крайне	крайне	ADV	_	Degree=Pos	4	advmod	_	start_char=1134|end_char=1140
+4	разреженным	разредить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	start_char=1141|end_char=1152
+5	и	и	CCONJ	_	_	6	cc	_	start_char=1153|end_char=1154
+6	невнятным	невнятный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	conj	_	start_char=1155|end_char=1164
+7	долетевшим	долететь	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	start_char=1165|end_char=1175
+8	до	до	ADP	_	_	9	case	_	start_char=1176|end_char=1178
+9	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	obl	_	start_char=1179|end_char=1182
+10	сигналам	сигнал	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	12	iobj	_	start_char=1183|end_char=1191
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=1192|end_char=1194
+12	сделали	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1195|end_char=1202
+13	вывод	вывод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=1203|end_char=1208
+14	,	,	PUNCT	_	_	19	punct	_	start_char=1208|end_char=1209
+15	что	что	SCONJ	_	_	19	mark	_	start_char=1210|end_char=1213
+16	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	19	nsubj	_	start_char=1214|end_char=1216
+17	опять	опять	ADV	_	Degree=Pos	19	advmod	_	start_char=1217|end_char=1222
+18	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	19	obj	_	start_char=1223|end_char=1229
+19	устроили	устроить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	acl	_	start_char=1230|end_char=1238
+20	на	на	ADP	_	_	21	case	_	start_char=1239|end_char=1241
+21	Земле	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	start_char=1242|end_char=1247
+22	.	.	PUNCT	_	_	12	punct	_	start_char=1247|end_char=1248
+
+# text = Мисси взглянула на координатора, как на дурачка.
+# sent_id = 20
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Мисси	мисси	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1249|end_char=1254
+2	взглянула	взглянуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1255|end_char=1264
+3	на	на	ADP	_	_	4	case	_	start_char=1265|end_char=1267
+4	координатора	координатор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1268|end_char=1280
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1280|end_char=1281
+6	как	как	SCONJ	_	_	8	case	_	start_char=1282|end_char=1285
+7	на	на	ADP	_	_	8	case	_	start_char=1286|end_char=1288
+8	дурачка	дурачка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	start_char=1289|end_char=1296
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1296|end_char=1297
+
+# text = - Ну разумеется.
+# sent_id = 21
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1298|end_char=1299
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=1300|end_char=1302
+3	разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1303|end_char=1313
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1313|end_char=1314
+
+# text = Или вы думаете, что если бы я просто пошла и назвала координаты Доктору, он бы прямо так сразу и помчался по ним?
+# sent_id = 22
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Или	или	CCONJ	_	_	3	cc	_	start_char=1315|end_char=1318
+2	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=1319|end_char=1321
+3	думаете	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1322|end_char=1329
+4	,	,	PUNCT	_	_	22	punct	_	start_char=1329|end_char=1330
+5	что	что	SCONJ	_	_	22	mark	_	start_char=1331|end_char=1334
+6	если	если	SCONJ	_	_	10	mark	_	start_char=1335|end_char=1339
+7	бы	бы	AUX	_	Mood=Cnd	10	aux	_	start_char=1340|end_char=1342
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=1343|end_char=1344
+9	просто	просто	PART	_	_	10	advmod	_	start_char=1345|end_char=1351
+10	пошла	пойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	start_char=1352|end_char=1357
+11	и	и	CCONJ	_	_	12	cc	_	start_char=1358|end_char=1359
+12	назвала	назвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	start_char=1360|end_char=1367
+13	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	start_char=1368|end_char=1378
+14	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	start_char=1379|end_char=1386
+15	,	,	PUNCT	_	_	10	punct	_	start_char=1386|end_char=1387
+16	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=1388|end_char=1390
+17	бы	бы	AUX	_	Mood=Cnd	22	aux	_	start_char=1391|end_char=1393
+18	прямо	прямо	PART	_	_	19	advmod	_	start_char=1394|end_char=1399
+19	так	так	ADV	_	Degree=Pos|PronType=Dem	22	advmod	_	start_char=1400|end_char=1403
+20	сразу	сразу	ADV	_	Degree=Pos	22	advmod	_	start_char=1404|end_char=1409
+21	и	и	PART	_	_	22	advmod	_	start_char=1410|end_char=1411
+22	помчался	помчаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	start_char=1412|end_char=1420
+23	по	по	ADP	_	_	24	case	_	start_char=1421|end_char=1423
+24	ним	он	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	22	obl	_	start_char=1424|end_char=1427
+25	?	?	PUNCT	_	_	3	punct	_	start_char=1427|end_char=1428
+
+# text = Он бы решил, что это западня, и избегал этого места как можно дольше.
+# sent_id = 23
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1429|end_char=1431
+2	бы	бы	AUX	_	Mood=Cnd	3	aux	_	start_char=1432|end_char=1434
+3	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1435|end_char=1440
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1440|end_char=1441
+5	что	что	SCONJ	_	_	7	mark	_	start_char=1442|end_char=1445
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=1446|end_char=1449
+7	западня	западня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	ccomp	_	start_char=1450|end_char=1457
+8	,	,	PUNCT	_	_	10	punct	_	start_char=1457|end_char=1458
+9	и	и	CCONJ	_	_	10	cc	_	start_char=1459|end_char=1460
+10	избегал	избегать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1461|end_char=1468
+11	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	start_char=1469|end_char=1474
+12	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obj	_	start_char=1475|end_char=1480
+13	как	как	ADV	_	Degree=Pos|PronType=Rel	15	advmod	_	start_char=1481|end_char=1484
+14	можно	можно	VERB	_	_	13	fixed	_	start_char=1485|end_char=1490
+15	дольше	долго	ADV	_	Degree=Cmp	10	advmod	_	start_char=1491|end_char=1497
+16	.	.	PUNCT	_	_	3	punct	_	start_char=1497|end_char=1498
+
+# text = Небольшое представление было необходимо.
+# sent_id = 24
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Небольшое	небольшой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=1499|end_char=1508
+2	представление	представление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=1509|end_char=1522
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	start_char=1523|end_char=1527
+4	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1528|end_char=1538
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1538|end_char=1539
+
+# text = - А ущерб, нанесённый Земле?
+# sent_id = 25
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1540|end_char=1541
+2	А	а	CCONJ	_	_	3	cc	_	start_char=1542|end_char=1543
+3	ущерб	ущерб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1544|end_char=1549
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1549|end_char=1550
+5	нанесённый	нанести	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	start_char=1551|end_char=1561
+6	Земле	земля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	start_char=1562|end_char=1567
+7	?	?	PUNCT	_	_	3	punct	_	start_char=1567|end_char=1568
+
+# text = - А, ерунда, он все равно все поправит, - отмахнулась Мисси от нападок.
+# sent_id = 26
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	10	punct	_	start_char=1569|end_char=1570
+2	А	а	CCONJ	_	_	10	cc	_	start_char=1571|end_char=1572
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1572|end_char=1573
+4	ерунда	ерунда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	parataxis	_	start_char=1574|end_char=1580
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1580|end_char=1581
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=1582|end_char=1584
+7	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	10	advmod	_	start_char=1585|end_char=1588
+8	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	fixed	_	start_char=1589|end_char=1594
+9	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	10	obj	_	start_char=1595|end_char=1598
+10	поправит	поправить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1599|end_char=1607
+11	,	,	PUNCT	_	_	13	punct	_	start_char=1607|end_char=1608
+12	-	-	PUNCT	_	_	13	punct	_	start_char=1609|end_char=1610
+13	отмахнулась	отмахнуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	parataxis	_	start_char=1611|end_char=1622
+14	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	13	nsubj	_	start_char=1623|end_char=1628
+15	от	от	ADP	_	_	16	case	_	start_char=1629|end_char=1631
+16	нападок	нападок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	obl	_	start_char=1632|end_char=1639
+17	.	.	PUNCT	_	_	10	punct	_	start_char=1639|end_char=1640
+
+# text = - Ваше счастье, что вы - внештатный агент, иначе за такой отход от инструкций вас бы сразу стерли из времени.
+# sent_id = 27
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1641|end_char=1642
+2	Ваше	ваш	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=1643|end_char=1647
+3	счастье	счастье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=1648|end_char=1655
+4	,	,	PUNCT	_	_	9	punct	_	start_char=1655|end_char=1656
+5	что	что	SCONJ	_	_	9	mark	_	start_char=1657|end_char=1660
+6	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	start_char=1661|end_char=1663
+7	-	-	PUNCT	_	_	9	punct	_	start_char=1664|end_char=1665
+8	внештатный	внештатный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=1666|end_char=1676
+9	агент	агент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	acl	_	start_char=1677|end_char=1682
+10	,	,	PUNCT	_	_	20	punct	_	start_char=1682|end_char=1683
+11	иначе	иначе	CCONJ	_	_	20	cc	_	start_char=1684|end_char=1689
+12	за	за	ADP	_	_	14	case	_	start_char=1690|end_char=1692
+13	такой	такой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	start_char=1693|end_char=1698
+14	отход	отход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	start_char=1699|end_char=1704
+15	от	от	ADP	_	_	16	case	_	start_char=1705|end_char=1707
+16	инструкций	инструкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	start_char=1708|end_char=1718
+17	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	20	obj	_	start_char=1719|end_char=1722
+18	бы	бы	AUX	_	Mood=Cnd	20	aux	_	start_char=1723|end_char=1725
+19	сразу	сразу	ADV	_	Degree=Pos	20	advmod	_	start_char=1726|end_char=1731
+20	стерли	стереть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1732|end_char=1738
+21	из	из	ADP	_	_	22	case	_	start_char=1739|end_char=1741
+22	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	obl	_	start_char=1742|end_char=1749
+23	.	.	PUNCT	_	_	3	punct	_	start_char=1749|end_char=1750
+
+# text = - По вашим инструкциям невозможно ничего сделать.
+# sent_id = 28
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	5	punct	_	start_char=1751|end_char=1752
+2	По	по	ADP	_	_	4	case	_	start_char=1753|end_char=1755
+3	вашим	ваш	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	start_char=1756|end_char=1761
+4	инструкциям	инструкция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	obl	_	start_char=1762|end_char=1773
+5	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1774|end_char=1784
+6	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	7	obj	_	start_char=1785|end_char=1791
+7	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=1792|end_char=1799
+8	.	.	PUNCT	_	_	5	punct	_	start_char=1799|end_char=1800
+
+# text = - Но Доктора до сих пор нет.
+# sent_id = 29
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	7	punct	_	start_char=1801|end_char=1802
+2	Но	но	CCONJ	_	_	7	cc	_	start_char=1803|end_char=1805
+3	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1806|end_char=1813
+4	до	до	ADP	_	_	7	advmod	_	start_char=1814|end_char=1816
+5	сих	сей	DET	_	Case=Gen|Number=Plur|PronType=Dem	4	fixed	_	start_char=1817|end_char=1820
+6	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	fixed	_	start_char=1821|end_char=1824
+7	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=1825|end_char=1828
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1828|end_char=1829
+
+# text = Даже не выходил на связь и не показывался в этом районе.
+# sent_id = 30
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Даже	даже	PART	_	_	2	advmod	_	start_char=1830|end_char=1834
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=1835|end_char=1837
+3	выходил	выходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1838|end_char=1845
+4	на	на	ADP	_	_	5	case	_	start_char=1846|end_char=1848
+5	связь	связь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=1849|end_char=1854
+6	и	и	CCONJ	_	_	8	cc	_	start_char=1855|end_char=1856
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1857|end_char=1859
+8	показывался	показываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=1860|end_char=1871
+9	в	в	ADP	_	_	11	case	_	start_char=1872|end_char=1873
+10	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	start_char=1874|end_char=1878
+11	районе	район	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	start_char=1879|end_char=1885
+12	.	.	PUNCT	_	_	3	punct	_	start_char=1885|end_char=1886
+
+# text = Вы уверены...
+# sent_id = 31
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=1887|end_char=1889
+2	уверены	уверенный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=1890|end_char=1897
+3	...	...	PUNCT	_	_	2	punct	_	start_char=1897|end_char=1900
+
+# text = - В том, что я передала ему правильные координаты?
+# sent_id = 32
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1901|end_char=1902
+2	В	в	ADP	_	_	3	case	_	start_char=1903|end_char=1904
+3	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=1905|end_char=1908
+4	,	,	PUNCT	_	_	7	punct	_	start_char=1908|end_char=1909
+5	что	что	SCONJ	_	_	7	mark	_	start_char=1910|end_char=1913
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=1914|end_char=1915
+7	передала	передать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	start_char=1916|end_char=1924
+8	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	start_char=1925|end_char=1928
+9	правильные	правильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	start_char=1929|end_char=1939
+10	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=1940|end_char=1950
+11	?	?	PUNCT	_	_	3	punct	_	start_char=1950|end_char=1951
+
+# text = Да, уверена, я же не сумасшедшая!
+# sent_id = 33
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Да	да	PART	_	_	8	parataxis	_	start_char=1952|end_char=1954
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1954|end_char=1955
+3	уверена	уверенный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	8	parataxis	_	start_char=1956|end_char=1963
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1963|end_char=1964
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=1965|end_char=1966
+6	же	же	PART	_	_	5	advmod	_	start_char=1967|end_char=1969
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=1970|end_char=1972
+8	сумасшедшая	сумасшедший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=1973|end_char=1984
+9	!	!	PUNCT	_	_	8	punct	_	start_char=1984|end_char=1985
+
+# text = - начала раздражаться Мисси.
+# sent_id = 34
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1986|end_char=1987
+2	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1988|end_char=1994
+3	раздражаться	раздражаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	2	xcomp	_	start_char=1995|end_char=2007
+4	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=2008|end_char=2013
+5	.	.	PUNCT	_	_	2	punct	_	start_char=2013|end_char=2014
+
+# text = - Вы говорили, что и я не прибыла.
+# sent_id = 35
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=2015|end_char=2016
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	start_char=2017|end_char=2019
+3	говорили	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2020|end_char=2028
+4	,	,	PUNCT	_	_	9	punct	_	start_char=2028|end_char=2029
+5	что	что	SCONJ	_	_	9	mark	_	start_char=2030|end_char=2033
+6	и	и	PART	_	_	9	advmod	_	start_char=2034|end_char=2035
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=2036|end_char=2037
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=2038|end_char=2040
+9	прибыла	прибыть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=2041|end_char=2048
+10	.	.	PUNCT	_	_	3	punct	_	start_char=2048|end_char=2049
+
+# text = Боюсь, проблема в том, что сам Галлифрей оказался уже где-то в другом месте или времени, с другими координатами...
+# sent_id = 36
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	start_char=2050|end_char=2055
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2055|end_char=2056
+3	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=2057|end_char=2065
+4	в	в	ADP	_	_	5	case	_	start_char=2066|end_char=2067
+5	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=2068|end_char=2071
+6	,	,	PUNCT	_	_	10	punct	_	start_char=2071|end_char=2072
+7	что	что	SCONJ	_	_	10	mark	_	start_char=2073|end_char=2076
+8	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	9	det	_	start_char=2077|end_char=2080
+9	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	10	nsubj	_	start_char=2081|end_char=2090
+10	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	acl	_	start_char=2091|end_char=2099
+11	уже	уже	ADV	_	Degree=Pos	12	advmod	_	start_char=2100|end_char=2103
+12	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	10	advmod	_	start_char=2104|end_char=2110
+13	в	в	ADP	_	_	15	case	_	start_char=2111|end_char=2112
+14	другом	другой	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Tot	15	det	_	start_char=2113|end_char=2119
+15	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	start_char=2120|end_char=2125
+16	или	или	CCONJ	_	_	17	cc	_	start_char=2126|end_char=2129
+17	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	start_char=2130|end_char=2137
+18	,	,	PUNCT	_	_	21	punct	_	start_char=2137|end_char=2138
+19	с	с	ADP	_	_	21	case	_	start_char=2139|end_char=2140
+20	другими	другой	DET	_	Case=Ins|Number=Plur|PronType=Tot	21	det	_	start_char=2141|end_char=2148
+21	координатами	координата	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	15	conj	_	start_char=2149|end_char=2161
+22	...	...	PUNCT	_	_	5	punct	_	start_char=2161|end_char=2164
+
+# text = - Тогда это значит...
+# sent_id = 37
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	4	punct	_	start_char=2165|end_char=2166
+2	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2167|end_char=2172
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2173|end_char=2176
+4	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2177|end_char=2183
+5	...	...	PUNCT	_	_	4	punct	_	start_char=2183|end_char=2186
+
+# text = - Что он может никогда нас не найти, да.
+# sent_id = 38
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	10	punct	_	start_char=2187|end_char=2188
+2	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	start_char=2189|end_char=2192
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2193|end_char=2195
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	start_char=2196|end_char=2201
+5	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	8	advmod	_	start_char=2202|end_char=2209
+6	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	_	start_char=2210|end_char=2213
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=2214|end_char=2216
+8	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=2217|end_char=2222
+9	,	,	PUNCT	_	_	4	punct	_	start_char=2222|end_char=2223
+10	да	да	PART	_	_	0	root	_	start_char=2224|end_char=2226
+11	.	.	PUNCT	_	_	10	punct	_	start_char=2226|end_char=2227
+
+# text = А никто из таймлордов не может выбраться отсюда, пройти теми путями, которыми могу выйти я.
+# sent_id = 39
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	А	а	CCONJ	_	_	6	cc	_	start_char=2228|end_char=2229
+2	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	6	nsubj	_	start_char=2230|end_char=2235
+3	из	из	ADP	_	_	4	case	_	start_char=2236|end_char=2238
+4	таймлордов	таймордов	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=2239|end_char=2249
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2250|end_char=2252
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2253|end_char=2258
+7	выбраться	выбраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	xcomp	_	start_char=2259|end_char=2268
+8	отсюда	отсюда	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=2269|end_char=2275
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2275|end_char=2276
+10	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	start_char=2277|end_char=2283
+11	теми	тот	DET	_	Case=Ins|Number=Plur|PronType=Dem	12	det	_	start_char=2284|end_char=2288
+12	путями	путь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	iobj	_	start_char=2289|end_char=2295
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2295|end_char=2296
+14	которыми	который	PRON	_	Case=Ins|Number=Plur|PronType=Rel	16	iobj	_	start_char=2297|end_char=2305
+15	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	start_char=2306|end_char=2310
+16	выйти	выйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	start_char=2311|end_char=2316
+17	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=2317|end_char=2318
+18	.	.	PUNCT	_	_	6	punct	_	start_char=2318|end_char=2319
+
+# text = Ну кроме самого Лорда-Президента, пожалуй.
+# sent_id = 40
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Ну	ну	PART	_	_	4	discourse	_	start_char=2320|end_char=2322
+2	кроме	кроме	ADP	_	_	4	case	_	start_char=2323|end_char=2328
+3	самого	самый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Emp	4	det	_	start_char=2329|end_char=2335
+4	Лорда	Лорда	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=2336|end_char=2341
+5	-Президента	-Президент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	4	nmod	_	start_char=2341|end_char=2352
+6	,	,	PUNCT	_	_	7	punct	_	start_char=2352|end_char=2353
+7	пожалуй	пожалуй	ADV	_	Degree=Pos	4	parataxis	_	start_char=2354|end_char=2361
+8	.	.	PUNCT	_	_	4	punct	_	start_char=2361|end_char=2362
+
+# text = - Так, сейчас идем с вами к Лорду-Президенту!
+# sent_id = 41
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	5	punct	_	start_char=2363|end_char=2364
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	parataxis	_	start_char=2365|end_char=2368
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2368|end_char=2369
+4	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2370|end_char=2376
+5	идем	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2377|end_char=2381
+6	с	с	ADP	_	_	7	case	_	start_char=2382|end_char=2383
+7	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2|PronType=Prs	5	obl	_	start_char=2384|end_char=2388
+8	к	к	ADP	_	_	9	case	_	start_char=2389|end_char=2390
+9	Лорду	Лорду	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	5	obl	_	start_char=2391|end_char=2396
+10	-Президенту	-Президент	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	9	flat:name	_	start_char=2396|end_char=2407
+11	!	!	PUNCT	_	_	5	punct	_	start_char=2407|end_char=2408
+
+# text = - Я?
+# sent_id = 42
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	2	punct	_	start_char=2409|end_char=2410
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=2411|end_char=2412
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2412|end_char=2413
+
+# text = К Рассилону? - было похоже, что Мисси испугалась.
+# sent_id = 43
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	К	к	ADP	_	_	2	case	_	start_char=2414|end_char=2415
+2	Рассилону	Рассилон	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	0	root	_	start_char=2416|end_char=2425
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2425|end_char=2426
+4	-	-	PUNCT	_	_	6	punct	_	start_char=2427|end_char=2428
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=2429|end_char=2433
+6	похоже	похожий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	parataxis	_	start_char=2434|end_char=2440
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2440|end_char=2441
+8	что	что	SCONJ	_	_	10	mark	_	start_char=2442|end_char=2445
+9	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	10	nsubj	_	start_char=2446|end_char=2451
+10	испугалась	испугаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	ccomp	_	start_char=2452|end_char=2462
+11	.	.	PUNCT	_	_	2	punct	_	start_char=2462|end_char=2463
+
+# text = - Да он же сумасшедший!
+# sent_id = 44
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	5	punct	_	start_char=2464|end_char=2465
+2	Да	да	CCONJ	_	_	5	cc	_	start_char=2466|end_char=2468
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=2469|end_char=2471
+4	же	же	PART	_	_	3	advmod	_	start_char=2472|end_char=2474
+5	сумасшедший	сумасшедший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=2475|end_char=2486
+6	!	!	PUNCT	_	_	5	punct	_	start_char=2486|end_char=2487
+
+# text = - Вот и найдете с ним общий язык.
+# sent_id = 45
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	4	punct	_	start_char=2488|end_char=2489
+2	Вот	вот	PART	_	_	4	advmod	_	start_char=2490|end_char=2493
+3	и	и	PART	_	_	4	advmod	_	start_char=2494|end_char=2495
+4	найдете	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2496|end_char=2503
+5	с	с	ADP	_	_	6	case	_	start_char=2504|end_char=2505
+6	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=2506|end_char=2509
+7	общий	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=2510|end_char=2515
+8	язык	язык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=2516|end_char=2520
+9	.	.	PUNCT	_	_	4	punct	_	start_char=2520|end_char=2521
+
+# text = И подумаете, как определить наши новые координаты.
+# sent_id = 46
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	И	и	CCONJ	_	_	2	cc	_	start_char=2522|end_char=2523
+2	подумаете	подумать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2524|end_char=2533
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2533|end_char=2534
+4	как	как	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=2535|end_char=2538
+5	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	ccomp	_	start_char=2539|end_char=2549
+6	наши	наш	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs	8	det	_	start_char=2550|end_char=2554
+7	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	start_char=2555|end_char=2560
+8	координаты	координата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=2561|end_char=2571
+9	.	.	PUNCT	_	_	2	punct	_	start_char=2571|end_char=2572
+
+# text = - И что, опять пошлёте меня к Доктору? - она изобразила невинное хлопанье глазками.
+# sent_id = 47
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	6	punct	_	start_char=2573|end_char=2574
+2	И	и	CCONJ	_	_	6	cc	_	start_char=2575|end_char=2576
+3	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	nsubj	_	start_char=2577|end_char=2580
+4	,	,	PUNCT	_	_	3	punct	_	start_char=2580|end_char=2581
+5	опять	опять	ADV	_	Degree=Pos	6	advmod	_	start_char=2582|end_char=2587
+6	пошлёте	пойти	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=2588|end_char=2595
+7	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=2596|end_char=2600
+8	к	к	ADP	_	_	9	case	_	start_char=2601|end_char=2602
+9	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=2603|end_char=2610
+10	?	?	PUNCT	_	_	6	punct	_	start_char=2610|end_char=2611
+11	-	-	PUNCT	_	_	13	punct	_	start_char=2612|end_char=2613
+12	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=2614|end_char=2617
+13	изобразила	изобразить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=2618|end_char=2628
+14	невинное	невинный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	start_char=2629|end_char=2637
+15	хлопанье	хлопанье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	start_char=2638|end_char=2646
+16	глазками	глазок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	iobj	_	start_char=2647|end_char=2655
+17	.	.	PUNCT	_	_	6	punct	_	start_char=2655|end_char=2656
+
+# text = Координатор поморщился.
+# sent_id = 48
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	Координатор	координатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	start_char=2657|end_char=2668
+2	поморщился	поморщиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2669|end_char=2679
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2679|end_char=2680
+
+# text = - Только в следующий раз без долгих планов с завоеваниями кого бы то ни было!
+# sent_id = 49
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	15	punct	_	start_char=2681|end_char=2682
+2	Только	только	PART	_	_	5	advmod	_	start_char=2683|end_char=2689
+3	в	в	ADP	_	_	5	case	_	start_char=2690|end_char=2691
+4	следующий	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=2692|end_char=2701
+5	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	start_char=2702|end_char=2705
+6	без	без	ADP	_	_	8	case	_	start_char=2706|end_char=2709
+7	долгих	долгий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	start_char=2710|end_char=2716
+8	планов	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	start_char=2717|end_char=2723
+9	с	с	ADP	_	_	10	case	_	start_char=2724|end_char=2725
+10	завоеваниями	завоевание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	8	nmod	_	start_char=2726|end_char=2738
+11	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	10	nmod	_	start_char=2739|end_char=2743
+12	бы	бы	AUX	_	Mood=Cnd	11	fixed	_	start_char=2744|end_char=2746
+13	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	fixed	_	start_char=2747|end_char=2749
+14	ни	ни	PART	_	Polarity=Neg	13	fixed	_	start_char=2750|end_char=2752
+15	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	fixed	_	start_char=2753|end_char=2757
+16	!	!	PUNCT	_	_	8	punct	_	start_char=2757|end_char=2758
+
+# text = - Ну конечно! - выдохнула Мисси.
+# sent_id = 50
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	3	punct	_	start_char=2759|end_char=2760
+2	Ну	ну	PART	_	_	3	discourse	_	start_char=2761|end_char=2763
+3	конечно	конечно	ADV	_	Degree=Pos	0	root	_	start_char=2764|end_char=2771
+4	!	!	PUNCT	_	_	3	punct	_	start_char=2771|end_char=2772
+5	-	-	PUNCT	_	_	6	punct	_	start_char=2773|end_char=2774
+6	выдохнула	выдохнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=2775|end_char=2784
+7	Мисси	Мисси	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	6	nsubj	_	start_char=2785|end_char=2790
+8	.	.	PUNCT	_	_	3	punct	_	start_char=2790|end_char=2791
+
+# text = - А то официально внесу в штат НРУ!
+# sent_id = 51
+# metadata = Название: Внештатный агент НРУ, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/545fc7c800000a7d2b773463/1/Vneshtatnyj-agent-NRU
+1	-	-	PUNCT	_	_	5	punct	_	start_char=2792|end_char=2793
+2	А	а	CCONJ	_	_	5	cc	_	start_char=2794|end_char=2795
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	fixed	_	start_char=2796|end_char=2798
+4	официально	официально	ADV	_	Degree=Pos	5	advmod	_	start_char=2799|end_char=2809
+5	внесу	внести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2810|end_char=2815
+6	в	в	ADP	_	_	7	case	_	start_char=2816|end_char=2817
+7	штат	штат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=2818|end_char=2822
+8	НРУ	НРУ	PROPN	_	Abbr=Yes|NameType=Com	7	nmod	_	start_char=2823|end_char=2826
+9	!	!	PUNCT	_	_	5	punct	_	start_char=2826|end_char=2827
+

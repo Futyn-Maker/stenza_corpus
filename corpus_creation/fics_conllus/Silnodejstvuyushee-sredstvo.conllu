@@ -1,0 +1,1461 @@
+# text = – Так чего, ты говоришь, здесь никогда не было, хотя ты это помнишь?
+# sent_id = 0
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	11	punct	_	start_char=0|end_char=1
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=2|end_char=5
+3	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	11	nsubj	_	start_char=6|end_char=10
+4	,	,	PUNCT	_	_	6	punct	_	start_char=10|end_char=11
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=12|end_char=14
+6	говоришь	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	start_char=15|end_char=23
+7	,	,	PUNCT	_	_	6	punct	_	start_char=23|end_char=24
+8	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=25|end_char=30
+9	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	11	advmod	_	start_char=31|end_char=38
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=39|end_char=41
+11	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=42|end_char=46
+12	,	,	PUNCT	_	_	16	punct	_	start_char=46|end_char=47
+13	хотя	хотя	SCONJ	_	_	16	mark	_	start_char=48|end_char=52
+14	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	start_char=53|end_char=55
+15	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	16	obj	_	start_char=56|end_char=59
+16	помнишь	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=60|end_char=67
+17	?	?	PUNCT	_	_	11	punct	_	start_char=67|end_char=68
+
+# text = – Вида 456, – ответил Джек, вжимаясь в остатки полураскрошенной кирпичной стены, из которой торчали художественно гнутые и завязанные причудливыми узлами арматурины.
+# sent_id = 1
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=69|end_char=70
+2	Вида	вида	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=71|end_char=75
+3	456	456	NUM	_	NumForm=Digit|NumType=Card	2	appos	_	start_char=76|end_char=79
+4	,	,	PUNCT	_	_	6	punct	_	start_char=79|end_char=80
+5	–	–	PUNCT	_	_	6	punct	_	start_char=81|end_char=82
+6	ответил	ответить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=83|end_char=90
+7	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	start_char=91|end_char=95
+8	,	,	PUNCT	_	_	9	punct	_	start_char=95|end_char=96
+9	вжимаясь	вжиматься	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	6	advcl	_	start_char=97|end_char=105
+10	в	в	ADP	_	_	11	case	_	start_char=106|end_char=107
+11	остатки	остаток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obl	_	start_char=108|end_char=115
+12	полураскрошенной	полураскрошенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=116|end_char=132
+13	кирпичной	кирпичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=133|end_char=142
+14	стены	стена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=143|end_char=148
+15	,	,	PUNCT	_	_	18	punct	_	start_char=148|end_char=149
+16	из	из	ADP	_	_	17	case	_	start_char=150|end_char=152
+17	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	18	obl	_	start_char=153|end_char=160
+18	торчали	торчать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=161|end_char=168
+19	художественно	художественно	ADV	_	Degree=Pos	20	advmod	_	start_char=169|end_char=182
+20	гнутые	гнуть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	25	acl	_	start_char=183|end_char=189
+21	и	и	CCONJ	_	_	22	cc	_	start_char=190|end_char=191
+22	завязанные	завязать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	conj	_	start_char=192|end_char=202
+23	причудливыми	причудливый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	amod	_	start_char=203|end_char=215
+24	узлами	узло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	22	iobj	_	start_char=216|end_char=222
+25	арматурины	арматурин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	start_char=223|end_char=233
+26	.	.	PUNCT	_	_	2	punct	_	start_char=233|end_char=234
+
+# text = Неподалеку за стеной прогремел взрыв – все-таки взорвалась бензоколонка, – и нас засыпало шрапнелью всякого мусора.
+# sent_id = 2
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Неподалеку	неподалеку	ADV	_	Degree=Pos	4	advmod	_	start_char=236|end_char=246
+2	за	за	ADP	_	_	3	case	_	start_char=247|end_char=249
+3	стеной	стена	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	start_char=250|end_char=256
+4	прогремел	прогреметь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=257|end_char=266
+5	взрыв	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=267|end_char=272
+6	–	–	PUNCT	_	_	8	punct	_	start_char=273|end_char=274
+7	все-таки	все-таки	PART	_	_	8	advmod	_	start_char=275|end_char=283
+8	взорвалась	взорваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=284|end_char=294
+9	бензоколонка	бензоколонка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=295|end_char=307
+10	,	,	PUNCT	_	_	14	punct	_	start_char=307|end_char=308
+11	–	–	PUNCT	_	_	14	punct	_	start_char=309|end_char=310
+12	и	и	CCONJ	_	_	14	cc	_	start_char=311|end_char=312
+13	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	obj	_	start_char=313|end_char=316
+14	засыпало	засыпать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	start_char=317|end_char=325
+15	шрапнелью	шрапнель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	start_char=326|end_char=335
+16	всякого	всякий	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	17	det	_	start_char=336|end_char=343
+17	мусора	мусор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	start_char=344|end_char=350
+18	.	.	PUNCT	_	_	4	punct	_	start_char=350|end_char=351
+
+# text = Я стряхнул крошки кирпича и бетона с портативного монитора и понаблюдал, как токлафаны атакуют еще одну эскадру огненных шаров со щупальцами.
+# sent_id = 3
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=352|end_char=353
+2	стряхнул	стряхнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=354|end_char=362
+3	крошки	крошка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	start_char=363|end_char=369
+4	кирпича	кирпич	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=370|end_char=377
+5	и	и	CCONJ	_	_	6	cc	_	start_char=378|end_char=379
+6	бетона	бетон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	conj	_	start_char=380|end_char=386
+7	с	с	ADP	_	_	9	case	_	start_char=387|end_char=388
+8	портативного	портативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=389|end_char=401
+9	монитора	монитор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=402|end_char=410
+10	и	и	CCONJ	_	_	11	cc	_	start_char=411|end_char=412
+11	понаблюдал	понаблюдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=413|end_char=423
+12	,	,	PUNCT	_	_	15	punct	_	start_char=423|end_char=424
+13	как	как	SCONJ	_	_	15	mark	_	start_char=425|end_char=428
+14	токлафаны	токлафан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	start_char=429|end_char=438
+15	атакуют	атаковать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	start_char=439|end_char=446
+16	еще	еще	ADV	_	Degree=Pos	17	advmod	_	start_char=447|end_char=450
+17	одну	один	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	18	nummod	_	start_char=451|end_char=455
+18	эскадру	эскадра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	start_char=456|end_char=463
+19	огненных	огненный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	start_char=464|end_char=472
+20	шаров	шар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	start_char=473|end_char=478
+21	со	со	ADP	_	_	22	case	_	start_char=479|end_char=481
+22	щупальцами	щупалец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	20	nmod	_	start_char=482|end_char=492
+23	.	.	PUNCT	_	_	2	punct	_	start_char=492|end_char=493
+
+# text = Торчвудцы называли их за некоторые свойства лангольерами, хотя это были не они.
+# sent_id = 4
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Торчвудцы	торчвудец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	start_char=494|end_char=503
+2	называли	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=504|end_char=512
+3	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=513|end_char=515
+4	за	за	ADP	_	_	6	case	_	start_char=516|end_char=518
+5	некоторые	некоторый	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Ind	6	det	_	start_char=519|end_char=528
+6	свойства	свойство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obl	_	start_char=529|end_char=537
+7	лангольерами	лангольер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	6	nmod	_	start_char=538|end_char=550
+8	,	,	PUNCT	_	_	13	punct	_	start_char=550|end_char=551
+9	хотя	хотя	SCONJ	_	_	13	mark	_	start_char=552|end_char=556
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	start_char=557|end_char=560
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	start_char=561|end_char=565
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=566|end_char=568
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	advcl	_	start_char=569|end_char=572
+14	.	.	PUNCT	_	_	2	punct	_	start_char=572|end_char=573
+
+# text = Впрочем, название было не хуже прочих.
+# sent_id = 5
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Впрочем	впрочем	ADV	_	Degree=Pos	6	parataxis	_	start_char=574|end_char=581
+2	,	,	PUNCT	_	_	1	punct	_	start_char=581|end_char=582
+3	название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	start_char=583|end_char=591
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=592|end_char=596
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=597|end_char=599
+6	хуже	плохой	ADJ	_	Degree=Cmp	0	root	_	start_char=600|end_char=604
+7	прочих	прочий	DET	_	Case=Gen|Number=Plur|PronType=Tot	6	obl	_	start_char=605|end_char=611
+8	.	.	PUNCT	_	_	6	punct	_	start_char=611|end_char=612
+
+# text = Один из пришельцев, извиваясь, шлепнулся в мусор рядом с нами.
+# sent_id = 6
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	start_char=613|end_char=617
+2	из	из	ADP	_	_	3	case	_	start_char=618|end_char=620
+3	пришельцев	пришелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	start_char=621|end_char=631
+4	,	,	PUNCT	_	_	5	punct	_	start_char=631|end_char=632
+5	извиваясь	извиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	start_char=633|end_char=642
+6	,	,	PUNCT	_	_	5	punct	_	start_char=642|end_char=643
+7	шлепнулся	шлепнуться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=644|end_char=653
+8	в	в	ADP	_	_	9	case	_	start_char=654|end_char=655
+9	мусор	мусор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=656|end_char=661
+10	рядом	рядом	ADV	_	Degree=Pos	7	advmod	_	start_char=662|end_char=667
+11	с	с	ADP	_	_	12	case	_	start_char=668|end_char=669
+12	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	10	obl	_	start_char=670|end_char=674
+13	.	.	PUNCT	_	_	7	punct	_	start_char=674|end_char=675
+
+# text = Я достал отвертку и принялся методично выжигать шар и дергающиеся щупальца до кучки пепла.
+# sent_id = 7
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=676|end_char=677
+2	достал	достать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=678|end_char=684
+3	отвертку	отвертка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=685|end_char=693
+4	и	и	CCONJ	_	_	5	cc	_	start_char=694|end_char=695
+5	принялся	приняться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=696|end_char=704
+6	методично	методично	ADV	_	Degree=Pos	7	advmod	_	start_char=705|end_char=714
+7	выжигать	выжигать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=715|end_char=723
+8	шар	шар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=724|end_char=727
+9	и	и	CCONJ	_	_	11	cc	_	start_char=728|end_char=729
+10	дергающиеся	дергаться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	start_char=730|end_char=741
+11	щупальца	щупальце	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	conj	_	start_char=742|end_char=750
+12	до	до	ADP	_	_	13	case	_	start_char=751|end_char=753
+13	кучки	кучка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	start_char=754|end_char=759
+14	пепла	пепло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	start_char=760|end_char=765
+15	.	.	PUNCT	_	_	2	punct	_	start_char=765|end_char=766
+
+# text = Зависший над нами токлафан увидел, что дело доделают без него, и устремился к следующей цели.
+# sent_id = 8
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Зависший	зависнуть	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	start_char=767|end_char=775
+2	над	над	ADP	_	_	3	case	_	start_char=776|end_char=779
+3	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	1	obl	_	start_char=780|end_char=784
+4	токлафан	токлафан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=785|end_char=793
+5	увидел	увидеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=794|end_char=800
+6	,	,	PUNCT	_	_	9	punct	_	start_char=800|end_char=801
+7	что	что	SCONJ	_	_	9	mark	_	start_char=802|end_char=805
+8	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	start_char=806|end_char=810
+9	доделают	доделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=811|end_char=819
+10	без	без	ADP	_	_	11	case	_	start_char=820|end_char=823
+11	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=824|end_char=828
+12	,	,	PUNCT	_	_	14	punct	_	start_char=828|end_char=829
+13	и	и	CCONJ	_	_	14	cc	_	start_char=830|end_char=831
+14	устремился	устремиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=832|end_char=842
+15	к	к	ADP	_	_	17	case	_	start_char=843|end_char=844
+16	следующей	следующий	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	start_char=845|end_char=854
+17	цели	цель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	14	obl	_	start_char=855|end_char=859
+18	.	.	PUNCT	_	_	5	punct	_	start_char=859|end_char=860
+
+# text = – Может, хватит уже? – нервно спросил Харкнесс.
+# sent_id = 9
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=861|end_char=862
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=863|end_char=868
+3	,	,	PUNCT	_	_	2	punct	_	start_char=868|end_char=869
+4	хватит	хватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=870|end_char=876
+5	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=877|end_char=880
+6	?	?	PUNCT	_	_	4	punct	_	start_char=880|end_char=881
+7	–	–	PUNCT	_	_	9	punct	_	start_char=882|end_char=883
+8	нервно	нервно	ADV	_	Degree=Pos	9	advmod	_	start_char=884|end_char=890
+9	спросил	спросить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=891|end_char=898
+10	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	9	nsubj	_	start_char=899|end_char=907
+11	.	.	PUNCT	_	_	4	punct	_	start_char=907|end_char=908
+
+# text = – Очень децентрализованная нервная система, – пояснил я.
+# sent_id = 10
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=909|end_char=910
+2	Очень	очень	ADV	_	Degree=Pos	3	advmod	_	start_char=911|end_char=916
+3	децентрализованная	децентрализованный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=917|end_char=935
+4	нервная	нервный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	start_char=936|end_char=943
+5	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=944|end_char=951
+6	,	,	PUNCT	_	_	8	punct	_	start_char=951|end_char=952
+7	–	–	PUNCT	_	_	8	punct	_	start_char=953|end_char=954
+8	пояснил	пояснить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=955|end_char=962
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=963|end_char=964
+10	.	.	PUNCT	_	_	5	punct	_	start_char=964|end_char=965
+
+# text = – Оставь кусочек, и он все еще сможет жить и плодиться.
+# sent_id = 11
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=966|end_char=967
+2	Оставь	оставить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=968|end_char=974
+3	кусочек	кусочек	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=975|end_char=982
+4	,	,	PUNCT	_	_	9	punct	_	start_char=982|end_char=983
+5	и	и	CCONJ	_	_	9	cc	_	start_char=984|end_char=985
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=986|end_char=988
+7	все	всё	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	start_char=989|end_char=992
+8	еще	еще	ADV	_	Degree=Pos	7	fixed	_	start_char=993|end_char=996
+9	сможет	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=997|end_char=1003
+10	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=1004|end_char=1008
+11	и	и	CCONJ	_	_	12	cc	_	start_char=1009|end_char=1010
+12	плодиться	плодиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	conj	_	start_char=1011|end_char=1020
+13	.	.	PUNCT	_	_	2	punct	_	start_char=1020|end_char=1021
+
+# text = Харкнесс сплюнул.
+# sent_id = 12
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	_	start_char=1022|end_char=1030
+2	сплюнул	сплюнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1031|end_char=1038
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1038|end_char=1039
+
+# text = – Так ты не договорил, что за вида тут не было.
+# sent_id = 13
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1040|end_char=1041
+2	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1042|end_char=1045
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=1046|end_char=1048
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1049|end_char=1051
+5	договорил	договорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1052|end_char=1061
+6	,	,	PUNCT	_	_	12	punct	_	start_char=1061|end_char=1062
+7	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj	_	start_char=1063|end_char=1066
+8	за	за	ADP	_	_	9	case	_	start_char=1067|end_char=1069
+9	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	start_char=1070|end_char=1074
+10	тут	тут	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=1075|end_char=1078
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1079|end_char=1081
+12	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=1082|end_char=1086
+13	.	.	PUNCT	_	_	5	punct	_	start_char=1086|end_char=1087
+
+# text = – Договорил.
+# sent_id = 14
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1088|end_char=1089
+2	Договорил	договорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1090|end_char=1099
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1099|end_char=1100
+
+# text = 456.
+# sent_id = 15
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	456	456	NUM	_	NumForm=Digit|NumType=Card	0	root	_	start_char=1101|end_char=1104
+2	.	.	PUNCT	_	_	1	punct	_	start_char=1104|end_char=1105
+
+# text = Мы их так называли из-за позывных.
+# sent_id = 16
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=1106|end_char=1108
+2	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	start_char=1109|end_char=1111
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=1112|end_char=1115
+4	называли	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1116|end_char=1124
+5	из-за	из-за	ADP	_	_	6	case	_	start_char=1125|end_char=1130
+6	позывных	позывное	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	start_char=1131|end_char=1139
+7	.	.	PUNCT	_	_	4	punct	_	start_char=1139|end_char=1140
+
+# text = Эти сволочи использовали человеческих детей как наркотик и время от времени прилетали за данью.
+# sent_id = 17
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	2	det	_	start_char=1141|end_char=1144
+2	сволочи	сволочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=1145|end_char=1152
+3	использовали	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1153|end_char=1165
+4	человеческих	человеческий	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	start_char=1166|end_char=1178
+5	детей	ребенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	start_char=1179|end_char=1184
+6	как	как	SCONJ	_	_	7	case	_	start_char=1185|end_char=1188
+7	наркотик	наркотик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	obl	_	start_char=1189|end_char=1197
+8	и	и	CCONJ	_	_	12	cc	_	start_char=1198|end_char=1199
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	advmod	_	start_char=1200|end_char=1205
+10	от	от	ADP	_	_	9	fixed	_	start_char=1206|end_char=1208
+11	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	fixed	_	start_char=1209|end_char=1216
+12	прилетали	прилетать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1217|end_char=1226
+13	за	за	ADP	_	_	14	case	_	start_char=1227|end_char=1229
+14	данью	дань	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	start_char=1230|end_char=1235
+15	.	.	PUNCT	_	_	3	punct	_	start_char=1235|end_char=1236
+
+# text = – Никогда не слышал.
+# sent_id = 18
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1237|end_char=1238
+2	Никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	4	advmod	_	start_char=1239|end_char=1246
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1247|end_char=1249
+4	слышал	слышать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1250|end_char=1256
+5	.	.	PUNCT	_	_	4	punct	_	start_char=1256|end_char=1257
+
+# text = – Тебе повезло.
+# sent_id = 19
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1258|end_char=1259
+2	Тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	start_char=1260|end_char=1264
+3	повезло	повезти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1265|end_char=1272
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1272|end_char=1273
+
+# text = Хотя… когда напали далеки, ситуация показалась мне похожей.
+# sent_id = 20
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Хотя	хотя	SCONJ	_	_	8	mark	_	start_char=1274|end_char=1278
+2	…	…	PUNCT	_	_	1	punct	_	start_char=1278|end_char=1279
+3	когда	когда	SCONJ	_	_	4	mark	_	start_char=1280|end_char=1285
+4	напали	напасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=1286|end_char=1292
+5	далеки	далекий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	4	xcomp	_	start_char=1293|end_char=1299
+6	,	,	PUNCT	_	_	4	punct	_	start_char=1299|end_char=1300
+7	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	start_char=1301|end_char=1309
+8	показалась	показаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1310|end_char=1320
+9	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	start_char=1321|end_char=1324
+10	похожей	похожий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	xcomp	_	start_char=1325|end_char=1332
+11	.	.	PUNCT	_	_	8	punct	_	start_char=1332|end_char=1333
+
+# text = – А. Поэтому ты вернулся.
+# sent_id = 21
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=1334|end_char=1335
+2	А.	А.	PROPN	_	Abbr=Yes|NameType=Giv	5	nsubj	_	start_char=1336|end_char=1338
+3	Поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=1339|end_char=1346
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=1347|end_char=1349
+5	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1350|end_char=1358
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1358|end_char=1359
+
+# text = – Да.
+# sent_id = 22
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1360|end_char=1361
+2	Да	да	PART	_	_	0	root	_	start_char=1362|end_char=1364
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1364|end_char=1365
+
+# text = От своих проблем не убежишь.
+# sent_id = 23
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	От	от	ADP	_	_	3	case	_	start_char=1366|end_char=1368
+2	своих	свой	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	start_char=1369|end_char=1374
+3	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	obl	_	start_char=1375|end_char=1382
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=1383|end_char=1385
+5	убежишь	убежать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1386|end_char=1393
+6	.	.	PUNCT	_	_	5	punct	_	start_char=1393|end_char=1394
+
+# text = И от кошмаров тоже.
+# sent_id = 24
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	И	и	CCONJ	_	_	3	cc	_	start_char=1395|end_char=1396
+2	от	от	ADP	_	_	3	case	_	start_char=1397|end_char=1399
+3	кошмаров	кошмар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	start_char=1400|end_char=1408
+4	тоже	тоже	PART	_	_	3	advmod	_	start_char=1409|end_char=1413
+5	.	.	PUNCT	_	_	3	punct	_	start_char=1413|end_char=1414
+
+# text = А оказалось – их тут не было.
+# sent_id = 25
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	А	а	CCONJ	_	_	2	cc	_	start_char=1415|end_char=1416
+2	оказалось	оказаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	parataxis	_	start_char=1417|end_char=1426
+3	–	–	PUNCT	_	_	2	punct	_	start_char=1427|end_char=1428
+4	их	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=1429|end_char=1431
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=1432|end_char=1435
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1436|end_char=1438
+7	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1439|end_char=1443
+8	.	.	PUNCT	_	_	7	punct	_	start_char=1443|end_char=1444
+
+# text = Я думал, что спятил.
+# sent_id = 26
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1445|end_char=1446
+2	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1447|end_char=1452
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1452|end_char=1453
+4	что	что	SCONJ	_	_	5	mark	_	start_char=1454|end_char=1457
+5	спятил	спятить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1458|end_char=1464
+6	.	.	PUNCT	_	_	2	punct	_	start_char=1464|end_char=1465
+
+# text = Хотя что угодно ведь могло быть?
+# sent_id = 27
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Хотя	хотя	SCONJ	_	_	5	mark	_	start_char=1466|end_char=1470
+2	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	start_char=1471|end_char=1474
+3	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	advcl	_	start_char=1475|end_char=1481
+4	ведь	ведь	PART	_	_	5	advmod	_	start_char=1482|end_char=1486
+5	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1487|end_char=1492
+6	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=1493|end_char=1497
+7	?	?	PUNCT	_	_	5	punct	_	start_char=1497|end_char=1498
+
+# text = Даже в другой вселенной?
+# sent_id = 28
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Даже	даже	PART	_	_	4	advmod	_	start_char=1499|end_char=1503
+2	в	в	ADP	_	_	4	case	_	start_char=1504|end_char=1505
+3	другой	другой	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	start_char=1506|end_char=1512
+4	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=1513|end_char=1522
+5	?	?	PUNCT	_	_	4	punct	_	start_char=1522|end_char=1523
+
+# text = Как год, которого не было?
+# sent_id = 29
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	0	root	_	start_char=1524|end_char=1527
+2	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=1528|end_char=1531
+3	,	,	PUNCT	_	_	6	punct	_	start_char=1531|end_char=1532
+4	которого	который	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	start_char=1533|end_char=1541
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1542|end_char=1544
+6	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=1545|end_char=1549
+7	?	?	PUNCT	_	_	1	punct	_	start_char=1549|end_char=1550
+
+# text = – Могло.
+# sent_id = 30
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1551|end_char=1552
+2	Могло	мочь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1553|end_char=1558
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1558|end_char=1559
+
+# text = – Но мне кажется, должна быть какая-то причина.
+# sent_id = 31
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1560|end_char=1561
+2	Но	но	CCONJ	_	_	6	cc	_	start_char=1562|end_char=1564
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=1565|end_char=1568
+4	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=1569|end_char=1576
+5	,	,	PUNCT	_	_	4	punct	_	start_char=1576|end_char=1577
+6	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=1578|end_char=1584
+7	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=1585|end_char=1589
+8	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	start_char=1590|end_char=1598
+9	причина	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=1599|end_char=1606
+10	.	.	PUNCT	_	_	6	punct	_	start_char=1606|end_char=1607
+
+# text = Я пожал плечами.
+# sent_id = 32
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1608|end_char=1609
+2	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1610|end_char=1615
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	iobj	_	start_char=1616|end_char=1623
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1623|end_char=1624
+
+# text = – Могу предположить.
+# sent_id = 33
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1625|end_char=1626
+2	Могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1627|end_char=1631
+3	предположить	предположить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=1632|end_char=1644
+4	.	.	PUNCT	_	_	2	punct	_	start_char=1644|end_char=1645
+
+# text = Сколько повелителей времени было в той вселенной?
+# sent_id = 34
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Сколько	сколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	2	nummod:gov	_	start_char=1646|end_char=1653
+2	повелителей	повелитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nsubj	_	start_char=1654|end_char=1665
+3	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	start_char=1666|end_char=1673
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	start_char=1674|end_char=1678
+5	в	в	ADP	_	_	7	case	_	start_char=1679|end_char=1680
+6	той	тот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	start_char=1681|end_char=1684
+7	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	start_char=1685|end_char=1694
+8	?	?	PUNCT	_	_	7	punct	_	start_char=1694|end_char=1695
+
+# text = – Один.
+# sent_id = 35
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1696|end_char=1697
+2	Один	один	NUM	_	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	0	root	_	start_char=1698|end_char=1702
+3	.	.	PUNCT	_	_	2	punct	_	start_char=1702|end_char=1703
+
+# text = – А здесь их уже сотни.
+# sent_id = 36
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1704|end_char=1705
+2	А	а	CCONJ	_	_	3	cc	_	start_char=1706|end_char=1707
+3	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=1708|end_char=1713
+4	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	orphan	_	start_char=1714|end_char=1716
+5	уже	уже	ADV	_	Degree=Pos	6	advmod	_	start_char=1717|end_char=1720
+6	сотни	сотня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=1721|end_char=1726
+7	.	.	PUNCT	_	_	3	punct	_	start_char=1726|end_char=1727
+
+# text = И мы существуем во времени.
+# sent_id = 37
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	И	и	CCONJ	_	_	3	cc	_	start_char=1728|end_char=1729
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=1730|end_char=1732
+3	существуем	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1733|end_char=1743
+4	во	во	ADP	_	_	5	case	_	start_char=1744|end_char=1746
+5	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	start_char=1747|end_char=1754
+6	.	.	PUNCT	_	_	3	punct	_	start_char=1754|end_char=1755
+
+# text = Этот вариант континуума может быть, а может и не быть более спокойным и безопасным местом, чем то, где Галлифрей не существует.
+# sent_id = 38
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	start_char=1756|end_char=1760
+2	вариант	вариант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=1761|end_char=1768
+3	континуума	континуум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	start_char=1769|end_char=1779
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1780|end_char=1785
+5	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=1786|end_char=1790
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1790|end_char=1791
+7	а	а	CCONJ	_	_	8	cc	_	start_char=1792|end_char=1793
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1794|end_char=1799
+9	и	и	PART	_	_	13	advmod	_	start_char=1800|end_char=1801
+10	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1802|end_char=1804
+11	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	cop	_	start_char=1805|end_char=1809
+12	более	более	ADV	_	Degree=Cmp|PronType=Tot	13	advmod	_	start_char=1810|end_char=1815
+13	спокойным	спокойный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	xcomp	_	start_char=1816|end_char=1825
+14	и	и	CCONJ	_	_	15	cc	_	start_char=1826|end_char=1827
+15	безопасным	безопасный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	conj	_	start_char=1828|end_char=1838
+16	местом	место	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	obl	_	start_char=1839|end_char=1845
+17	,	,	PUNCT	_	_	19	punct	_	start_char=1845|end_char=1846
+18	чем	чем	SCONJ	_	_	19	case	_	start_char=1847|end_char=1850
+19	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nmod	_	start_char=1851|end_char=1853
+20	,	,	PUNCT	_	_	24	punct	_	start_char=1853|end_char=1854
+21	где	где	ADV	_	Degree=Pos|PronType=Rel	24	advmod	_	start_char=1855|end_char=1858
+22	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	24	nsubj	_	start_char=1859|end_char=1868
+23	не	не	PART	_	Polarity=Neg	24	advmod	_	start_char=1869|end_char=1871
+24	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	start_char=1872|end_char=1882
+25	.	.	PUNCT	_	_	4	punct	_	start_char=1882|end_char=1883
+
+# text = – Да?
+# sent_id = 39
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1884|end_char=1885
+2	Да	да	PART	_	_	0	root	_	start_char=1886|end_char=1888
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1888|end_char=1889
+
+# text = – Харкнесс выразительно поднял глаза к возносящемуся к небу дыму.
+# sent_id = 40
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1890|end_char=1891
+2	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj	_	start_char=1892|end_char=1900
+3	выразительно	выразительно	ADV	_	Degree=Pos	4	advmod	_	start_char=1901|end_char=1913
+4	поднял	поднять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1914|end_char=1920
+5	глаза	глаз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=1921|end_char=1926
+6	к	к	ADP	_	_	10	case	_	start_char=1927|end_char=1928
+7	возносящемуся	возноситься	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	start_char=1929|end_char=1942
+8	к	к	ADP	_	_	9	case	_	start_char=1943|end_char=1944
+9	небу	небо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	obl	_	start_char=1945|end_char=1949
+10	дыму	дыма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	_	start_char=1950|end_char=1954
+11	.	.	PUNCT	_	_	4	punct	_	start_char=1954|end_char=1955
+
+# text = – Все относительно, – усмехнулся я.
+# sent_id = 41
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=1956|end_char=1957
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	start_char=1958|end_char=1961
+3	относительно	относительно	ADV	_	Degree=Pos	2	advmod	_	start_char=1962|end_char=1974
+4	,	,	PUNCT	_	_	6	punct	_	start_char=1974|end_char=1975
+5	–	–	PUNCT	_	_	6	punct	_	start_char=1976|end_char=1977
+6	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=1978|end_char=1988
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1989|end_char=1990
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1990|end_char=1991
+
+# text = – Галлифрей не вмешивался в жизнь Вселенной.
+# sent_id = 42
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=1992|end_char=1993
+2	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj	_	start_char=1994|end_char=2003
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2004|end_char=2006
+4	вмешивался	вмешиваться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2007|end_char=2017
+5	в	в	ADP	_	_	6	case	_	start_char=2018|end_char=2019
+6	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=2020|end_char=2025
+7	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	6	nmod	_	start_char=2026|end_char=2035
+8	.	.	PUNCT	_	_	4	punct	_	start_char=2035|end_char=2036
+
+# text = – Это старый.
+# sent_id = 43
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2037|end_char=2038
+2	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	start_char=2039|end_char=2042
+3	старый	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=2043|end_char=2049
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2049|end_char=2050
+
+# text = А новый?
+# sent_id = 44
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	А	а	CCONJ	_	_	2	cc	_	start_char=2051|end_char=2052
+2	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	start_char=2053|end_char=2058
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2058|end_char=2059
+
+# text = Я ничего не говорил и не обещал на этот счет.
+# sent_id = 45
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2060|end_char=2061
+2	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	4	obj	_	start_char=2062|end_char=2068
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2069|end_char=2071
+4	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2072|end_char=2079
+5	и	и	CCONJ	_	_	7	cc	_	start_char=2080|end_char=2081
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2082|end_char=2084
+7	обещал	обещать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=2085|end_char=2091
+8	на	на	ADP	_	_	10	case	_	start_char=2092|end_char=2094
+9	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=2095|end_char=2099
+10	счет	счет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=2100|end_char=2104
+11	.	.	PUNCT	_	_	4	punct	_	start_char=2104|end_char=2105
+
+# text = – Но Доктор…
+# sent_id = 46
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2106|end_char=2107
+2	Но	но	CCONJ	_	_	3	cc	_	start_char=2108|end_char=2110
+3	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2111|end_char=2117
+4	…	…	PUNCT	_	_	3	punct	_	start_char=2117|end_char=2118
+
+# text = – Он тоже вмешивается.
+# sent_id = 47
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2119|end_char=2120
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2121|end_char=2123
+3	тоже	тоже	PART	_	_	4	advmod	_	start_char=2124|end_char=2128
+4	вмешивается	вмешиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2129|end_char=2140
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2140|end_char=2141
+
+# text = Молодая цивилизация – не старая.
+# sent_id = 48
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Молодая	молодой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=2142|end_char=2149
+2	цивилизация	цивилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=2150|end_char=2161
+3	–	–	PUNCT	_	_	2	punct	_	start_char=2162|end_char=2163
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2164|end_char=2166
+5	старая	старый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	start_char=2167|end_char=2173
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2173|end_char=2174
+
+# text = Она ко всему может относиться иначе.
+# sent_id = 49
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2175|end_char=2178
+2	ко	ко	ADP	_	_	3	case	_	start_char=2179|end_char=2181
+3	всему	всё	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Tot	4	obl	_	start_char=2182|end_char=2187
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2188|end_char=2193
+5	относиться	относиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=2194|end_char=2204
+6	иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=2205|end_char=2210
+7	.	.	PUNCT	_	_	4	punct	_	start_char=2210|end_char=2211
+
+# text = Джек явно мрачно задумался.
+# sent_id = 50
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=2212|end_char=2216
+2	явно	явно	ADV	_	Degree=Pos	4	advmod	_	start_char=2217|end_char=2221
+3	мрачно	мрачно	ADV	_	Degree=Pos	4	advmod	_	start_char=2222|end_char=2228
+4	задумался	задуматься	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2229|end_char=2238
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2238|end_char=2239
+
+# text = – Когда я зову тебя на помощь, меня не оставляет чувство, будто я заключаю сделку с дьяволом.
+# sent_id = 51
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	11	punct	_	start_char=2240|end_char=2241
+2	Когда	когда	SCONJ	_	_	4	mark	_	start_char=2242|end_char=2247
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2248|end_char=2249
+4	зову	звать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=2250|end_char=2254
+5	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	start_char=2255|end_char=2259
+6	на	на	ADP	_	_	7	case	_	start_char=2260|end_char=2262
+7	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	start_char=2263|end_char=2269
+8	,	,	PUNCT	_	_	4	punct	_	start_char=2269|end_char=2270
+9	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=2271|end_char=2275
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2276|end_char=2278
+11	оставляет	оставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2279|end_char=2288
+12	чувство	чувство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	start_char=2289|end_char=2296
+13	,	,	PUNCT	_	_	16	punct	_	start_char=2296|end_char=2297
+14	будто	будто	SCONJ	_	_	16	mark	_	start_char=2298|end_char=2303
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=2304|end_char=2305
+16	заключаю	заключать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=2306|end_char=2314
+17	сделку	сделка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	start_char=2315|end_char=2321
+18	с	с	ADP	_	_	19	case	_	start_char=2322|end_char=2323
+19	дьяволом	дьявол	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	nmod	_	start_char=2324|end_char=2332
+20	.	.	PUNCT	_	_	11	punct	_	start_char=2332|end_char=2333
+
+# text = – Может и так, Джек.
+# sent_id = 52
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2334|end_char=2335
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2336|end_char=2341
+3	и	и	PART	_	_	4	advmod	_	start_char=2342|end_char=2343
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=2344|end_char=2347
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2347|end_char=2348
+6	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	vocative	_	start_char=2349|end_char=2353
+7	.	.	PUNCT	_	_	4	punct	_	start_char=2353|end_char=2354
+
+# text = Любое сильнодействующее средство – сделка с дьяволом.
+# sent_id = 53
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Любое	любой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	det	_	start_char=2355|end_char=2360
+2	сильнодействующее	сильнодействующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	start_char=2361|end_char=2378
+3	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	start_char=2379|end_char=2387
+4	–	–	PUNCT	_	_	3	punct	_	start_char=2388|end_char=2389
+5	сделка	сделка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=2390|end_char=2396
+6	с	с	ADP	_	_	7	case	_	start_char=2397|end_char=2398
+7	дьяволом	дьявол	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	start_char=2399|end_char=2407
+8	.	.	PUNCT	_	_	5	punct	_	start_char=2407|end_char=2408
+
+# text = Даже Доктор.
+# sent_id = 54
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Даже	даже	PART	_	_	2	advmod	_	start_char=2409|end_char=2413
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2414|end_char=2420
+3	.	.	PUNCT	_	_	2	punct	_	start_char=2420|end_char=2421
+
+# text = – Что это ты имеешь в виду?!
+# sent_id = 55
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2422|end_char=2423
+2	Что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	start_char=2424|end_char=2427
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	start_char=2428|end_char=2431
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=2432|end_char=2434
+5	имеешь	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2435|end_char=2441
+6	в	в	ADP	_	_	5	advmod	_	start_char=2442|end_char=2443
+7	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	fixed	_	start_char=2444|end_char=2448
+8	?!	?!	PUNCT	_	_	5	punct	_	start_char=2448|end_char=2450
+
+# text = – Почему, как думаешь, Доктор всегда бежит прочь и нигде не задерживается?
+# sent_id = 56
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	9	punct	_	start_char=2451|end_char=2452
+2	Почему	почему	ADV	_	Degree=Pos|PronType=Int	9	advmod	_	start_char=2453|end_char=2459
+3	,	,	PUNCT	_	_	5	punct	_	start_char=2459|end_char=2460
+4	как	как	SCONJ	_	_	5	mark	_	start_char=2461|end_char=2464
+5	думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	start_char=2465|end_char=2472
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2472|end_char=2473
+7	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=2474|end_char=2480
+8	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	9	advmod	_	start_char=2481|end_char=2487
+9	бежит	бежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2488|end_char=2493
+10	прочь	прочь	ADV	_	Degree=Pos	9	advmod	_	start_char=2494|end_char=2499
+11	и	и	CCONJ	_	_	14	cc	_	start_char=2500|end_char=2501
+12	нигде	нигде	ADV	_	Degree=Pos|PronType=Neg	14	advmod	_	start_char=2502|end_char=2507
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=2508|end_char=2510
+14	задерживается	задерживаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	start_char=2511|end_char=2524
+15	?	?	PUNCT	_	_	9	punct	_	start_char=2524|end_char=2525
+
+# text = – Он так устроен.
+# sent_id = 57
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2526|end_char=2527
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=2528|end_char=2530
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=2531|end_char=2534
+4	устроен	устроить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=2535|end_char=2542
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2542|end_char=2543
+
+# text = – И мир так устроен.
+# sent_id = 58
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=2544|end_char=2545
+2	И	и	CCONJ	_	_	5	cc	_	start_char=2546|end_char=2547
+3	мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=2548|end_char=2551
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=2552|end_char=2555
+5	устроен	устроить	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2556|end_char=2563
+6	.	.	PUNCT	_	_	5	punct	_	start_char=2563|end_char=2564
+
+# text = Если он где-то задержится, это развратит то место.
+# sent_id = 59
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Если	если	SCONJ	_	_	4	mark	_	start_char=2565|end_char=2569
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2570|end_char=2572
+3	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=2573|end_char=2579
+4	задержится	задержаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	advcl	_	start_char=2580|end_char=2590
+5	,	,	PUNCT	_	_	4	punct	_	start_char=2590|end_char=2591
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=2592|end_char=2595
+7	развратит	развратить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2596|end_char=2605
+8	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	start_char=2606|end_char=2608
+9	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=2609|end_char=2614
+10	.	.	PUNCT	_	_	7	punct	_	start_char=2614|end_char=2615
+
+# text = Ослабит.
+# sent_id = 60
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Ослабит	ослабить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2616|end_char=2623
+2	.	.	PUNCT	_	_	1	punct	_	start_char=2623|end_char=2624
+
+# text = Заставит слишком полагаться на могущественного волшебника, который всегда может все исправить.
+# sent_id = 61
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Заставит	заставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2625|end_char=2633
+2	слишком	слишком	ADV	_	Degree=Pos	3	advmod	_	start_char=2634|end_char=2641
+3	полагаться	полагаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1	xcomp	_	start_char=2642|end_char=2652
+4	на	на	ADP	_	_	6	case	_	start_char=2653|end_char=2655
+5	могущественного	могущественный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=2656|end_char=2671
+6	волшебника	волшебник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=2672|end_char=2682
+7	,	,	PUNCT	_	_	10	punct	_	start_char=2682|end_char=2683
+8	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	start_char=2684|end_char=2691
+9	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	10	advmod	_	start_char=2692|end_char=2698
+10	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=2699|end_char=2704
+11	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	12	obj	_	start_char=2705|end_char=2708
+12	исправить	исправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=2709|end_char=2718
+13	.	.	PUNCT	_	_	1	punct	_	start_char=2718|end_char=2719
+
+# text = Поэтому он убегает – чтобы не причинять вреда, использовать силу там, где ей место, где ее едва хватит, или даже не хватит.
+# sent_id = 62
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=2720|end_char=2727
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2728|end_char=2730
+3	убегает	убегать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2731|end_char=2738
+4	–	–	PUNCT	_	_	7	punct	_	start_char=2739|end_char=2740
+5	чтобы	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	start_char=2741|end_char=2746
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2747|end_char=2749
+7	причинять	причинять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=2750|end_char=2759
+8	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obj	_	start_char=2760|end_char=2765
+9	,	,	PUNCT	_	_	10	punct	_	start_char=2765|end_char=2766
+10	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	start_char=2767|end_char=2779
+11	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=2780|end_char=2784
+12	там	там	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=2785|end_char=2788
+13	,	,	PUNCT	_	_	14	punct	_	start_char=2788|end_char=2789
+14	где	где	ADV	_	Degree=Pos|PronType=Rel	12	acl:relcl	_	start_char=2790|end_char=2793
+15	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	iobj	_	start_char=2794|end_char=2796
+16	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	start_char=2797|end_char=2802
+17	,	,	PUNCT	_	_	21	punct	_	start_char=2802|end_char=2803
+18	где	где	ADV	_	Degree=Pos|PronType=Rel	21	advmod	_	start_char=2804|end_char=2807
+19	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=2808|end_char=2810
+20	едва	едва	ADV	_	Degree=Pos	21	advmod	_	start_char=2811|end_char=2815
+21	хватит	хватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	acl:relcl	_	start_char=2816|end_char=2822
+22	,	,	PUNCT	_	_	26	punct	_	start_char=2822|end_char=2823
+23	или	или	CCONJ	_	_	26	cc	_	start_char=2824|end_char=2827
+24	даже	даже	PART	_	_	26	advmod	_	start_char=2828|end_char=2832
+25	не	не	PART	_	Polarity=Neg	26	advmod	_	start_char=2833|end_char=2835
+26	хватит	хватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	14	conj	_	start_char=2836|end_char=2842
+27	.	.	PUNCT	_	_	3	punct	_	start_char=2842|end_char=2843
+
+# text = – Он может исправить не все.
+# sent_id = 63
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2844|end_char=2845
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2846|end_char=2848
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2849|end_char=2854
+4	исправить	исправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2855|end_char=2864
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2865|end_char=2867
+6	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	4	obj	_	start_char=2868|end_char=2871
+7	.	.	PUNCT	_	_	3	punct	_	start_char=2871|end_char=2872
+
+# text = – Гораздо больше, чем исправляет.
+# sent_id = 64
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2873|end_char=2874
+2	Гораздо	гораздо	ADV	_	Degree=Pos	3	advmod	_	start_char=2875|end_char=2882
+3	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	0	root	_	start_char=2883|end_char=2889
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2889|end_char=2890
+5	чем	чем	SCONJ	_	_	6	mark	_	start_char=2891|end_char=2894
+6	исправляет	исправлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	start_char=2895|end_char=2905
+7	.	.	PUNCT	_	_	3	punct	_	start_char=2905|end_char=2906
+
+# text = Но этим он может убить тех, кого защищает.
+# sent_id = 65
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Но	но	CCONJ	_	_	4	cc	_	start_char=2907|end_char=2909
+2	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	4	iobj	_	start_char=2910|end_char=2914
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=2915|end_char=2917
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2918|end_char=2923
+5	убить	убить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	start_char=2924|end_char=2929
+6	тех	тот	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Dem	5	obj	_	start_char=2930|end_char=2933
+7	,	,	PUNCT	_	_	9	punct	_	start_char=2933|end_char=2934
+8	кого	кто	PRON	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	9	obj	_	start_char=2935|end_char=2939
+9	защищает	защищать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	start_char=2940|end_char=2948
+10	.	.	PUNCT	_	_	4	punct	_	start_char=2948|end_char=2949
+
+# text = Как слишком сильный антибиотик.
+# sent_id = 66
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Как	как	SCONJ	_	_	4	mark	_	start_char=2950|end_char=2953
+2	слишком	слишком	ADV	_	Degree=Pos	3	advmod	_	start_char=2954|end_char=2961
+3	сильный	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=2962|end_char=2969
+4	антибиотик	антибиотик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=2970|end_char=2980
+5	.	.	PUNCT	_	_	4	punct	_	start_char=2980|end_char=2981
+
+# text = – А ты, конечно, этого не боишься…
+# sent_id = 67
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	9	punct	_	start_char=2982|end_char=2983
+2	А	а	CCONJ	_	_	9	cc	_	start_char=2984|end_char=2985
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=2986|end_char=2988
+4	,	,	PUNCT	_	_	5	punct	_	start_char=2988|end_char=2989
+5	конечно	конечно	ADV	_	Degree=Pos	9	parataxis	_	start_char=2990|end_char=2997
+6	,	,	PUNCT	_	_	5	punct	_	start_char=2997|end_char=2998
+7	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	start_char=2999|end_char=3004
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3005|end_char=3007
+9	боишься	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3008|end_char=3015
+10	…	…	PUNCT	_	_	9	punct	_	start_char=3015|end_char=3016
+
+# text = – Конечно, нет.
+# sent_id = 68
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3017|end_char=3018
+2	Конечно	конечно	ADV	_	Degree=Pos	4	parataxis	_	start_char=3019|end_char=3026
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3026|end_char=3027
+4	нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=3028|end_char=3031
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3031|end_char=3032
+
+# text = – То есть, ты хочешь сказать, что обращение к тебе, и то, что ты не отказываешь, нас развращает?
+# sent_id = 69
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3033|end_char=3034
+2	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	mark	_	start_char=3035|end_char=3037
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	fixed	_	start_char=3038|end_char=3042
+4	,	,	PUNCT	_	_	2	punct	_	start_char=3042|end_char=3043
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=3044|end_char=3046
+6	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3047|end_char=3053
+7	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=3054|end_char=3061
+8	,	,	PUNCT	_	_	12	punct	_	start_char=3061|end_char=3062
+9	что	что	SCONJ	_	_	12	mark	_	start_char=3063|end_char=3066
+10	обращение	обращение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	start_char=3067|end_char=3076
+11	к	к	ADP	_	_	12	case	_	start_char=3077|end_char=3078
+12	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	7	ccomp	_	start_char=3079|end_char=3083
+13	,	,	PUNCT	_	_	23	punct	_	start_char=3083|end_char=3084
+14	и	и	CCONJ	_	_	23	cc	_	start_char=3085|end_char=3086
+15	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	23	nsubj	_	start_char=3087|end_char=3089
+16	,	,	PUNCT	_	_	20	punct	_	start_char=3089|end_char=3090
+17	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	20	obj	_	start_char=3091|end_char=3094
+18	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	start_char=3095|end_char=3097
+19	не	не	PART	_	Polarity=Neg	20	advmod	_	start_char=3098|end_char=3100
+20	отказываешь	отказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	start_char=3101|end_char=3112
+21	,	,	PUNCT	_	_	20	punct	_	start_char=3112|end_char=3113
+22	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	23	obj	_	start_char=3114|end_char=3117
+23	развращает	развращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	start_char=3118|end_char=3128
+24	?	?	PUNCT	_	_	6	punct	_	start_char=3128|end_char=3129
+
+# text = – Разумеется.
+# sent_id = 70
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3130|end_char=3131
+2	Разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3132|end_char=3142
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3142|end_char=3143
+
+# text = – Поэтому ты не отказываешь?
+# sent_id = 71
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3144|end_char=3145
+2	Поэтому	поэтому	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3146|end_char=3153
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=3154|end_char=3156
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3157|end_char=3159
+5	отказываешь	отказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3160|end_char=3171
+6	?	?	PUNCT	_	_	5	punct	_	start_char=3171|end_char=3172
+
+# text = – Нет.
+# sent_id = 72
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3173|end_char=3174
+2	Нет	нет	PART	_	Polarity=Neg	0	root	_	start_char=3175|end_char=3178
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3178|end_char=3179
+
+# text = Просто так получается.
+# sent_id = 73
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Просто	просто	PART	_	_	3	advmod	_	start_char=3180|end_char=3186
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=3187|end_char=3190
+3	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3191|end_char=3201
+4	.	.	PUNCT	_	_	3	punct	_	start_char=3201|end_char=3202
+
+# text = Чем больше обращаешься к «волшебству», тем меньше развиваешься сам.
+# sent_id = 74
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	3	iobj	_	start_char=3203|end_char=3206
+2	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	3	advmod	_	start_char=3207|end_char=3213
+3	обращаешься	обращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	11	advcl	_	start_char=3214|end_char=3225
+4	к	к	ADP	_	_	6	case	_	start_char=3226|end_char=3227
+5	«	«	PUNCT	_	_	6	punct	_	start_char=3228|end_char=3229
+6	волшебству	волшебство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	obl	_	start_char=3229|end_char=3239
+7	»	»	PUNCT	_	_	6	punct	_	start_char=3239|end_char=3240
+8	,	,	PUNCT	_	_	3	punct	_	start_char=3240|end_char=3241
+9	тем	тем	SCONJ	_	_	11	mark	_	start_char=3242|end_char=3245
+10	меньше	мало	ADV	_	Degree=Cmp|PronType=Tot	11	advmod	_	start_char=3246|end_char=3252
+11	развиваешься	развиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3253|end_char=3265
+12	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	11	obl	_	start_char=3266|end_char=3269
+13	.	.	PUNCT	_	_	11	punct	_	start_char=3269|end_char=3270
+
+# text = – Проклятье!
+# sent_id = 75
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3271|end_char=3272
+2	Проклятье	проклятье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	start_char=3273|end_char=3282
+3	!	!	PUNCT	_	_	2	punct	_	start_char=3282|end_char=3283
+
+# text = Ты говоришь это нарочно!
+# sent_id = 76
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=3284|end_char=3286
+2	говоришь	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3287|end_char=3295
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	start_char=3296|end_char=3299
+4	нарочно	нарочно	ADV	_	Degree=Pos	2	advmod	_	start_char=3300|end_char=3307
+5	!	!	PUNCT	_	_	2	punct	_	start_char=3307|end_char=3308
+
+# text = – На его висках вздулись и запульсировали жилы.
+# sent_id = 77
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3309|end_char=3310
+2	На	на	ADP	_	_	4	case	_	start_char=3311|end_char=3313
+3	его	его	DET	_	Poss=Yes|PronType=Prs	4	det	_	start_char=3314|end_char=3317
+4	висках	висок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	start_char=3318|end_char=3324
+5	вздулись	вздуваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3325|end_char=3333
+6	и	и	CCONJ	_	_	7	cc	_	start_char=3334|end_char=3335
+7	запульсировали	запульсировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=3336|end_char=3350
+8	жилы	жила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=3351|end_char=3355
+9	.	.	PUNCT	_	_	5	punct	_	start_char=3355|end_char=3356
+
+# text = – Отчасти.
+# sent_id = 78
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3357|end_char=3358
+2	Отчасти	отчасти	ADV	_	Degree=Pos	0	root	_	start_char=3359|end_char=3366
+3	.	.	PUNCT	_	_	2	punct	_	start_char=3366|end_char=3367
+
+# text = Более безопасная Вселенная, где есть повелители времени, это Вселенная, обремененная повелителями времени и их возможным доминированием.
+# sent_id = 79
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Более	более	ADV	_	Degree=Cmp|PronType=Tot	2	advmod	_	start_char=3368|end_char=3373
+2	безопасная	безопасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=3374|end_char=3384
+3	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=3385|end_char=3394
+4	,	,	PUNCT	_	_	6	punct	_	start_char=3394|end_char=3395
+5	где	где	ADV	_	Degree=Pos|PronType=Rel	6	advmod	_	start_char=3396|end_char=3399
+6	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	start_char=3400|end_char=3404
+7	повелители	повелитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=3405|end_char=3415
+8	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	start_char=3416|end_char=3423
+9	,	,	PUNCT	_	_	6	punct	_	start_char=3423|end_char=3424
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	start_char=3425|end_char=3428
+11	Вселенная	вселенная	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3429|end_char=3438
+12	,	,	PUNCT	_	_	13	punct	_	start_char=3438|end_char=3439
+13	обремененная	обременить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	start_char=3440|end_char=3452
+14	повелителями	повелитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	13	obl:agent	_	start_char=3453|end_char=3465
+15	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	start_char=3466|end_char=3473
+16	и	и	CCONJ	_	_	19	cc	_	start_char=3474|end_char=3475
+17	их	их	DET	_	Poss=Yes|PronType=Prs	19	det	_	start_char=3476|end_char=3478
+18	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	start_char=3479|end_char=3488
+19	доминированием	доминирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	conj	_	start_char=3489|end_char=3503
+20	.	.	PUNCT	_	_	11	punct	_	start_char=3503|end_char=3504
+
+# text = – Я всегда знал, что ты садист, – кивнул Харкнесс.
+# sent_id = 80
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	4	punct	_	start_char=3505|end_char=3506
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=3507|end_char=3508
+3	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	start_char=3509|end_char=3515
+4	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3516|end_char=3520
+5	,	,	PUNCT	_	_	8	punct	_	start_char=3520|end_char=3521
+6	что	что	SCONJ	_	_	8	mark	_	start_char=3522|end_char=3525
+7	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=3526|end_char=3528
+8	садист	садист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	ccomp	_	start_char=3529|end_char=3535
+9	,	,	PUNCT	_	_	11	punct	_	start_char=3535|end_char=3536
+10	–	–	PUNCT	_	_	11	punct	_	start_char=3537|end_char=3538
+11	кивнул	кивнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=3539|end_char=3545
+12	Харкнесс	Харкнесс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	11	nsubj	_	start_char=3546|end_char=3554
+13	.	.	PUNCT	_	_	4	punct	_	start_char=3554|end_char=3555
+
+# text = – Но посмотри на себя.
+# sent_id = 81
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3556|end_char=3557
+2	Но	но	CCONJ	_	_	3	cc	_	start_char=3558|end_char=3560
+3	посмотри	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=3561|end_char=3569
+4	на	на	ADP	_	_	5	case	_	start_char=3570|end_char=3572
+5	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	obl	_	start_char=3573|end_char=3577
+6	.	.	PUNCT	_	_	3	punct	_	start_char=3577|end_char=3578
+
+# text = Кто ты для этих людей, к которым возвращаешься, чтобы защищать их?
+# sent_id = 82
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=3579|end_char=3582
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	start_char=3583|end_char=3585
+3	для	для	ADP	_	_	5	case	_	start_char=3586|end_char=3589
+4	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	5	det	_	start_char=3590|end_char=3594
+5	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	obl	_	start_char=3595|end_char=3600
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3600|end_char=3601
+7	к	к	ADP	_	_	8	case	_	start_char=3602|end_char=3603
+8	которым	который	PRON	_	Case=Dat|Number=Plur|PronType=Rel	9	obl	_	start_char=3604|end_char=3611
+9	возвращаешься	возвращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	5	acl:relcl	_	start_char=3612|end_char=3625
+10	,	,	PUNCT	_	_	12	punct	_	start_char=3625|end_char=3626
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	start_char=3627|end_char=3632
+12	защищать	защищать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	advcl	_	start_char=3633|end_char=3641
+13	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	obj	_	start_char=3642|end_char=3644
+14	?	?	PUNCT	_	_	1	punct	_	start_char=3644|end_char=3645
+
+# text = Джек уставился на меня молча.
+# sent_id = 83
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Джек	Джек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	nsubj	_	start_char=3646|end_char=3650
+2	уставился	уставиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3651|end_char=3660
+3	на	на	ADP	_	_	4	case	_	start_char=3661|end_char=3663
+4	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=3664|end_char=3668
+5	молча	молча	ADV	_	Degree=Pos	2	advmod	_	start_char=3669|end_char=3674
+6	.	.	PUNCT	_	_	2	punct	_	start_char=3674|end_char=3675
+
+# text = – Волшебник, – припечатал я.
+# sent_id = 84
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3676|end_char=3677
+2	Волшебник	волшебник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3678|end_char=3687
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3687|end_char=3688
+4	–	–	PUNCT	_	_	5	punct	_	start_char=3689|end_char=3690
+5	припечатал	припечатать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=3691|end_char=3701
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=3702|end_char=3703
+7	.	.	PUNCT	_	_	2	punct	_	start_char=3703|end_char=3704
+
+# text = – Бессмертный волшебник из далекого будущего.
+# sent_id = 85
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3705|end_char=3706
+2	Бессмертный	бессмертный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=3707|end_char=3718
+3	волшебник	волшебник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=3719|end_char=3728
+4	из	из	ADP	_	_	6	case	_	start_char=3729|end_char=3731
+5	далекого	далекий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	start_char=3732|end_char=3740
+6	будущего	будущее	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	start_char=3741|end_char=3749
+7	.	.	PUNCT	_	_	3	punct	_	start_char=3749|end_char=3750
+
+# text = Но… – На нас свалилась еще одна подергивающаяся полуобгоревшая тушка, и я подцепил ее краем отвертки.
+# sent_id = 86
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Но	но	CCONJ	_	_	6	cc	_	start_char=3751|end_char=3753
+2	…	…	PUNCT	_	_	1	punct	_	start_char=3753|end_char=3754
+3	–	–	PUNCT	_	_	6	punct	_	start_char=3755|end_char=3756
+4	На	на	ADP	_	_	5	case	_	start_char=3757|end_char=3759
+5	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	obl	_	start_char=3760|end_char=3763
+6	свалилась	свалиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3764|end_char=3773
+7	еще	еще	ADV	_	Degree=Pos	8	advmod	_	start_char=3774|end_char=3777
+8	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	start_char=3778|end_char=3782
+9	подергивающаяся	подергиваться	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	start_char=3783|end_char=3798
+10	полуобгоревшая	полуобгореть	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	amod	_	start_char=3799|end_char=3813
+11	тушка	тушка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=3814|end_char=3819
+12	,	,	PUNCT	_	_	15	punct	_	start_char=3819|end_char=3820
+13	и	и	CCONJ	_	_	15	cc	_	start_char=3821|end_char=3822
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=3823|end_char=3824
+15	подцепил	подцепить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=3825|end_char=3833
+16	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=3834|end_char=3836
+17	краем	край	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	iobj	_	start_char=3837|end_char=3842
+18	отвертки	отвертка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	start_char=3843|end_char=3851
+19	.	.	PUNCT	_	_	6	punct	_	start_char=3851|end_char=3852
+
+# text = – Ты тут не один вне правил.
+# sent_id = 87
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=3853|end_char=3854
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=3855|end_char=3857
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	start_char=3858|end_char=3861
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=3862|end_char=3864
+5	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	0	root	_	start_char=3865|end_char=3869
+6	вне	вне	ADP	_	_	7	case	_	start_char=3870|end_char=3873
+7	правил	правил	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	start_char=3874|end_char=3880
+8	.	.	PUNCT	_	_	5	punct	_	start_char=3880|end_char=3881
+
+# text = С одной стороны и с другой.
+# sent_id = 88
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	С	с	ADP	_	_	3	case	_	start_char=3882|end_char=3883
+2	одной	один	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	start_char=3884|end_char=3889
+3	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	start_char=3890|end_char=3897
+4	и	и	CCONJ	_	_	6	cc	_	start_char=3898|end_char=3899
+5	с	с	ADP	_	_	6	case	_	start_char=3900|end_char=3901
+6	другой	другой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	3	conj	_	start_char=3902|end_char=3908
+7	.	.	PUNCT	_	_	3	punct	_	start_char=3908|end_char=3909
+
+# text = Волшебство гасится волшебством.
+# sent_id = 89
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Волшебство	волшебство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=3910|end_char=3920
+2	гасится	гаситься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3921|end_char=3928
+3	волшебством	волшебство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	iobj	_	start_char=3929|end_char=3940
+4	.	.	PUNCT	_	_	2	punct	_	start_char=3940|end_char=3941
+
+# text = Средство помощнее – средством помощнее.
+# sent_id = 90
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=3942|end_char=3950
+2	помощнее	помощный	ADJ	_	Degree=Cmp	0	root	_	start_char=3951|end_char=3959
+3	–	–	PUNCT	_	_	5	punct	_	start_char=3960|end_char=3961
+4	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	csubj	_	start_char=3962|end_char=3971
+5	помощнее	помощный	ADJ	_	Degree=Cmp	2	conj	_	start_char=3972|end_char=3980
+6	.	.	PUNCT	_	_	2	punct	_	start_char=3980|end_char=3981
+
+# text = Развитая цивилизация – развитой цивилизацией.
+# sent_id = 91
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Развитая	развитый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=3982|end_char=3990
+2	цивилизация	цивилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3991|end_char=4002
+3	–	–	PUNCT	_	_	5	punct	_	start_char=4003|end_char=4004
+4	развитой	развить	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	start_char=4005|end_char=4013
+5	цивилизацией	цивилизация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	nmod	_	start_char=4014|end_char=4026
+6	.	.	PUNCT	_	_	2	punct	_	start_char=4026|end_char=4027
+
+# text = – А кончается все…
+# sent_id = 92
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4028|end_char=4029
+2	А	а	CCONJ	_	_	3	cc	_	start_char=4030|end_char=4031
+3	кончается	кончаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4032|end_char=4041
+4	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	nsubj	_	start_char=4042|end_char=4045
+5	…	…	PUNCT	_	_	3	punct	_	start_char=4045|end_char=4046
+
+# text = – Ну, к примеру – Войной Времени и гибелью Вселенной.
+# sent_id = 93
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	8	punct	_	start_char=4047|end_char=4048
+2	Ну	ну	PART	_	_	8	discourse	_	start_char=4049|end_char=4051
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4051|end_char=4052
+4	к	к	ADP	_	_	5	case	_	start_char=4053|end_char=4054
+5	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	parataxis	_	start_char=4055|end_char=4062
+6	–	–	PUNCT	_	_	5	punct	_	start_char=4063|end_char=4064
+7	Войной	войный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=4065|end_char=4071
+8	Времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	start_char=4072|end_char=4079
+9	и	и	CCONJ	_	_	10	cc	_	start_char=4080|end_char=4081
+10	гибелью	гибель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	conj	_	start_char=4082|end_char=4089
+11	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	10	nmod	_	start_char=4090|end_char=4099
+12	.	.	PUNCT	_	_	8	punct	_	start_char=4099|end_char=4100
+
+# text = – Но… – Всегда.
+# sent_id = 94
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4101|end_char=4102
+2	Но	но	CCONJ	_	_	5	cc	_	start_char=4103|end_char=4105
+3	…	…	PUNCT	_	_	5	punct	_	start_char=4105|end_char=4106
+4	–	–	PUNCT	_	_	5	punct	_	start_char=4107|end_char=4108
+5	Всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	0	root	_	start_char=4109|end_char=4115
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4115|end_char=4116
+
+# text = – Тогда зачем ты это делаешь?
+# sent_id = 95
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	6	punct	_	start_char=4117|end_char=4118
+2	Тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=4119|end_char=4124
+3	зачем	зачем	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	start_char=4125|end_char=4130
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=4131|end_char=4133
+5	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	start_char=4134|end_char=4137
+6	делаешь	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4138|end_char=4145
+7	?	?	PUNCT	_	_	6	punct	_	start_char=4145|end_char=4146
+
+# text = – Потому что это неизбежно.
+# sent_id = 96
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4147|end_char=4148
+2	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	5	mark	_	start_char=4149|end_char=4155
+3	что	что	SCONJ	_	_	2	fixed	_	start_char=4156|end_char=4159
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=4160|end_char=4163
+5	неизбежно	неизбежный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4164|end_char=4173
+6	.	.	PUNCT	_	_	5	punct	_	start_char=4173|end_char=4174
+
+# text = Жизнь – неизбежна.
+# sent_id = 97
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	start_char=4175|end_char=4180
+2	–	–	PUNCT	_	_	1	punct	_	start_char=4181|end_char=4182
+3	неизбежна	неизбежный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=4183|end_char=4192
+4	.	.	PUNCT	_	_	3	punct	_	start_char=4192|end_char=4193
+
+# text = Так что просто не кори себя.
+# sent_id = 98
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	mark	_	start_char=4194|end_char=4197
+2	что	что	SCONJ	_	_	1	fixed	_	start_char=4198|end_char=4201
+3	просто	просто	PART	_	_	5	advmod	_	start_char=4202|end_char=4208
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=4209|end_char=4211
+5	кори	кора	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4212|end_char=4216
+6	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	nmod	_	start_char=4217|end_char=4221
+7	.	.	PUNCT	_	_	5	punct	_	start_char=4221|end_char=4222
+
+# text = Ни тогда, когда зовешь волшебника, ни тогда, когда этого не делаешь.
+# sent_id = 99
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Ни	ни	CCONJ	_	Polarity=Neg	2	cc	_	start_char=4223|end_char=4225
+2	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=4226|end_char=4231
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4231|end_char=4232
+4	когда	когда	SCONJ	_	_	5	mark	_	start_char=4233|end_char=4238
+5	зовешь	засень	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	start_char=4239|end_char=4245
+6	волшебника	волшебник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=4246|end_char=4256
+7	,	,	PUNCT	_	_	9	punct	_	start_char=4256|end_char=4257
+8	ни	ни	CCONJ	_	Polarity=Neg	9	cc	_	start_char=4258|end_char=4260
+9	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	5	conj	_	start_char=4261|end_char=4266
+10	,	,	PUNCT	_	_	14	punct	_	start_char=4266|end_char=4267
+11	когда	когда	SCONJ	_	_	14	mark	_	start_char=4268|end_char=4273
+12	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	14	obj	_	start_char=4274|end_char=4279
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=4280|end_char=4282
+14	делаешь	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	start_char=4283|end_char=4290
+15	.	.	PUNCT	_	_	2	punct	_	start_char=4290|end_char=4291
+
+# text = Звуки воздушного боя стихали.
+# sent_id = 100
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Звуки	звук	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	start_char=4292|end_char=4297
+2	воздушного	воздушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=4298|end_char=4308
+3	боя	бой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	start_char=4309|end_char=4312
+4	стихали	стихать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4313|end_char=4320
+5	.	.	PUNCT	_	_	4	punct	_	start_char=4320|end_char=4321
+
+# text = У Харкнесса в кармане запел мобильный.
+# sent_id = 101
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	У	у	ADP	_	_	2	case	_	start_char=4322|end_char=4323
+2	Харкнесса	Харкнесс	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	5	obl	_	start_char=4324|end_char=4333
+3	в	в	ADP	_	_	4	case	_	start_char=4334|end_char=4335
+4	кармане	карман	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=4336|end_char=4343
+5	запел	запеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4344|end_char=4349
+6	мобильный	мобильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	obj	_	start_char=4350|end_char=4359
+7	.	.	PUNCT	_	_	5	punct	_	start_char=4359|end_char=4360
+
+# text = Он поднял трубку.
+# sent_id = 102
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=4361|end_char=4363
+2	поднял	поднять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4364|end_char=4370
+3	трубку	трубка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	start_char=4371|end_char=4377
+4	.	.	PUNCT	_	_	2	punct	_	start_char=4377|end_char=4378
+
+# text = – Янто?
+# sent_id = 103
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	2	punct	_	start_char=4379|end_char=4380
+2	Янто	Янто	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|NameType=Com|Number=Sing	0	root	_	start_char=4381|end_char=4385
+3	?	?	PUNCT	_	_	2	punct	_	start_char=4385|end_char=4386
+
+# text = Как у вас?
+# sent_id = 104
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=4387|end_char=4390
+2	у	у	ADP	_	_	3	case	_	start_char=4391|end_char=4392
+3	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	0	root	_	start_char=4393|end_char=4396
+4	?	?	PUNCT	_	_	3	punct	_	start_char=4396|end_char=4397
+
+# text = Все очищено?
+# sent_id = 105
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nsubj:pass	_	start_char=4398|end_char=4401
+2	очищено	очистить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=4402|end_char=4409
+3	?	?	PUNCT	_	_	2	punct	_	start_char=4409|end_char=4410
+
+# text = Они не прорвались за черту города?
+# sent_id = 106
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=4411|end_char=4414
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=4415|end_char=4417
+3	прорвались	прорваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4418|end_char=4428
+4	за	за	ADP	_	_	5	case	_	start_char=4429|end_char=4431
+5	черту	черт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=4432|end_char=4437
+6	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	start_char=4438|end_char=4444
+7	?	?	PUNCT	_	_	3	punct	_	start_char=4444|end_char=4445
+
+# text = Слава бо… гм… неважно.
+# sent_id = 107
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Слава	слава	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	start_char=4446|end_char=4451
+2	бо	бо	PART	_	_	1	advmod	_	start_char=4452|end_char=4454
+3	…	…	PUNCT	_	_	1	punct	_	start_char=4454|end_char=4455
+4	гм	гад	NOUN	_	_	1	conj	_	start_char=4456|end_char=4458
+5	…	…	PUNCT	_	_	6	punct	_	start_char=4458|end_char=4459
+6	неважно	неважный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4460|end_char=4467
+7	.	.	PUNCT	_	_	6	punct	_	start_char=4467|end_char=4468
+
+# text = Хорошо.
+# sent_id = 108
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4469|end_char=4475
+2	.	.	PUNCT	_	_	1	punct	_	start_char=4475|end_char=4476
+
+# text = Все хорошо.
+# sent_id = 109
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	2	nsubj	_	start_char=4477|end_char=4480
+2	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4481|end_char=4487
+3	.	.	PUNCT	_	_	2	punct	_	start_char=4487|end_char=4488
+
+# text = – Все было бы хорошо, – проворчал он, пряча телефон и поворачиваясь ко мне, – если бы ты не затеял этот разговор.
+# sent_id = 110
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4489|end_char=4490
+2	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	nsubj	_	start_char=4491|end_char=4494
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=4495|end_char=4499
+4	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=4500|end_char=4502
+5	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=4503|end_char=4509
+6	,	,	PUNCT	_	_	8	punct	_	start_char=4509|end_char=4510
+7	–	–	PUNCT	_	_	8	punct	_	start_char=4511|end_char=4512
+8	проворчал	проворчать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=4513|end_char=4522
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=4523|end_char=4525
+10	,	,	PUNCT	_	_	11	punct	_	start_char=4525|end_char=4526
+11	пряча	прять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=4527|end_char=4532
+12	телефон	телефон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	start_char=4533|end_char=4540
+13	и	и	CCONJ	_	_	14	cc	_	start_char=4541|end_char=4542
+14	поворачиваясь	поворачиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	11	conj	_	start_char=4543|end_char=4556
+15	ко	ко	ADP	_	_	16	case	_	start_char=4557|end_char=4559
+16	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	14	obl	_	start_char=4560|end_char=4563
+17	,	,	PUNCT	_	_	23	punct	_	start_char=4563|end_char=4564
+18	–	–	PUNCT	_	_	23	punct	_	start_char=4565|end_char=4566
+19	если	если	SCONJ	_	_	23	mark	_	start_char=4567|end_char=4571
+20	бы	бы	AUX	_	Mood=Cnd	23	aux	_	start_char=4572|end_char=4574
+21	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	start_char=4575|end_char=4577
+22	не	не	PART	_	Polarity=Neg	23	advmod	_	start_char=4578|end_char=4580
+23	затеял	затеять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	start_char=4581|end_char=4587
+24	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	25	det	_	start_char=4588|end_char=4592
+25	разговор	разговор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obj	_	start_char=4593|end_char=4601
+26	.	.	PUNCT	_	_	5	punct	_	start_char=4601|end_char=4602
+
+# text = Я пожал плечами.
+# sent_id = 111
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=4603|end_char=4604
+2	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4605|end_char=4610
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	iobj	_	start_char=4611|end_char=4618
+4	.	.	PUNCT	_	_	2	punct	_	start_char=4618|end_char=4619
+
+# text = – Разве я его затеял?
+# sent_id = 112
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	–	–	PUNCT	_	_	5	punct	_	start_char=4620|end_char=4621
+2	Разве	разве	PART	_	_	5	advmod	_	start_char=4622|end_char=4627
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4628|end_char=4629
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=4630|end_char=4633
+5	затеял	затеять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4634|end_char=4640
+6	?	?	PUNCT	_	_	5	punct	_	start_char=4640|end_char=4641
+
+# text = Это ты говорил, что тут чего-то не хватает.
+# sent_id = 113
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	start_char=4642|end_char=4645
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=4646|end_char=4648
+3	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4649|end_char=4656
+4	,	,	PUNCT	_	_	9	punct	_	start_char=4656|end_char=4657
+5	что	что	SCONJ	_	_	9	mark	_	start_char=4658|end_char=4661
+6	тут	тут	ADV	_	Degree=Pos|PronType=Dem	9	advmod	_	start_char=4662|end_char=4665
+7	чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	9	nsubj	_	start_char=4666|end_char=4673
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=4674|end_char=4676
+9	хватает	хватать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=4677|end_char=4684
+10	.	.	PUNCT	_	_	3	punct	_	start_char=4684|end_char=4685
+
+# text = Но посмотри на это с другой стороны.
+# sent_id = 114
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=4686|end_char=4688
+2	посмотри	посмотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=4689|end_char=4697
+3	на	на	ADP	_	_	4	case	_	start_char=4698|end_char=4700
+4	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obl	_	start_char=4701|end_char=4704
+5	с	с	ADP	_	_	7	case	_	start_char=4705|end_char=4706
+6	другой	другой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	start_char=4707|end_char=4713
+7	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	start_char=4714|end_char=4721
+8	.	.	PUNCT	_	_	2	punct	_	start_char=4721|end_char=4722
+
+# text = В этой Вселенной есть я.
+# sent_id = 115
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	В	в	ADP	_	_	3	case	_	start_char=4723|end_char=4724
+2	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	start_char=4725|end_char=4729
+3	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	4	obl	_	start_char=4730|end_char=4739
+4	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=4740|end_char=4744
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4745|end_char=4746
+6	.	.	PUNCT	_	_	4	punct	_	start_char=4746|end_char=4747
+
+# text = Но нет вида 456.
+# sent_id = 116
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Но	но	CCONJ	_	_	2	cc	_	start_char=4748|end_char=4750
+2	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=4751|end_char=4754
+3	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nsubj	_	start_char=4755|end_char=4759
+4	456	456	NUM	_	NumForm=Digit|NumType=Card	3	appos	_	start_char=4760|end_char=4763
+5	.	.	PUNCT	_	_	2	punct	_	start_char=4763|end_char=4764
+
+# text = Дьявольски сложный выбор, верно?
+# sent_id = 117
+# metadata = Название: Сильнодействующее средство, автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a84600000a7f1eebcc39/1/Silnodejstvuyushee-sredstvo
+1	Дьявольски	дьявольски	ADV	_	Degree=Pos	2	advmod	_	start_char=4765|end_char=4775
+2	сложный	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	start_char=4776|end_char=4783
+3	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=4784|end_char=4789
+4	,	,	PUNCT	_	_	5	punct	_	start_char=4789|end_char=4790
+5	верно	верный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	conj	_	start_char=4791|end_char=4796
+6	?	?	PUNCT	_	_	3	punct	_	start_char=4796|end_char=4797
+

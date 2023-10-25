@@ -1,0 +1,610 @@
+# text = Это была тихая, патриархальная планетка.
+# sent_id = 0
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=0|end_char=3
+2	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=4|end_char=8
+3	тихая	тихий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=9|end_char=14
+4	,	,	PUNCT	_	_	5	punct	_	start_char=14|end_char=15
+5	патриархальная	патриархальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	start_char=16|end_char=30
+6	планетка	планетка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=31|end_char=39
+7	.	.	PUNCT	_	_	6	punct	_	start_char=39|end_char=40
+
+# text = Население было невелико, и оно явно не стремилось увеличиваться, чтобы освоить новые пространства.
+# sent_id = 1
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Население	население	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	start_char=41|end_char=50
+2	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=51|end_char=55
+3	невелико	невеликий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=56|end_char=64
+4	,	,	PUNCT	_	_	9	punct	_	start_char=64|end_char=65
+5	и	и	CCONJ	_	_	9	cc	_	start_char=66|end_char=67
+6	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=68|end_char=71
+7	явно	явно	ADV	_	Degree=Pos	9	advmod	_	start_char=72|end_char=76
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=77|end_char=79
+9	стремилось	стремиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	start_char=80|end_char=90
+10	увеличиваться	увеличиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=91|end_char=104
+11	,	,	PUNCT	_	_	13	punct	_	start_char=104|end_char=105
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	13	mark	_	start_char=106|end_char=111
+13	освоить	освоить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	advcl	_	start_char=112|end_char=119
+14	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	start_char=120|end_char=125
+15	пространства	пространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	obj	_	start_char=126|end_char=138
+16	.	.	PUNCT	_	_	3	punct	_	start_char=138|end_char=139
+
+# text = Когда-то они там жили - на снежном севере, на границе обжигающих песков, бороздили свои моря и океаны в поисках лучшего места, - но все закончилось давным-давно.
+# sent_id = 2
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=140|end_char=148
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=149|end_char=152
+3	там	там	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	start_char=153|end_char=156
+4	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=157|end_char=161
+5	-	-	PUNCT	_	_	15	punct	_	start_char=162|end_char=163
+6	на	на	ADP	_	_	8	case	_	start_char=164|end_char=166
+7	снежном	снежный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=167|end_char=174
+8	севере	север	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=175|end_char=181
+9	,	,	PUNCT	_	_	11	punct	_	start_char=181|end_char=182
+10	на	на	ADP	_	_	11	case	_	start_char=183|end_char=185
+11	границе	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	conj	_	start_char=186|end_char=193
+12	обжигающих	обжигать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	amod	_	start_char=194|end_char=204
+13	песков	песок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	start_char=205|end_char=211
+14	,	,	PUNCT	_	_	8	punct	_	start_char=211|end_char=212
+15	бороздили	бороздить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=213|end_char=222
+16	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	start_char=223|end_char=227
+17	моря	море	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	15	obj	_	start_char=228|end_char=232
+18	и	и	CCONJ	_	_	19	cc	_	start_char=233|end_char=234
+19	океаны	океан	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	conj	_	start_char=235|end_char=241
+20	в	в	ADP	_	_	21	case	_	start_char=242|end_char=243
+21	поисках	поиск	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	15	obl	_	start_char=244|end_char=251
+22	лучшего	лучший	ADJ	_	Case=Gen|Degree=Sup|Gender=Neut|Number=Sing	23	amod	_	start_char=252|end_char=259
+23	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	start_char=260|end_char=265
+24	,	,	PUNCT	_	_	28	punct	_	start_char=265|end_char=266
+25	-	-	PUNCT	_	_	28	punct	_	start_char=267|end_char=268
+26	но	но	CCONJ	_	_	28	cc	_	start_char=269|end_char=271
+27	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	28	nsubj	_	start_char=272|end_char=275
+28	закончилось	закончиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	15	conj	_	start_char=276|end_char=287
+29	давным	давным	ADV	_	Degree=Pos	28	advmod	_	start_char=288|end_char=294
+30	-	-	PUNCT	_	_	31	punct	_	start_char=294|end_char=295
+31	давно	давно	ADV	_	Degree=Pos	29	advmod	_	start_char=295|end_char=300
+32	.	.	PUNCT	_	_	4	punct	_	start_char=300|end_char=301
+
+# text = Однажды все государства объединились в одно общепланетарное, установив контроль над рождаемостью, насадив принцип «разумного потребления» - всего, начиная от личного питания и одежды, и заканчивая полезными ископаемыми и солнечной энергией.
+# sent_id = 3
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Однажды	однажды	ADV	_	Degree=Pos	4	advmod	_	start_char=302|end_char=309
+2	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	_	start_char=310|end_char=313
+3	государства	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	start_char=314|end_char=325
+4	объединились	объединиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=326|end_char=338
+5	в	в	ADP	_	_	7	case	_	start_char=339|end_char=340
+6	одно	один	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	det	_	start_char=341|end_char=345
+7	общепланетарное	общепланетарный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	start_char=346|end_char=361
+8	,	,	PUNCT	_	_	9	punct	_	start_char=361|end_char=362
+9	установив	установить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=363|end_char=372
+10	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=373|end_char=381
+11	над	над	ADP	_	_	12	case	_	start_char=382|end_char=385
+12	рождаемостью	рождаемость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	start_char=386|end_char=398
+13	,	,	PUNCT	_	_	14	punct	_	start_char=398|end_char=399
+14	насадив	насадить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	start_char=400|end_char=407
+15	принцип	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	start_char=408|end_char=415
+16	«	«	PUNCT	_	_	18	punct	_	start_char=416|end_char=417
+17	разумного	разумный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	start_char=417|end_char=426
+18	потребления	потребление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	start_char=427|end_char=438
+19	»	»	PUNCT	_	_	18	punct	_	start_char=438|end_char=439
+20	-	-	PUNCT	_	_	18	punct	_	start_char=440|end_char=441
+21	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	15	nmod	_	start_char=442|end_char=447
+22	,	,	PUNCT	_	_	23	punct	_	start_char=447|end_char=448
+23	начиная	начинать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	conj	_	start_char=449|end_char=456
+24	от	от	ADP	_	_	26	case	_	start_char=457|end_char=459
+25	личного	личный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	start_char=460|end_char=467
+26	питания	питание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	obl	_	start_char=468|end_char=475
+27	и	и	CCONJ	_	_	28	cc	_	start_char=476|end_char=477
+28	одежды	одежда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	conj	_	start_char=478|end_char=484
+29	,	,	PUNCT	_	_	31	punct	_	start_char=484|end_char=485
+30	и	и	CCONJ	_	_	31	cc	_	start_char=486|end_char=487
+31	заканчивая	заканчивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	23	conj	_	start_char=488|end_char=498
+32	полезными	полезный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	33	amod	_	start_char=499|end_char=508
+33	ископаемыми	ископаем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	31	iobj	_	start_char=509|end_char=520
+34	и	и	CCONJ	_	_	36	cc	_	start_char=521|end_char=522
+35	солнечной	солнечный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	start_char=523|end_char=532
+36	энергией	энергия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	33	conj	_	start_char=533|end_char=541
+37	.	.	PUNCT	_	_	4	punct	_	start_char=541|end_char=542
+
+# text = Постепенно уровень жизни рос, население уменьшалось, больше незачем было по полгода не видеть солнца или круглый год изнывать от жары, все перебрались в поселения с самым комфортным климатом, часто на берегу моря или хотя бы реки.
+# sent_id = 4
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Постепенно	постепенно	ADV	_	Degree=Pos	4	advmod	_	start_char=543|end_char=553
+2	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=554|end_char=561
+3	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	start_char=562|end_char=567
+4	рос	расти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=568|end_char=571
+5	,	,	PUNCT	_	_	7	punct	_	start_char=571|end_char=572
+6	население	население	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	start_char=573|end_char=582
+7	уменьшалось	уменьшаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=583|end_char=594
+8	,	,	PUNCT	_	_	10	punct	_	start_char=594|end_char=595
+9	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	10	advmod	_	start_char=596|end_char=602
+10	незачем	незачать	VERB	_	_	4	conj	_	start_char=603|end_char=610
+11	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=611|end_char=615
+12	по	по	ADP	_	_	13	case	_	start_char=616|end_char=618
+13	полгода	полгода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	start_char=619|end_char=626
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=627|end_char=629
+15	видеть	видеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	start_char=630|end_char=636
+16	солнца	солнце	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obj	_	start_char=637|end_char=643
+17	или	или	CCONJ	_	_	19	cc	_	start_char=644|end_char=647
+18	круглый	круглый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	start_char=648|end_char=655
+19	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	start_char=656|end_char=659
+20	изнывать	изнывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	conj	_	start_char=660|end_char=668
+21	от	от	ADP	_	_	22	case	_	start_char=669|end_char=671
+22	жары	жара	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	obl	_	start_char=672|end_char=676
+23	,	,	PUNCT	_	_	25	punct	_	start_char=676|end_char=677
+24	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	25	nsubj	_	start_char=678|end_char=681
+25	перебрались	перебраться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	start_char=682|end_char=693
+26	в	в	ADP	_	_	27	case	_	start_char=694|end_char=695
+27	поселения	поселение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	25	obl	_	start_char=696|end_char=705
+28	с	с	ADP	_	_	31	case	_	start_char=706|end_char=707
+29	самым	самый	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Emp	30	det	_	start_char=708|end_char=713
+30	комфортным	комфортный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	start_char=714|end_char=724
+31	климатом	климат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	25	obl	_	start_char=725|end_char=733
+32	,	,	PUNCT	_	_	35	punct	_	start_char=733|end_char=734
+33	часто	часто	ADV	_	Degree=Pos	35	orphan	_	start_char=735|end_char=740
+34	на	на	ADP	_	_	35	case	_	start_char=741|end_char=743
+35	берегу	берег	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	conj	_	start_char=744|end_char=750
+36	моря	море	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	start_char=751|end_char=755
+37	или	или	CCONJ	_	_	40	cc	_	start_char=756|end_char=759
+38	хотя	хотя	PART	_	_	40	advmod	_	start_char=760|end_char=764
+39	бы	бы	PART	_	_	38	fixed	_	start_char=765|end_char=767
+40	реки	река	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	conj	_	start_char=768|end_char=772
+41	.	.	PUNCT	_	_	4	punct	_	start_char=772|end_char=773
+
+# text = Такие пасторальные белые домики с непременной живой изгородью по колено.
+# sent_id = 5
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Такие	такой	DET	_	Case=Nom|Number=Plur|PronType=Dem	4	det	_	start_char=774|end_char=779
+2	пасторальные	пасторальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=780|end_char=792
+3	белые	белый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	start_char=793|end_char=798
+4	домики	домик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=799|end_char=805
+5	с	с	ADP	_	_	8	case	_	start_char=806|end_char=807
+6	непременной	непременный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=808|end_char=819
+7	живой	живой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	start_char=820|end_char=825
+8	изгородью	изгородь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	start_char=826|end_char=835
+9	по	по	ADP	_	_	10	case	_	start_char=836|end_char=838
+10	колено	колено	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	nmod	_	start_char=839|end_char=845
+11	.	.	PUNCT	_	_	4	punct	_	start_char=845|end_char=846
+
+# text = Они считали, что наконец начали жить в раю, и это продлится вечно, а я видела, как исчезает некогда сильная и полнокровная цивилизация, рассасывается, как плодородный луг, окруженный болотами - незаметно, но верно.
+# sent_id = 6
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=847|end_char=850
+2	считали	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=851|end_char=858
+3	,	,	PUNCT	_	_	6	punct	_	start_char=858|end_char=859
+4	что	что	SCONJ	_	_	6	mark	_	start_char=860|end_char=863
+5	наконец	наконец	ADV	_	Degree=Pos	6	advmod	_	start_char=864|end_char=871
+6	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=872|end_char=878
+7	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=879|end_char=883
+8	в	в	ADP	_	_	9	case	_	start_char=884|end_char=885
+9	раю	рай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=886|end_char=889
+10	,	,	PUNCT	_	_	13	punct	_	start_char=889|end_char=890
+11	и	и	CCONJ	_	_	13	cc	_	start_char=891|end_char=892
+12	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	start_char=893|end_char=896
+13	продлится	продлиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=897|end_char=906
+14	вечно	вечно	ADV	_	Degree=Pos	13	advmod	_	start_char=907|end_char=912
+15	,	,	PUNCT	_	_	18	punct	_	start_char=912|end_char=913
+16	а	а	CCONJ	_	_	18	cc	_	start_char=914|end_char=915
+17	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	start_char=916|end_char=917
+18	видела	видеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=918|end_char=924
+19	,	,	PUNCT	_	_	21	punct	_	start_char=924|end_char=925
+20	как	как	ADV	_	Degree=Pos|PronType=Rel	21	advmod	_	start_char=926|end_char=929
+21	исчезает	исчезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp	_	start_char=930|end_char=938
+22	некогда	некогда	ADV	_	Degree=Pos|PronType=Ind	23	advmod	_	start_char=939|end_char=946
+23	сильная	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	start_char=947|end_char=954
+24	и	и	CCONJ	_	_	25	cc	_	start_char=955|end_char=956
+25	полнокровная	полнокровный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	conj	_	start_char=957|end_char=969
+26	цивилизация	цивилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	start_char=970|end_char=981
+27	,	,	PUNCT	_	_	28	punct	_	start_char=981|end_char=982
+28	рассасывается	рассасываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	conj	_	start_char=983|end_char=996
+29	,	,	PUNCT	_	_	32	punct	_	start_char=996|end_char=997
+30	как	как	SCONJ	_	_	32	case	_	start_char=998|end_char=1001
+31	плодородный	плодородный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	start_char=1002|end_char=1013
+32	луг	луг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	obl	_	start_char=1014|end_char=1017
+33	,	,	PUNCT	_	_	34	punct	_	start_char=1017|end_char=1018
+34	окруженный	окрузить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	32	acl	_	start_char=1019|end_char=1029
+35	болотами	болотой	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	34	obl:agent	_	start_char=1030|end_char=1038
+36	-	-	PUNCT	_	_	37	punct	_	start_char=1039|end_char=1040
+37	незаметно	незаметно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	28	parataxis	_	start_char=1041|end_char=1050
+38	,	,	PUNCT	_	_	40	punct	_	start_char=1050|end_char=1051
+39	но	но	CCONJ	_	_	40	cc	_	start_char=1052|end_char=1054
+40	верно	верный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	37	conj	_	start_char=1055|end_char=1060
+41	.	.	PUNCT	_	_	2	punct	_	start_char=1060|end_char=1061
+
+# text = И это было мучительно похоже на тот Галлифрей, который я помнила.
+# sent_id = 7
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	И	и	CCONJ	_	_	5	cc	_	start_char=1062|end_char=1063
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	start_char=1064|end_char=1067
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=1068|end_char=1072
+4	мучительно	мучительно	ADV	_	Degree=Pos	5	advmod	_	start_char=1073|end_char=1083
+5	похоже	похожий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1084|end_char=1090
+6	на	на	ADP	_	_	8	case	_	start_char=1091|end_char=1093
+7	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	start_char=1094|end_char=1097
+8	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	5	obl	_	start_char=1098|end_char=1107
+9	,	,	PUNCT	_	_	12	punct	_	start_char=1107|end_char=1108
+10	который	который	PRON	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	12	obj	_	start_char=1109|end_char=1116
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=1117|end_char=1118
+12	помнила	помнить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	start_char=1119|end_char=1126
+13	.	.	PUNCT	_	_	5	punct	_	start_char=1126|end_char=1127
+
+# text = Я поняла, что могу помочь им.
+# sent_id = 8
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1128|end_char=1129
+2	поняла	понять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1130|end_char=1136
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1136|end_char=1137
+4	что	что	SCONJ	_	_	5	mark	_	start_char=1138|end_char=1141
+5	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1142|end_char=1146
+6	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=1147|end_char=1153
+7	им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	iobj	_	start_char=1154|end_char=1156
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1156|end_char=1157
+
+# text = Им - и себе.
+# sent_id = 9
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Им	они	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	iobj	_	start_char=1158|end_char=1160
+2	-	-	PUNCT	_	_	1	punct	_	start_char=1161|end_char=1162
+3	и	и	PART	_	_	4	advmod	_	start_char=1163|end_char=1164
+4	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	0	root	_	start_char=1165|end_char=1169
+5	.	.	PUNCT	_	_	1	punct	_	start_char=1169|end_char=1170
+
+# text = И всему Галлифрею.
+# sent_id = 10
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	И	и	CCONJ	_	_	3	cc	_	start_char=1171|end_char=1172
+2	всему	весь	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	3	det	_	start_char=1173|end_char=1178
+3	Галлифрею	Галлифрея	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	start_char=1179|end_char=1188
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1188|end_char=1189
+
+# text = Я, представитель более древнего и гораздо более знающего вида, смогу показать этим людям, где они ошиблись, какие ошибки могут поджидать их в будущем, и сделать так, чтобы они выбрались из своего болота.
+# sent_id = 11
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=1190|end_char=1191
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1191|end_char=1192
+3	представитель	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	start_char=1193|end_char=1206
+4	более	более	ADV	_	Degree=Cmp|PronType=Tot	5	advmod	_	start_char=1207|end_char=1212
+5	древнего	древний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	start_char=1213|end_char=1221
+6	и	и	CCONJ	_	_	9	cc	_	start_char=1222|end_char=1223
+7	гораздо	гораздо	ADV	_	Degree=Pos	8	advmod	_	start_char=1224|end_char=1231
+8	более	более	ADV	_	Degree=Cmp|PronType=Tot	9	advmod	_	start_char=1232|end_char=1237
+9	знающего	знающий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	start_char=1238|end_char=1246
+10	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	start_char=1247|end_char=1251
+11	,	,	PUNCT	_	_	3	punct	_	start_char=1251|end_char=1252
+12	смогу	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1253|end_char=1258
+13	показать	показать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=1259|end_char=1267
+14	этим	этот	DET	_	Case=Dat|Number=Plur|PronType=Dem	15	det	_	start_char=1268|end_char=1272
+15	людям	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	13	iobj	_	start_char=1273|end_char=1278
+16	,	,	PUNCT	_	_	19	punct	_	start_char=1278|end_char=1279
+17	где	где	ADV	_	Degree=Pos|PronType=Rel	19	advmod	_	start_char=1280|end_char=1283
+18	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=1284|end_char=1287
+19	ошиблись	ошибиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	15	acl:relcl	_	start_char=1288|end_char=1296
+20	,	,	PUNCT	_	_	23	punct	_	start_char=1296|end_char=1297
+21	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Rel	22	det	_	start_char=1298|end_char=1303
+22	ошибки	ошибка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	23	nsubj	_	start_char=1304|end_char=1310
+23	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	start_char=1311|end_char=1316
+24	поджидать	поджидать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	xcomp	_	start_char=1317|end_char=1326
+25	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	24	obj	_	start_char=1327|end_char=1329
+26	в	в	ADP	_	_	27	case	_	start_char=1330|end_char=1331
+27	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	start_char=1332|end_char=1339
+28	,	,	PUNCT	_	_	30	punct	_	start_char=1339|end_char=1340
+29	и	и	CCONJ	_	_	30	cc	_	start_char=1341|end_char=1342
+30	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	conj	_	start_char=1343|end_char=1350
+31	так	так	ADV	_	Degree=Pos|PronType=Dem	30	advmod	_	start_char=1351|end_char=1354
+32	,	,	PUNCT	_	_	35	punct	_	start_char=1354|end_char=1355
+33	чтобы	чтобы	SCONJ	_	Mood=Cnd	35	mark	_	start_char=1356|end_char=1361
+34	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	nsubj	_	start_char=1362|end_char=1365
+35	выбрались	выбраться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	31	advcl	_	start_char=1366|end_char=1375
+36	из	из	ADP	_	_	38	case	_	start_char=1376|end_char=1378
+37	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	38	det	_	start_char=1379|end_char=1385
+38	болота	болото	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	obl	_	start_char=1386|end_char=1392
+39	.	.	PUNCT	_	_	12	punct	_	start_char=1392|end_char=1393
+
+# text = И они помогут мне.
+# sent_id = 12
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	И	и	CCONJ	_	_	3	cc	_	start_char=1394|end_char=1395
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=1396|end_char=1399
+3	помогут	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1400|end_char=1407
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=1408|end_char=1411
+5	.	.	PUNCT	_	_	3	punct	_	start_char=1411|end_char=1412
+
+# text = Галлифрей сейчас закостенел, перестал развиваться, вознес сам себя на вершину и сам искренне верит, что выше уже некуда.
+# sent_id = 13
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=1413|end_char=1422
+2	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=1423|end_char=1429
+3	закостенел	закостенеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1430|end_char=1440
+4	,	,	PUNCT	_	_	5	punct	_	start_char=1440|end_char=1441
+5	перестал	перестать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1442|end_char=1450
+6	развиваться	развиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=1451|end_char=1462
+7	,	,	PUNCT	_	_	8	punct	_	start_char=1462|end_char=1463
+8	вознес	вознести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1464|end_char=1470
+9	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	8	acl	_	start_char=1471|end_char=1474
+10	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	obj	_	start_char=1475|end_char=1479
+11	на	на	ADP	_	_	12	case	_	start_char=1480|end_char=1482
+12	вершину	вершина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	start_char=1483|end_char=1490
+13	и	и	CCONJ	_	_	16	cc	_	start_char=1491|end_char=1492
+14	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	16	obl	_	start_char=1493|end_char=1496
+15	искренне	искренне	ADV	_	Degree=Pos	16	advmod	_	start_char=1497|end_char=1505
+16	верит	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1506|end_char=1511
+17	,	,	PUNCT	_	_	21	punct	_	start_char=1511|end_char=1512
+18	что	что	SCONJ	_	_	21	mark	_	start_char=1513|end_char=1516
+19	выше	высоко	ADV	_	Degree=Cmp	21	advmod	_	start_char=1517|end_char=1521
+20	уже	уже	ADV	_	Degree=Pos	21	advmod	_	start_char=1522|end_char=1525
+21	некуда	некуда	VERB	_	Polarity=Neg	16	ccomp	_	start_char=1526|end_char=1532
+22	.	.	PUNCT	_	_	3	punct	_	start_char=1532|end_char=1533
+
+# text = Это проблема одной из старейших цивилизаций этой Вселенной.
+# sent_id = 14
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=1534|end_char=1537
+2	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1538|end_char=1546
+3	одной	один	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Ind	2	nmod	_	start_char=1547|end_char=1552
+4	из	из	ADP	_	_	6	case	_	start_char=1553|end_char=1555
+5	старейших	старейший	ADJ	_	Case=Gen|Degree=Sup|Number=Plur	6	amod	_	start_char=1556|end_char=1565
+6	цивилизаций	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	start_char=1566|end_char=1577
+7	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	start_char=1578|end_char=1582
+8	Вселенной	Вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	start_char=1583|end_char=1592
+9	.	.	PUNCT	_	_	2	punct	_	start_char=1592|end_char=1593
+
+# text = Но если бы они знали, что до них была цивилизация, у которой было еще больше времени на развитие, они бы так спокойно не сидели, отгородившись непроницаемыми экранами от всего мира.
+# sent_id = 15
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Но	но	CCONJ	_	_	27	cc	_	start_char=1594|end_char=1596
+2	если	если	SCONJ	_	_	5	mark	_	start_char=1597|end_char=1601
+3	бы	бы	AUX	_	Mood=Cnd	5	aux	_	start_char=1602|end_char=1604
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=1605|end_char=1608
+5	знали	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	27	advcl	_	start_char=1609|end_char=1614
+6	,	,	PUNCT	_	_	9	punct	_	start_char=1614|end_char=1615
+7	что	что	SCONJ	_	_	9	mark	_	start_char=1616|end_char=1619
+8	до	до	ADP	_	_	9	case	_	start_char=1620|end_char=1622
+9	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	ccomp	_	start_char=1623|end_char=1626
+10	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=1627|end_char=1631
+11	цивилизация	цивилизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=1632|end_char=1643
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1643|end_char=1644
+13	у	у	ADP	_	_	14	case	_	start_char=1645|end_char=1646
+14	которой	который	PRON	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	acl:relcl	_	start_char=1647|end_char=1654
+15	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=1655|end_char=1659
+16	еще	еще	ADV	_	Degree=Pos	17	advmod	_	start_char=1660|end_char=1663
+17	больше	много	NUM	_	Degree=Cmp|NumForm=Word|NumType=Card	18	nummod:gov	_	start_char=1664|end_char=1670
+18	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nsubj	_	start_char=1671|end_char=1678
+19	на	на	ADP	_	_	20	case	_	start_char=1679|end_char=1681
+20	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	start_char=1682|end_char=1690
+21	,	,	PUNCT	_	_	5	punct	_	start_char=1690|end_char=1691
+22	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	start_char=1692|end_char=1695
+23	бы	бы	AUX	_	Mood=Cnd	27	aux	_	start_char=1696|end_char=1698
+24	так	так	ADV	_	Degree=Pos|PronType=Dem	27	advmod	_	start_char=1699|end_char=1702
+25	спокойно	спокойно	ADV	_	Degree=Pos	27	advmod	_	start_char=1703|end_char=1711
+26	не	не	PART	_	Polarity=Neg	27	advmod	_	start_char=1712|end_char=1714
+27	сидели	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1715|end_char=1721
+28	,	,	PUNCT	_	_	29	punct	_	start_char=1721|end_char=1722
+29	отгородившись	отгородиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	27	advcl	_	start_char=1723|end_char=1736
+30	непроницаемыми	непроницаемый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	31	amod	_	start_char=1737|end_char=1751
+31	экранами	экран	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	29	iobj	_	start_char=1752|end_char=1760
+32	от	от	ADP	_	_	34	case	_	start_char=1761|end_char=1763
+33	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	34	det	_	start_char=1764|end_char=1769
+34	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	obl	_	start_char=1770|end_char=1774
+35	.	.	PUNCT	_	_	27	punct	_	start_char=1774|end_char=1775
+
+# text = Даже просто поиск такой цивилизации уже давал бы толчки к развитию науки, да и вообще к другому взгляду на мир.
+# sent_id = 16
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Даже	даже	PART	_	_	2	advmod	_	start_char=1776|end_char=1780
+2	просто	просто	PART	_	_	7	advmod	_	start_char=1781|end_char=1787
+3	поиск	поиск	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1788|end_char=1793
+4	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	start_char=1794|end_char=1799
+5	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=1800|end_char=1811
+6	уже	уже	ADV	_	Degree=Pos	7	advmod	_	start_char=1812|end_char=1815
+7	давал	давать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1816|end_char=1821
+8	бы	бы	AUX	_	Mood=Cnd	7	aux	_	start_char=1822|end_char=1824
+9	толчки	толчок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=1825|end_char=1831
+10	к	к	ADP	_	_	11	case	_	start_char=1832|end_char=1833
+11	развитию	развитие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	start_char=1834|end_char=1842
+12	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=1843|end_char=1848
+13	,	,	PUNCT	_	_	19	punct	_	start_char=1848|end_char=1849
+14	да	да	CCONJ	_	_	19	cc	_	start_char=1850|end_char=1852
+15	и	и	CCONJ	_	_	14	fixed	_	start_char=1853|end_char=1854
+16	вообще	вообще	ADV	_	Degree=Pos	19	advmod	_	start_char=1855|end_char=1861
+17	к	к	ADP	_	_	19	case	_	start_char=1862|end_char=1863
+18	другому	другой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	19	det	_	start_char=1864|end_char=1871
+19	взгляду	взгляд	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	conj	_	start_char=1872|end_char=1879
+20	на	на	ADP	_	_	21	case	_	start_char=1880|end_char=1882
+21	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	nmod	_	start_char=1883|end_char=1886
+22	.	.	PUNCT	_	_	7	punct	_	start_char=1886|end_char=1887
+
+# text = Да, эти местные пейзане станут вестниками и посланниками самой древней, легендарной цивилизации, которая встретит впервые вышедших в космос галлифрейцев, они станут их учителями...
+# sent_id = 17
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Да	да	PART	_	_	6	parataxis	_	start_char=1888|end_char=1890
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1890|end_char=1891
+3	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	5	det	_	start_char=1892|end_char=1895
+4	местные	местный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	start_char=1896|end_char=1903
+5	пейзане	пейзан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=1904|end_char=1911
+6	станут	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1912|end_char=1918
+7	вестниками	вестник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	xcomp	_	start_char=1919|end_char=1929
+8	и	и	CCONJ	_	_	9	cc	_	start_char=1930|end_char=1931
+9	посланниками	посланник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	7	conj	_	start_char=1932|end_char=1944
+10	самой	сам	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Emp	14	det	_	start_char=1945|end_char=1950
+11	древней	древний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	start_char=1951|end_char=1958
+12	,	,	PUNCT	_	_	13	punct	_	start_char=1958|end_char=1959
+13	легендарной	легендарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	start_char=1960|end_char=1971
+14	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	start_char=1972|end_char=1983
+15	,	,	PUNCT	_	_	17	punct	_	start_char=1983|end_char=1984
+16	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	17	nsubj	_	start_char=1985|end_char=1992
+17	встретит	встретить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	14	acl:relcl	_	start_char=1993|end_char=2001
+18	впервые	впервые	ADV	_	Degree=Pos	19	advmod	_	start_char=2002|end_char=2009
+19	вышедших	выйти	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	14	acl	_	start_char=2010|end_char=2018
+20	в	в	ADP	_	_	21	case	_	start_char=2019|end_char=2020
+21	космос	космос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	start_char=2021|end_char=2027
+22	галлифрейцев	галлифрейц	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	start_char=2028|end_char=2040
+23	,	,	PUNCT	_	_	25	punct	_	start_char=2040|end_char=2041
+24	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	start_char=2042|end_char=2045
+25	станут	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	start_char=2046|end_char=2052
+26	их	их	DET	_	Poss=Yes|PronType=Prs	27	det	_	start_char=2053|end_char=2055
+27	учителями	учитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	25	xcomp	_	start_char=2056|end_char=2065
+28	...	...	PUNCT	_	_	6	punct	_	start_char=2065|end_char=2068
+
+# text = Или даже пророками и богами, если воздействовать на Галлифрей немного раньше, обратившись к мифологическому мировоззрению.
+# sent_id = 18
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Или	или	CCONJ	_	_	3	cc	_	start_char=2069|end_char=2072
+2	даже	даже	PART	_	_	3	advmod	_	start_char=2073|end_char=2077
+3	пророками	пророк	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	0	root	_	start_char=2078|end_char=2087
+4	и	и	CCONJ	_	_	5	cc	_	start_char=2088|end_char=2089
+5	богами	бога	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	conj	_	start_char=2090|end_char=2096
+6	,	,	PUNCT	_	_	8	punct	_	start_char=2096|end_char=2097
+7	если	если	SCONJ	_	_	8	mark	_	start_char=2098|end_char=2102
+8	воздействовать	воздействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	advcl	_	start_char=2103|end_char=2117
+9	на	на	ADP	_	_	10	case	_	start_char=2118|end_char=2120
+10	Галлифрей	Галлифрей	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	8	obl	_	start_char=2121|end_char=2130
+11	немного	немного	ADV	_	Degree=Pos|PronType=Tot	12	advmod	_	start_char=2131|end_char=2138
+12	раньше	раньше	ADV	_	Degree=Cmp	8	advmod	_	start_char=2139|end_char=2145
+13	,	,	PUNCT	_	_	14	punct	_	start_char=2145|end_char=2146
+14	обратившись	обратиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	8	conj	_	start_char=2147|end_char=2158
+15	к	к	ADP	_	_	17	case	_	start_char=2159|end_char=2160
+16	мифологическому	мифологический	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	start_char=2161|end_char=2176
+17	мировоззрению	мировоззрение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	obl	_	start_char=2177|end_char=2190
+18	.	.	PUNCT	_	_	3	punct	_	start_char=2190|end_char=2191
+
+# text = Да, боги, потом ставшие учителями, а потом друзьями!
+# sent_id = 19
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Да	да	PART	_	_	3	parataxis	_	start_char=2192|end_char=2194
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2194|end_char=2195
+3	боги	бог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2196|end_char=2200
+4	,	,	PUNCT	_	_	6	punct	_	start_char=2200|end_char=2201
+5	потом	потом	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=2202|end_char=2207
+6	ставшие	стать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	start_char=2208|end_char=2215
+7	учителями	учитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	obl:agent	_	start_char=2216|end_char=2225
+8	,	,	PUNCT	_	_	11	punct	_	start_char=2225|end_char=2226
+9	а	а	CCONJ	_	_	11	cc	_	start_char=2227|end_char=2228
+10	потом	потом	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=2229|end_char=2234
+11	друзьями	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	conj	_	start_char=2235|end_char=2243
+12	!	!	PUNCT	_	_	3	punct	_	start_char=2243|end_char=2244
+
+# text = Теми, кто научит таймлордов не прятаться, а принимать вызовы жизни, этой вселенной.
+# sent_id = 20
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Теми	тот	DET	_	Case=Dat|Number=Plur|PronType=Dem	0	root	_	start_char=2245|end_char=2249
+2	,	,	PUNCT	_	_	4	punct	_	start_char=2249|end_char=2250
+3	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	start_char=2251|end_char=2254
+4	научит	научить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	acl:relcl	_	start_char=2255|end_char=2261
+5	таймлордов	таймордов	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	start_char=2262|end_char=2272
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=2273|end_char=2275
+7	прятаться	прятаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=2276|end_char=2285
+8	,	,	PUNCT	_	_	10	punct	_	start_char=2285|end_char=2286
+9	а	а	CCONJ	_	_	10	cc	_	start_char=2287|end_char=2288
+10	принимать	принимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	conj	_	start_char=2289|end_char=2298
+11	вызовы	вызов	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	start_char=2299|end_char=2305
+12	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	start_char=2306|end_char=2311
+13	,	,	PUNCT	_	_	15	punct	_	start_char=2311|end_char=2312
+14	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	start_char=2313|end_char=2317
+15	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	conj	_	start_char=2318|end_char=2327
+16	.	.	PUNCT	_	_	1	punct	_	start_char=2327|end_char=2328
+
+# text = Кажется, это то, что будет нужно каждой из сторон.
+# sent_id = 21
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=2329|end_char=2336
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2336|end_char=2337
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	start_char=2338|end_char=2341
+4	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	start_char=2342|end_char=2344
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2344|end_char=2345
+6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	start_char=2346|end_char=2349
+7	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	cop	_	start_char=2350|end_char=2355
+8	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	acl:relcl	_	start_char=2356|end_char=2361
+9	каждой	каждый	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	8	obl	_	start_char=2362|end_char=2368
+10	из	из	ADP	_	_	11	case	_	start_char=2369|end_char=2371
+11	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	start_char=2372|end_char=2378
+12	.	.	PUNCT	_	_	4	punct	_	start_char=2378|end_char=2379
+
+# text = Конечно, за всеми богами и посланцами буду стоять я, направляя каждый их шаг.
+# sent_id = 22
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Конечно	конечно	ADV	_	Degree=Pos	9	parataxis	_	start_char=2380|end_char=2387
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2387|end_char=2388
+3	за	за	ADP	_	_	5	case	_	start_char=2389|end_char=2391
+4	всеми	весь	DET	_	Case=Ins|Number=Plur|PronType=Tot	5	det	_	start_char=2392|end_char=2397
+5	богами	бога	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	9	obl	_	start_char=2398|end_char=2404
+6	и	и	CCONJ	_	_	7	cc	_	start_char=2405|end_char=2406
+7	посланцами	посланец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	conj	_	start_char=2407|end_char=2417
+8	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	9	aux	_	start_char=2418|end_char=2422
+9	стоять	стоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2423|end_char=2429
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=2430|end_char=2431
+11	,	,	PUNCT	_	_	12	punct	_	start_char=2431|end_char=2432
+12	направляя	направлять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	start_char=2433|end_char=2442
+13	каждый	каждый	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	15	det	_	start_char=2443|end_char=2449
+14	их	их	DET	_	Poss=Yes|PronType=Prs	15	det	_	start_char=2450|end_char=2452
+15	шаг	шаг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=2453|end_char=2456
+16	.	.	PUNCT	_	_	9	punct	_	start_char=2456|end_char=2457
+
+# text = Так, для начала надо будет как-то встряхнуть этот мир.
+# sent_id = 23
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	5	parataxis	_	start_char=2459|end_char=2462
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2462|end_char=2463
+3	для	для	ADP	_	_	4	case	_	start_char=2464|end_char=2467
+4	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	start_char=2468|end_char=2474
+5	надо	надо	VERB	_	_	0	root	_	start_char=2475|end_char=2479
+6	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	cop	_	start_char=2480|end_char=2485
+7	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	8	advmod	_	start_char=2486|end_char=2492
+8	встряхнуть	встряхнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=2493|end_char=2503
+9	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	start_char=2504|end_char=2508
+10	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	start_char=2509|end_char=2512
+11	.	.	PUNCT	_	_	5	punct	_	start_char=2512|end_char=2513
+
+# text = Я заметила, что все потомки приматов слишком много времени посвящают такому бесполезному процессу, как сон.
+# sent_id = 24
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2514|end_char=2515
+2	заметила	заметить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2516|end_char=2524
+3	,	,	PUNCT	_	_	11	punct	_	start_char=2524|end_char=2525
+4	что	что	SCONJ	_	_	11	mark	_	start_char=2526|end_char=2529
+5	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	6	det	_	start_char=2530|end_char=2533
+6	потомки	потомок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	start_char=2534|end_char=2541
+7	приматов	примат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=2542|end_char=2550
+8	слишком	слишком	ADV	_	Degree=Pos	9	advmod	_	start_char=2551|end_char=2558
+9	много	много	NUM	_	Case=Acc|NumForm=Word|NumType=Card	10	nummod:gov	_	start_char=2559|end_char=2564
+10	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obj	_	start_char=2565|end_char=2572
+11	посвящают	посвящать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=2573|end_char=2582
+12	такому	такой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	start_char=2583|end_char=2589
+13	бесполезному	бесполезный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=2590|end_char=2602
+14	процессу	процесс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	start_char=2603|end_char=2611
+15	,	,	PUNCT	_	_	17	punct	_	start_char=2611|end_char=2612
+16	как	как	SCONJ	_	_	17	case	_	start_char=2613|end_char=2616
+17	сон	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	obl	_	start_char=2617|end_char=2620
+18	.	.	PUNCT	_	_	2	punct	_	start_char=2620|end_char=2621
+
+# text = Для начала надо решить эту проблему.
+# sent_id = 25
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Для	для	ADP	_	_	2	case	_	start_char=2622|end_char=2625
+2	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	start_char=2626|end_char=2632
+3	надо	надо	VERB	_	_	0	root	_	start_char=2633|end_char=2637
+4	решить	решить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=2638|end_char=2644
+5	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	start_char=2645|end_char=2648
+6	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=2649|end_char=2657
+7	.	.	PUNCT	_	_	3	punct	_	start_char=2657|end_char=2658
+
+# text = И вообще, боги не спят!
+# sent_id = 26
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	И	и	CCONJ	_	_	6	cc	_	start_char=2659|end_char=2660
+2	вообще	вообще	ADV	_	Degree=Pos	6	parataxis	_	start_char=2661|end_char=2667
+3	,	,	PUNCT	_	_	2	punct	_	start_char=2667|end_char=2668
+4	боги	бог	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	start_char=2669|end_char=2673
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=2674|end_char=2676
+6	спят	спать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2677|end_char=2681
+7	!	!	PUNCT	_	_	6	punct	_	start_char=2681|end_char=2682
+
+# text = Я набросала план дальнейших изменений.
+# sent_id = 27
+# metadata = Название: Божественная сила, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/56316af400000a7d1efc32bb/1/Bozhestvennaya-sila
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=2683|end_char=2684
+2	набросала	набросать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2685|end_char=2694
+3	план	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=2695|end_char=2699
+4	дальнейших	дальнейший	ADJ	_	Case=Gen|Degree=Sup|Number=Plur	5	amod	_	start_char=2700|end_char=2710
+5	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	start_char=2711|end_char=2720
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2720|end_char=2721
+

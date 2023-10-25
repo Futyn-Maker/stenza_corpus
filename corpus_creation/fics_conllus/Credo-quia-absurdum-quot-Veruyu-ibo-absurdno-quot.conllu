@@ -1,0 +1,1117 @@
+# text = – Знаешь, дорогая, – проговорил я, – а ведь однажды нам тоже понадобится Матрица.
+# sent_id = 0
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	2	punct	_	start_char=0|end_char=1
+2	Знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2|end_char=8
+3	,	,	PUNCT	_	_	4	punct	_	start_char=8|end_char=9
+4	дорогая	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	start_char=10|end_char=17
+5	,	,	PUNCT	_	_	7	punct	_	start_char=17|end_char=18
+6	–	–	PUNCT	_	_	7	punct	_	start_char=19|end_char=20
+7	проговорил	проговорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=21|end_char=31
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=32|end_char=33
+9	,	,	PUNCT	_	_	16	punct	_	start_char=33|end_char=34
+10	–	–	PUNCT	_	_	16	punct	_	start_char=35|end_char=36
+11	а	а	CCONJ	_	_	16	cc	_	start_char=37|end_char=38
+12	ведь	ведь	PART	_	_	16	advmod	_	start_char=39|end_char=43
+13	однажды	однажды	ADV	_	Degree=Pos	16	advmod	_	start_char=44|end_char=51
+14	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	16	iobj	_	start_char=52|end_char=55
+15	тоже	тоже	PART	_	_	16	advmod	_	start_char=56|end_char=60
+16	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=61|end_char=72
+17	Матрица	матрица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	start_char=73|end_char=80
+18	.	.	PUNCT	_	_	2	punct	_	start_char=80|end_char=81
+
+# text = Гладкое плечо Ривер под моей ладонью ощутимо отвердело.
+# sent_id = 1
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Гладкое	гладкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	start_char=82|end_char=89
+2	плечо	плечо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	start_char=90|end_char=95
+3	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	2	appos	_	start_char=96|end_char=101
+4	под	под	ADP	_	_	6	case	_	start_char=102|end_char=105
+5	моей	мой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	start_char=106|end_char=110
+6	ладонью	ладонь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	start_char=111|end_char=118
+7	ощутимо	ощутимо	ADV	_	Degree=Pos	8	advmod	_	start_char=119|end_char=126
+8	отвердело	отвердеть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=127|end_char=136
+9	.	.	PUNCT	_	_	8	punct	_	start_char=136|end_char=137
+
+# text = – Нет, я понимаю, что писать завещания или думать о том, кто из детей первым будет сохранен в ней, нам еще рано, – усмехнулся я ободряюще.
+# sent_id = 2
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	5	punct	_	start_char=138|end_char=139
+2	Нет	нет	PART	_	Polarity=Neg	5	parataxis	_	start_char=140|end_char=143
+3	,	,	PUNCT	_	_	2	punct	_	start_char=143|end_char=144
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=145|end_char=146
+5	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=147|end_char=154
+6	,	,	PUNCT	_	_	8	punct	_	start_char=154|end_char=155
+7	что	что	SCONJ	_	_	8	mark	_	start_char=156|end_char=159
+8	писать	писать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	start_char=160|end_char=166
+9	завещания	завещание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	obj	_	start_char=167|end_char=176
+10	или	или	CCONJ	_	_	11	cc	_	start_char=177|end_char=180
+11	думать	думать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	conj	_	start_char=181|end_char=187
+12	о	о	ADP	_	_	13	case	_	start_char=188|end_char=189
+13	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	11	obl	_	start_char=190|end_char=193
+14	,	,	PUNCT	_	_	20	punct	_	start_char=193|end_char=194
+15	кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	20	nsubj:pass	_	start_char=195|end_char=198
+16	из	из	ADP	_	_	17	case	_	start_char=199|end_char=201
+17	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	obl	_	start_char=202|end_char=207
+18	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	17	amod	_	start_char=208|end_char=214
+19	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	aux:pass	_	start_char=215|end_char=220
+20	сохранен	сохранить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	acl	_	start_char=221|end_char=229
+21	в	в	ADP	_	_	22	case	_	start_char=230|end_char=231
+22	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obl	_	start_char=232|end_char=235
+23	,	,	PUNCT	_	_	26	punct	_	start_char=235|end_char=236
+24	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	26	iobj	_	start_char=237|end_char=240
+25	еще	еще	ADV	_	Degree=Pos	26	advmod	_	start_char=241|end_char=244
+26	рано	рано	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	20	conj	_	start_char=245|end_char=249
+27	,	,	PUNCT	_	_	29	punct	_	start_char=249|end_char=250
+28	–	–	PUNCT	_	_	29	punct	_	start_char=251|end_char=252
+29	усмехнулся	усмехнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	26	parataxis	_	start_char=253|end_char=263
+30	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	start_char=264|end_char=265
+31	ободряюще	ободряюще	ADV	_	Degree=Pos	29	advmod	_	start_char=266|end_char=275
+32	.	.	PUNCT	_	_	5	punct	_	start_char=275|end_char=276
+
+# text = Кажется, я выбрал не совсем верный момент для разговора.
+# sent_id = 3
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	start_char=277|end_char=284
+2	,	,	PUNCT	_	_	1	punct	_	start_char=284|end_char=285
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=286|end_char=287
+4	выбрал	выбрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=288|end_char=294
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=295|end_char=297
+6	совсем	совсем	ADV	_	Degree=Pos	7	advmod	_	start_char=298|end_char=304
+7	верный	верный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	start_char=305|end_char=311
+8	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	start_char=312|end_char=318
+9	для	для	ADP	_	_	10	case	_	start_char=319|end_char=322
+10	разговора	разговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	start_char=323|end_char=332
+11	.	.	PUNCT	_	_	4	punct	_	start_char=332|end_char=333
+
+# text = По крайней мере, можно было вспоминать об этом не в постели.
+# sent_id = 4
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	По	по	ADP	_	_	5	parataxis	_	start_char=334|end_char=336
+2	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	fixed	_	start_char=337|end_char=344
+3	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	fixed	_	start_char=345|end_char=349
+4	,	,	PUNCT	_	_	1	punct	_	start_char=349|end_char=350
+5	можно	можно	VERB	_	_	0	root	_	start_char=351|end_char=356
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=357|end_char=361
+7	вспоминать	вспоминать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	start_char=362|end_char=372
+8	об	об	ADP	_	_	9	case	_	start_char=373|end_char=375
+9	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	start_char=376|end_char=380
+10	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=381|end_char=383
+11	в	в	ADP	_	_	12	case	_	start_char=384|end_char=385
+12	постели	постель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	start_char=386|end_char=393
+13	.	.	PUNCT	_	_	5	punct	_	start_char=393|end_char=394
+
+# text = – Да, конечно, она нам понадобится, – проворчала моя половинка.
+# sent_id = 5
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	8	punct	_	start_char=395|end_char=396
+2	Да	да	PART	_	_	8	parataxis	_	start_char=397|end_char=399
+3	,	,	PUNCT	_	_	2	punct	_	start_char=399|end_char=400
+4	конечно	конечно	ADV	_	Degree=Pos	8	parataxis	_	start_char=401|end_char=408
+5	,	,	PUNCT	_	_	4	punct	_	start_char=408|end_char=409
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=410|end_char=413
+7	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	iobj	_	start_char=414|end_char=417
+8	понадобится	понадобиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	start_char=418|end_char=429
+9	,	,	PUNCT	_	_	11	punct	_	start_char=429|end_char=430
+10	–	–	PUNCT	_	_	11	punct	_	start_char=431|end_char=432
+11	проворчала	проворчать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	start_char=433|end_char=443
+12	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	start_char=444|end_char=447
+13	половинка	половинка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=448|end_char=457
+14	.	.	PUNCT	_	_	8	punct	_	start_char=457|end_char=458
+
+# text = – Я рад, что ты понимаешь.
+# sent_id = 6
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	3	punct	_	start_char=459|end_char=460
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=461|end_char=462
+3	рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=463|end_char=466
+4	,	,	PUNCT	_	_	7	punct	_	start_char=466|end_char=467
+5	что	что	SCONJ	_	_	7	mark	_	start_char=468|end_char=471
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=472|end_char=474
+7	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=475|end_char=484
+8	.	.	PUNCT	_	_	3	punct	_	start_char=484|end_char=485
+
+# text = Видишь ли, мне пришло в голову, что у нас даже есть отличная ее основа под рукой – это Великая Библиотека.
+# sent_id = 7
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Видишь	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=486|end_char=492
+2	ли	ли	PART	_	_	1	advmod	_	start_char=493|end_char=495
+3	,	,	PUNCT	_	_	1	punct	_	start_char=495|end_char=496
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=497|end_char=500
+5	пришло	прийти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	start_char=501|end_char=507
+6	в	в	ADP	_	_	7	case	_	start_char=508|end_char=509
+7	голову	голова	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=510|end_char=516
+8	,	,	PUNCT	_	_	13	punct	_	start_char=516|end_char=517
+9	что	что	SCONJ	_	_	13	mark	_	start_char=518|end_char=521
+10	у	у	ADP	_	_	11	case	_	start_char=522|end_char=523
+11	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	13	obl	_	start_char=524|end_char=527
+12	даже	даже	PART	_	_	13	advmod	_	start_char=528|end_char=532
+13	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=533|end_char=537
+14	отличная	отличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	start_char=538|end_char=546
+15	ее	ее	DET	_	Poss=Yes|PronType=Prs	16	det	_	start_char=547|end_char=549
+16	основа	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	start_char=550|end_char=556
+17	под	под	ADP	_	_	18	case	_	start_char=557|end_char=560
+18	рукой	рука	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	nmod	_	start_char=561|end_char=566
+19	–	–	PUNCT	_	_	22	punct	_	start_char=567|end_char=568
+20	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	22	nsubj	_	start_char=569|end_char=572
+21	Великая	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	start_char=573|end_char=580
+22	Библиотека	библиотека	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	parataxis	_	start_char=581|end_char=591
+23	.	.	PUNCT	_	_	1	punct	_	start_char=591|end_char=592
+
+# text = Ривер выскользнула из-под моей руки и села на постели, недовольно надевая кружевной пеньюар.
+# sent_id = 8
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	2	nsubj	_	start_char=593|end_char=598
+2	выскользнула	выскользнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=599|end_char=611
+3	из-под	из-под	ADP	_	_	5	case	_	start_char=612|end_char=618
+4	моей	мой	DET	_	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	start_char=619|end_char=623
+5	руки	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	start_char=624|end_char=628
+6	и	и	CCONJ	_	_	7	cc	_	start_char=629|end_char=630
+7	села	сесть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=631|end_char=635
+8	на	на	ADP	_	_	9	case	_	start_char=636|end_char=638
+9	постели	постель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	start_char=639|end_char=646
+10	,	,	PUNCT	_	_	12	punct	_	start_char=646|end_char=647
+11	недовольно	недовольно	ADV	_	Degree=Pos	12	advmod	_	start_char=648|end_char=658
+12	надевая	надевать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	start_char=659|end_char=666
+13	кружевной	кружевный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=667|end_char=676
+14	пеньюар	пеньюар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	start_char=677|end_char=684
+15	.	.	PUNCT	_	_	2	punct	_	start_char=684|end_char=685
+
+# text = – Извини, я понимаю, что после того, как ты провела в ней некоторое время, все это кажется тебе довольно сомнительным, но ведь все кончилось хорошо.
+# sent_id = 9
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	5	punct	_	start_char=686|end_char=687
+2	Извини	извинить	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=688|end_char=694
+3	,	,	PUNCT	_	_	2	punct	_	start_char=694|end_char=695
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=696|end_char=697
+5	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=698|end_char=705
+6	,	,	PUNCT	_	_	21	punct	_	start_char=705|end_char=706
+7	что	что	SCONJ	_	_	21	mark	_	start_char=707|end_char=710
+8	после	после	ADP	_	_	9	case	_	start_char=711|end_char=716
+9	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	21	obl	_	start_char=717|end_char=721
+10	,	,	PUNCT	_	_	13	punct	_	start_char=721|end_char=722
+11	как	как	SCONJ	_	_	13	mark	_	start_char=723|end_char=726
+12	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=727|end_char=729
+13	провела	провести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	start_char=730|end_char=737
+14	в	в	ADP	_	_	15	case	_	start_char=738|end_char=739
+15	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	start_char=740|end_char=743
+16	некоторое	некоторый	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	17	det	_	start_char=744|end_char=753
+17	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	start_char=754|end_char=759
+18	,	,	PUNCT	_	_	13	punct	_	start_char=759|end_char=760
+19	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	20	det	_	start_char=761|end_char=764
+20	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	21	nsubj	_	start_char=765|end_char=768
+21	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	ccomp	_	start_char=769|end_char=776
+22	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	21	iobj	_	start_char=777|end_char=781
+23	довольно	довольно	ADV	_	Degree=Pos	24	advmod	_	start_char=782|end_char=790
+24	сомнительным	сомнительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	21	xcomp	_	start_char=791|end_char=803
+25	,	,	PUNCT	_	_	29	punct	_	start_char=803|end_char=804
+26	но	но	CCONJ	_	_	29	cc	_	start_char=805|end_char=807
+27	ведь	ведь	PART	_	_	29	advmod	_	start_char=808|end_char=812
+28	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	29	nsubj	_	start_char=813|end_char=816
+29	кончилось	кончиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	21	conj	_	start_char=817|end_char=826
+30	хорошо	хорошо	ADV	_	Degree=Pos	29	advmod	_	start_char=827|end_char=833
+31	.	.	PUNCT	_	_	5	punct	_	start_char=833|end_char=834
+
+# text = Я сам не раз оказывался в Матрице, еще старой, в конце концов, это не так уж плохо.
+# sent_id = 10
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=835|end_char=836
+2	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	1	acl	_	start_char=837|end_char=840
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=841|end_char=843
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=844|end_char=847
+5	оказывался	оказываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=848|end_char=858
+6	в	в	ADP	_	_	7	case	_	start_char=859|end_char=860
+7	Матрице	Матрица	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	5	obl	_	start_char=861|end_char=868
+8	,	,	PUNCT	_	_	20	punct	_	start_char=868|end_char=869
+9	еще	еще	ADV	_	Degree=Pos	10	advmod	_	start_char=870|end_char=873
+10	старой	старый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	20	obl	_	start_char=874|end_char=880
+11	,	,	PUNCT	_	_	20	punct	_	start_char=880|end_char=881
+12	в	в	ADP	_	_	20	parataxis	_	start_char=882|end_char=883
+13	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	fixed	_	start_char=884|end_char=889
+14	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	fixed	_	start_char=890|end_char=896
+15	,	,	PUNCT	_	_	12	punct	_	start_char=896|end_char=897
+16	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	nsubj	_	start_char=898|end_char=901
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	start_char=902|end_char=904
+18	так	так	ADV	_	Degree=Pos|PronType=Dem	20	advmod	_	start_char=905|end_char=908
+19	уж	уж	PART	_	_	18	advmod	_	start_char=909|end_char=911
+20	плохо	плохой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	start_char=912|end_char=917
+21	.	.	PUNCT	_	_	5	punct	_	start_char=917|end_char=918
+
+# text = Просто объективная необходимость.
+# sent_id = 11
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Просто	просто	PART	_	_	2	advmod	_	start_char=919|end_char=925
+2	объективная	объективный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	start_char=926|end_char=937
+3	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=938|end_char=951
+4	.	.	PUNCT	_	_	3	punct	_	start_char=951|end_char=952
+
+# text = Да и о том, насколько сокращать собственное существование искусственно, нам еще задумываться абсолютно незачем, а информационный спасательный круг еще никогда никому не вредил.
+# sent_id = 12
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Да	да	CCONJ	_	_	16	cc	_	start_char=953|end_char=955
+2	и	и	CCONJ	_	_	1	fixed	_	start_char=956|end_char=957
+3	о	о	ADP	_	_	4	case	_	start_char=958|end_char=959
+4	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	16	obl	_	start_char=960|end_char=963
+5	,	,	PUNCT	_	_	7	punct	_	start_char=963|end_char=964
+6	насколько	насколько	ADV	_	Degree=Pos	7	advmod	_	start_char=965|end_char=974
+7	сокращать	сокращать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	acl	_	start_char=975|end_char=984
+8	собственное	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	start_char=985|end_char=996
+9	существование	существование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	start_char=997|end_char=1010
+10	искусственно	искусственно	ADV	_	Degree=Pos	7	advmod	_	start_char=1011|end_char=1023
+11	,	,	PUNCT	_	_	7	punct	_	start_char=1023|end_char=1024
+12	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	14	iobj	_	start_char=1025|end_char=1028
+13	еще	еще	ADV	_	Degree=Pos	14	advmod	_	start_char=1029|end_char=1032
+14	задумываться	задумываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	16	csubj	_	start_char=1033|end_char=1045
+15	абсолютно	абсолютно	ADV	_	Degree=Pos	16	advmod	_	start_char=1046|end_char=1055
+16	незачем	незачать	VERB	_	Polarity=Neg	0	root	_	start_char=1056|end_char=1063
+17	,	,	PUNCT	_	_	26	punct	_	start_char=1063|end_char=1064
+18	а	а	CCONJ	_	_	26	cc	_	start_char=1065|end_char=1066
+19	информационный	информационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	start_char=1067|end_char=1081
+20	спасательный	спасательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	start_char=1082|end_char=1094
+21	круг	круг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	start_char=1095|end_char=1099
+22	еще	еще	ADV	_	Degree=Pos	23	advmod	_	start_char=1100|end_char=1103
+23	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	26	advmod	_	start_char=1104|end_char=1111
+24	никому	никто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	26	iobj	_	start_char=1112|end_char=1118
+25	не	не	PART	_	Polarity=Neg	26	advmod	_	start_char=1119|end_char=1121
+26	вредил	вредить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	start_char=1122|end_char=1128
+27	.	.	PUNCT	_	_	16	punct	_	start_char=1128|end_char=1129
+
+# text = Нужно же где-то сохранять свои знания.
+# sent_id = 13
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=1130|end_char=1135
+2	же	же	PART	_	_	1	advmod	_	start_char=1136|end_char=1138
+3	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	4	advmod	_	start_char=1139|end_char=1145
+4	сохранять	сохранять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	start_char=1146|end_char=1155
+5	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	start_char=1156|end_char=1160
+6	знания	знание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	start_char=1161|end_char=1167
+7	.	.	PUNCT	_	_	1	punct	_	start_char=1167|end_char=1168
+
+# text = Ривер кивнула: – Конечно, нужно.
+# sent_id = 14
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Ривер	ривер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=1169|end_char=1174
+2	кивнула	кивнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1175|end_char=1182
+3	:	:	PUNCT	_	_	7	punct	_	start_char=1182|end_char=1183
+4	–	–	PUNCT	_	_	7	punct	_	start_char=1184|end_char=1185
+5	Конечно	конечно	ADV	_	Degree=Pos	7	parataxis	_	start_char=1186|end_char=1193
+6	,	,	PUNCT	_	_	5	punct	_	start_char=1193|end_char=1194
+7	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	parataxis	_	start_char=1195|end_char=1200
+8	.	.	PUNCT	_	_	2	punct	_	start_char=1200|end_char=1201
+
+# text = – Я рад, что ты так думаешь.
+# sent_id = 15
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	3	punct	_	start_char=1202|end_char=1203
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=1204|end_char=1205
+3	рад	рад	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1206|end_char=1209
+4	,	,	PUNCT	_	_	8	punct	_	start_char=1209|end_char=1210
+5	что	что	SCONJ	_	_	8	mark	_	start_char=1211|end_char=1214
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=1215|end_char=1217
+7	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=1218|end_char=1221
+8	думаешь	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	start_char=1222|end_char=1229
+9	.	.	PUNCT	_	_	3	punct	_	start_char=1229|end_char=1230
+
+# text = – Но она все еще выглядела напряженной.
+# sent_id = 16
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1231|end_char=1232
+2	Но	но	CCONJ	_	_	6	cc	_	start_char=1233|end_char=1235
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1236|end_char=1239
+4	все	всё	ADV	_	Degree=Pos|PronType=Tot	6	advmod	_	start_char=1240|end_char=1243
+5	еще	еще	ADV	_	Degree=Pos	4	fixed	_	start_char=1244|end_char=1247
+6	выглядела	выглядеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1248|end_char=1257
+7	напряженной	напряженный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	xcomp	_	start_char=1258|end_char=1269
+8	.	.	PUNCT	_	_	6	punct	_	start_char=1269|end_char=1270
+
+# text = – Ривер, что-то не так?
+# sent_id = 17
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	6	punct	_	start_char=1271|end_char=1272
+2	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	6	vocative	_	start_char=1273|end_char=1278
+3	,	,	PUNCT	_	_	2	punct	_	start_char=1278|end_char=1279
+4	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	start_char=1280|end_char=1286
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	start_char=1287|end_char=1289
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=1290|end_char=1293
+7	?	?	PUNCT	_	_	6	punct	_	start_char=1293|end_char=1294
+
+# text = Я никогда не спрашивал, на что походило пребывание там.
+# sent_id = 18
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1295|end_char=1296
+2	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	4	advmod	_	start_char=1297|end_char=1304
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1305|end_char=1307
+4	спрашивал	спрашивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1308|end_char=1317
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1317|end_char=1318
+6	на	на	ADP	_	_	7	case	_	start_char=1319|end_char=1321
+7	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obl	_	start_char=1322|end_char=1325
+8	походило	походить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	start_char=1326|end_char=1334
+9	пребывание	пребывание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	start_char=1335|end_char=1345
+10	там	там	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=1346|end_char=1349
+11	.	.	PUNCT	_	_	4	punct	_	start_char=1349|end_char=1350
+
+# text = С одной стороны, мне кажется, я могу об этом догадываться, с другой, я знаю, что переход мог быть нелегким.
+# sent_id = 19
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	С	с	ADP	_	_	3	case	_	start_char=1351|end_char=1352
+2	одной	один	NUM	_	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card|Number=Sing	3	nummod	_	start_char=1353|end_char=1358
+3	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	parataxis	_	start_char=1359|end_char=1366
+4	,	,	PUNCT	_	_	3	punct	_	start_char=1366|end_char=1367
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	start_char=1368|end_char=1371
+6	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	parataxis	_	start_char=1372|end_char=1379
+7	,	,	PUNCT	_	_	6	punct	_	start_char=1379|end_char=1380
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=1381|end_char=1382
+9	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1383|end_char=1387
+10	об	об	ADP	_	_	11	case	_	start_char=1388|end_char=1390
+11	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	12	obl	_	start_char=1391|end_char=1395
+12	догадываться	догадываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=1396|end_char=1408
+13	,	,	PUNCT	_	_	15	punct	_	start_char=1408|end_char=1409
+14	с	с	ADP	_	_	15	case	_	start_char=1410|end_char=1411
+15	другой	другой	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	12	obl	_	start_char=1412|end_char=1418
+16	,	,	PUNCT	_	_	18	punct	_	start_char=1418|end_char=1419
+17	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	start_char=1420|end_char=1421
+18	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	start_char=1422|end_char=1426
+19	,	,	PUNCT	_	_	22	punct	_	start_char=1426|end_char=1427
+20	что	что	SCONJ	_	_	22	mark	_	start_char=1428|end_char=1431
+21	переход	переход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	start_char=1432|end_char=1439
+22	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	ccomp	_	start_char=1440|end_char=1443
+23	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	cop	_	start_char=1444|end_char=1448
+24	нелегким	нелегкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	xcomp	_	start_char=1449|end_char=1457
+25	.	.	PUNCT	_	_	9	punct	_	start_char=1457|end_char=1458
+
+# text = Когда я запустил вирус в Доктора Муна, чотбы переключить контроль на себя, наверняка в виртуальном восприятии прокатилась волна сбоев, я даже полагаю, что все произошедшее, занявшее в реальности лишь несколько минут, могло превратиться в нечто протяженное и фантастическое, на реверсе, в ложной памяти, что возникает за мгновение, а может показаться годами.
+# sent_id = 20
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Когда	когда	SCONJ	_	_	3	mark	_	start_char=1459|end_char=1464
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=1465|end_char=1466
+3	запустил	запустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	start_char=1467|end_char=1475
+4	вирус	вирус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	start_char=1476|end_char=1481
+5	в	в	ADP	_	_	6	case	_	start_char=1482|end_char=1483
+6	Доктора	доктор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	start_char=1484|end_char=1491
+7	Муна	Муна	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	6	nmod	_	start_char=1492|end_char=1496
+8	,	,	PUNCT	_	_	3	punct	_	start_char=1496|end_char=1497
+9	чотбы	чотба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=1498|end_char=1503
+10	переключить	переключить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	acl	_	start_char=1504|end_char=1515
+11	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	start_char=1516|end_char=1524
+12	на	на	ADP	_	_	13	case	_	start_char=1525|end_char=1527
+13	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	obl	_	start_char=1528|end_char=1532
+14	,	,	PUNCT	_	_	19	punct	_	start_char=1532|end_char=1533
+15	наверняка	наверняка	ADV	_	Degree=Pos	19	advmod	_	start_char=1534|end_char=1543
+16	в	в	ADP	_	_	18	case	_	start_char=1544|end_char=1545
+17	виртуальном	виртуальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	start_char=1546|end_char=1557
+18	восприятии	восприятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	start_char=1558|end_char=1568
+19	прокатилась	прокатиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	start_char=1569|end_char=1580
+20	волна	волна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	start_char=1581|end_char=1586
+21	сбоев	сбой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	start_char=1587|end_char=1592
+22	,	,	PUNCT	_	_	25	punct	_	start_char=1592|end_char=1593
+23	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	start_char=1594|end_char=1595
+24	даже	даже	PART	_	_	25	advmod	_	start_char=1596|end_char=1600
+25	полагаю	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	start_char=1601|end_char=1608
+26	,	,	PUNCT	_	_	38	punct	_	start_char=1608|end_char=1609
+27	что	что	SCONJ	_	_	38	mark	_	start_char=1610|end_char=1613
+28	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	29	det	_	start_char=1614|end_char=1617
+29	произошедшее	произойти	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	38	nsubj	_	start_char=1618|end_char=1630
+30	,	,	PUNCT	_	_	31	punct	_	start_char=1630|end_char=1631
+31	занявшее	занять	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	29	acl	_	start_char=1632|end_char=1640
+32	в	в	ADP	_	_	33	case	_	start_char=1641|end_char=1642
+33	реальности	реальность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	31	obl	_	start_char=1643|end_char=1653
+34	лишь	лишь	PART	_	_	35	advmod	_	start_char=1654|end_char=1658
+35	несколько	несколько	NUM	_	Case=Acc|NumForm=Word|NumType=Card	36	nummod:gov	_	start_char=1659|end_char=1668
+36	минут	минута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	31	obl	_	start_char=1669|end_char=1674
+37	,	,	PUNCT	_	_	31	punct	_	start_char=1674|end_char=1675
+38	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	ccomp	_	start_char=1676|end_char=1681
+39	превратиться	превратиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	38	xcomp	_	start_char=1682|end_char=1694
+40	в	в	ADP	_	_	41	case	_	start_char=1695|end_char=1696
+41	нечто	нечто	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	39	obl	_	start_char=1697|end_char=1702
+42	протяженное	протяженный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	41	amod	_	start_char=1703|end_char=1714
+43	и	и	CCONJ	_	_	44	cc	_	start_char=1715|end_char=1716
+44	фантастическое	фантастический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	42	conj	_	start_char=1717|end_char=1731
+45	,	,	PUNCT	_	_	47	punct	_	start_char=1731|end_char=1732
+46	на	на	ADP	_	_	47	case	_	start_char=1733|end_char=1735
+47	реверсе	реверс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	41	conj	_	start_char=1736|end_char=1743
+48	,	,	PUNCT	_	_	51	punct	_	start_char=1743|end_char=1744
+49	в	в	ADP	_	_	51	case	_	start_char=1745|end_char=1746
+50	ложной	ложный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	51	amod	_	start_char=1747|end_char=1753
+51	памяти	память	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	41	conj	_	start_char=1754|end_char=1760
+52	,	,	PUNCT	_	_	54	punct	_	start_char=1760|end_char=1761
+53	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	54	nsubj	_	start_char=1762|end_char=1765
+54	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	51	acl:relcl	_	start_char=1766|end_char=1775
+55	за	за	ADP	_	_	56	case	_	start_char=1776|end_char=1778
+56	мгновение	мгновение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	54	obl	_	start_char=1779|end_char=1788
+57	,	,	PUNCT	_	_	59	punct	_	start_char=1788|end_char=1789
+58	а	а	CCONJ	_	_	59	cc	_	start_char=1790|end_char=1791
+59	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	54	conj	_	start_char=1792|end_char=1797
+60	показаться	показаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	59	xcomp	_	start_char=1798|end_char=1808
+61	годами	год	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	60	iobj	_	start_char=1809|end_char=1815
+62	.	.	PUNCT	_	_	38	punct	_	start_char=1815|end_char=1816
+
+# text = Не знаю, как могла все это воспринять ты или девочка-компьютер.
+# sent_id = 21
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=1817|end_char=1819
+2	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1820|end_char=1824
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1824|end_char=1825
+4	как	как	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	start_char=1826|end_char=1829
+5	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	start_char=1830|end_char=1835
+6	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	start_char=1836|end_char=1839
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obj	_	start_char=1840|end_char=1843
+8	воспринять	воспринять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=1844|end_char=1854
+9	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=1855|end_char=1857
+10	или	или	CCONJ	_	_	11	cc	_	start_char=1858|end_char=1861
+11	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	start_char=1862|end_char=1869
+12	-	-	PUNCT	_	_	13	punct	_	start_char=1869|end_char=1870
+13	компьютер	компьютер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	start_char=1870|end_char=1879
+14	.	.	PUNCT	_	_	2	punct	_	start_char=1879|end_char=1880
+
+# text = Наверное, она была дорога тебе?
+# sent_id = 22
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Наверное	наверное	ADV	_	Degree=Pos	5	parataxis	_	start_char=1881|end_char=1889
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1889|end_char=1890
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1891|end_char=1894
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=1895|end_char=1899
+5	дорога	дорога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1900|end_char=1906
+6	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	start_char=1907|end_char=1911
+7	?	?	PUNCT	_	_	5	punct	_	start_char=1911|end_char=1912
+
+# text = Вы подружились?
+# sent_id = 23
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	start_char=1913|end_char=1915
+2	подружились	подружиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1916|end_char=1927
+3	?	?	PUNCT	_	_	2	punct	_	start_char=1927|end_char=1928
+
+# text = Чтобы она помогла мне обойти ее собственные охранные системы, я запускал обманки, копировал файлы, выдавая их за нечто давно существовавшее и ей знакомое.
+# sent_id = 24
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	3	mark	_	start_char=1929|end_char=1934
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1935|end_char=1938
+3	помогла	помочь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	start_char=1939|end_char=1946
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=1947|end_char=1950
+5	обойти	обойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=1951|end_char=1957
+6	ее	ее	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=1958|end_char=1960
+7	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	start_char=1961|end_char=1972
+8	охранные	охранный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	start_char=1973|end_char=1981
+9	системы	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	start_char=1982|end_char=1989
+10	,	,	PUNCT	_	_	3	punct	_	start_char=1989|end_char=1990
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=1991|end_char=1992
+12	запускал	запускать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1993|end_char=2001
+13	обманки	обманка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	start_char=2002|end_char=2009
+14	,	,	PUNCT	_	_	15	punct	_	start_char=2009|end_char=2010
+15	копировал	копировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	start_char=2011|end_char=2020
+16	файлы	файл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	start_char=2021|end_char=2026
+17	,	,	PUNCT	_	_	18	punct	_	start_char=2026|end_char=2027
+18	выдавая	выдавать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	15	advcl	_	start_char=2028|end_char=2035
+19	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	obj	_	start_char=2036|end_char=2038
+20	за	за	ADP	_	_	21	case	_	start_char=2039|end_char=2041
+21	нечто	нечто	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	18	obl	_	start_char=2042|end_char=2047
+22	давно	давно	ADV	_	Degree=Pos	23	advmod	_	start_char=2048|end_char=2053
+23	существовавшее	существовать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	21	acl	_	start_char=2054|end_char=2068
+24	и	и	CCONJ	_	_	26	cc	_	start_char=2069|end_char=2070
+25	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	iobj	_	start_char=2071|end_char=2073
+26	знакомое	знакомый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	conj	_	start_char=2074|end_char=2082
+27	.	.	PUNCT	_	_	12	punct	_	start_char=2082|end_char=2083
+
+# text = Например, она наверняка знала мое вымышленное имя «задолго» до того, как была извлечена из памяти Библиотеки, я немножко рассказывал ей сказки о себе, как любому ребенку в колыбели.
+# sent_id = 25
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Например	например	ADV	_	Degree=Pos	5	parataxis	_	start_char=2084|end_char=2092
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2092|end_char=2093
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=2094|end_char=2097
+4	наверняка	наверняка	ADV	_	Degree=Pos	5	advmod	_	start_char=2098|end_char=2107
+5	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2108|end_char=2113
+6	мое	мой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	start_char=2114|end_char=2117
+7	вымышленное	вымышленный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=2118|end_char=2129
+8	имя	имя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	start_char=2130|end_char=2133
+9	«	«	PUNCT	_	_	10	punct	_	start_char=2134|end_char=2135
+10	задолго	задолго	ADV	_	Degree=Pos	8	appos	_	start_char=2135|end_char=2142
+11	»	»	PUNCT	_	_	10	punct	_	start_char=2142|end_char=2143
+12	до	до	ADP	_	_	13	case	_	start_char=2144|end_char=2146
+13	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=2147|end_char=2151
+14	,	,	PUNCT	_	_	17	punct	_	start_char=2151|end_char=2152
+15	как	как	SCONJ	_	_	17	mark	_	start_char=2153|end_char=2156
+16	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	aux:pass	_	start_char=2157|end_char=2161
+17	извлечена	извлечить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	acl	_	start_char=2162|end_char=2171
+18	из	из	ADP	_	_	19	case	_	start_char=2172|end_char=2174
+19	памяти	память	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	start_char=2175|end_char=2181
+20	Библиотеки	библиотека	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	start_char=2182|end_char=2192
+21	,	,	PUNCT	_	_	24	punct	_	start_char=2192|end_char=2193
+22	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	start_char=2194|end_char=2195
+23	немножко	немножко	ADV	_	Degree=Pos	24	advmod	_	start_char=2196|end_char=2204
+24	рассказывал	рассказывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	start_char=2205|end_char=2216
+25	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	iobj	_	start_char=2217|end_char=2219
+26	сказки	сказка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	obj	_	start_char=2220|end_char=2226
+27	о	о	ADP	_	_	28	case	_	start_char=2227|end_char=2228
+28	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	24	obl	_	start_char=2229|end_char=2233
+29	,	,	PUNCT	_	_	32	punct	_	start_char=2233|end_char=2234
+30	как	как	SCONJ	_	_	32	case	_	start_char=2235|end_char=2238
+31	любому	любой	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	32	det	_	start_char=2239|end_char=2245
+32	ребенку	ребенок	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	24	obl	_	start_char=2246|end_char=2253
+33	в	в	ADP	_	_	34	case	_	start_char=2254|end_char=2255
+34	колыбели	колыбель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	32	nmod	_	start_char=2256|end_char=2264
+35	.	.	PUNCT	_	_	5	punct	_	start_char=2264|end_char=2265
+
+# text = Извини, никогда не мог удержаться от капли тщеславия.
+# sent_id = 26
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Извини	извинить	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	parataxis	_	start_char=2266|end_char=2272
+2	,	,	PUNCT	_	_	1	punct	_	start_char=2272|end_char=2273
+3	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	5	advmod	_	start_char=2274|end_char=2281
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=2282|end_char=2284
+5	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2285|end_char=2288
+6	удержаться	удержаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	_	start_char=2289|end_char=2299
+7	от	от	ADP	_	_	8	case	_	start_char=2300|end_char=2302
+8	капли	капля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=2303|end_char=2308
+9	тщеславия	тщеславия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	start_char=2309|end_char=2318
+10	.	.	PUNCT	_	_	5	punct	_	start_char=2318|end_char=2319
+
+# text = Она должна была доверять происходящему.
+# sent_id = 27
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=2320|end_char=2323
+2	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	start_char=2324|end_char=2330
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	start_char=2331|end_char=2335
+4	доверять	доверять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=2336|end_char=2344
+5	происходящему	происходящин	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	start_char=2345|end_char=2358
+6	.	.	PUNCT	_	_	2	punct	_	start_char=2358|end_char=2359
+
+# text = И не доверять Доктору Муну, с его привычным правильным занудством...
+# sent_id = 28
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	И	и	CCONJ	_	_	3	cc	_	start_char=2360|end_char=2361
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2362|end_char=2364
+3	доверять	доверять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2365|end_char=2373
+4	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	start_char=2374|end_char=2381
+5	Муну	Муна	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	3	iobj	_	start_char=2382|end_char=2386
+6	,	,	PUNCT	_	_	11	punct	_	start_char=2386|end_char=2387
+7	с	с	ADP	_	_	11	case	_	start_char=2388|end_char=2389
+8	его	его	DET	_	Poss=Yes|PronType=Prs	11	det	_	start_char=2390|end_char=2393
+9	привычным	привычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	start_char=2394|end_char=2403
+10	правильным	правильный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	start_char=2404|end_char=2414
+11	занудством	занудство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	start_char=2415|end_char=2425
+12	...	...	PUNCT	_	_	3	punct	_	start_char=2425|end_char=2428
+
+# text = А к чему это я заговорил о себе?
+# sent_id = 29
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	А	а	CCONJ	_	_	6	cc	_	start_char=2429|end_char=2430
+2	к	к	ADP	_	_	3	case	_	start_char=2431|end_char=2432
+3	чему	что	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Int	6	obl	_	start_char=2433|end_char=2437
+4	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	start_char=2438|end_char=2441
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=2442|end_char=2443
+6	заговорил	заговорить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2444|end_char=2453
+7	о	о	ADP	_	_	8	case	_	start_char=2454|end_char=2455
+8	себе	себя	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	6	obl	_	start_char=2456|end_char=2460
+9	?	?	PUNCT	_	_	6	punct	_	start_char=2460|end_char=2461
+
+# text = Ах да, капля тщеславия, никогда не мог не похвастаться.
+# sent_id = 30
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Ах	ах	INTJ	_	_	9	discourse	_	start_char=2462|end_char=2464
+2	да	да	PART	_	_	9	parataxis	_	start_char=2465|end_char=2467
+3	,	,	PUNCT	_	_	4	punct	_	start_char=2467|end_char=2468
+4	капля	капля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	start_char=2469|end_char=2474
+5	тщеславия	тщеславия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	start_char=2475|end_char=2484
+6	,	,	PUNCT	_	_	4	punct	_	start_char=2484|end_char=2485
+7	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	9	advmod	_	start_char=2486|end_char=2493
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=2494|end_char=2496
+9	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2497|end_char=2500
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	start_char=2501|end_char=2503
+11	похвастаться	похвастаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	xcomp	_	start_char=2504|end_char=2516
+12	.	.	PUNCT	_	_	9	punct	_	start_char=2516|end_char=2517
+
+# text = Интересно, если девочка что-то помнит, она все еще считает меня сказочным героем?
+# sent_id = 31
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	start_char=2518|end_char=2527
+2	,	,	PUNCT	_	_	6	punct	_	start_char=2527|end_char=2528
+3	если	если	SCONJ	_	_	6	mark	_	start_char=2529|end_char=2533
+4	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	start_char=2534|end_char=2541
+5	что-то	что-то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	obj	_	start_char=2542|end_char=2548
+6	помнит	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=2549|end_char=2555
+7	,	,	PUNCT	_	_	6	punct	_	start_char=2555|end_char=2556
+8	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=2557|end_char=2560
+9	все	всё	ADV	_	Degree=Pos|PronType=Tot	11	advmod	_	start_char=2561|end_char=2564
+10	еще	еще	ADV	_	Degree=Pos	9	fixed	_	start_char=2565|end_char=2568
+11	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	start_char=2569|end_char=2576
+12	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=2577|end_char=2581
+13	сказочным	сказочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	start_char=2582|end_char=2591
+14	героем	герой	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	xcomp	_	start_char=2592|end_char=2598
+15	?	?	PUNCT	_	_	1	punct	_	start_char=2598|end_char=2599
+
+# text = Ривер оставалась напряженной.
+# sent_id = 32
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	2	nsubj	_	start_char=2601|end_char=2606
+2	оставалась	оставаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2607|end_char=2617
+3	напряженной	напряженный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	xcomp	_	start_char=2618|end_char=2629
+4	.	.	PUNCT	_	_	2	punct	_	start_char=2629|end_char=2630
+
+# text = – Что-то такое было?
+# sent_id = 33
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	4	punct	_	start_char=2631|end_char=2632
+2	Что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	nsubj	_	start_char=2633|end_char=2639
+3	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	start_char=2640|end_char=2645
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2646|end_char=2650
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2650|end_char=2651
+
+# text = Может быть, кошмары?
+# sent_id = 34
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=2652|end_char=2657
+2	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	start_char=2658|end_char=2662
+3	,	,	PUNCT	_	_	1	punct	_	start_char=2662|end_char=2663
+4	кошмары	кошмар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=2664|end_char=2671
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2671|end_char=2672
+
+# text = Но все прошло.
+# sent_id = 35
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Но	но	CCONJ	_	_	3	cc	_	start_char=2673|end_char=2675
+2	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	nsubj	_	start_char=2676|end_char=2679
+3	прошло	пройти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=2680|end_char=2686
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2686|end_char=2687
+
+# text = Ты скучаешь? – внезапно догадался я.
+# sent_id = 36
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=2688|end_char=2690
+2	скучаешь	скучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2691|end_char=2699
+3	?	?	PUNCT	_	_	2	punct	_	start_char=2699|end_char=2700
+4	–	–	PUNCT	_	_	6	punct	_	start_char=2701|end_char=2702
+5	внезапно	внезапно	ADV	_	Degree=Pos	6	advmod	_	start_char=2703|end_char=2711
+6	догадался	догадаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=2712|end_char=2721
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=2722|end_char=2723
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2723|end_char=2724
+
+# text = – Если хочешь, мы можем проведать девочку, чтобы убедиться, что у нее все хорошо.
+# sent_id = 37
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	6	punct	_	start_char=2725|end_char=2726
+2	Если	если	SCONJ	_	_	3	mark	_	start_char=2727|end_char=2731
+3	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	start_char=2732|end_char=2738
+4	,	,	PUNCT	_	_	3	punct	_	start_char=2738|end_char=2739
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=2740|end_char=2742
+6	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2743|end_char=2748
+7	проведать	проведать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=2749|end_char=2758
+8	девочку	девочка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	start_char=2759|end_char=2766
+9	,	,	PUNCT	_	_	11	punct	_	start_char=2766|end_char=2767
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	start_char=2768|end_char=2773
+11	убедиться	убедиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	advcl	_	start_char=2774|end_char=2783
+12	,	,	PUNCT	_	_	17	punct	_	start_char=2783|end_char=2784
+13	что	что	SCONJ	_	_	17	mark	_	start_char=2785|end_char=2788
+14	у	у	ADP	_	_	15	case	_	start_char=2789|end_char=2790
+15	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	start_char=2791|end_char=2794
+16	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	17	nsubj	_	start_char=2795|end_char=2798
+17	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	ccomp	_	start_char=2799|end_char=2805
+18	.	.	PUNCT	_	_	6	punct	_	start_char=2805|end_char=2806
+
+# text = А если тебе покажется, что недостаточно хорошо, можем даже ее похитить и забрать к себе.
+# sent_id = 38
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	А	а	CCONJ	_	_	10	cc	_	start_char=2807|end_char=2808
+2	если	если	SCONJ	_	_	4	mark	_	start_char=2809|end_char=2813
+3	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	start_char=2814|end_char=2818
+4	покажется	показаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	10	advcl	_	start_char=2819|end_char=2828
+5	,	,	PUNCT	_	_	8	punct	_	start_char=2828|end_char=2829
+6	что	что	SCONJ	_	_	8	mark	_	start_char=2830|end_char=2833
+7	недостаточно	недостаточно	ADV	_	Degree=Pos	8	advmod	_	start_char=2834|end_char=2846
+8	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	ccomp	_	start_char=2847|end_char=2853
+9	,	,	PUNCT	_	_	4	punct	_	start_char=2853|end_char=2854
+10	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2855|end_char=2860
+11	даже	даже	PART	_	_	12	advmod	_	start_char=2861|end_char=2865
+12	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=2866|end_char=2868
+13	похитить	похитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	start_char=2869|end_char=2877
+14	и	и	CCONJ	_	_	15	cc	_	start_char=2878|end_char=2879
+15	забрать	забрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	conj	_	start_char=2880|end_char=2887
+16	к	к	ADP	_	_	17	case	_	start_char=2888|end_char=2889
+17	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	15	obl	_	start_char=2890|end_char=2894
+18	.	.	PUNCT	_	_	10	punct	_	start_char=2894|end_char=2895
+
+# text = – Я засмеялся.
+# sent_id = 39
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	3	punct	_	start_char=2896|end_char=2897
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2898|end_char=2899
+3	засмеялся	засмеяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2900|end_char=2909
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2909|end_char=2910
+
+# text = – Сделаем ее еще одной маленькой таймледи.
+# sent_id = 40
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	2	punct	_	start_char=2911|end_char=2912
+2	Сделаем	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=2913|end_char=2920
+3	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=2921|end_char=2923
+4	еще	еще	ADV	_	Degree=Pos	5	advmod	_	start_char=2924|end_char=2927
+5	одной	один	DET	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	start_char=2928|end_char=2933
+6	маленькой	маленький	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2934|end_char=2943
+7	таймледи	таймлед	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	start_char=2944|end_char=2952
+8	.	.	PUNCT	_	_	2	punct	_	start_char=2952|end_char=2953
+
+# text = Она даже может стать хранительницей новой Матрицы, только живая.
+# sent_id = 41
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2954|end_char=2957
+2	даже	даже	PART	_	_	3	advmod	_	start_char=2958|end_char=2962
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2963|end_char=2968
+4	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	_	start_char=2969|end_char=2974
+5	хранительницей	хранительница	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	4	xcomp	_	start_char=2975|end_char=2989
+6	новой	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	start_char=2990|end_char=2995
+7	Матрицы	Матрица	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	5	nmod	_	start_char=2996|end_char=3003
+8	,	,	PUNCT	_	_	10	punct	_	start_char=3003|end_char=3004
+9	только	только	PART	_	_	10	advmod	_	start_char=3005|end_char=3011
+10	живая	живой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	start_char=3012|end_char=3017
+11	.	.	PUNCT	_	_	3	punct	_	start_char=3017|end_char=3018
+
+# text = Если захочет, конечно.
+# sent_id = 42
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Если	если	SCONJ	_	_	2	mark	_	start_char=3019|end_char=3023
+2	захочет	захотеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=3024|end_char=3031
+3	,	,	PUNCT	_	_	2	punct	_	start_char=3031|end_char=3032
+4	конечно	конечно	ADV	_	Degree=Pos	0	root	_	start_char=3033|end_char=3040
+5	.	.	PUNCT	_	_	4	punct	_	start_char=3040|end_char=3041
+
+# text = Не исключено, что теперь это последнее, что ей нужно, у нее есть новый шанс.
+# sent_id = 43
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	start_char=3042|end_char=3044
+2	исключено	исключить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=3045|end_char=3054
+3	,	,	PUNCT	_	_	7	punct	_	start_char=3054|end_char=3055
+4	что	что	SCONJ	_	_	7	mark	_	start_char=3056|end_char=3059
+5	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=3060|end_char=3066
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	start_char=3067|end_char=3070
+7	последнее	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	ccomp	_	start_char=3071|end_char=3080
+8	,	,	PUNCT	_	_	11	punct	_	start_char=3080|end_char=3081
+9	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	11	nsubj	_	start_char=3082|end_char=3085
+10	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=3086|end_char=3088
+11	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	acl:relcl	_	start_char=3089|end_char=3094
+12	,	,	PUNCT	_	_	14	punct	_	start_char=3094|end_char=3095
+13	у	у	ADP	_	_	14	case	_	start_char=3096|end_char=3097
+14	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	conj	_	start_char=3098|end_char=3101
+15	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	start_char=3102|end_char=3106
+16	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	start_char=3107|end_char=3112
+17	шанс	шанс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	start_char=3113|end_char=3117
+18	.	.	PUNCT	_	_	2	punct	_	start_char=3117|end_char=3118
+
+# text = Целая бездна новых шансов.
+# sent_id = 44
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Целая	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	start_char=3119|end_char=3124
+2	бездна	бездна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=3125|end_char=3131
+3	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	start_char=3132|end_char=3137
+4	шансов	шанс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	start_char=3138|end_char=3144
+5	.	.	PUNCT	_	_	2	punct	_	start_char=3144|end_char=3145
+
+# text = Ривер посмотрела на меня косо, но не удержавшись от улыбки.
+# sent_id = 45
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Ривер	ривер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=3146|end_char=3151
+2	посмотрела	посмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3152|end_char=3162
+3	на	на	ADP	_	_	4	case	_	start_char=3163|end_char=3165
+4	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=3166|end_char=3170
+5	косо	косо	ADV	_	Degree=Pos	2	advmod	_	start_char=3171|end_char=3175
+6	,	,	PUNCT	_	_	9	punct	_	start_char=3175|end_char=3176
+7	но	но	CCONJ	_	_	9	cc	_	start_char=3177|end_char=3179
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	start_char=3180|end_char=3182
+9	удержавшись	удержаться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	2	advcl	_	start_char=3183|end_char=3194
+10	от	от	ADP	_	_	11	case	_	start_char=3195|end_char=3197
+11	улыбки	улыбка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	start_char=3198|end_char=3204
+12	.	.	PUNCT	_	_	2	punct	_	start_char=3204|end_char=3205
+
+# text = – Может быть, – проговорила она загадочно.
+# sent_id = 46
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3206|end_char=3207
+2	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=3208|end_char=3213
+3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=3214|end_char=3218
+4	,	,	PUNCT	_	_	2	punct	_	start_char=3218|end_char=3219
+5	–	–	PUNCT	_	_	6	punct	_	start_char=3220|end_char=3221
+6	проговорила	проговорить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3222|end_char=3233
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3234|end_char=3237
+8	загадочно	загадочно	ADV	_	Degree=Pos	6	advmod	_	start_char=3238|end_char=3247
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3247|end_char=3248
+
+# text = И посмотрела куда-то в пространство.
+# sent_id = 47
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	И	и	CCONJ	_	_	2	cc	_	start_char=3249|end_char=3250
+2	посмотрела	посмотреть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3251|end_char=3261
+3	куда-то	куда-то	ADV	_	Degree=Pos|PronType=Ind	2	advmod	_	start_char=3262|end_char=3269
+4	в	в	ADP	_	_	5	case	_	start_char=3270|end_char=3271
+5	пространство	пространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	start_char=3272|end_char=3284
+6	.	.	PUNCT	_	_	2	punct	_	start_char=3284|end_char=3285
+
+# text = – В конце концов, ты же знаешь, что это были только сны.
+# sent_id = 48
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	8	punct	_	start_char=3287|end_char=3288
+2	В	в	ADP	_	_	8	parataxis	_	start_char=3289|end_char=3290
+3	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	fixed	_	start_char=3291|end_char=3296
+4	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	fixed	_	start_char=3297|end_char=3303
+5	,	,	PUNCT	_	_	2	punct	_	start_char=3303|end_char=3304
+6	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=3305|end_char=3307
+7	же	же	PART	_	_	6	advmod	_	start_char=3308|end_char=3310
+8	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3311|end_char=3317
+9	,	,	PUNCT	_	_	14	punct	_	start_char=3317|end_char=3318
+10	что	что	SCONJ	_	_	14	mark	_	start_char=3319|end_char=3322
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	start_char=3323|end_char=3326
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	start_char=3327|end_char=3331
+13	только	только	PART	_	_	14	advmod	_	start_char=3332|end_char=3338
+14	сны	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	ccomp	_	start_char=3339|end_char=3342
+15	.	.	PUNCT	_	_	8	punct	_	start_char=3342|end_char=3343
+
+# text = – Конечно, – отозвалась она как-то нервно.
+# sent_id = 49
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	2	punct	_	start_char=3344|end_char=3345
+2	Конечно	конечно	ADV	_	Degree=Pos	0	root	_	start_char=3346|end_char=3353
+3	,	,	PUNCT	_	_	5	punct	_	start_char=3353|end_char=3354
+4	–	–	PUNCT	_	_	5	punct	_	start_char=3355|end_char=3356
+5	отозвалась	отозваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=3357|end_char=3367
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3368|end_char=3371
+7	как-то	как-то	ADV	_	Degree=Pos|PronType=Ind	8	advmod	_	start_char=3372|end_char=3378
+8	нервно	нервно	ADV	_	Degree=Pos	5	advmod	_	start_char=3379|end_char=3385
+9	.	.	PUNCT	_	_	2	punct	_	start_char=3385|end_char=3386
+
+# text = – Только сны…
+# sent_id = 50
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	3	punct	_	start_char=3387|end_char=3388
+2	Только	только	PART	_	_	3	advmod	_	start_char=3389|end_char=3395
+3	сны	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=3396|end_char=3399
+4	…	…	PUNCT	_	_	3	punct	_	start_char=3399|end_char=3400
+
+# text = Я пожал плечами и напустил на себя серьезный вид: – Как говорил Сократ: «Спорно уже то, сон это или явь, а поскольку мы спим и бодрствуем равное время, в нашей душе всегда происходит борьба: мнения каждого из двух состояний одинаково притязают на искренность, так что в течение равного времени мы то называем существующим одно, то – другое и упорствуем в обоих случаях одинаково».
+# sent_id = 51
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=3401|end_char=3402
+2	пожал	пожать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3403|end_char=3408
+3	плечами	плечо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	iobj	_	start_char=3409|end_char=3416
+4	и	и	CCONJ	_	_	5	cc	_	start_char=3417|end_char=3418
+5	напустил	напустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3419|end_char=3427
+6	на	на	ADP	_	_	7	case	_	start_char=3428|end_char=3430
+7	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	obl	_	start_char=3431|end_char=3435
+8	серьезный	серьезный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	start_char=3436|end_char=3445
+9	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	start_char=3446|end_char=3449
+10	:	:	PUNCT	_	_	13	punct	_	start_char=3449|end_char=3450
+11	–	–	PUNCT	_	_	13	punct	_	start_char=3452|end_char=3453
+12	Как	как	SCONJ	_	_	13	mark	_	start_char=3454|end_char=3457
+13	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	_	start_char=3458|end_char=3465
+14	Сократ	Сократ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	13	nsubj	_	start_char=3466|end_char=3472
+15	:	:	PUNCT	_	_	17	punct	_	start_char=3472|end_char=3473
+16	«	«	PUNCT	_	_	17	punct	_	start_char=3474|end_char=3475
+17	Спорно	спорный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	parataxis	_	start_char=3475|end_char=3481
+18	уже	уже	ADV	_	Degree=Pos	17	advmod	_	start_char=3482|end_char=3485
+19	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	nsubj	_	start_char=3486|end_char=3488
+20	,	,	PUNCT	_	_	21	punct	_	start_char=3488|end_char=3489
+21	сон	сон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	appos	_	start_char=3490|end_char=3493
+22	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	nsubj	_	start_char=3494|end_char=3497
+23	или	или	CCONJ	_	_	24	cc	_	start_char=3498|end_char=3501
+24	явь	явь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	start_char=3502|end_char=3505
+25	,	,	PUNCT	_	_	39	punct	_	start_char=3505|end_char=3506
+26	а	а	CCONJ	_	_	39	cc	_	start_char=3507|end_char=3508
+27	поскольку	поскольку	SCONJ	_	_	29	mark	_	start_char=3509|end_char=3518
+28	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	29	nsubj	_	start_char=3519|end_char=3521
+29	спим	спать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	39	advcl	_	start_char=3522|end_char=3526
+30	и	и	CCONJ	_	_	31	cc	_	start_char=3527|end_char=3528
+31	бодрствуем	бодрствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	29	conj	_	start_char=3529|end_char=3539
+32	равное	равный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	start_char=3540|end_char=3546
+33	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	obj	_	start_char=3547|end_char=3552
+34	,	,	PUNCT	_	_	29	punct	_	start_char=3552|end_char=3553
+35	в	в	ADP	_	_	37	case	_	start_char=3554|end_char=3555
+36	нашей	наш	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	37	det	_	start_char=3556|end_char=3561
+37	душе	душа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	39	obl	_	start_char=3562|end_char=3566
+38	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	39	advmod	_	start_char=3567|end_char=3573
+39	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	start_char=3574|end_char=3584
+40	борьба	борьба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	39	nsubj	_	start_char=3585|end_char=3591
+41	:	:	PUNCT	_	_	48	punct	_	start_char=3591|end_char=3592
+42	мнения	мнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	48	nsubj	_	start_char=3593|end_char=3599
+43	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	42	nmod	_	start_char=3600|end_char=3607
+44	из	из	ADP	_	_	46	case	_	start_char=3608|end_char=3610
+45	двух	два	NUM	_	Case=Gen|NumForm=Word|NumType=Card	46	nummod	_	start_char=3611|end_char=3615
+46	состояний	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	42	nmod	_	start_char=3616|end_char=3625
+47	одинаково	одинаково	ADV	_	Degree=Pos	48	advmod	_	start_char=3626|end_char=3635
+48	притязают	притязать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	parataxis	_	start_char=3636|end_char=3645
+49	на	на	ADP	_	_	50	case	_	start_char=3646|end_char=3648
+50	искренность	искренность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	48	obl	_	start_char=3649|end_char=3660
+51	,	,	PUNCT	_	_	60	punct	_	start_char=3660|end_char=3661
+52	так	так	ADV	_	Degree=Pos|PronType=Dem	60	mark	_	start_char=3662|end_char=3665
+53	что	что	SCONJ	_	_	52	fixed	_	start_char=3666|end_char=3669
+54	в	в	ADP	_	_	57	case	_	start_char=3670|end_char=3671
+55	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	54	fixed	_	start_char=3672|end_char=3679
+56	равного	равный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	57	amod	_	start_char=3680|end_char=3687
+57	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	60	obl	_	start_char=3688|end_char=3695
+58	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	60	nsubj	_	start_char=3696|end_char=3698
+59	то	то	PART	_	_	58	advmod	_	start_char=3699|end_char=3701
+60	называем	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	48	advcl	_	start_char=3702|end_char=3710
+61	существующим	существовать	VERB	_	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	60	xcomp	_	start_char=3711|end_char=3723
+62	одно	один	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	61	det	_	start_char=3724|end_char=3728
+63	,	,	PUNCT	_	_	66	punct	_	start_char=3728|end_char=3729
+64	то	то	SCONJ	_	_	66	mark	_	start_char=3730|end_char=3732
+65	–	–	PUNCT	_	_	66	punct	_	start_char=3733|end_char=3734
+66	другое	другой	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	60	conj	_	start_char=3735|end_char=3741
+67	и	и	CCONJ	_	_	68	cc	_	start_char=3742|end_char=3743
+68	упорствуем	упорствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	48	conj	_	start_char=3744|end_char=3754
+69	в	в	ADP	_	_	71	case	_	start_char=3755|end_char=3756
+70	обоих	оба	NUM	_	Case=Loc|Gender=Masc|NumForm=Word|NumType=Sets	71	nummod	_	start_char=3757|end_char=3762
+71	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	68	obl	_	start_char=3763|end_char=3770
+72	одинаково	одинаково	ADV	_	Degree=Pos	68	advmod	_	start_char=3771|end_char=3780
+73	»	»	PUNCT	_	_	48	punct	_	start_char=3780|end_char=3781
+74	.	.	PUNCT	_	_	2	punct	_	start_char=3781|end_char=3782
+
+# text = И как отвечал ему Теэтет?
+# sent_id = 52
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	И	и	CCONJ	_	_	3	cc	_	start_char=3783|end_char=3784
+2	как	как	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	start_char=3785|end_char=3788
+3	отвечал	отвечать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3789|end_char=3796
+4	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=3797|end_char=3800
+5	Теэтет	Теэтет	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	start_char=3801|end_char=3807
+6	?	?	PUNCT	_	_	3	punct	_	start_char=3807|end_char=3808
+
+# text = – «Именно так и происходит!»
+# sent_id = 53
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	6	punct	_	start_char=3809|end_char=3810
+2	«	«	PUNCT	_	_	6	punct	_	start_char=3811|end_char=3812
+3	Именно	именно	PART	_	_	4	advmod	_	start_char=3812|end_char=3818
+4	так	так	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	start_char=3819|end_char=3822
+5	и	и	PART	_	_	6	advmod	_	start_char=3823|end_char=3824
+6	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=3825|end_char=3835
+7	!	!	PUNCT	_	_	6	punct	_	start_char=3835|end_char=3836
+8	»	»	PUNCT	_	_	6	punct	_	start_char=3836|end_char=3837
+
+# text = Ривер засмеялась, придя к какому-то внутреннему решению или успокоившись, снова потянулась ко мне, и я ее обнял.
+# sent_id = 54
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	2	nsubj	_	start_char=3838|end_char=3843
+2	засмеялась	засмеяться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=3844|end_char=3854
+3	,	,	PUNCT	_	_	4	punct	_	start_char=3854|end_char=3855
+4	придя	прийти	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	13	advcl	_	start_char=3856|end_char=3861
+5	к	к	ADP	_	_	8	case	_	start_char=3862|end_char=3863
+6	какому-то	какой-то	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	8	det	_	start_char=3864|end_char=3873
+7	внутреннему	внутренний	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	start_char=3874|end_char=3885
+8	решению	решение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	obl	_	start_char=3886|end_char=3893
+9	или	или	CCONJ	_	_	10	cc	_	start_char=3894|end_char=3897
+10	успокоившись	успокоиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	4	conj	_	start_char=3898|end_char=3910
+11	,	,	PUNCT	_	_	4	punct	_	start_char=3910|end_char=3911
+12	снова	снова	ADV	_	Degree=Pos	13	advmod	_	start_char=3912|end_char=3917
+13	потянулась	потянуться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=3918|end_char=3928
+14	ко	ко	ADP	_	_	15	case	_	start_char=3929|end_char=3931
+15	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	obl	_	start_char=3932|end_char=3935
+16	,	,	PUNCT	_	_	20	punct	_	start_char=3935|end_char=3936
+17	и	и	CCONJ	_	_	20	cc	_	start_char=3937|end_char=3938
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	start_char=3939|end_char=3940
+19	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obj	_	start_char=3941|end_char=3943
+20	обнял	обнять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=3944|end_char=3949
+21	.	.	PUNCT	_	_	2	punct	_	start_char=3949|end_char=3950
+
+# text = Разве происходящее не могло показаться только сном?
+# sent_id = 55
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Разве	разве	PART	_	_	4	advmod	_	start_char=3951|end_char=3956
+2	происходящее	происходящие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	start_char=3957|end_char=3969
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=3970|end_char=3972
+4	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=3973|end_char=3978
+5	показаться	показаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	xcomp	_	start_char=3979|end_char=3989
+6	только	только	PART	_	_	7	advmod	_	start_char=3990|end_char=3996
+7	сном	сон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	xcomp	_	start_char=3997|end_char=4001
+8	?	?	PUNCT	_	_	4	punct	_	start_char=4001|end_char=4002
+
+# text = И разве оно в самом деле не происходило?
+# sent_id = 56
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	И	и	CCONJ	_	_	8	cc	_	start_char=4003|end_char=4004
+2	разве	разве	PART	_	_	8	advmod	_	start_char=4005|end_char=4010
+3	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=4011|end_char=4014
+4	в	в	ADP	_	_	6	case	_	start_char=4015|end_char=4016
+5	самом	самый	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Emp	6	det	_	start_char=4017|end_char=4022
+6	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	start_char=4023|end_char=4027
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	start_char=4028|end_char=4030
+8	происходило	происходить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=4031|end_char=4042
+9	?	?	PUNCT	_	_	8	punct	_	start_char=4042|end_char=4043
+
+# text = – Мы обязательно создадим новую Матрицу! – прошептала Ривер.
+# sent_id = 57
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	4	punct	_	start_char=4044|end_char=4045
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=4046|end_char=4048
+3	обязательно	обязательно	ADV	_	Degree=Pos	4	advmod	_	start_char=4049|end_char=4060
+4	создадим	создадать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=4061|end_char=4069
+5	новую	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	start_char=4070|end_char=4075
+6	Матрицу	матрица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=4076|end_char=4083
+7	!	!	PUNCT	_	_	4	punct	_	start_char=4083|end_char=4084
+8	–	–	PUNCT	_	_	9	punct	_	start_char=4085|end_char=4086
+9	прошептала	прошептать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=4087|end_char=4097
+10	Ривер	Ривер	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Com|Number=Sing	9	nsubj	_	start_char=4098|end_char=4103
+11	.	.	PUNCT	_	_	4	punct	_	start_char=4103|end_char=4104
+
+# text = – Именно так!.. – прошептал я в ответ, ловя ее теплое дыхание.
+# sent_id = 58
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	–	–	PUNCT	_	_	3	punct	_	start_char=4105|end_char=4106
+2	Именно	именно	PART	_	_	3	advmod	_	start_char=4107|end_char=4113
+3	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	start_char=4114|end_char=4117
+4	!..	!..	PUNCT	_	_	3	punct	_	start_char=4117|end_char=4120
+5	–	–	PUNCT	_	_	6	punct	_	start_char=4121|end_char=4122
+6	прошептал	прошептать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=4123|end_char=4132
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=4133|end_char=4134
+8	в	в	ADP	_	_	9	case	_	start_char=4135|end_char=4136
+9	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	start_char=4137|end_char=4142
+10	,	,	PUNCT	_	_	11	punct	_	start_char=4142|end_char=4143
+11	ловя	ловить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	start_char=4144|end_char=4148
+12	ее	ее	DET	_	Poss=Yes|PronType=Prs	14	det	_	start_char=4149|end_char=4151
+13	теплое	теплый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	start_char=4152|end_char=4158
+14	дыхание	дыхание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	start_char=4159|end_char=4166
+15	.	.	PUNCT	_	_	3	punct	_	start_char=4166|end_char=4167
+
+# text = И все, что происходило, уже никак нельзя было принять за сон…
+# sent_id = 59
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	И	и	CCONJ	_	_	9	cc	_	start_char=4168|end_char=4169
+2	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	9	nsubj	_	start_char=4170|end_char=4173
+3	,	,	PUNCT	_	_	5	punct	_	start_char=4173|end_char=4174
+4	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	start_char=4175|end_char=4178
+5	происходило	происходить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	start_char=4179|end_char=4190
+6	,	,	PUNCT	_	_	5	punct	_	start_char=4190|end_char=4191
+7	уже	уже	ADV	_	Degree=Pos	8	advmod	_	start_char=4192|end_char=4195
+8	никак	никак	ADV	_	Degree=Pos|PronType=Neg	9	advmod	_	start_char=4196|end_char=4201
+9	нельзя	нельзя	VERB	_	Polarity=Neg	0	root	_	start_char=4202|end_char=4208
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	start_char=4209|end_char=4213
+11	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	csubj	_	start_char=4214|end_char=4221
+12	за	за	ADP	_	_	13	case	_	start_char=4222|end_char=4224
+13	сон	сон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=4225|end_char=4228
+14	…	…	PUNCT	_	_	9	punct	_	start_char=4228|end_char=4229
+
+# text = И никак нельзя было принять за явь.
+# sent_id = 60
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	И	и	CCONJ	_	_	3	cc	_	start_char=4230|end_char=4231
+2	никак	никак	ADV	_	Degree=Pos|PronType=Neg	3	advmod	_	start_char=4232|end_char=4237
+3	нельзя	нельзя	VERB	_	_	0	root	_	start_char=4238|end_char=4244
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	start_char=4245|end_char=4249
+5	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	start_char=4250|end_char=4257
+6	за	за	ADP	_	_	7	case	_	start_char=4258|end_char=4260
+7	явь	явь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	start_char=4261|end_char=4264
+8	.	.	PUNCT	_	_	3	punct	_	start_char=4264|end_char=4265
+
+# text = Значит, это была именно она: «Credo quia absurdum»!.. 2013
+# sent_id = 61
+# metadata = Название: Credo quia absurdum ('Верую, ибо абсурдно'), автор: Гарольд Бранд, ссылка: https://ru.fanfiktion.net/s/5479a95400000a7f277949aa/1/Credo-quia-absurdum-quot-Veruyu-ibo-absurdno-quot
+1	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	start_char=4266|end_char=4272
+2	,	,	PUNCT	_	_	1	punct	_	start_char=4272|end_char=4273
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	start_char=4274|end_char=4277
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	start_char=4278|end_char=4282
+5	именно	именно	PART	_	_	6	advmod	_	start_char=4283|end_char=4289
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=4290|end_char=4293
+7	:	:	PUNCT	_	_	9	punct	_	start_char=4293|end_char=4294
+8	«	«	PUNCT	_	_	9	punct	_	start_char=4295|end_char=4296
+9	Credo	Credo	X	_	Foreign=Yes	6	parataxis	_	start_char=4296|end_char=4301
+10	quia	quia	X	_	Foreign=Yes	9	flat:foreign	_	start_char=4302|end_char=4306
+11	absurdum	absurdum	X	_	Foreign=Yes	9	flat:foreign	_	start_char=4307|end_char=4315
+12	»	»	PUNCT	_	_	9	punct	_	start_char=4315|end_char=4316
+13	!..	!..	PUNCT	_	_	9	punct	_	start_char=4316|end_char=4319
+14	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	9	list	_	start_char=4321|end_char=4325
+

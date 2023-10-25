@@ -1,0 +1,481 @@
+# text = - Я охотился за ним сотни лет! - патетически начал свою речь Доктор.
+# sent_id = 0
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	3	punct	_	start_char=0|end_char=1
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=2|end_char=3
+3	охотился	охотиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=4|end_char=12
+4	за	за	ADP	_	_	5	case	_	start_char=13|end_char=15
+5	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=16|end_char=19
+6	сотни	сотня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obl	_	start_char=20|end_char=25
+7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	start_char=26|end_char=29
+8	!	!	PUNCT	_	_	3	punct	_	start_char=29|end_char=30
+9	-	-	PUNCT	_	_	11	punct	_	start_char=31|end_char=32
+10	патетически	патетически	ADV	_	Degree=Pos	11	advmod	_	start_char=33|end_char=44
+11	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	start_char=45|end_char=50
+12	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	start_char=51|end_char=55
+13	речь	речь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	start_char=56|end_char=60
+14	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	start_char=61|end_char=67
+15	.	.	PUNCT	_	_	3	punct	_	start_char=67|end_char=68
+
+# text = - За кем? - попыталась вклиниться Пери, но ее не слышали.
+# sent_id = 1
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	3	punct	_	start_char=69|end_char=70
+2	За	за	ADP	_	_	3	case	_	start_char=71|end_char=73
+3	кем	кто	PRON	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Int	0	root	_	start_char=74|end_char=77
+4	?	?	PUNCT	_	_	3	punct	_	start_char=77|end_char=78
+5	-	-	PUNCT	_	_	6	punct	_	start_char=79|end_char=80
+6	попыталась	попытаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	parataxis	_	start_char=81|end_char=91
+7	вклиниться	вклиниться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	xcomp	_	start_char=92|end_char=102
+8	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	7	nsubj	_	start_char=103|end_char=107
+9	,	,	PUNCT	_	_	13	punct	_	start_char=107|end_char=108
+10	но	но	CCONJ	_	_	13	cc	_	start_char=109|end_char=111
+11	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=112|end_char=114
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=115|end_char=117
+13	слышали	слышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=118|end_char=125
+14	.	.	PUNCT	_	_	3	punct	_	start_char=125|end_char=126
+
+# text = - Еще в Академии я начал изучать его повадки!
+# sent_id = 2
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	6	punct	_	start_char=127|end_char=128
+2	Еще	еще	ADV	_	Degree=Pos	4	advmod	_	start_char=129|end_char=132
+3	в	в	ADP	_	_	4	case	_	start_char=133|end_char=134
+4	Академии	академия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=135|end_char=143
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=144|end_char=145
+6	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=146|end_char=151
+7	изучать	изучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=152|end_char=159
+8	его	его	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=160|end_char=163
+9	повадки	повадка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	start_char=164|end_char=171
+10	!	!	PUNCT	_	_	6	punct	_	start_char=171|end_char=172
+
+# text = - Вы вместе учились?
+# sent_id = 3
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	4	punct	_	start_char=173|end_char=174
+2	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	start_char=175|end_char=177
+3	вместе	вместе	ADV	_	Degree=Pos	4	advmod	_	start_char=178|end_char=184
+4	учились	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=185|end_char=192
+5	?	?	PUNCT	_	_	4	punct	_	start_char=192|end_char=193
+
+# text = И опять вопрос остался без внимания.
+# sent_id = 4
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	И	и	CCONJ	_	_	4	cc	_	start_char=194|end_char=195
+2	опять	опять	ADV	_	Degree=Pos	4	advmod	_	start_char=196|end_char=201
+3	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=202|end_char=208
+4	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=209|end_char=216
+5	без	без	ADP	_	_	6	case	_	start_char=217|end_char=220
+6	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	start_char=221|end_char=229
+7	.	.	PUNCT	_	_	4	punct	_	start_char=229|end_char=230
+
+# text = - Потом я на некоторое время выпустил его из вида, но тогда он сам находил меня и махал ускользающим хвостом у меня перед носом, как тореадор мулетой!
+# sent_id = 5
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	7	punct	_	start_char=231|end_char=232
+2	Потом	потом	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	start_char=233|end_char=238
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=239|end_char=240
+4	на	на	ADP	_	_	6	case	_	start_char=241|end_char=243
+5	некоторое	некоторый	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	start_char=244|end_char=253
+6	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	start_char=254|end_char=259
+7	выпустил	выпустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=260|end_char=268
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=269|end_char=272
+9	из	из	ADP	_	_	10	case	_	start_char=273|end_char=275
+10	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	start_char=276|end_char=280
+11	,	,	PUNCT	_	_	16	punct	_	start_char=280|end_char=281
+12	но	но	CCONJ	_	_	16	cc	_	start_char=282|end_char=284
+13	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	16	advmod	_	start_char=285|end_char=290
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=291|end_char=293
+15	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	14	acl	_	start_char=294|end_char=297
+16	находил	находить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=298|end_char=305
+17	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obj	_	start_char=306|end_char=310
+18	и	и	CCONJ	_	_	19	cc	_	start_char=311|end_char=312
+19	махал	махать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	start_char=313|end_char=318
+20	ускользающим	ускользать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	amod	_	start_char=319|end_char=331
+21	хвостом	хвост	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	iobj	_	start_char=332|end_char=339
+22	у	у	ADP	_	_	23	case	_	start_char=340|end_char=341
+23	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	19	obl	_	start_char=342|end_char=346
+24	перед	перед	ADP	_	_	25	case	_	start_char=347|end_char=352
+25	носом	нос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	obl	_	start_char=353|end_char=358
+26	,	,	PUNCT	_	_	28	punct	_	start_char=358|end_char=359
+27	как	как	SCONJ	_	_	28	case	_	start_char=360|end_char=363
+28	тореадор	тореадор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	obl	_	start_char=364|end_char=372
+29	мулетой	мулета	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	28	nmod	_	start_char=373|end_char=380
+30	!	!	PUNCT	_	_	7	punct	_	start_char=380|end_char=381
+
+# text = - А ты был бычком, получается.
+# sent_id = 6
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	5	punct	_	start_char=382|end_char=383
+2	А	а	CCONJ	_	_	5	cc	_	start_char=384|end_char=385
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=386|end_char=388
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	start_char=389|end_char=392
+5	бычком	бычка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	start_char=393|end_char=399
+6	,	,	PUNCT	_	_	7	punct	_	start_char=399|end_char=400
+7	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	start_char=401|end_char=411
+8	.	.	PUNCT	_	_	5	punct	_	start_char=411|end_char=412
+
+# text = По счастью, Доктор был слишком увлечен своей речью.
+# sent_id = 7
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	По	по	ADP	_	_	2	case	_	start_char=413|end_char=415
+2	счастью	счастье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	parataxis	_	start_char=416|end_char=423
+3	,	,	PUNCT	_	_	2	punct	_	start_char=423|end_char=424
+4	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	start_char=425|end_char=431
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	_	start_char=432|end_char=435
+6	слишком	слишком	ADV	_	Degree=Pos	7	advmod	_	start_char=436|end_char=443
+7	увлечен	увлечить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=444|end_char=451
+8	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	start_char=452|end_char=457
+9	речью	речь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	iobj	_	start_char=458|end_char=463
+10	.	.	PUNCT	_	_	7	punct	_	start_char=463|end_char=464
+
+# text = - Иногда наши дорожки пересекались плотнее, но все, что я в итоге видел - это его черную спину, удаляющуюся в его очередное тайное убежище.
+# sent_id = 8
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	5	punct	_	start_char=465|end_char=466
+2	Иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	5	advmod	_	start_char=467|end_char=473
+3	наши	наш	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	start_char=474|end_char=478
+4	дорожки	дорожка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	start_char=479|end_char=486
+5	пересекались	пересекаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=487|end_char=499
+6	плотнее	плотно	ADV	_	Degree=Cmp	5	advmod	_	start_char=500|end_char=507
+7	,	,	PUNCT	_	_	20	punct	_	start_char=507|end_char=508
+8	но	но	CCONJ	_	_	20	cc	_	start_char=509|end_char=511
+9	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	20	nsubj	_	start_char=512|end_char=515
+10	,	,	PUNCT	_	_	15	punct	_	start_char=515|end_char=516
+11	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	15	obj	_	start_char=517|end_char=520
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=521|end_char=522
+13	в	в	ADP	_	_	14	case	_	start_char=523|end_char=524
+14	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=525|end_char=530
+15	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	start_char=531|end_char=536
+16	-	-	PUNCT	_	_	15	punct	_	start_char=537|end_char=538
+17	это	это	PART	_	_	20	expl	_	start_char=539|end_char=542
+18	его	его	DET	_	Poss=Yes|PronType=Prs	20	det	_	start_char=543|end_char=546
+19	черную	черный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	start_char=547|end_char=553
+20	спину	спина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	conj	_	start_char=554|end_char=559
+21	,	,	PUNCT	_	_	22	punct	_	start_char=559|end_char=560
+22	удаляющуюся	удаляться	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	20	acl	_	start_char=561|end_char=572
+23	в	в	ADP	_	_	27	case	_	start_char=573|end_char=574
+24	его	его	DET	_	Poss=Yes|PronType=Prs	27	det	_	start_char=575|end_char=578
+25	очередное	очередной	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	start_char=579|end_char=588
+26	тайное	тайный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	start_char=589|end_char=595
+27	убежище	убежище	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obl	_	start_char=596|end_char=603
+28	.	.	PUNCT	_	_	5	punct	_	start_char=603|end_char=604
+
+# text = Мысль об этом не давала мне покоя ни днем, ни ночью.
+# sent_id = 9
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Мысль	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	start_char=605|end_char=610
+2	об	об	ADP	_	_	3	case	_	start_char=611|end_char=613
+3	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=614|end_char=618
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=619|end_char=621
+5	давала	давать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=622|end_char=628
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=629|end_char=632
+7	покоя	покой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obj	_	start_char=633|end_char=638
+8	ни	ни	CCONJ	_	Polarity=Neg	9	cc	_	start_char=639|end_char=641
+9	днем	день	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	start_char=642|end_char=646
+10	,	,	PUNCT	_	_	12	punct	_	start_char=646|end_char=647
+11	ни	ни	CCONJ	_	Polarity=Neg	12	cc	_	start_char=648|end_char=650
+12	ночью	ночь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	conj	_	start_char=651|end_char=656
+13	.	.	PUNCT	_	_	5	punct	_	start_char=656|end_char=657
+
+# text = Я должен был поймать его!
+# sent_id = 10
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=658|end_char=659
+2	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=660|end_char=666
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	aux	_	start_char=667|end_char=670
+4	поймать	поймать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	start_char=671|end_char=678
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=679|end_char=682
+6	!	!	PUNCT	_	_	2	punct	_	start_char=682|end_char=683
+
+# text = И отомстить за все издевательства!
+# sent_id = 11
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	И	и	CCONJ	_	_	2	cc	_	start_char=684|end_char=685
+2	отомстить	отомстить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=686|end_char=695
+3	за	за	ADP	_	_	5	case	_	start_char=696|end_char=698
+4	все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	5	det	_	start_char=699|end_char=702
+5	издевательства	издевательство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obl	_	start_char=703|end_char=717
+6	!	!	PUNCT	_	_	2	punct	_	start_char=717|end_char=718
+
+# text = - Мстить своим врагам?
+# sent_id = 12
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	2	punct	_	start_char=719|end_char=720
+2	Мстить	мстить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=721|end_char=727
+3	своим	свой	DET	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	start_char=728|end_char=733
+4	врагам	враг	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	start_char=734|end_char=740
+5	?	?	PUNCT	_	_	2	punct	_	start_char=740|end_char=741
+
+# text = Доктор, но ты сам говорил...
+# sent_id = 13
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	start_char=742|end_char=748
+2	,	,	PUNCT	_	_	1	punct	_	start_char=748|end_char=749
+3	но	но	CCONJ	_	_	6	cc	_	start_char=750|end_char=752
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=753|end_char=755
+5	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	4	acl	_	start_char=756|end_char=759
+6	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=760|end_char=767
+7	...	...	PUNCT	_	_	6	punct	_	start_char=767|end_char=770
+
+# text = - Я долго подбирал приманки и наживки, прежде чем понял, что лучшая приманка - это я!
+# sent_id = 14
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	4	punct	_	start_char=771|end_char=772
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=773|end_char=774
+3	долго	долго	ADV	_	Degree=Pos	4	advmod	_	start_char=775|end_char=780
+4	подбирал	подбирать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=781|end_char=789
+5	приманки	приманка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	start_char=790|end_char=798
+6	и	и	CCONJ	_	_	7	cc	_	start_char=799|end_char=800
+7	наживки	наживка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	conj	_	start_char=801|end_char=808
+8	,	,	PUNCT	_	_	11	punct	_	start_char=808|end_char=809
+9	прежде	прежде	ADV	_	Degree=Pos	11	mark	_	start_char=810|end_char=816
+10	чем	чем	SCONJ	_	_	9	fixed	_	start_char=817|end_char=820
+11	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=821|end_char=826
+12	,	,	PUNCT	_	_	18	punct	_	start_char=826|end_char=827
+13	что	что	SCONJ	_	_	18	mark	_	start_char=828|end_char=831
+14	лучшая	лучший	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	15	amod	_	start_char=832|end_char=838
+15	приманка	приманка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	start_char=839|end_char=847
+16	-	-	PUNCT	_	_	15	punct	_	start_char=848|end_char=849
+17	это	это	PART	_	_	18	expl	_	start_char=850|end_char=853
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	ccomp	_	start_char=854|end_char=855
+19	!	!	PUNCT	_	_	4	punct	_	start_char=855|end_char=856
+
+# text = Я настолько неотразим, и так феерично талантлив, что он готов клюнуть даже на пустой крючок!
+# sent_id = 15
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=857|end_char=858
+2	настолько	настолько	ADV	_	Degree=Pos	3	advmod	_	start_char=859|end_char=868
+3	неотразим	неотразимый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=869|end_char=878
+4	,	,	PUNCT	_	_	8	punct	_	start_char=878|end_char=879
+5	и	и	CCONJ	_	_	8	cc	_	start_char=880|end_char=881
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	start_char=882|end_char=885
+7	феерично	феерично	ADV	_	Degree=Pos	8	advmod	_	start_char=886|end_char=894
+8	талантлив	талантливый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	conj	_	start_char=895|end_char=904
+9	,	,	PUNCT	_	_	12	punct	_	start_char=904|end_char=905
+10	что	что	SCONJ	_	_	12	mark	_	start_char=906|end_char=909
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=910|end_char=912
+12	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	ccomp	_	start_char=913|end_char=918
+13	клюнуть	клюнуть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=919|end_char=926
+14	даже	даже	PART	_	_	17	advmod	_	start_char=927|end_char=931
+15	на	на	ADP	_	_	17	case	_	start_char=932|end_char=934
+16	пустой	пустой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	start_char=935|end_char=941
+17	крючок	крючок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	start_char=942|end_char=948
+18	!	!	PUNCT	_	_	3	punct	_	start_char=948|end_char=949
+
+# text = Пери уже не вмешивалась, пытаясь сообразить, к чему же Доктор клонит.
+# sent_id = 16
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	4	nsubj	_	start_char=950|end_char=954
+2	уже	уже	ADV	_	Degree=Pos	4	advmod	_	start_char=955|end_char=958
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=959|end_char=961
+4	вмешивалась	вмешиваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=962|end_char=973
+5	,	,	PUNCT	_	_	6	punct	_	start_char=973|end_char=974
+6	пытаясь	пытаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	4	advcl	_	start_char=975|end_char=982
+7	сообразить	сообразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=983|end_char=993
+8	,	,	PUNCT	_	_	13	punct	_	start_char=993|end_char=994
+9	к	к	ADP	_	_	10	case	_	start_char=995|end_char=996
+10	чему	что	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	13	obl	_	start_char=997|end_char=1001
+11	же	же	PART	_	_	10	advmod	_	start_char=1002|end_char=1004
+12	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	start_char=1005|end_char=1011
+13	клонит	клонить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	start_char=1012|end_char=1018
+14	.	.	PUNCT	_	_	4	punct	_	start_char=1018|end_char=1019
+
+# text = - И вот недавно мне удалось загнать его в угол!
+# sent_id = 17
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	6	punct	_	start_char=1020|end_char=1021
+2	И	и	CCONJ	_	_	6	cc	_	start_char=1022|end_char=1023
+3	вот	вот	PART	_	_	4	advmod	_	start_char=1024|end_char=1027
+4	недавно	недавно	ADV	_	Degree=Pos	6	advmod	_	start_char=1028|end_char=1035
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	start_char=1036|end_char=1039
+6	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1040|end_char=1047
+7	загнать	загнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	start_char=1048|end_char=1055
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=1056|end_char=1059
+9	в	в	ADP	_	_	10	case	_	start_char=1060|end_char=1061
+10	угол	угол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=1062|end_char=1066
+11	!	!	PUNCT	_	_	6	punct	_	start_char=1066|end_char=1067
+
+# text = Когда он думал, что у него все под контролем, что он сбежит, как всегда, наигравшись со мной, обстоятельства внезапно изменились!
+# sent_id = 18
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Когда	когда	SCONJ	_	_	3	mark	_	start_char=1068|end_char=1073
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=1074|end_char=1076
+3	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	advcl	_	start_char=1077|end_char=1082
+4	,	,	PUNCT	_	_	25	punct	_	start_char=1082|end_char=1083
+5	что	что	SCONJ	_	_	25	mark	_	start_char=1084|end_char=1087
+6	у	у	ADP	_	_	7	case	_	start_char=1088|end_char=1089
+7	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obl	_	start_char=1090|end_char=1094
+8	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	10	nsubj	_	start_char=1095|end_char=1098
+9	под	под	ADP	_	_	10	case	_	start_char=1099|end_char=1102
+10	контролем	контроль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	ccomp	_	start_char=1103|end_char=1112
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1112|end_char=1113
+12	что	что	SCONJ	_	_	14	mark	_	start_char=1114|end_char=1117
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=1118|end_char=1120
+14	сбежит	сбежать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	acl	_	start_char=1121|end_char=1127
+15	,	,	PUNCT	_	_	19	punct	_	start_char=1127|end_char=1128
+16	как	как	SCONJ	_	_	17	mark	_	start_char=1129|end_char=1132
+17	всегда	всегда	ADV	_	Degree=Pos|PronType=Tot	19	advmod	_	start_char=1133|end_char=1139
+18	,	,	PUNCT	_	_	19	punct	_	start_char=1139|end_char=1140
+19	наигравшись	наиграться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	25	advcl	_	start_char=1141|end_char=1152
+20	со	со	ADP	_	_	21	case	_	start_char=1153|end_char=1155
+21	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	19	obl	_	start_char=1156|end_char=1160
+22	,	,	PUNCT	_	_	19	punct	_	start_char=1160|end_char=1161
+23	обстоятельства	обстоятельство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	25	nsubj	_	start_char=1162|end_char=1176
+24	внезапно	внезапно	ADV	_	Degree=Pos	25	advmod	_	start_char=1177|end_char=1185
+25	изменились	измениться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1186|end_char=1196
+26	!	!	PUNCT	_	_	25	punct	_	start_char=1196|end_char=1197
+
+# text = Мне даже не пришлось предпринимать никаких действий, он сам влез в ту ловушку!
+# sent_id = 19
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=1198|end_char=1201
+2	даже	даже	PART	_	_	4	advmod	_	start_char=1202|end_char=1206
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1207|end_char=1209
+4	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1210|end_char=1218
+5	предпринимать	предпринимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	start_char=1219|end_char=1232
+6	никаких	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	7	det	_	start_char=1233|end_char=1240
+7	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	obj	_	start_char=1241|end_char=1249
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1249|end_char=1250
+9	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=1251|end_char=1253
+10	сам	сам	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	9	acl	_	start_char=1254|end_char=1257
+11	влез	влезть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=1258|end_char=1262
+12	в	в	ADP	_	_	14	case	_	start_char=1263|end_char=1264
+13	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	start_char=1265|end_char=1267
+14	ловушку	ловушка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	start_char=1268|end_char=1275
+15	!	!	PUNCT	_	_	4	punct	_	start_char=1275|end_char=1276
+
+# text = Пери вспомнила один момент из прошлых путешествий, еще с Доктором-с-сельдереем.
+# sent_id = 20
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1277|end_char=1281
+2	вспомнила	вспомнить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1282|end_char=1291
+3	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|NumType=Card|Number=Sing	4	nummod	_	start_char=1292|end_char=1296
+4	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	start_char=1297|end_char=1303
+5	из	из	ADP	_	_	7	case	_	start_char=1304|end_char=1306
+6	прошлых	прошлый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	start_char=1307|end_char=1314
+7	путешествий	путешествие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	obl	_	start_char=1315|end_char=1326
+8	,	,	PUNCT	_	_	11	punct	_	start_char=1326|end_char=1327
+9	еще	еще	ADV	_	Degree=Pos	11	advmod	_	start_char=1328|end_char=1331
+10	с	с	ADP	_	_	11	case	_	start_char=1332|end_char=1333
+11	Доктором	Доктор	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	7	conj	_	start_char=1334|end_char=1342
+12	-	-	PUNCT	_	_	13	punct	_	start_char=1342|end_char=1343
+13	с-сельдереем	с-сельдерее	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	appos	_	start_char=1343|end_char=1355
+14	.	.	PUNCT	_	_	2	punct	_	start_char=1355|end_char=1356
+
+# text = Видимо, мягкий характер того не позволил ему так радоваться в тот момент, зато теперь...
+# sent_id = 21
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Видимо	видимо	ADV	_	Degree=Pos	7	parataxis	_	start_char=1357|end_char=1363
+2	,	,	PUNCT	_	_	1	punct	_	start_char=1363|end_char=1364
+3	мягкий	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1365|end_char=1371
+4	характер	характер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	start_char=1372|end_char=1380
+5	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	nmod	_	start_char=1381|end_char=1385
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	start_char=1386|end_char=1388
+7	позволил	позволить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1389|end_char=1397
+8	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	start_char=1398|end_char=1401
+9	так	так	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	start_char=1402|end_char=1405
+10	радоваться	радоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	xcomp	_	start_char=1406|end_char=1416
+11	в	в	ADP	_	_	13	case	_	start_char=1417|end_char=1418
+12	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	start_char=1419|end_char=1422
+13	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	start_char=1423|end_char=1429
+14	,	,	PUNCT	_	_	16	punct	_	start_char=1429|end_char=1430
+15	зато	зато	CCONJ	_	_	16	cc	_	start_char=1431|end_char=1435
+16	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	7	conj	_	start_char=1436|end_char=1442
+17	...	...	PUNCT	_	_	7	punct	_	start_char=1442|end_char=1445
+
+# text = - И теперь он, поджаренный до румяной корочки, но нежный и сочный внутри...
+# sent_id = 22
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	15	punct	_	start_char=1446|end_char=1447
+2	И	и	CCONJ	_	_	15	cc	_	start_char=1448|end_char=1449
+3	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	start_char=1450|end_char=1456
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=1457|end_char=1459
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1459|end_char=1460
+6	поджаренный	поджарить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	start_char=1461|end_char=1472
+7	до	до	ADP	_	_	9	case	_	start_char=1473|end_char=1475
+8	румяной	румяной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	start_char=1476|end_char=1483
+9	корочки	корочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	start_char=1484|end_char=1491
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1491|end_char=1492
+11	но	но	CCONJ	_	_	12	cc	_	start_char=1493|end_char=1495
+12	нежный	нежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	start_char=1496|end_char=1502
+13	и	и	CCONJ	_	_	14	cc	_	start_char=1503|end_char=1504
+14	сочный	сочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	start_char=1505|end_char=1511
+15	внутри	внутри	ADV	_	Degree=Pos	0	root	_	start_char=1512|end_char=1518
+16	...	...	PUNCT	_	_	15	punct	_	start_char=1518|end_char=1521
+
+# text = - Доктор отошел в сторону, демонстрируя роскошно сервированный на двоих столик с большим главным блюдом под железной крышкой посередине.
+# sent_id = 23
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1522|end_char=1523
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1524|end_char=1530
+3	отошел	отойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1531|end_char=1537
+4	в	в	ADP	_	_	5	case	_	start_char=1538|end_char=1539
+5	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	start_char=1540|end_char=1547
+6	,	,	PUNCT	_	_	7	punct	_	start_char=1547|end_char=1548
+7	демонстрируя	демонстрировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	3	advcl	_	start_char=1549|end_char=1561
+8	роскошно	роскошный	ADV	_	Degree=Pos	9	advmod	_	start_char=1562|end_char=1570
+9	сервированный	сервировать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	start_char=1571|end_char=1584
+10	на	на	ADP	_	_	11	case	_	start_char=1585|end_char=1587
+11	двоих	двое	NUM	_	Animacy=Anim|Case=Acc|NumForm=Word|NumType=Sets	9	obl	_	start_char=1588|end_char=1593
+12	столик	столик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=1594|end_char=1600
+13	с	с	ADP	_	_	16	case	_	start_char=1601|end_char=1602
+14	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=1603|end_char=1610
+15	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	start_char=1611|end_char=1618
+16	блюдом	блюдо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	start_char=1619|end_char=1625
+17	под	под	ADP	_	_	19	case	_	start_char=1626|end_char=1629
+18	железной	железный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	start_char=1630|end_char=1638
+19	крышкой	крышка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	nmod	_	start_char=1639|end_char=1646
+20	посередине	посередине	ADV	_	Degree=Pos	19	advmod	_	start_char=1647|end_char=1657
+21	.	.	PUNCT	_	_	3	punct	_	start_char=1657|end_char=1658
+
+# text = Пери побледнела, позеленела, прижала руку ко рту и выбежала из кухни.
+# sent_id = 24
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	nsubj	_	start_char=1659|end_char=1663
+2	побледнела	побледнеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1664|end_char=1674
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1674|end_char=1675
+4	позеленела	позеленеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1676|end_char=1686
+5	,	,	PUNCT	_	_	6	punct	_	start_char=1686|end_char=1687
+6	прижала	прижать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1688|end_char=1695
+7	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	start_char=1696|end_char=1700
+8	ко	ко	ADP	_	_	9	case	_	start_char=1701|end_char=1703
+9	рту	рот	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=1704|end_char=1707
+10	и	и	CCONJ	_	_	11	cc	_	start_char=1708|end_char=1709
+11	выбежала	выбежать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1710|end_char=1718
+12	из	из	ADP	_	_	13	case	_	start_char=1719|end_char=1721
+13	кухни	кухня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=1722|end_char=1727
+14	.	.	PUNCT	_	_	2	punct	_	start_char=1727|end_char=1728
+
+# text = - Ты не любишь рыбу? - огорченно крикнул ей вслед Доктор.
+# sent_id = 25
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	4	punct	_	start_char=1729|end_char=1730
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=1731|end_char=1733
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=1734|end_char=1736
+4	любишь	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1737|end_char=1743
+5	рыбу	рыба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=1744|end_char=1748
+6	?	?	PUNCT	_	_	4	punct	_	start_char=1748|end_char=1749
+7	-	-	PUNCT	_	_	9	punct	_	start_char=1750|end_char=1751
+8	огорченно	огорченно	ADV	_	Degree=Pos	9	advmod	_	start_char=1752|end_char=1761
+9	крикнул	крикнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	start_char=1762|end_char=1769
+10	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	_	start_char=1770|end_char=1772
+11	вслед	вслед	ADV	_	Degree=Pos	9	advmod	_	start_char=1773|end_char=1778
+12	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	start_char=1779|end_char=1785
+13	.	.	PUNCT	_	_	4	punct	_	start_char=1785|end_char=1786
+
+# text = - Подумай, Пери, когда еще доведется отведать гамблджека!
+# sent_id = 26
+# metadata = Название: Ужин с врагом, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726da500000a7d270ff8cc/1/Uzhin-s-vragom
+1	-	-	PUNCT	_	_	2	punct	_	start_char=1787|end_char=1788
+2	Подумай	подумать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	start_char=1789|end_char=1796
+3	,	,	PUNCT	_	_	4	punct	_	start_char=1796|end_char=1797
+4	Пери	Пери	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	vocative	_	start_char=1798|end_char=1802
+5	,	,	PUNCT	_	_	8	punct	_	start_char=1802|end_char=1803
+6	когда	когда	SCONJ	_	_	8	mark	_	start_char=1804|end_char=1809
+7	еще	еще	ADV	_	Degree=Pos	8	advmod	_	start_char=1810|end_char=1813
+8	доведется	довестись	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	2	advcl	_	start_char=1814|end_char=1823
+9	отведать	отведать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=1824|end_char=1832
+10	гамблджека	гамблджека	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	start_char=1833|end_char=1843
+11	!	!	PUNCT	_	_	2	punct	_	start_char=1843|end_char=1844
+

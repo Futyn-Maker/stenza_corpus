@@ -1,0 +1,550 @@
+# text = Пространство гнулось и искривлялось, новые звезды вспыхивали и тут же гасли, отдавая свою энергию устройствам, действие которых более походило на волшебство, и которые вызывали чудовищ, не похожих ни на что доселе видимое в этой Вселенной.
+# sent_id = 0
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Пространство	пространство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	start_char=0|end_char=12
+2	гнулось	гнуться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=13|end_char=20
+3	и	и	CCONJ	_	_	4	cc	_	start_char=21|end_char=22
+4	искривлялось	искривляться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=23|end_char=35
+5	,	,	PUNCT	_	_	8	punct	_	start_char=35|end_char=36
+6	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	start_char=37|end_char=42
+7	звезды	звезда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	start_char=43|end_char=49
+8	вспыхивали	вспыхивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=50|end_char=60
+9	и	и	CCONJ	_	_	12	cc	_	start_char=61|end_char=62
+10	тут	тут	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	start_char=63|end_char=66
+11	же	же	PART	_	_	10	advmod	_	start_char=67|end_char=69
+12	гасли	гаснуть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=70|end_char=75
+13	,	,	PUNCT	_	_	14	punct	_	start_char=75|end_char=76
+14	отдавая	отдавать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	advcl	_	start_char=77|end_char=84
+15	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	16	det	_	start_char=85|end_char=89
+16	энергию	энергия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	start_char=90|end_char=97
+17	устройствам	устройство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	14	iobj	_	start_char=98|end_char=109
+18	,	,	PUNCT	_	_	22	punct	_	start_char=109|end_char=110
+19	действие	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	start_char=111|end_char=119
+20	которых	который	PRON	_	Case=Gen|Number=Plur|PronType=Rel	19	nmod	_	start_char=120|end_char=127
+21	более	более	ADV	_	Degree=Cmp|PronType=Tot	22	advmod	_	start_char=128|end_char=133
+22	походило	походить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	start_char=134|end_char=142
+23	на	на	ADP	_	_	24	case	_	start_char=143|end_char=145
+24	волшебство	волшебство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obl	_	start_char=146|end_char=156
+25	,	,	PUNCT	_	_	28	punct	_	start_char=156|end_char=157
+26	и	и	CCONJ	_	_	28	cc	_	start_char=158|end_char=159
+27	которые	который	PRON	_	Case=Nom|Number=Plur|PronType=Rel	28	nsubj	_	start_char=160|end_char=167
+28	вызывали	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	start_char=168|end_char=176
+29	чудовищ	чудовищ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	28	obj	_	start_char=177|end_char=184
+30	,	,	PUNCT	_	_	32	punct	_	start_char=184|end_char=185
+31	не	не	PART	_	Polarity=Neg	32	advmod	_	start_char=186|end_char=188
+32	похожих	похожий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	acl	_	start_char=189|end_char=196
+33	ни	ни	PART	_	Polarity=Neg	35	advmod	_	start_char=197|end_char=199
+34	на	на	ADP	_	_	35	case	_	start_char=200|end_char=202
+35	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	32	obl	_	start_char=203|end_char=206
+36	доселе	досел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	32	obj	_	start_char=207|end_char=213
+37	видимое	видимый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	start_char=214|end_char=221
+38	в	в	ADP	_	_	40	case	_	start_char=222|end_char=223
+39	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	40	det	_	start_char=224|end_char=228
+40	Вселенной	Вселенная	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	37	obl	_	start_char=229|end_char=238
+41	.	.	PUNCT	_	_	2	punct	_	start_char=238|end_char=239
+
+# text = Планета содрогалась от бомбардировки и готова была в любой момент слететь с орбиты, яростные столкновения происходили и между огромными орбитальными крейсерами с применением всего бортового оружия, и между отдельными противниками, вооруженными только ручными бластерами.
+# sent_id = 1
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Планета	планета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	start_char=240|end_char=247
+2	содрогалась	содрогаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=248|end_char=259
+3	от	от	ADP	_	_	4	case	_	start_char=260|end_char=262
+4	бомбардировки	бомбардировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	start_char=263|end_char=276
+5	и	и	CCONJ	_	_	6	cc	_	start_char=277|end_char=278
+6	готова	готовый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	conj	_	start_char=279|end_char=285
+7	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	start_char=286|end_char=290
+8	в	в	ADP	_	_	10	case	_	start_char=291|end_char=292
+9	любой	любой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	10	det	_	start_char=293|end_char=298
+10	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	start_char=299|end_char=305
+11	слететь	слететь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	start_char=306|end_char=313
+12	с	с	ADP	_	_	13	case	_	start_char=314|end_char=315
+13	орбиты	орбита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	start_char=316|end_char=322
+14	,	,	PUNCT	_	_	17	punct	_	start_char=322|end_char=323
+15	яростные	яростный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	start_char=324|end_char=332
+16	столкновения	столкновение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	17	nsubj	_	start_char=333|end_char=345
+17	происходили	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=346|end_char=357
+18	и	и	PART	_	_	22	advmod	_	start_char=358|end_char=359
+19	между	между	ADP	_	_	22	case	_	start_char=360|end_char=365
+20	огромными	огромный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	start_char=366|end_char=375
+21	орбитальными	орбитальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	start_char=376|end_char=388
+22	крейсерами	крейсер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	start_char=389|end_char=399
+23	с	с	ADP	_	_	24	case	_	start_char=400|end_char=401
+24	применением	применение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	nmod	_	start_char=402|end_char=413
+25	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	27	det	_	start_char=414|end_char=419
+26	бортового	бортовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	start_char=420|end_char=429
+27	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	start_char=430|end_char=436
+28	,	,	PUNCT	_	_	32	punct	_	start_char=436|end_char=437
+29	и	и	CCONJ	_	_	32	cc	_	start_char=438|end_char=439
+30	между	между	ADP	_	_	32	case	_	start_char=440|end_char=445
+31	отдельными	отдельный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	32	amod	_	start_char=446|end_char=456
+32	противниками	противник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	22	conj	_	start_char=457|end_char=469
+33	,	,	PUNCT	_	_	34	punct	_	start_char=469|end_char=470
+34	вооруженными	вооружить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	32	acl	_	start_char=471|end_char=483
+35	только	только	PART	_	_	36	advmod	_	start_char=484|end_char=490
+36	ручными	ручный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	37	amod	_	start_char=491|end_char=498
+37	бластерами	бластер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	34	iobj	_	start_char=499|end_char=509
+38	.	.	PUNCT	_	_	2	punct	_	start_char=509|end_char=510
+
+# text = Купол над Паноптиконом частично был разрушен, поле перед ним, когда-то красневшее травой, теперь блестело золотом упавших дисков, и периодически закрывалось клубами жирного дыма от догорающей техники.
+# sent_id = 2
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Купол	купол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	start_char=511|end_char=516
+2	над	над	ADP	_	_	3	case	_	start_char=517|end_char=520
+3	Паноптиконом	Паноптикон	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|NameType=Geo|Number=Sing	1	nmod	_	start_char=521|end_char=533
+4	частично	частично	ADV	_	Degree=Pos	6	advmod	_	start_char=534|end_char=542
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	start_char=543|end_char=546
+6	разрушен	разрушить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	start_char=547|end_char=555
+7	,	,	PUNCT	_	_	17	punct	_	start_char=555|end_char=556
+8	поле	поле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	start_char=557|end_char=561
+9	перед	перед	ADP	_	_	10	case	_	start_char=562|end_char=567
+10	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	start_char=568|end_char=571
+11	,	,	PUNCT	_	_	13	punct	_	start_char=571|end_char=572
+12	когда-то	когда-то	ADV	_	Degree=Pos|PronType=Ind	13	advmod	_	start_char=573|end_char=581
+13	красневшее	краснеть	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	start_char=582|end_char=592
+14	травой	трава	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	iobj	_	start_char=593|end_char=599
+15	,	,	PUNCT	_	_	13	punct	_	start_char=599|end_char=600
+16	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=601|end_char=607
+17	блестело	блестеть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	start_char=608|end_char=616
+18	золотом	золото	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	iobj	_	start_char=617|end_char=624
+19	упавших	упасть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	amod	_	start_char=625|end_char=632
+20	дисков	диск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	start_char=633|end_char=639
+21	,	,	PUNCT	_	_	24	punct	_	start_char=639|end_char=640
+22	и	и	CCONJ	_	_	24	cc	_	start_char=641|end_char=642
+23	периодически	периодически	ADV	_	Degree=Pos	24	advmod	_	start_char=643|end_char=655
+24	закрывалось	закрываться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	start_char=656|end_char=667
+25	клубами	клуб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	24	iobj	_	start_char=668|end_char=675
+26	жирного	жирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	start_char=676|end_char=683
+27	дыма	дым	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	start_char=684|end_char=688
+28	от	от	ADP	_	_	30	case	_	start_char=689|end_char=691
+29	догорающей	догорать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	30	amod	_	start_char=692|end_char=702
+30	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	start_char=703|end_char=710
+31	.	.	PUNCT	_	_	6	punct	_	start_char=710|end_char=711
+
+# text = Потом часть пространства с Галлифреем и окружавшим его флотом далеков исчезла, отрезанная от этой реальности тонкой, но непроницаемой пленкой временного пузыря, лишь одна Тардис в виде синей будки, дымя и кувыркаясь в безвоздушном пространстве, вылетела из этого светопреставления.
+# sent_id = 3
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Потом	потом	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	start_char=712|end_char=717
+2	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	start_char=718|end_char=723
+3	пространства	пространство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	start_char=724|end_char=736
+4	с	с	ADP	_	_	5	case	_	start_char=737|end_char=738
+5	Галлифреем	Галлифрей	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	3	nmod	_	start_char=739|end_char=749
+6	и	и	CCONJ	_	_	7	cc	_	start_char=750|end_char=751
+7	окружавшим	окружать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	start_char=752|end_char=762
+8	его	его	DET	_	Poss=Yes|PronType=Prs	9	det	_	start_char=763|end_char=766
+9	флотом	флот	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl:agent	_	start_char=767|end_char=773
+10	далеков	далек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	start_char=774|end_char=781
+11	исчезла	исчезнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=782|end_char=789
+12	,	,	PUNCT	_	_	13	punct	_	start_char=789|end_char=790
+13	отрезанная	отрезать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	start_char=791|end_char=801
+14	от	от	ADP	_	_	16	case	_	start_char=802|end_char=804
+15	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	start_char=805|end_char=809
+16	реальности	реальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	start_char=810|end_char=820
+17	тонкой	тонкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	start_char=821|end_char=827
+18	,	,	PUNCT	_	_	20	punct	_	start_char=827|end_char=828
+19	но	но	CCONJ	_	_	20	cc	_	start_char=829|end_char=831
+20	непроницаемой	непроницаемый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	conj	_	start_char=832|end_char=845
+21	пленкой	пленка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	obl:agent	_	start_char=846|end_char=853
+22	временного	временный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	start_char=854|end_char=864
+23	пузыря	пузыря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	start_char=865|end_char=871
+24	,	,	PUNCT	_	_	40	punct	_	start_char=871|end_char=872
+25	лишь	лишь	PART	_	_	26	advmod	_	start_char=873|end_char=877
+26	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	27	det	_	start_char=878|end_char=882
+27	Тардис	Тардис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	40	nsubj	_	start_char=883|end_char=889
+28	в	в	ADP	_	_	31	case	_	start_char=890|end_char=891
+29	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	fixed	_	start_char=892|end_char=896
+30	синей	синий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	start_char=897|end_char=902
+31	будки	будка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	obl	_	start_char=903|end_char=908
+32	,	,	PUNCT	_	_	33	punct	_	start_char=908|end_char=909
+33	дымя	дымить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	40	advcl	_	start_char=910|end_char=914
+34	и	и	CCONJ	_	_	35	cc	_	start_char=915|end_char=916
+35	кувыркаясь	кувыркаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	33	conj	_	start_char=917|end_char=927
+36	в	в	ADP	_	_	38	case	_	start_char=928|end_char=929
+37	безвоздушном	безвоздушный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	start_char=930|end_char=942
+38	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	35	obl	_	start_char=943|end_char=955
+39	,	,	PUNCT	_	_	33	punct	_	start_char=955|end_char=956
+40	вылетела	вылететь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	start_char=957|end_char=965
+41	из	из	ADP	_	_	43	case	_	start_char=966|end_char=968
+42	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	43	det	_	start_char=969|end_char=974
+43	светопреставления	светопреставление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	obl	_	start_char=975|end_char=992
+44	.	.	PUNCT	_	_	11	punct	_	start_char=992|end_char=993
+
+# text = Таймлорды в немом ужасе взирали на экран даже после того, как он погас.
+# sent_id = 4
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Таймлорды	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	start_char=994|end_char=1003
+2	в	в	ADP	_	_	4	case	_	start_char=1004|end_char=1005
+3	немом	немый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	start_char=1006|end_char=1011
+4	ужасе	ужас	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	start_char=1012|end_char=1017
+5	взирали	взирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1018|end_char=1025
+6	на	на	ADP	_	_	7	case	_	start_char=1026|end_char=1028
+7	экран	экран	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	start_char=1029|end_char=1034
+8	даже	даже	PART	_	_	10	advmod	_	start_char=1035|end_char=1039
+9	после	после	ADP	_	_	10	case	_	start_char=1040|end_char=1045
+10	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	start_char=1046|end_char=1050
+11	,	,	PUNCT	_	_	14	punct	_	start_char=1050|end_char=1051
+12	как	как	SCONJ	_	_	14	mark	_	start_char=1052|end_char=1055
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=1056|end_char=1058
+14	погас	погаснуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	start_char=1059|end_char=1064
+15	.	.	PUNCT	_	_	5	punct	_	start_char=1064|end_char=1065
+
+# text = Валеярд, сложив руки на груди, олицетворял собой неотвратимое возмездие, саму Немезиду.
+# sent_id = 5
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Валеярд	Валеярд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	8	nsubj	_	start_char=1066|end_char=1073
+2	,	,	PUNCT	_	_	3	punct	_	start_char=1073|end_char=1074
+3	сложив	сложить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	8	advcl	_	start_char=1075|end_char=1081
+4	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	start_char=1082|end_char=1086
+5	на	на	ADP	_	_	6	case	_	start_char=1087|end_char=1089
+6	груди	грудь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	start_char=1090|end_char=1095
+7	,	,	PUNCT	_	_	3	punct	_	start_char=1095|end_char=1096
+8	олицетворял	олицетворять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1097|end_char=1108
+9	собой	себя	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	8	iobj	_	start_char=1109|end_char=1114
+10	неотвратимое	неотвратимый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	start_char=1115|end_char=1127
+11	возмездие	возмездие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	start_char=1128|end_char=1137
+12	,	,	PUNCT	_	_	14	punct	_	start_char=1137|end_char=1138
+13	саму	сам	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Emp	14	det	_	start_char=1139|end_char=1143
+14	Немезиду	Немезида	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	11	conj	_	start_char=1144|end_char=1152
+15	.	.	PUNCT	_	_	8	punct	_	start_char=1152|end_char=1153
+
+# text = Доктор первый стряхнул с себя оцепенение ужаса.
+# sent_id = 6
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1154|end_char=1160
+2	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|NumForm=Word|NumType=Ord|Number=Sing	1	amod	_	start_char=1161|end_char=1167
+3	стряхнул	стряхнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1168|end_char=1176
+4	с	с	ADP	_	_	5	case	_	start_char=1177|end_char=1178
+5	себя	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	3	obl	_	start_char=1179|end_char=1183
+6	оцепенение	оцепенение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	start_char=1184|end_char=1194
+7	ужаса	ужас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	start_char=1195|end_char=1200
+8	.	.	PUNCT	_	_	3	punct	_	start_char=1200|end_char=1201
+
+# text = - И вы действительно верите, что вашу Матрицу еще не взломали?
+# sent_id = 7
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	-	-	PUNCT	_	_	5	punct	_	start_char=1202|end_char=1203
+2	И	и	CCONJ	_	_	5	cc	_	start_char=1204|end_char=1205
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	start_char=1206|end_char=1208
+4	действительно	действительно	ADV	_	Degree=Pos	5	advmod	_	start_char=1209|end_char=1222
+5	верите	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1223|end_char=1229
+6	,	,	PUNCT	_	_	12	punct	_	start_char=1229|end_char=1230
+7	что	что	SCONJ	_	_	12	mark	_	start_char=1231|end_char=1234
+8	вашу	ваш	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	start_char=1235|end_char=1239
+9	Матрицу	матрица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	start_char=1240|end_char=1247
+10	еще	еще	ADV	_	Degree=Pos	12	advmod	_	start_char=1248|end_char=1251
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	start_char=1252|end_char=1254
+12	взломали	взломать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	start_char=1255|end_char=1263
+13	?	?	PUNCT	_	_	5	punct	_	start_char=1263|end_char=1264
+
+# text = Что Галлифрей, несмотря на тысячелетиями соблюдаемый мир и проповедуемый пацифизм, не сможет дать достойного отпора каким-то консервным банкам с осьминогами?
+# sent_id = 8
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Что	что	SCONJ	_	_	14	mark	_	start_char=1265|end_char=1268
+2	Галлифрей	Галлифрей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	14	nsubj	_	start_char=1269|end_char=1278
+3	,	,	PUNCT	_	_	7	punct	_	start_char=1278|end_char=1279
+4	несмотря	несмотря	ADV	_	Degree=Pos	6	case	_	start_char=1280|end_char=1288
+5	на	на	ADP	_	_	4	fixed	_	start_char=1289|end_char=1291
+6	тысячелетиями	тысячелетие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	start_char=1292|end_char=1305
+7	соблюдаемый	соблюдать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	start_char=1306|end_char=1317
+8	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	start_char=1318|end_char=1321
+9	и	и	CCONJ	_	_	11	cc	_	start_char=1322|end_char=1323
+10	проповедуемый	проповедуть	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	start_char=1324|end_char=1337
+11	пацифизм	пацифизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	start_char=1338|end_char=1346
+12	,	,	PUNCT	_	_	7	punct	_	start_char=1346|end_char=1347
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	start_char=1348|end_char=1350
+14	сможет	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1351|end_char=1357
+15	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	start_char=1358|end_char=1362
+16	достойного	достойный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	start_char=1363|end_char=1373
+17	отпора	отпор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obj	_	start_char=1374|end_char=1380
+18	каким-то	какой-то	DET	_	Case=Dat|Number=Plur|PronType=Ind	20	det	_	start_char=1381|end_char=1389
+19	консервным	консервный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	20	amod	_	start_char=1390|end_char=1400
+20	банкам	банка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	15	iobj	_	start_char=1401|end_char=1407
+21	с	с	ADP	_	_	22	case	_	start_char=1408|end_char=1409
+22	осьминогами	осьминог	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	20	nmod	_	start_char=1410|end_char=1421
+23	?	?	PUNCT	_	_	14	punct	_	start_char=1421|end_char=1422
+
+# text = А Доктор!
+# sent_id = 9
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	А	а	CCONJ	_	_	2	cc	_	start_char=1423|end_char=1424
+2	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1425|end_char=1431
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1431|end_char=1432
+
+# text = Наполовину с амнезией восторженный чудик, разве могу я регенерировать в... это?!
+# sent_id = 10
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Наполовину	наполовину	ADV	_	Degree=Pos	3	advmod	_	start_char=1433|end_char=1443
+2	с	с	ADP	_	_	3	case	_	start_char=1444|end_char=1445
+3	амнезией	амнезия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	start_char=1446|end_char=1454
+4	восторженный	восторженный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	start_char=1455|end_char=1467
+5	чудик	чудик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	start_char=1468|end_char=1473
+6	,	,	PUNCT	_	_	8	punct	_	start_char=1473|end_char=1474
+7	разве	разве	PART	_	_	8	advmod	_	start_char=1475|end_char=1480
+8	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	start_char=1481|end_char=1485
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=1486|end_char=1487
+10	регенерировать	регенерировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	start_char=1488|end_char=1502
+11	в	в	ADP	_	_	10	advmod	_	start_char=1503|end_char=1504
+12	...	...	PUNCT	_	_	10	punct	_	start_char=1504|end_char=1507
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	start_char=1508|end_char=1511
+14	?!	?!	PUNCT	_	_	8	punct	_	start_char=1511|end_char=1513
+
+# text = Бархатный камзол!
+# sent_id = 11
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Бархатный	бархатный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	start_char=1514|end_char=1523
+2	камзол	камзол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1524|end_char=1530
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1530|end_char=1531
+
+# text = Это чушь!
+# sent_id = 12
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	start_char=1532|end_char=1535
+2	чушь	чушь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	start_char=1536|end_char=1540
+3	!	!	PUNCT	_	_	2	punct	_	start_char=1540|end_char=1541
+
+# text = Нонсенс!
+# sent_id = 13
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Нонсенс	нонсенс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	start_char=1542|end_char=1549
+2	!	!	PUNCT	_	_	1	punct	_	start_char=1549|end_char=1550
+
+# text = Я требую немедленной проверки корректности предоставленных записей, а пока ее не будет, я смеюсь над этими доказательствами, вот так - ха-ха!
+# sent_id = 14
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1551|end_char=1552
+2	требую	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=1553|end_char=1559
+3	немедленной	немедленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	start_char=1560|end_char=1571
+4	проверки	проверка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obj	_	start_char=1572|end_char=1580
+5	корректности	корректность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	start_char=1581|end_char=1593
+6	предоставленных	предоставить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	start_char=1594|end_char=1609
+7	записей	запись	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	start_char=1610|end_char=1617
+8	,	,	PUNCT	_	_	13	punct	_	start_char=1617|end_char=1618
+9	а	а	CCONJ	_	_	13	cc	_	start_char=1619|end_char=1620
+10	пока	пока	ADV	_	Degree=Pos	13	advmod	_	start_char=1621|end_char=1625
+11	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=1626|end_char=1628
+12	не	не	PART	_	Polarity=Neg	13	advmod	_	start_char=1629|end_char=1631
+13	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1632|end_char=1637
+14	,	,	PUNCT	_	_	16	punct	_	start_char=1637|end_char=1638
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=1639|end_char=1640
+16	смеюсь	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	start_char=1641|end_char=1647
+17	над	над	ADP	_	_	19	case	_	start_char=1648|end_char=1651
+18	этими	этот	DET	_	Case=Ins|Number=Plur|PronType=Dem	19	det	_	start_char=1652|end_char=1657
+19	доказательствами	доказательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	16	obl	_	start_char=1658|end_char=1674
+20	,	,	PUNCT	_	_	22	punct	_	start_char=1674|end_char=1675
+21	вот	вот	PART	_	_	22	advmod	_	start_char=1676|end_char=1679
+22	так	так	ADV	_	Degree=Pos|PronType=Dem	2	conj	_	start_char=1680|end_char=1683
+23	-	-	PUNCT	_	_	24	punct	_	start_char=1684|end_char=1685
+24	ха-ха	ха-ха	INTJ	_	_	22	discourse	_	start_char=1686|end_char=1691
+25	!	!	PUNCT	_	_	2	punct	_	start_char=1691|end_char=1692
+
+# text = Сдавленные смешки, вначале нервные и больше похожие на истерические всхлипы, а потом все более естественные, послышались и со стороны заседателей.
+# sent_id = 15
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Сдавленные	сдавить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	start_char=1693|end_char=1703
+2	смешки	смешка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	start_char=1704|end_char=1710
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1710|end_char=1711
+4	вначале	вначале	ADV	_	Degree=Pos	5	advmod	_	start_char=1712|end_char=1719
+5	нервные	нервный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	start_char=1720|end_char=1727
+6	и	и	CCONJ	_	_	7	cc	_	start_char=1728|end_char=1729
+7	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	8	advmod	_	start_char=1730|end_char=1736
+8	похожие	похожий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	conj	_	start_char=1737|end_char=1744
+9	на	на	ADP	_	_	11	case	_	start_char=1745|end_char=1747
+10	истерические	истерический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	start_char=1748|end_char=1760
+11	всхлипы	всхлип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obl	_	start_char=1761|end_char=1768
+12	,	,	PUNCT	_	_	17	punct	_	start_char=1768|end_char=1769
+13	а	а	CCONJ	_	_	17	cc	_	start_char=1770|end_char=1771
+14	потом	потом	ADV	_	Degree=Pos|PronType=Dem	17	advmod	_	start_char=1772|end_char=1777
+15	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	17	nsubj	_	start_char=1778|end_char=1781
+16	более	более	ADV	_	Degree=Cmp|PronType=Tot	17	advmod	_	start_char=1782|end_char=1787
+17	естественные	естественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	conj	_	start_char=1788|end_char=1800
+18	,	,	PUNCT	_	_	19	punct	_	start_char=1800|end_char=1801
+19	послышались	послышаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1802|end_char=1813
+20	и	и	CCONJ	_	_	23	cc	_	start_char=1814|end_char=1815
+21	со	со	ADP	_	_	23	case	_	start_char=1816|end_char=1818
+22	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	fixed	_	start_char=1819|end_char=1826
+23	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	obl	_	start_char=1827|end_char=1838
+24	.	.	PUNCT	_	_	19	punct	_	start_char=1838|end_char=1839
+
+# text = Валеярд забеспокоился, судья начала призывать всех к порядку, но вынуждена была объявить, что материал будет проверен дополнительно, так же, как и то, что в Матрице в последние дни не было посторонних вмешательств, а до окончания экспертизы все могут быть свободны, да, и Доктор тоже.
+# sent_id = 16
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Валеярд	Валеярд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	nsubj	_	start_char=1840|end_char=1847
+2	забеспокоился	забеспокоиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=1848|end_char=1861
+3	,	,	PUNCT	_	_	5	punct	_	start_char=1861|end_char=1862
+4	судья	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	start_char=1863|end_char=1868
+5	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	start_char=1869|end_char=1875
+6	призывать	призывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	start_char=1876|end_char=1885
+7	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	6	obj	_	start_char=1886|end_char=1890
+8	к	к	ADP	_	_	9	case	_	start_char=1891|end_char=1892
+9	порядку	порядок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=1893|end_char=1900
+10	,	,	PUNCT	_	_	12	punct	_	start_char=1900|end_char=1901
+11	но	но	CCONJ	_	_	12	cc	_	start_char=1902|end_char=1904
+12	вынуждена	вынудить	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	2	conj	_	start_char=1905|end_char=1914
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	start_char=1915|end_char=1919
+14	объявить	объявить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	start_char=1920|end_char=1928
+15	,	,	PUNCT	_	_	19	punct	_	start_char=1928|end_char=1929
+16	что	что	SCONJ	_	_	19	mark	_	start_char=1930|end_char=1933
+17	материал	материал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj:pass	_	start_char=1934|end_char=1942
+18	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	aux:pass	_	start_char=1943|end_char=1948
+19	проверен	проверить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	ccomp	_	start_char=1949|end_char=1957
+20	дополнительно	дополнительно	ADV	_	Degree=Pos	19	advmod	_	start_char=1958|end_char=1971
+21	,	,	PUNCT	_	_	22	punct	_	start_char=1971|end_char=1972
+22	так	так	ADV	_	Degree=Pos|PronType=Dem	19	advmod	_	start_char=1973|end_char=1976
+23	же	же	PART	_	_	22	advmod	_	start_char=1977|end_char=1979
+24	,	,	PUNCT	_	_	27	punct	_	start_char=1979|end_char=1980
+25	как	как	SCONJ	_	_	27	case	_	start_char=1981|end_char=1984
+26	и	и	PART	_	_	27	advmod	_	start_char=1985|end_char=1986
+27	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	22	obl	_	start_char=1987|end_char=1989
+28	,	,	PUNCT	_	_	36	punct	_	start_char=1989|end_char=1990
+29	что	что	SCONJ	_	_	36	mark	_	start_char=1991|end_char=1994
+30	в	в	ADP	_	_	31	case	_	start_char=1995|end_char=1996
+31	Матрице	Матрица	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	36	obl	_	start_char=1997|end_char=2004
+32	в	в	ADP	_	_	34	case	_	start_char=2005|end_char=2006
+33	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	34	amod	_	start_char=2007|end_char=2016
+34	дни	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	36	obl	_	start_char=2017|end_char=2020
+35	не	не	PART	_	Polarity=Neg	36	advmod	_	start_char=2021|end_char=2023
+36	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	acl	_	start_char=2024|end_char=2028
+37	посторонних	посторонний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	38	amod	_	start_char=2029|end_char=2040
+38	вмешательств	вмешательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	36	nsubj	_	start_char=2041|end_char=2053
+39	,	,	PUNCT	_	_	45	punct	_	start_char=2053|end_char=2054
+40	а	а	CCONJ	_	_	45	cc	_	start_char=2055|end_char=2056
+41	до	до	ADP	_	_	42	case	_	start_char=2057|end_char=2059
+42	окончания	окончание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	45	obl	_	start_char=2060|end_char=2069
+43	экспертизы	экспертиза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	start_char=2070|end_char=2080
+44	все	всё	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|PronType=Tot	45	nsubj	_	start_char=2081|end_char=2084
+45	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	conj	_	start_char=2085|end_char=2090
+46	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	47	cop	_	start_char=2091|end_char=2095
+47	свободны	свободный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	45	xcomp	_	start_char=2096|end_char=2104
+48	,	,	PUNCT	_	_	52	punct	_	start_char=2104|end_char=2105
+49	да	да	PART	_	_	52	parataxis	_	start_char=2106|end_char=2108
+50	,	,	PUNCT	_	_	49	punct	_	start_char=2108|end_char=2109
+51	и	и	CCONJ	_	_	52	cc	_	start_char=2110|end_char=2111
+52	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	47	conj	_	start_char=2112|end_char=2118
+53	тоже	тоже	PART	_	_	52	advmod	_	start_char=2119|end_char=2123
+54	.	.	PUNCT	_	_	2	punct	_	start_char=2123|end_char=2124
+
+# text = Без выезда с Галлифрея, разумеется.
+# sent_id = 17
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Без	без	ADP	_	_	2	case	_	start_char=2125|end_char=2128
+2	выезда	выезд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	start_char=2129|end_char=2135
+3	с	с	ADP	_	_	4	case	_	start_char=2136|end_char=2137
+4	Галлифрея	Галлифрей	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	2	nmod	_	start_char=2138|end_char=2147
+5	,	,	PUNCT	_	_	6	punct	_	start_char=2147|end_char=2148
+6	разумеется	разуметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	parataxis	_	start_char=2149|end_char=2159
+7	.	.	PUNCT	_	_	2	punct	_	start_char=2159|end_char=2160
+
+# text = На миг Доктору где-то на краешке зрения показалось, что на черном экране мелькнула еще более черная тень знакомых очертаний, но в этот момент его отвлек истец: - Ты не знаешь, но это правда, все, что я показал.
+# sent_id = 18
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	На	на	ADP	_	_	2	case	_	start_char=2161|end_char=2163
+2	миг	миг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	start_char=2164|end_char=2167
+3	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	start_char=2168|end_char=2175
+4	где-то	где-то	ADV	_	Degree=Pos|PronType=Ind	8	advmod	_	start_char=2176|end_char=2182
+5	на	на	ADP	_	_	6	case	_	start_char=2183|end_char=2185
+6	краешке	краешка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	start_char=2186|end_char=2193
+7	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	start_char=2194|end_char=2200
+8	показалось	показаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2201|end_char=2211
+9	,	,	PUNCT	_	_	14	punct	_	start_char=2211|end_char=2212
+10	что	что	SCONJ	_	_	14	mark	_	start_char=2213|end_char=2216
+11	на	на	ADP	_	_	13	case	_	start_char=2217|end_char=2219
+12	черном	черный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	start_char=2220|end_char=2226
+13	экране	экран	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	start_char=2227|end_char=2233
+14	мелькнула	мелькнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	start_char=2234|end_char=2243
+15	еще	еще	ADV	_	Degree=Pos	16	advmod	_	start_char=2244|end_char=2247
+16	более	более	ADV	_	Degree=Cmp|PronType=Tot	17	advmod	_	start_char=2248|end_char=2253
+17	черная	черный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	start_char=2254|end_char=2260
+18	тень	тень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	start_char=2261|end_char=2265
+19	знакомых	знакомый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	start_char=2266|end_char=2274
+20	очертаний	очертание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	start_char=2275|end_char=2284
+21	,	,	PUNCT	_	_	27	punct	_	start_char=2284|end_char=2285
+22	но	но	CCONJ	_	_	27	cc	_	start_char=2286|end_char=2288
+23	в	в	ADP	_	_	25	case	_	start_char=2289|end_char=2290
+24	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	25	det	_	start_char=2291|end_char=2295
+25	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	obl	_	start_char=2296|end_char=2302
+26	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	obj	_	start_char=2303|end_char=2306
+27	отвлек	отвлечь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	start_char=2307|end_char=2313
+28	истец	истец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	start_char=2314|end_char=2319
+29	:	:	PUNCT	_	_	33	punct	_	start_char=2319|end_char=2320
+30	-	-	PUNCT	_	_	33	punct	_	start_char=2321|end_char=2322
+31	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	33	nsubj	_	start_char=2323|end_char=2325
+32	не	не	PART	_	Polarity=Neg	33	advmod	_	start_char=2326|end_char=2328
+33	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	27	parataxis	_	start_char=2329|end_char=2335
+34	,	,	PUNCT	_	_	37	punct	_	start_char=2335|end_char=2336
+35	но	но	CCONJ	_	_	37	cc	_	start_char=2337|end_char=2339
+36	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	37	nsubj	_	start_char=2340|end_char=2343
+37	правда	правда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	parataxis	_	start_char=2344|end_char=2350
+38	,	,	PUNCT	_	_	39	punct	_	start_char=2350|end_char=2351
+39	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	33	conj	_	start_char=2352|end_char=2355
+40	,	,	PUNCT	_	_	43	punct	_	start_char=2355|end_char=2356
+41	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	43	obj	_	start_char=2357|end_char=2360
+42	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	43	nsubj	_	start_char=2361|end_char=2362
+43	показал	показать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	39	acl:relcl	_	start_char=2363|end_char=2370
+44	.	.	PUNCT	_	_	8	punct	_	start_char=2370|end_char=2371
+
+# text = Почему они не верят?
+# sent_id = 19
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	4	advmod	_	start_char=2372|end_char=2378
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=2379|end_char=2382
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=2383|end_char=2385
+4	верят	верить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2386|end_char=2391
+5	?	?	PUNCT	_	_	4	punct	_	start_char=2391|end_char=2392
+
+# text = - Ты перестарался.
+# sent_id = 20
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	-	-	PUNCT	_	_	3	punct	_	start_char=2393|end_char=2394
+2	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=2395|end_char=2397
+3	перестарался	перестараться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=2398|end_char=2410
+4	.	.	PUNCT	_	_	3	punct	_	start_char=2410|end_char=2411
+
+# text = Никто не хочет верить в такое будущее.
+# sent_id = 21
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	3	nsubj	_	start_char=2412|end_char=2417
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=2418|end_char=2420
+3	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=2421|end_char=2426
+4	верить	верить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	start_char=2427|end_char=2433
+5	в	в	ADP	_	_	7	case	_	start_char=2434|end_char=2435
+6	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	start_char=2436|end_char=2441
+7	будущее	будущее	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	start_char=2442|end_char=2449
+8	.	.	PUNCT	_	_	3	punct	_	start_char=2449|end_char=2450
+
+# text = Они будут искать доказательства того, что это неправда, и наверняка найдут их.
+# sent_id = 22
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=2451|end_char=2454
+2	будут	быть	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	aux	_	start_char=2455|end_char=2460
+3	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=2461|end_char=2467
+4	доказательства	доказательство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	start_char=2468|end_char=2482
+5	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	nmod	_	start_char=2483|end_char=2487
+6	,	,	PUNCT	_	_	9	punct	_	start_char=2487|end_char=2488
+7	что	что	SCONJ	_	_	9	mark	_	start_char=2489|end_char=2492
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	start_char=2493|end_char=2496
+9	неправда	неправда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	acl	_	start_char=2497|end_char=2505
+10	,	,	PUNCT	_	_	13	punct	_	start_char=2505|end_char=2506
+11	и	и	CCONJ	_	_	13	cc	_	start_char=2507|end_char=2508
+12	наверняка	наверняка	ADV	_	Degree=Pos	13	advmod	_	start_char=2509|end_char=2518
+13	найдут	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	conj	_	start_char=2519|end_char=2525
+14	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	start_char=2526|end_char=2528
+15	.	.	PUNCT	_	_	3	punct	_	start_char=2528|end_char=2529
+
+# text = А я, как законопослушный таймлорд, буду вынужден заблокировать эту часть знания будущего.
+# sent_id = 23
+# metadata = Название: Слишком правдивая правда, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54726dea00000a7d2b650c9c/1/Slishkom-pravdivaya-pravda
+1	А	а	CCONJ	_	_	9	cc	_	start_char=2530|end_char=2531
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=2532|end_char=2533
+3	,	,	PUNCT	_	_	6	punct	_	start_char=2533|end_char=2534
+4	как	как	SCONJ	_	_	6	case	_	start_char=2535|end_char=2538
+5	законопослушный	законопослушный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	start_char=2539|end_char=2554
+6	таймлорд	таймлорд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	obl	_	start_char=2555|end_char=2563
+7	,	,	PUNCT	_	_	6	punct	_	start_char=2563|end_char=2564
+8	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	9	cop	_	start_char=2565|end_char=2569
+9	вынужден	вынужденный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=2570|end_char=2578
+10	заблокировать	заблокировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	start_char=2579|end_char=2592
+11	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	start_char=2593|end_char=2596
+12	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	start_char=2597|end_char=2602
+13	знания	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	start_char=2603|end_char=2609
+14	будущего	будущее	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	nmod	_	start_char=2610|end_char=2618
+15	.	.	PUNCT	_	_	9	punct	_	start_char=2618|end_char=2619
+

@@ -1,0 +1,269 @@
+# text = Мы вам песенку споем "Ex-ter-mi-nate!"
+# sent_id = 0
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	iobj	_	start_char=3|end_char=6
+3	песенку	песенок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	start_char=7|end_char=14
+4	споем	споенуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=15|end_char=20
+5	"	"	PUNCT	_	_	6	punct	_	start_char=21|end_char=22
+6	Ex-ter-mi-nate	Ex-ter-mi-nate	X	_	Foreign=Yes	4	obj	_	start_char=22|end_char=36
+7	!	!	PUNCT	_	_	6	punct	_	start_char=36|end_char=37
+8	"	"	PUNCT	_	_	4	punct	_	start_char=37|end_char=38
+
+# text = Лучше песенки во всей вселенной нет!
+# sent_id = 1
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Лучше	лучше	ADJ	_	Degree=Cmp	0	root	_	start_char=39|end_char=44
+2	песенки	песенка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nsubj	_	start_char=45|end_char=52
+3	во	во	ADP	_	_	5	case	_	start_char=53|end_char=55
+4	всей	весь	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	5	det	_	start_char=56|end_char=60
+5	вселенной	вселенная	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	start_char=61|end_char=70
+6	нет	нет	VERB	_	Polarity=Neg	1	csubj	_	start_char=71|end_char=74
+7	!	!	PUNCT	_	_	1	punct	_	start_char=74|end_char=75
+
+# text = Пусть летит она по свету, Ну а мы за ней по следу, Наша песенка - "Ex-ter-mi-nate!"
+# sent_id = 2
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Пусть	пусть	PART	_	_	2	advmod	_	start_char=76|end_char=81
+2	летит	лететь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=82|end_char=87
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=88|end_char=91
+4	по	по	ADP	_	_	5	case	_	start_char=92|end_char=94
+5	свету	свет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	start_char=95|end_char=100
+6	,	,	PUNCT	_	_	13	punct	_	start_char=100|end_char=101
+7	Ну	ну	PART	_	_	13	discourse	_	start_char=102|end_char=104
+8	а	а	CCONJ	_	_	13	cc	_	start_char=105|end_char=106
+9	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=107|end_char=109
+10	за	за	ADP	_	_	11	case	_	start_char=110|end_char=112
+11	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	start_char=113|end_char=116
+12	по	по	ADP	_	_	13	case	_	start_char=117|end_char=119
+13	следу	след	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	conj	_	start_char=120|end_char=125
+14	,	,	PUNCT	_	_	19	punct	_	start_char=125|end_char=126
+15	Наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	start_char=127|end_char=131
+16	песенка	песенка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	start_char=132|end_char=139
+17	-	-	PUNCT	_	_	19	punct	_	start_char=140|end_char=141
+18	"	"	PUNCT	_	_	19	punct	_	start_char=142|end_char=143
+19	Ex-ter-mi-nate	Ex-ter-mi-nate	X	_	Foreign=Yes	2	parataxis	_	start_char=143|end_char=157
+20	!	!	PUNCT	_	_	19	punct	_	start_char=157|end_char=158
+21	"	"	PUNCT	_	_	19	punct	_	start_char=158|end_char=159
+
+# text = Безупречен наш слух, Жаль, что с голосом проблемы.
+# sent_id = 3
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Безупречен	безупречный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=161|end_char=171
+2	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=172|end_char=175
+3	слух	слух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	start_char=176|end_char=180
+4	,	,	PUNCT	_	_	5	punct	_	start_char=180|end_char=181
+5	Жаль	жаль	VERB	_	_	1	conj	_	start_char=182|end_char=186
+6	,	,	PUNCT	_	_	9	punct	_	start_char=186|end_char=187
+7	что	что	SCONJ	_	_	9	mark	_	start_char=188|end_char=191
+8	с	с	ADP	_	_	9	case	_	start_char=192|end_char=193
+9	голосом	голос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	ccomp	_	start_char=194|end_char=201
+10	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	start_char=202|end_char=210
+11	.	.	PUNCT	_	_	1	punct	_	start_char=210|end_char=211
+
+# text = Мир, к искусству ты глух, Ну а мы разрушим стены!
+# sent_id = 4
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Мир	мир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	start_char=212|end_char=215
+2	,	,	PUNCT	_	_	1	punct	_	start_char=215|end_char=216
+3	к	к	ADP	_	_	4	case	_	start_char=217|end_char=218
+4	искусству	искусство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=219|end_char=228
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=229|end_char=231
+6	глух	глухой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=232|end_char=236
+7	,	,	PUNCT	_	_	11	punct	_	start_char=236|end_char=237
+8	Ну	ну	PART	_	_	11	cc	_	start_char=238|end_char=240
+9	а	а	CCONJ	_	_	11	cc	_	start_char=241|end_char=242
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=243|end_char=245
+11	разрушим	разрушать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	start_char=246|end_char=254
+12	стены	стена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obj	_	start_char=255|end_char=260
+13	!	!	PUNCT	_	_	6	punct	_	start_char=260|end_char=261
+
+# text = Мы к вам сами в дом придем, Где бы вы ни находились, Нашу песню пропоем, Чтобы вы от нас не скрылись.
+# sent_id = 5
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=263|end_char=265
+2	к	к	ADP	_	_	3	case	_	start_char=266|end_char=267
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	obl	_	start_char=268|end_char=271
+4	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	1	acl	_	start_char=272|end_char=276
+5	в	в	ADP	_	_	6	case	_	start_char=277|end_char=278
+6	дом	дом	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=279|end_char=282
+7	придем	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=283|end_char=289
+8	,	,	PUNCT	_	_	13	punct	_	start_char=289|end_char=290
+9	Где	где	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=291|end_char=294
+10	бы	бы	AUX	_	Mood=Cnd	13	aux	_	start_char=295|end_char=297
+11	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	start_char=298|end_char=300
+12	ни	ни	PART	_	Polarity=Neg	13	advmod	_	start_char=301|end_char=303
+13	находились	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	start_char=304|end_char=314
+14	,	,	PUNCT	_	_	17	punct	_	start_char=314|end_char=315
+15	Нашу	наш	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	start_char=316|end_char=320
+16	песню	песня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	start_char=321|end_char=326
+17	пропоем	пропоем	ADV	_	Degree=Pos	13	advmod	_	start_char=327|end_char=334
+18	,	,	PUNCT	_	_	24	punct	_	start_char=334|end_char=335
+19	Чтобы	чтобы	SCONJ	_	Mood=Cnd	24	mark	_	start_char=336|end_char=341
+20	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	24	nsubj	_	start_char=342|end_char=344
+21	от	от	ADP	_	_	22	case	_	start_char=345|end_char=347
+22	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	24	obl	_	start_char=348|end_char=351
+23	не	не	PART	_	Polarity=Neg	24	advmod	_	start_char=352|end_char=354
+24	скрылись	скрыться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	advcl	_	start_char=355|end_char=363
+25	.	.	PUNCT	_	_	7	punct	_	start_char=363|end_char=364
+
+# text = Мы к вам сами в дом придем, Где бы вы ни находились, Чтобы вы от нас не скрылись.
+# sent_id = 6
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=365|end_char=367
+2	к	к	ADP	_	_	3	case	_	start_char=368|end_char=369
+3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	obl	_	start_char=370|end_char=373
+4	сами	сам	DET	_	Case=Nom|Number=Plur|PronType=Emp	1	acl	_	start_char=374|end_char=378
+5	в	в	ADP	_	_	6	case	_	start_char=379|end_char=380
+6	дом	дом	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	start_char=381|end_char=384
+7	придем	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=385|end_char=391
+8	,	,	PUNCT	_	_	13	punct	_	start_char=391|end_char=392
+9	Где	где	ADV	_	Degree=Pos|PronType=Rel	13	advmod	_	start_char=393|end_char=396
+10	бы	бы	AUX	_	Mood=Cnd	13	aux	_	start_char=397|end_char=399
+11	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	start_char=400|end_char=402
+12	ни	ни	PART	_	Polarity=Neg	13	advmod	_	start_char=403|end_char=405
+13	находились	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	start_char=406|end_char=416
+14	,	,	PUNCT	_	_	20	punct	_	start_char=416|end_char=417
+15	Чтобы	чтобы	SCONJ	_	Mood=Cnd	20	mark	_	start_char=418|end_char=423
+16	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	20	nsubj	_	start_char=424|end_char=426
+17	от	от	ADP	_	_	18	case	_	start_char=427|end_char=429
+18	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	20	obl	_	start_char=430|end_char=433
+19	не	не	PART	_	Polarity=Neg	20	advmod	_	start_char=434|end_char=436
+20	скрылись	скрыться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	7	advcl	_	start_char=437|end_char=445
+21	.	.	PUNCT	_	_	7	punct	_	start_char=445|end_char=446
+
+# text = Смысл жизни наш такой - "Ex-ter-mi-nate!".
+# sent_id = 7
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Смысл	смысл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	start_char=449|end_char=454
+2	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	start_char=455|end_char=460
+3	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	det	_	start_char=461|end_char=464
+4	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	start_char=465|end_char=470
+5	-	-	PUNCT	_	_	7	punct	_	start_char=471|end_char=472
+6	"	"	PUNCT	_	_	7	punct	_	start_char=473|end_char=474
+7	Ex-ter-mi-nate	Ex-ter-mi-nate	X	_	Foreign=Yes	4	parataxis	_	start_char=474|end_char=488
+8	!	!	PUNCT	_	_	7	punct	_	start_char=488|end_char=489
+9	"	"	PUNCT	_	_	7	punct	_	start_char=489|end_char=490
+10	.	.	PUNCT	_	_	4	punct	_	start_char=490|end_char=491
+
+# text = Круче далеков форм жизни в мире нет.
+# sent_id = 8
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Круче	кручой	ADJ	_	Degree=Cmp	7	advmod	_	start_char=492|end_char=497
+2	далеков	далек	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	start_char=498|end_char=505
+3	форм	форм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	obl	_	start_char=506|end_char=510
+4	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	start_char=511|end_char=516
+5	в	в	ADP	_	_	6	case	_	start_char=517|end_char=518
+6	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	start_char=519|end_char=523
+7	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=524|end_char=527
+8	.	.	PUNCT	_	_	7	punct	_	start_char=527|end_char=528
+
+# text = Чтоб страдания не множить, Мы готовы укокошить Всех не-далеков - "Ex-ter-mi-nate!".
+# sent_id = 9
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Чтоб	чтоб	SCONJ	_	_	4	mark	_	start_char=529|end_char=533
+2	страдания	страдание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	start_char=534|end_char=543
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	start_char=544|end_char=546
+4	множить	множить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	advcl	_	start_char=547|end_char=554
+5	,	,	PUNCT	_	_	4	punct	_	start_char=554|end_char=555
+6	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=556|end_char=558
+7	готовы	готовый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	start_char=559|end_char=565
+8	укокошить	укокошить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	start_char=566|end_char=575
+9	Всех	весь	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	10	det	_	start_char=576|end_char=580
+10	не-далеков	не-далек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	start_char=581|end_char=591
+11	-	-	PUNCT	_	_	13	punct	_	start_char=592|end_char=593
+12	"	"	PUNCT	_	_	13	punct	_	start_char=594|end_char=595
+13	Ex-ter-mi-nate	Ex-ter-mi-nate	X	_	Foreign=Yes	10	appos	_	start_char=595|end_char=609
+14	!	!	PUNCT	_	_	13	punct	_	start_char=609|end_char=610
+15	"	"	PUNCT	_	_	13	punct	_	start_char=610|end_char=611
+16	.	.	PUNCT	_	_	7	punct	_	start_char=611|end_char=612
+
+# text = Мы отчизны послы, Мы ее послушны воле.
+# sent_id = 10
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=614|end_char=616
+2	отчизны	отчизна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	start_char=617|end_char=624
+3	послы	посл	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	appos	_	start_char=625|end_char=630
+4	,	,	PUNCT	_	_	7	punct	_	start_char=630|end_char=631
+5	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=632|end_char=634
+6	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=635|end_char=637
+7	послушны	послушный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	2	conj	_	start_char=638|end_char=646
+8	воле	воле	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	iobj	_	start_char=647|end_char=651
+9	.	.	PUNCT	_	_	2	punct	_	start_char=651|end_char=652
+
+# text = С нашей песней прошли Мы моря, леса и горы.
+# sent_id = 11
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	С	с	ADP	_	_	3	case	_	start_char=653|end_char=654
+2	нашей	наш	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	start_char=655|end_char=660
+3	песней	песня	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	start_char=661|end_char=667
+4	прошли	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=668|end_char=674
+5	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=675|end_char=677
+6	моря	море	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	start_char=678|end_char=682
+7	,	,	PUNCT	_	_	8	punct	_	start_char=682|end_char=683
+8	леса	лес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	conj	_	start_char=684|end_char=688
+9	и	и	CCONJ	_	_	10	cc	_	start_char=689|end_char=690
+10	горы	гора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	conj	_	start_char=691|end_char=695
+11	.	.	PUNCT	_	_	4	punct	_	start_char=695|end_char=696
+
+# text = Кто там встал на пути?
+# sent_id = 12
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	start_char=698|end_char=701
+2	там	там	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=702|end_char=705
+3	встал	встать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=706|end_char=711
+4	на	на	ADP	_	_	5	case	_	start_char=712|end_char=714
+5	пути	путь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=715|end_char=719
+6	?	?	PUNCT	_	_	3	punct	_	start_char=719|end_char=720
+
+# text = Вас не слишком-то и много!
+# sent_id = 13
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	obj	_	start_char=721|end_char=724
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	start_char=725|end_char=727
+3	слишком	слишком	ADV	_	Degree=Pos	4	advmod	_	start_char=728|end_char=735
+4	-то	-то	PART	_	_	0	root	_	start_char=735|end_char=738
+5	и	и	CCONJ	_	_	6	cc	_	start_char=739|end_char=740
+6	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	4	conj	_	start_char=741|end_char=746
+7	!	!	PUNCT	_	_	4	punct	_	start_char=746|end_char=747
+
+# text = Шансов нет у вас уйти - Закатаем всех в дорогу!
+# sent_id = 14
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Шансов	шанс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	start_char=748|end_char=754
+2	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=755|end_char=758
+3	у	у	ADP	_	_	4	case	_	start_char=759|end_char=760
+4	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	obl	_	start_char=761|end_char=764
+5	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=765|end_char=769
+6	-	-	PUNCT	_	_	7	punct	_	start_char=770|end_char=771
+7	Закатаем	закатать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=773|end_char=781
+8	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	7	obj	_	start_char=782|end_char=786
+9	в	в	ADP	_	_	10	case	_	start_char=787|end_char=788
+10	дорогу	дорога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=789|end_char=795
+11	!	!	PUNCT	_	_	2	punct	_	start_char=795|end_char=796
+
+# text = Кто там встал на пути?
+# sent_id = 15
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int	3	nsubj	_	start_char=797|end_char=800
+2	там	там	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	start_char=801|end_char=804
+3	встал	встать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=805|end_char=810
+4	на	на	ADP	_	_	5	case	_	start_char=811|end_char=813
+5	пути	путь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	start_char=814|end_char=818
+6	?	?	PUNCT	_	_	3	punct	_	start_char=818|end_char=819
+
+# text = Шансов нет у вас уйти - Закатаем вас в дорогу!
+# sent_id = 16
+# metadata = Название: Походная песня далеков, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/5452dbed00000a7d1de5873d/1/Pohodnaya-pesnya-dalekov
+1	Шансов	шанс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	start_char=820|end_char=826
+2	нет	нет	VERB	_	Polarity=Neg	0	root	_	start_char=827|end_char=830
+3	у	у	ADP	_	_	4	case	_	start_char=831|end_char=832
+4	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	obl	_	start_char=833|end_char=836
+5	уйти	уйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	start_char=837|end_char=841
+6	-	-	PUNCT	_	_	7	punct	_	start_char=842|end_char=843
+7	Закатаем	закатать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	start_char=845|end_char=853
+8	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	obj	_	start_char=854|end_char=857
+9	в	в	ADP	_	_	10	case	_	start_char=858|end_char=859
+10	дорогу	дорога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	start_char=860|end_char=866
+11	!	!	PUNCT	_	_	2	punct	_	start_char=866|end_char=867
+
