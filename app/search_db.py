@@ -73,9 +73,12 @@ def search_db(request):
     result = {}
     
     for i in range(len(ids) - 1):
-        result = merge_sequence(ids[i], ids[i+1], result if not flag else {})
-        flag = False
-    
+        if flag:
+            result = merge_sequence(ids[i], ids[i+1], {})
+            flag = False
+        else:
+            result = merge_sequence([],ids[i+1],result)
+
     if result:
         keys = list(result.keys())
         output = []
