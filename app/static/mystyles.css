@@ -1,0 +1,8 @@
+body {
+background: rgb(76,6,170);
+background: linear-gradient(90deg, rgba(76,6,170,0.6834383411567753) 0%, rgba(124,0,255,0.3136904419971114) 93%);
+  font-family: 'Philosopher', sans-serif;
+}
+code{
+color: black
+}
