@@ -1,0 +1,241 @@
+# text = Мы себя по Доктору правим, Чтобы блюсти чистоту в гвардии.
+# sent_id = 0
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=65|end_char=67
+2	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	obj	_	start_char=68|end_char=72
+3	по	по	ADP	_	_	4	case	_	start_char=73|end_char=75
+4	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	obl	_	start_char=76|end_char=83
+5	правим	править	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=84|end_char=90
+6	,	,	PUNCT	_	_	8	punct	_	start_char=90|end_char=91
+7	Чтобы	чтобы	SCONJ	_	Mood=Cnd	8	mark	_	start_char=92|end_char=97
+8	блюсти	блюсти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	advcl	_	start_char=98|end_char=104
+9	чистоту	чистота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	start_char=105|end_char=112
+10	в	в	ADP	_	_	11	case	_	start_char=113|end_char=114
+11	гвардии	гвардия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	start_char=115|end_char=122
+12	.	.	PUNCT	_	_	5	punct	_	start_char=122|end_char=123
+
+# text = К Культу Скаро проникся симпатией?
+# sent_id = 1
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	К	к	ADP	_	_	2	case	_	start_char=124|end_char=125
+2	Культу	культ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	_	start_char=126|end_char=132
+3	Скаро	Скаро	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	start_char=133|end_char=138
+4	проникся	прониксться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	start_char=139|end_char=147
+5	симпатией	симпатия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	iobj	_	start_char=148|end_char=157
+6	?	?	PUNCT	_	_	4	punct	_	start_char=157|end_char=158
+
+# text = Вырезать всех и стереть из памяти.
+# sent_id = 2
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Вырезать	вырезать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	start_char=159|end_char=167
+2	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	1	obj	_	start_char=168|end_char=172
+3	и	и	CCONJ	_	_	4	cc	_	start_char=173|end_char=174
+4	стереть	стереть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	start_char=175|end_char=182
+5	из	из	ADP	_	_	6	case	_	start_char=183|end_char=185
+6	памяти	память	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	start_char=186|end_char=192
+7	.	.	PUNCT	_	_	1	punct	_	start_char=192|end_char=193
+
+# text = https://img-fotki.yandex.ru/get/9068/341219.4/0_af30a_4a0aa15f_orig Мы лидера по Доктору тестим, Чтоб был умен и непредсказуем.
+# sent_id = 3
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	https://img-fotki.yandex.ru/get/9068/341219.4/0_af30a_4a0aa15f_orig	https://img-fotki.yandex.ru/get/9068/341219.4/0_af30a_4a0aa15f_orig	X	_	Foreign=Yes	0	root	_	start_char=194|end_char=261
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	start_char=263|end_char=265
+3	лидера	лидер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	start_char=266|end_char=272
+4	по	по	ADP	_	_	5	case	_	start_char=273|end_char=275
+5	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	start_char=276|end_char=283
+6	тестим	тестим	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	start_char=284|end_char=290
+7	,	,	PUNCT	_	_	10	punct	_	start_char=290|end_char=291
+8	Чтоб	чтоб	SCONJ	_	_	10	mark	_	start_char=292|end_char=296
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	start_char=297|end_char=300
+10	умен	умен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	advcl	_	start_char=301|end_char=305
+11	и	и	CCONJ	_	_	12	cc	_	start_char=306|end_char=307
+12	непредсказуем	непредсказой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	conj	_	start_char=308|end_char=321
+13	.	.	PUNCT	_	_	1	punct	_	start_char=321|end_char=322
+
+# text = Жаль, они не стыкуются вместе.
+# sent_id = 4
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Жаль	жаль	VERB	_	_	5	parataxis	_	start_char=323|end_char=327
+2	,	,	PUNCT	_	_	1	punct	_	start_char=327|end_char=328
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=329|end_char=332
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	start_char=333|end_char=335
+5	стыкуются	стыкаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	start_char=336|end_char=345
+6	вместе	вместе	ADV	_	Degree=Pos	5	advmod	_	start_char=346|end_char=352
+7	.	.	PUNCT	_	_	5	punct	_	start_char=352|end_char=353
+
+# text = Нового делать с нуля будем.
+# sent_id = 5
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Нового	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	obj	_	start_char=354|end_char=360
+2	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	start_char=361|end_char=367
+3	с	с	ADP	_	_	4	case	_	start_char=368|end_char=369
+4	нуля	нуля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	start_char=370|end_char=374
+5	будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	aux	_	start_char=375|end_char=380
+6	.	.	PUNCT	_	_	2	punct	_	start_char=380|end_char=381
+
+# text = https://img-fotki.yandex.ru/get/9319/341219.4/0_af30b_2153981f_orig Мы по Доктору уточняем, Мастеру принести чтоб больше пользы: Если Доктор сидит в печали - Значит, Мастер будет доволен!
+# sent_id = 6
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	https://img-fotki.yandex.ru/get/9319/341219.4/0_af30b_2153981f_orig	https://img-fotki.yandex.ru/get/9319/341219.4/0_af30b_2153981f_orig	X	_	Foreign=Yes	5	nsubj	_	start_char=382|end_char=449
+2	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=451|end_char=453
+3	по	по	ADP	_	_	4	case	_	start_char=454|end_char=456
+4	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	obl	_	start_char=457|end_char=464
+5	уточняем	уточнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=465|end_char=473
+6	,	,	PUNCT	_	_	8	punct	_	start_char=473|end_char=474
+7	Мастеру	мастер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	start_char=475|end_char=482
+8	принести	принести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	start_char=483|end_char=491
+9	чтоб	чтоб	SCONJ	_	Mood=Cnd	10	mark	_	start_char=492|end_char=496
+10	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	8	advmod	_	start_char=497|end_char=503
+11	пользы	польза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	start_char=504|end_char=510
+12	:	:	PUNCT	_	_	23	punct	_	start_char=510|end_char=511
+13	Если	если	SCONJ	_	_	15	mark	_	start_char=512|end_char=516
+14	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	start_char=517|end_char=523
+15	сидит	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	start_char=524|end_char=529
+16	в	в	ADP	_	_	17	case	_	start_char=530|end_char=531
+17	печали	печаль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	start_char=532|end_char=538
+18	-	-	PUNCT	_	_	15	punct	_	start_char=539|end_char=540
+19	Значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	parataxis	_	start_char=541|end_char=547
+20	,	,	PUNCT	_	_	19	punct	_	start_char=547|end_char=548
+21	Мастер	мастер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	start_char=549|end_char=555
+22	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	23	cop	_	start_char=556|end_char=561
+23	доволен	довольный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	parataxis	_	start_char=562|end_char=569
+24	!	!	PUNCT	_	_	5	punct	_	start_char=569|end_char=570
+
+# text = https://img-fotki.yandex.ru/get/9113/341219.4/0_af30d_bc8a67e9_orig Я по Доктору сразу вижу: Явился - план мой хорош.
+# sent_id = 7
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	https://img-fotki.yandex.ru/get/9113/341219.4/0_af30d_bc8a67e9_orig	https://img-fotki.yandex.ru/get/9113/341219.4/0_af30d_bc8a67e9_orig	X	_	Foreign=Yes	6	vocative	_	start_char=571|end_char=638
+2	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=640|end_char=641
+3	по	по	ADP	_	_	4	case	_	start_char=642|end_char=644
+4	Доктору	доктор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	start_char=645|end_char=652
+5	сразу	сразу	ADV	_	Degree=Pos	6	advmod	_	start_char=653|end_char=658
+6	вижу	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=659|end_char=663
+7	:	:	PUNCT	_	_	8	punct	_	start_char=663|end_char=664
+8	Явился	явиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	parataxis	_	start_char=665|end_char=671
+9	-	-	PUNCT	_	_	12	punct	_	start_char=672|end_char=673
+10	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	start_char=674|end_char=678
+11	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	start_char=679|end_char=682
+12	хорош	хороший	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	parataxis	_	start_char=683|end_char=688
+13	.	.	PUNCT	_	_	6	punct	_	start_char=688|end_char=689
+
+# text = Был.
+# sent_id = 8
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=690|end_char=693
+2	.	.	PUNCT	_	_	1	punct	_	start_char=693|end_char=694
+
+# text = Планы мне он портит, как дышит, Уж лучше б он про меня забыл!
+# sent_id = 9
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Планы	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	start_char=695|end_char=700
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	start_char=701|end_char=704
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=705|end_char=707
+4	портит	портить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	start_char=708|end_char=714
+5	,	,	PUNCT	_	_	7	punct	_	start_char=714|end_char=715
+6	как	как	SCONJ	_	_	7	mark	_	start_char=716|end_char=719
+7	дышит	дышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	start_char=720|end_char=725
+8	,	,	PUNCT	_	_	15	punct	_	start_char=725|end_char=726
+9	Уж	уж	PART	_	_	10	advmod	_	start_char=727|end_char=729
+10	лучше	хороший	ADJ	_	Degree=Cmp	15	advmod	_	start_char=730|end_char=735
+11	б	б	AUX	_	Mood=Cnd	10	aux	_	start_char=736|end_char=737
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=738|end_char=740
+13	про	про	ADP	_	_	14	case	_	start_char=741|end_char=744
+14	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obl	_	start_char=745|end_char=749
+15	забыл	забыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	start_char=750|end_char=755
+16	!	!	PUNCT	_	_	4	punct	_	start_char=755|end_char=756
+
+# text = https://img-fotki.yandex.ru/get/9312/341219.4/0_af30c_85e857a0_orig
+# sent_id = 10
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	https://img-fotki.yandex.ru/get/9312/341219.4/0_af30c_85e857a0_orig	https://img-fotki.yandex.ru/get/9312/341219.4/0_af30c_85e857a0_orig	X	_	Foreign=Yes	0	root	_	start_char=757|end_char=824
+
+# text = Токлафаны, кибермены, далеки.
+# sent_id = 11
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Токлафаны	токлафан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	start_char=891|end_char=900
+2	,	,	PUNCT	_	_	3	punct	_	start_char=900|end_char=901
+3	кибермены	кибермен	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	start_char=902|end_char=911
+4	,	,	PUNCT	_	_	5	punct	_	start_char=911|end_char=912
+5	далеки	далекий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	1	conj	_	start_char=913|end_char=919
+6	.	.	PUNCT	_	_	1	punct	_	start_char=919|end_char=920
+
+# text = Коль о сексе мысли все, Ходишь словно пьяный - К себе такого не возьмут Ребята-токлафаны.
+# sent_id = 12
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Коль	коль	SCONJ	_	_	3	mark	_	start_char=922|end_char=926
+2	о	о	ADP	_	_	3	case	_	start_char=927|end_char=928
+3	сексе	секс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	start_char=929|end_char=934
+4	мысли	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	start_char=935|end_char=940
+5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	det	_	start_char=941|end_char=944
+6	,	,	PUNCT	_	_	7	punct	_	start_char=944|end_char=945
+7	Ходишь	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	start_char=947|end_char=953
+8	словно	словно	SCONJ	_	_	9	case	_	start_char=954|end_char=960
+9	пьяный	пьяный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	start_char=961|end_char=967
+10	-	-	PUNCT	_	_	7	punct	_	start_char=968|end_char=969
+11	К	к	ADP	_	_	12	case	_	start_char=970|end_char=971
+12	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	15	obl	_	start_char=972|end_char=976
+13	такого	такой	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	obj	_	start_char=977|end_char=983
+14	не	не	PART	_	Polarity=Neg	15	advmod	_	start_char=984|end_char=986
+15	возьмут	взять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=987|end_char=994
+16	Ребята	ребята	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	15	nsubj	_	start_char=995|end_char=1001
+17	-	-	PUNCT	_	_	18	punct	_	start_char=1001|end_char=1002
+18	токлафаны	токлафан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	appos	_	start_char=1002|end_char=1011
+19	.	.	PUNCT	_	_	15	punct	_	start_char=1011|end_char=1012
+
+# text = https://img-fotki.yandex.ru/get/9325/341219.4/0_adfae_cbfb8cf5_orig "Если ты развесил Сопли-ангст по стенам - То несовместим ты!"
+# sent_id = 13
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	https://img-fotki.yandex.ru/get/9325/341219.4/0_adfae_cbfb8cf5_orig	https://img-fotki.yandex.ru/get/9325/341219.4/0_adfae_cbfb8cf5_orig	X	_	Foreign=Yes	11	vocative	_	start_char=1013|end_char=1080
+2	"	"	PUNCT	_	_	5	punct	_	start_char=1082|end_char=1083
+3	Если	если	SCONJ	_	_	5	mark	_	start_char=1083|end_char=1087
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=1088|end_char=1090
+5	развесил	развесить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	start_char=1091|end_char=1099
+6	Сопли-ангст	Сопли-ангст	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	5	nsubj	_	start_char=1100|end_char=1111
+7	по	по	ADP	_	_	8	case	_	start_char=1112|end_char=1114
+8	стенам	стена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	obl	_	start_char=1115|end_char=1121
+9	-	-	PUNCT	_	_	5	punct	_	start_char=1122|end_char=1123
+10	То	то	SCONJ	_	_	11	mark	_	start_char=1124|end_char=1126
+11	несовместим	несовместий	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1127|end_char=1138
+12	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=1139|end_char=1141
+13	!	!	PUNCT	_	_	11	punct	_	start_char=1141|end_char=1142
+14	"	"	PUNCT	_	_	11	punct	_	start_char=1142|end_char=1143
+
+# text = Скажут кибермены.
+# sent_id = 14
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	Скажут	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	start_char=1144|end_char=1150
+2	кибермены	кибермен	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	start_char=1151|end_char=1160
+3	.	.	PUNCT	_	_	1	punct	_	start_char=1160|end_char=1161
+
+# text = https://img-fotki.yandex.ru/get/9502/341219.4/0_adfb0_f954b1ce_orig "Если ты стыдливо Скрыл плакатик с нами - Ты нас недостоин!"
+# sent_id = 15
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	https://img-fotki.yandex.ru/get/9502/341219.4/0_adfb0_f954b1ce_orig	https://img-fotki.yandex.ru/get/9502/341219.4/0_adfb0_f954b1ce_orig	X	_	Foreign=Yes	13	vocative	_	start_char=1162|end_char=1229
+2	"	"	PUNCT	_	_	6	punct	_	start_char=1231|end_char=1232
+3	Если	если	SCONJ	_	_	6	mark	_	start_char=1232|end_char=1236
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=1237|end_char=1239
+5	стыдливо	стыдливо	ADV	_	Degree=Pos	6	advmod	_	start_char=1240|end_char=1248
+6	Скрыл	скрыть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	start_char=1249|end_char=1254
+7	плакатик	плакатик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	start_char=1255|end_char=1263
+8	с	с	ADP	_	_	9	case	_	start_char=1264|end_char=1265
+9	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	6	obl	_	start_char=1266|end_char=1270
+10	-	-	PUNCT	_	_	6	punct	_	start_char=1271|end_char=1272
+11	Ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=1274|end_char=1276
+12	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obj	_	start_char=1277|end_char=1280
+13	недостоин	недостоинский	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	start_char=1281|end_char=1290
+14	!	!	PUNCT	_	_	13	punct	_	start_char=1290|end_char=1291
+15	"	"	PUNCT	_	_	6	punct	_	start_char=1291|end_char=1292
+
+# text = - Далеки сказали.
+# sent_id = 16
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	-	-	PUNCT	_	_	3	punct	_	start_char=1293|end_char=1294
+2	Далеки	далеки	ADV	_	Degree=Pos	3	advmod	_	start_char=1295|end_char=1301
+3	сказали	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	start_char=1302|end_char=1309
+4	.	.	PUNCT	_	_	3	punct	_	start_char=1309|end_char=1310
+
+# text = https://img-fotki.yandex.ru/get/9152/341219.4/0_adfaf_8ccdc36c_orig
+# sent_id = 17
+# metadata = Название: Агитационные плакаты, автор: Мисс Жуть, ссылка: https://ru.fanfiktion.net/s/54ab107c00000a7d2b2a5538/1/Agitacionnye-plakaty
+1	https://img-fotki.yandex.ru/get/9152/341219.4/0_adfaf_8ccdc36c_orig	https://img-fotki.yandex.ru/get/9152/341219.4/0_adfaf_8ccdc36c_orig	X	_	Foreign=Yes	0	root	_	start_char=1311|end_char=1378
+
